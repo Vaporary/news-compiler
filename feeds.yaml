@@ -1,0 +1,50 @@
+categories:
+  Biotech:
+  - https://www.statnews.com/feed
+  - https://www.fiercebiotech.com/rss/xml
+  - https://www.technologyreview.com/feed/
+  - https://www.fda.gov/about-fda/contact-fda/rss-feeds/press-announcements
+  Engineering & Aerospace:
+  - https://www.engineering.com/rss
+  - https://spacenews.com/feed/
+  - https://www.techbriefs.com/rss/industry
+  - https://aerospaceamerica.aiaa.org/feed/
+  Economics:
+  - https://www.economist.com/finance-and-economics/rss.xml
+  - https://www.nber.org/rss/new.xml
+  - https://www.bloomberg.com/feeds/bbiz
+  Cross-Disciplinary:
+  - https://spectrum.ieee.org/rss/fulltext
+  - https://www.technologyreview.com/feed/
+  - https://www.brookings.edu/topic/technology-innovation/feed/
+keywords:
+  Biotech:
+  - CRISPR
+  - gene therapy
+  - FDA
+  - trial
+  - biologics
+  - mRNA
+  - oncology
+  Engineering & Aerospace:
+  - propulsion
+  - aerospace
+  - hypersonic
+  - robotics
+  - manufacturing
+  - materials
+  Economics:
+  - inflation
+  - GDP
+  - labor
+  - productivity
+  - AI
+  - innovation
+  - venture
+  Cross-Disciplinary:
+  - policy
+  - ethics
+  - regulation
+  - standards
+  - society
+max_items_per_category: 25

@@ -1,0 +1,25 @@
+name: build-daily
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - run: python aggregator.py
+      - run: mkdir -p docs/data && cp templates/index.html docs/index.html && cp data/feed.json docs/data/feed.json
+      - name: Commit & push
+        run: |
+          git config user.name "auto-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/index.html docs/data/feed.json templates/index.html data/feed.json
+          git commit -m "chore: daily build" || echo "nothing to commit"
+          git push
