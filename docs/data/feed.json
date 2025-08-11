@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-08-11T09:17:07.684332+00:00",
+  "generated_at": "2025-08-11T12:56:51.961594+00:00",
   "categories": {
     "Biotech": [
+      {
+        "id": "fdead356d71e0733",
+        "title": "The Download: a quantum radar, and chipmakers\u2019 deal with the US government",
+        "url": "https://www.technologyreview.com/2025/08/11/1121437/the-download-a-quantum-radar-and-chipmakers-deal-with-the-us-government/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 11 Aug 2025 12:10:00 +0000",
+        "published_dt": "2025-08-11T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This quantum radar could image buried objects Physicists have created a new type of radar that could help improve underground imaging, using a cloud of atoms in a glass cell to detect reflected&#8230;"
+      },
+      {
+        "id": "6a2f896a8b028f00",
+        "title": "This quantum radar could image buried objects",
+        "url": "https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 11 Aug 2025 09:00:00 +0000",
+        "published_dt": "2025-08-11T09:00:00+00:00",
+        "summary": "Physicists have created a new type of radar that could help improve underground imaging, using a cloud of atoms in a glass cell to detect reflected radio waves. The radar is a type of quantum sensor, an emerging technology that uses the quantum-mechanical properties of objects as measurement devices. It\u2019s still a prototype, but its&#8230;"
+      },
       {
         "id": "f765718ccefc6e13",
         "title": "Opinion: I just packed Narcan for my daughter\u2019s dorm room. Public health made it possible",
@@ -30,24 +48,6 @@
         "summary": "A STAT Investigation: Inside the research machine that helps UnitedHealth protect its Medicare profits."
       },
       {
-        "id": "6a2f896a8b028f00",
-        "title": "This quantum radar could image buried objects",
-        "url": "https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 11 Aug 2025 09:00:00 +0000",
-        "published_dt": "2025-08-11T09:00:00+00:00",
-        "summary": "Physicists have created a new type of radar that could help improve underground imaging, using a cloud of atoms in a glass cell to detect reflected radio waves. The radar is a type of quantum sensor, an emerging technology that uses the quantum-mechanical properties of objects as measurement devices. It\u2019s still a prototype, but its&#8230;"
-      },
-      {
-        "id": "bb03a201bd38f096",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-scores-double-phase-3-win-sjogrens-syndrome-succeeding-where-others-failed\" hreflang=\"en\">Novartis scores double phase 3 win in Sj\u00f6gren's syndrome, succeeding where rivals failed</a>",
-        "url": "https://www.fiercebiotech.com/biotech/novartis-scores-double-phase-3-win-sjogrens-syndrome-succeeding-where-others-failed",
-        "source": "Fierce Biotech",
-        "published": "Aug 11, 2025 4:35am",
-        "published_dt": "2025-08-11T04:35:00+00:00",
-        "summary": "Novartis may have abandoned one of its Sj\u00f6gren's syndrome assets this year, but it now looks like the pharma has a winner on its hands."
-      },
-      {
         "id": "cc0faf15f95f50fd",
         "title": "<a href=\"https://www.fiercebiotech.com/pharma/vinay-prasad-back-fda-after-surprise-ouster-will-he-stay-time\" hreflang=\"en\">Vinay Prasad is back at the FDA after last month's surprise ouster. Will he stay this time?</a>",
         "url": "https://www.fiercebiotech.com/pharma/vinay-prasad-back-fda-after-surprise-ouster-will-he-stay-time",
@@ -64,6 +64,15 @@
         "published": "Aug 7, 2025 7:45am",
         "published_dt": "2025-08-07T07:45:00+00:00",
         "summary": "Minghui has secured $131 million for what the company describes as a \u201cpre-IPO\u201d round to fuel the potential launch of its eye drug in China as well as various clinical-stage oncology and immunology assets."
+      },
+      {
+        "id": "bb03a201bd38f096",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-scores-double-phase-3-win-sjogrens-syndrome-succeeding-where-others-failed\" hreflang=\"en\">Novartis scores double phase 3 win in Sj\u00f6gren's syndrome, succeeding where rivals failed</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-scores-double-phase-3-win-sjogrens-syndrome-succeeding-where-others-failed",
+        "source": "Fierce Biotech",
+        "published": "Aug 11, 2025 4:35am",
+        "published_dt": "2025-08-11T04:35:00+00:00",
+        "summary": "Novartis may have abandoned one of its Sj\u00f6gren's syndrome assets this year, but it now looks like the pharma has a winner on its hands."
       },
       {
         "id": "3679a700bf8ce261",
@@ -217,18 +226,81 @@
         "published": "Fri, 08 Aug 2025 22:20:16 +0000",
         "published_dt": "2025-08-08T22:20:16+00:00",
         "summary": "The Trump administration escalates its fight with Harvard, beginning the \"march-in\" process involving patent ownership."
-      },
-      {
-        "id": "be0046602480f921",
-        "title": "STAT+: Trump executive order seeks to centralize control of grantmaking under political appointees",
-        "url": "https://www.statnews.com/2025/08/08/trump-executive-order-disrupts-science-lawsuits-expected/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 08 Aug 2025 16:21:16 +0000",
-        "published_dt": "2025-08-08T16:21:16+00:00",
-        "summary": "A sweeping new executive order seeks to transform how the federal government awards billions of dollars in research grants"
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "bc2c8bd411675a01",
+        "title": "Japanese space companies embrace IPOs",
+        "url": "https://spacenews.com/japanese-space-companies-embrace-ipos/",
+        "source": "SpaceNews",
+        "published": "Mon, 11 Aug 2025 12:00:00 +0000",
+        "published_dt": "2025-08-11T12:00:00+00:00",
+        "summary": "<figure><img alt=\"ADRAS-J illustration\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"697\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/adrasj-illus.jpg?fit=1024%2C697&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Space companies are going public again. In June, Voyager Technologies conducted an initial public offering (IPO) on the New York Stock Exchange, raising $440 million, much of which will be used to support its proposed Starlab commercial space station. A few weeks later, Firefly Aerospace announced its intent to conduct an IPO, one that could [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/japanese-space-companies-embrace-ipos/\">Japanese space companies embrace IPOs</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "0530b585c4d73712",
+        "title": "First DiskSats to take flight in 2025",
+        "url": "https://spacenews.com/first-disksats-to-take-flight-in-2025/",
+        "source": "SpaceNews",
+        "published": "Mon, 11 Aug 2025 12:00:00 +0000",
+        "published_dt": "2025-08-11T12:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"495\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/rsz_disksat_xlab_20250326-bert-377.jpg?fit=879%2C495&amp;ssl=1\" width=\"879\" /></figure>\n<p>SALT LAKE CITY \u2013 The Aerospace Corp. is preparing to send the first DiskSats to orbit later this year to demonstrate the performance and maneuverability of the small satellites. The four DiskSats that were expected to travel to orbit in 2026 though the Space Force Space Test Program are now set to launch by the [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/first-disksats-to-take-flight-in-2025/\">First DiskSats to take flight in 2025</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "649df13a9e3379ba",
+        "title": "Redwire pushes into space pharmaceutical business",
+        "url": "https://spacenews.com/redwire-pushes-into-space-pharmaceutical-business/",
+        "source": "SpaceNews",
+        "published": "Mon, 11 Aug 2025 11:40:35 +0000",
+        "published_dt": "2025-08-11T11:40:35+00:00",
+        "summary": "<figure><img alt=\"Redwire PIL-BOX\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/redwire-pilbox.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Redwire is making a bigger push into space pharmaceutical development with a new business entity devoted to the field.</p>\n<p>The post <a href=\"https://spacenews.com/redwire-pushes-into-space-pharmaceutical-business/\">Redwire pushes into space pharmaceutical business</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "65465b2165c89995",
+        "title": "Renishaw to debut new NC4+ Blue laser tool setters at EMO 2025",
+        "url": "https://www.engineering.com/renishaw-to-debut-new-nc4-blue-laser-tool-setters-at-emo-2025/",
+        "source": "Engineering.com",
+        "published": "Mon, 11 Aug 2025 11:29:45 +0000",
+        "published_dt": "2025-08-11T11:29:45+00:00",
+        "summary": "<p>NC4+ Blue F100 models deliver repeatability of 0.1\u00b5 2\u03c3, enabling precise measurement of ultra-fine tools and early detection of defects as small as 5\u00b5. </p>\n<p>The post <a href=\"https://www.engineering.com/renishaw-to-debut-new-nc4-blue-laser-tool-setters-at-emo-2025/\">Renishaw to debut new NC4+ Blue laser tool setters at EMO 2025</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "6b54f8fb9c697841",
+        "title": "MIPI Alliance releases I3C Basic v1.2 utility and control bus interface",
+        "url": "https://www.engineering.com/mipi-alliance-releases-i3c-basic-v1-2-utility-and-control-bus-interface/",
+        "source": "Engineering.com",
+        "published": "Mon, 11 Aug 2025 11:15:00 +0000",
+        "published_dt": "2025-08-11T11:15:00+00:00",
+        "summary": "<p>MIPI I3C Basic, a royalty-free subset of MIPI I3C, improves on I2C, SPI, and UART with better performance, efficiency, and features.</p>\n<p>The post <a href=\"https://www.engineering.com/mipi-alliance-releases-i3c-basic-v1-2-utility-and-control-bus-interface/\">MIPI Alliance releases I3C Basic v1.2 utility and control bus interface</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "cbde804e0835cd87",
+        "title": "CONTACT acquires majority stake in neusta Mobile",
+        "url": "https://www.engineering.com/contact-acquires-majority-stake-in-neusta-mobile/",
+        "source": "Engineering.com",
+        "published": "Mon, 11 Aug 2025 11:07:14 +0000",
+        "published_dt": "2025-08-11T11:07:14+00:00",
+        "summary": "<p>CONTACT Software boosts innovation capabilities and expands mobile application offerings through this investment in digital transformation.</p>\n<p>The post <a href=\"https://www.engineering.com/contact-acquires-majority-stake-in-neusta-mobile/\">CONTACT acquires majority stake in neusta Mobile</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "c4b6dc494550eb2a",
+        "title": "Elegoo launches Nexprint million-dollar creator fund to reward original content",
+        "url": "https://www.engineering.com/elegoo-launches-nexprint-million-dollar-creator-fund-to-reward-original-content/",
+        "source": "Engineering.com",
+        "published": "Mon, 11 Aug 2025 10:10:20 +0000",
+        "published_dt": "2025-08-11T10:10:20+00:00",
+        "summary": "<p>This is the first seven-digit fund to help creators earn from original 3D model designs.</p>\n<p>The post <a href=\"https://www.engineering.com/elegoo-launches-nexprint-million-dollar-creator-fund-to-reward-original-content/\">Elegoo launches Nexprint million-dollar creator fund to reward original content</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "e8cc82a7958b2376",
+        "title": "Chinese launch startup unveils autonomous rocket recovery ship",
+        "url": "https://spacenews.com/chinese-launch-startup-unveils-autonomous-rocket-recovery-ship/",
+        "source": "SpaceNews",
+        "published": "Mon, 11 Aug 2025 10:07:49 +0000",
+        "published_dt": "2025-08-11T10:07:49+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"570\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/Interstellar-Return-recovery-drone-launched-5aug2025-ispace.jpg?fit=1024%2C570&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Chinese launch startup iSpace has launched the nation\u2019s first rocket recovery ship, marking a major step toward offshore reusable rocket operations.</p>\n<p>The post <a href=\"https://spacenews.com/chinese-launch-startup-unveils-autonomous-rocket-recovery-ship/\">Chinese launch startup unveils autonomous rocket recovery ship</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
       {
         "id": "095b51aebb9f3409",
         "title": "A \u2018fluffy\u2019 trap: These researchers might have figured out why planetary rovers keep getting stuck",
@@ -266,24 +338,6 @@
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/09-27-2023-hf-12-062-scaled.webp?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA official says agency innovations in rocket propulsion, AI, and testing infrastructure could could support Golden Dome missile defense initiative</p>\n<p>The post <a href=\"https://spacenews.com/nasa-marshall-offers-dual-use-tech-for-golden-dome-missile-defense-program/\">NASA Marshall offers dual-use tech for Golden Dome missile defense program</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "9ebeac259a6f95d2",
-        "title": "What regulations or standards govern sustainable practices in aerospace?",
-        "url": "https://www.engineering.com/what-regulations-or-standards-govern-sustainable-practices-in-aerospace/",
-        "source": "Engineering.com",
-        "published": "Thu, 07 Aug 2025 21:26:52 +0000",
-        "published_dt": "2025-08-07T21:26:52+00:00",
-        "summary": "<p>Aerospace sustainability practices are governed by regulations and standards developed by several different organizations. Here is a non-exhaustive overview of key regulations and standards, categorized by organization.</p>\n<p>The post <a href=\"https://www.engineering.com/what-regulations-or-standards-govern-sustainable-practices-in-aerospace/\">What regulations or standards govern sustainable practices in aerospace?</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "8b0b43399e0609db",
-        "title": "Apple announces $100B American Manufacturing Program",
-        "url": "https://www.engineering.com/apple-announces-100b-american-manufacturing-program/",
-        "source": "Engineering.com",
-        "published": "Thu, 07 Aug 2025 15:00:22 +0000",
-        "published_dt": "2025-08-07T15:00:22+00:00",
-        "summary": "<p>CEO Tim Cook says the new plan is part of a $600 billion, four-year U.S. investment strategy that will support 450,000 jobs.</p>\n<p>The post <a href=\"https://www.engineering.com/apple-announces-100b-american-manufacturing-program/\">Apple announces $100B American Manufacturing Program</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
         "id": "a67866d6677e1534",
         "title": "Tendeg completes construction of purpose-built antenna manufacturing facility for proliferated constellations",
         "url": "https://spacenews.com/tendeg-completes-construction-of-purpose-built-antenna-manufacturing-facility-for-proliferated-constellations/",
@@ -291,15 +345,6 @@
         "published": "Thu, 07 Aug 2025 14:48:58 +0000",
         "published_dt": "2025-08-07T14:48:58+00:00",
         "summary": "<figure><img alt=\"Tendeg logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1000\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/Tendeg-Logospacenews.png?fit=1000%2C1000&amp;ssl=1\" width=\"1000\" /></figure>\n<p>Louisville, CO \u2013 July 30, 2025 \u2014 Tendeg, a leader in deployable antenna systems for space, has completed construction of Innovation Drive, a 120,000 square foot facility purpose built to [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/tendeg-completes-construction-of-purpose-built-antenna-manufacturing-facility-for-proliferated-constellations/\">Tendeg completes construction of purpose-built antenna manufacturing facility for proliferated constellations</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "427bde504b785a2d",
-        "title": "Virgin Galactic slips schedule for commercial spaceplane service",
-        "url": "https://spacenews.com/virgin-galactic-slips-schedule-for-commercial-spaceplane-service/",
-        "source": "SpaceNews",
-        "published": "Thu, 07 Aug 2025 03:07:00 +0000",
-        "published_dt": "2025-08-07T03:07:00+00:00",
-        "summary": "<figure><img alt=\"LV-X\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"523\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/lv-x.jpeg?fit=1024%2C523&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Virgin Galactic is pushing back slightly the beginning of commercial flights of its Delta-class suborbital spaceplanes next year as it deals with a manufacturing issue.</p>\n<p>The post <a href=\"https://spacenews.com/virgin-galactic-slips-schedule-for-commercial-spaceplane-service/\">Virgin Galactic slips schedule for commercial spaceplane service</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "ab45b0a356d50b28",
@@ -408,51 +453,6 @@
         "published": "Fri, 08 Aug 2025 11:00:00 +0000",
         "published_dt": "2025-08-08T11:00:00+00:00",
         "summary": "<figure><img alt=\"A SpaceX illustration of Starship launching from a city on Mars. Credit: SpaceX\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/mars_carousel2_card1_d.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>As government programs and private ventures lay the groundwork for a sustained presence on the moon, a handful of commercial space pioneers are starting to turn their attention further afield. Mars promises a new frontier for commerce, spanning resource extraction to scientific services, even as its commercial viability remains far more distant and uncertain than [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/what-will-convince-investors-to-bet-on-the-martian-frontier/\">What will convince investors to bet on the Martian frontier?</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "b9799c98b25a823b",
-        "title": "Muon Space unveils MuSat XL satellite platform",
-        "url": "https://www.engineering.com/muon-space-unveils-musat-xl-satellite-platform/",
-        "source": "Engineering.com",
-        "published": "Fri, 08 Aug 2025 09:52:00 +0000",
-        "published_dt": "2025-08-08T09:52:00+00:00",
-        "summary": "<p>The debut of MuSat XL signals a leap forward in satellite capability, powering Hubble's global BLE network.</p>\n<p>The post <a href=\"https://www.engineering.com/muon-space-unveils-musat-xl-satellite-platform/\">Muon Space unveils MuSat XL satellite platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "8f930375a95d5eb7",
-        "title": "Lexar DDR5 RDIMMs certified for AMD Ryzen Threadripper 9000",
-        "url": "https://www.engineering.com/lexar-ddr5-rdimms-certified-for-amd-ryzen-threadripper-9000/",
-        "source": "Engineering.com",
-        "published": "Fri, 08 Aug 2025 09:49:00 +0000",
-        "published_dt": "2025-08-08T09:49:00+00:00",
-        "summary": "<p>BG series DDR5 RDIMMs designated as the official memory configuration for AMD Ryzen Threadripper 9000-Series workstation systems.</p>\n<p>The post <a href=\"https://www.engineering.com/lexar-ddr5-rdimms-certified-for-amd-ryzen-threadripper-9000/\">Lexar DDR5 RDIMMs certified for AMD Ryzen Threadripper 9000</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "3c931c9314f739d2",
-        "title": "COMSOL Conference 2025 Boston keynote speakers announced",
-        "url": "https://www.engineering.com/comsol-conference-2025-boston-keynote-speakers-announced/",
-        "source": "Engineering.com",
-        "published": "Fri, 08 Aug 2025 08:25:00 +0000",
-        "published_dt": "2025-08-08T08:25:00+00:00",
-        "summary": "<p>Keynote speakers from AltaSim Technologies, Amazon Lab126, Conagra Brands, MIT, NASA Ames Research Center, and Tokyo Electron US (TEL) are set to take the stage at the COMSOL Conference.</p>\n<p>The post <a href=\"https://www.engineering.com/comsol-conference-2025-boston-keynote-speakers-announced/\">COMSOL Conference 2025 Boston keynote speakers announced</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "6e43fd6983d02bfc",
-        "title": "ULA forecasts nine launches in 2025 but sharp increase for 2026",
-        "url": "https://spacenews.com/ula-forecasts-nine-launches-in-2025-but-sharp-increase-for-2026/",
-        "source": "SpaceNews",
-        "published": "Thu, 07 Aug 2025 19:30:10 +0000",
-        "published_dt": "2025-08-07T19:30:10+00:00",
-        "summary": "<figure><img alt=\"Cert-2 launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/10/54042330091_01aefca9ce_k.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Despite cutting its forecast for launches this year, United Launch Alliance still expects to ramp up to an annual rate of 20 to 25 launches in 2026 and beyond.</p>\n<p>The post <a href=\"https://spacenews.com/ula-forecasts-nine-launches-in-2025-but-sharp-increase-for-2026/\">ULA forecasts nine launches in 2025 but sharp increase for 2026</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "c7de13a82f132d28",
-        "title": "Gluing the Future Together: Robatech\u2019s Journey Through Simulation and Automation",
-        "url": "https://www.engineering.com/gluing-the-future-together-robatechs-journey-through-simulation-and-automation/",
-        "source": "Engineering.com",
-        "published": "Thu, 07 Aug 2025 18:08:34 +0000",
-        "published_dt": "2025-08-07T18:08:34+00:00",
-        "summary": "<p>How a niche-industry powerhouse leverages Solid Edge simulation and in-house automation to deliver more efficiently for customers.</p>\n<p>The post <a href=\"https://www.engineering.com/gluing-the-future-together-robatechs-journey-through-simulation-and-automation/\">Gluing the Future Together: Robatech\u2019s Journey Through Simulation and Automation</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       }
     ],
     "Economics": [
@@ -684,6 +684,15 @@
     ],
     "Cross-Disciplinary": [
       {
+        "id": "fdead356d71e0733",
+        "title": "The Download: a quantum radar, and chipmakers\u2019 deal with the US government",
+        "url": "https://www.technologyreview.com/2025/08/11/1121437/the-download-a-quantum-radar-and-chipmakers-deal-with-the-us-government/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 11 Aug 2025 12:10:00 +0000",
+        "published_dt": "2025-08-11T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This quantum radar could image buried objects Physicists have created a new type of radar that could help improve underground imaging, using a cloud of atoms in a glass cell to detect reflected&#8230;"
+      },
+      {
         "id": "6a2f896a8b028f00",
         "title": "This quantum radar could image buried objects",
         "url": "https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/",
@@ -898,15 +907,6 @@
         "published": "Tue, 05 Aug 2025 17:00:00 +0000",
         "published_dt": "2025-08-05T17:00:00+00:00",
         "summary": "OpenAI has finally released its first open-weight large language models since 2019\u2019s GPT-2. These new \u201cgpt-oss\u201d models are available in two different sizes and score similarly to the company\u2019s o3-mini and o4-mini models on several benchmarks. Unlike the models available through OpenAI\u2019s web interface, these new open models can be freely downloaded, run, and even&#8230;"
-      },
-      {
-        "id": "d30b0708de3fdcab",
-        "title": "The Download: AI agent infrastructure, and OpenAI\u2019s ambitions",
-        "url": "https://www.technologyreview.com/2025/08/05/1121056/the-download-ai-agent-infrastructure-openai-ambitions/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 05 Aug 2025 12:00:00 +0000",
-        "published_dt": "2025-08-05T12:00:00+00:00",
-        "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These protocols will help AI agents navigate our messy lives A growing number of companies are launching AI agents that can do things on your behalf\u2014actions like sending an email, making a document,&#8230;"
       }
     ]
   }
