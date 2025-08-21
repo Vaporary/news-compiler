@@ -1,96 +1,123 @@
 {
-  "generated_at": "2025-08-20T12:52:02.766435+00:00",
+  "generated_at": "2025-08-21T12:51:31.659447+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "689ed535829f1fff",
-        "title": "STAT+: Former FDA head Stephen Hahn joins radiopharmaceuticals startup as CEO",
-        "url": "https://www.statnews.com/2025/08/20/nucleus-radiopharma-stephen-hahn/?utm_campaign=rss",
+        "id": "bdb143afb69e92cf",
+        "title": "CDC advisory panel member no longer trusts CDC",
+        "url": "https://www.statnews.com/2025/08/21/health-news-epic-cdc-panel-statin-trans-care/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 20 Aug 2025 12:00:00 +0000",
-        "published_dt": "2025-08-20T12:00:00+00:00",
-        "summary": "Former FDA commissioner Stephen Hahn is taking the top spot at radiopharmaceuticals startup."
+        "published": "Thu, 21 Aug 2025 12:04:34 +0000",
+        "published_dt": "2025-08-21T12:04:34+00:00",
+        "summary": "Good morning. We've got a meaty issue for you today. In particular, I urge you to spend some time with Jason Mast's story. It's another heartbreaking chapter of the Sarepta&#8230;"
       },
       {
-        "id": "22e2e769afa71299",
-        "title": "The Download: churches in the age of AI, and how to run an LLM at home",
-        "url": "https://www.technologyreview.com/2025/08/20/1122162/the-download-churches-in-the-age-of-ai-and-how-to-run-an-llm-at-home/",
+        "id": "1b52d808d68f5d34",
+        "title": "The Download: Ukraine\u2019s Starlink repair shop, and predicting solar storms",
+        "url": "https://www.technologyreview.com/2025/08/21/1122298/the-download-ukraines-starlink-repair-shop-and-predicting-solar-storms/",
         "source": "MIT Technology Review",
-        "published": "Wed, 20 Aug 2025 12:10:00 +0000",
-        "published_dt": "2025-08-20T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How churches use data and AI as engines of surveillance On a Sunday morning in a Midwestern megachurch, worshippers step through sliding glass doors into a bustling lobby\u2014unaware they\u2019ve just passed through a&#8230;"
+        "published": "Thu, 21 Aug 2025 12:10:00 +0000",
+        "published_dt": "2025-08-21T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. On the ground in Ukraine\u2019s largest Starlink repair shop Starlink is absolutely critical to Ukraine\u2019s ability to continue in the fight against Russia. It\u2019s how troops in battle zones stay connected with faraway&#8230;"
       },
       {
-        "id": "3486f92f93614eb0",
-        "title": "Material Cultures looks to the past to build the future",
-        "url": "https://www.technologyreview.com/2025/08/20/1121416/material-cultures-architecture-sustainability/",
+        "id": "24d60befb1d72de4",
+        "title": "In a first, Google has released data on how much energy an AI prompt uses",
+        "url": "https://www.technologyreview.com/2025/08/21/1122288/google-gemini-ai-energy/",
         "source": "MIT Technology Review",
-        "published": "Wed, 20 Aug 2025 10:00:00 +0000",
-        "published_dt": "2025-08-20T10:00:00+00:00",
-        "summary": "Despite decades of green certifications, better material sourcing, and the use of more sustainable materials such as mass timber, the built environment is still responsible for a third of global emissions worldwide. According to a 2024 UN report, the building sector has fallen \u201csignificantly behind on progress\u201d toward becoming more sustainable. Changing the way we&#8230;"
+        "published": "Thu, 21 Aug 2025 12:00:00 +0000",
+        "published_dt": "2025-08-21T12:00:00+00:00",
+        "summary": "Google has just released a technical report detailing how much energy its Gemini apps use for each query. In total, the median prompt\u2014one that falls in the middle of the range of energy demand\u2014consumes 0.24 watt-hours of electricity, the equivalent of running a standard microwave for about one second. The company also provided average estimates&#8230;"
       },
       {
-        "id": "fe85f8cdb5cd31bd",
-        "title": "STAT+: GLP-1s, cancer care are driving higher employer health care costs in 2026",
-        "url": "https://www.statnews.com/2025/08/20/health-costs-going-up-heres-why/?utm_campaign=rss",
+        "id": "8945a9fb854e5f7b",
+        "title": "STAT+: FDA \u2018uncertainty\u2019 forces Krystal Biotech to shutter cancer drug trial",
+        "url": "https://www.statnews.com/2025/08/21/krystal-biotech-replimune-group-skin-cancer/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 20 Aug 2025 08:30:00 +0000",
-        "published_dt": "2025-08-20T08:30:00+00:00",
-        "summary": "Health care costs are set to jump again next year, creating a challenge for employers."
+        "published": "Thu, 21 Aug 2025 10:30:00 +0000",
+        "published_dt": "2025-08-21T10:30:00+00:00",
+        "summary": "The FDA's\u00a0controversial rejection\u00a0of a skin cancer therapy from Replimune Group has prompted Krystal Biotech to shut down of a clinical trial involving a similar drug."
       },
       {
-        "id": "8ef8a5d89ab57610",
-        "title": "How AI scribes could usher in higher medical bills",
-        "url": "https://www.statnews.com/2025/08/20/medical-ai-scribes-automatic-insurance-billing-episode-11-status-report/?utm_campaign=rss",
+        "id": "a3744a502d95a753",
+        "title": "STAT+: Soleno Therapeutics responds to short seller\u2019s Prader-Willi drug safety claims",
+        "url": "https://www.statnews.com/2025/08/21/soleno-therapeutics-prader-willi-short-seller/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 20 Aug 2025 08:30:00 +0000",
-        "published_dt": "2025-08-20T08:30:00+00:00",
-        "summary": "In a new episode of the video series STATus Report, we explore how AI scribes could lead to higher medical bills for patients."
+        "published": "Thu, 21 Aug 2025 10:30:00 +0000",
+        "published_dt": "2025-08-21T10:30:00+00:00",
+        "summary": "Soleno Therapeutics CEO responds to a 415-page short-seller report\u00a0alleging safety issues tied to the company's newly approved therapy."
       },
       {
-        "id": "25c0ac1ae0b4b2da",
-        "title": "STAT+: AI scribe companies promise to help doctors bill more. Who will pay the extra cost?",
-        "url": "https://www.statnews.com/2025/08/20/ai-scribe-use-doctors-health-insurance-bills-may-rise/?utm_campaign=rss",
+        "id": "c9356ca20f4e2fe9",
+        "title": "STAT+: As Sarepta Therapeutics fights for Duchenne therapy, a group of patients gets left behind",
+        "url": "https://www.statnews.com/2025/08/21/sarepta-gene-therapy-families-left-behind/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 20 Aug 2025 08:30:00 +0000",
-        "published_dt": "2025-08-20T08:30:00+00:00",
-        "summary": "Like any conscientious health policy PhD student, Paige Nong went to the doctor for her free annual well visit. But as she checked in, the person at the front desk&#8230;"
+        "published": "Thu, 21 Aug 2025 08:30:00 +0000",
+        "published_dt": "2025-08-21T08:30:00+00:00",
+        "summary": "After deaths and FDA setbacks, Sarepta abandoned LGMD gene therapy, leaving families desperate and patients without long-promised treatments."
       },
       {
-        "id": "57065aafda721014",
-        "title": "Opinion: AI should come with green, yellow, and red lights for mental health",
-        "url": "https://www.statnews.com/2025/08/20/chatbot-mental-health-regulation-woebot-labels/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 20 Aug 2025 08:30:00 +0000",
-        "published_dt": "2025-08-20T08:30:00+00:00",
-        "summary": "There is an immediate need for a new, agile process that helps everyday people find safe and trustworthy mental health AI support without stifling innovation."
+        "id": "405542597e6e17ae",
+        "title": "Why recycling isn\u2019t enough to address the plastic problem",
+        "url": "https://www.technologyreview.com/2025/08/21/1122247/recycling-climate-emissions/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 21 Aug 2025 10:00:00 +0000",
+        "published_dt": "2025-08-21T10:00:00+00:00",
+        "summary": "I remember using a princess toothbrush when I was little. The handle was purple, teal, and sparkly. Like most of the other pieces of plastic that have ever been made, it\u2019s probably still out there somewhere, languishing in a landfill. (I just hope it\u2019s not in the ocean.) I\u2019ve been thinking about that toothbrush again&#8230;"
       },
       {
-        "id": "cd2c7807c3010ad9",
-        "title": "Opinion: Republicans and Democrats must agree: Americans deserve price transparency in health care",
-        "url": "https://www.statnews.com/2025/08/20/price-transparency-health-care-bipartisan-bill-roger-marshall/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 20 Aug 2025 08:30:00 +0000",
-        "published_dt": "2025-08-20T08:30:00+00:00",
-        "summary": "Sen. Roger Marshall, a Republican and M.D., explains why he and Democratic Sen. John Hickenlooper came together to sponsor health care transparency legislation."
-      },
-      {
-        "id": "54c745ee7dd380df",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/celldex-ends-esophageal-program-despite-hitting-primary-endpoint\" hreflang=\"en\">Celldex ends esophageal program despite hitting primary endpoint in phase 2 trial</a>",
-        "url": "https://www.fiercebiotech.com/biotech/celldex-ends-esophageal-program-despite-hitting-primary-endpoint",
+        "id": "9d6b2d1153996ab5",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/rocket-launches-fda-hold-uncertainty-about-biotechs-cash-runway-looms\" hreflang=\"en\">Rocket launches from FDA hold, but uncertainty about the biotech\u2019s cash runway looms</a>",
+        "url": "https://www.fiercebiotech.com/biotech/rocket-launches-fda-hold-uncertainty-about-biotechs-cash-runway-looms",
         "source": "Fierce Biotech",
-        "published": "Aug 20, 2025 5:17am",
-        "published_dt": "2025-08-20T05:17:00+00:00",
-        "summary": "Celldex has stopped development of barzolvolimab in eosinophilic esophagitis (EoE) despite meeting its primary endpoint in a phase 2 study. The biotech showed the candidate depletes mast cells in the gastrointestinal tract, but that positive finding was overshadowed by the antibody's failure to improve clinical outcomes."
+        "published": "Aug 20, 2025 10:40am",
+        "published_dt": "2025-08-20T10:40:00+00:00",
+        "summary": "The FDA has freed Rocket Pharmaceuticals from a clinical hold, giving the gene therapy developer permission to take flight with its pivotal cardiomyopathy disease trial."
       },
       {
-        "id": "6c7d012fd7f129cf",
-        "title": "STAT+: FDA delays decision on Regenxbio gene therapy",
-        "url": "https://www.statnews.com/2025/08/19/biotech-news-regenxbio-medicare-viking-cms/?utm_campaign=rss",
+        "id": "1ebea2a556b01140",
+        "title": "Brain map does not change following amputation, new study finds, upending assumptions",
+        "url": "https://www.statnews.com/2025/08/21/study-brain-change-after-amputation-phantom-pain/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 19 Aug 2025 13:52:17 +0000",
-        "published_dt": "2025-08-19T13:52:17+00:00",
-        "summary": "And more biotech news brought to you by The Readout."
+        "published": "Thu, 21 Aug 2025 09:00:00 +0000",
+        "published_dt": "2025-08-21T09:00:00+00:00",
+        "summary": "Neuroscientists have long held that the brain reorganizes itself when a body part is amputated. A new study says that\u2019s not the case."
+      },
+      {
+        "id": "419d86f083ded393",
+        "title": "On the ground in Ukraine\u2019s largest Starlink repair shop",
+        "url": "https://www.technologyreview.com/2025/08/21/1122035/ukraines-largest-starlink-repair-shop/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 21 Aug 2025 09:00:00 +0000",
+        "published_dt": "2025-08-21T09:00:00+00:00",
+        "summary": "Oleh Kovalskyy thinks that Starlink terminals are built as if someone assembled them with their feet. Or perhaps with their hands behind their back.&#160; To demonstrate this last image, Kovalskyy\u2014a large, 47-year-old Ukrainian, clad in sweatpants and with tattoos stretching from his wrists up to his neck\u2014leans over to wiggle his fingers in the air&#8230;"
+      },
+      {
+        "id": "2b288a08e48d1017",
+        "title": "Opinion: Congress must continue to support the VA\u2019s research into psychedelics for PTSD",
+        "url": "https://www.statnews.com/2025/08/21/ptsd-treatment-mdma-psychedelics-therapy-veterans/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 21 Aug 2025 08:30:00 +0000",
+        "published_dt": "2025-08-21T08:30:00+00:00",
+        "summary": "Two members of Congress and a veteran agree: The VA needs to keep up the momentum on psychedelics research."
+      },
+      {
+        "id": "a774b799ac4fd98d",
+        "title": "Opinion: The trauma of illness can last long after the body has healed",
+        "url": "https://www.statnews.com/2025/08/21/illness-trauma-psychology-healing-medicine/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 21 Aug 2025 08:30:00 +0000",
+        "published_dt": "2025-08-21T08:30:00+00:00",
+        "summary": "\u201cThe body can heal while the self remains disconnected\u201d: a psychologist on the overlooked trauma of illness."
+      },
+      {
+        "id": "72639b07d1b05ae4",
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/fda-recommends-all-cancer-clinical-trials-collect-overall-survival-data\" hreflang=\"en\">FDA draft recommends overall survival data collection for all cancer trials</a>",
+        "url": "https://www.fiercebiotech.com/cro/fda-recommends-all-cancer-clinical-trials-collect-overall-survival-data",
+        "source": "Fierce Biotech",
+        "published": "Aug 20, 2025 10:48am",
+        "published_dt": "2025-08-20T10:48:00+00:00",
+        "summary": "More than two years after the Food and Drug Administration held a public workshop on measuring overall survival in cancer clinical trials, the agency has released a draft guidance on the topic, recommending that OS be used as a primary endpoint whenever feasible."
       },
       {
         "id": "fc20075d74f93d90",
@@ -102,13 +129,49 @@
         "summary": "Delays from the Food and Drug Administration continue to pile up, with Maryland-based Regenxbio the latest to report the review of one of its assets has been extended."
       },
       {
-        "id": "8ccbc0ff7f4a7ff2",
-        "title": "STAT+: Viking Therapeutics oral weight loss drug hits mark in mid-stage trial but disappoints investors",
-        "url": "https://www.statnews.com/2025/08/19/viking-therapeutics-obesity-oral-data/?utm_campaign=rss",
+        "id": "058ea172e88c81b8",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/dynavaxs-shingles-vaccine-holds-its-own-against-shingrix-early-clinical-test\" hreflang=\"en\">Dynavax's shingles vaccine holds its own against GSK's Shingrix in early clinical test</a>",
+        "url": "https://www.fiercebiotech.com/biotech/dynavaxs-shingles-vaccine-holds-its-own-against-shingrix-early-clinical-test",
+        "source": "Fierce Biotech",
+        "published": "Aug 21, 2025 5:11am",
+        "published_dt": "2025-08-21T05:11:00+00:00",
+        "summary": "Dynavax\u2019s lofty ambition to snatch Shingrix\u2019s crown got off to a promising start after the biopharma\u2019s investigational shingles vaccine held its own against GSK\u2019s mainstay in the first part of a phase 1/2 study."
+      },
+      {
+        "id": "689ed535829f1fff",
+        "title": "STAT+: Former FDA head Stephen Hahn joins radiopharmaceuticals startup as CEO",
+        "url": "https://www.statnews.com/2025/08/20/nucleus-radiopharma-stephen-hahn/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 19 Aug 2025 11:53:14 +0000",
-        "published_dt": "2025-08-19T11:53:14+00:00",
-        "summary": "A new oral weight loss drug developed by Viking Therapeutics hit the mark in a mid-stage clinical trial, but the side effect and discontinuation rates disappointed investors."
+        "published": "Wed, 20 Aug 2025 12:00:00 +0000",
+        "published_dt": "2025-08-20T12:00:00+00:00",
+        "summary": "Former FDA commissioner Stephen Hahn is taking the top spot at radiopharmaceuticals startup."
+      },
+      {
+        "id": "d2278de8d4cc439e",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-clears-signos-over-counter-cgm-powered-weight-loss-app\" hreflang=\"en\">FDA clears Signos\u2019 over-the-counter, CGM-powered weight loss app</a>",
+        "url": "https://www.fiercebiotech.com/medtech/fda-clears-signos-over-counter-cgm-powered-weight-loss-app",
+        "source": "Fierce Biotech",
+        "published": "Aug 20, 2025 10:45am",
+        "published_dt": "2025-08-20T10:45:00+00:00",
+        "summary": "Signos' system employs Dexcom's Stelo CGM and pairs it with an app to track how food choices, activity, stress and sleep can all affect metabolism."
+      },
+      {
+        "id": "d84a281a369ded83",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/xoma-adds-fading-mural-oncology-portfolio-struggling-biotechs\" hreflang=\"en\">Xoma adds fading Mural Oncology to portfolio of struggling biotechs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/xoma-adds-fading-mural-oncology-portfolio-struggling-biotechs",
+        "source": "Fierce Biotech",
+        "published": "Aug 20, 2025 10:12am",
+        "published_dt": "2025-08-20T10:12:00+00:00",
+        "summary": "Xoma Royalty is ravenous for biotechs, and the Bay Area licensing aggregator has found its next meal in Mural Oncology. Xoma is set to acquire Mural for $2.035 per share, for a total value of about $36 million, the company announced on Aug. 20."
+      },
+      {
+        "id": "54c745ee7dd380df",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/celldex-ends-esophageal-program-despite-hitting-primary-endpoint\" hreflang=\"en\">Celldex ends esophageal program despite hitting primary endpoint in phase 2 trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/celldex-ends-esophageal-program-despite-hitting-primary-endpoint",
+        "source": "Fierce Biotech",
+        "published": "Aug 20, 2025 5:17am",
+        "published_dt": "2025-08-20T05:17:00+00:00",
+        "summary": "Celldex has stopped development of barzolvolimab in eosinophilic esophagitis (EoE) despite meeting its primary endpoint in a phase 2 study. The biotech showed the candidate depletes mast cells in the gastrointestinal tract, but that positive finding was overshadowed by the antibody's failure to improve clinical outcomes."
       },
       {
         "id": "203132e0a39d175c",
@@ -129,15 +192,6 @@
         "summary": "Halda Therapeutics has struck a deal with VantAI, entering into a pact that could be worth more than $1 billion to secure a source of targets for its novel approach to oncology and immunology."
       },
       {
-        "id": "e57aa14aaa200c83",
-        "title": "In a new era, glucose sensors straddle the line between medical device and wellness tool",
-        "url": "https://www.statnews.com/2025/08/20/dexcom-continuous-glucose-monitor-medical-device-wellness-fda/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 20 Aug 2025 04:01:00 +0000",
-        "published_dt": "2025-08-20T04:01:00+00:00",
-        "summary": "In a new era, blood glucose sensors are straddling the line between medical device and wellness tool."
-      },
-      {
         "id": "fd903c593e9886ad",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/shankar-ramaswamys-gene-therapy-biotech-raises-313m\" hreflang=\"en\">Shankar Ramaswamy's gene therapy biotech raises $313M </a>",
         "url": "https://www.fiercebiotech.com/biotech/shankar-ramaswamys-gene-therapy-biotech-raises-313m",
@@ -156,132 +210,78 @@
         "summary": "Roche has found redemption in a precision medicine approach following an earlier Tecentriq trial flop in a broader bladder cancer population."
       },
       {
-        "id": "19796aab37c2239c",
-        "title": "<a href=\"https://www.fiercebiotech.com/cro/private-equity-firm-acquires-clinical-trial-site-network-headlands-research\" hreflang=\"en\">Private equity firm acquires clinical trial site network Headlands Research</a>",
-        "url": "https://www.fiercebiotech.com/cro/private-equity-firm-acquires-clinical-trial-site-network-headlands-research",
-        "source": "Fierce Biotech",
-        "published": "Aug 18, 2025 12:05pm",
-        "published_dt": "2025-08-18T12:05:00+00:00",
-        "summary": "After years of striking acquisitions to build up its site network, Headlands Research has now been bought itself. Headlands has been scooped up by private equity firm THL Partners, which entered an agreement to buy the clinical trial company from founding firm KKR."
-      },
-      {
-        "id": "846f164ab236d1c7",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/stealth-bio-submits-fda-application-rare-disease-candidate-third-time-0\" hreflang=\"en\">Stealth Bio submits third FDA application for rare disease candidate</a>",
-        "url": "https://www.fiercebiotech.com/biotech/stealth-bio-submits-fda-application-rare-disease-candidate-third-time-0",
-        "source": "Fierce Biotech",
-        "published": "Aug 18, 2025 11:17am",
-        "published_dt": "2025-08-18T11:17:00+00:00",
-        "summary": "After an FDA rejection in May, Stealth BioTherapeutics has resubmitted a new drug application for its investigational treatment designed to treat an ultra-rare genetic disease."
-      },
-      {
-        "id": "941bf2cedf5ccd5b",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/baxters-novum-iq-corrections-grow-scope-include-syringe-pumps\" hreflang=\"en\">Baxter's Novum IQ corrections grow in scope to include syringe pumps</a>",
-        "url": "https://www.fiercebiotech.com/medtech/baxters-novum-iq-corrections-grow-scope-include-syringe-pumps",
-        "source": "Fierce Biotech",
-        "published": "Aug 18, 2025 11:05am",
-        "published_dt": "2025-08-18T11:05:00+00:00",
-        "summary": "Last month, Baxter and the FDA highlighted a problem with the Novum IQ large-volume pump, tied to 79 serious injuries and two deaths. Now, separate software issues are affecting both the large-volume system as well as its syringe-based pump.<br />"
-      },
-      {
-        "id": "7368f5ac021c2af5",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/neurizon-becomes-second-biotech-hit-fda-delay-als-candidate\" hreflang=\"en\">Neurizon becomes 2nd biotech hit with FDA delay for ALS candidate</a>",
-        "url": "https://www.fiercebiotech.com/biotech/neurizon-becomes-second-biotech-hit-fda-delay-als-candidate",
-        "source": "Fierce Biotech",
-        "published": "Aug 18, 2025 10:48am",
-        "published_dt": "2025-08-18T10:48:00+00:00",
-        "summary": "Yet another biotech is facing a delay from the Food and Drug Administration as the agency reels from intense staffing cuts. Neurizon, an Australian biotech focusing on neurodegenerative diseases, will now have to wait until Oct. 3 before receiving a response on whether its amyotrophic lateral sclerosis asset will be lifted from a clinical hold."
-      },
-      {
-        "id": "22f623352f2e2d55",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/reunions-psychedelic-prodrug-reduces-post-partum-depression-phase-2-study\" hreflang=\"en\">Reunion's psychedelic prodrug reduces postpartum depression symptoms in phase 2 study</a>",
-        "url": "https://www.fiercebiotech.com/biotech/reunions-psychedelic-prodrug-reduces-post-partum-depression-phase-2-study",
-        "source": "Fierce Biotech",
-        "published": "Aug 18, 2025 5:59am",
-        "published_dt": "2025-08-18T05:59:00+00:00",
-        "summary": "Reunion Neuroscience\u2019s psychedelic has reduced the symptoms of postpregnancy depression in a phase 2 study, setting up the biotech to enter late-stage trials next year."
-      },
-      {
-        "id": "7f54cc4319983c62",
-        "title": "<a href=\"https://www.fiercebiotech.com/research/nih-gene-editing-therapy-fixes-mutation-mice-causes-adult-form-tay-sachs-disease\" hreflang=\"en\">NIH gene editing therapy fixes mutation in mice that causes adult form of Tay-Sachs disease</a>",
-        "url": "https://www.fiercebiotech.com/research/nih-gene-editing-therapy-fixes-mutation-mice-causes-adult-form-tay-sachs-disease",
-        "source": "Fierce Biotech",
-        "published": "Aug 19, 2025 4:26pm",
-        "published_dt": "2025-08-19T16:26:00+00:00",
-        "summary": "A team of scientists at the National Institutes of Health used gene editing to fix the mutation that causes a form of the rare Tay-Sachs disease in mice, sparking hope that the approach could also work for human patients and other related disorders."
-      },
-      {
-        "id": "ffa5d46f0111df7e",
-        "title": "STAT+: Elevance loses lawsuit over Medicare Advantage quality ratings",
-        "url": "https://www.statnews.com/2025/08/19/elevance-loses-medicare-advantage-star-ratings-lawsuit/?utm_campaign=rss",
+        "id": "865b9484cb7bb191",
+        "title": "STAT+: AI provider tools will probably drive up health care costs. What?",
+        "url": "https://www.statnews.com/2025/08/20/scribes-health-care-costs-ai-prognosis/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 19 Aug 2025 15:53:22 +0000",
-        "published_dt": "2025-08-19T15:53:22+00:00",
-        "summary": "A federal judge rejected Elevance's argument that the government unfair lowered its ratings."
+        "published": "Wed, 20 Aug 2025 20:06:56 +0000",
+        "published_dt": "2025-08-20T20:06:56+00:00",
+        "summary": "How AI provider tools will probably drive up health care costs"
       },
       {
-        "id": "7bcf320bae06ec4e",
-        "title": "STAT+: How Trump may use Democrats\u2019 drug-price negotiation law",
-        "url": "https://www.statnews.com/2025/08/19/trump-medicare-drug-price-negotiation-leaked-maha-report-rfk-jr-dc-diagnosis-newsletter/?utm_campaign=rss",
+        "id": "aed77c7846e93282",
+        "title": "STAT+: Epic\u2019s AI overhaul promises to address EHR headaches for clinicians and patients",
+        "url": "https://www.statnews.com/2025/08/20/epic-ehr-artificial-intelligence-microsoft/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 19 Aug 2025 14:30:48 +0000",
-        "published_dt": "2025-08-19T14:30:48+00:00",
-        "summary": "This is the web edition of D.C. Diagnosis, STAT's twice-weekly newsletter about the politics and policy of health and medicine."
+        "published": "Wed, 20 Aug 2025 17:07:40 +0000",
+        "published_dt": "2025-08-20T17:07:40+00:00",
+        "summary": "Epic\u2019s AI overhaul promises to address EHR headaches for clinicians and patients"
       }
     ],
     "Engineering & Aerospace": [
       {
-        "id": "5c3fa1c028da3a2b",
-        "title": "SHINING 3D launches FreeProbe Series",
-        "url": "https://www.engineering.com/shining-3d-launches-freeprobe-series/",
+        "id": "9afdaef8554fada0",
+        "title": "Toshiba launches 1500V photorelay for automotive battery systems",
+        "url": "https://www.engineering.com/toshiba-launches-1500v-photorelay-for-automotive-battery-systems/",
         "source": "Engineering.com",
-        "published": "Wed, 20 Aug 2025 12:02:09 +0000",
-        "published_dt": "2025-08-20T12:02:09+00:00",
-        "summary": "<p>A wireless probing solution designed to support optical 3D measuring systems.</p>\n<p>The post <a href=\"https://www.engineering.com/shining-3d-launches-freeprobe-series/\">SHINING 3D launches FreeProbe Series</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Thu, 21 Aug 2025 12:18:02 +0000",
+        "published_dt": "2025-08-21T12:18:02+00:00",
+        "summary": "<p>in a small package that achieves output withstand voltage of 1500V for automotive battery systems.</p>\n<p>The post <a href=\"https://www.engineering.com/toshiba-launches-1500v-photorelay-for-automotive-battery-systems/\">Toshiba launches 1500V photorelay for automotive battery systems</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "fb082e478ca8822e",
-        "title": "Duffy comments seed doubts about future of NASA Earth science",
-        "url": "https://spacenews.com/duffy-comments-seed-doubts-about-future-of-nasa-earth-science/",
+        "id": "a4fc933b4df1277c",
+        "title": "ABB, SimGenics partner on simulator training for nuclear sector",
+        "url": "https://www.engineering.com/abb-simgenics-partner-on-simulator-training-for-nuclear-sector/",
+        "source": "Engineering.com",
+        "published": "Thu, 21 Aug 2025 11:24:09 +0000",
+        "published_dt": "2025-08-21T11:24:09+00:00",
+        "summary": "<p>Agreement supports plant process model and simulation across conventional large plants, small modular reactors and advanced modular reactors.</p>\n<p>The post <a href=\"https://www.engineering.com/abb-simgenics-partner-on-simulator-training-for-nuclear-sector/\">ABB, SimGenics partner on simulator training for nuclear sector</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "c3f967e45e1078da",
+        "title": "Renesas unveils USB-C power solution with three-level topology",
+        "url": "https://www.engineering.com/renesas-unveils-usb-c-power-solution-with-three-level-topology/",
+        "source": "Engineering.com",
+        "published": "Thu, 21 Aug 2025 11:24:01 +0000",
+        "published_dt": "2025-08-21T11:24:01+00:00",
+        "summary": "<p>New solution offers superior thermal efficiency and reduces power loss.</p>\n<p>The post <a href=\"https://www.engineering.com/renesas-unveils-usb-c-power-solution-with-three-level-topology/\">Renesas unveils USB-C power solution with three-level topology</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "018778dece129f4c",
+        "title": "Vertiv acquires Great Lakes Data Racks & Cabinets",
+        "url": "https://www.engineering.com/vertiv-acquires-great-lakes-data-racks-cabinets/",
+        "source": "Engineering.com",
+        "published": "Thu, 21 Aug 2025 11:00:00 +0000",
+        "published_dt": "2025-08-21T11:00:00+00:00",
+        "summary": "<p>Acquisition strengthens the company's leadership position in high-density integrated infrastructure solutions for data centers and critical digital environments.</p>\n<p>The post <a href=\"https://www.engineering.com/vertiv-acquires-great-lakes-data-racks-cabinets/\">Vertiv acquires Great Lakes Data Racks &amp; Cabinets</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "5df443bb3bc99552",
+        "title": "ULA making new efforts on Vulcan reusability",
+        "url": "https://spacenews.com/ula-making-new-efforts-on-vulcan-reusability/",
         "source": "SpaceNews",
-        "published": "Wed, 20 Aug 2025 12:26:24 +0000",
-        "published_dt": "2025-08-20T12:26:24+00:00",
-        "summary": "<figure><img alt=\"OCO-2\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/oco2.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Comments by NASA\u2019s acting administrator have created uncertainty about the future of Earth science programs at the space agency.</p>\n<p>The post <a href=\"https://spacenews.com/duffy-comments-seed-doubts-about-future-of-nasa-earth-science/\">Duffy comments seed doubts about future of NASA Earth science</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Thu, 21 Aug 2025 10:39:54 +0000",
+        "published_dt": "2025-08-21T10:39:54+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/54718108420_ddb71dd7b2_k.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>United Launch Alliance is leaning more into reusability as it advances work on recovering the engine section of the Vulcan rocket and embarks on another project.</p>\n<p>The post <a href=\"https://spacenews.com/ula-making-new-efforts-on-vulcan-reusability/\">ULA making new efforts on Vulcan reusability</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "eeeca5cdb19b05bf",
-        "title": "Trimble Ready 3D option announced for new line of Hyundai HD130A bulldozers",
-        "url": "https://www.engineering.com/trimble-ready-3d-option-announced-for-new-line-of-hyundai-hd130a-bulldozers/",
+        "id": "0ab7b6d5156456b6",
+        "title": "3D Printing Week 2025 now available on demand",
+        "url": "https://www.engineering.com/3d-printing-week-2025-now-available-on-demand/",
         "source": "Engineering.com",
-        "published": "Wed, 20 Aug 2025 11:46:00 +0000",
-        "published_dt": "2025-08-20T11:46:00+00:00",
-        "summary": "<p>HD130A dozers now available Trimble Ready from the factory for customers across the globe.</p>\n<p>The post <a href=\"https://www.engineering.com/trimble-ready-3d-option-announced-for-new-line-of-hyundai-hd130a-bulldozers/\">Trimble Ready 3D option announced for new line of Hyundai HD130A bulldozers</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "20eb3c9f1c97f846",
-        "title": "TriEye and LITEON partner on VCSEL-based SWIR sensing solution",
-        "url": "https://www.engineering.com/trieye-and-liteon-partner-on-vcsel-based-swir-sensing-solution/",
-        "source": "Engineering.com",
-        "published": "Wed, 20 Aug 2025 10:09:00 +0000",
-        "published_dt": "2025-08-20T10:09:00+00:00",
-        "summary": "<p>The new collaboration advances high volume SWIR solutions for machine vision, robotics, and automotive applications.</p>\n<p>The post <a href=\"https://www.engineering.com/trieye-and-liteon-partner-on-vcsel-based-swir-sensing-solution/\">TriEye and LITEON partner on VCSEL-based SWIR sensing solution</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "5b1f46f809151057",
-        "title": "Antoine Corbeil named VP engineering at Concepts NREC",
-        "url": "https://www.engineering.com/antoine-corbeil-named-vp-engineering-at-concepts-nrec/",
-        "source": "Engineering.com",
-        "published": "Wed, 20 Aug 2025 10:10:00 +0000",
-        "published_dt": "2025-08-20T10:10:00+00:00",
-        "summary": "<p>His technical depth and leadership vision make him the ideal person to lead the world-class engineering team into the future.</p>\n<p>The post <a href=\"https://www.engineering.com/antoine-corbeil-named-vp-engineering-at-concepts-nrec/\">Antoine Corbeil named VP engineering at Concepts NREC</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "24f67ead3f0209ce",
-        "title": "Polymatech Electronics completes PCB manufacturing facility in Europe",
-        "url": "https://www.engineering.com/polymatech-electronics-completes-pcb-manufacturing-facility-in-europe/",
-        "source": "Engineering.com",
-        "published": "Tue, 19 Aug 2025 09:32:00 +0000",
-        "published_dt": "2025-08-19T09:32:00+00:00",
-        "summary": "<p>The new 10,000-sq-ft cleanroom features advanced machinery, producing up to 50,000 sq m of multi-layer HDI PCBs each year.</p>\n<p>The post <a href=\"https://www.engineering.com/polymatech-electronics-completes-pcb-manufacturing-facility-in-europe/\">Polymatech Electronics completes PCB manufacturing facility in Europe</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Wed, 20 Aug 2025 13:30:00 +0000",
+        "published_dt": "2025-08-20T13:30:00+00:00",
+        "summary": "<p>Our inaugural series of webinars dedicated to additive manufacturing included major growth industries, hybrid manufacturing, and some surprising use cases.</p>\n<p>The post <a href=\"https://www.engineering.com/3d-printing-week-2025-now-available-on-demand/\">3D Printing Week 2025 now available on demand</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "aed76f9c89e08a04",
@@ -311,6 +311,96 @@
         "summary": ""
       },
       {
+        "id": "31c9f4e70bfaec00",
+        "title": "Looking back on 200 releases of Onshape: Q&A with Jon Hirschtick",
+        "url": "https://www.engineering.com/looking-back-on-200-releases-of-onshape-qa-with-jon-hirschtick/",
+        "source": "Engineering.com",
+        "published": "Wed, 20 Aug 2025 20:01:20 +0000",
+        "published_dt": "2025-08-20T20:01:20+00:00",
+        "summary": "<p>Onshape\u2019s co-founder reflects on how far the cloud CAD platform has come\u2014and explores what it could look like 200 releases from now.</p>\n<p>The post <a href=\"https://www.engineering.com/looking-back-on-200-releases-of-onshape-qa-with-jon-hirschtick/\">Looking back on 200 releases of Onshape: Q&amp;A with Jon Hirschtick</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "6222a0131ba15458",
+        "title": "West Virginia joins states handing satellites a tiny share of rural broadband subsidies",
+        "url": "https://spacenews.com/west-virginia-joins-states-handing-satellites-a-tiny-share-of-rural-broadband-subsidies/",
+        "source": "SpaceNews",
+        "published": "Wed, 20 Aug 2025 20:00:09 +0000",
+        "published_dt": "2025-08-20T20:00:09+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"569\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/Starship-fire-scaled.jpg?fit=1024%2C569&amp;ssl=1\" width=\"1024\" /></figure>\n<p>SpaceX would get just 1% of the $625 million in rural broadband subsidies proposed by West Virginia, the third state in a row to give satellites only a marginal role in the federal government\u2019s BEAD program.</p>\n<p>The post <a href=\"https://spacenews.com/west-virginia-joins-states-handing-satellites-a-tiny-share-of-rural-broadband-subsidies/\">West Virginia joins states handing satellites a tiny share of rural broadband subsidies</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "eb29dac2f5a9b64f",
+        "title": "AIAA Senior Member Wendl Died in May 2025",
+        "url": "https://aerospaceamerica.aiaa.org/aiaa-senior-member-wendl-died-in-may-2025/",
+        "source": "Aerospace America",
+        "published": "Wed, 20 Aug 2025 18:55:16 +0000",
+        "published_dt": "2025-08-20T18:55:16+00:00",
+        "summary": ""
+      },
+      {
+        "id": "1076e16a472f0754",
+        "title": "Beyond the flight deck: Risks arise as air transport industry incorporates AI",
+        "url": "https://aerospaceamerica.aiaa.org/beyond-the-flight-deck-risks-arise-as-air-transport-industry-incorporates-ai/",
+        "source": "Aerospace America",
+        "published": "Wed, 20 Aug 2025 18:25:00 +0000",
+        "published_dt": "2025-08-20T18:25:00+00:00",
+        "summary": ""
+      },
+      {
+        "id": "8a63e9fa31eba0af",
+        "title": "FAA\u2019s informed consent rules leave space tourists flying blind",
+        "url": "https://spacenews.com/faas-informed-consent-rules-leave-space-tourists-flying-blind/",
+        "source": "SpaceNews",
+        "published": "Wed, 20 Aug 2025 13:00:00 +0000",
+        "published_dt": "2025-08-20T13:00:00+00:00",
+        "summary": "<figure><img alt=\"NS-32 liftoff\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"723\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/ns32-liftoff.jpeg?fit=1024%2C723&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The Federal Aviation Administration\u2019s (FAA) current informed consent framework under 14 CFR \u00a7460.45 falls dangerously short of adequately warning space flight participants (SFP) about the true risks they face, particularly long-term health consequences that may not manifest until months or years after their journey. This regulatory gap threatens both SFP safety and industry credibility as [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/faas-informed-consent-rules-leave-space-tourists-flying-blind/\">FAA\u2019s informed consent rules leave space tourists flying blind</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "fb082e478ca8822e",
+        "title": "Duffy comments seed doubts about future of NASA Earth science",
+        "url": "https://spacenews.com/duffy-comments-seed-doubts-about-future-of-nasa-earth-science/",
+        "source": "SpaceNews",
+        "published": "Wed, 20 Aug 2025 12:26:24 +0000",
+        "published_dt": "2025-08-20T12:26:24+00:00",
+        "summary": "<figure><img alt=\"OCO-2\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/oco2.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Comments by NASA\u2019s acting administrator have created uncertainty about the future of Earth science programs at the space agency.</p>\n<p>The post <a href=\"https://spacenews.com/duffy-comments-seed-doubts-about-future-of-nasa-earth-science/\">Duffy comments seed doubts about future of NASA Earth science</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "5c3fa1c028da3a2b",
+        "title": "SHINING 3D launches FreeProbe Series",
+        "url": "https://www.engineering.com/shining-3d-launches-freeprobe-series/",
+        "source": "Engineering.com",
+        "published": "Wed, 20 Aug 2025 12:02:09 +0000",
+        "published_dt": "2025-08-20T12:02:09+00:00",
+        "summary": "<p>A wireless probing solution designed to support optical 3D measuring systems.</p>\n<p>The post <a href=\"https://www.engineering.com/shining-3d-launches-freeprobe-series/\">SHINING 3D launches FreeProbe Series</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "eeeca5cdb19b05bf",
+        "title": "Trimble Ready 3D option announced for new line of Hyundai HD130A bulldozers",
+        "url": "https://www.engineering.com/trimble-ready-3d-option-announced-for-new-line-of-hyundai-hd130a-bulldozers/",
+        "source": "Engineering.com",
+        "published": "Wed, 20 Aug 2025 11:46:00 +0000",
+        "published_dt": "2025-08-20T11:46:00+00:00",
+        "summary": "<p>HD130A dozers now available Trimble Ready from the factory for customers across the globe.</p>\n<p>The post <a href=\"https://www.engineering.com/trimble-ready-3d-option-announced-for-new-line-of-hyundai-hd130a-bulldozers/\">Trimble Ready 3D option announced for new line of Hyundai HD130A bulldozers</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "5aff0730516d5c63",
+        "title": "Nullspace raises $2.5M fund to advance RF and quantum simulation",
+        "url": "https://www.engineering.com/nullspace-raises-2-5m-fund-to-advance-rf-and-quantum-simulation/",
+        "source": "Engineering.com",
+        "published": "Wed, 20 Aug 2025 10:32:00 +0000",
+        "published_dt": "2025-08-20T10:32:00+00:00",
+        "summary": "<p>Deep tech company redefining engineering simulation for the world's most complex technologies - from advanced electromagnetics to quantum computing.</p>\n<p>The post <a href=\"https://www.engineering.com/nullspace-raises-2-5m-fund-to-advance-rf-and-quantum-simulation/\">Nullspace raises $2.5M fund to advance RF and quantum simulation</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "986e2e9fdc55dd1d",
+        "title": "Monogoto receives 2025 IoT Evolution Product of the Year Award",
+        "url": "https://www.engineering.com/monogoto-receives-2025-iot-evolution-product-of-the-year-award/",
+        "source": "Engineering.com",
+        "published": "Wed, 20 Aug 2025 10:23:00 +0000",
+        "published_dt": "2025-08-20T10:23:00+00:00",
+        "summary": "<p>Software-defined connectivity cloud honored for exceptional innovation.</p>\n<p>The post <a href=\"https://www.engineering.com/monogoto-receives-2025-iot-evolution-product-of-the-year-award/\">Monogoto receives 2025 IoT Evolution Product of the Year Award</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
         "id": "769ca103437dd3a7",
         "title": "Smallsat missions proposed to study asteroid Apophis",
         "url": "https://spacenews.com/smallsat-missions-proposed-to-study-asteroid-apophis/",
@@ -327,15 +417,6 @@
         "published": "Tue, 19 Aug 2025 18:01:24 +0000",
         "published_dt": "2025-08-19T18:01:24+00:00",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"622\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/Screenshot-2025-08-19-at-12.49.01-PM.png?fit=1024%2C622&amp;ssl=1\" width=\"1024\" /></figure>\n<p>One of the products Globalstar is pitching are \u201ccovert\u201d tracker devices for military platforms </p>\n<p>The post <a href=\"https://spacenews.com/globalstar-pursuing-defense-market-with-secure-satcom-services/\">Globalstar pursuing defense market with secure satcom services</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "a5951c29f8cc7e0b",
-        "title": "Ansys and Nvidia strike deal for easier Omniverse access in simulation",
-        "url": "https://www.engineering.com/ansys-and-nvidia-strike-deal-for-easier-omniverse-access-in-simulation/",
-        "source": "Engineering.com",
-        "published": "Tue, 19 Aug 2025 18:00:23 +0000",
-        "published_dt": "2025-08-19T18:00:23+00:00",
-        "summary": "<p>Ansys will license Omniverse technology in CFD and autonomous solutions, plus more engineering software news.</p>\n<p>The post <a href=\"https://www.engineering.com/ansys-and-nvidia-strike-deal-for-easier-omniverse-access-in-simulation/\">Ansys and Nvidia strike deal for easier Omniverse access in simulation</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "0bc83e61bb6ae618",
@@ -372,90 +453,18 @@
         "published": "Tue, 19 Aug 2025 11:02:01 +0000",
         "published_dt": "2025-08-19T11:02:01+00:00",
         "summary": "<figure><img alt=\"A white Kinetica-1 rocket operated by Chinese launch company CAS Space ascends into a clear blue sky, leaving behind a bright flame and thick plume of brownish exhaust. The rocket has just lifted off from a desert launch pad at the Jiuquan Satellite Launch Center in northwest China. In the foreground are low, rectangular buildings with blue roofs, a large white hangar, and tall metal towers used for communications. The barren desert landscape stretches flat into the distance under an open sky.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"572\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/Kinetica1-Y10-7sats-JSLC-19aug2025-CASSpace-1.jpg?fit=1024%2C572&amp;ssl=1\" width=\"1024\" /></figure>\n<p>CAS Space delivered seven satellites to orbit Tuesday, including a pair of femtosats marking the company\u2019s first launch of payloads for a Latin American client.</p>\n<p>The post <a href=\"https://spacenews.com/chinas-cas-space-launches-first-latin-american-payloads-on-kinetica-1-rocket/\">China\u2019s CAS Space launches first Latin American payloads on Kinetica-1 rocket</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "cac72060c577d4e1",
-        "title": "Balfour appoints William Motherway as VP risk for U.S. infrastructure operations",
-        "url": "https://www.engineering.com/balfour-appoints-william-motherway-as-vp-risk-for-u-s-infrastructure-operations/",
-        "source": "Engineering.com",
-        "published": "Tue, 19 Aug 2025 10:54:48 +0000",
-        "published_dt": "2025-08-19T10:54:48+00:00",
-        "summary": "<p>Motherway will guide the organization in managing operational, regulatory, and strategic risks.</p>\n<p>The post <a href=\"https://www.engineering.com/balfour-appoints-william-motherway-as-vp-risk-for-u-s-infrastructure-operations/\">Balfour appoints William Motherway as VP risk for U.S. infrastructure operations</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "f9b4736f46697a25",
-        "title": "CADdetails launches Prodify for building product manufacturers",
-        "url": "https://www.engineering.com/caddetails-launches-prodify-for-building-product-manufacturers/",
-        "source": "Engineering.com",
-        "published": "Tue, 19 Aug 2025 10:15:33 +0000",
-        "published_dt": "2025-08-19T10:15:33+00:00",
-        "summary": "<p>Prodify centralizes digital assets and product data, enabling teams to manage and optimize content easily.</p>\n<p>The post <a href=\"https://www.engineering.com/caddetails-launches-prodify-for-building-product-manufacturers/\">CADdetails launches Prodify for building product manufacturers</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "e8947ad80f6ef0fa",
-        "title": "MMA Space reveals FlexArray solar array system at SmallSatellite Conf",
-        "url": "https://www.engineering.com/mma-space-reveals-flexarray-solar-array-system-at-smallsatellite-conf/",
-        "source": "Engineering.com",
-        "published": "Tue, 19 Aug 2025 09:54:45 +0000",
-        "published_dt": "2025-08-19T09:54:45+00:00",
-        "summary": "<p>The FlexArray solar array uses thin-film membranes to deploy solar cells, delivering high power-to-volume ratios.</p>\n<p>The post <a href=\"https://www.engineering.com/mma-space-reveals-flexarray-solar-array-system-at-smallsatellite-conf/\">MMA Space reveals FlexArray solar array system at SmallSatellite Conf</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "975ac519aaa4f8fb",
-        "title": "Centric recognized in 2025 Gartner Hype Cycle for digital commerce",
-        "url": "https://www.engineering.com/centric-recognized-in-2025-gartner-hype-cycle-for-digital-commerce/",
-        "source": "Engineering.com",
-        "published": "Tue, 19 Aug 2025 09:21:00 +0000",
-        "published_dt": "2025-08-19T09:21:00+00:00",
-        "summary": "<p>Centric PXM enables brands and retailers to expand selling channels, increase conversion and boost sales.</p>\n<p>The post <a href=\"https://www.engineering.com/centric-recognized-in-2025-gartner-hype-cycle-for-digital-commerce/\">Centric recognized in 2025 Gartner Hype Cycle for digital commerce</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "7c1e05b54d2d082e",
-        "title": "Schriever Wargame to give allies bigger role as U.S. shifts toward coalition-led space strategy",
-        "url": "https://spacenews.com/schriever-wargame-to-give-allies-bigger-role-as-u-s-shifts-toward-coalition-led-space-strategy/",
-        "source": "SpaceNews",
-        "published": "Mon, 18 Aug 2025 21:58:28 +0000",
-        "published_dt": "2025-08-18T21:58:28+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/231221-F-VZ654-1002-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The 2027 exercise will mark first time allies jointly develop scenarios instead of U.S. leading unilaterally</p>\n<p>The post <a href=\"https://spacenews.com/schriever-wargame-to-give-allies-bigger-role-as-u-s-shifts-toward-coalition-led-space-strategy/\">Schriever Wargame to give allies bigger role as U.S. shifts toward coalition-led space strategy</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "539c78738912ecd5",
-        "title": "Platinum Equity buys Anuvu to boost airline connectivity",
-        "url": "https://spacenews.com/platinum-equity-buys-anuvu-to-boost-airline-connectivity/",
-        "source": "SpaceNews",
-        "published": "Mon, 18 Aug 2025 20:22:46 +0000",
-        "published_dt": "2025-08-18T20:22:46+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"512\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/Platinum-x-Anuvu.png?fit=1024%2C512&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Investment firm Platinum Equity plans to buy Anuvu after the in-flight connectivity specialist activated its first two small GEO satellites, capping a turnaround that began in 2021 when lenders took control of the company.</p>\n<p>The post <a href=\"https://spacenews.com/platinum-equity-buys-anuvu-to-boost-airline-connectivity/\">Platinum Equity buys Anuvu to boost airline connectivity</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "1e275dbe96b1aa7b",
-        "title": "Q&A: Former NASA commercial space director on the need for increased NASA-industry collaboration",
-        "url": "https://aerospaceamerica.aiaa.org/qa-former-nasa-commercial-space-director-on-the-need-for-increased-nasa-industry-collaboration/",
-        "source": "Aerospace America",
-        "published": "Mon, 18 Aug 2025 20:01:00 +0000",
-        "published_dt": "2025-08-18T20:01:00+00:00",
-        "summary": ""
-      },
-      {
-        "id": "5a738d7f30e97d49",
-        "title": "Italian-Dutch space company secures first U.S. contract",
-        "url": "https://spacenews.com/italian-dutch-space-company-secures-first-u-s-contract/",
-        "source": "SpaceNews",
-        "published": "Mon, 18 Aug 2025 16:48:47 +0000",
-        "published_dt": "2025-08-18T16:48:47+00:00",
-        "summary": "<figure><img alt=\"Revolv Space\u2019s SARA solar array drive assembly. Credit: Revolv Space\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"501\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/SARA.png?fit=1024%2C501&amp;ssl=1\" width=\"1024\" /></figure>\n<p>WARSAW, Poland \u2014 Italian-Dutch company Revolv Space has been selected\u00a0 to deliver six units of its flagship solar array drive assembly, marketed under the name of SARA, for Blue Canyon Technologies\u2019 forthcoming cubesat mission.\u00a0 The development comes as the European business is intensifying its international expansion efforts. Revolv Space said in a statement it was [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/italian-dutch-space-company-secures-first-u-s-contract/\">Italian-Dutch space company secures first U.S. contract</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "1a8ad645d5fa8572",
-        "title": "Satellites face real-world threats \u2014 but we\u2019re not ready",
-        "url": "https://spacenews.com/satellites-face-real-world-threats-but-were-not-ready/",
-        "source": "SpaceNews",
-        "published": "Mon, 18 Aug 2025 13:00:00 +0000",
-        "published_dt": "2025-08-18T13:00:00+00:00",
-        "summary": "<figure><img alt=\"Credit: SpaceNews illustration / Freepik\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"640\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/data-exchange-global-network-world-earth-night-city-lights-from-orbit-elements-this-image-furnished-by-nasa-scaled.png?fit=1024%2C640&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Major Gen. Paul Tedman has been the commander of United Kingdom Space Command since 2024. Recently, he made a stark observation: if war breaks out in Europe, it is \u201chighly likely\u201d that the first assault on Britain will take place not on land, sea or air, but in space. Others, like Gen. Chance Saltzman, Chief [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/satellites-face-real-world-threats-but-were-not-ready/\">Satellites face real-world threats \u2014 but we&#8217;re not ready</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
+      {
+        "id": "ae50e5281b1ceebe",
+        "title": "Economists disagree about everything. Don\u2019t they?",
+        "url": "https://www.economist.com/finance-and-economics/2025/08/21/economists-disagree-about-everything-dont-they",
+        "source": "Finance & economics",
+        "published": "Thu, 21 Aug 2025 10:15:22 +0000",
+        "published_dt": "2025-08-21T10:15:22+00:00",
+        "summary": "Their discipline is famous for its fissiparousness"
+      },
       {
         "id": "d71d909ae1fa83be",
         "title": "The Global Gender Distortions Index (GGDI) -- by Pinelopi K. Goldberg, Charles TL. Gottlieb, Somik Lall, Meet Mehta, Michael Peters, Aishwarya Lakshmi Ratan",
@@ -464,6 +473,24 @@
         "published": null,
         "published_dt": null,
         "summary": "The extent to which women participate in the labor market varies greatly across the globe. If such differences reflect distortions that women face in accessing good jobs, they can reduce economic activity through a misallocation of talent. In this paper, we build on Hsieh et al. (2019) to provide a methodology to quantify these productivity consequences. The index we propose, the \u201dGlobal Gender Distortions Index (GGDI)\u201d, measures the losses in aggregate productivity that gender-based misallocation imposes. Our index allows us to separately identify labor demand distortions (e.g., discrimination in hiring for formal jobs) from labor supply distortions (e.g., frictions that discourage women\u2019s labor force participation) and can be computed using data on labor income and job types. Our methodology also highlights an important distinction between welfare-relevant misallocation and the consequences on aggregate GDP if misallocation arises between market work and non-market activities. To showcase the versatility of our index, we analyze gender misallocation within countries over time, across countries over the development spectrum, and across local labor markets within countries. We find that misallocation is substantial and that demand distortions account for most of the productivity losses."
+      },
+      {
+        "id": "c4c4944fcfce6633",
+        "title": "The green transition has a surprising new home",
+        "url": "https://www.economist.com/finance-and-economics/2025/08/21/the-green-transition-has-a-surprising-new-home",
+        "source": "Finance & economics",
+        "published": "Thu, 21 Aug 2025 09:55:36 +0000",
+        "published_dt": "2025-08-21T09:55:36+00:00",
+        "summary": "Forget about northern Europeans, with their coalition governments and love of cycling"
+      },
+      {
+        "id": "310d1b439dce9519",
+        "title": "Can China cope with a deindustrialised future?",
+        "url": "https://www.economist.com/finance-and-economics/2025/08/21/can-china-cope-with-a-deindustrialised-future",
+        "source": "Finance & economics",
+        "published": "Thu, 21 Aug 2025 09:52:36 +0000",
+        "published_dt": "2025-08-21T09:52:36+00:00",
+        "summary": "Communist Party officials face a difficult ideological turn"
       },
       {
         "id": "d3acd20a40121719",
@@ -529,6 +556,15 @@
         "summary": "We estimate the impacts of large-scale unconditional cash transfers on child survival. One-time transfers of USD 1000 were provided to over 10,500 poor households across 653 randomized villages in Kenya. We collected census data on over 100,000 births, including on mortality and cause of death, and detailed data on household health behaviors. Unconditional cash transfers (accounting for spillovers) lead to 48% fewer infant deaths before age one and 45% fewer child deaths before age five. Detailed data on cause of death, transfer timing relative to birth, and the location of health facilities indicate that unconditional cash transfers and access to delivery care are complements in generating mortality reductions: the largest gains are estimated in neonatal and maternal causes of death largely preventable by appropriate obstetric care and among households living close to physician-staffed facilities and those who receive the transfer around the time of birth, and treatment leads to a large increase in hospital deliveries (by 45%). The infant and child mortality declines are concentrated among poorer households with below median assets or predicted consumption. The transfers also result in a substantial decline of 51% in female labor supply in the three months before and the three months after a birth, and improved child nutrition. Infant and child mortality largely revert to pre-program levels after cash transfers end. Despite not being the main aim of the original program, we show that unconditional cash transfers in this setting may be a cost-effective way to reduce infant and child deaths."
       },
       {
+        "id": "5c0effffe5ebecbc",
+        "title": "Trump\u2019s trade victims are shrugging off his attacks",
+        "url": "https://www.economist.com/finance-and-economics/2025/08/20/trumps-trade-victims-are-shrugging-off-his-attacks",
+        "source": "Finance & economics",
+        "published": "Wed, 20 Aug 2025 15:33:32 +0000",
+        "published_dt": "2025-08-20T15:33:32+00:00",
+        "summary": "And China is gaining in the process"
+      },
+      {
         "id": "529f8408ecc8f29f",
         "title": "In praise of complicated investing strategies",
         "url": "https://www.economist.com/finance-and-economics/2025/08/18/in-praise-of-complicated-investing-strategies",
@@ -547,13 +583,13 @@
         "summary": "Beware the data-centre takeover"
       },
       {
-        "id": "c06144088da9da8e",
-        "title": "Why America can\u2019t shake off inflation",
-        "url": "https://www.economist.com/finance-and-economics/2025/08/17/why-america-cant-shake-off-inflation",
+        "id": "c6643b93d663181b",
+        "title": "Where has the worst inflation problem?",
+        "url": "https://www.economist.com/finance-and-economics/2025/08/17/where-has-the-worst-inflation-problem",
         "source": "Finance & economics",
         "published": "Sun, 17 Aug 2025 15:36:18 +0000",
         "published_dt": "2025-08-17T15:36:18+00:00",
-        "summary": "Our measure of entrenchment suggests its problem is among the rich world\u2019s worst"
+        "summary": "We update our entrenchment measure"
       },
       {
         "id": "6ef65644927db2af",
@@ -644,62 +680,35 @@
         "published": "Wed, 16 Jul 2025 16:03:33 +0000",
         "published_dt": "2025-07-16T16:03:33+00:00",
         "summary": "Trump\u2019s tariffs have brought a double serving of pain"
-      },
-      {
-        "id": "6d61eece88a91169",
-        "title": "War, geopolitics, energy crisis: how the economy evades every disaster",
-        "url": "https://www.economist.com/finance-and-economics/2025/07/15/war-geopolitics-energy-crisis-how-the-economy-evades-every-disaster",
-        "source": "Finance & economics",
-        "published": "Tue, 15 Jul 2025 16:40:38 +0000",
-        "published_dt": "2025-07-15T16:40:38+00:00",
-        "summary": "A new form of capitalism may explain its success"
-      },
-      {
-        "id": "bd5394c20ecf51f7",
-        "title": "Want to be a good explorer? Study economics",
-        "url": "https://www.economist.com/finance-and-economics/2025/07/10/want-to-be-a-good-explorer-study-economics",
-        "source": "Finance & economics",
-        "published": "Thu, 10 Jul 2025 09:57:20 +0000",
-        "published_dt": "2025-07-10T09:57:20+00:00",
-        "summary": "The battle to reduce risk has shaped centuries of ventures"
-      },
-      {
-        "id": "ed70be0d0c5de978",
-        "title": "Inside Iran\u2019s war economy",
-        "url": "https://www.economist.com/finance-and-economics/2025/07/03/inside-irans-war-economy",
-        "source": "Finance & economics",
-        "published": "Thu, 03 Jul 2025 09:57:06 +0000",
-        "published_dt": "2025-07-03T09:57:06+00:00",
-        "summary": "Airstrikes and sanctions leave the country poor. They do little to halt its nuclear development"
-      },
-      {
-        "id": "385cda00bd7d34e8",
-        "title": "Can China reclaim its IPO crown?",
-        "url": "https://www.economist.com/finance-and-economics/2025/06/15/can-china-reclaim-its-ipo-crown",
-        "source": "Finance & economics",
-        "published": "Sun, 15 Jun 2025 16:54:13 +0000",
-        "published_dt": "2025-06-15T16:54:13+00:00",
-        "summary": "Hong Kong is hot. The mainland very much is not"
       }
     ],
     "Cross-Disciplinary": [
       {
-        "id": "22e2e769afa71299",
-        "title": "The Download: churches in the age of AI, and how to run an LLM at home",
-        "url": "https://www.technologyreview.com/2025/08/20/1122162/the-download-churches-in-the-age-of-ai-and-how-to-run-an-llm-at-home/",
+        "id": "1b52d808d68f5d34",
+        "title": "The Download: Ukraine\u2019s Starlink repair shop, and predicting solar storms",
+        "url": "https://www.technologyreview.com/2025/08/21/1122298/the-download-ukraines-starlink-repair-shop-and-predicting-solar-storms/",
         "source": "MIT Technology Review",
-        "published": "Wed, 20 Aug 2025 12:10:00 +0000",
-        "published_dt": "2025-08-20T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How churches use data and AI as engines of surveillance On a Sunday morning in a Midwestern megachurch, worshippers step through sliding glass doors into a bustling lobby\u2014unaware they\u2019ve just passed through a&#8230;"
+        "published": "Thu, 21 Aug 2025 12:10:00 +0000",
+        "published_dt": "2025-08-21T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. On the ground in Ukraine\u2019s largest Starlink repair shop Starlink is absolutely critical to Ukraine\u2019s ability to continue in the fight against Russia. It\u2019s how troops in battle zones stay connected with faraway&#8230;"
       },
       {
-        "id": "3486f92f93614eb0",
-        "title": "Material Cultures looks to the past to build the future",
-        "url": "https://www.technologyreview.com/2025/08/20/1121416/material-cultures-architecture-sustainability/",
+        "id": "24d60befb1d72de4",
+        "title": "In a first, Google has released data on how much energy an AI prompt uses",
+        "url": "https://www.technologyreview.com/2025/08/21/1122288/google-gemini-ai-energy/",
         "source": "MIT Technology Review",
-        "published": "Wed, 20 Aug 2025 10:00:00 +0000",
-        "published_dt": "2025-08-20T10:00:00+00:00",
-        "summary": "Despite decades of green certifications, better material sourcing, and the use of more sustainable materials such as mass timber, the built environment is still responsible for a third of global emissions worldwide. According to a 2024 UN report, the building sector has fallen \u201csignificantly behind on progress\u201d toward becoming more sustainable. Changing the way we&#8230;"
+        "published": "Thu, 21 Aug 2025 12:00:00 +0000",
+        "published_dt": "2025-08-21T12:00:00+00:00",
+        "summary": "Google has just released a technical report detailing how much energy its Gemini apps use for each query. In total, the median prompt\u2014one that falls in the middle of the range of energy demand\u2014consumes 0.24 watt-hours of electricity, the equivalent of running a standard microwave for about one second. The company also provided average estimates&#8230;"
+      },
+      {
+        "id": "405542597e6e17ae",
+        "title": "Why recycling isn\u2019t enough to address the plastic problem",
+        "url": "https://www.technologyreview.com/2025/08/21/1122247/recycling-climate-emissions/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 21 Aug 2025 10:00:00 +0000",
+        "published_dt": "2025-08-21T10:00:00+00:00",
+        "summary": "I remember using a princess toothbrush when I was little. The handle was purple, teal, and sparkly. Like most of the other pieces of plastic that have ever been made, it\u2019s probably still out there somewhere, languishing in a landfill. (I just hope it\u2019s not in the ocean.) I\u2019ve been thinking about that toothbrush again&#8230;"
       },
       {
         "id": "0080bc7266db31c2",
@@ -709,6 +718,15 @@
         "published": "Tue, 19 Aug 2025 18:00:04 +0000",
         "published_dt": "2025-08-19T18:00:04+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/steve-mann-adjusting-a-wearable-computing-device-called-the-eyetap-it-resembles-a-thin-pair-of-electronic-eyeglasses.jpg?id=61487265&amp;width=2000&amp;height=1500&amp;coordinates=199%2C0%2C199%2C0\" /><br /><br /><p>In the 1980s, people weren\u2019t <a href=\"https://spectrum.ieee.org/steve-mann-my-augmediated-life\" target=\"_self\">wearing head-mounted cameras, displays, or computers</a>. Except for high school student <a href=\"https://www.ece.utoronto.ca/people/mann-s/\" rel=\"noopener noreferrer\" target=\"_blank\">Steve Mann</a>, who regularly wore his homemade electronic computer vision system (seeing aid).</p><p>Back then, Mann attracted stares, questions, suspicion, and sometimes hostility. But it didn\u2019t stop him from refining the technology he developed. It now underlies <a href=\"https://www.pcmag.com/picks/the-best-smart-glasses\" rel=\"noopener noreferrer\" target=\"_blank\">augmented-reality eyeglasses</a>\u2014including those by <a href=\"https://www.google.com/glass/photography/\" rel=\"noopener noreferrer\" target=\"_blank\">Google</a> and<a href=\"https://www.magicleap.com/\" rel=\"noopener noreferrer\" target=\"_blank\"> Magic Leap</a>\u2014that are used in operating rooms and industrial settings such as factories and warehouses.</p><h3>Steve Mann</h3><br /><p><strong></strong><strong>Employer:</strong> </p><p>University of Toronto</p><p><strong>Job title:</strong> </p><p>Professor of electrical and computer engineering, computer science, and forestry </p><p><strong>Member grade: </strong></p><p><strong></strong>Fellow</p><p><strong>Alma maters:</strong> </p><p>McMaster University in Hamilton, Ontario; MIT </p><p>Although head-mounted computers haven\u2019t reached smartphone-level ubiquity, when Mann wears XR (eXtended Reality, something he and Charles Wyckoff <a href=\"https://wearcam.org/xr.htm\" rel=\"noopener noreferrer\" target=\"_blank\">invented at MIT in 1991</a>) gear these days as a professor of electrical and computer engineering, computer science, and forestry at the <a href=\"https://www.utoronto.ca/\" rel=\"noopener noreferrer\" target=\"_blank\">University of Toronto</a>, he doesn\u2019t turn as many heads as he used to.</p><p>In part because of his inventiveness and creativity, the IEEE Fellow was honored for his contributions to wearable computing and the concept of <a href=\"https://wearcam.org/sousveillance.htm\" rel=\"noopener noreferrer\" target=\"_blank\">sousveillance</a>\u2014the practice of using personal recording devices to watch the watchers and invert traditional surveillance power structures\u2014with this year\u2019s IEEE <a href=\"https://corporate-awards.ieee.org/award/ieee-masaru-ibuka-consumer-technology-award/\" rel=\"noopener noreferrer\" target=\"_blank\">Masaru Ibuka Consumer Technology Award. S</a>ponsored by <a href=\"https://www.sony.com/en/\" rel=\"noopener noreferrer\" target=\"_blank\">Sony</a>, the award was bestowed by the <a href=\"https://ctsoc.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Consumer Technology Society</a> at the <a href=\"https://www.ces.tech/\" rel=\"noopener noreferrer\" target=\"_blank\">Consumer Electronics Show</a> held in January in Las Vegas.</p><h2>Empowering people through wearable tech</h2><p>Mann is regarded as the <a href=\"https://youtu.be/Z9qiWqRPrcw?si=4xVRwWN1RMgANiBA\" rel=\"noopener noreferrer\" target=\"_blank\">\u201cfather of wearable computing</a>.\u201d Asked what he thinks about the moniker, he says it\u2019s less about the title and more about empowering people to see the world\u2014and themselves\u2014in new ways.</p><p>His research and systematic reimagining of how electronic devices can support and extend human abilities, especially vision, have yielded benefits for society. Among them are assisting the visually impaired with the ability to identify objects and enabling experts to remotely view what frontline workers see and then guide them from afar.</p><p>His IEEE award came one month after he received the <a href=\"https://lifeboat.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Lifeboat Foundation</a>\u2019s <a href=\"https://lifeboat.com/ex/guardian.award\" rel=\"noopener noreferrer\" target=\"_blank\">Guardian Award</a>, given to a scientist or public figure \u201cwho has warned of a future fraught with dangers and encouraged measures to prevent them.\u201d The foundation is a nonprofit, nongovernmental organization dedicated to encouraging scientific advancements while helping humanity survive existential risks and possible misuse of increasingly powerful technologies including genetic engineering, nanotechnology, and robotics/AI.</p><h2>A natural-born tinkerer </h2><p>It stands to reason that Mann would become a leading tinkerer. His earliest memories are of welding with his grandfather and knitting with his grandmother\u2014unusual hobbies for a typical 4-year-old, though not in Mann\u2019s family. His father, who worked for a men\u2019s clothing company, supplemented his income by buying and renovating houses, long before the concept of <a href=\"https://www.investopedia.com/articles/mortgages-real-estate/08/house-flip.asp\" rel=\"noopener noreferrer\" target=\"_blank\">flipping houses</a> became widespread.</p><p>\u201cWe were always living in a house under construction,\u201d Mann recalls. \u201cI used to help my dad fix things when I was 4 or 5\u2014hammer in my hand\u2014normal stuff.\u201d His grandfather, a refrigeration engineer, taught him how to weld. By age 6, he was wiring and building homemade radios. By the time he was 8, he had started a neighborhood repair business, fixing televisions and radios.</p><p>\u201cIn a sense, preschool for me was learning engineering and science,\u201d Mann says with a laugh. \u201cI grew up putting together wood, metal, or fabric. I knew how to make things at a very young age.\u201d</p><h2>Learning to see what others miss</h2><p>When Mann was 12 years old, his father brought home a broken oscillograph (an early version of the oscilloscope, used to display variations in voltage or current as visual waveforms). It turned out to be a defining moment in his life. Too impatient to accept that the waveform dot on the machine\u2019s display moved only up and down instead of both vertically and horizontally, Mann invented a way to push its image through physical space.</p><p>He placed the oscillograph\u2014which he now keeps on a shelf in his laboratory\u2014on a board mounted on roller skate wheels. He connected the device to a police radar and rolled it back and forth. When he realized the machine\u2019s motion, combined with the dot\u2019s vertical movement, created visible waveforms of the radar\u2019s signals, as a function of space rather than time, he unknowingly made a revolutionary discovery.</p><p>Later he would describe that merging of physical and virtual worlds as \u201cextended reality\u201d\u2014a concept that underlies today\u2019s<a href=\"https://spectrum.ieee.org/ieee-alliance-advancing-augmented-reality\" target=\"_self\"> AR</a> and <a href=\"https://spectrum.ieee.org/tag/extended-reality\" target=\"_self\">XR</a> technologies. It wouldn\u2019t be the last time Mann\u2019s curiosity turned a problem into an opportunity.</p><p>Decades later, on the main floor of his Toronto home, he co-founded <a href=\"https://choosemuse.com/pages/team\" rel=\"noopener noreferrer\" target=\"_blank\">InteraXon</a>, the Toronto-based company behind the <a href=\"https://choosemuse.com/?srsltid=AfmBOoqc3ta8hB6lNjQIi_jbX_Go5LphTzvrPTwE1tsykr5bg8XsWn-I\" rel=\"noopener noreferrer\" target=\"_blank\">Muse brain-sensing headband</a>, used to help people manage sleep, stress, and mental health.</p><p>Mann shares legendary 1970s <a href=\"https://www.nytimes.com/interactive/2024/03/26/business/silicon-valley-tech-xerox-parc-sri.html\" rel=\"noopener noreferrer\" target=\"_blank\">Xerox PARC</a> researcher <a href=\"https://amturing.acm.org/award_winners/kay_3972189.cfm\" rel=\"noopener noreferrer\" target=\"_blank\">Alan Kay</a>\u2019s belief that \u201c<a href=\"https://www.forbes.com/sites/chunkamui/2017/04/04/7-steps-for-inventing-the-future/\" rel=\"noopener noreferrer\" target=\"_blank\">The best way to predict the future is to invent it</a>.\u201d Mann, however, adds: \u201cSometimes you invent it by simply refusing to accept the limitations of the present.\u201d</p><h2>A member of MIT\u2019s Media Lab</h2><p> In high school, Mann won several math competitions designed to challenge students at university level. In 1982 he enrolled in <a href=\"https://www.mcmaster.ca/\" rel=\"noopener noreferrer\" target=\"_blank\">McMaster University</a>, in Hamilton, Ontario, to pursue a degree in engineering physics (an interdisciplinary program that combines physics, mathematics, and engineering principles). As an undergraduate, Mann was already experimenting with early prototypes of wearable computers\u2014head-mounted displays, body-worn cameras, and portable computing systems that predated mainstream mobile tech by decades.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Rehmi Post, Thad Starner, Steve Mann and Professor Alex Pentland donning wearable computers that resemble electronic eyeglasses in the 1990s. They are sitting on steps outside of a building at MIT.\" class=\"rm-shortcode\" id=\"58159\" src=\"https://spectrum.ieee.org/media-library/rehmi-post-thad-starner-steve-mann-and-professor-alex-pentland-donning-wearable-computers-that-resemble-electronic-eyeglasses.jpg?id=61487346&amp;width=980\" /> <small class=\"image-media media-caption\">Mann [far right] sits alongside fellow MIT Media Lab graduate students, modeling the wearable computers or smart clothes they were developing as part of their Ph.D. research. </small><small class=\"image-media media-photo-credit\">Pam Berry/The Boston Globe/Getty Images</small></p><p>He earned a bachelor\u2019s degree in 1986. He continued his studies at McMaster to earn a second bachelor\u2019s degree in electrical engineering in 1989, then a master\u2019s degree in engineering in 1991.</p><p>He then enrolled in a doctoral program at <a href=\"https://www.mit.edu/\" target=\"_blank\">MIT</a>, where he joined its renowned <a href=\"https://www.media.mit.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">Media Lab</a>, a hotbed for unconventional research blending technology, design, and the human experience. He formalized and expanded his ideas around wearable computing, wearable computer vision systems, and wearable AI. He also published some of the earliest academic papers that described the concept of sousveillance.</p><p>He completed his Ph.D. in media arts and sciences in 1997.</p><p>Mann\u2019s doctoral research contributed foundational concepts and hardware that influenced future smart glasses and devices for life logging, the practice of creating a digital record of one\u2019s daily life. He also helped blaze a trail for the fields of <a href=\"https://spectrum.ieee.org/augmented-reality-glasses-metasurface\" target=\"_self\">augmented reality</a> and <a href=\"https://spectrum.ieee.org/the-inescapability-of-ambient-computing\" target=\"_self\">ubiquitous computing</a>.</p><h2>Knitting passions into a unique academic career</h2><p>After completing his Ph.D., Mann returned to Canada and took a position at the University of Toronto as a professor of electrical and computer engineering in 1998. He says he is equally as fascinated by how technology interacts with the natural world as he is by how to remove barriers between the physical world and virtual world.</p><p><span>His interests connect to what he calls \u201cvironmentalism,\u201d which regards technology as a boundary between our environment and our \u201cvironment\u201d (ourselves). This gives rise to his vision of \u201cmersive\u201d technologies that link humans not just to each other but also to the environment around them.</span></p><p class=\"pull-quote\"><span></span>\u201cGo beyond [what\u2019s covered at] school. Define yourself by what you love so much you\u2019d do it [even if no teachers or managers were demanding it]. AI can replace a walking encyclopedia. It can\u2019t replace passion.\u201d</p><p><span>\u201cIt\u2019s advancing technology for humanity </span><em><em>and</em></em><span> Earth,\u201d he says, riffing on IEEE\u2019s mission statement. His guiding principle also explains his cross-appointment in the University of Toronto\u2019s forestry department (now part of the Faculty of Architecture, Landscape, and Design)\u2014an unusual entry on an electrical and computer engineering professor\u2019s CV.</span></p><h2>IEEE and building community</h2><p>Prior to his groundbreaking doctoral work at MIT, Mann had already joined IEEE in 1988. He credits the organization with connecting him to pioneers like <a href=\"https://www.eng.mcmaster.ca/news/simon-haykin-receives-ieee-medal-for-advancing-radar-technologies/\" target=\"_blank\">Simon Haykin</a>, the radar visionary he met at McMaster while he was in high school. Haykin pushed him to dream big, he says.</p><p>Mann has been active in the<a href=\"https://www.computer.org/\" target=\"_blank\"> IEEE Computer</a> and <a href=\"https://ctsoc.ieee.org/\" target=\"_blank\">IEEE Consumer Technology</a> societies. He has served as an organizer, session chair, and program committee member for IEEE conferences related to wearable computing and pervasive sensing.</p><p>In 1997 he helped found the<a href=\"https://www.ubicomp.org/ubicomp-iswc-2024/iswc-2024/\" rel=\"noopener noreferrer\" target=\"_blank\"> International Symposium on Wearable Computers</a>, and numerous other wearable computing symposia, conferences, and events.</p><p>He has given keynote talks and presented papers on topics including sousveillance, ubiquitous computing, and other humanistic aspects of technology at the <a href=\"https://attend.ieee.org/istas-2025/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE International Symposium on Technology and Society</a> and the <a href=\"https://percom.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE International Conference on Pervasive Computing and Communications</a>.</p><p>His contributions include influential papers in IEEE journals, especially various IEEE Transactions and Computer Society magazines.</p><p>Probably his most well-known paper is \u201c<a href=\"https://ieeexplore.ieee.org/abstract/document/566147\" rel=\"noopener noreferrer\" target=\"_blank\">Wearable Computing</a>.\u201d Published in <a href=\"https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=PER300-PRT\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>Computer</em></em></a> magazine in October 1997, the seminal work outlined the structure and vision for wearable computing as a formal research field. He also contributed articles on sousveillance\u2014exploring the intersection of technology, ethics, and human rights\u2014in <a href=\"https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=44\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>IEEE Technology and Society Magazine</em></em></a>.</p><p>He has collaborated with other IEEE members to develop frameworks for <a href=\"https://standards.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">wearable computing standards</a>, particularly around human-computer interfaces and privacy considerations.</p><h2>Forever the inventor</h2><p>Mann continues to teach, run his lab, and test new frontiers of <a href=\"https://spectrum.ieee.org/tag/wearables\" target=\"_self\">wearable devices</a>,<a href=\"https://spectrum.ieee.org/smart-clothing-cornell\" target=\"_self\"> smart clothing</a>, and <a href=\"https://www.xrtoday.com/mixed-reality/the-hottest-trends-in-immersive-environments-for-2024/\" rel=\"noopener noreferrer\" target=\"_blank\">immersive environments</a>. He\u2019s still driven, he says, by the same forces that powered his backyard experiments as a child: curiosity and passion.</p><p>For students who hope to follow in his footsteps, Mann\u2019s advice is simple: \u201cGo beyond [what\u2019s covered at] school. Don\u2019t define yourself by the classes you took or the jobs you had. Define yourself by what you love so much you\u2019d do it \u201ceven if no teachers or managers were demanding it\u201d. He adds that, \u201cAI can replace a walking encyclopedia. It can\u2019t replace passion.\u201d</p><p>Mann says he has no plans to retire. If anything, he says, his most productive years are yet to come.</p><p>\u201cI feel like I\u2019m a late bloomer,\u201d he says, chuckling at the irony. \u201cI was fixing radios when I was 8, but my best work? That\u2019s going to happen between 65 and 85.\u201d</p>"
+      },
+      {
+        "id": "419d86f083ded393",
+        "title": "On the ground in Ukraine\u2019s largest Starlink repair shop",
+        "url": "https://www.technologyreview.com/2025/08/21/1122035/ukraines-largest-starlink-repair-shop/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 21 Aug 2025 09:00:00 +0000",
+        "published_dt": "2025-08-21T09:00:00+00:00",
+        "summary": "Oleh Kovalskyy thinks that Starlink terminals are built as if someone assembled them with their feet. Or perhaps with their hands behind their back.&#160; To demonstrate this last image, Kovalskyy\u2014a large, 47-year-old Ukrainian, clad in sweatpants and with tattoos stretching from his wrists up to his neck\u2014leans over to wiggle his fingers in the air&#8230;"
       },
       {
         "id": "900a28de3a85be16",
@@ -762,7 +780,7 @@
         "source": "IEEE Spectrum",
         "published": "Sun, 17 Aug 2025 13:00:02 +0000",
         "published_dt": "2025-08-17T13:00:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/model-showing-space-debris-around-earth-comprising-billions-of-objects.jpg?id=61466559&amp;width=2000&amp;height=1500&amp;coordinates=321%2C0%2C321%2C0\" /><br /><br /><p>The numbers paint a stark picture of our <a href=\"https://spectrum.ieee.org/laser-could-clear-space-junk-from-orbit\" target=\"_blank\">orbital traffic problem</a>: More than 11,000 active satellites currently circle Earth, with thousands more planned for launch in coming years. Even more concerning are the over 1.2 million pieces of space debris larger than one centimeter hurtling through space at incredible speeds. At those velocities, even a paint chip can damage a spacecraft, while larger debris can <a href=\"https://spectrum.ieee.org/satellite-jamming\" target=\"_blank\">destroy entire satellites</a>.</p><p>This growing congestion has turned collision avoidance into a daily headache for satellite operators worldwide. Currently, teams of specialists must manually assess threats, calculate risks, and coordinate with other operators when collisions seem likely. This process is time consuming, labor intensive, and prone to communication breakdowns that can complicate emergency responses.</p><div class=\"badge_module shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\">\n<a class=\"rm-stats-tracked\" href=\"https://www.universetoday.com/\" target=\"_blank\">\n<img alt=\"Universe Today logo; text reads &quot;This post originally appeared on Universe Today.&quot;\" class=\"rm-shortcode rm-lazyloadable-image\" src=\"https://spectrum.ieee.org/media-library/universe-today-logo-text-reads-this-post-originally-appeared-on-universe-today.png?id=60568425&amp;width=1800&amp;quality=85\" /></a>\n</div>\n<p>That is where the European Space Agency\u2019s <a href=\"https://www.esa.int/Space_Safety/Space_Debris/CREAM_avoiding_collisions_in_space_through_automation\" target=\"_blank\">Collision Risk Estimation and Automated Mitigation</a> (CREAM) project comes in. It aims to revolutionize this chaotic process by automating most collision avoidance activities. The system can evaluate potential crashes, generate precise maneuver plans, and support decision making with minimal human intervention. Think of it as an air traffic control system for space, but with artificial intelligence handling much of the complex coordination.</p><h2>An AI Negotiator</h2><p>One of CREAM\u2019s most innovative features is its ability to connect different types of organizations involved in space operations. Satellite operators, space monitoring services, regulators, and observers can all communicate through the system, streamlining what was previously a fragmented and often frustrating process.</p><p>The system goes even further by facilitating negotiations between operators when potential collisions involve two active satellites rather than debris. If operators disagree on the best solution, CREAM can refer the dispute to mediation services, ensuring fair and transparent resolution.</p><p>Currently, CREAM exists as a ground-based prototype system developed by <a href=\"https://www.gmv.com/en\" target=\"_blank\">GMV</a>, a Spanish private capital interest group, and <a href=\"https://guardtime.com/\" target=\"_blank\">Guardtime</a>, an Estonian data management company. This version can already provide collision alerts and generate actionable avoidance maneuvers that ground crews can implement. However, the real breakthrough will come when CREAM moves into orbit itself.</p><p>The project is preparing for expanded pilot testing while simultaneously developing space-based versions. These include \u201cpiggyback missions\u201d where CREAM will ride aboard other spacecraft as a digital payload, plus a dedicated demonstration mission to test the system\u2019s capabilities in the harsh environment of space.</p><p>Beyond preventing immediate collisions, CREAM addresses a fundamental challenge in space governance. Establishing \u201crules of the road\u201d for space traffic has always faced a chicken and egg problem; you need both international agreement on the rules and the technology to enforce them.</p><p>CREAM provides that missing technological foundation. The system offers standardized tools that help operators follow best practices while giving regulators ways to monitor compliance. Its flexible design allows non-technical users to update standards and rules as international norms evolve. This adaptability ensures CREAM will remain relevant as space technology advances and new challenges emerge. Rather than becoming obsolete, the system can grow and adapt alongside our expanding presence in space.</p>"
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/model-showing-space-debris-around-earth-comprising-billions-of-objects.jpg?id=61466559&amp;width=2000&amp;height=1500&amp;coordinates=321%2C0%2C321%2C0\" /><br /><br /><p>The numbers paint a stark picture of our <a href=\"https://spectrum.ieee.org/laser-could-clear-space-junk-from-orbit\" target=\"_blank\">orbital traffic problem</a>: More than 11,000 active satellites currently circle Earth, with thousands more planned for launch in coming years. Even more concerning are the over 1.2 million pieces of space debris larger than one centimeter hurtling through space at incredible speeds. At those velocities, even a paint chip can damage a spacecraft, while larger debris can <a href=\"https://spectrum.ieee.org/satellite-jamming\" target=\"_blank\">destroy entire satellites</a>.</p><p>This growing congestion has turned collision avoidance into a daily headache for satellite operators worldwide. Currently, teams of specialists must manually assess threats, calculate risks, and coordinate with other operators when collisions seem likely. This process is time consuming, labor intensive, and prone to communication breakdowns that can complicate emergency responses.</p><div class=\"badge_module shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\">\n<a class=\"rm-stats-tracked\" href=\"https://www.universetoday.com/\" target=\"_blank\">\n<img alt=\"Universe Today logo; text reads &quot;This post originally appeared on Universe Today.&quot;\" class=\"rm-shortcode rm-lazyloadable-image\" src=\"https://spectrum.ieee.org/media-library/universe-today-logo-text-reads-this-post-originally-appeared-on-universe-today.png?id=60568425&amp;width=1800&amp;quality=85\" /></a>\n</div>\n<p>That is where the European Space Agency\u2019s <a href=\"https://www.esa.int/Space_Safety/Space_Debris/CREAM_avoiding_collisions_in_space_through_automation\" target=\"_blank\">Collision Risk Estimation and Automated Mitigation</a> (CREAM) project comes in. It aims to revolutionize this chaotic process by automating most collision-avoidance activities. The system can evaluate potential crashes, generate precise maneuver plans, and support decision-making with minimal human intervention. Think of it as an air traffic control system for space, but with artificial intelligence handling much of the complex coordination.</p><h2>An AI Negotiator</h2><p>One of CREAM\u2019s most innovative features is its ability to connect different types of organizations involved in space operations. Satellite operators, space-monitoring services, regulators, and observers can all communicate through the system, streamlining what was previously a fragmented and often frustrating process.</p><p>The system goes even further by facilitating negotiations between operators when potential collisions involve two active satellites rather than debris. If operators disagree on the best solution, CREAM can refer the dispute to mediation services, ensuring fair and transparent resolution.</p><p>Currently, CREAM exists as a ground-based prototype system developed by <a href=\"https://www.gmv.com/en\" target=\"_blank\">GMV</a>, a Spanish private capital interest group, and <a href=\"https://guardtime.com/\" target=\"_blank\">Guardtime</a>, an Estonian data-management company. This version can already provide collision alerts and generate actionable avoidance maneuvers that ground crews can implement. However, the real breakthrough will come when CREAM moves into orbit itself.</p><p>The project is preparing for expanded pilot testing while simultaneously developing space-based versions. These include \u201cpiggyback missions\u201d where CREAM will ride aboard other spacecraft as a digital payload, plus a dedicated demonstration mission to test the system\u2019s capabilities in the harsh environment of space.</p><p>Beyond preventing immediate collisions, CREAM addresses a fundamental challenge in space governance. Establishing \u201crules of the road\u201d for space traffic has always faced a chicken and egg problem; you need both international agreement on the rules and the technology to enforce them.</p><p>CREAM provides that missing technological foundation. The system offers standardized tools that help operators follow best practices while giving regulators ways to monitor compliance. Its flexible design allows nontechnical users to update standards and rules as international norms evolve. This adaptability ensures CREAM will remain relevant as space technology advances and new challenges emerge. Rather than becoming obsolete, the system can grow and adapt alongside our expanding presence in space.</p>"
       },
       {
         "id": "027b4a62c3b18a48",
@@ -819,13 +837,67 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/semiconductor-wafer-being-tested-on-a-probe-station.jpg?id=61429118&amp;width=2000&amp;height=1500&amp;coordinates=278%2C0%2C278%2C0\" /><br /><br /><p>Today\u2019s <a href=\"https://spectrum.ieee.org/hot-chips\" target=\"_self\">semiconductor devices</a> are built with nanometer-scale features and operate at increasingly lower voltages\u2014which makes them more susceptible to even minor electrical overstress.</p><p>Electrostatic discharge (ESD) is a persistent, costly challenge in the electronics industry. A discharge of just 100 volts can degrade or destroy sensitive components designed to operate at voltages as low as 1.2 V.</p><p>According to the <a href=\"https://www.esda.org/\" rel=\"noopener noreferrer\" target=\"_blank\">EOS/ESD Association</a>, ESD rapidly and spontaneously transfers an electrostatic charge induced by a high electrostatic field. It typically occurs when two objects with different electrical potentials come into contact or close proximity, allowing electrons to jump between them, often through a small spark.</p><p>ESD can cause immediate physical damage to circuit paths or introduce latent defects that lead to failures later in the product life cycle.</p><p>As electrical devices become smaller and more sensitive, the ESD risks grow, along with their financial impact.</p><p>Industry experts estimate that <a href=\"https://www.escatec.com/blog/esd-electronics-manufacturing\" rel=\"noopener noreferrer\" target=\"_blank\">ESD is responsible for more than 30 percent</a> of semiconductor failures during manufacturing and handling.</p><p>The financial impact can add up quickly. The cost of the discharge damage can range from a few US cents for a simple diode to thousands of dollars for complex integrated circuits, according to the EOS/ESD Association. When factoring in revisions, labor, shipping, and overhead, the total cost to manufacturers can be substantial.</p><h2>A new ESD protection design program</h2><p>To equip engineers, technicians, and quality-assurance professionals with knowledge and tools to mitigate electrostatic discharge, IEEE has launched a <a href=\"https://innovate.ieee.org/esd-protection-design\" rel=\"noopener noreferrer\" target=\"_blank\">Practical ESD Protection Design</a> course and certificate program.<strong> </strong>The new training is suitable for individuals and organizations seeking to improve their ESD control.</p><p>The standards-based instruction is aligned with <a href=\"https://blog.ansi.org/ansi/ansi-esd-s20-20-2021-protection-electronic-parts/\" rel=\"noopener noreferrer\" target=\"_blank\">ANSI/ESD S20.20\u201321: Protection of Electrical and Electronic Parts</a> and other industry guidelines. The interactive modules cover theory, real-world case studies, and practical mitigation techniques.</p><p>\u201cAn understanding of ESD is valued in multiple areas, ranging from design to testing and handling equipment in the field,\u201d says <a href=\"https://www.linkedin.com/in/zachariah-peterson/\" rel=\"noopener noreferrer\" target=\"_blank\">Zachariah Peterson</a>, an IEEE member and ESD industry expert and executive consultant for <a href=\"https://www.nwengineeringllc.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Northwest Engineering Solutions</a>, in Portland, Ore. </p><p>\u201cEquipment failure due to ESD results in more than just rework costs, the damage is also to a company\u2019s brand. The ability to anticipate ESD gives engineers a critical leg up in building reliable products and a durable business.\u201d</p><p>After successfully completing the training program, learners earn an IEEE certificate for 89 professional development hours and 8.9 continuing education units.</p><p>As the electronics industry evolves, the importance of ESD control is likely to increase. With the rise of <a href=\"https://spectrum.ieee.org/ieee-ai-training-mini-mba\" target=\"_self\">artificial intelligence</a>, <a href=\"https://spectrum.ieee.org/ieee-5g-and-6g-training\" target=\"_self\">5G</a>, and edge computing, the demand for high-performance, reliable chips is growing while the margin for error is shrinking.</p><p>The IEEE Practical ESD Protection Design program is not just a preventative measure; it\u2019s a strategic choice that can support innovation, quality, and long-term success.</p>"
       },
       {
+        "id": "2c00d5a73d6a3553",
+        "title": "Forging connections in space with cellular technology",
+        "url": "https://www.technologyreview.com/2025/08/20/1121888/forging-connections-in-space-with-cellular-technology/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 20 Aug 2025 16:02:16 +0000",
+        "published_dt": "2025-08-20T16:02:16+00:00",
+        "summary": ""
+      },
+      {
+        "id": "55ffd4a0739ade4a",
+        "title": "Learning More With Less",
+        "url": "https://spectrum.ieee.org/africa-engineering-hardware",
+        "source": "IEEE Spectrum",
+        "published": "Wed, 20 Aug 2025 13:05:03 +0000",
+        "published_dt": "2025-08-20T13:05:03+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-black-man-sitting-on-a-table-surrounded-by-3d-printers-and-cables.png?id=61482834&amp;width=2000&amp;height=1500&amp;coordinates=124%2C0%2C125%2C0\" /><br /><br /><p><strong>My name is Engineer Bainomugisha.</strong> Yes, Engineer is my first name and also my career. My parents named me Engineer, and they recognized engineering traits in me from childhood, such as perseverance, resilience, and wanting to understand how things work.</p><p>I grew up and spent my early years in a rural part of Uganda, more than 300 kilometers outside of Kampala, the capital city. As a young boy, I was always tinkering and hustling: I harvested old radio batteries to power lighting, created household utensils from wood, and herded animals and sold items to help the village make money.</p><h3>The Student & the\u00a0Professor</h3><br /><p><strong>Two perspectives on engineering education in Africa</strong></p><p><em><em>Johnson I. Ejimanya is a one-man pony express. Walking the exhaust-fogged streets of Owerri, Nigeria, Ejimanya, the engineering dean of the Federal University of Technology, Owerri, carries with him a department\u2019s worth of communications, some handwritten, others on disk. He\u2019s delivering them to a man with a PC and an Internet connection who converts the missives into e-mails and downloads the responses. To Ejimanya, broadband means lugging a big bundle of printed e-mails back with him to the university, which despite being one of the country\u2019s largest and most prestigious engineering schools, has no reliable means of connecting to the Internet.</em></em></p>\n<p>I met Ejimanya when I visited Nigeria in 2003 to report on how the SAT-3/WASC, the first undersea fiber-optic cable to connect West Africa to the world, was being used. (The passage above is from my February 2004 <em><em>IEEE</em></em> <em><em>Spectrum</em></em> article \u201c<a href=\"https://spectrum.ieee.org/surf-africa\" target=\"_self\">Surf Africa</a>.\u201d) Beyond the lack of computers and Internet access, I saw labs filled with obsolete technology from the 1960s. If students needed a computer or to get online, they went to an Internet cafe, their out-of-pocket costs a burden on them and their families.</p><p>So is the situation any better 20-plus years on? The short answer is yes. But as computer science professor <a href=\"https://ibaino.net/\" rel=\"noopener noreferrer\" target=\"_blank\">Engineer Bainomugisha</a> and IEEE student member <a href=\"https://www.linkedin.com/in/oluwatosin-kolade/?originalSubdomain=ng\" rel=\"noopener noreferrer\" target=\"_blank\">Oluwatosin Kolade</a> attest in the following pages, there\u2019s still a long way to go.</p><p>Both men are engineers but at different stages of their academic journey: Bainomugisha went to college in the early 2000s and is now a computer science professor at <a href=\"https://mak.ac.ug/\" rel=\"noopener noreferrer\" target=\"_blank\">Makerere University</a> in Kampala, Uganda. Kolade is in his final semester as a mechanical engineering student at <a href=\"https://oauife.edu.ng/\" rel=\"noopener noreferrer\" target=\"_blank\">Obafemi Awolowo University</a> in Il\u00e9-If\u1eb9\u0300, Nigeria. They describe the challenges they face and what they see as the path forward for a continent brimming with aspiring engineers but woefully short on the resources necessary for a robust education.</p><p><span></span>\u2014Harry Goldstein</p><p>In high school, I studied physics, chemistry, maths, and biology. When I started studying at <a href=\"https://mak.ac.ug/\" rel=\"noopener noreferrer\" target=\"_blank\">Makerere University</a>, in Kampala, I joined the computer science program. This was in 2003. I had never interfaced with a computer before, and this was true for many of my classmates. The limited number of computers meant that student Internet caf\u00e9s were common, requiring one to pay 500 Ugandan shillings (US $0.14) for 30 minutes. Access to programmable hardware was limited, with no access to microcontrollers or hardware manufacturing.</p><p>Once I got the basic introduction to computer science, I was eager to build things with what was available to solve problems for the people around me. At the time, phones were very limited, and it was expensive to make calls, so SMS text messages were very popular. Students, the majority of whom didn\u2019t own phones, needed some way to send texts without one. In my first year, I built a free Web-based SMS platform that allowed people to send messages easily. It quickly gained popularity among university students\u2014a good outcome for my first \u201cproduct.\u201d</p><p>After I graduated in 2006 with a bachelor\u2019s degree in computer science, Professor <a href=\"https://www.mak.ac.ug/university-governance/university-management/central-university-management-committee/vice-1\" rel=\"noopener noreferrer\" target=\"_blank\">Venansius Baryamureeba</a>, then the dean of the faculty of computing and information technology at Makerere, inspired me to apply for graduate school in Belgium. I received a scholarship to pursue a master\u2019s degree at <a href=\"https://www.vub.be/nl\" rel=\"noopener noreferrer\" target=\"_blank\">Vrije Universiteit Brussel</a> (Free University of Brussels).</p><p><span>There, I encountered </span><a href=\"https://store.arduino.cc/collections/boards-modules?srsltid=AfmBOoo6j7uyuivD-jIrO3r50fdmDsC58rJERiVV_nSgbECi-Y3tO1sa\" target=\"_blank\">Arduino microcontroller boards</a><span> for the first time. I witnessed undergraduate students using Arduino boards and sensors to implement embedded-systems projects, such as autonomous devices that could detect, identify, sense, and control their surroundings. I wondered how long it would take for universities in Africa to gain access to such hardware. After all, Arduino\u2019s motto is \u201cEmpowering anyone to innovate,\u201d but unfortunately, that empowerment had yet to reach sub-Saharan Africa.</span></p><p>Fast forward to today, and the situation has drastically changed. Laptops are now widely available in Africa, Internet connectivity is faster, and smartphones and mobile Internet are common among computer science faculty and students. But the lag between the launch of a technology and its availability in Africa remains significant, as Oluwatosin Kolade\u2019s story illustrates [see \u201c<a href=\"https://spectrum.ieee.org/what-i-learned-from-a-janky-drone\" target=\"_blank\">Lessons from a Janky Drone</a>,\u201d].</p><p>Africa has immense potential for computer science and electronics engineering to address a wide range of challenges. Existing software solutions may be insufficient, and the public digital infrastructure may be lacking, so projects at the intersection of hardware and software could fill critical gaps. However, it is crucial for students to get better learning opportunities <a href=\"https://spectrum.ieee.org/african-robotics-network\" target=\"_blank\">to interact with and build physical systems</a>. There is a wide range of exciting applications in agriculture, transportation, education, and environmental monitoring, which is likely why Kolade\u2019s engineering professor encouraged his team\u2019s surveillance drone project despite the difficulties they encountered.</p><h2>Access to Hardware Remains a Bottleneck </h2><p>While the bottlenecks in hardware access for students and researchers in Africa have eased since my time as a student, obstacles persist. As Kolade attests, significant challenges exist in both scholastic funding and the supply chain. This hampers learning and places a large financial burden on young people. As Kolade explains, students must fund their undergraduate projects out of their own pockets, creating significant barriers for people with limited financial resources.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"A pair of hands holding two circuit boards.\" class=\"rm-shortcode\" id=\"41558\" src=\"https://spectrum.ieee.org/media-library/a-pair-of-hands-holding-two-circuit-boards.jpg?id=61482900&amp;width=980\" /><small class=\"image-media media-caption\">The AirQo project [circuit boards shown here] gives students access to 3D printers, soldering stations, and basic sensor boards and components.</small><small class=\"image-media media-photo-credit\">Andrew Esiebo</small></p><p>Electronics components must often be sourced from outside the continent, primarily from China, Europe, or the United States. While the number of online stores has increased, the time span from order to delivery can be several months. It is not uncommon for affordable shipping options to require 60 days or more, while faster delivery options can be several times more expensive than the hardware itself. Online shopping, while often necessary, presents an unavoidable complexity for students and faculty, especially if they have limited access to credit and debit cards. By contrast, students in Europe can receive their components within a week, allowing them to complete a hardware project and initiate new iterations before their counterparts in Africa even receive their hardware for initial building. What\u2019s more, some vendors may choose not to ship to addresses in Africa due to transit risks coupled with real or perceived customs complexities.</p><p>Customs and tax clearance procedures can indeed be burdensome, with import duties of up to 75 percent in some countries. While some countries in the region offer tax exemptions for educational resources, such exemptions are often difficult to obtain for individual components, or the procedures are unclear and cumbersome. Local vendors, mostly startups and tech hubs, are emerging, but they often lack sufficient stock and may not be able to fulfill bulk orders from educational institutions.</p><h2>Hardware Access Can Accelerate Education </h2><p>In light of these challenges, universities and students might be tempted to shift their focus to purely software projects or otherwise alter their priorities. However, this limits both education and innovation. Engineering projects that involve both hardware and software awaken students\u2019 creativity and foster in-depth skills acquisition.</p><p>Africa must seek viable solutions. University programs should increase their support of students by providing access to specialized makerspaces and fabrication hubs equipped with the necessary hardware and electronic components. The emergence of high-end makerspaces is encouraging, but the focus should be on providing essential components, such as sensors. Students can learn only so much in makerspaces that have 3D printers but no 3D-printing filament, or printed circuit board fabrication and assembly but no sensor components.</p><p>Community groups and workshops focused on hardware projects can help address the accessibility challenges. These communities could tap into the global open-source hardware groups for education and research. <a href=\"https://www.datascienceafrica.org/\" target=\"_blank\">Data Science Africa</a>, a nonprofit that trains Africans in data science and machine learning, has run hardware sessions that could potentially be scaled to reach many more students. The emergence of research teams working on large-scale projects involving the development and deployment of hardware systems also presents opportunities for students and staff to access facilities and prototype quickly. Showcasing hardware projects from the continent and sharing lessons learned, successful or not, can inspire new projects. For example, at Makerere University\u2014where I am now a computer science professor and the department chair\u2014the <a href=\"https://www.airqo.net/about-us\" target=\"_blank\">AirQo</a> project, which focuses on environmental sensing, provides access to key equipment, including 3D printers, soldering stations, and basic sensor boards and other electronic components.</p><p>Despite the persistent challenges of supply-chain delays, import duties, and limited local vendors that continue to hamper access to hardware across African universities, the continent\u2019s engineering students and educators are finding creative ways to build, innovate, and learn. From my own journey from rural Uganda to pioneering SMS platforms and the emergence of makerspaces and research projects like AirQo, to collaborative communities that connect local innovators with global open-source networks, Africa is steadily closing the technology gap.</p><p>The question is no longer whether African students can compete in hardware innovation\u2014it\u2019s how quickly the world will recognize that some of tomorrow\u2019s groundbreaking solutions are already being prototyped in labs from Kampala to Cape Town. They are being built by students like Oluwatosin Kolade, who learned to engineer solutions with whatever he could get his hands on. Imagine what they could do if they had access to the same resources I had in graduate school. African engineering potential is limitless, but to reach our full potential, we need access to technology that is more readily available in much of the world. <span class=\"ieee-end-mark\"></span></p>"
+      },
+      {
+        "id": "c42fa56301c6e3b5",
+        "title": "What I Learned From a Janky Drone",
+        "url": "https://spectrum.ieee.org/stem-education-in-africa",
+        "source": "IEEE Spectrum",
+        "published": "Wed, 20 Aug 2025 13:00:03 +0000",
+        "published_dt": "2025-08-20T13:00:03+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/four-young-black-men-at-desks-in-a-lecture-hall.png?id=61482540&amp;width=2000&amp;height=1500&amp;coordinates=193%2C0%2C193%2C0\" /><br /><br /><p><strong>The package containing the</strong> ArduCopter 2.8 board finally arrived from China, bearing the weight of our anticipation. I remember picking it up, the cardboard box weathered slightly from its journey. As I tore through the layers of tape, it felt like unwrapping a long-awaited gift. But as I lifted the ArduCopter 2.8 board out of the box, my heart sank. The board, which was to be the cornerstone of our project, looked worn out and old, with visible scuffs and bent pins. This was just one of a cascade of setbacks my team would face.</p><p>It all started when I was assigned a project in machine design at <a href=\"https://oauife.edu.ng/\" rel=\"noopener noreferrer\" target=\"_blank\">Obafemi Awolowo University</a> (OAU), located in the heart of Il\u00e9-If\u1eb9\u0300, an ancient Yoruba city in Osun State, in southwest Nigeria, where I am a mechanical engineering student entering my final year of a five-year program. OAU is one of Nigeria\u2019s oldest and most prestigious universities, known for its beautiful campus and architecture. Some people I know refer to it as the \u201cStanford of Nigeria\u201d because of the significant number of brilliant startups it has spun off. Despite its reputation, though, OAU\u2014like every other federally owned institution in Nigeria\u2014is underfunded and <a href=\"https://punchng.com/our-education-not-bargaining-chip-oau-students-lament-lecturers-strike/\" rel=\"noopener noreferrer\" target=\"_blank\">plagued by faculty strikes</a>, leading to interruptions in academics. The lack of funding means students must pay for their undergraduate projects themselves, making the success of any project heavily dependent on the students\u2019 financial capabilities.</p><h3>The Student & the\u00a0Professor</h3><br /><p><strong>Two perspectives on engineering education in Africa</strong></p><p><em>Johnson I. Ejimanya is a one-man pony express. Walking the exhaust-fogged streets of Owerri, Nigeria, Ejimanya, the engineering dean of the Federal University of Technology, Owerri, carries with him a department\u2019s worth of communications, some handwritten, others on disk. He\u2019s delivering them to a man with a PC and an Internet connection who converts the missives into e-mails and downloads the responses. To Ejimanya, broadband means lugging a big bundle of printed e-mails back with him to the university, which despite being one of the country\u2019s largest and most prestigious engineering schools, has no reliable means of connecting to the Internet.</em></p><p>I met Ejimanya when I visited Nigeria in 2003 to report on how the SAT-3/WASC, the first undersea fiber-optic cable to connect West Africa to the world, was being used. (The passage above is from my February 2004 <em>IEEE</em> <em>Spectrum</em> article \u201c<a href=\"https://spectrum.ieee.org/surf-africa\" target=\"_self\">Surf Africa</a>.\u201d) Beyond the lack of computers and Internet access, I saw labs filled with obsolete technology from the 1960s. If students needed a computer or to get online, they went to an Internet cafe, their out-of-pocket costs a burden on them and their families.</p><p>So is the situation any better 20-plus years on? The short answer is yes. But as computer science professor <a href=\"https://ibaino.net/\" target=\"_blank\">Engineer Bainomugisha</a> and IEEE student member <a href=\"https://www.linkedin.com/in/oluwatosin-kolade/?originalSubdomain=ng\" rel=\"noopener noreferrer\" target=\"_blank\">Oluwatosin Kolade</a> attest in the following pages, there\u2019s still a long way to go.</p><p>Both men are engineers but at different stages of their academic journey: Bainomugisha went to college in the early 2000s and is now a computer science professor at <a href=\"https://mak.ac.ug/\" rel=\"noopener noreferrer\" target=\"_blank\">Makerere University</a> in Kampala, Uganda. Kolade is in his final semester as a mechanical engineering student at <a href=\"https://oauife.edu.ng/\" rel=\"noopener noreferrer\" target=\"_blank\">Obafemi Awolowo University</a> in Il\u00e9-If\u1eb9\u0300, Nigeria. They describe the challenges they face and what they see as the path forward for a continent brimming with aspiring engineers but woefully short on the resources necessary for a robust education.</p><p>\u2014Harry Goldstein</p><p><a href=\"https://www.researchgate.net/lab/Oluwaseun-K-Ajayi-Lab\" rel=\"noopener noreferrer\" target=\"_blank\">Dr. Oluwaseun K. Ajayi</a>, an expert in computer-aided design (CAD), machine design, and mechanisms, gave us the freedom to choose our final project. I proposed a research project based on a paper titled \u201c<em>Advance Simulation Method for Wheel-Terrain Interactions of Space Rovers: A Case Study on the UAE Rashid Rover</em>\u201d by <a href=\"https://arxiv.org/search/cs?searchtype=author&amp;query=Abubakar,+A\" rel=\"noopener noreferrer\" target=\"_blank\">Ahmad Abubakar</a> and coauthors<em><em>.</em></em> But due to the computational resources required, it was rejected. Dr. Ajayi instead proposed that my fellow students and I build a surveillance drone, as it aligned with his own research. Dr. Ajayi, a passionate and driven researcher, was motivated by the potential real-world applications of our project. His constant push for progress, while sometimes overwhelming, was rooted in his desire to see us produce meaningful work.</p><p>As my team finished scoping out the preliminary concepts of the drone in CAD designs, we were ready to contribute money toward implementing our idea. We conducted a cost analysis and decided to use a third-party vendor to help us order our components from China. We went this route due to shipping and customs issues we\u2019d previously experienced. Taking the third-party route was supposed to solve the problem. Little did we suspect what was coming.</p><p>By the time we finalized our cost analysis and started to gather funds, the price of the components we needed had skyrocketed due to a sudden economic crisis and depreciation of the Nigerian naira by 35 percent against the U.S. dollar at the end of January 2024. This was the genesis of our problem.</p><p>Initially, we were a group of 12, but due to the high cost per person, Dr. Ajayi asked another group, led by <a href=\"https://www.linkedin.com/in/nanaweitonbrasuoware/\" rel=\"noopener noreferrer\" target=\"_blank\">Tonbra Suoware</a>, to merge with mine. Tonbra\u2019s team had been planning <a href=\"https://spectrum.ieee.org/african-robotics-network\" target=\"_blank\">a robotic arm project</a> until Dr. Ajayi merged our teams and instructed us to work on the drone, with the aim of exhibiting it at the <a href=\"https://central.nasrda.gov.ng/\" rel=\"noopener noreferrer\" target=\"_blank\">National Space Research and Development Agency</a>, in Abuja, Nigeria. The merger increased our group to 25 members, which helped with the individual financial burden but also meant that not everyone would actively participate in the project. Many just contributed their share of the money.</p><p>Tonbra and I drove the project forward.</p><h2>Supply Chain Challenges in African Engineering Education</h2><p>With Dr. Ajayi\u2019s consent, my teammates and I scrapped the \u201csurveillance\u201d part of the drone project and raised the money for developing just the drone, totaling approximately 350,000 naira (approximately US $249). We had to cut down costs, which meant straying away from the original specifications of some of the components, like the flight controller, battery, and power-distribution board. Otherwise, the cost would have been way more unbearable.</p><p>We were set to order the components from China on 5 February 2024. Unfortunately, it was a long holiday in China, we were told, so we wouldn\u2019t get the components until March. This led to tense discussions with Dr. Ajayi, despite having briefed him about the situation. Why the pressure? Our school semester ends in March, and having components arrive in March would mean that the project would be long overdue by the time we finished it. At the same time, we students had a compulsory academic-industrial training at the end of the semester.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Young Black man in plaid shirt sitting on a chair in front of a white board and a black board\" class=\"rm-shortcode\" id=\"d6b2d\" src=\"https://spectrum.ieee.org/media-library/young-black-man-in-plaid-shirt-sitting-on-a-chair-in-front-of-a-white-board-and-a-black-board.png?id=61482574&amp;width=980\" /> <small class=\"image-media media-caption\">Oluwatosin Kolade, a mechanical engineering student at Nigeria\u2019s Obafemi Awolowo University, says the drone project taught him the value of failure.</small><small class=\"image-media media-photo-credit\">Andrew Esiebo</small></p><p>But what choice did we have? We couldn\u2019t back down from the project\u2014that would have cost us our grade.</p><p>We got most of our components by mid-March, and immediately started working on the drone. We had the frame 3D-printed at a cost of 50 naira (approximately US $0.03) per gram for a 570-gram frame, for a total cost of 28,500 naira (roughly US $18).</p><p><span>Next, we turned to building the power-distribution system for the electrical components. Initially, we\u2019d planned to use a power-distribution board to evenly distribute power from the battery to the speed controllers and the rotors. However, the board we originally ordered was no longer available. Forced to improvise, we used a </span><a href=\"https://verotl.com/circuitboards/veroboards\" target=\"_blank\">Veroboard </a><span>instead. We connected the battery in a configuration parallel to the speed controllers to ensure that each rotor received equal power. This improvisation did mean additional costs, as we had to rent soldering irons, hand drills, hot glue, cables, a digital multimeter, and other tools from an electronics hub in downtown Il\u00e9-If\u1eb9\u0300.</span></p><p><span></span>Everything was going smoothly until it was time to configure the flight controller\u2014the ArduCopter 2.8 board\u2014with the assistance of a software program called <a href=\"https://ardupilot.org/planner/\" target=\"_blank\">Mission Planner</a>. We toiled daily, combing through YouTube videos, online forums, Stack Exchange, and other resources for guidance, all to no avail. We even downgraded the Mission Planner software a couple of times, only to discover that the board we\u2019d waited for so patiently was obsolete. It was truly heartbreaking, but we couldn\u2019t order another one because we didn\u2019t have time to wait for it to arrive. Plus, getting another flight controller would\u2019ve cost an additional sum\u2014240,000 naira (about US $150) for a <a href=\"https://www.hawks-work.com/products/pixhawk-2-4-8-flight-control-open-source-px4-autopilot\" target=\"_blank\">Pixhawk 2.4.8 flight controller</a>\u2014which we didn\u2019t have.</p><p>We knew our drone would be half-baked without the flight controller. Still, given our semester-ending time constraint, we decided to proceed with the configuration of the transmitter and receiver. We made the final connections and tested the components without the flight controller. To ensure that the transmitter could control all four rotors simultaneously, we tested each rotor individually with each transmitter channel. The goal was to assign a single channel on the transmitter that would activate and synchronize all four rotors, allowing them to spin in unison during flight. This was crucial, because without proper synchronization, the drone would not be able to maintain a stable flight.</p><p class=\"pull-quote\">\u201cThis experience taught me invaluable lessons about resilience, teamwork, and the harsh realities of engineering projects done by students in Nigeria.\u201d</p><p>After the final configuration and components testing, we set out to test our drone in its final form. But a few minutes into the testing, our battery failed. This failure meant the project had failed, and we were incredibly disappointed.</p><p>When we finally submitted our project to Dr. Ajayi, the deadline had passed. He told us to charge the battery so he could see the drone come alive, even though it couldn\u2019t fly. But circumstances didn\u2019t allow us to order a battery charger, and we were at a loss as to where to get help with the flight controller and battery. There are no tech hubs available for such things in Il\u00e9-If\u1eb9\u0300. We told Dr. Ajayi we couldn\u2019t do as he\u2019d asked and explained the situation to him. He finally allowed us to submit our work, and all team members received course credit.</p><h2>Resourcefulness is not a substitute for funding</h2><p>This experience taught me invaluable lessons about resilience, teamwork, and the harsh realities of engineering projects done by students in Nigeria. It showed me that while technical knowledge is crucial, the ability to adapt and improvise when faced with unforeseen challenges is just as important. I also learned that failure, though disheartening, is not an ending but a stepping stone toward growth and improvement.</p><p>In my school, the demands on mechanical engineering students are exceptionally high. For instance, in a single semester, I was sometimes assigned up to four different major projects, each from a different professor. Alongside the drone project, I worked on two other substantial projects for other courses. The reality is that a student\u2019s ability to score well in these projects is often heavily dependent on financial resources. We are constantly burdened with the costs of running numerous projects. The country\u2019s ongoing economic challenges, including currency devaluation and inflation, only exacerbate this burden.</p><p>In essence, when the world, including graduate-school-admission committees and industry recruiters, evaluates transcripts from Nigerian engineering graduates, it\u2019s crucial to recognize that a grade may not fully reflect a student\u2019s capabilities in a given course. They can also reflect financial constraints, difficulties in sourcing equipment and materials, and the broader economic environment. This understanding must inform how transcripts are interpreted, as they tell a story not just of academic performance but also of perseverance in the face of significant challenges.</p><p>As I advance in my education, I plan to apply these lessons to future projects, knowing that perseverance and resourcefulness will be key to overcoming obstacles. The failed drone project has also given me a realistic glimpse into the working world, where unexpected setbacks and budget constraints are common. It has prepared me to approach my career with both a practical mindset and an understanding that success often comes from how well you manage difficulties, not just how well you execute plans. <span class=\"ieee-end-mark\"></span></p>"
+      },
+      {
+        "id": "8beea6e29f0b3120",
+        "title": "NASA\u2019s new AI model can predict when a solar storm may strike",
+        "url": "https://www.technologyreview.com/2025/08/20/1122163/nasa-ibm-ai-predict-solar-storm/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 20 Aug 2025 13:00:00 +0000",
+        "published_dt": "2025-08-20T13:00:00+00:00",
+        "summary": "NASA and IBM have released a new open-source machine learning model to help scientists better understand and predict the physics and weather patterns of the sun. Surya, trained on over a decade\u2019s worth of NASA solar data, should help give scientists an early warning when a dangerous solar flare is likely to hit Earth. Solar&#8230;"
+      },
+      {
+        "id": "22e2e769afa71299",
+        "title": "The Download: churches in the age of AI, and how to run an LLM at home",
+        "url": "https://www.technologyreview.com/2025/08/20/1122162/the-download-churches-in-the-age-of-ai-and-how-to-run-an-llm-at-home/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 20 Aug 2025 12:10:00 +0000",
+        "published_dt": "2025-08-20T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How churches use data and AI as engines of surveillance On a Sunday morning in a Midwestern megachurch, worshippers step through sliding glass doors into a bustling lobby\u2014unaware they\u2019ve just passed through a&#8230;"
+      },
+      {
+        "id": "3486f92f93614eb0",
+        "title": "Material Cultures looks to the past to build the future",
+        "url": "https://www.technologyreview.com/2025/08/20/1121416/material-cultures-architecture-sustainability/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 20 Aug 2025 10:00:00 +0000",
+        "published_dt": "2025-08-20T10:00:00+00:00",
+        "summary": "Despite decades of green certifications, better material sourcing, and the use of more sustainable materials such as mass timber, the built environment is still responsible for a third of global emissions worldwide. According to a 2024 UN report, the building sector has fallen \u201csignificantly behind on progress\u201d toward becoming more sustainable. Changing the way we&#8230;"
+      },
+      {
         "id": "5bfed9fbdc0cf922",
         "title": "Smart Glasses Help Train General-Purpose Robots",
         "url": "https://spectrum.ieee.org/smart-glasses-robot-training",
         "source": "IEEE Spectrum",
         "published": "Tue, 19 Aug 2025 14:00:03 +0000",
         "published_dt": "2025-08-19T14:00:03+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/conceptual-collage-of-a-robotic-arm-reaching-down-between-two-circular-photos-of-experiments-meant-to-resemble-eyeglasses.jpg?id=61469620&amp;width=2000&amp;height=1500&amp;coordinates=323%2C0%2C323%2C0\" /><br /><br /><p>General-purpose robots are hard to train. The dream is to have a <a href=\"https://spectrum.ieee.org/ai-robots\" target=\"_blank\">robot like the Jetson\u2019s Rosie</a> that can<span> </span><span>performing a range of</span><span> household </span><span>tasks, like tidying up or folding laundry. But for that to happen, the robot needs to learn from a </span><a href=\"https://spectrum.ieee.org/global-robotic-brain\" target=\"_blank\">large amount of data</a><span> that match real-world conditions\u2014that data can be difficult to collect. Currently, most training data is collected from multiple static cameras that have to be carefully set up to gather useful information. But what if bots could learn from the everyday interactions we already have with the physical world? </span></p><p>That\u2019s a question that the <a href=\"https://www.lerrelpinto.com/group\" target=\"_blank\">General-purpose Robotics and AI Lab</a> at NYU, led by assistant professor <a href=\"https://www.lerrelpinto.com/#publications\" target=\"_blank\">Lerrel Pinto</a>, hopes to answer with <a href=\"https://egozero-robot.github.io/\" target=\"_blank\">EgoZero</a>, a smart-glasses system that aids robot learning by collecting data with a souped-up version of <a href=\"https://spectrum.ieee.org/meta-ar-glasses-expense\" target=\"_blank\">Meta\u2019s glasses</a>. <strong></strong></p><p>In a <a href=\"https://arxiv.org/abs/2505.20290\" target=\"_blank\">recent pre-print</a>, which serves as a proof of concept for the approach, the researchers trained a robot to complete seven manipulation tasks, such as picking up a piece of bread and placing it on a nearby plate. For each task, they collected 20 minutes of data from humans performing these tasks while recording their actions with glasses from Meta\u2019s <a href=\"https://www.projectaria.com/\" target=\"_blank\">Project Aria</a>. (These sensor-laden glasses are used exclusively for research purposes.) When then deployed to autonomously complete these tasks with a robot, the system achieved a 70 percent success rate. </p><h2>The Advantage of Egocentric Data</h2><p>The \u201cego\u201d part of EgoZero refers to the \u201cegocentric\u201d nature of the data, meaning that it is collected from the perspective of the person performing a task. \u201cThe camera sort of moves with you,\u201d like how our eyes move with us, says <a href=\"https://raunaqb.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Raunaq Bhirangi</a>, a postdoctoral researcher at the NYU lab. </p><p>This has two main advantages: First, the setup is more portable than external cameras. Second, the glasses are more likely to capture the information needed because wearers will make sure they\u2014and thus the camera\u2014can see what\u2019s needed to perform a task. \u201cFor instance, say I had something hooked under a table and I want to unhook it. I would bend down, look at that hook and then unhook it, as opposed to a third-person camera, which is not active,\u201d says Bhirangi. \u201cWith this egocentric perspective, you get that information baked into your data for free.\u201d</p><p>The second half of EgoZero\u2019s name refers to the fact that the system is trained without any robot data, which can be costly and difficult to collect; human data alone is enough for the robot to learn a new task. This is enabled by a framework developed by Pinto\u2019s lab that tracks points in space, rather than full images. When training robots on image-based data, \u201cthe mismatch is too large between what human hands look like and what robot arms look like,\u201d says Bhirangi. This framework instead tracks points on the hand, which are mapped onto points on the robot. </p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"EgoZero localizes object points via triangulation over the camera trajectory, and computes action points via Aria MPS hand pose and a hand estimation model.\" class=\"rm-shortcode\" id=\"d916e\" src=\"https://spectrum.ieee.org/media-library/egozero-localizes-object-points-via-triangulation-over-the-camera-trajectory-and-computes-action-points-via-aria-mps-hand-pose.jpg?id=61469639&amp;width=980\" /> <small class=\"image-media media-caption\">The EgoZero system takes data from humans wearing smart glasses and turns it into useable 3D navigation data for robots to do general manipulation tasks.</small><small class=\"image-media media-photo-credit\"><a href=\"https://egozero-robot.github.io/\" target=\"_blank\">Vincent Liu, Ademi Adeniji, Haotian Zhan et al.</a></small></p><p>Reducing the image to points in 3D space means the model can track movement the same way, regardless of the specific robotic appendage. \u201cAs long as the robot points move relative to the object in the same way that the human points move, we\u2019re good,\u201d says Bhirangi.</p><p>All of this leads to a generalizable model that would otherwise require a lot of diverse robot data to train. If the robot was trained on data picking up one piece of bread\u2014say, a deli roll\u2014it can generalize that information to pick up a piece of ciabatta in a new environment. </p><h2>A Scalable Solution</h2><p>In addition to EgoZero, the research group is working on several projects to help make general-purpose robots a reality, including open-source robot designs, flexible <a href=\"https://arxiv.org/abs/2409.08276\" target=\"_blank\">touch sensors</a>, and additional methods of collecting real-world training data. </p><p>For example, as an alternative to EgoZero, the researchers have also designed a setup with a 3D-printed handheld gripper that more closely resembles most robot \u201chands.\u201d A smartphone attached to the gripper captures video with the same point-space method that\u2019s used in EgoZero. But by having people collect data without having to bring a robot into their homes, both approaches could provide a more scalable solution for collecting training data. </p><p>That scalability is ultimately the researcher\u2019s goal. Large language models can harness the entire Internet, but there is no Internet equivalent for the physical world. Tapping into everyday interactions with smart glasses could help fill that gap.</p>"
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/conceptual-collage-of-a-robotic-arm-reaching-down-between-two-circular-photos-of-experiments-meant-to-resemble-eyeglasses.jpg?id=61469620&amp;width=2000&amp;height=1500&amp;coordinates=323%2C0%2C323%2C0\" /><br /><br /><p>General-purpose robots are hard to train. The dream is to have a <a href=\"https://spectrum.ieee.org/ai-robots\" target=\"_blank\">robot like the Jetson\u2019s Rosie</a> that can<span> </span><span>performing a range of</span><span> household </span><span>tasks, like tidying up or folding laundry. But for that to happen, the robot needs to learn from a </span><a href=\"https://spectrum.ieee.org/global-robotic-brain\" target=\"_blank\">large amount of data</a><span> that match real-world conditions\u2014that data can be difficult to collect. Currently, most training data is collected from multiple static cameras that have to be carefully set up to gather useful information. But what if bots could learn from the everyday interactions we already have with the physical world? </span></p><p>That\u2019s a question that the <a href=\"https://www.lerrelpinto.com/group\" target=\"_blank\">General-purpose Robotics and AI Lab</a> at New York University, led by Assistant Professor <a href=\"https://www.lerrelpinto.com/#publications\" target=\"_blank\">Lerrel Pinto</a>, hopes to answer with <a href=\"https://egozero-robot.github.io/\" target=\"_blank\">EgoZero</a>, a smart-glasses system that aids robot learning by collecting data with a souped-up version of <a href=\"https://spectrum.ieee.org/meta-ar-glasses-expense\" target=\"_blank\">Meta\u2019s glasses</a>. <strong></strong></p><p>In a <a href=\"https://arxiv.org/abs/2505.20290\" target=\"_blank\">recent preprint</a>, which serves as a proof of concept for the approach, the researchers trained a robot to complete seven manipulation tasks, such as picking up a piece of bread and placing it on a nearby plate. For each task, they collected 20 minutes of data from humans performing these tasks while recording their actions with glasses from Meta\u2019s <a href=\"https://www.projectaria.com/\" target=\"_blank\">Project Aria</a>. (These sensor-laden glasses are used exclusively for research purposes.) When then deployed to autonomously complete these tasks with a robot, the system achieved a 70 percent success rate. </p><h2>The Advantage of Egocentric Data</h2><p>The \u201cego\u201d part of EgoZero refers to the \u201cegocentric\u201d nature of the data, meaning that it is collected from the perspective of the person performing a task. \u201cThe camera sort of moves with you,\u201d like how our eyes move with us, says <a href=\"https://raunaqb.com/\" target=\"_blank\">Raunaq Bhirangi</a>, a postdoctoral researcher at the NYU lab. </p><p>This has two main advantages: First, the setup is more portable than external cameras. Second, the glasses are more likely to capture the information needed because wearers will make sure they\u2014and thus the camera\u2014can see what\u2019s needed to perform a task. \u201cFor instance, say I had something hooked under a table and I want to unhook it. I would bend down, look at that hook and then unhook it, as opposed to a third-person camera, which is not active,\u201d says Bhirangi. \u201cWith this egocentric perspective, you get that information baked into your data for free.\u201d</p><p>The second half of EgoZero\u2019s name refers to the fact that the system is trained without any robot data, which can be costly and difficult to collect; human data alone is enough for the robot to learn a new task. This is enabled by a framework developed by Pinto\u2019s lab that tracks points in space, rather than full images. When training robots on image-based data, \u201cthe mismatch is too large between what human hands look like and what robot arms look like,\u201d says Bhirangi. This framework instead tracks points on the hand, which are mapped onto points on the robot. </p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"EgoZero localizes object points via triangulation over the camera trajectory, and computes action points via Aria MPS hand pose and a hand estimation model.\" class=\"rm-shortcode\" id=\"d916e\" src=\"https://spectrum.ieee.org/media-library/egozero-localizes-object-points-via-triangulation-over-the-camera-trajectory-and-computes-action-points-via-aria-mps-hand-pose.jpg?id=61469639&amp;width=980\" /> <small class=\"image-media media-caption\">The EgoZero system takes data from humans wearing smart glasses and turns it into usable 3D-navigation data for robots to do general manipulation tasks.</small><small class=\"image-media media-photo-credit\"><a href=\"https://egozero-robot.github.io/\" target=\"_blank\">Vincent Liu, Ademi Adeniji, Haotian Zhan, et al.</a></small></p><p>Reducing the image to points in 3D space means the model can track movement the same way, regardless of the specific robotic appendage. \u201cAs long as the robot points move relative to the object in the same way that the human points move, we\u2019re good,\u201d says Bhirangi.</p><p>All of this leads to a generalizable model that would otherwise require a lot of diverse robot data to train. If the robot was trained on data picking up one piece of bread\u2014say, a deli roll\u2014it can generalize that information to pick up a piece of ciabatta in a new environment. </p><h2>A Scalable Solution</h2><p>In addition to EgoZero, the research group is working on several projects to help make general-purpose robots a reality, including open-source robot designs, flexible <a href=\"https://arxiv.org/abs/2409.08276\" target=\"_blank\">touch sensors</a>, and additional methods of collecting real-world training data. </p><p>For example, as an alternative to EgoZero, the researchers have also designed a setup with a 3D-printed handheld gripper that more closely resembles most robot \u201chands.\u201d A smartphone attached to the gripper captures video with the same point-space method that\u2019s used in EgoZero. The team, by having people collect data without bringing a robot into their homes, provide two approaches that could be more scalable for collecting training data.</p><p>That scalability is ultimately the researcher\u2019s goal. Large language models can harness the entire Internet, but there is no Internet equivalent for the physical world. Tapping into everyday interactions with smart glasses could help fill that gap.</p>"
       },
       {
         "id": "0b7a54f06a728baf",
@@ -835,78 +907,6 @@
         "published": "Tue, 19 Aug 2025 10:00:00 +0000",
         "published_dt": "2025-08-19T10:00:00+00:00",
         "summary": "When the US Food and Drug Administration approved over-the-counter hearing-aid software for Apple\u2019s AirPods Pro in September 2024, with a device price point right around $200, I was excited. I have mild to medium hearing loss and tinnitus, and my everyday programmed hearing aids cost just over $2,000\u2014a lower-cost option I chose after my audiologist&#8230;"
-      },
-      {
-        "id": "e2c13125bb779621",
-        "title": "How churches use data and AI as engines of surveillance",
-        "url": "https://www.technologyreview.com/2025/08/19/1121389/ai-data-church-surveillance-america/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 19 Aug 2025 10:00:00 +0000",
-        "published_dt": "2025-08-19T10:00:00+00:00",
-        "summary": "On a Sunday morning in a Midwestern megachurch, worshippers step through sliding glass doors into a bustling lobby\u2014unaware they\u2019ve just passed through a gauntlet of biometric surveillance. High-speed cameras snap multiple face \u201cprobes\u201d per second, isolating eyes, noses, and mouths before passing the results to a local neural network that distills these images into digital&#8230;"
-      },
-      {
-        "id": "711474a0d64d253d",
-        "title": "Should AI flatter us, fix us, or just inform us?",
-        "url": "https://www.technologyreview.com/2025/08/19/1122021/should-ai-flatter-us-fix-us-or-just-inform-us/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 19 Aug 2025 09:00:00 +0000",
-        "published_dt": "2025-08-19T09:00:00+00:00",
-        "summary": "How do you want your AI to treat you?&#160; It\u2019s a serious question, and it\u2019s one that Sam Altman, OpenAI\u2019s CEO, has clearly been chewing on since GPT-5\u2019s bumpy launch at the start of the month.&#160; He faces a trilemma. Should ChatGPT flatter us, at the risk of fueling delusions that can spiral out of&#8230;"
-      },
-      {
-        "id": "7f6b048770f87db5",
-        "title": "How to make clean energy progress under Trump in the states\u2014blue and red alike",
-        "url": "https://www.technologyreview.com/2025/08/19/1122023/how-to-make-clean-energy-progress-under-trump-in-the-states-blue-and-red-alike/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 19 Aug 2025 09:00:00 +0000",
-        "published_dt": "2025-08-19T09:00:00+00:00",
-        "summary": "The second Trump administration is proving to be more disastrous for the climate and the clean energy economy than many had feared.&#160; Donald Trump\u2019s One Big Beautiful Bill Act repealed most of the clean energy incentives in former president Joe Biden\u2019s Inflation Reduction Act. Meanwhile, his EPA administrator moved to revoke the endangerment finding, the&#8230;"
-      },
-      {
-        "id": "4e2a01f076996e54",
-        "title": "The Download: pigeons\u2019 role in developing AI, and Native artists\u2019 tech interpretations",
-        "url": "https://www.technologyreview.com/2025/08/18/1122004/the-download-pigeons-role-in-developing-ai-and-native-artists-tech-interpretations/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 18 Aug 2025 12:10:00 +0000",
-        "published_dt": "2025-08-18T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why we should thank pigeons for our AI breakthroughs People looking for precursors to artificial intelligence often point to science fiction by authors like Isaac Asimov or thought experiments like the Turing test.&#8230;"
-      },
-      {
-        "id": "0334a31d50814bbe",
-        "title": "Wonky Graphene Could Sharpen Proton Therapy",
-        "url": "https://spectrum.ieee.org/proton-therapy",
-        "source": "IEEE Spectrum",
-        "published": "Mon, 18 Aug 2025 12:00:02 +0000",
-        "published_dt": "2025-08-18T12:00:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-glowing-red-disk-seen-from-the-side-with-a-sweep-of-pink-above-it.jpg?id=61469156&amp;width=2000&amp;height=1500&amp;coordinates=0%2C0%2C1%2C0\" /><br /><br /><p>A new twist on pencil graphite might be a key ingredient to better cancer treatment, scientists in Singapore say. Graphite is composed of stacked layers of <a href=\"https://spectrum.ieee.org/paragraf-graphene-foundry\" target=\"_blank\">graphene</a>, a single-atom-thick sheet of carbon atoms arranged in repeating hexagonal rings. Now add pentagons, septagons, and octagons of carbon atoms into the sheet, and you\u2019re looking at a <a href=\"https://news.nus.edu.sg/new-material-sharpens-proton-beams-boosting-cancer-treatment/\" target=\"_blank\">new form of ultra-thin carbon</a> that promises to sharpen <a href=\"https://spectrum.ieee.org/engineers-unveil-particle-accelerator-on-a-chip\" target=\"_blank\">beams of subatomic particles</a> used in <a href=\"https://spectrum.ieee.org/fighting-cancer-with-protons\" target=\"_blank\">proton therapy</a>.</p><p>Ultra-thin foils of carbon materials have been used for decades in proton therapy to filter particles into high-precision beams meant to kill tumors. But, they take time to make and often contain impurities from the manufacturing process that lower the precision of the beam. In research described in <a href=\"https://www-nature-com.yale.idm.oclc.org/articles/s41565-025-01968-3\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>Nature Nanotechnology,</em></em></a> <a href=\"https://chemistry.nus.edu.sg/people/lu-jiong/\" target=\"_blank\">Jiong Lu</a> and his <a href=\"https://www.nature.com/articles/s41565-025-01968-3#author-information\" target=\"_blank\">colleagues at National University of Singapore and in China</a> developed a technique that can grow a 200-millimeter sheet of a new kind of ultra-thin carbon material in just three seconds, with no detectable impurities.</p><p>Proton therapy is a non-invasive radiation treatment in which hydrogen ions are accelerated through a cyclotron to form a high-energy beam used to destroy DNA in tumors. In a cyclotron, an electromagnetic field accelerates ions of molecular hydrogen, which spiral outward as they pick up speed. They then strike a carbon foil that strips away the hydrogen\u2019s electrons, leaving protons that exit the machine as a high-energy beam. Proton therapy is often preferred as a treatment because of its precision. The sharp beam eliminates tumors while preserving healthy tissue. The new carbon promises an even sharper and more energy-intense beam, potentially making the treatment more potent.</p><p>The benefits of the new material, called ultra-clean monolayer amorphous carbon (UC-MAC), are derived from its disordered ring structure, which contrasts with the perfect hexagonal rings in graphene. The structures present in UC-MAC create tiny pores in the material that are only one tenth of a nanometer wide. The researchers have found a way to fine-tune these angstrom-scale pores to control how the material filters hydrogen ions, in order to produce proton beams with less scattering.</p><h2>Nanograins and Nanopores</h2><p>The new technique starts with depositing a thin film of copper on top of a sapphire wafer inside a chamber filled with high-density plasma. Depending on the temperature of the copper and the rate at which it\u2019s deposited, irregular crystals a couple dozen nanometers in size called nanograins form. The nanograins provide the right conditions for UC-MAC to grow, and eventually, a complete layer of the atom-thick carbon material crystallizes on top of the copper. This growth happens in just three seconds, more than an order of magnitude faster than previous methods used to grow carbon foils.</p><p><a href=\"https://www.linkedin.com/in/huihui-lin-4a6911281/?originalSubdomain=sg\" target=\"_blank\">Huihui Lin</a>, a research scientist at A*STAR who worked on the project, explains that the synthesis\u2019 rapid speeds come from the high density of the nanograins that form on the copper, and from the plasma in the growth chamber, which provides high quantities of particles that react with the substrate to form the carbon structure. </p><p>Despite its potential importance in cancer treatment though, Lin says that UC-MAC was originally designed with different applications in mind. \u201cWe tried it in electronics and optical devices, and after three years of work, we discovered its unique advantage as a membrane for producing precision proton beams,\u201d he explains.</p><p>Because of the angstrom-sized pores in the material, the team discovered that UC-MAC was uniquely suited to turning molecular hydrogen ions into protons. Accelerating molecular hydrogen ions through the cyclotron instead of already-filtered protons increased the quantity of protons in the beam in a given amount of time, by an order of magnitude. </p><p>Lin thinks it will still take time to get the material to the point of commercialization. He explains that like many other 2D materials, \u201cyou need tens of steps\u201d to grow the carbon on the substrate. So, simplifying the process is crucial to getting closer to commercialization. Eventually though, the material may make proton therapy a more widely available treatment option. \u201cThe UC-MAC makes proton beams more tunable [and] affordable,\u201d says Lin.</p>"
-      },
-      {
-        "id": "a992075bf1e9cb2e",
-        "title": "Why we should thank pigeons for our AI breakthroughs",
-        "url": "https://www.technologyreview.com/2025/08/18/1121370/ai-pigeons-reinforcement-learning/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 18 Aug 2025 10:00:00 +0000",
-        "published_dt": "2025-08-18T10:00:00+00:00",
-        "summary": "In 1943, while the world\u2019s brightest physicists split atoms for the Manhattan Project, the American psychologist B.F. Skinner led his own secret government project to win World War II.&#160; Skinner did not aim to build a new class of larger, more destructive weapons. Rather, he wanted to make conventional bombs more precise. The idea struck&#8230;"
-      },
-      {
-        "id": "ecc95849f53ec4e4",
-        "title": "Video Friday: SCUTTLE",
-        "url": "https://spectrum.ieee.org/video-friday-scuttle-robot",
-        "source": "IEEE Spectrum",
-        "published": "Fri, 15 Aug 2025 16:00:04 +0000",
-        "published_dt": "2025-08-15T16:00:04+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/black-robotic-snake-navigates-rocky-terrain-in-bright-sunlight.jpg?id=61467306&amp;width=2000&amp;height=1500&amp;coordinates=390%2C0%2C390%2C0\" /><br /><br /><p><span>Video Friday is your weekly selection of awesome robotics videos, collected by your friends at </span><em>IEEE Spectrum</em><span> robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please </span><a href=\"mailto:automaton@ieee.org?subject=Robotics%20event%20suggestion%20for%20Video%20Friday\">send us your events</a><span> for inclusion.</span></p><h5><a href=\"https://www.ro-man2025.org/\">RO-MAN 2025</a>: 25\u201329 August 2025, EINDHOVEN, THE NETHERLANDS</h5><h5><a href=\"https://clawar.org/clawar2025/\">CLAWAR 2025</a>: 5\u20137 September 2025, SHENZHEN, CHINA</h5><h5><a href=\"https://actuate.foxglove.dev/\">ACTUATE 2025</a>: 23\u201324 September 2025, SAN FRANCISCO</h5><h5><a href=\"https://www.corl.org/\">CoRL 2025</a>: 27\u201330 September 2025, SEOUL</h5><h5><a href=\"https://2025humanoids.org/\">IEEE Humanoids</a>: 30 September\u20132 October 2025, SEOUL</h5><h5><a href=\"https://worldrobotsummit.org/en/\">World Robot Summit</a>: 10\u201312 October 2025, OSAKA, JAPAN</h5><h5><a href=\"http://www.iros25.org/\">IROS 2025</a>: 19\u201325 October 2025, HANGZHOU, CHINA</h5><p>Enjoy today\u2019s videos!</p><div class=\"horizontal-rule\"></div><div><span style=\"display: none;\"> </span></div><blockquote class=\"rm-anchors\" id=\"uch3yx-mjta\"><em>Check out our latest innovations on SCUTTLE, advancing multilegged mobility anywhere.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://groundcontrolrobotics.com/\">GCR</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"hoornv3la0k\">That laundry-folding robot we\u2019ve been working on for 15 years is still not here.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>Honestly I think <a href=\"https://spectrum.ieee.org/figure-new-humanoid-robot\" target=\"_blank\">Figure</a> could learn a few tricks from vintage UC Berkeley PR2, though.</p><p class=\"shortcode-media shortcode-media-youtube\"> <span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span> <small class=\"image-media media-caption\">- YouTube</small> </p><p>[ <a href=\"https://www.figure.ai/\">Figure</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"yznay63wcdw\">Tensegrity robots are so cool, but so hard\u2014it\u2019s good to see progress.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://robotics.umich.edu/news/2025/advanced-actuator-tensegrity-robot/\">Michigan Robotics</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"dy6ysug9f00\">We should find out next week how quick this is.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.unitree.com/\">Unitree</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"v6w_dtkwvtc\"><em>We introduce a methodology for task-specific design optimization of multirotor Micro Aerial Vehicles. By leveraging reinforcement learning, Bayesian optimization, and covariance matrix adaptation evolution strategy, we optimize aerial robot designs guided only by their closed-loop performance in a considered task. Our approach systematically explores the design space of motor pose configurations while ensuring manufacturability constraints and minimal aerodynamic interference. Results demonstrate that optimized designs achieve superior performance compared to conventional multirotor configurations in agile waypoint navigation tasks, including against fully actuated designs from the literature. We build and test one of the optimized designs in the real world to validate the sim2real transferability of our approach.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.autonomousrobotslab.com/\">ARL</a> ]</p><p>Thanks, Kostas!</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"5gpphya6tkc\">I guess legs are required for this inspection application because of the stairs right at the beginning? But sometimes, that\u2019s how the world is.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.deeprobotics.cn/en\">DEEP Robotics</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"lu-coco8xzy\"><em>The Institute of Robotics and Mechatronics at DLR has a long tradition in developing multifingered hands, creating novel mechatronic concepts as well as autonomous grasping and manipulation capabilities. The range of hands spans from Rotex, a first two-fingered gripper for space applications, to the highly anthropomorphic Awiwi Hand and variable stiffness end effectors. This video summarizes the developments of DLR in this field over the past 30 years, starting with the Rotex experiment in 1993.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.dlr.de/en/rm\">DLR RM</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"sgf0nkx8t9a\"><em>The quest for agile quadrupedal robots is limited by handcrafted reward design in reinforcement learning. While animal motion capture provides 3D references, its cost prohibits scaling. We address this with a novel video-based framework. The proposed framework significantly advances robotic locomotion capabilities.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://arclab.hku.hk/\">Arc Lab</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"la1dh0smkkm\">Serious question: Why don\u2019t <a href=\"https://spectrum.ieee.org/humanoid-robots\" target=\"_blank\">humanoid robots</a> sit down more often?</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.engineai.com.cn/\">EngineAI</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"mcqixha8ykg\">And now, this.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.limxdynamics.com/en\">LimX Dynamics</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"0kb6fz2kjt8\"><em>NASA researchers are currently using wind tunnel and flight tests to gather data on an electric vertical takeoff and landing (eVTOL) scaled-down small aircraft that resembles an air taxi that aircraft manufacturers can use for their own designs. By using a smaller version of a full-sized aircraft called the RAVEN Subscale Wind Tunnel and Flight Test (RAVEN SWFT) vehicle, NASA is able to conduct its tests in a fast and cost-effective manner. </em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.nasa.gov/aeronautics/air-taxi-flight-controls/\">NASA</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"8otwr-s6qus\"><em>This video details the advances in orbital manipulation made by DLR\u2019s Robotic and Mechatronics Center over the past 30 years, paving the way for the development of robotic technology for space sustainability.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.dlr.de/en/rm\">DLR RM</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"bmfpvcu16sq\"><em>This summer, a team of robots explored a simulated Martian landscape in Germany, remotely guided by an astronaut aboard the International Space Station. This marked the fourth and final session of the Surface Avatar experiment, a collaboration between ESA and the German Aerospace Center (\u202aDLR) to develop how astronauts can control robotic teams to perform complex tasks on the Moon and Mars.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://blogs.esa.int/exploration/human-minds-robotic-hands/\">ESA</a> ]</p><div class=\"horizontal-rule\"></div>"
-      },
-      {
-        "id": "e591b05d8d217950",
-        "title": "What It Will Really Take to Electrify All of Africa",
-        "url": "https://spectrum.ieee.org/electricity-access-sub-saharan-africa",
-        "source": "IEEE Spectrum",
-        "published": "Fri, 15 Aug 2025 14:05:36 +0000",
-        "published_dt": "2025-08-15T14:05:36+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/photo-of-a-village-with-dirt-roads-and-one-story-buildings-and-the-sun-near-the-horizon-with-a-central-pole-and-power-lines-ru.jpg?id=61458342&amp;width=2000&amp;height=1500&amp;coordinates=248%2C0%2C249%2C0\" /><br /><br /><p> <strong>I dined recently with </strong>Joe, a Nigerian who manages a 400-hectare rice farm in the north of his country. Nigeria imports about <a href=\"https://ers.usda.gov/sites/default/files/_laserfiche/outlooks/110716/RCS-25A.pdf?v=67364\" rel=\"noopener noreferrer\" target=\"_blank\">2.4 million metric tons of rice</a> annually, according to the U.S. Department of Agriculture. Farmers like Joe are helping to move his country of 237 million people toward self-sufficiency in rice.</p><p>But farmer Joe has a handicap. \u201cFor me, the power grid is a fiction,\u201d he says. \u201cI don\u2019t get any electricity from the grid, and I never will.\u201d</p><p>Five years ago, Joe installed solar panels to power his farm\u2019s irrigation system, which draws water from a nearby river. His milling and bagging machines, meanwhile, still run on diesel generators. When <a href=\"https://theconversation.com/nigerias-fuel-subsidy-removal-was-too-sudden-why-a-gradual-approach-would-have-been-better-222224\" rel=\"noopener noreferrer\" target=\"_blank\">Nigeria ended its fuel subsidy</a> in 2023, Joe\u2019s fuel costs soared, reducing the money he can invest in more land and other improvements.</p><h2>What is holding back Africa\u2019s electrification?</h2><p>Joe\u2019s predicament is not unique. In sub-Saharan Africa, 600 million people\u2014about 53 percent\u2014still have <a href=\"https://unctad.org/system/files/official-document/ditccom2023d1_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">no access to electricity</a>. Even this grim statistic understates the problem, because \u201caccess\u201d can mean just enough wattage to illuminate a few LED lightbulbs some of the time. It\u2019s not what Western Europeans or North Americans would consider electricity.</p><p>And <a href=\"https://spectrum.ieee.org/nigeria-power-grid\" target=\"_self\">traditional power grids in sub-Saharan Africa</a> are hampered by poor reliability and frequent outages. Even when offered electricity, many customers can\u2019t afford to pay, and so theft of service is endemic. Where grids do exist, \u201cthey are outdated, unstable, and lack customer connections,\u201d the <a href=\"https://unctad.org/\" rel=\"noopener noreferrer\" target=\"_blank\">United Nations Conference on Trade and Development</a> (UNCTAD) <a href=\"https://unctad.org/system/files/official-document/ditccom2023d1_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">reported in 2023</a>.</p><p>\u201cI\u2019m a bit tired of imprecise measures of access if that access doesn\u2019t translate into the potential for substantial improvements and increases in consumption,\u201d says <a href=\"https://www.christophergore.info/about-1\" rel=\"noopener noreferrer\" target=\"_blank\">Christopher D. Gore</a>, a professor of politics and public administration at <a href=\"https://www.torontomu.ca/\" rel=\"noopener noreferrer\" target=\"_blank\">Toronto Metropolitan University</a>, who studies electricity usage in the region. \u201cOur latest research shows that [sub-Saharan] households are happy to have any electric light but remain dissatisfied with the minimal supply, the price, and the quality of both grid and solar power.\u201d</p><div class=\"rm-embed embed-media\"><div class=\"flourish-embed flourish-map\"><noscript><img alt=\"map visualization\" src=\"https://public.flourish.studio/visualisation/24410960/thumbnail\" width=\"100%\" /></noscript></div></div><p>The electricity deficit may well be worsening. In a<a href=\"https://csis-website-prod.s3.amazonaws.com/s3fs-public/2024-01/240131_Baskaran_Energy_Africa.pdf?VersionId=5H6XEl6W.3YisdwUoqotAo7aFeXIHLU3\" target=\"_blank\"> 2024 report on universal energy access in Africa</a>, researchers from the <a href=\"https://www.csis.org/\" target=\"_blank\">Center for Strategic & International Studies</a>, in Washington, D.C., concluded that \u201cdemand is significantly outstripping supply, and the energy crisis is deepening.\u201d</p><p>To address this dire shortage<strong>, </strong>the <a href=\"https://www.worldbank.org/\" target=\"_blank\">World Bank</a> and the <a href=\"https://www.afdb.org/en\" target=\"_blank\">African Development Bank</a> announced an initiative last year called <a href=\"https://www.worldbank.org/en/programs/energizing-africa\" target=\"_blank\">Mission 300</a>, to bring electricity to 300 million people in sub-Saharan Africa\u2014about half the number who lack access now\u2014by 2030. Such a rapid expansion means bringing electricity to an additional 4.2 million people <em><em>every month</em></em> on average.</p><p>While plausible, the expansion faces headwinds, most notably from the sub-Saharan\u2019s net population gain of about 2.5 million people per month. If that population growth continues for all six years of the initiative, there will be an additional 180 million people requiring electricity access.</p><p>\u201cThe challenge is large. Africa\u2019s population is projected to double by 2050,\u201d says <a href=\"https://www.linkedin.com/in/barry-maccoll-24800b30/?originalSubdomain=za\" target=\"_blank\">Barry MacColl</a>, a senior regional manager at the <a href=\"https://www.epri.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Electric Power Research Institute</a> (EPRI), who covers Africa from Johannesburg. \u201cExpanding national grids can be expensive and slow, especially in rural and remote areas, where most of the unelectrified people live.\u201d For example, South Africa\u2019s main utility, Eskom Holdings, estimates it will need to spend 390 billion rand (US $22 billion) over the next decade to expand and upgrade its aging power grid and prevent <a href=\"https://www.bloomberg.com/news/articles/2024-03-15/can-south-africa-s-eskom-meet-funding-challenge-for-electricity-grid-upgrade?embedded-checkout=true\" rel=\"noopener noreferrer\" target=\"_blank\">future blackouts</a>.</p><h3></h3><br /><div class=\"rblad-ieee_in_content\"></div><p>Large differences in electricity access persist among and within African countries. According to a <a href=\"https://africa-energy-portal.org/sites/default/files/2021-05/The%20Renewable%20Energy%20Transtion%20in%20Africa.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">2020 report</a> from Germany\u2019s<a href=\"https://www.bmz.de/en\" rel=\"noopener noreferrer\" target=\"_blank\"> Federal Ministry for Economic Cooperation and Development</a>, in the East, West, and Southern African regions, about half the people have access to electricity, but the percentage falls to a mere 30 percent in Central Africa, where nearly 100 million folks have no electricity access<strong>.</strong> And <a href=\"https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS?locations=ZG\" rel=\"noopener noreferrer\" target=\"_blank\">according to the World Bank</a>, about 82 percent of urban residents had electricity access in 2023, but only 33 percent in rural areas. (The North African countries aren\u2019t part of the sub-Saharan region, and, except for Libya, have electrification rates of 100 percent.)</p><h2><span>Off-grid solar\u2019s untapped potential in Africa</span></h2><p>Fossil fuels still play a big role in Africa\u2019s power generation. Natural gas is the single largest source of electricity generation, while coal is significant only in South Africa. Together, they account for roughly two-thirds of the continent\u2019s electricity production, according to BloombergNEF. While new gas-fired plants continue to be built, the trend is shifting toward renewable energy sources.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Photo of a roadside storefront labeled \\u201cElectronics\\u201d with a variety of solar panels displayed outside.\" class=\"rm-shortcode\" id=\"e8a8b\" src=\"https://spectrum.ieee.org/media-library/photo-of-a-roadside-storefront-labeled-u201celectronics-u201d-with-a-variety-of-solar-panels-displayed-outside.png?id=61458354&amp;width=980\" /> <small class=\"image-media media-caption\">An electronics shop in Kenya sells solar panels. Off-grid solar has been a big part of the country\u2019s successful push to increase electricity access.</small><small class=\"image-media media-photo-credit\">James Wakibia/SOPA Images/LightRocket/Getty Images</small></p><p>Small-scale off-grid technologies, especially solar power, are widely viewed as the strongest path to expanding electricity access to rural communities and underserved urban areas. UNCTAD estimates that Africa has 60 percent of the world\u2019s best global solar resources. That translates to a solar potential of over 10 terawatts. \u201cOff-grid solar and storage is taking off in a big way,\u201d says <a href=\"https://www.linkedin.com/in/sonia-dunlop-62868354\" target=\"_blank\">Sonia Dunlop</a>, CEO of the <a href=\"https://www.globalsolarcouncil.org/\" target=\"_blank\">Global Solar Council</a> in London. \u201cThere are already about 600 million people, almost all in sub-Saharan Africa, who use off-grid solar and storage at least once a week.\u201d Dunlop expects to see a 40 percent increase in solar installations next year in the region.</p><p>Off-grid solar power lends itself to bottom-up bootstrapping in rural areas by communities, small farms, businesses, and residential customers. To make the technology more affordable, the expansion of microfinancing will be key, as <a href=\"https://scholar.google.com/citations?user=tIEmpwEAAAAJ&amp;hl=en\" target=\"_blank\">Mwoya Byaro</a> and<a href=\"https://www.researchgate.net/profile/Nanzia_Mmbaga\" target=\"_blank\"> Nanzia Florent Mmbaga</a> point out in a <a href=\"https://www.sciencedirect.com/science/article/pii/S2468227622003209\" target=\"_blank\">2022 study</a> in <em><em>Scientific African</em></em>.</p><p class=\"ieee-inbody-related\">RELATED:<a href=\"https://spectrum.ieee.org/offgrid-solars-killer-app\" target=\"_self\"> Off-Grid Solar\u2019s Killer App</a></p><p>I know firsthand the difference off-grid solar can make. My Nigerian-born wife and I own a walled compound of three homes in southern Nigeria, where members of her family live. We recently installed solar lights atop 5-meter-tall poles. They now illuminate communal areas that were formerly dark at night. The compound and the neighborhood aren\u2019t connected to the grid, though, so for indoor electricity, our relatives still rely on diesel generators.</p><h2>The future of hydropower in sub-Saharan Africa</h2><p>While off-grid solar could bring electricity to millions of people, hydropower is \u201cAfrica\u2019s renewable-electricity powerhouse, largely thanks to excellent resources in the East and Central regions of the continent,\u201d <a href=\"https://assets.bbhub.io/professional/sites/24/Africa-Power-Transition-Factbook-2024.pdf\" target=\"_blank\">BloombergNEF reported in 2024</a>. Six countries, led by Ethiopia, get most of their electricity from hydropower.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Photo of two men wearing orange safety vests in a computerized control room.\" class=\"rm-shortcode\" id=\"0f4a7\" src=\"https://spectrum.ieee.org/media-library/photo-of-two-men-wearing-orange-safety-vests-in-a-computerized-control-room.jpg?id=61458366&amp;width=980\" /> <small class=\"image-media media-caption\">Engineers monitor the Kariba Dam, on the Zambia-Zimbabwe border. Hydropower could play a big role in expanding electricity access in sub-Saharan Africa, but construction is expensive and changing rainfall patterns are making hydropower output unpredictable. </small><small class=\"image-media media-photo-credit\">The Washington Post/Getty Images</small></p><p>\u201cThe hydro space is a huge growth area target,\u201d says MacColl of EPRI. As with solar, Africa uses only a small fraction of its hydropower potential. Mini hydropower dams from 100 kilowatts to 1 megawatt are important for remote and small communities of around 50 to 500 homes, MacColl says. Large dams are under construction or have been recently completed in Angola, Ethiopia, Nigeria, and Zambia.</p><div class=\"rm-embed embed-media\"><div class=\"flourish-embed flourish-chart\"><noscript><img alt=\"chart visualization\" src=\"https://public.flourish.studio/visualisation/24668849/thumbnail\" width=\"100%\" /></noscript></div></div><p><span>But constructing hydropower dams is costly and carries the risk of corruption and mismanagement that comes with big projects, as well as the cost of connecting a new power source to the power grid. For instance, Nigeria\u2019s $5.8 billion, 3,050-MW </span><a href=\"https://en.wikipedia.org/wiki/Mambilla_Hydroelectric_Power_Station\" target=\"_blank\">Mambilla dam</a><span>, which will become the largest source of electricity in the country, has been in the planning stage for over 40 years, and completion isn\u2019t expected before 2030. </span><a href=\"https://iiasa.ac.at/blog/sep-2023/climate-change-will-affect-hydropower-african-countries-must-be-prepared\" target=\"_blank\">Climate change\u2019s impact</a><span> on rainfall and temperature is also upending estimates of how much electricity hydropower dams across the region can produce.</span></p><h2>Could nuclear power help electrify Africa?</h2><p>Even nuclear power may play a role in closing Africa\u2019s electricity gap. The <a href=\"https://energychamber.org/\" target=\"_blank\">African Energy Chamber</a>, an industry group based in Johannesburg, notes in its <a href=\"https://energychamber.org/wp-content/uploads/The-State-of-African-Energy-2025_digital.pdf\" target=\"_blank\">2025 Outlook Report</a> that \u201ca significant number of countries in Africa are considering embarking on nuclear power programmes.\u201d</p><div class=\"rm-embed embed-media\"><div class=\"flourish-embed flourish-chart\"><noscript><img alt=\"chart visualization\" src=\"https://public.flourish.studio/visualisation/24669054/thumbnail\" width=\"100%\" /></noscript></div></div><p>Today, only<a href=\"https://en.wikipedia.org/wiki/Koeberg_Nuclear_Power_Station\" target=\"_blank\"> South Africa</a> has nuclear power. But Ghana, which runs a <a href=\"https://en.wikipedia.org/wiki/Ghana_Research_Reactor-1\" target=\"_blank\">research reactor</a>, is planning its first nuclear power plant with assistance from China, Japan, and the United States. Uganda has chosen a site for its first reactors, as has Kenya. And the Nigerian Nuclear Regulatory Authority says it has signed technical agreements on nuclear power with France, India, Russia, and South Korea. But in all these cases, generating electricity from nuclear power is at least a decade away, according to the World Nuclear Association.</p><h2>Kenya\u2019s electrification success story</h2><p> Ultimately, increased access to electricity in sub-Saharan Africa will come from a variety of sources. One success story is Kenya, where off-grid electricity, primarily from solar, is complementing expanded grid access. The government\u2019s <a href=\"https://idev.afdb.org/sites/default/files/documents/files/IE%20of%20the%20AfDB-supported%20Kenya%20Last%20Mile%20Connectivity%20Project%20Phase%20I%20-%20Report.pdf\" target=\"_blank\">Last Mile Connectivity Project</a> aims to extend the grid to an additional 280,000 residences, 30,000 businesses, and health centers and schools in all 47 counties, according to the African Development Bank, which helped fund the effort. Previously, the national utility, Kenya Power, succeeded in increasing the number of grid-connected households in the <a href=\"https://documents1.worldbank.org/curated/en/478251467995396760/pdf/106032-BRI-PUBLIC-IMPACT-9-ESMAP-ImpactStory-Kenya-Electrification.pdf\" target=\"_blank\">poorest urban areas</a> from 3,000 to 150,000. Kenya also has the largest wind farm in Africa, the <a href=\"https://ltwp.co.ke/\" target=\"_blank\">Lake Turkana Wind Power Project</a>. The 310-MW plant\u2019s 365 turbines account for about 15 percent of Kenya\u2019s installed electricity capacity.</p><p>These sustained efforts <a href=\"https://www.forbes.com/sites/christinero/2025/05/09/kenya-more-than-doubled-electricity-access-over-a-decade\" target=\"_blank\">doubled Kenya\u2019s electrification access rate</a> between 2013 and 2023 to 79 percent. Kenya Power now aims to achieve <a href=\"https://newsroom.kplc.co.ke/articles/a-total-of-150000-customers-targeted-for-connection-in-a-new-last-mile-connectivity-project\" rel=\"noopener noreferrer\" target=\"_blank\">universal electricity access by 2030</a>.</p><p>Meanwhile, in Nigeria, the most populous sub-Saharan country, the outlook for electricity access is cloudier. Joe, the Nigerian rice farmer, is considering installing more solar on his farm, to expand his mill. With more electricity, he says, \u201cwe can grow more rice, and mill and bag more for our people.\u201d If the power grid won\u2019t\u2014or can\u2019t\u2014come to him, at least he has the means to generate his own electricity to meet his own needs. <span class=\"ieee-end-mark\"></span></p>"
       }
     ]
   }
