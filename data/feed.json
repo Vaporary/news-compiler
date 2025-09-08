@@ -1,28 +1,154 @@
 {
-  "generated_at": "2025-09-07T12:42:39.145536+00:00",
+  "generated_at": "2025-09-08T12:52:12.423924+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "9b0046099820a542",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-proposal-would-allow-single-arm-trials-confirmatory-evidence-ultra-rare-diseases\" hreflang=\"en\">UPDATE: Analyst questions impact of FDA's rare disease pathway proposal </a>",
-        "url": "https://www.fiercebiotech.com/biotech/fda-proposal-would-allow-single-arm-trials-confirmatory-evidence-ultra-rare-diseases",
-        "source": "Fierce Biotech",
-        "published": "Sep 3, 2025 1:09pm",
-        "published_dt": "2025-09-03T13:09:00+00:00",
-        "summary": "The FDA has outlined a new review process for drugs and biologics designed to treat ultra-rare genetic diseases that would allow a single-arm trial, plus other supportive data, to serve as pivotal evidence."
-      },
-      {
-        "id": "a8a8405a9998e0f5",
-        "title": "STAT+: Summit Therapeutics hits possible snag on lung cancer drug seen as a blockbuster",
-        "url": "https://www.statnews.com/2025/09/07/summit-therapeutics-lung-cancer-ivonescimab/?utm_campaign=rss",
+        "id": "dc2741359cd60e3a",
+        "title": "STAT+: FDA greenlights trial of gene-edited pig kidneys as treatment for end-stage kidney disease",
+        "url": "https://www.statnews.com/2025/09/08/pig-organ-transplant-egenesis-revivicor-human-trials-fda/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Sun, 07 Sep 2025 08:45:00 +0000",
-        "published_dt": "2025-09-07T08:45:00+00:00",
-        "summary": "Summit Therapeutics may have a geography problem with its lung cancer drug ivonescimab."
+        "published": "Mon, 08 Sep 2025 12:00:00 +0000",
+        "published_dt": "2025-09-08T12:00:00+00:00",
+        "summary": "After two months with a kidney from a gene-edited Yucatan minipig named Lavender, a New Hampshire man is off dialysis. Soon, more people than ever will have pig organs."
       },
       {
-        "id": "d36b39a01a504fec",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/medtronics-hugo-robot-logs-success-hernia-repair-trial\" hreflang=\"en\">Medtronic\u2019s Hugo robot logs success in hernia repair trial</a>",
+        "id": "fe9e1e2a164f10f1",
+        "title": "The effects of high blood pressure, six decades\u00a0later",
+        "url": "https://www.statnews.com/2025/09/08/health-news-fda-covid-vaccine-deaths-blood-pressure/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 08 Sep 2025 12:08:13 +0000",
+        "published_dt": "2025-09-08T12:08:13+00:00",
+        "summary": "And more health news from Morning Rounds."
+      },
+      {
+        "id": "9e324123c2b44690",
+        "title": "The Download: introducing our 35 Innovators Under 35 list for 2025",
+        "url": "https://www.technologyreview.com/2025/09/08/1123361/the-download-introducing-our-35-innovators-under-35-list-for-2025/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 08 Sep 2025 12:10:00 +0000",
+        "published_dt": "2025-09-08T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: our 35 Innovators Under 35 list for 2025 The world is full of extraordinary young people brimming with ideas for how to crack tough problems. Every year, we recognize 35 such individuals&#8230;"
+      },
+      {
+        "id": "8095ec20053cb0e3",
+        "title": "STAT+: Rapport shares soar after successful mid-stage seizure trial",
+        "url": "https://www.statnews.com/2025/09/08/rapport-rap219-focal-seizures-epilepsy-trial-results/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 08 Sep 2025 10:55:13 +0000",
+        "published_dt": "2025-09-08T10:55:13+00:00",
+        "summary": "A Rapport Therapeutics seizure medicine succeeded in a mid-stage clinical trial, sending company shares soaring."
+      },
+      {
+        "id": "7c95b6f4cfee534a",
+        "title": "STAT+: Biotech veteran Harvey Berger takes over as CEO of billionaire-backed Arena Bioworks",
+        "url": "https://www.statnews.com/2025/09/08/arena-bioworks-harvey-berger-ceo/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 08 Sep 2025 11:00:00 +0000",
+        "published_dt": "2025-09-08T11:00:00+00:00",
+        "summary": "Arena BioWorks, the research institute that launched last year with $500 million from a group of high-profile billionaires, has brought on a new CEO."
+      },
+      {
+        "id": "17076315d820e7b9",
+        "title": "How Trump\u2019s policies are affecting early-career scientists\u2014in their own words",
+        "url": "https://www.technologyreview.com/2025/09/08/1123166/trumps-policy-early-career-scientists/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 08 Sep 2025 10:45:00 +0000",
+        "published_dt": "2025-09-08T10:45:00+00:00",
+        "summary": "Every year MIT Technology Review celebrates accomplished young scientists, entrepreneurs, and inventors from around the world in our Innovators Under 35 list. We\u2019ve just published the 2025 edition. This year, though, the context is pointedly different: The US scientific community finds itself in an unprecedented position, with the very foundation of its work under attack.&#160;&#8230;"
+      },
+      {
+        "id": "fa4ae70c459585b6",
+        "title": "Why basic science deserves our boldest investment",
+        "url": "https://www.technologyreview.com/2025/09/08/1123214/opinion-basic-science-research-funding/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 08 Sep 2025 10:45:00 +0000",
+        "published_dt": "2025-09-08T10:45:00+00:00",
+        "summary": "In December 1947, three physicists at Bell Telephone Laboratories\u2014John Bardeen, William Shockley, and Walter Brattain\u2014built a compact electronic device using thin gold wires and a piece of germanium, a material known as a semiconductor. Their invention, later named the transistor (for which they were awarded the Nobel Prize in 1956), could amplify and switch electrical&#8230;"
+      },
+      {
+        "id": "1cde74ff0d6d8074",
+        "title": "2025 Innovator of the Year: Sneha Goenka for developing an ultra-fast sequencing technology",
+        "url": "https://www.technologyreview.com/2025/09/08/1121509/innovator-of-the-year-sneha-goenka/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 08 Sep 2025 10:30:00 +0000",
+        "published_dt": "2025-09-08T10:30:00+00:00",
+        "summary": "Sneha Goenka is one of MIT Technology Review\u2019s 2025 Innovators Under 35.&#160;Meet the rest of this year\u2019s honorees.&#160; Up to a quarter of children entering intensive care have undiagnosed genetic conditions. To be treated properly, they must first get diagnoses\u2014which means having their genomes sequenced. This process typically takes up to seven weeks. Sadly, that\u2019s&#8230;"
+      },
+      {
+        "id": "96b15bbf4f754ae8",
+        "title": "Meet the Ethiopian entrepreneur who is reinventing ammonia production",
+        "url": "https://www.technologyreview.com/2025/09/08/1122179/iwnetim-abate-innovator-ammonia-production/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 08 Sep 2025 10:30:00 +0000",
+        "published_dt": "2025-09-08T10:30:00+00:00",
+        "summary": "Iwnetim Abate is one of MIT Technology Review\u2019s 2025 Innovators Under 35.&#160;Meet the rest of this year\u2019s honorees.&#160; \u201cI\u2019m the only one who wears glasses and has eye problems in the family,\u201d Iwnetim Abate says with a smile as sun streams in through the windows of his MIT office. \u201cI think it\u2019s because of the&#8230;"
+      },
+      {
+        "id": "01f60d792effac8d",
+        "title": "How Yichao \u201cPeak\u201d Ji became a global AI app hitmaker",
+        "url": "https://www.technologyreview.com/2025/09/08/1122642/ji-peak-yichao-innovator-manus-app-ai/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 08 Sep 2025 10:30:00 +0000",
+        "published_dt": "2025-09-08T10:30:00+00:00",
+        "summary": "Yichao \u201cPeak\u201d Ji is one of MIT Technology Review\u2019s 2025 Innovators Under 35.\u00a0Meet the rest of this year\u2019s honorees.\u00a0 When Yichao Ji\u2014also known as \u201cPeak\u201d\u2014appeared in a launch video for Manus in March, he didn\u2019t expect it to go viral. Speaking in fluent English, the 32-year-old introduced the AI agent built by Chinese startup Butterfly&#8230;"
+      },
+      {
+        "id": "28d0ff965a3f402f",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/rapports-seizure-drug-hits-phase-2-sending-stock-soaring\" hreflang=\"en\">Rapport's seizure drug hits in phase 2, sending stock soaring </a>",
+        "url": "https://www.fiercebiotech.com/biotech/rapports-seizure-drug-hits-phase-2-sending-stock-soaring",
+        "source": "Fierce Biotech",
+        "published": "Sep 8, 2025 8:14am",
+        "published_dt": "2025-09-08T08:14:00+00:00",
+        "summary": "A phase 2a trial of Rapport Therapeutics\u2019 focal onset seizure drug candidate has hit its primary endpoint, sending shares in the biotech\u200b\u200b up more than 157% in premarket trading."
+      },
+      {
+        "id": "48e2fb792e10704d",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/takeda-alkermes-lift-lid-rival-narcolepsy-hopefuls-race-fda-heats\" hreflang=\"en\">Takeda, Alkermes lift lid on data for rival narcolepsy hopefuls as race to market heats up</a>",
+        "url": "https://www.fiercebiotech.com/biotech/takeda-alkermes-lift-lid-rival-narcolepsy-hopefuls-race-fda-heats",
+        "source": "Fierce Biotech",
+        "published": "Sep 8, 2025 6:50am",
+        "published_dt": "2025-09-08T06:50:00+00:00",
+        "summary": "Takeda and Alkermes both took data from their orexin receptor 2 (OX2R)-selective agonists to Singapore this morning as the race to get a new class of narcolepsy drug approved heats up."
+      },
+      {
+        "id": "edc56dbc2923db03",
+        "title": "Opinion: Beyond Dr. Google: How patients are using chatbots to shape their health stories",
+        "url": "https://www.statnews.com/2025/09/08/chatbots-patients-diagnosis-dr-google-story/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 08 Sep 2025 08:30:00 +0000",
+        "published_dt": "2025-09-08T08:30:00+00:00",
+        "summary": "Thanks to chatbots, \u201cpatients aren\u2019t just arriving with facts. They\u2019re arriving with shaped, rehearsed stories,\u201d writes clinical psychologist Harvey Lieberman."
+      },
+      {
+        "id": "892de1c3c4ea2e73",
+        "title": "Opinion: Reforming NIH: A blueprint for 21st century medical research",
+        "url": "https://www.statnews.com/2025/09/08/nih-reform-budget-cuts-trump-administration-rfk-jr/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 08 Sep 2025 08:30:00 +0000",
+        "published_dt": "2025-09-08T08:30:00+00:00",
+        "summary": "We all benefit from a well-functioning and well-funded NIH. But it needs reform, writes the Good Science Project\u2019s Stuart Buck."
+      },
+      {
+        "id": "bc7286a63ae03095",
+        "title": "Sterilization, mysterious pain, and dismissive doctors: Why women turn to reversal surgery \u2014 and sometimes to RFK Jr.",
+        "url": "https://www.statnews.com/2025/09/08/post-tubal-ligation-syndrome-experts-examine-ptls-sterilization-reversal/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 08 Sep 2025 08:30:00 +0000",
+        "published_dt": "2025-09-08T08:30:00+00:00",
+        "summary": "Dismissal of post-tubal ligation syndrome sends women on maddening pilgrimages in search of recognition and relief. The best remedy, many say, is reversal."
+      },
+      {
+        "id": "c5ef439cf4bd520c",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/junshi-heralds-phase-3-psoriasis-win-il-17-drug-prepares-push-chinese-regulators\" hreflang=\"en\">Junshi heralds phase 3 psoriasis win for IL-17 drug, prepares push to Chinese regulators</a>",
+        "url": "https://www.fiercebiotech.com/biotech/junshi-heralds-phase-3-psoriasis-win-il-17-drug-prepares-push-chinese-regulators",
+        "source": "Fierce Biotech",
+        "published": "Sep 8, 2025 4:57am",
+        "published_dt": "2025-09-08T04:57:00+00:00",
+        "summary": "Junshi has announced that its IL-17 antibody hit the goals of a phase 3 psoriasis trial in China, setting up the biopharma to seek national approval."
+      },
+      {
+        "id": "8b2c4826a9abd2c4",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/medtronics-hugo-robot-logs-success-hernia-repair-trial\" hreflang=\"en\">Medtronic's Hugo robot logs success in hernia repair trial</a>",
         "url": "https://www.fiercebiotech.com/medtech/medtronics-hugo-robot-logs-success-hernia-repair-trial",
         "source": "Fierce Biotech",
         "published": "Sep 5, 2025 11:21am",
@@ -37,6 +163,15 @@
         "published": "Sep 5, 2025 7:16am",
         "published_dt": "2025-09-05T07:16:00+00:00",
         "summary": "BioNTech\u2019s HER2 antibody-drug conjugate has beaten Roche\u2019s Kadcyla in a phase 3 breast cancer trial, positioning the company\u2019s partner Duality Biologics to seek approval for the candidate in China."
+      },
+      {
+        "id": "59e78fb15d4767f2",
+        "title": "STAT+: Alkermes, Takeda show encouraging data on narcolepsy drugs",
+        "url": "https://www.statnews.com/2025/09/08/alkermes-takeda-narcolepsy-sleep-medicines/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 08 Sep 2025 07:15:00 +0000",
+        "published_dt": "2025-09-08T07:15:00+00:00",
+        "summary": "Alkermes and Takeda released data on drug candidates that could fuel the race to develop a new class of therapies and transform sleep medicine."
       },
       {
         "id": "7ab928a82ca187e1",
@@ -66,22 +201,13 @@
         "summary": "Commissioner Marty Makary said the FDA will release a report within weeks on childhood deaths that he said are linked to Covid shots."
       },
       {
-        "id": "36e1086d3327b13f",
-        "title": "STAT+: The FDA is getting more transparent about drug rejections",
-        "url": "https://www.statnews.com/2025/09/05/biotech-news-fda-lsd-gilead-pfizer/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 05 Sep 2025 13:32:27 +0000",
-        "published_dt": "2025-09-05T13:32:27+00:00",
-        "summary": "And more biotech news stories brought to you by The Readout."
-      },
-      {
-        "id": "513c84eefbdbcf1d",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about PEPFAR and a Gilead drug, the FDA\u2019s rejection letters, and much more",
-        "url": "https://www.statnews.com/pharmalot/2025/09/05/medicare-trump-gilead-pepfar-hiv-aids-fda-crl-cvs-wegovy-zepbound-novo-lilly-jnj-bristol-india-weight-obesity/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 05 Sep 2025 13:11:53 +0000",
-        "published_dt": "2025-09-05T13:11:53+00:00",
-        "summary": "The FDA said it would start releasing rejection letters soon after they are provided to drugmakers, a victory for those who wanted more transparency."
+        "id": "d1c3266ad8994a48",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/daiichi-mercks-advanced-lung-cancer-adc-sees-48-response-registrational-trial\" hreflang=\"en\">Daiichi-Merck's advanced lung cancer ADC sees 48% response rate in registrational trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/daiichi-mercks-advanced-lung-cancer-adc-sees-48-response-registrational-trial",
+        "source": "Fierce Biotech",
+        "published": "Sep 5, 2025 12:01pm",
+        "published_dt": "2025-09-05T12:01:00+00:00",
+        "summary": "Partners Daiichi Sankyo and Merck &amp; Co. are sharing phase 2 data for their investigational antibody-drug conjugate, findings the partners think will help score accelerated approval in pretreated small cell lung cancer."
       },
       {
         "id": "394d2cd1641df7e6",
@@ -93,24 +219,6 @@
         "summary": "The FDA\u2019s ongoing effort to establish a culture of \u201cradical transparency\u201d saw the agency publish another haul of complete response letters yesterday."
       },
       {
-        "id": "fd60067265365d19",
-        "title": "Donavon Decker knew a gene therapy experiment wouldn\u2019t help him. To help others, he still said yes",
-        "url": "https://www.statnews.com/2025/09/05/gene-therapy-pioneer-donavon-decker-remembered/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 05 Sep 2025 08:30:00 +0000",
-        "published_dt": "2025-09-05T08:30:00+00:00",
-        "summary": "Long before there was Sarepta's gene therapy for muscular dystrophy, there was Donavon Decker and his offer to test a gene therapy."
-      },
-      {
-        "id": "116a2794177c8648",
-        "title": "Opinion: The FDA\u2019s pivot from ad comms to \u2018expert\u2019 panels is bad medicine",
-        "url": "https://www.statnews.com/2025/09/05/fda-expert-panels-advisory-committees-talc-ssris-formula/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 05 Sep 2025 08:30:00 +0000",
-        "published_dt": "2025-09-05T08:30:00+00:00",
-        "summary": "G. Caleb Alexander has chaired or served on more than a dozen FDA advisory committees. He\u2019s worried the shift to \u2018expert\u2019 panels lacks transparency."
-      },
-      {
         "id": "f6023fcf1c81d599",
         "title": "<a href=\"https://www.fiercebiotech.com/pharma/rfk-jr-lays-blame-pharma-industry-touts-mrna-vaccine-misinformation-heated-senate-hearing\" hreflang=\"en\">RFK Jr. blasts pharma industry, touts mRNA misinformation in heated Senate hearing</a>",
         "url": "https://www.fiercebiotech.com/pharma/rfk-jr-lays-blame-pharma-industry-touts-mrna-vaccine-misinformation-heated-senate-hearing",
@@ -118,125 +226,107 @@
         "published": "Sep 4, 2025 3:06pm",
         "published_dt": "2025-09-04T15:06:00+00:00",
         "summary": "During a tense and at times incendiary Senate hearing Thursday, Robert F. Kennedy Jr. blamed the pharmaceutical industry and fell back on vaccine misinformation as he sought to defend the tumult that has consumed the federal health apparatus during his first eight months as the nation\u2019s Health and Human Services secretary."
-      },
-      {
-        "id": "7bc5a5becfed23e0",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-announces-plan-publish-drug-rejection-letters-real-time-releases-new-batch-including\" hreflang=\"en\">FDA moves to publish drug rejection letters in real time, releases new batch including Replimune's high-profile snub</a>",
-        "url": "https://www.fiercebiotech.com/biotech/fda-announces-plan-publish-drug-rejection-letters-real-time-releases-new-batch-including",
-        "source": "Fierce Biotech",
-        "published": "Sep 4, 2025 12:42pm",
-        "published_dt": "2025-09-04T12:42:00+00:00",
-        "summary": "The Food and Drug Administration today announced a plan to publicly release complete response letters at the same time they are issued to sponsoring companies, part of what the agency calls a push toward \u201cradical transparency.\u201d"
-      },
-      {
-        "id": "419152986c4619c9",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/quest-diagnostics-launches-new-pharmacogenomics-testing-program\" hreflang=\"en\">Quest Diagnostics launches new pharmacogenomics testing program</a>",
-        "url": "https://www.fiercebiotech.com/medtech/quest-diagnostics-launches-new-pharmacogenomics-testing-program",
-        "source": "Fierce Biotech",
-        "published": "Sep 4, 2025 11:43am",
-        "published_dt": "2025-09-04T11:43:00+00:00",
-        "summary": "Quest said its test will span drugs used across psychiatry, neurology, cardiology, oncology, rheumatology and pain management, as well as for transplant recipients."
-      },
-      {
-        "id": "fb5bdadca0badafe",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/rash-selling-sanofi-shares-slump-phase-3-eczema-win-fails-soothe-market-fears\" hreflang=\"en\">Sanofi phase 3 eczema win falls short of analyst expectations </a>",
-        "url": "https://www.fiercebiotech.com/biotech/rash-selling-sanofi-shares-slump-phase-3-eczema-win-fails-soothe-market-fears",
-        "source": "Fierce Biotech",
-        "published": "Sep 4, 2025 4:46am",
-        "published_dt": "2025-09-04T04:46:00+00:00",
-        "summary": "A phase 3 trial of Sanofi\u2019s eczema prospect amlitelimab has hit its primary and key secondary endpoints. Yet, with the data falling short of analyst expectations, shares in the company opened down 9% in Paris."
-      },
-      {
-        "id": "e8220b62d2b349a6",
-        "title": "<a href=\"https://www.fiercebiotech.com/cro/australian-biotech-filamon-partners-pi-health-anti-inflammatory-cancer-trial\" hreflang=\"en\">Australian biotech Filamon partners with Pi Health for anti-inflammatory cancer trial</a>",
-        "url": "https://www.fiercebiotech.com/cro/australian-biotech-filamon-partners-pi-health-anti-inflammatory-cancer-trial",
-        "source": "Fierce Biotech",
-        "published": "Sep 3, 2025 2:11pm",
-        "published_dt": "2025-09-03T14:11:00+00:00",
-        "summary": "Global CRO Pi Health has pulled a new partnership out of the oven. Building on a growing presence Down Under, Pi Health will provide CRO services and a clinical trial software platform to Australian biotech Filamon."
-      },
-      {
-        "id": "2e3d906588e6ae04",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/wave-rna-editing-restores-enzyme-alpha-1antitrypsin-deficiency-trial-investors-unimpressed\" hreflang=\"en\">Wave RNA editing restores enzyme in genetic condition but underwhelms investors</a>",
-        "url": "https://www.fiercebiotech.com/biotech/wave-rna-editing-restores-enzyme-alpha-1antitrypsin-deficiency-trial-investors-unimpressed",
-        "source": "Fierce Biotech",
-        "published": "Sep 3, 2025 1:25pm",
-        "published_dt": "2025-09-03T13:25:00+00:00",
-        "summary": "After becoming the first group to therapeutically edit human RNA in October 2024, Wave Life Sciences has released more data from an ongoing alpha-1 antitrypsin deficiency clinical trial\u2014and investors appear less enthused this time around."
-      },
-      {
-        "id": "432a9600941e0901",
-        "title": "Opinion: I inserted myself into a conversation at a bar about Covid and vaccines. Here\u2019s what happened",
-        "url": "https://www.statnews.com/2025/09/06/covid-misinformation-bar-strangers-public-health-science/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 06 Sep 2025 11:00:00 +0000",
-        "published_dt": "2025-09-06T11:00:00+00:00",
-        "summary": "What happened when a public health scientist overheard four men sharing misinformation about Covid \u2014 and decided to talk to them about it."
-      },
-      {
-        "id": "ea238c57ba236be0",
-        "title": "Opinion: STAT readers weigh in on fake CPR, a Nobel Peace Prize for Trump and Operation Warp Speed, and more",
-        "url": "https://www.statnews.com/2025/09/06/operation-warp-speed-nobel-peace-prize-trump/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 06 Sep 2025 11:00:00 +0000",
-        "published_dt": "2025-09-06T11:00:00+00:00",
-        "summary": "STAT readers weigh in on whether Donald Trump should win a Nobel Peace Prize for Operation Warp Speed."
-      },
-      {
-        "id": "432754694e4bb1e1",
-        "title": "STAT+: RFK Jr.\u2019s sister, nephew call for him to resign from HHS",
-        "url": "https://www.statnews.com/2025/09/05/rfk-jr-resign-call-kerry-kennedy/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 06 Sep 2025 01:12:21 +0000",
-        "published_dt": "2025-09-06T01:12:21+00:00",
-        "summary": "\u201cEnough is enough\u201d: RFK Jr.\u2019s sister and other Kennedy family members are calling for the HHS secretary to step down."
-      },
-      {
-        "id": "3ba247fa7dc13a4a",
-        "title": "STAT+: Bipartisan bill to extend ACA tax credits offers hope for a deal",
-        "url": "https://www.statnews.com/2025/09/05/aca-tax-credit-extension-bipartisan-bill-introduced/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 05 Sep 2025 20:47:14 +0000",
-        "published_dt": "2025-09-05T20:47:14+00:00",
-        "summary": "A group of Republicans and Democrats is proposing a one-year extension of tax credits that help people afford health insurance under the ACA."
-      },
-      {
-        "id": "c5bf97b492491551",
-        "title": "CDC\u2019s vaccine information no longer entirely trustworthy, former director says",
-        "url": "https://www.statnews.com/2025/09/05/former-cdc-director-advises-against-current-cdc-guidance/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 05 Sep 2025 19:04:30 +0000",
-        "published_dt": "2025-09-05T19:04:30+00:00",
-        "summary": "The former CDC director says vaccine information on CDC website is no longer entirely trustworthy and urges people to get vaccine guidance elsewhere."
-      },
-      {
-        "id": "6ce2223bdd9b441f",
-        "title": "STAT+: Patient groups cheer as the WHO adds diabetes and cystic fibrosis drugs to its essential medicines list",
-        "url": "https://www.statnews.com/pharmalot/2025/09/05/who-medicines-pharma-biotech-diabetes-obesity-cystic-fibrosis-vertex-lilly-novo-sanofi/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 05 Sep 2025 18:48:39 +0000",
-        "published_dt": "2025-09-05T18:48:39+00:00",
-        "summary": "For the first time, the WHO has added various high-cost treatments for diabetes and cystic fibrosis to its list of essential medicines."
-      },
-      {
-        "id": "446fd0a587375f9c",
-        "title": "Opinion: The Trump administration\u2019s endless quest for vaccine data is public-health gaslighting",
-        "url": "https://www.statnews.com/2025/09/05/more-vaccine-data-needed-gaslighting-technique-explained-by-expert/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 05 Sep 2025 17:24:55 +0000",
-        "published_dt": "2025-09-05T17:24:55+00:00",
-        "summary": "RFK Jr. and the rest of the Trump administration are using seven kinds of rhetorical sleight-of-hand around vaccines and transparency."
       }
     ],
     "Engineering & Aerospace": [
       {
-        "id": "20135c8ef8d9878e",
-        "title": "China launches new set of Yaogan-40 satellites into polar orbit",
-        "url": "https://spacenews.com/china-launches-new-set-of-yaogan-40-satellites-into-polar-orbit/",
+        "id": "0ceb0fd6495f8da3",
+        "title": "EchoStar sells spectrum to SpaceX, cancels MDA satellite contract",
+        "url": "https://spacenews.com/echostar-sells-spectrum-to-spacex-cancels-mda-satellite-contract/",
         "source": "SpaceNews",
-        "published": "Sun, 07 Sep 2025 11:21:15 +0000",
-        "published_dt": "2025-09-07T11:21:15+00:00",
-        "summary": "<figure><img alt=\"A Long March 6A rocket lifts off at night from Taiyuan Satellite Launch Center in China, carrying the Yaogan-40 (03) remote sensing satellites. Bright exhaust flames and thick plumes of smoke illuminate the dark launch pad.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Yaogan40-03-CZ6A-TSLC-06sept2025-OS1.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>China added a third trio of spacecraft to a group of remote sensing satellites Saturday, marking the country\u2019s 52nd launch of the year.</p>\n<p>The post <a href=\"https://spacenews.com/china-launches-new-set-of-yaogan-40-satellites-into-polar-orbit/\">China launches new set of Yaogan-40 satellites into polar orbit</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Mon, 08 Sep 2025 11:40:30 +0000",
+        "published_dt": "2025-09-08T11:40:30+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"460\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/echostar-mdaspace.jpeg?fit=824%2C460&amp;ssl=1\" width=\"824\" /></figure>\n<p>EchoStar has abandoned its plans to create a direct-to-device satellite constellation in low Earth orbit, selling spectrum to SpaceX while canceling a brand-new contract with MDA Space.</p>\n<p>The post <a href=\"https://spacenews.com/echostar-sells-spectrum-to-spacex-cancels-mda-satellite-contract/\">EchoStar sells spectrum to SpaceX, cancels MDA satellite contract</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "0e1ba05db0e58cca",
+        "title": "\u2018The awkward, teenage phase\u2019 of space sustainability",
+        "url": "https://spacenews.com/the-awkward-teenage-phase-of-space-sustainability/",
+        "source": "SpaceNews",
+        "published": "Mon, 08 Sep 2025 11:27:00 +0000",
+        "published_dt": "2025-09-08T11:27:00+00:00",
+        "summary": "<figure><img alt=\"Dmitry Poisik\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/tracss-poisik.jpeg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Dmitry Poisik surveyed the room. \u201cHow many of you guys represent owner/operators?\u201d he asked a crowd of a few dozen people attending a side session at the SmallSat 2025 Conference in Salt Lake City on Aug. 11. No one raised their hands. That didn\u2019t seem to surprise Poisik, the program manager for the Office of [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/the-awkward-teenage-phase-of-space-sustainability/\">\u2018The awkward, teenage phase\u2019 of space sustainability</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "07a555e299a5b753",
+        "title": "Lynk Global CEO Ramu Pontarazu on life after SPAC",
+        "url": "https://spacenews.com/lynk-global-ceo-ramu-pontarazu-on-life-after-spac/",
+        "source": "SpaceNews",
+        "published": "Mon, 08 Sep 2025 11:00:00 +0000",
+        "published_dt": "2025-09-08T11:00:00+00:00",
+        "summary": "<figure><img alt=\"Ramu Potarazu, Lynk Global CEO. Credit: Lynk Global\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/IMG_4808-scaled.jpg?fit=768%2C1024&amp;ssl=1\" width=\"768\" /></figure>\n<p>Only a bold satellite operator takes on SpaceX, especially in the nascent race to connect smartphones from space, where Starlink\u2019s rapidly expanding broadband network is pushing for domination. But Lynk Global\u2019s leaders see an opening for a nimble, capital-efficient contender in a sector that also includes AST SpaceMobile, which is now fully funded to deploy [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/lynk-global-ceo-ramu-pontarazu-on-life-after-spac/\">Lynk Global CEO Ramu Pontarazu on life after SPAC</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "6c7d56fa87e75453",
+        "title": "AtomTech acquires robotics innovator Capriol Systems",
+        "url": "https://www.engineering.com/atomtech-acquires-robotics-innovator-capriol-systems/",
+        "source": "Engineering.com",
+        "published": "Mon, 08 Sep 2025 09:07:25 +0000",
+        "published_dt": "2025-09-08T09:07:25+00:00",
+        "summary": "<p>Acquisition strengthens AtomTech's automation solutions for manufacturing, logistics, food &#038; beverage, and defense industries.</p>\n<p>The post <a href=\"https://www.engineering.com/atomtech-acquires-robotics-innovator-capriol-systems/\">AtomTech acquires robotics innovator Capriol Systems</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "dc0fdd023850665b",
+        "title": "Data Patterns selects Siemens\u2019 Teamcenter for PLM and Polarion ALM",
+        "url": "https://www.engineering.com/data-patterns-selects-siemens-teamcenter-for-plm-and-polarion-alm/",
+        "source": "Engineering.com",
+        "published": "Mon, 08 Sep 2025 09:52:26 +0000",
+        "published_dt": "2025-09-08T09:52:26+00:00",
+        "summary": "<p>By connecting real-time data across teams, Data Patterns boosts collaboration, product quality, and speed to market.</p>\n<p>The post <a href=\"https://www.engineering.com/data-patterns-selects-siemens-teamcenter-for-plm-and-polarion-alm/\">Data Patterns selects Siemens\u2019 Teamcenter for PLM and Polarion ALM</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "f0c6ecb9bf453954",
+        "title": "Keysight unveils physical layer compliance test solution for HDMI",
+        "url": "https://www.engineering.com/keysight-unveils-physical-layer-compliance-test-solution-for-hdmi-2/",
+        "source": "Engineering.com",
+        "published": "Mon, 08 Sep 2025 09:52:10 +0000",
+        "published_dt": "2025-09-08T09:52:10+00:00",
+        "summary": "<p>The solution addresses HDMI demands such as UHD video, HDR, and immersive audio.</p>\n<p>The post <a href=\"https://www.engineering.com/keysight-unveils-physical-layer-compliance-test-solution-for-hdmi-2/\">Keysight unveils physical layer compliance test solution for HDMI</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "6884e8f6ff936040",
+        "title": "Trimble begins FedRAMP process for connected construction tools",
+        "url": "https://www.engineering.com/trimble-begins-fedramp-process-for-connected-construction-tools/",
+        "source": "Engineering.com",
+        "published": "Mon, 08 Sep 2025 09:40:00 +0000",
+        "published_dt": "2025-09-08T09:40:00+00:00",
+        "summary": "<p>Strategic initiative aims to support the delivery of a secure, connected construction ecosystem for federal customers.</p>\n<p>The post <a href=\"https://www.engineering.com/trimble-begins-fedramp-process-for-connected-construction-tools/\">Trimble begins FedRAMP process for connected construction tools</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "1c2d954a57bbce0a",
+        "title": "Quectel launches KCMCA6S series wireless M-Bus modules",
+        "url": "https://www.engineering.com/quectel-launches-kcmca6s-series-wireless-m-bus-modules/",
+        "source": "Engineering.com",
+        "published": "Mon, 08 Sep 2025 09:38:00 +0000",
+        "published_dt": "2025-09-08T09:38:00+00:00",
+        "summary": "<p>The KCMCA6S series offers a compact, all-in-one WM-Bus solution with an integrated MCU, Sub-GHz transceiver, built-in software stack, and flexible configuration modes.</p>\n<p>The post <a href=\"https://www.engineering.com/quectel-launches-kcmca6s-series-wireless-m-bus-modules/\">Quectel launches KCMCA6S series wireless M-Bus modules</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "868b2a09f34daf5f",
+        "title": "Aqara unveils Edge Hub M300 and Studio Connect software",
+        "url": "https://www.engineering.com/aqara-unveils-edge-hub-m300-and-studio-connect-software/",
+        "source": "Engineering.com",
+        "published": "Mon, 08 Sep 2025 09:36:00 +0000",
+        "published_dt": "2025-09-08T09:36:00+00:00",
+        "summary": "<p>This hardware-software system unifies consumer and professional setups with local control for residential and multifamily projects.</p>\n<p>The post <a href=\"https://www.engineering.com/aqara-unveils-edge-hub-m300-and-studio-connect-software/\">Aqara unveils Edge Hub M300 and Studio Connect software</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "9b3df8c29ddd8acc",
+        "title": "Asahi Kasei Microdevices launches camera\u2011less integrated sensing modules",
+        "url": "https://www.engineering.com/asahi-kasei-microdevices-launches-camera%e2%80%91less-integrated-sensing-modules/",
+        "source": "Engineering.com",
+        "published": "Mon, 08 Sep 2025 09:34:56 +0000",
+        "published_dt": "2025-09-08T09:34:56+00:00",
+        "summary": "<p>for detection of falls, vital signs, posture, and position.</p>\n<p>The post <a href=\"https://www.engineering.com/asahi-kasei-microdevices-launches-camera%e2%80%91less-integrated-sensing-modules/\">Asahi Kasei Microdevices launches camera\u2011less integrated sensing modules</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "a00c7306c245d77f",
+        "title": "Semtech unveils high-performance TIAs for 1.6T AI data centers",
+        "url": "https://www.engineering.com/semtech-unveils-high-performance-tias-for-1-6t-ai-data-centers/",
+        "source": "Engineering.com",
+        "published": "Mon, 08 Sep 2025 09:09:05 +0000",
+        "published_dt": "2025-09-08T09:09:05+00:00",
+        "summary": "<p>GN1834D enables emerging 1.6T optical interconnect market while GN1818 offers up to 20% power reduction for enhanced 800G efficiency.</p>\n<p>The post <a href=\"https://www.engineering.com/semtech-unveils-high-performance-tias-for-1-6t-ai-data-centers/\">Semtech unveils high-performance TIAs for 1.6T AI data centers</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "158b75388f1e3b2e",
@@ -248,24 +338,6 @@
         "summary": "<p>The Blue Oval is investing $4 billion in the Louisville operation to rewrite the book on automotive manufacturing. </p>\n<p>The post <a href=\"https://www.engineering.com/the-model-t-ford-revolutionized-the-automotive-industry-ford-is-trying-to-do-it-again/\">The Model T Ford revolutionized the automotive industry. Ford is trying to do it again.</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "3c9ac5b9774562a7",
-        "title": "GE Aerospace teams with Beta Technologies on hybrid electric plane engines",
-        "url": "https://www.engineering.com/ge-aerospace-teams-with-beta-technologies-on-hybrid-electric-plane-engines/",
-        "source": "Engineering.com",
-        "published": "Fri, 05 Sep 2025 15:21:17 +0000",
-        "published_dt": "2025-09-05T15:21:17+00:00",
-        "summary": "<p>The deal includes a $300-million investment in the advanced air mobility startup.</p>\n<p>The post <a href=\"https://www.engineering.com/ge-aerospace-teams-with-beta-technologies-on-hybrid-electric-plane-engines/\">GE Aerospace teams with Beta Technologies on hybrid electric plane engines</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "02c390439d38d03d",
-        "title": "WayKen expands CNC machining for drone parts manufacturing demand",
-        "url": "https://www.engineering.com/wayken-expands-cnc-machining-for-drone-parts-manufacturing-demand/",
-        "source": "Engineering.com",
-        "published": "Fri, 05 Sep 2025 09:10:00 +0000",
-        "published_dt": "2025-09-05T09:10:00+00:00",
-        "summary": "<p>This new upgrade will help to respond faster, deliver tighter tolerances, and bring competitive products to market.</p>\n<p>The post <a href=\"https://www.engineering.com/wayken-expands-cnc-machining-for-drone-parts-manufacturing-demand/\">WayKen expands CNC machining for drone parts manufacturing demand</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
         "id": "b23b2aecd545222a",
         "title": "Carbon Mapper and tracking super pollutants",
         "url": "https://spacenews.com/carbon-mapper-and-tracking-super-pollutants/",
@@ -273,6 +345,33 @@
         "published": "Thu, 04 Sep 2025 17:09:07 +0000",
         "published_dt": "2025-09-04T17:09:07+00:00",
         "summary": "<figure><img alt=\"Carbon Mapper on Space Minds\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/2025-Space-Minds-Graphics-2000-x-1500-px.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>In this week\u2019s episode of Space Minds, host David Ariosto speaks with Riley Duren, CEO of Carbon Mapper and veteran of NASA\u2019s Jet Propulsion Laboratory.</p>\n<p>The post <a href=\"https://spacenews.com/carbon-mapper-and-tracking-super-pollutants/\">Carbon Mapper and tracking super pollutants</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "a5d227c51a27c7f8",
+        "title": "FAA approves increase in Falcon 9 launches while studying Starship environmental impacts",
+        "url": "https://spacenews.com/faa-approves-increase-in-falcon-9-launches-while-studying-starship-environmental-impacts/",
+        "source": "SpaceNews",
+        "published": "Mon, 08 Sep 2025 00:19:07 +0000",
+        "published_dt": "2025-09-08T00:19:07+00:00",
+        "summary": "<figure><img alt=\"Falcon 9 launch 2025 Sept 3\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/f9-20250903.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The FAA approved a significant increase in Falcon 9 launches from one Florida pad as it takes public input on plans for Starship launches from another.</p>\n<p>The post <a href=\"https://spacenews.com/faa-approves-increase-in-falcon-9-launches-while-studying-starship-environmental-impacts/\">FAA approves increase in Falcon 9 launches while studying Starship environmental impacts</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "ddaa1bea5f8687b1",
+        "title": "Blue Origin, Anduril win military \u2018rocket cargo\u2019 study contracts",
+        "url": "https://spacenews.com/blue-origin-anduril-win-military-rocket-cargo-study-contracts/",
+        "source": "SpaceNews",
+        "published": "Sun, 07 Sep 2025 17:43:23 +0000",
+        "published_dt": "2025-09-07T17:43:23+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Gxxl5z5XYAAdqHA.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The Air Force Research Laboratory awarded Blue Origin $1.3 million and Anduril $1 million under the Rocket Experimentation for Global Agile Logistics program</p>\n<p>The post <a href=\"https://spacenews.com/blue-origin-anduril-win-military-rocket-cargo-study-contracts/\">Blue Origin, Anduril win military \u2018rocket cargo\u2019 study contracts</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "20135c8ef8d9878e",
+        "title": "China launches new set of Yaogan-40 satellites into polar orbit",
+        "url": "https://spacenews.com/china-launches-new-set-of-yaogan-40-satellites-into-polar-orbit/",
+        "source": "SpaceNews",
+        "published": "Sun, 07 Sep 2025 11:21:15 +0000",
+        "published_dt": "2025-09-07T11:21:15+00:00",
+        "summary": "<figure><img alt=\"A Long March 6A rocket lifts off at night from Taiyuan Satellite Launch Center in China, carrying the Yaogan-40 (03) remote sensing satellites. Bright exhaust flames and thick plumes of smoke illuminate the dark launch pad.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Yaogan40-03-CZ6A-TSLC-06sept2025-OS1.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>China added a third trio of spacecraft to a group of remote sensing satellites Saturday, marking the country\u2019s 52nd launch of the year.</p>\n<p>The post <a href=\"https://spacenews.com/china-launches-new-set-of-yaogan-40-satellites-into-polar-orbit/\">China launches new set of Yaogan-40 satellites into polar orbit</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "053277fddbdb729f",
@@ -329,24 +428,6 @@
         "summary": "<p>Artec Studio 20 adds customizable workflows, upgraded scanner support, and improved tools for digitization, design, and inspection.</p>\n<p>The post <a href=\"https://www.engineering.com/artec-3d-launches-studio-20-with-new-automation-features/\">Artec 3D launches Studio 20 with new automation features</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "dddb47f4f86309fd",
-        "title": "Asahi Kasei to unveil PFAS-free polyamides and CFRP recycling tech at K 2025",
-        "url": "https://www.engineering.com/asahi-kasei-to-unveil-pfas-free-polyamides-and-cfrp-recycling-tech-at-k-2025/",
-        "source": "Engineering.com",
-        "published": "Fri, 05 Sep 2025 15:13:06 +0000",
-        "published_dt": "2025-09-05T15:13:06+00:00",
-        "summary": "<p>At K Show, Asahi Kasei will showcase recycled carbon fiber and PA, SEBS compounds with bio-based, biodegradable CNF.</p>\n<p>The post <a href=\"https://www.engineering.com/asahi-kasei-to-unveil-pfas-free-polyamides-and-cfrp-recycling-tech-at-k-2025/\">Asahi Kasei to unveil PFAS-free polyamides and CFRP recycling tech at K 2025</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "087592cedcfa53b5",
-        "title": "Cadence to acquire Hexagon\u2019s design and engineering business",
-        "url": "https://www.engineering.com/cadence-to-acquire-hexagons-design-and-engineering-business/",
-        "source": "Engineering.com",
-        "published": "Fri, 05 Sep 2025 15:02:50 +0000",
-        "published_dt": "2025-09-05T15:02:50+00:00",
-        "summary": "<p>Acquisition strengthens Cadence\u2019s system design portfolio with Hexagon\u2019s simulation and analysis solutions for key industries.</p>\n<p>The post <a href=\"https://www.engineering.com/cadence-to-acquire-hexagons-design-and-engineering-business/\">Cadence to acquire Hexagon\u2019s design and engineering business</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
         "id": "656541d1e67ab07d",
         "title": "A steady space? Bringing stellar legal certainty to space issues",
         "url": "https://spacenews.com/a-steady-space-bringing-stellar-legal-certainty-to-space-issues/",
@@ -372,99 +453,9 @@
         "published": "Fri, 05 Sep 2025 11:30:00 +0000",
         "published_dt": "2025-09-05T11:30:00+00:00",
         "summary": "<figure><img alt=\"Sir Martin Sweeting, chairman, Surrey Satellite Technology Limited; Gabe Zimmerman, director of the in space product line, Ursa Major; Tom Walkinshaw, CEO and co-founder, alba orbital; Todd Master, chief operating officer, Umbra\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"522\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Screenshot-2025-09-04-121623.png?fit=1024%2C522&amp;ssl=1\" width=\"1024\" /></figure>\n<p>During the 39th annual Small Satellite Conference in Salt Lake City, Utah, in August, SpaceNews hosted a group of industry leaders on our Space Minds podcast to discuss the latest in smallsats and where this part of the industry is headed. These excerpts from our conversations, which have been lightly edited for clarity and brevity, [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/how-the-smallsat-business-is-evolving-excerpts-from-the-space-minds-podcast/\">How the smallsat business is evolving: Excerpts from the Space Minds podcast</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "4d6e2e908b5aab39",
-        "title": "Earth observation firms are trying to solve a latency problem with \u2018Dynamic Targeting\u2019",
-        "url": "https://spacenews.com/earth-observation-firms-are-trying-to-solve-a-latency-problem-with-dynamic-targeting/",
-        "source": "SpaceNews",
-        "published": "Fri, 05 Sep 2025 11:00:00 +0000",
-        "published_dt": "2025-09-05T11:00:00+00:00",
-        "summary": "<figure><img alt=\"CogniSat-6, built by Open Cosmos with Ubotica edge processing and software for artificial intelligence, is the platform for Dynamic Targeting. Credit: NASA/USGS\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"819\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/CogniSat-6_launched_in_March_2024-scaled.png?fit=1024%2C819&amp;ssl=1\" width=\"1024\" /></figure>\n<p>For years, satellite sensors have transmitted vast quantities of imagery to the ground, where analysts then discarded views obscured by clouds, identified natural features or objects and shared pictures with customers. The entire process took days. Recently, companies have cut the timeline to hours \u2014 or even less \u2014 through frequent contact with ground stations, [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/earth-observation-firms-are-trying-to-solve-a-latency-problem-with-dynamic-targeting/\">Earth observation firms are trying to solve a latency problem with &#8216;Dynamic Targeting&#8217;</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "fae1c71eb7de2e05",
-        "title": "Bluebeam acquires Firmus AI to enhance preconstruction design review",
-        "url": "https://www.engineering.com/bluebeam-acquires-firmus-ai-to-enhance-preconstruction-design-review/",
-        "source": "Engineering.com",
-        "published": "Fri, 05 Sep 2025 09:09:00 +0000",
-        "published_dt": "2025-09-05T09:09:00+00:00",
-        "summary": "<p>New technology brings AI\u2011powered risk detection and cross\u2011discipline drawing comparison into Bluebeam\u2019s trusted PDF workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/bluebeam-acquires-firmus-ai-to-enhance-preconstruction-design-review/\">Bluebeam acquires Firmus AI to enhance preconstruction design review</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "1591cfa6173de927",
-        "title": "SprintRay acquires EnvisionTEC dental product portfolio",
-        "url": "https://www.engineering.com/sprintray-acquires-envisiontec-dental-product-portfolio/",
-        "source": "Engineering.com",
-        "published": "Fri, 05 Sep 2025 09:08:27 +0000",
-        "published_dt": "2025-09-05T09:08:27+00:00",
-        "summary": "<p>Expanding commitment to 3D printing in dentistry.</p>\n<p>The post <a href=\"https://www.engineering.com/sprintray-acquires-envisiontec-dental-product-portfolio/\">SprintRay acquires EnvisionTEC dental product portfolio</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "78ef9dfe387baf66",
-        "title": "L&T Technology, SiMa.ai collaborate for product innovation",
-        "url": "https://www.engineering.com/lt-technology-sima-ai-collaborate-for-product-innovation/",
-        "source": "Engineering.com",
-        "published": "Fri, 05 Sep 2025 07:27:00 +0000",
-        "published_dt": "2025-09-05T07:27:00+00:00",
-        "summary": "<p>Alliance to co-develop Physical AI for autonomous systems, healthcare, and industrial automation.</p>\n<p>The post <a href=\"https://www.engineering.com/lt-technology-sima-ai-collaborate-for-product-innovation/\">L&amp;T Technology, SiMa.ai collaborate for product innovation</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "0d7405d14bad416d",
-        "title": "Safran DSI acquires Attollo Engineering",
-        "url": "https://www.engineering.com/safran-dsi-acquires-attollo-engineering/",
-        "source": "Engineering.com",
-        "published": "Fri, 05 Sep 2025 07:10:00 +0000",
-        "published_dt": "2025-09-05T07:10:00+00:00",
-        "summary": "<p>Attollo's technology broadens Safran DSI's reach across multiple platforms, enabling faster, more accurate execution no matter the mission.</p>\n<p>The post <a href=\"https://www.engineering.com/safran-dsi-acquires-attollo-engineering/\">Safran DSI acquires Attollo Engineering</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "500978baa0cbb123",
-        "title": "Orbital Paradigm readies first reentry mission",
-        "url": "https://spacenews.com/orbital-paradigm-readies-first-reentry-mission/",
-        "source": "SpaceNews",
-        "published": "Thu, 04 Sep 2025 21:53:51 +0000",
-        "published_dt": "2025-09-04T21:53:51+00:00",
-        "summary": "<figure><img alt=\"Orbital Paradigm KID\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/orbital-paradigm-kid.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A Spanish startup is entering the emerging reentry vehicle market with plans to develop a reusable capsule offering frequent flights.</p>\n<p>The post <a href=\"https://spacenews.com/orbital-paradigm-readies-first-reentry-mission/\">Orbital Paradigm readies first reentry mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "b648c25360d822ba",
-        "title": "Space Force graduates first class of officers trained for \u2018great power competition\u2019",
-        "url": "https://spacenews.com/space-force-graduates-first-class-of-officers-trained-for-great-power-competition/",
-        "source": "SpaceNews",
-        "published": "Thu, 04 Sep 2025 20:14:10 +0000",
-        "published_dt": "2025-09-04T20:14:10+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"649\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/9284452-scaled-e1757016213440.jpg?fit=1024%2C649&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The new year-long program seeks to prepare military leaders for a \u201ccontested\u201d space domain</p>\n<p>The post <a href=\"https://spacenews.com/space-force-graduates-first-class-of-officers-trained-for-great-power-competition/\">Space Force graduates first class of officers trained for &#8216;great power competition&#8217;</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "1a0dad8c043358d6",
-        "title": "Project Kuiper scores first airline win as JetBlue picks LEO over GEO",
-        "url": "https://spacenews.com/project-kuiper-scores-first-airline-win-as-jetblue-picks-leo-over-geo/",
-        "source": "SpaceNews",
-        "published": "Thu, 04 Sep 2025 19:21:24 +0000",
-        "published_dt": "2025-09-04T19:21:24+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Kuiper-airline.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Amazon\u2019s Project Kuiper has clinched its first airline deal, partnering with JetBlue to bring LEO connectivity to about 75 aircraft from 2027 in another blow to legacy geostationary players.</p>\n<p>The post <a href=\"https://spacenews.com/project-kuiper-scores-first-airline-win-as-jetblue-picks-leo-over-geo/\">Project Kuiper scores first airline win as JetBlue picks LEO over GEO</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "264b7286e0e5df08",
-        "title": "Honoring the Best in Space: 2025 SpaceNews Icon Awards Nominations Open",
-        "url": "https://spacenews.com/honoring-the-best-in-space-2025-spacenews-icon-awards-nominations-open/",
-        "source": "SpaceNews",
-        "published": "Thu, 04 Sep 2025 12:00:00 +0000",
-        "published_dt": "2025-09-04T12:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/SpaceNews-Awards-Jason-Dixson-Photography-241206-13-51-45-1213.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>2025 SpaceNews Icon Awards Nominations Are Due Sept. 12 We are thrilled to announce that nominations for the 2025 SpaceNews Icon Awards are now open. Established in 2017 as the [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/honoring-the-best-in-space-2025-spacenews-icon-awards-nominations-open/\">Honoring the Best in Space: 2025 SpaceNews Icon Awards Nominations Open</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
-      {
-        "id": "4eedda4f058d997a",
-        "title": "Productivity and Wedges: Economic Convergence and the Real Exchange Rate -- by Michael B. Devereux, Ippei Fujiwara, Camilo Granados",
-        "url": "https://www.nber.org/papers/w34183#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "This paper explores the relationship between economic growth and the real exchange rate, specifically focusing on the convergence in price levels in Eastern European countries. While these countries have had significant convergence in GDP per capita (relative to the EU average) since the 1990s, convergence in real exchange rates for these countries stalled after the EU crisis. Using a standard theoretical framework, we estimate the main drivers of real exchange rates and show that a combination of productivity growth (Balassa-Samuelson effects) and labor market distortions help explain real exchange rate trends. We develop a structural two-country model that provides a rich decomposition of the long run determinants of the real exchange rate. Simulations based on observed sectoral productivities and labor market wedges show that the model can accurately account for the historical path of Eastern European real exchange rates, both before and after the EU crisis."
-      },
       {
         "id": "d3acd20a40121719",
         "title": "Do tariffs raise inflation?",
@@ -475,13 +466,22 @@
         "summary": "Usually. But the bigger problem is that they harm economic growth and innovation"
       },
       {
-        "id": "5a6c4d7fa4a595d1",
-        "title": "Good Rents versus Bad Rents: R&D Misallocation and Growth -- by Philippe Aghion, Antonin Bergeaud, Timo Boppart, Peter J. Klenow, Huiyu Li",
-        "url": "https://www.nber.org/papers/w34190#fromrss",
+        "id": "698429abebfa5722",
+        "title": "Laboratories of Autocracy: Landscape of Central\u2013Local Dynamics in China\u2019s Policy Universe -- by Kaicheng Luo, Shaoda Wang, David Y. Yang",
+        "url": "https://www.nber.org/papers/w34219#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "Firm price-cost markups may reflect (a) bigger step sizes from quality innovations that confer significant knowledge spillovers onto other firms, and/or (b) higher process efficiency than competing firms or other factors which bear no obvious knowledge externality. We write down an endogenous growth model with innovation step size and process efficiency as alternative sources of markup heterogeneity. Compared with the laissez-faire equilibrium, the social planner wants to reallocate research towards high step size firms but not high process efficiency firms. We then use price and productivity data across firms in French manufacturing to infer firm step sizes and process efficiency. We find that the planner could achieve faster growth by reallocating research toward high step size firms, and more so if high step size firms could freely license their innovations to high process efficiency firms."
+        "summary": "Using a comprehensive collection of 3.7 million Chinese policy documents and government work reports spanning the past two decades, we identify 115,679 distinct policies and systematically trace their initiation and diffusion. Our analysis reveals three key findings. First, China\u2019s policymaking has historically been highly decentralized, with local bureaucrats playing crucial roles in both creating new policies and spreading them. Second, since 2013, policymaking has become substantially more centralized, driven primarily by changing bureaucratic incentives\u2014bottom-up innovation is no longer rewarded, while strict enforcement of central policies is. Third, our examination of industrial policies shows that centralization affects both policy suitability and effectiveness. Top-down industrial policies tend to align poorly with local conditions and are less effective at driving industrial growth, highlighting centralization\u2019s costs. On the other hand, under decentralization, competition among local officials can distort policy diffusion, also undermining effectiveness. Our quantitative assessment of both distortions indicates that economic costs of centralizing policymaking in China have significantly outweighed its benefits."
+      },
+      {
+        "id": "718490b22d8553ae",
+        "title": "The Industrial Revolution in the United States: 1790-1870 -- by Joshua L. Rosenbloom",
+        "url": "https://www.nber.org/papers/w34225#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "This chapter explores the distinctive trajectory of American industrialization up to 1870, emphasizing how the United States adapted and transformed British technologies to suit its unique economic and resource conditions. Rather than a straightforward transfer of innovations, the chapter argues that American industrial development was shaped by path-dependent processes and historical contingencies\u2014such as the Embargo Act of 1807 and government sponsorship of firearms production\u2014that enabled the emergence of a domestic innovation ecosystem. The chapter offers fresh insights into how high-pressure steam engines, vertically integrated textile mills, and precision manufacturing techniques evolved in response to labor scarcity, capital constraints, and abundant natural resources. A particularly novel contribution is the detailed analysis of how American manufacturers substituted mechanization and organizational innovation for skilled labor, leading to the development of technologies that were not only distinct from their British counterparts but also foundational for the Second Industrial Revolution. The chapter also highlights the democratization of invention, showing how economic incentives and institutional support fostered widespread innovation among ordinary citizens. By integrating technological, economic, and institutional perspectives, this chapter provides a compelling explanation for why the United States developed a robust manufacturing sector despite seemingly unfavorable initial conditions."
       },
       {
         "id": "8bd66e558ada2539",
@@ -493,49 +493,94 @@
         "summary": "Just consider what happens if inflation starts to rise again"
       },
       {
-        "id": "c40b5449b8df386d",
-        "title": "Labor and Product Market Power, Endogenous Quality, and the Consolidation of the US Hospital Industry -- by Bradley Setzler",
-        "url": "https://www.nber.org/papers/w34180#fromrss",
+        "id": "1fa21c4643d18530",
+        "title": "Understanding Patenting Disparities via Causal Human+Machine Learning -- by Lin William Cong, Stephen Q. Yang",
+        "url": "https://www.nber.org/papers/w34197#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "Existing structural analyses of the harmful effects of market consolidation focus on either product or labor markets in isolation, ignoring that product market competitors often compete for workers as well. This paper develops a unified framework for merger evaluation, finding that firms' simultaneous exercise of oligopoly power in the product market and oligopsony power in the labor market amplifies the harm from mergers to both consumers and workers. The model also demonstrates how merger-induced gains in labor market power incentivize firms to reduce product quality, highlighting an additional channel for consumer harm. The model's predictions are tested and quantified in the context of the recent consolidation of the US hospital industry. Linking panel data from several sources on all US hospitals from 1996-2022, a difference-in-differences design is estimated for nearly 150 high-concentration within-market mergers. Hospital mergers significantly reduce patient volume, increase prices, reduce employment, lower wages, and deteriorate quality of care, resulting in higher patient mortality. After recovering the structural parameters, the estimated model replicates observed merger impacts. Counterfactual exercises reveal that ignoring increased labor (product) concentration would lead one to under-predict the harm of mergers to consumers (workers)."
+        "summary": "We develop an empirical approach for analyzing multi-dimensional discrimination using multimodal data, combining human perception measures with language-embedding-based, nonlinear controls for latent quality to relax restrictive assumptions in causal machine learning. Applying it to the U.S. patent examination process, we find that, ceteris paribus, applications from female inventors are 1.8 percentage points less likely to be approved, and those from Black inventors are 3 percentage points less likely\u2014inconsistent with legally prescribed criteria. Jointly studying multiple bias dimensions and their intersections for the first time, we uncover new biases, including an affiliation bias\u2014individual inventors are disadvantaged by 6.6 percentage points relative to employees of large, public firms, a disparity larger than any demographic gap. Moreover, innovation quality, location, and other factors can mitigate or compound discrimination, and the disparities interact: for example, racial gaps vanish among public-firm employees, masking more severe discrimination against individuals. Existing theories such as homophily cannot fully explain the results, but a simple model of correlation neglect does."
       },
       {
-        "id": "1b996d63b0173e7c",
-        "title": "Local Problems, Local Solutions: Evidence from the Drug-Free Communities Program on Youth Development -- by Shijun You, Wei Fu, Shin-Yi Chou",
-        "url": "https://www.nber.org/papers/w34182#fromrss",
+        "id": "232ee286eea0b22f",
+        "title": "Beyond the Taylor Rule -- by Emi Nakamura, Venance Riblier, J\u00f3n Steinsson",
+        "url": "https://www.nber.org/papers/w34200#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "The Drug-Free Communities (DFC) Support Program aims to reduce youth substance use by fostering multi-sector collaboration and implementing locally tailored strategies within the community. This study is among the first to evaluate the program\u2019s impact on youth development outcomes in the United States. Using the Callaway and Sant\u2019Anna (2021) difference-in-differences (CSDID) estimator, we find that the DFC program significantly reduces drug-related juvenile crime and improves academic performance. The effects are particularly pronounced in communities where coalitions include government agencies, highlighting the critical role of institutional coordination in mobilizing local resources. We also explore behavioral mechanisms, documenting reductions in marijuana use and opioid-related inpatient hospitalizations. A cost-benefit analysis indicates substantial welfare gains, suggesting that early-life prevention represents a cost-effective investment in public health."
+        "summary": "The Federal Reserve partially \"looked through\" the post-Covid rise in inflation and ultimately managed to bring about an \"immaculate disinflation.\" The Fed's policy deviated strongly from the Taylor rule during this period. More generally, central banks with strong inflation-fighting credentials looked through post-Covid inflationary shocks yet experienced less inflation than more hawkish but less credible central banks. In light of this episode, we assess the degree to which the Taylor rule is descriptive, and the degree to which it should be viewed as prescriptive. While the Taylor rule (generally) fits well during the Greenspan period, it (generally) fits poorly in the early 1980s and after the early 2000s. Academic work has emphasized the role of the Taylor rule in preventing self-fulfilling fluctuations (guaranteeing determinacy). These concerns can be addressed with a shock-contingent commitment and are fragile to deviations from fully rational expectations. We discuss three reasons why optimal policy may not always imply a one-for-one response of interest rates to inflation (forward guidance, correlated shocks, and \"long and variable lags\"). The main challenge arising from such policies is not indeterminacy but erosion of inflation-fighting credibility and potential deanchoring of long-run inflation expectations. Only central banks with strongly anchored inflation expectations and large amounts of inflation-fighting credibility are likely to be able to look through inflationary shocks."
       },
       {
-        "id": "fb0cf676c61e6498",
-        "title": "Union Bargaining Power and the Amenity-Wage Tradeoff -- by Lorenzo Lagos",
-        "url": "https://www.nber.org/papers/w34186#fromrss",
+        "id": "6966279d41d427cc",
+        "title": "Adapting for scale: Experimental Evidence on Technology-aided Instruction in India -- by Karthik Muralidharan, Abhijeet Singh",
+        "url": "https://www.nber.org/papers/w34205#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "This paper studies how collective bargaining affects both wages and amenities. By merging collective bargaining agreements (CBAs) to linked employer-employee data in Brazil, I combine rich contracted amenities with wage information. I implement a difference-in-difference strategy that exploits a court ruling enforcing CBA continuation (i.e., ultractivity) to estimate the effects of union bargaining power. Strengthening unions raises wages and amenities without reducing employment\u2014increasing retention despite some labor-labor substitution. A revealed preference approach shows that amenities account for 45% of total compensation gains. These findings suggest that collective bargaining can offset monopsony power, but employers retain the right-to-manage workforce composition."
+        "summary": "Many interventions that \u201cwork\u201d in small-scale trials often fail at scale, highlighting the centrality of effective scaling for realizing the promise of evidence-based policy. We study the scaling of a personalized adaptive learning (PAL) software that was highly effective in a small-scale trial. We adapt the PAL implementation for scalability by integrating it into public school schedules, and experimentally evaluate this adaptation in a more representative sample over 20 times larger than the original study. After 18 months, treated students scored 0.22\u03c3 higher in Mathematics and 0.20\u03c3 higher in Hindi, a 50\u201366% productivity increase over the control group. Learning gains were proportional to student time on the platform, providing a simple, low-cost metric for monitoring implementation quality in future scale-ups. The adaptation was cost effective, and its key design features make it widely scalable across diverse settings."
       },
       {
-        "id": "5b5f8c299eebd6b5",
-        "title": "Superstar Firms through the Generations -- by Yueran Ma, Benjamin Pugsley, Haomin Qin, Kaspar Zimmermann",
-        "url": "https://www.nber.org/papers/w34194#fromrss",
+        "id": "06b19c595d75e991",
+        "title": "International Students, Immigration Policies and Implications for Innovation -- by Ina Ganguli, Megan MacGarvie",
+        "url": "https://www.nber.org/papers/w34212#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We present new facts about the largest American companies over the past century. In manufacturing, top firms in the 1910s, 1950s, and 2010s predominantly date back to around 1900. Even as this special generation persists, turnover among top firms has been substantial. In contrast, in retail and wholesale, we do not observe a special generation among top firms. We show in a model of firm dynamics that a special generation can arise from an industrial revolution, through the adoption of a scalable technology and learning-by-doing. Top firm turnover is matched by standard idiosyncratic productivity shocks. Time-varying market size growth rates or entry costs are not sufficient to explain the facts. Among retailers and wholesalers, learning appears absent, so a special generation would be harder to sustain. Our results highlight the potential for lasting nonstationarity among the dynamics of top firms, which can result from the long echoes of technological change."
+        "summary": "This paper examines the evolving trends and policy dynamics of international student migration, focusing on their implications for STEM workforce development and innovation. While the United States has remained a leading destination for international students, recent years have seen a plateau or decline in incoming students, contrasted by growth in countries like Canada, Australia, and emerging hubs such as China and India. International students, particularly in STEM fields, play a critical role in shaping host countries' innovation ecosystems, often transitioning to permanent residents and STEM workers. We review immigration policies, including post-graduation work and residency pathways, highlighting their varying impacts on student inflows and innovation. Policies in Canada and Australia have until recently eased these transitions, while restrictive measures in the U.S. and U.K. have posed challenges. By documenting these trends and policy shifts, we identify gaps in the literature and outline directions for future research at the intersection of international education, immigration, and innovation."
       },
       {
-        "id": "c518c3db10956ab6",
-        "title": "The Impact of Geopolitical Risk on Consumer Expectations and Spending -- by Yuriy Gorodnichenko, Dimitris Georgarakos, Geoff Kenny, Olivier Coibion",
-        "url": "https://www.nber.org/papers/w34195#fromrss",
+        "id": "0bc65ec2f88b535b",
+        "title": "Public R&D Meets Economic Development: Embrapa and Brazil\u2019s Agricultural Revolution -- by Ariel Akerman, Jacob Moscona, Heitor S. Pellegrina, Karthik Sastry",
+        "url": "https://www.nber.org/papers/w34213#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "Using novel scenario-based survey questions that randomize the expected duration of the Russian invasion of Ukraine and Middle East conflict, we examine the causal impact of geopolitical risk on consumers\u2019 beliefs about aggregate economic conditions and their own financial outlook. Expecting a longer conflict leads European households to anticipate a worsening of the aggregate economy, with higher inflation, lower economic growth, and lower stock prices. They also perceive negative fiscal implications, anticipating higher government debt and higher taxes. Ultimately, households view the geopolitical conflict as making them worse off financially and it leads them to reduce their consumption."
+        "summary": "Can public R&amp;D investment in developing countries drive productivity growth? We study this question in the context of Brazilian agriculture and the Empresa Brasileira de Pesquisa Agropecu\u00e1ria (Embrapa), a public research corporation established in 1973 to develop locally suitable science and technology. First, we show that Embrapa redirected research toward prioritized staple crops and local ecological conditions, and increased research productivity, especially in remote and research-scarce regions. Second, exploiting the staggered rollout of research centers alongside heterogeneous local exposure to Embrapa\u2019s technology development, we find that Embrapa significantly increased agricultural output, driven both by higher productivity and expanded input use. Combined with a model, these estimates imply that public R&amp;D investment increased national agricultural productivity by 110% with a benefit-cost ratio of 17. The decentralized structure, in which research labs were spread across many ecological zones instead of in a single hub, explains a large share of these benefits."
+      },
+      {
+        "id": "0defb22218126b05",
+        "title": "Job Mismatch and Early Career Success -- by Julie Berry Cullen, Gordon B. Dahl, Richard De Thorpe",
+        "url": "https://www.nber.org/papers/w34215#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "How does being over- or underqualified at the beginning of a worker's career affect skill acquisition, retention, and promotion? Despite the importance of mismatch for the labor market, self-selection into jobs has made estimating these effects difficult. We overcome endogeneity concerns in the context of the US Air Force, which allocates new enlistees to over 130 different jobs based, in part, on test scores. Using these test scores, we create simulated job assignments based on factors outside of an individual's control: the available slots in upcoming training programs and the quality of other recruits entering at the same time. These factors create quasi-random variation in job assignment and hence how cognitively demanding an individual's job is relative to their own ability. We find that being overqualified for a job causes higher attrition, both during technical training and afterward when individuals are working in their assigned jobs. It also results in more behavioral problems, worse performance evaluations, and lower scores on general knowledge tests about the military taken by all workers. On the other hand, overqualification results in better performance relative to others in the same job: job-specific test scores rise both during technical training and while on the job, and these individuals are more likely to be promoted. Combined, these patterns suggest that overqualified individuals are less motivated, but still outperform others in their same job. Underqualification results in a polar opposite set of findings, suggesting these individuals are motivated to put forth more effort, but still struggle to compete when judged relative to others. Consistent with differential incentives, individuals who are overqualified are in jobs which are less valuable in terms of outside earnings potential, while the reverse is true for those who are underqualified."
+      },
+      {
+        "id": "87d6a5392924bf94",
+        "title": "Global Working Hours -- by Amory Gethin, Emmanuel Saez",
+        "url": "https://www.nber.org/papers/w34217#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "This paper uses labor force surveys from 160 countries to build a new microdatabase on hours worked covering 97% of the world population in cross section. We also construct time series spanning over 20 years in 86 countries. Hours worked per adult are slightly bell-shaped with GDP per capita but weakly correlated with development overall. Hours worked by the young (aged 15-19) and elderly (aged 60+) decline with development, driven by growing school attendance and public pension coverage. Hours worked among prime-age adults (aged 20-59) are mildly bell-shaped with development for men while they are increasing for women. The fall in male hours in middle-to-higher income countries is driven by reduced hours per worker and is offset by increases in female labor force participation. These two forces have exactly compensated each other in many countries, leading to a remarkable long-run stability of prime-age hours worked. Labor taxes are strongly negatively correlated with prime-age hours worked both in international comparisons and overtime within countries. Controlling for government transfers only partly reduces the link between labor taxes and prime-age hours, ruling out substitution and income effects on labor supply as the only driver. Controlling for working hours regulations and the size of the formal sector eliminates this link, suggesting that regulations also play a large role in reducing intensive hours in higher-income countries."
+      },
+      {
+        "id": "6fb52b941f332ef5",
+        "title": "College Loans and Human Capital Investment -- by Chao Fu, Hsuan-Chih (Luke) Lin, Atsuko Tanaka",
+        "url": "https://www.nber.org/papers/w34221#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "College loans serve as a double-edged sword for human capital investment: While they facilitate access to education, the burden of repayment may distort post-education investments in human capital. We examine the role of college loans and loan repayment policies through a structural model in which heterogeneous individuals, faced with borrowing limits, make dynamic decisions on consumption, borrowing/saving, labor supply, and costly human capital investment (via both college education and on-the-job learning a la Ben-Porath (1967)). We estimate two versions of the model using data from the NLSY79: one with natural borrowing limits and another with parameterized limits. Counterfactual simulations based on both models suggest that, relative to the standard fixed repayment plan, income-driven repayment (IDR) plans modestly increase educational attainment, lifetime earnings, and individual welfare. Although some generous IDR plans may result in losses for the loan program itself, overall government revenue is higher under IDRs than under the standard repayment plan when lifetime income taxes are accounted for, creating a win-win scenario for both individual welfare and government revenue."
+      },
+      {
+        "id": "dcc8fd6721cbf985",
+        "title": "Missing Markets for Innovation: Evidence from New Uses of Existing Drugs -- by Eric Budish, Maya M. Durvasula, Benjamin N. Roin, Heidi L. Williams",
+        "url": "https://www.nber.org/papers/w34222#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "For large classes of potential inventions, intellectual property rights that are available on paper are either not possible or not profitable for firms to enforce in practice. In this paper, we show that these missing incentives yield quantitatively significant underinvestment in research and development. We develop a simple model that formalizes the conditions under which such missing markets for innovation arise. We identify an empirical setting\u2014research into new uses for existing drugs\u2014in which there is sharp variation in the enforceability of intellectual property rights on otherwise comparable inventions over time. We show that when intellectual property rights become unenforceable, research investment and commercialization nearly cease. In doing so, we test two claims central both to our model and the innovation literature more generally\u2014that stronger intellectual property protection does, in fact, induce investment, and that heterogeneity in the availability of these rights distorts investment. The welfare consequences of inadequate incentives in our empirical context are large. Our estimates suggest that 200-800 new uses for existing drugs would have been developed under counterfactual policies. Measures of the value of these uses drawn from existing literature suggest that the social cost of this particular missing market is on the order of several trillion dollars."
+      },
+      {
+        "id": "d290d8893d3d6aa3",
+        "title": "What if the AI stockmarket blows up?",
+        "url": "https://www.economist.com/finance-and-economics/2025/09/07/what-if-the-ai-stockmarket-blows-up",
+        "source": "Finance & economics",
+        "published": "Sun, 07 Sep 2025 16:19:34 +0000",
+        "published_dt": "2025-09-07T16:19:34+00:00",
+        "summary": "We find that the potential cost has risen alarmingly high"
       },
       {
         "id": "3138a2251233a923",
@@ -635,54 +680,63 @@
         "published": "Wed, 30 Jul 2025 22:28:38 +0000",
         "published_dt": "2025-07-30T22:28:38+00:00",
         "summary": "A hawkish tilt changes rate-cut expectations"
-      },
-      {
-        "id": "b95ff475fd4d3e15",
-        "title": "A fresh retail-trading frenzy is reshaping financial markets",
-        "url": "https://www.economist.com/finance-and-economics/2025/07/29/a-fresh-retail-trading-frenzy-is-reshaping-financial-markets",
-        "source": "Finance & economics",
-        "published": "Tue, 29 Jul 2025 16:00:22 +0000",
-        "published_dt": "2025-07-29T16:00:22+00:00",
-        "summary": "Blame apps and DORKs, not stimmies"
-      },
-      {
-        "id": "55e46bc7897b8c10",
-        "title": "Europe averts its Trumpian trade nightmare",
-        "url": "https://www.economist.com/finance-and-economics/2025/07/28/europe-averts-its-trumpian-trade-nightmare",
-        "source": "Finance & economics",
-        "published": "Mon, 28 Jul 2025 00:11:36 +0000",
-        "published_dt": "2025-07-28T00:11:36+00:00",
-        "summary": "A deal with America chooses certain tariffs over risky retaliation"
-      },
-      {
-        "id": "bc710e559512a4ef",
-        "title": "Who\u2019s feeling the pain of Trump\u2019s tariffs?",
-        "url": "https://www.economist.com/finance-and-economics/2025/07/27/whos-feeling-the-pain-of-trumps-tariffs",
-        "source": "Finance & economics",
-        "published": "Sun, 27 Jul 2025 10:53:20 +0000",
-        "published_dt": "2025-07-27T10:53:20+00:00",
-        "summary": "Foreign companies are sharing the load. For now"
-      },
-      {
-        "id": "1cb44ee6e7777297",
-        "title": "Why is AI so slow to spread? Economics can explain",
-        "url": "https://www.economist.com/finance-and-economics/2025/07/17/why-is-ai-so-slow-to-spread-economics-can-explain",
-        "source": "Finance & economics",
-        "published": "Thu, 17 Jul 2025 09:33:38 +0000",
-        "published_dt": "2025-07-17T09:33:38+00:00",
-        "summary": "Businesses are ignoring the street of hundred-dollar bills"
-      },
-      {
-        "id": "8ea978c0754e8017",
-        "title": "Americans can still get a 2% mortgage",
-        "url": "https://www.economist.com/finance-and-economics/2025/07/17/americans-can-still-get-a-2-mortgage",
-        "source": "Finance & economics",
-        "published": "Thu, 17 Jul 2025 09:33:09 +0000",
-        "published_dt": "2025-07-17T09:33:09+00:00",
-        "summary": "At a time of high interest rates, there are bargains to be found"
       }
     ],
     "Cross-Disciplinary": [
+      {
+        "id": "9e324123c2b44690",
+        "title": "The Download: introducing our 35 Innovators Under 35 list for 2025",
+        "url": "https://www.technologyreview.com/2025/09/08/1123361/the-download-introducing-our-35-innovators-under-35-list-for-2025/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 08 Sep 2025 12:10:00 +0000",
+        "published_dt": "2025-09-08T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: our 35 Innovators Under 35 list for 2025 The world is full of extraordinary young people brimming with ideas for how to crack tough problems. Every year, we recognize 35 such individuals&#8230;"
+      },
+      {
+        "id": "17076315d820e7b9",
+        "title": "How Trump\u2019s policies are affecting early-career scientists\u2014in their own words",
+        "url": "https://www.technologyreview.com/2025/09/08/1123166/trumps-policy-early-career-scientists/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 08 Sep 2025 10:45:00 +0000",
+        "published_dt": "2025-09-08T10:45:00+00:00",
+        "summary": "Every year MIT Technology Review celebrates accomplished young scientists, entrepreneurs, and inventors from around the world in our Innovators Under 35 list. We\u2019ve just published the 2025 edition. This year, though, the context is pointedly different: The US scientific community finds itself in an unprecedented position, with the very foundation of its work under attack.&#160;&#8230;"
+      },
+      {
+        "id": "fa4ae70c459585b6",
+        "title": "Why basic science deserves our boldest investment",
+        "url": "https://www.technologyreview.com/2025/09/08/1123214/opinion-basic-science-research-funding/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 08 Sep 2025 10:45:00 +0000",
+        "published_dt": "2025-09-08T10:45:00+00:00",
+        "summary": "In December 1947, three physicists at Bell Telephone Laboratories\u2014John Bardeen, William Shockley, and Walter Brattain\u2014built a compact electronic device using thin gold wires and a piece of germanium, a material known as a semiconductor. Their invention, later named the transistor (for which they were awarded the Nobel Prize in 1956), could amplify and switch electrical&#8230;"
+      },
+      {
+        "id": "1cde74ff0d6d8074",
+        "title": "2025 Innovator of the Year: Sneha Goenka for developing an ultra-fast sequencing technology",
+        "url": "https://www.technologyreview.com/2025/09/08/1121509/innovator-of-the-year-sneha-goenka/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 08 Sep 2025 10:30:00 +0000",
+        "published_dt": "2025-09-08T10:30:00+00:00",
+        "summary": "Sneha Goenka is one of MIT Technology Review\u2019s 2025 Innovators Under 35.&#160;Meet the rest of this year\u2019s honorees.&#160; Up to a quarter of children entering intensive care have undiagnosed genetic conditions. To be treated properly, they must first get diagnoses\u2014which means having their genomes sequenced. This process typically takes up to seven weeks. Sadly, that\u2019s&#8230;"
+      },
+      {
+        "id": "96b15bbf4f754ae8",
+        "title": "Meet the Ethiopian entrepreneur who is reinventing ammonia production",
+        "url": "https://www.technologyreview.com/2025/09/08/1122179/iwnetim-abate-innovator-ammonia-production/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 08 Sep 2025 10:30:00 +0000",
+        "published_dt": "2025-09-08T10:30:00+00:00",
+        "summary": "Iwnetim Abate is one of MIT Technology Review\u2019s 2025 Innovators Under 35.&#160;Meet the rest of this year\u2019s honorees.&#160; \u201cI\u2019m the only one who wears glasses and has eye problems in the family,\u201d Iwnetim Abate says with a smile as sun streams in through the windows of his MIT office. \u201cI think it\u2019s because of the&#8230;"
+      },
+      {
+        "id": "01f60d792effac8d",
+        "title": "How Yichao \u201cPeak\u201d Ji became a global AI app hitmaker",
+        "url": "https://www.technologyreview.com/2025/09/08/1122642/ji-peak-yichao-innovator-manus-app-ai/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 08 Sep 2025 10:30:00 +0000",
+        "published_dt": "2025-09-08T10:30:00+00:00",
+        "summary": "Yichao \u201cPeak\u201d Ji is one of MIT Technology Review\u2019s 2025 Innovators Under 35.\u00a0Meet the rest of this year\u2019s honorees.\u00a0 When Yichao Ji\u2014also known as \u201cPeak\u201d\u2014appeared in a launch video for Manus in March, he didn\u2019t expect it to go viral. Speaking in fluent English, the 32-year-old introduced the AI agent built by Chinese startup Butterfly&#8230;"
+      },
       {
         "id": "91a6cbe9684f4723",
         "title": "IEEE President\u2019s Note: How History Shapes Tech\u2019s Future",
@@ -817,60 +871,6 @@
         "published": "Thu, 04 Sep 2025 12:10:00 +0000",
         "published_dt": "2025-09-04T12:10:00+00:00",
         "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Synthesia\u2019s AI clones are more expressive than ever. Soon they\u2019ll be able to talk back. \u2014Rhiannon Williams Earlier this summer, I visited the AI company Synthesia to give it what it needed to&#8230;"
-      },
-      {
-        "id": "4b06994aae0055eb",
-        "title": "Transforming CX with embedded real-time analytics",
-        "url": "https://www.technologyreview.com/2025/09/04/1122669/transforming-cx-with-embedded-real-time-analytics/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 04 Sep 2025 11:40:33 +0000",
-        "published_dt": "2025-09-04T11:40:33+00:00",
-        "summary": "During Black Friday in 2024, Stripe processed more than $31 billion in transactions, with processing rates peaking at 137,000 transactions per minute, the highest in the company\u2019s history. The financial-services firm&#160;had to analyze every transaction in real time to prevent nearly 21 million fraud attempts that could have siphoned more than $910 million from its&#8230;"
-      },
-      {
-        "id": "188e82f3581e0cce",
-        "title": "Synthesia\u2019s AI clones are more expressive than ever. Soon they\u2019ll be able to talk back.",
-        "url": "https://www.technologyreview.com/2025/09/04/1123054/synthesias-ai-clones-are-more-expressive-than-ever-soon-theyll-be-able-to-talk-back/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 04 Sep 2025 10:05:33 +0000",
-        "published_dt": "2025-09-04T10:05:33+00:00",
-        "summary": "Earlier this summer, I walked through the glassy lobby of a fancy office in London, into an elevator, and then along a corridor into a clean, carpeted room. Natural light flooded in through its windows, and a large pair of umbrella-like lighting rigs made the room even brighter. I tried not to squint as I&#8230;"
-      },
-      {
-        "id": "73c5947906c24f3f",
-        "title": "How Trump is helping China extend its massive lead in clean energy",
-        "url": "https://www.technologyreview.com/2025/09/04/1123014/how-trump-is-helping-china-extend-its-massive-lead-in-clean-energy/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 04 Sep 2025 10:00:00 +0000",
-        "published_dt": "2025-09-04T10:00:00+00:00",
-        "summary": "On a spring day in 1954, Bell Labs researchers showed off the first practical solar panels at a press conference in Murray Hill, New Jersey, using sunlight to spin a toy Ferris wheel before a stunned crowd. The solar future looked bright. But in the race to commercialize the technology it invented, the US would&#8230;"
-      },
-      {
-        "id": "e86ec6dfa79e229c",
-        "title": "The Download: sustainable architecture, and DeepSeek\u2019s success",
-        "url": "https://www.technologyreview.com/2025/09/03/1122955/the-download-sustainable-architecture-and-deepseeks-success/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 03 Sep 2025 12:10:00 +0000",
-        "published_dt": "2025-09-03T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Material Cultures looks to the past to build the future Despite decades of green certifications, better material sourcing, and the use of more sustainable materials, the built environment is still responsible for a&#8230;"
-      },
-      {
-        "id": "d31220ffc847c0ef",
-        "title": "The connected customer",
-        "url": "https://www.technologyreview.com/2025/09/03/1121441/the-connected-customer/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 03 Sep 2025 08:46:54 +0000",
-        "published_dt": "2025-09-03T08:46:54+00:00",
-        "summary": "As brands compete for increasingly price conscious consumers, customer experience (CX) has become a decisive differentiator. Yet many struggle to deliver, constrained by outdated systems, fragmented data, and organizational silos that limit both agility and consistency. The current wave of artificial intelligence, particularly agentic AI that can reason and act across workflows, offers a powerful&#8230;"
-      },
-      {
-        "id": "bad85b2a592eac76",
-        "title": "Building the AI-enabled enterprise of the future",
-        "url": "https://www.technologyreview.com/2025/09/03/1122367/building-the-ai-enabled-enterprise-of-the-future/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 03 Sep 2025 08:38:43 +0000",
-        "published_dt": "2025-09-03T08:38:43+00:00",
-        "summary": "Artificial intelligence is fundamentally reshaping how the world operates. With its potential to automate repetitive tasks, analyze vast datasets, and augment human capabilities, the use of AI technologies is already driving changes across industries. In health care and pharmaceuticals, machine learning and AI-powered tools are advancing disease diagnosis, reducing drug discovery timelines by as much&#8230;"
       },
       {
         "id": "148193cb0e738185",
