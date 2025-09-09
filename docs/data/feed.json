@@ -1,7 +1,115 @@
 {
-  "generated_at": "2025-09-08T12:52:12.423924+00:00",
+  "generated_at": "2025-09-09T12:52:36.024695+00:00",
   "categories": {
     "Biotech": [
+      {
+        "id": "a4ed3d2f64630b1d",
+        "title": "A promising new treatment for a tough cancer",
+        "url": "https://www.statnews.com/2025/09/09/health-news-lung-cancer-florida-trump-fda-pig-kidney/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 09 Sep 2025 12:07:56 +0000",
+        "published_dt": "2025-09-09T12:07:56+00:00",
+        "summary": "And more health news from Morning Rounds today."
+      },
+      {
+        "id": "f549f97defe34bea",
+        "title": "STAT+: Obesity drugs may be pricey, but they\u2019re also cost-effective, analysis finds",
+        "url": "https://www.statnews.com/pharmalot/2025/09/09/wegovy-zepbound-novo-lilly-icer-value-price-obesity-weight/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 09 Sep 2025 12:00:00 +0000",
+        "published_dt": "2025-09-09T12:00:00+00:00",
+        "summary": "Despite high price tags, the Wegovy and Zepbound obesity drugs are considered to be cost-effective, according to a new preliminary analysis."
+      },
+      {
+        "id": "0ab96d099b8b0dcc",
+        "title": "The Download: meet our AI innovators, and what happens when therapists use AI covertly",
+        "url": "https://www.technologyreview.com/2025/09/09/1123447/the-download-meet-our-ai-innovators-and-what-happens-when-therapists-use-ai-covertly/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 09 Sep 2025 12:10:00 +0000",
+        "published_dt": "2025-09-09T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the AI honorees on our 35 Innovators Under 35 list for 2025 Each year, we select 35 outstanding individuals under the age of 35 who are using technology to tackle tough problems&#8230;"
+      },
+      {
+        "id": "b720129b9be2206f",
+        "title": "STAT+: Lilly will let small biotechs use its AI models at no cost",
+        "url": "https://www.statnews.com/2025/09/09/eli-lilly-ai-tunelab-biotech-drug-insitro/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 09 Sep 2025 11:00:00 +0000",
+        "published_dt": "2025-09-09T11:00:00+00:00",
+        "summary": "Lilly is opening up its proprietary AI models to biotech companies that want to use them to jumpstart their science."
+      },
+      {
+        "id": "cfccc98c45218c98",
+        "title": "Help! My therapist is secretly using ChatGPT",
+        "url": "https://www.technologyreview.com/2025/09/09/1123386/help-my-therapist-is-secretly-using-chatgpt/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 09 Sep 2025 09:00:00 +0000",
+        "published_dt": "2025-09-09T09:00:00+00:00",
+        "summary": "In Silicon Valley\u2019s imagined future, AI models are so empathetic that we\u2019ll use them as therapists. They\u2019ll provide mental-health care for millions, unimpeded by the pesky requirements for human counselors, like the need for graduate degrees, malpractice insurance, and sleep. Down here on Earth, something very different has been happening.&#160; Last week, we published a&#8230;"
+      },
+      {
+        "id": "4e24935acf032c6e",
+        "title": "AI is changing the grid. Could it help more than it harms?",
+        "url": "https://www.technologyreview.com/2025/09/09/1123404/ai-grid-help/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 09 Sep 2025 09:00:00 +0000",
+        "published_dt": "2025-09-09T09:00:00+00:00",
+        "summary": "The rising popularity of AI is driving an increase in electricity demand so significant it has the potential to reshape our grid. Energy consumption by data centers has gone up by 80% from 2020 to 2025 and is likely to keep growing. Electricity prices are already rising, especially in places where data centers are most&#8230;"
+      },
+      {
+        "id": "a3323497ae772437",
+        "title": "Three big things we still don\u2019t know about AI\u2019s energy burden",
+        "url": "https://www.technologyreview.com/2025/09/09/1123408/three-big-things-we-still-dont-know-about-ais-energy-burden/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 09 Sep 2025 09:00:00 +0000",
+        "published_dt": "2025-09-09T09:00:00+00:00",
+        "summary": "Earlier this year, when my colleague Casey Crownhart and I spent six months researching the climate and energy burden of AI, we came to see one number in particular as our white whale: how much energy the leading AI models, like ChatGPT or Gemini, use up when generating a single response.&#160; This fundamental number remained&#8230;"
+      },
+      {
+        "id": "5d2ac6ce4e48ab12",
+        "title": "Opinion: What states will be next to end school vaccine requirements?",
+        "url": "https://www.statnews.com/2025/09/09/school-vaccine-requirements-florida-red-states-public-health/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 09 Sep 2025 08:30:00 +0000",
+        "published_dt": "2025-09-09T08:30:00+00:00",
+        "summary": "\u201cBy mixing politics with vaccines, Florida is playing with fire,\u201d warn health department directors from Dallas and Columbus, Ohio."
+      },
+      {
+        "id": "f0387c7509a91ace",
+        "title": "Is it \u2018inevitable\u2019 that men die more than five years earlier than women?",
+        "url": "https://www.statnews.com/2025/09/09/how-research-ignores-men-dying-younger/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 09 Sep 2025 08:30:00 +0000",
+        "published_dt": "2025-09-09T08:30:00+00:00",
+        "summary": "Men die five years earlier than women, a gap that's only grown in the last few decades. Why aren't we doing more to fix it?"
+      },
+      {
+        "id": "414238bf27c95d9a",
+        "title": "Opinion: Bringing AI to medicine requires philosophers, cognitive scientists, and ethicists",
+        "url": "https://www.statnews.com/2025/09/09/ai-medicine-philosophers-cognitive-scientists-ethics-human-judgment/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 09 Sep 2025 08:30:00 +0000",
+        "published_dt": "2025-09-09T08:30:00+00:00",
+        "summary": "\u201cHealth care is already a team sport between humans and machines \u2014 but right now, we\u2019re all playing it badly,\u201d writes Charlotte Blease."
+      },
+      {
+        "id": "a5faec3832cb0f4b",
+        "title": "10 times STAT coverage reverberated through health and medicine",
+        "url": "https://www.statnews.com/2025/09/09/stat-turns-10-milestone-stories-decade/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 09 Sep 2025 08:30:00 +0000",
+        "published_dt": "2025-09-09T08:30:00+00:00",
+        "summary": "In its first decade, STAT has led the way in charting seismic events in health and medicine. To mark our 10-year anniversary, take a look back at 10 of our&#8230;"
+      },
+      {
+        "id": "f412cdbbc9f40b8b",
+        "title": "STAT+: Pig kidneys to enter FDA-backed human trial next year",
+        "url": "https://www.statnews.com/2025/09/08/biotech-news-pfizer-biontech-arena-takeda-alkermes/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 08 Sep 2025 13:58:49 +0000",
+        "published_dt": "2025-09-08T13:58:49+00:00",
+        "summary": "And other biotech news, brought to you by The Readout."
+      },
       {
         "id": "dc2741359cd60e3a",
         "title": "STAT+: FDA greenlights trial of gene-edited pig kidneys as treatment for end-stage kidney disease",
@@ -12,139 +120,22 @@
         "summary": "After two months with a kidney from a gene-edited Yucatan minipig named Lavender, a New Hampshire man is off dialysis. Soon, more people than ever will have pig organs."
       },
       {
-        "id": "fe9e1e2a164f10f1",
-        "title": "The effects of high blood pressure, six decades\u00a0later",
-        "url": "https://www.statnews.com/2025/09/08/health-news-fda-covid-vaccine-deaths-blood-pressure/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 08 Sep 2025 12:08:13 +0000",
-        "published_dt": "2025-09-08T12:08:13+00:00",
-        "summary": "And more health news from Morning Rounds."
-      },
-      {
-        "id": "9e324123c2b44690",
-        "title": "The Download: introducing our 35 Innovators Under 35 list for 2025",
-        "url": "https://www.technologyreview.com/2025/09/08/1123361/the-download-introducing-our-35-innovators-under-35-list-for-2025/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 08 Sep 2025 12:10:00 +0000",
-        "published_dt": "2025-09-08T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: our 35 Innovators Under 35 list for 2025 The world is full of extraordinary young people brimming with ideas for how to crack tough problems. Every year, we recognize 35 such individuals&#8230;"
-      },
-      {
-        "id": "8095ec20053cb0e3",
-        "title": "STAT+: Rapport shares soar after successful mid-stage seizure trial",
-        "url": "https://www.statnews.com/2025/09/08/rapport-rap219-focal-seizures-epilepsy-trial-results/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 08 Sep 2025 10:55:13 +0000",
-        "published_dt": "2025-09-08T10:55:13+00:00",
-        "summary": "A Rapport Therapeutics seizure medicine succeeded in a mid-stage clinical trial, sending company shares soaring."
-      },
-      {
-        "id": "7c95b6f4cfee534a",
-        "title": "STAT+: Biotech veteran Harvey Berger takes over as CEO of billionaire-backed Arena Bioworks",
-        "url": "https://www.statnews.com/2025/09/08/arena-bioworks-harvey-berger-ceo/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 08 Sep 2025 11:00:00 +0000",
-        "published_dt": "2025-09-08T11:00:00+00:00",
-        "summary": "Arena BioWorks, the research institute that launched last year with $500 million from a group of high-profile billionaires, has brought on a new CEO."
-      },
-      {
-        "id": "17076315d820e7b9",
-        "title": "How Trump\u2019s policies are affecting early-career scientists\u2014in their own words",
-        "url": "https://www.technologyreview.com/2025/09/08/1123166/trumps-policy-early-career-scientists/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 08 Sep 2025 10:45:00 +0000",
-        "published_dt": "2025-09-08T10:45:00+00:00",
-        "summary": "Every year MIT Technology Review celebrates accomplished young scientists, entrepreneurs, and inventors from around the world in our Innovators Under 35 list. We\u2019ve just published the 2025 edition. This year, though, the context is pointedly different: The US scientific community finds itself in an unprecedented position, with the very foundation of its work under attack.&#160;&#8230;"
-      },
-      {
-        "id": "fa4ae70c459585b6",
-        "title": "Why basic science deserves our boldest investment",
-        "url": "https://www.technologyreview.com/2025/09/08/1123214/opinion-basic-science-research-funding/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 08 Sep 2025 10:45:00 +0000",
-        "published_dt": "2025-09-08T10:45:00+00:00",
-        "summary": "In December 1947, three physicists at Bell Telephone Laboratories\u2014John Bardeen, William Shockley, and Walter Brattain\u2014built a compact electronic device using thin gold wires and a piece of germanium, a material known as a semiconductor. Their invention, later named the transistor (for which they were awarded the Nobel Prize in 1956), could amplify and switch electrical&#8230;"
-      },
-      {
-        "id": "1cde74ff0d6d8074",
-        "title": "2025 Innovator of the Year: Sneha Goenka for developing an ultra-fast sequencing technology",
-        "url": "https://www.technologyreview.com/2025/09/08/1121509/innovator-of-the-year-sneha-goenka/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 08 Sep 2025 10:30:00 +0000",
-        "published_dt": "2025-09-08T10:30:00+00:00",
-        "summary": "Sneha Goenka is one of MIT Technology Review\u2019s 2025 Innovators Under 35.&#160;Meet the rest of this year\u2019s honorees.&#160; Up to a quarter of children entering intensive care have undiagnosed genetic conditions. To be treated properly, they must first get diagnoses\u2014which means having their genomes sequenced. This process typically takes up to seven weeks. Sadly, that\u2019s&#8230;"
-      },
-      {
-        "id": "96b15bbf4f754ae8",
-        "title": "Meet the Ethiopian entrepreneur who is reinventing ammonia production",
-        "url": "https://www.technologyreview.com/2025/09/08/1122179/iwnetim-abate-innovator-ammonia-production/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 08 Sep 2025 10:30:00 +0000",
-        "published_dt": "2025-09-08T10:30:00+00:00",
-        "summary": "Iwnetim Abate is one of MIT Technology Review\u2019s 2025 Innovators Under 35.&#160;Meet the rest of this year\u2019s honorees.&#160; \u201cI\u2019m the only one who wears glasses and has eye problems in the family,\u201d Iwnetim Abate says with a smile as sun streams in through the windows of his MIT office. \u201cI think it\u2019s because of the&#8230;"
-      },
-      {
-        "id": "01f60d792effac8d",
-        "title": "How Yichao \u201cPeak\u201d Ji became a global AI app hitmaker",
-        "url": "https://www.technologyreview.com/2025/09/08/1122642/ji-peak-yichao-innovator-manus-app-ai/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 08 Sep 2025 10:30:00 +0000",
-        "published_dt": "2025-09-08T10:30:00+00:00",
-        "summary": "Yichao \u201cPeak\u201d Ji is one of MIT Technology Review\u2019s 2025 Innovators Under 35.\u00a0Meet the rest of this year\u2019s honorees.\u00a0 When Yichao Ji\u2014also known as \u201cPeak\u201d\u2014appeared in a launch video for Manus in March, he didn\u2019t expect it to go viral. Speaking in fluent English, the 32-year-old introduced the AI agent built by Chinese startup Butterfly&#8230;"
-      },
-      {
-        "id": "28d0ff965a3f402f",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/rapports-seizure-drug-hits-phase-2-sending-stock-soaring\" hreflang=\"en\">Rapport's seizure drug hits in phase 2, sending stock soaring </a>",
-        "url": "https://www.fiercebiotech.com/biotech/rapports-seizure-drug-hits-phase-2-sending-stock-soaring",
+        "id": "1dbba2e2d607a4f5",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-invites-biotechs-use-its-new-ai-platform-help-develop-their-drugs\" hreflang=\"en\">Eli Lilly invites biotechs to use its new AI platform to help develop their own drugs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-invites-biotechs-use-its-new-ai-platform-help-develop-their-drugs",
         "source": "Fierce Biotech",
-        "published": "Sep 8, 2025 8:14am",
-        "published_dt": "2025-09-08T08:14:00+00:00",
-        "summary": "A phase 2a trial of Rapport Therapeutics\u2019 focal onset seizure drug candidate has hit its primary endpoint, sending shares in the biotech\u200b\u200b up more than 157% in premarket trading."
+        "published": "Sep 9, 2025 7:45am",
+        "published_dt": "2025-09-09T07:45:00+00:00",
+        "summary": "Eli Lilly is inviting early-stage biotechs to make use of drug discovery models that the pharma is providing via a new AI platform."
       },
       {
-        "id": "48e2fb792e10704d",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/takeda-alkermes-lift-lid-rival-narcolepsy-hopefuls-race-fda-heats\" hreflang=\"en\">Takeda, Alkermes lift lid on data for rival narcolepsy hopefuls as race to market heats up</a>",
-        "url": "https://www.fiercebiotech.com/biotech/takeda-alkermes-lift-lid-rival-narcolepsy-hopefuls-race-fda-heats",
-        "source": "Fierce Biotech",
-        "published": "Sep 8, 2025 6:50am",
-        "published_dt": "2025-09-08T06:50:00+00:00",
-        "summary": "Takeda and Alkermes both took data from their orexin receptor 2 (OX2R)-selective agonists to Singapore this morning as the race to get a new class of narcolepsy drug approved heats up."
-      },
-      {
-        "id": "edc56dbc2923db03",
-        "title": "Opinion: Beyond Dr. Google: How patients are using chatbots to shape their health stories",
-        "url": "https://www.statnews.com/2025/09/08/chatbots-patients-diagnosis-dr-google-story/?utm_campaign=rss",
+        "id": "9fbb93c13e71ea97",
+        "title": "STAT+: Novartis to buy Tourmaline Bio, gaining promising heart medicine",
+        "url": "https://www.statnews.com/2025/09/09/novartis-tourmaline-bio-heart-disease-acquisition-pacibekitug/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Mon, 08 Sep 2025 08:30:00 +0000",
-        "published_dt": "2025-09-08T08:30:00+00:00",
-        "summary": "Thanks to chatbots, \u201cpatients aren\u2019t just arriving with facts. They\u2019re arriving with shaped, rehearsed stories,\u201d writes clinical psychologist Harvey Lieberman."
-      },
-      {
-        "id": "892de1c3c4ea2e73",
-        "title": "Opinion: Reforming NIH: A blueprint for 21st century medical research",
-        "url": "https://www.statnews.com/2025/09/08/nih-reform-budget-cuts-trump-administration-rfk-jr/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 08 Sep 2025 08:30:00 +0000",
-        "published_dt": "2025-09-08T08:30:00+00:00",
-        "summary": "We all benefit from a well-functioning and well-funded NIH. But it needs reform, writes the Good Science Project\u2019s Stuart Buck."
-      },
-      {
-        "id": "bc7286a63ae03095",
-        "title": "Sterilization, mysterious pain, and dismissive doctors: Why women turn to reversal surgery \u2014 and sometimes to RFK Jr.",
-        "url": "https://www.statnews.com/2025/09/08/post-tubal-ligation-syndrome-experts-examine-ptls-sterilization-reversal/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 08 Sep 2025 08:30:00 +0000",
-        "published_dt": "2025-09-08T08:30:00+00:00",
-        "summary": "Dismissal of post-tubal ligation syndrome sends women on maddening pilgrimages in search of recognition and relief. The best remedy, many say, is reversal."
-      },
-      {
-        "id": "c5ef439cf4bd520c",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/junshi-heralds-phase-3-psoriasis-win-il-17-drug-prepares-push-chinese-regulators\" hreflang=\"en\">Junshi heralds phase 3 psoriasis win for IL-17 drug, prepares push to Chinese regulators</a>",
-        "url": "https://www.fiercebiotech.com/biotech/junshi-heralds-phase-3-psoriasis-win-il-17-drug-prepares-push-chinese-regulators",
-        "source": "Fierce Biotech",
-        "published": "Sep 8, 2025 4:57am",
-        "published_dt": "2025-09-08T04:57:00+00:00",
-        "summary": "Junshi has announced that its IL-17 antibody hit the goals of a phase 3 psoriasis trial in China, setting up the biopharma to seek national approval."
+        "published": "Tue, 09 Sep 2025 07:43:55 +0000",
+        "published_dt": "2025-09-09T07:43:55+00:00",
+        "summary": "Novartis said it would buy Tourmaline Bio in a deal worth $1.4 billion, building out its pipeline with a promising heart medicine."
       },
       {
         "id": "8b2c4826a9abd2c4",
@@ -165,70 +156,286 @@
         "summary": "BioNTech\u2019s HER2 antibody-drug conjugate has beaten Roche\u2019s Kadcyla in a phase 3 breast cancer trial, positioning the company\u2019s partner Duality Biologics to seek approval for the candidate in China."
       },
       {
-        "id": "59e78fb15d4767f2",
-        "title": "STAT+: Alkermes, Takeda show encouraging data on narcolepsy drugs",
-        "url": "https://www.statnews.com/2025/09/08/alkermes-takeda-narcolepsy-sleep-medicines/?utm_campaign=rss",
+        "id": "37060e5925215fdc",
+        "title": "STAT+: Former top FDA digital leader lands at Mayo Clinic",
+        "url": "https://www.statnews.com/2025/09/08/fda-mayo-clinic-digital-health-leader-leaves/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Mon, 08 Sep 2025 07:15:00 +0000",
-        "published_dt": "2025-09-08T07:15:00+00:00",
-        "summary": "Alkermes and Takeda released data on drug candidates that could fuel the race to develop a new class of therapies and transform sleep medicine."
+        "published": "Mon, 08 Sep 2025 15:20:23 +0000",
+        "published_dt": "2025-09-08T15:20:23+00:00",
+        "summary": "Sonja Fulmer is the second top health regulator to land at Mayo Clinic this year."
       },
       {
-        "id": "7ab928a82ca187e1",
-        "title": "<a href=\"https://www.fiercebiotech.com/pharma/summit-global-pd-1xvegf-data-challenge-regional-consistency-claims-new-promising-survival\" hreflang=\"en\">Summit's global PD-1xVEGF data challenge regional consistency claims but show new promising survival trend</a>",
-        "url": "https://www.fiercebiotech.com/pharma/summit-global-pd-1xvegf-data-challenge-regional-consistency-claims-new-promising-survival",
-        "source": "Fierce Biotech",
-        "published": "Sep 6, 2025 6:18pm",
-        "published_dt": "2025-09-06T18:18:00+00:00",
-        "summary": "Industry watchers who cheered on Summit Therapeutics\u2019 claim that the first global phase 3 trial of its Akeso-partnered PD-1xVEGF drug showed consistent benefit between China and Western populations may be disappointed, although hopes for an approval remain alive thanks to newly calculated overall survival data from a longer follow-up."
-      },
-      {
-        "id": "56934f5291db1c17",
-        "title": "STAT+: FDA will convene Digital Health Advisory Committee in November",
-        "url": "https://www.statnews.com/2025/09/05/fda-digital-health-advisory-committee-november-meeting/?utm_campaign=rss",
+        "id": "c44bebcfd9e98022",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about FDA and imported GLP-1 drugs, a race to develop sleep meds, and more",
+        "url": "https://www.statnews.com/pharmalot/2025/09/08/who-diabetes-teva-merck-perrigo-sleep-fda-glp-obesity-compounding/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Fri, 05 Sep 2025 22:17:09 +0000",
-        "published_dt": "2025-09-05T22:17:09+00:00",
-        "summary": "The FDA will convene a meeting of external digital health advisors on Nov. 6, according to an email reviewed by STAT."
+        "published": "Mon, 08 Sep 2025 13:11:02 +0000",
+        "published_dt": "2025-09-08T13:11:02+00:00",
+        "summary": "The FDA is tightening oversight of imports of GLP-1 drug ingredients amid concerns many of the items may be adulterated and pose a safety risk"
       },
       {
-        "id": "96585330793e5e31",
-        "title": "STAT+: FDA commissioner says agency is looking into question of pediatric deaths from Covid vaccines",
-        "url": "https://www.statnews.com/2025/09/05/fda-investigating-childhood-deaths-from-covid-vaccine/?utm_campaign=rss",
+        "id": "7231957abe16d798",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/microbot-medical-scores-fda-clearance-remote-controlled-cath-lab-system\" hreflang=\"en\">Microbot Medical scores FDA clearance for remote-controlled cath lab system</a>",
+        "url": "https://www.fiercebiotech.com/medtech/microbot-medical-scores-fda-clearance-remote-controlled-cath-lab-system",
+        "source": "Fierce Biotech",
+        "published": "Sep 8, 2025 11:14am",
+        "published_dt": "2025-09-08T11:14:00+00:00",
+        "summary": "The Liberty system includes a fully disposable, palm-sized driver for advancing catheters and guidewires during minimally invasive procedures."
+      },
+      {
+        "id": "8095ec20053cb0e3",
+        "title": "STAT+: Rapport shares soar after successful mid-stage seizure trial",
+        "url": "https://www.statnews.com/2025/09/08/rapport-rap219-focal-seizures-epilepsy-trial-results/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Fri, 05 Sep 2025 15:36:02 +0000",
-        "published_dt": "2025-09-05T15:36:02+00:00",
-        "summary": "Commissioner Marty Makary said the FDA will release a report within weeks on childhood deaths that he said are linked to Covid shots."
+        "published": "Mon, 08 Sep 2025 10:55:13 +0000",
+        "published_dt": "2025-09-08T10:55:13+00:00",
+        "summary": "A Rapport Therapeutics seizure medicine succeeded in a mid-stage clinical trial, sending company shares soaring."
       },
       {
-        "id": "d1c3266ad8994a48",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/daiichi-mercks-advanced-lung-cancer-adc-sees-48-response-registrational-trial\" hreflang=\"en\">Daiichi-Merck's advanced lung cancer ADC sees 48% response rate in registrational trial</a>",
-        "url": "https://www.fiercebiotech.com/biotech/daiichi-mercks-advanced-lung-cancer-adc-sees-48-response-registrational-trial",
+        "id": "89d61200c000ea90",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/after-fda-rejects-saols-ultra-rare-disease-prospect-biotech-urges-patients-press-congress\" hreflang=\"en\">After FDA rejects Saol's ultrarare disease prospect, advocacy groups urge patients to press Congress</a>",
+        "url": "https://www.fiercebiotech.com/biotech/after-fda-rejects-saols-ultra-rare-disease-prospect-biotech-urges-patients-press-congress",
         "source": "Fierce Biotech",
-        "published": "Sep 5, 2025 12:01pm",
-        "published_dt": "2025-09-05T12:01:00+00:00",
-        "summary": "Partners Daiichi Sankyo and Merck &amp; Co. are sharing phase 2 data for their investigational antibody-drug conjugate, findings the partners think will help score accelerated approval in pretreated small cell lung cancer."
+        "published": "Sep 8, 2025 10:30am",
+        "published_dt": "2025-09-08T10:30:00+00:00",
+        "summary": "After previously delaying its decision date, the FDA has outright rejected Saol Therapeutics\u2019 investigational treatment for an ultrarare pediatric mitochondrial disease."
       },
       {
-        "id": "394d2cd1641df7e6",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/several-concerning-observations-fda-sheds-more-light-rejected-drugs\" hreflang=\"en\">'Several concerning observations': FDA sheds more light on reasons it rejected drugs</a>",
-        "url": "https://www.fiercebiotech.com/biotech/several-concerning-observations-fda-sheds-more-light-rejected-drugs",
+        "id": "28d0ff965a3f402f",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/rapports-seizure-drug-hits-phase-2-sending-stock-soaring\" hreflang=\"en\">Rapport's seizure drug hits in phase 2, sending stock soaring </a>",
+        "url": "https://www.fiercebiotech.com/biotech/rapports-seizure-drug-hits-phase-2-sending-stock-soaring",
         "source": "Fierce Biotech",
-        "published": "Sep 5, 2025 9:20am",
-        "published_dt": "2025-09-05T09:20:00+00:00",
-        "summary": "The FDA\u2019s ongoing effort to establish a culture of \u201cradical transparency\u201d saw the agency publish another haul of complete response letters yesterday."
+        "published": "Sep 8, 2025 8:14am",
+        "published_dt": "2025-09-08T08:14:00+00:00",
+        "summary": "A phase 2a trial of Rapport Therapeutics\u2019 focal onset seizure drug candidate has hit its primary endpoint, sending shares in the biotech\u200b\u200b up more than 157% in premarket trading."
       },
       {
-        "id": "f6023fcf1c81d599",
-        "title": "<a href=\"https://www.fiercebiotech.com/pharma/rfk-jr-lays-blame-pharma-industry-touts-mrna-vaccine-misinformation-heated-senate-hearing\" hreflang=\"en\">RFK Jr. blasts pharma industry, touts mRNA misinformation in heated Senate hearing</a>",
-        "url": "https://www.fiercebiotech.com/pharma/rfk-jr-lays-blame-pharma-industry-touts-mrna-vaccine-misinformation-heated-senate-hearing",
+        "id": "cee07c7018a3f3fa",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-spends-13b-tourmaline-and-cardiovascular-med-impressed-phase-2\" hreflang=\"en\">Novartis spends $1.4B for Tourmaline and cardiovascular med that impressed in phase 2</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-spends-13b-tourmaline-and-cardiovascular-med-impressed-phase-2",
         "source": "Fierce Biotech",
-        "published": "Sep 4, 2025 3:06pm",
-        "published_dt": "2025-09-04T15:06:00+00:00",
-        "summary": "During a tense and at times incendiary Senate hearing Thursday, Robert F. Kennedy Jr. blamed the pharmaceutical industry and fell back on vaccine misinformation as he sought to defend the tumult that has consumed the federal health apparatus during his first eight months as the nation\u2019s Health and Human Services secretary."
+        "published": "Sep 9, 2025 4:29am",
+        "published_dt": "2025-09-09T04:29:00+00:00",
+        "summary": "Novartis is paying $1.4 billion to get its hands on Tourmaline Bio and its former Pfizer cardiovascular drug that impressed in a phase 2 study earlier this year."
+      },
+      {
+        "id": "48e2fb792e10704d",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/takeda-alkermes-lift-lid-rival-narcolepsy-hopefuls-race-fda-heats\" hreflang=\"en\">Takeda, Alkermes lift lid on data for rival narcolepsy hopefuls as race to market heats up</a>",
+        "url": "https://www.fiercebiotech.com/biotech/takeda-alkermes-lift-lid-rival-narcolepsy-hopefuls-race-fda-heats",
+        "source": "Fierce Biotech",
+        "published": "Sep 8, 2025 6:50am",
+        "published_dt": "2025-09-08T06:50:00+00:00",
+        "summary": "Takeda and Alkermes both took data from their orexin receptor 2 (OX2R)-selective agonists to Singapore this morning as the race to get a new class of narcolepsy drug approved heats up."
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "8bb8988edd46acfd",
+        "title": "In space, the old debates about turf are obsolete",
+        "url": "https://spacenews.com/with-space-old-debates-about-military-branch-turf-are-obsolete/",
+        "source": "SpaceNews",
+        "published": "Tue, 09 Sep 2025 11:33:00 +0000",
+        "published_dt": "2025-09-09T11:33:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/9238901.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p> If the Army is training soldiers to become better space professionals, that is not duplication. It is survival.</p>\n<p>The post <a href=\"https://spacenews.com/with-space-old-debates-about-military-branch-turf-are-obsolete/\">In space, the old debates about turf are obsolete</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "2b415f1a85508149",
+        "title": "China launches mystery Yaogan-45 spysat, expands Geesatcom constellation",
+        "url": "https://spacenews.com/china-launches-mystery-yaogan-45-spysat-expands-geesatcom-constellation/",
+        "source": "SpaceNews",
+        "published": "Tue, 09 Sep 2025 11:29:21 +0000",
+        "published_dt": "2025-09-09T11:29:21+00:00",
+        "summary": "<figure><img alt=\"A Long March 7A rocket lifts off from Wenchang Satellite Launch Center on Hainan Island, leaving a trail of smoke and flames against the backdrop of the South China Sea.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"681\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Yaogan45-CZ7A-WSLC-9sept2025-ourspace1.jpg?fit=1024%2C681&amp;ssl=1\" width=\"1024\" /></figure>\n<p>China carried out two launches Monday, sending a new reconnaissance satellite into an unexpected orbit and adding 11 spacecraft to automaker Geely\u2019s commercial constellation.</p>\n<p>The post <a href=\"https://spacenews.com/china-launches-mystery-yaogan-45-spysat-expands-geesatcom-constellation/\">China launches mystery Yaogan-45 spysat, expands Geesatcom constellation</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "90392505c2bed37e",
+        "title": "Office of Space Commerce loses 40% of budget in rescission",
+        "url": "https://spacenews.com/office-of-space-commerce-loses-40-of-budget-in-rescission/",
+        "source": "SpaceNews",
+        "published": "Tue, 09 Sep 2025 10:02:41 +0000",
+        "published_dt": "2025-09-09T10:02:41+00:00",
+        "summary": "<figure><img alt=\"TraCSS\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/04/cropped-TraCSS_16x9-1024x683-1.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The Commerce Department has moved to rescind 40% of the current-year funding for the Office of Space Commerce.</p>\n<p>The post <a href=\"https://spacenews.com/office-of-space-commerce-loses-40-of-budget-in-rescission/\">Office of Space Commerce loses 40% of budget in rescission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "177babf808fd37b6",
+        "title": "EOS selected by Ursa Major to scale hypersonics and defense production",
+        "url": "https://www.engineering.com/eos-selected-by-ursa-major-to-scale-hypersonics-and-defense-production/",
+        "source": "Engineering.com",
+        "published": "Tue, 09 Sep 2025 09:01:56 +0000",
+        "published_dt": "2025-09-09T09:01:56+00:00",
+        "summary": "<p>Ursa Major partners with EOS and AMCM to use its laser toolpath API, enabling software-driven customization with full engineering support.</p>\n<p>The post <a href=\"https://www.engineering.com/eos-selected-by-ursa-major-to-scale-hypersonics-and-defense-production/\">EOS selected by Ursa Major to scale hypersonics and defense production</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "633a7191f8fbf261",
+        "title": "Field Materials AI launches module for prefab procurement",
+        "url": "https://www.engineering.com/field-materials-ai-launches-module-for-prefab-procurement/",
+        "source": "Engineering.com",
+        "published": "Tue, 09 Sep 2025 08:45:00 +0000",
+        "published_dt": "2025-09-09T08:45:00+00:00",
+        "summary": "<p>Field Materials AI is the first solution that ties prefab into the bigger procurement and project workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/field-materials-ai-launches-module-for-prefab-procurement/\">Field Materials AI launches module for prefab procurement</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "82d57faf9e3ff81c",
+        "title": "DelSontro Enterprises Contracted by SWISSto12 for Test Process Optimization of its HummingSat Small Sat GEO Program",
+        "url": "https://spacenews.com/delsontro-enterprises-contracted-by-swissto12-for-test-process-optimization-of-its-hummingsat-small-sat-geo-program/",
+        "source": "SpaceNews",
+        "published": "Tue, 09 Sep 2025 09:00:00 +0000",
+        "published_dt": "2025-09-09T09:00:00+00:00",
+        "summary": "<figure><img alt=\"DelSontro logo square\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"466\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/delsontro-square.png?fit=465%2C466&amp;ssl=1\" width=\"465\" /></figure>\n<p>SWISSto12 has contracted DelSontro Enterprises to support the optimization of the first integration and test process for their HummingSat program. SWISSto12\u2019s novel approach to small sat GEOs is reimagining the [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/delsontro-enterprises-contracted-by-swissto12-for-test-process-optimization-of-its-hummingsat-small-sat-geo-program/\">DelSontro Enterprises Contracted by SWISSto12 for Test Process Optimization of its HummingSat Small Sat GEO Program</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "87b37b0197835ec1",
+        "title": "Dynamic Infrastructure and Enso partner on erosion insights",
+        "url": "https://www.engineering.com/dynamic-infrastructure-and-enso-partner-on-erosion-insights/",
+        "source": "Engineering.com",
+        "published": "Tue, 09 Sep 2025 08:58:09 +0000",
+        "published_dt": "2025-09-09T08:58:09+00:00",
+        "summary": "<p>Dynamic Infrastructure and Enso use AI and multi-sensor data to help agencies monitor erosion, assess risks, and plan maintenance.</p>\n<p>The post <a href=\"https://www.engineering.com/dynamic-infrastructure-and-enso-partner-on-erosion-insights/\">Dynamic Infrastructure and Enso partner on erosion insights</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "c07071a3b2990f1f",
+        "title": "KYOCERA AVX releases DSCC 25007 Mini BME Stacks",
+        "url": "https://www.engineering.com/kyocera-avx-releases-dscc-25007-mini-bme-stacks/",
+        "source": "Engineering.com",
+        "published": "Tue, 09 Sep 2025 08:54:25 +0000",
+        "published_dt": "2025-09-09T08:54:25+00:00",
+        "summary": "<p>The new miniature stacked X7R capacitors feature base metal electrodes.</p>\n<p>The post <a href=\"https://www.engineering.com/kyocera-avx-releases-dscc-25007-mini-bme-stacks/\">KYOCERA AVX releases DSCC 25007 Mini BME Stacks</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "164a4c584eacf3db",
+        "title": "EON Reality launches spatial AI platform for clean energy training",
+        "url": "https://www.engineering.com/eon-reality-launches-spatial-ai-platform-for-clean-energy-training/",
+        "source": "Engineering.com",
+        "published": "Tue, 09 Sep 2025 08:52:47 +0000",
+        "published_dt": "2025-09-09T08:52:47+00:00",
+        "summary": "<p>XR and AI integration delivers immersive clean energy training, cutting costs 88% and safety incidents 35% while boosting workforce readiness.</p>\n<p>The post <a href=\"https://www.engineering.com/eon-reality-launches-spatial-ai-platform-for-clean-energy-training/\">EON Reality launches spatial AI platform for clean energy training</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "79b4fe2367039285",
+        "title": "EV Group introduces die-to-wafer overlay system for chipmakers",
+        "url": "https://www.engineering.com/ev-group-introduces-die-to-wafer-overlay-system-for-chipmakers/",
+        "source": "Engineering.com",
+        "published": "Tue, 09 Sep 2025 08:46:00 +0000",
+        "published_dt": "2025-09-09T08:46:00+00:00",
+        "summary": "<p>New EVG 40 D2W overlay metrology system provides 100 percent overlay measurement on every die at up to 15X higher throughput versus industry benchmark.</p>\n<p>The post <a href=\"https://www.engineering.com/ev-group-introduces-die-to-wafer-overlay-system-for-chipmakers/\">EV Group introduces die-to-wafer overlay system for chipmakers</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "32245b9deb88085c",
+        "title": "AMETEK wins innovation award for Mi-BEAM bidirectional DC product series",
+        "url": "https://www.engineering.com/ametek-wins-innovation-award-for-mi-beam-bidirectional-dc-product-series/",
+        "source": "Engineering.com",
+        "published": "Tue, 09 Sep 2025 08:42:00 +0000",
+        "published_dt": "2025-09-09T08:42:00+00:00",
+        "summary": "<p>The development of the Mi-BEAM Series is a result of teamwork and innovation.</p>\n<p>The post <a href=\"https://www.engineering.com/ametek-wins-innovation-award-for-mi-beam-bidirectional-dc-product-series/\">AMETEK wins innovation award for Mi-BEAM bidirectional DC product series</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "4d15400d7b2623fc",
+        "title": "DFI unveils rugged edge AI platforms for mission-critical computing",
+        "url": "https://www.engineering.com/dfi-unveils-rugged-edge-ai-platforms-for-mission-critical-computing/",
+        "source": "Engineering.com",
+        "published": "Tue, 09 Sep 2025 08:32:00 +0000",
+        "published_dt": "2025-09-09T08:32:00+00:00",
+        "summary": "<p>X6-ORN with NVIDIA Jetson Orin offers compact edge AI vision; X6-ORN-GMSL adds GMSL camera support for vehicle applications.</p>\n<p>The post <a href=\"https://www.engineering.com/dfi-unveils-rugged-edge-ai-platforms-for-mission-critical-computing/\">DFI unveils rugged edge AI platforms for mission-critical computing</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "3e496b92c17804b4",
+        "title": "Velo3D partners with Linde to provide CuNi powder for Navy use",
+        "url": "https://www.engineering.com/velo3d-partners-with-linde-to-provide-cuni-powder-for-navy-use/",
+        "source": "Engineering.com",
+        "published": "Tue, 09 Sep 2025 08:30:00 +0000",
+        "published_dt": "2025-09-09T08:30:00+00:00",
+        "summary": "<p>This collaboration with Velo3D ensures a U.S.-made solution of powder, printers, and parts all produced domestically.</p>\n<p>The post <a href=\"https://www.engineering.com/velo3d-partners-with-linde-to-provide-cuni-powder-for-navy-use/\">Velo3D partners with Linde to provide CuNi powder for Navy use</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "a10f438934269f9a",
+        "title": "China proposes flyby mission to asteroid Apophis during 2029 Earth encounter",
+        "url": "https://spacenews.com/china-proposes-flyby-mission-to-asteroid-apophis-during-2029-earth-encounter/",
+        "source": "SpaceNews",
+        "published": "Tue, 09 Sep 2025 07:54:41 +0000",
+        "published_dt": "2025-09-09T07:54:41+00:00",
+        "summary": "<figure><img alt=\"Apophis\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/apophis-illus.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Chinese scientists are proposing using a pathfinder spacecraft to make a flyby of asteroid Apophis when it makes a close approach to Earth in 2029.</p>\n<p>The post <a href=\"https://spacenews.com/china-proposes-flyby-mission-to-asteroid-apophis-during-2029-earth-encounter/\">China proposes flyby mission to asteroid Apophis during 2029 Earth encounter</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "6e3d19e960f97033",
+        "title": "Commercial firms team up to demonstrate hypersonic vehicle tracking capabilities",
+        "url": "https://spacenews.com/commercial-firms-team-up-to-demonstrate-hypersonic-vehicle-tracking-capabilities/",
+        "source": "SpaceNews",
+        "published": "Mon, 08 Sep 2025 20:10:31 +0000",
+        "published_dt": "2025-09-08T20:10:31+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/w3-reentry-go-pro-1-scaled.png?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Varda, LeoLabs and Anduril collaborate on hypersonic tracking demo </p>\n<p>The post <a href=\"https://spacenews.com/commercial-firms-team-up-to-demonstrate-hypersonic-vehicle-tracking-capabilities/\">Commercial firms team up to demonstrate hypersonic vehicle tracking capabilities</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "93bb6d8db328ed44",
+        "title": "Register for Digital Transformation Week 2025",
+        "url": "https://www.engineering.com/register-for-digital-transformation-week-2025/",
+        "source": "Engineering.com",
+        "published": "Tue, 09 Sep 2025 00:54:14 +0000",
+        "published_dt": "2025-09-09T00:54:14+00:00",
+        "summary": "<p>Engineering.com\u2019s September webinar series will focus on how to make the best strategic decisions during your digital transformation journey.</p>\n<p>The post <a href=\"https://www.engineering.com/register-for-digital-transformation-week-2025/\">Register for Digital Transformation Week 2025</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "4f128147a7a50890",
+        "title": "Global Space Leaders Converge in Paris for Novaspace Summits",
+        "url": "https://spacenews.com/global-space-leaders-converge-in-paris-for-novaspace-summits/",
+        "source": "SpaceNews",
+        "published": "Mon, 08 Sep 2025 21:20:06 +0000",
+        "published_dt": "2025-09-08T21:20:06+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"300\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Space-News-Article.png?fit=600%2C300&amp;ssl=1\" width=\"600\" /></figure>\n<p>When the global space community looks ahead to September, all eyes turn to Paris. From September 15\u201319, 2025, the French capital will become the decision-making hub of the space domain, [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/global-space-leaders-converge-in-paris-for-novaspace-summits/\">Global Space Leaders Converge in Paris for Novaspace Summits</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "a381ffdacc5a90d5",
+        "title": "BlackSky and Iceye join group creating Earth\u2019s digital twin",
+        "url": "https://spacenews.com/blacksky-and-iceye-join-group-creating-earths-digital-twin/",
+        "source": "SpaceNews",
+        "published": "Mon, 08 Sep 2025 20:30:25 +0000",
+        "published_dt": "2025-09-08T20:30:25+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"494\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/rsz_blacksky_gen-3_image_highmark_stadium_20250907_1.png?fit=879%2C494&amp;ssl=1\" width=\"879\" /></figure>\n<p>SAN FRANCISCO \u2013 Blacksky and Iceye have joined forces with AI-visualization specialists Aechelon Technology and Niantic Spatial to create a digital twin of Earth. \u00a0 The joint campaign to create a planetary-scale geospatial model that can be frequently refreshed with satellite observations is called Project Orbion. BlackSky high-resolution visual imagery and Iceye synthetic aperture radar [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/blacksky-and-iceye-join-group-creating-earths-digital-twin/\">BlackSky and Iceye join group creating Earth&#8217;s digital twin</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "7064618d1df2dea6",
+        "title": "Europe ramps up direct-to-device push amid SpaceX\u2019s $19 billion service boost",
+        "url": "https://spacenews.com/europe-ramps-up-direct-to-device-push-amid-spacexs-19-billion-service-boost/",
+        "source": "SpaceNews",
+        "published": "Mon, 08 Sep 2025 20:09:48 +0000",
+        "published_dt": "2025-09-08T20:09:48+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/5G-Skytower-LEO-satellite-copyright-Thales-Alenia-Space-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Europe has kicked off a study to improve direct-to-device services using satellite spectrum, just as SpaceX inks a $19 billion deal for space-approved frequencies to expand its own 5G services.</p>\n<p>The post <a href=\"https://spacenews.com/europe-ramps-up-direct-to-device-push-amid-spacexs-19-billion-service-boost/\">Europe ramps up direct-to-device push amid SpaceX\u2019s $19 billion service boost</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "f02c8c5f9dfdaa1b",
+        "title": "Safety, progress, and the need for Artemis 2.0",
+        "url": "https://spacenews.com/safety-progress-and-the-need-for-artemis-2-0/",
+        "source": "SpaceNews",
+        "published": "Mon, 08 Sep 2025 19:40:00 +0000",
+        "published_dt": "2025-09-08T19:40:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2023/11/52476265534_a7845a037c_k.jpg?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>At an all-hands meeting on Friday September 5, Acting NASA Administrator Sean Duffy found himself on the defensive regarding former Administrator Jim Bridenstine\u2019s recent comments about NASA\u2019s failure to move quickly enough to \u201cbeat\u201d China back to the Moon. This part of Duffy\u2019s response was telling, regarding current NASA culture: \u201cSometimes we can let safety [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/safety-progress-and-the-need-for-artemis-2-0/\">Safety, progress, and the need for Artemis 2.0</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "ffc9cbe6a4dbe5e0",
+        "title": "Toyota company seeks closer relationship with Joby Aviation",
+        "url": "https://aerospaceamerica.aiaa.org/toyota-company-seeks-closer-relationship-with-joby-aviation/",
+        "source": "Aerospace America",
+        "published": "Mon, 08 Sep 2025 18:12:37 +0000",
+        "published_dt": "2025-09-08T18:12:37+00:00",
+        "summary": ""
+      },
+      {
+        "id": "091f8f0021800207",
+        "title": "Tournear leaves Space Development Agency for new role at Auburn University",
+        "url": "https://spacenews.com/tournear-leaves-space-development-agency-for-new-role-at-auburn-university/",
+        "source": "SpaceNews",
+        "published": "Mon, 08 Sep 2025 15:33:53 +0000",
+        "published_dt": "2025-09-08T15:33:53+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2022/04/GY7A0452-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Derek Tournear is now director of space innovation under Auburn University\u2019s Applied Research Institute </p>\n<p>The post <a href=\"https://spacenews.com/tournear-leaves-space-development-agency-for-new-role-at-auburn-university/\">Tournear leaves Space Development Agency for new role at Auburn University</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "e34122cab6fc0bef",
+        "title": "Sending astronauts to the moon and Mars must be more than a photo op",
+        "url": "https://spacenews.com/sending-astronauts-to-the-moon-and-mars-must-be-more-than-a-photo-op/",
+        "source": "SpaceNews",
+        "published": "Mon, 08 Sep 2025 13:00:00 +0000",
+        "published_dt": "2025-09-08T13:00:00+00:00",
+        "summary": "<figure><img alt=\"Returning to the moon and traveling to Mars must be treated as more than a photo op. Credit: NASA\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/moon-to-mars-scaled.png?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The only way to create a sustainable program of exploring the moon and Mars with humans, beyond the initial flush of achievement, is by fully integrating science into our planning. We won\u2019t be able to answer the important science questions without human missions, and we can\u2019t fly the human missions without science support from the [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/sending-astronauts-to-the-moon-and-mars-must-be-more-than-a-photo-op/\">Sending astronauts to the moon and Mars must be more than a photo op</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
       {
         "id": "0ceb0fd6495f8da3",
         "title": "EchoStar sells spectrum to SpaceX, cancels MDA satellite contract",
@@ -246,213 +453,6 @@
         "published": "Mon, 08 Sep 2025 11:27:00 +0000",
         "published_dt": "2025-09-08T11:27:00+00:00",
         "summary": "<figure><img alt=\"Dmitry Poisik\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/tracss-poisik.jpeg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Dmitry Poisik surveyed the room. \u201cHow many of you guys represent owner/operators?\u201d he asked a crowd of a few dozen people attending a side session at the SmallSat 2025 Conference in Salt Lake City on Aug. 11. No one raised their hands. That didn\u2019t seem to surprise Poisik, the program manager for the Office of [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/the-awkward-teenage-phase-of-space-sustainability/\">\u2018The awkward, teenage phase\u2019 of space sustainability</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "07a555e299a5b753",
-        "title": "Lynk Global CEO Ramu Pontarazu on life after SPAC",
-        "url": "https://spacenews.com/lynk-global-ceo-ramu-pontarazu-on-life-after-spac/",
-        "source": "SpaceNews",
-        "published": "Mon, 08 Sep 2025 11:00:00 +0000",
-        "published_dt": "2025-09-08T11:00:00+00:00",
-        "summary": "<figure><img alt=\"Ramu Potarazu, Lynk Global CEO. Credit: Lynk Global\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/IMG_4808-scaled.jpg?fit=768%2C1024&amp;ssl=1\" width=\"768\" /></figure>\n<p>Only a bold satellite operator takes on SpaceX, especially in the nascent race to connect smartphones from space, where Starlink\u2019s rapidly expanding broadband network is pushing for domination. But Lynk Global\u2019s leaders see an opening for a nimble, capital-efficient contender in a sector that also includes AST SpaceMobile, which is now fully funded to deploy [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/lynk-global-ceo-ramu-pontarazu-on-life-after-spac/\">Lynk Global CEO Ramu Pontarazu on life after SPAC</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "6c7d56fa87e75453",
-        "title": "AtomTech acquires robotics innovator Capriol Systems",
-        "url": "https://www.engineering.com/atomtech-acquires-robotics-innovator-capriol-systems/",
-        "source": "Engineering.com",
-        "published": "Mon, 08 Sep 2025 09:07:25 +0000",
-        "published_dt": "2025-09-08T09:07:25+00:00",
-        "summary": "<p>Acquisition strengthens AtomTech's automation solutions for manufacturing, logistics, food &#038; beverage, and defense industries.</p>\n<p>The post <a href=\"https://www.engineering.com/atomtech-acquires-robotics-innovator-capriol-systems/\">AtomTech acquires robotics innovator Capriol Systems</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "dc0fdd023850665b",
-        "title": "Data Patterns selects Siemens\u2019 Teamcenter for PLM and Polarion ALM",
-        "url": "https://www.engineering.com/data-patterns-selects-siemens-teamcenter-for-plm-and-polarion-alm/",
-        "source": "Engineering.com",
-        "published": "Mon, 08 Sep 2025 09:52:26 +0000",
-        "published_dt": "2025-09-08T09:52:26+00:00",
-        "summary": "<p>By connecting real-time data across teams, Data Patterns boosts collaboration, product quality, and speed to market.</p>\n<p>The post <a href=\"https://www.engineering.com/data-patterns-selects-siemens-teamcenter-for-plm-and-polarion-alm/\">Data Patterns selects Siemens\u2019 Teamcenter for PLM and Polarion ALM</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "f0c6ecb9bf453954",
-        "title": "Keysight unveils physical layer compliance test solution for HDMI",
-        "url": "https://www.engineering.com/keysight-unveils-physical-layer-compliance-test-solution-for-hdmi-2/",
-        "source": "Engineering.com",
-        "published": "Mon, 08 Sep 2025 09:52:10 +0000",
-        "published_dt": "2025-09-08T09:52:10+00:00",
-        "summary": "<p>The solution addresses HDMI demands such as UHD video, HDR, and immersive audio.</p>\n<p>The post <a href=\"https://www.engineering.com/keysight-unveils-physical-layer-compliance-test-solution-for-hdmi-2/\">Keysight unveils physical layer compliance test solution for HDMI</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "6884e8f6ff936040",
-        "title": "Trimble begins FedRAMP process for connected construction tools",
-        "url": "https://www.engineering.com/trimble-begins-fedramp-process-for-connected-construction-tools/",
-        "source": "Engineering.com",
-        "published": "Mon, 08 Sep 2025 09:40:00 +0000",
-        "published_dt": "2025-09-08T09:40:00+00:00",
-        "summary": "<p>Strategic initiative aims to support the delivery of a secure, connected construction ecosystem for federal customers.</p>\n<p>The post <a href=\"https://www.engineering.com/trimble-begins-fedramp-process-for-connected-construction-tools/\">Trimble begins FedRAMP process for connected construction tools</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "1c2d954a57bbce0a",
-        "title": "Quectel launches KCMCA6S series wireless M-Bus modules",
-        "url": "https://www.engineering.com/quectel-launches-kcmca6s-series-wireless-m-bus-modules/",
-        "source": "Engineering.com",
-        "published": "Mon, 08 Sep 2025 09:38:00 +0000",
-        "published_dt": "2025-09-08T09:38:00+00:00",
-        "summary": "<p>The KCMCA6S series offers a compact, all-in-one WM-Bus solution with an integrated MCU, Sub-GHz transceiver, built-in software stack, and flexible configuration modes.</p>\n<p>The post <a href=\"https://www.engineering.com/quectel-launches-kcmca6s-series-wireless-m-bus-modules/\">Quectel launches KCMCA6S series wireless M-Bus modules</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "868b2a09f34daf5f",
-        "title": "Aqara unveils Edge Hub M300 and Studio Connect software",
-        "url": "https://www.engineering.com/aqara-unveils-edge-hub-m300-and-studio-connect-software/",
-        "source": "Engineering.com",
-        "published": "Mon, 08 Sep 2025 09:36:00 +0000",
-        "published_dt": "2025-09-08T09:36:00+00:00",
-        "summary": "<p>This hardware-software system unifies consumer and professional setups with local control for residential and multifamily projects.</p>\n<p>The post <a href=\"https://www.engineering.com/aqara-unveils-edge-hub-m300-and-studio-connect-software/\">Aqara unveils Edge Hub M300 and Studio Connect software</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "9b3df8c29ddd8acc",
-        "title": "Asahi Kasei Microdevices launches camera\u2011less integrated sensing modules",
-        "url": "https://www.engineering.com/asahi-kasei-microdevices-launches-camera%e2%80%91less-integrated-sensing-modules/",
-        "source": "Engineering.com",
-        "published": "Mon, 08 Sep 2025 09:34:56 +0000",
-        "published_dt": "2025-09-08T09:34:56+00:00",
-        "summary": "<p>for detection of falls, vital signs, posture, and position.</p>\n<p>The post <a href=\"https://www.engineering.com/asahi-kasei-microdevices-launches-camera%e2%80%91less-integrated-sensing-modules/\">Asahi Kasei Microdevices launches camera\u2011less integrated sensing modules</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "a00c7306c245d77f",
-        "title": "Semtech unveils high-performance TIAs for 1.6T AI data centers",
-        "url": "https://www.engineering.com/semtech-unveils-high-performance-tias-for-1-6t-ai-data-centers/",
-        "source": "Engineering.com",
-        "published": "Mon, 08 Sep 2025 09:09:05 +0000",
-        "published_dt": "2025-09-08T09:09:05+00:00",
-        "summary": "<p>GN1834D enables emerging 1.6T optical interconnect market while GN1818 offers up to 20% power reduction for enhanced 800G efficiency.</p>\n<p>The post <a href=\"https://www.engineering.com/semtech-unveils-high-performance-tias-for-1-6t-ai-data-centers/\">Semtech unveils high-performance TIAs for 1.6T AI data centers</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "158b75388f1e3b2e",
-        "title": "The Model T Ford revolutionized the automotive industry. Ford is trying to do it again.",
-        "url": "https://www.engineering.com/the-model-t-ford-revolutionized-the-automotive-industry-ford-is-trying-to-do-it-again/",
-        "source": "Engineering.com",
-        "published": "Fri, 05 Sep 2025 19:27:55 +0000",
-        "published_dt": "2025-09-05T19:27:55+00:00",
-        "summary": "<p>The Blue Oval is investing $4 billion in the Louisville operation to rewrite the book on automotive manufacturing. </p>\n<p>The post <a href=\"https://www.engineering.com/the-model-t-ford-revolutionized-the-automotive-industry-ford-is-trying-to-do-it-again/\">The Model T Ford revolutionized the automotive industry. Ford is trying to do it again.</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "b23b2aecd545222a",
-        "title": "Carbon Mapper and tracking super pollutants",
-        "url": "https://spacenews.com/carbon-mapper-and-tracking-super-pollutants/",
-        "source": "SpaceNews",
-        "published": "Thu, 04 Sep 2025 17:09:07 +0000",
-        "published_dt": "2025-09-04T17:09:07+00:00",
-        "summary": "<figure><img alt=\"Carbon Mapper on Space Minds\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/2025-Space-Minds-Graphics-2000-x-1500-px.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>In this week\u2019s episode of Space Minds, host David Ariosto speaks with Riley Duren, CEO of Carbon Mapper and veteran of NASA\u2019s Jet Propulsion Laboratory.</p>\n<p>The post <a href=\"https://spacenews.com/carbon-mapper-and-tracking-super-pollutants/\">Carbon Mapper and tracking super pollutants</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "a5d227c51a27c7f8",
-        "title": "FAA approves increase in Falcon 9 launches while studying Starship environmental impacts",
-        "url": "https://spacenews.com/faa-approves-increase-in-falcon-9-launches-while-studying-starship-environmental-impacts/",
-        "source": "SpaceNews",
-        "published": "Mon, 08 Sep 2025 00:19:07 +0000",
-        "published_dt": "2025-09-08T00:19:07+00:00",
-        "summary": "<figure><img alt=\"Falcon 9 launch 2025 Sept 3\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/f9-20250903.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The FAA approved a significant increase in Falcon 9 launches from one Florida pad as it takes public input on plans for Starship launches from another.</p>\n<p>The post <a href=\"https://spacenews.com/faa-approves-increase-in-falcon-9-launches-while-studying-starship-environmental-impacts/\">FAA approves increase in Falcon 9 launches while studying Starship environmental impacts</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "ddaa1bea5f8687b1",
-        "title": "Blue Origin, Anduril win military \u2018rocket cargo\u2019 study contracts",
-        "url": "https://spacenews.com/blue-origin-anduril-win-military-rocket-cargo-study-contracts/",
-        "source": "SpaceNews",
-        "published": "Sun, 07 Sep 2025 17:43:23 +0000",
-        "published_dt": "2025-09-07T17:43:23+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Gxxl5z5XYAAdqHA.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The Air Force Research Laboratory awarded Blue Origin $1.3 million and Anduril $1 million under the Rocket Experimentation for Global Agile Logistics program</p>\n<p>The post <a href=\"https://spacenews.com/blue-origin-anduril-win-military-rocket-cargo-study-contracts/\">Blue Origin, Anduril win military \u2018rocket cargo\u2019 study contracts</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "20135c8ef8d9878e",
-        "title": "China launches new set of Yaogan-40 satellites into polar orbit",
-        "url": "https://spacenews.com/china-launches-new-set-of-yaogan-40-satellites-into-polar-orbit/",
-        "source": "SpaceNews",
-        "published": "Sun, 07 Sep 2025 11:21:15 +0000",
-        "published_dt": "2025-09-07T11:21:15+00:00",
-        "summary": "<figure><img alt=\"A Long March 6A rocket lifts off at night from Taiyuan Satellite Launch Center in China, carrying the Yaogan-40 (03) remote sensing satellites. Bright exhaust flames and thick plumes of smoke illuminate the dark launch pad.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Yaogan40-03-CZ6A-TSLC-06sept2025-OS1.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>China added a third trio of spacecraft to a group of remote sensing satellites Saturday, marking the country\u2019s 52nd launch of the year.</p>\n<p>The post <a href=\"https://spacenews.com/china-launches-new-set-of-yaogan-40-satellites-into-polar-orbit/\">China launches new set of Yaogan-40 satellites into polar orbit</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "053277fddbdb729f",
-        "title": "Pentagon announces senior U.S. Space Force leadership changes",
-        "url": "https://spacenews.com/pentagon-announces-senior-u-s-space-force-leadership-changes/",
-        "source": "SpaceNews",
-        "published": "Sat, 06 Sep 2025 19:35:10 +0000",
-        "published_dt": "2025-09-06T19:35:10+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"731\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/241211-F-LE393-1488-scaled.jpg?fit=1024%2C731&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The Pentagon on Sept. 5 announced a slate of senior leadership shifts, including new appointments to key command and planning posts.</p>\n<p>The post <a href=\"https://spacenews.com/pentagon-announces-senior-u-s-space-force-leadership-changes/\">Pentagon announces senior U.S. Space Force leadership changes</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "c5c11bacd1881f9b",
-        "title": "NASA releases details on revised next phase of commercial space station development",
-        "url": "https://spacenews.com/nasa-releases-details-on-revised-next-phase-of-commercial-space-station-development/",
-        "source": "SpaceNews",
-        "published": "Sat, 06 Sep 2025 18:09:58 +0000",
-        "published_dt": "2025-09-06T18:09:58+00:00",
-        "summary": "<figure><img alt=\"Axiom Station\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/axiomstation.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA expects to spend up to $1.5 billion to support at least two companies to demonstrate crew-tended space stations as part of a revised approach to transition from the ISS.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-releases-details-on-revised-next-phase-of-commercial-space-station-development/\">NASA releases details on revised next phase of commercial space station development</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "0dc4bb910f2a5258",
-        "title": "Orbital Sidekick hyperspectral imagery sheds light on damage caused to Iranian nuclear facility",
-        "url": "https://spacenews.com/orbital-sidekick-hyperspectral-imagery-sheds-light-on-damage-caused-to-iranian-nuclear-facility/",
-        "source": "SpaceNews",
-        "published": "Fri, 05 Sep 2025 22:00:00 +0000",
-        "published_dt": "2025-09-05T22:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"391\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Fordow-Graphics-Figure-6.png?fit=1024%2C391&amp;ssl=1\" width=\"1024\" /></figure>\n<p>SAN FRANCISCO \u2013 Orbital Sidekick hyperspectral sensors revealed new information on damage sustained by Iran&#8217;s Fordow\u00a0nuclear fuel enrichment plant after U.S. armed forces bombed the site in June. OSK\u2019s Global Hyperspectral Observation Satellite (GHOSt) constellation exposed the outline of a rectangular subsurface structure, indicating \u201cthe potential collapse or damage of the underground facility,\u201d according to [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/orbital-sidekick-hyperspectral-imagery-sheds-light-on-damage-caused-to-iranian-nuclear-facility/\">Orbital Sidekick hyperspectral imagery sheds light on damage caused to Iranian nuclear facility</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "d1d52eaaecb5947d",
-        "title": "China launches experimental Shiyan-29 to GEO, commercial Ceres-1 carries 3 satellites",
-        "url": "https://spacenews.com/china-launches-experimental-shiyan-29-to-geo-commercial-ceres-1-carries-3-satellites/",
-        "source": "SpaceNews",
-        "published": "Fri, 05 Sep 2025 21:26:07 +0000",
-        "published_dt": "2025-09-05T21:26:07+00:00",
-        "summary": "<figure><img alt=\"A Ceres-1 solid rocket lifts off from Jiuquan Satellite Launch Center at sunset, framed by two launch towers with the sun glowing behind nearby mountains\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"550\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Ceres-1-3sats-JSLC-5sept2025-ourspace-1.jpg?fit=1024%2C550&amp;ssl=1\" width=\"1024\" /></figure>\n<p>China conducted a pair of launches sending an experimental spacecraft to geosynchronous orbit and three further satellites into polar orbits.</p>\n<p>The post <a href=\"https://spacenews.com/china-launches-experimental-shiyan-29-to-geo-commercial-ceres-1-carries-3-satellites/\">China launches experimental Shiyan-29 to GEO, commercial Ceres-1 carries 3 satellites</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "51de102f42cd79f3",
-        "title": "GHGSat to provide methane monitoring for ExxonMobil",
-        "url": "https://spacenews.com/ghgsat-to-provide-methane-monitoring-for-exxonmobil/",
-        "source": "SpaceNews",
-        "published": "Fri, 05 Sep 2025 17:02:12 +0000",
-        "published_dt": "2025-09-05T17:02:12+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"643\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/rsz_methane_concentrations_over_the_permian_basin.png?fit=879%2C643&amp;ssl=1\" width=\"879\" /></figure>\n<p>SAN FRANCISCO \u2013 GHGSat and ExxonMobil Corp. announced a partnership Sept. 5 to monitor and mitigate methane emissions for onshore operations in North America and Asia. Collaboration between GHGSat, a Canadian firm focused on greenhouse-gas monitoring, and the multinational oil and gas company began in 2020 with field trials to demonstrate space-based technology for methane [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/ghgsat-to-provide-methane-monitoring-for-exxonmobil/\">GHGSat to provide methane monitoring for ExxonMobil</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "b812046f2ebd705b",
-        "title": "Artec 3D launches Studio 20 with new automation features",
-        "url": "https://www.engineering.com/artec-3d-launches-studio-20-with-new-automation-features/",
-        "source": "Engineering.com",
-        "published": "Fri, 05 Sep 2025 15:32:35 +0000",
-        "published_dt": "2025-09-05T15:32:35+00:00",
-        "summary": "<p>Artec Studio 20 adds customizable workflows, upgraded scanner support, and improved tools for digitization, design, and inspection.</p>\n<p>The post <a href=\"https://www.engineering.com/artec-3d-launches-studio-20-with-new-automation-features/\">Artec 3D launches Studio 20 with new automation features</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "656541d1e67ab07d",
-        "title": "A steady space? Bringing stellar legal certainty to space issues",
-        "url": "https://spacenews.com/a-steady-space-bringing-stellar-legal-certainty-to-space-issues/",
-        "source": "SpaceNews",
-        "published": "Fri, 05 Sep 2025 13:00:00 +0000",
-        "published_dt": "2025-09-05T13:00:00+00:00",
-        "summary": "<figure><img alt=\"Kubilius\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/P067364-774808-scaled.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A new space race is heating up across the pond \u2014 not to be the first to reach the moon, but to provide a credible and flexible legal framework capable of turbocharging the space sectors in the United Kingdom and Europe.\u00a0 The intensity of this drive has increased over the summer of 2025. On June [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/a-steady-space-bringing-stellar-legal-certainty-to-space-issues/\">A steady space? Bringing stellar legal certainty to space issues</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "763fc258986ae251",
-        "title": "Duffy pushes back against testimony that NASA is falling behind China in lunar exploration",
-        "url": "https://spacenews.com/duffy-pushes-back-against-testimony-that-nasa-is-falling-behind-china-in-lunar/",
-        "source": "SpaceNews",
-        "published": "Fri, 05 Sep 2025 12:19:54 +0000",
-        "published_dt": "2025-09-05T12:19:54+00:00",
-        "summary": "<figure><img alt=\"Duffy\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"605\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/54678364779_9813669e81_k.jpg?fit=1024%2C605&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA\u2019s acting administrator said he was \u201cangry\u201d after a predecessor told Congress the agency was behind China in sending astronauts to the moon.</p>\n<p>The post <a href=\"https://spacenews.com/duffy-pushes-back-against-testimony-that-nasa-is-falling-behind-china-in-lunar/\">Duffy pushes back against testimony that NASA is falling behind China in lunar exploration</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "6bd79c73b2f28a5c",
-        "title": "How the smallsat business is evolving: Excerpts from the Space Minds podcast",
-        "url": "https://spacenews.com/how-the-smallsat-business-is-evolving-excerpts-from-the-space-minds-podcast/",
-        "source": "SpaceNews",
-        "published": "Fri, 05 Sep 2025 11:30:00 +0000",
-        "published_dt": "2025-09-05T11:30:00+00:00",
-        "summary": "<figure><img alt=\"Sir Martin Sweeting, chairman, Surrey Satellite Technology Limited; Gabe Zimmerman, director of the in space product line, Ursa Major; Tom Walkinshaw, CEO and co-founder, alba orbital; Todd Master, chief operating officer, Umbra\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"522\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Screenshot-2025-09-04-121623.png?fit=1024%2C522&amp;ssl=1\" width=\"1024\" /></figure>\n<p>During the 39th annual Small Satellite Conference in Salt Lake City, Utah, in August, SpaceNews hosted a group of industry leaders on our Space Minds podcast to discuss the latest in smallsats and where this part of the industry is headed. These excerpts from our conversations, which have been lightly edited for clarity and brevity, [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/how-the-smallsat-business-is-evolving-excerpts-from-the-space-minds-podcast/\">How the smallsat business is evolving: Excerpts from the Space Minds podcast</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
@@ -684,58 +684,13 @@
     ],
     "Cross-Disciplinary": [
       {
-        "id": "9e324123c2b44690",
-        "title": "The Download: introducing our 35 Innovators Under 35 list for 2025",
-        "url": "https://www.technologyreview.com/2025/09/08/1123361/the-download-introducing-our-35-innovators-under-35-list-for-2025/",
+        "id": "0ab96d099b8b0dcc",
+        "title": "The Download: meet our AI innovators, and what happens when therapists use AI covertly",
+        "url": "https://www.technologyreview.com/2025/09/09/1123447/the-download-meet-our-ai-innovators-and-what-happens-when-therapists-use-ai-covertly/",
         "source": "MIT Technology Review",
-        "published": "Mon, 08 Sep 2025 12:10:00 +0000",
-        "published_dt": "2025-09-08T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: our 35 Innovators Under 35 list for 2025 The world is full of extraordinary young people brimming with ideas for how to crack tough problems. Every year, we recognize 35 such individuals&#8230;"
-      },
-      {
-        "id": "17076315d820e7b9",
-        "title": "How Trump\u2019s policies are affecting early-career scientists\u2014in their own words",
-        "url": "https://www.technologyreview.com/2025/09/08/1123166/trumps-policy-early-career-scientists/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 08 Sep 2025 10:45:00 +0000",
-        "published_dt": "2025-09-08T10:45:00+00:00",
-        "summary": "Every year MIT Technology Review celebrates accomplished young scientists, entrepreneurs, and inventors from around the world in our Innovators Under 35 list. We\u2019ve just published the 2025 edition. This year, though, the context is pointedly different: The US scientific community finds itself in an unprecedented position, with the very foundation of its work under attack.&#160;&#8230;"
-      },
-      {
-        "id": "fa4ae70c459585b6",
-        "title": "Why basic science deserves our boldest investment",
-        "url": "https://www.technologyreview.com/2025/09/08/1123214/opinion-basic-science-research-funding/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 08 Sep 2025 10:45:00 +0000",
-        "published_dt": "2025-09-08T10:45:00+00:00",
-        "summary": "In December 1947, three physicists at Bell Telephone Laboratories\u2014John Bardeen, William Shockley, and Walter Brattain\u2014built a compact electronic device using thin gold wires and a piece of germanium, a material known as a semiconductor. Their invention, later named the transistor (for which they were awarded the Nobel Prize in 1956), could amplify and switch electrical&#8230;"
-      },
-      {
-        "id": "1cde74ff0d6d8074",
-        "title": "2025 Innovator of the Year: Sneha Goenka for developing an ultra-fast sequencing technology",
-        "url": "https://www.technologyreview.com/2025/09/08/1121509/innovator-of-the-year-sneha-goenka/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 08 Sep 2025 10:30:00 +0000",
-        "published_dt": "2025-09-08T10:30:00+00:00",
-        "summary": "Sneha Goenka is one of MIT Technology Review\u2019s 2025 Innovators Under 35.&#160;Meet the rest of this year\u2019s honorees.&#160; Up to a quarter of children entering intensive care have undiagnosed genetic conditions. To be treated properly, they must first get diagnoses\u2014which means having their genomes sequenced. This process typically takes up to seven weeks. Sadly, that\u2019s&#8230;"
-      },
-      {
-        "id": "96b15bbf4f754ae8",
-        "title": "Meet the Ethiopian entrepreneur who is reinventing ammonia production",
-        "url": "https://www.technologyreview.com/2025/09/08/1122179/iwnetim-abate-innovator-ammonia-production/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 08 Sep 2025 10:30:00 +0000",
-        "published_dt": "2025-09-08T10:30:00+00:00",
-        "summary": "Iwnetim Abate is one of MIT Technology Review\u2019s 2025 Innovators Under 35.&#160;Meet the rest of this year\u2019s honorees.&#160; \u201cI\u2019m the only one who wears glasses and has eye problems in the family,\u201d Iwnetim Abate says with a smile as sun streams in through the windows of his MIT office. \u201cI think it\u2019s because of the&#8230;"
-      },
-      {
-        "id": "01f60d792effac8d",
-        "title": "How Yichao \u201cPeak\u201d Ji became a global AI app hitmaker",
-        "url": "https://www.technologyreview.com/2025/09/08/1122642/ji-peak-yichao-innovator-manus-app-ai/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 08 Sep 2025 10:30:00 +0000",
-        "published_dt": "2025-09-08T10:30:00+00:00",
-        "summary": "Yichao \u201cPeak\u201d Ji is one of MIT Technology Review\u2019s 2025 Innovators Under 35.\u00a0Meet the rest of this year\u2019s honorees.\u00a0 When Yichao Ji\u2014also known as \u201cPeak\u201d\u2014appeared in a launch video for Manus in March, he didn\u2019t expect it to go viral. Speaking in fluent English, the 32-year-old introduced the AI agent built by Chinese startup Butterfly&#8230;"
+        "published": "Tue, 09 Sep 2025 12:10:00 +0000",
+        "published_dt": "2025-09-09T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the AI honorees on our 35 Innovators Under 35 list for 2025 Each year, we select 35 outstanding individuals under the age of 35 who are using technology to tackle tough problems&#8230;"
       },
       {
         "id": "91a6cbe9684f4723",
@@ -747,13 +702,40 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-photo-of-a-smiling-woman-in-a-magenta-suit.jpg?id=56605851&amp;width=1200&amp;height=800&amp;coordinates=0%2C406%2C0%2C406\" /><br /><br /><p>For most of its more than 140-year existence, IEEE has been a leader in preserving the far-reaching implications of the <a href=\"https://spectrum.ieee.org/topic/tech-history/\" target=\"_blank\">history behind the electrical, electronic, and computing fields</a> and related areas of science and technology that underpin modern society. This history showcases a continuous and dynamic cycle wherein scientific understanding fuels innovation, and technological advancements enable new avenues for scientific exploration. This fascinating journey continues to hold vast implications for our future. Organizations such as IEEE have created an environment conducive to progress and evolution by facilitating knowledge sharing, developing standards, and advocating for sound public policy to ultimately advance technology for the benefit of humanity.</p><p>Exploring the contributions of key figures, such as <a href=\"https://ethw.org/Michael_Faraday\" rel=\"noopener noreferrer\" target=\"_blank\">Michael Faraday</a> and his discoveries in electromagnetism, and <a href=\"https://ethw.org/Grace_Murray_Hopper\" rel=\"noopener noreferrer\" target=\"_blank\">Grace Hopper</a>, the queen of software, as well as the challenges they overcame, offers valuable context for current and future innovators.</p><p>A greater understanding and appreciation of the historical contributions of IEEE\u2019s fields and engaging in open dialogue with the public can help build a more sustainable, efficient, and technologically advanced future. Public trust and engagement are essential for the continued progress and acceptance of technological advancements. By revisiting past successes and failures, policymakers can better anticipate the consequences of new electrical engineering advancements and develop policies that foster innovation while also ensuring public safety and environmental sustainability. Ethical considerations have always been inherent to the development of technology, and examining historical challenges can offer valuable insights for navigating similar dilemmas in emerging fields such as artificial intelligence and quantum computing.</p><p>History serves as a testament to the power of human ingenuity and collaboration. By studying the evolution of electrical engineering, we can identify patterns, reflect on what worked well and why, analyze what went wrong, and build upon existing knowledge to create new technologies.</p><h2>Supporting the cause</h2><p>Since its inception, IEEE has had a standing <a href=\"https://www.ieee.org/about/history-center/history-committee\" rel=\"noopener noreferrer\" target=\"_blank\">History Committee</a>, concerned with maintaining the legacy and heritage of the organization and its members and their related professions and technologies. The <a href=\"https://www.ieee.org/about/history-center\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE History Center</a> preserves, researches, and promotes the legacy of electrical engineering and computing through its numerous programs.</p><p>Attending <a href=\"https://ethw.org/Milestones:List_of_IEEE_Milestones\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Milestone</a> dedication ceremonies, which recognize outstanding technical developments around the world, has always been joyful to me. Visiting these historically significant locations, where local volunteers have worked with technical experts, historians, and the public to celebrate pioneering achievements and the people behind them, is truly inspiring and a testament to how technological innovation benefits humanity. They are a great way to experience the <a href=\"https://spectrum.ieee.org/what-computer-history-should-be-saved\" target=\"_blank\">history of technology</a> alongside the global IEEE community.</p><p>This year I had the opportunity to attend the reopening of the <a href=\"https://www.ieee.org/about/history-center/globalmuseum\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Global Museum</a>, which brings traveling exhibits focused on the history of electrotechnology to IEEE members and the public. The museum promotes awareness of how technological progress unfolds over generations and how engineers and researchers can build on past achievements to improve peoples\u2019 lives.</p><p>The <a href=\"https://ethw.org/Oral-History:List_of_all_Oral_Histories\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE oral history program</a> collects spoken memories and personal commentaries of historical significance through recorded interviews. There are nearly 900 interviews available on <a href=\"https://ethw.org/\" rel=\"noopener noreferrer\" target=\"_blank\">ethw.org</a>. As IEEE president, I look forward to my own participation in it.</p><p><a href=\"https://reach.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE REACH</a> provides preuniversity teachers with free resources that situate science, technology, and engineering in their social and human contexts. The resources provide students with an understanding of technologies, including how they have shaped society and, in turn, how society has shaped them.</p><p>Preserving the history of our profession is vital for fostering innovation, inspiring future generations, promoting collaboration, and ensuring the safe, sustainable, and ethical development of technology that will continue to shape our world.</p><p>I encourage you to investigate all the programs and resources available at <a href=\"https://history.ieee.org/\" target=\"_blank\">history.ieee.org</a>. The work of the IEEE History Center is possible in part by donations to the <a href=\"https://spectrum.ieee.org/ieee-foundation-celebrates-50-years\" target=\"_blank\">IEEE Foundation</a>. Support the IEEE History Center <a href=\"https://secure.ieeefoundation.org/site/Donation2?df_id=1680&amp;mfc_pref=T&amp;1680.donation=form1\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>. </p><p>Please share your thoughts with me: <a href=\"mailto:president@ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">president@ieee.org</a></p>"
       },
       {
-        "id": "0080bc7266db31c2",
-        "title": "The Accidental Engineer Who Conjured Up Extended Reality",
-        "url": "https://spectrum.ieee.org/engineer-conjured-up-extended-reality",
+        "id": "cfccc98c45218c98",
+        "title": "Help! My therapist is secretly using ChatGPT",
+        "url": "https://www.technologyreview.com/2025/09/09/1123386/help-my-therapist-is-secretly-using-chatgpt/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 09 Sep 2025 09:00:00 +0000",
+        "published_dt": "2025-09-09T09:00:00+00:00",
+        "summary": "In Silicon Valley\u2019s imagined future, AI models are so empathetic that we\u2019ll use them as therapists. They\u2019ll provide mental-health care for millions, unimpeded by the pesky requirements for human counselors, like the need for graduate degrees, malpractice insurance, and sleep. Down here on Earth, something very different has been happening.&#160; Last week, we published a&#8230;"
+      },
+      {
+        "id": "4e24935acf032c6e",
+        "title": "AI is changing the grid. Could it help more than it harms?",
+        "url": "https://www.technologyreview.com/2025/09/09/1123404/ai-grid-help/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 09 Sep 2025 09:00:00 +0000",
+        "published_dt": "2025-09-09T09:00:00+00:00",
+        "summary": "The rising popularity of AI is driving an increase in electricity demand so significant it has the potential to reshape our grid. Energy consumption by data centers has gone up by 80% from 2020 to 2025 and is likely to keep growing. Electricity prices are already rising, especially in places where data centers are most&#8230;"
+      },
+      {
+        "id": "a3323497ae772437",
+        "title": "Three big things we still don\u2019t know about AI\u2019s energy burden",
+        "url": "https://www.technologyreview.com/2025/09/09/1123408/three-big-things-we-still-dont-know-about-ais-energy-burden/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 09 Sep 2025 09:00:00 +0000",
+        "published_dt": "2025-09-09T09:00:00+00:00",
+        "summary": "Earlier this year, when my colleague Casey Crownhart and I spent six months researching the climate and energy burden of AI, we came to see one number in particular as our white whale: how much energy the leading AI models, like ChatGPT or Gemini, use up when generating a single response.&#160; This fundamental number remained&#8230;"
+      },
+      {
+        "id": "826311ec083ff47a",
+        "title": "The Dying Dream of a Decentralized Web",
+        "url": "https://spectrum.ieee.org/web3-hardware-security",
         "source": "IEEE Spectrum",
-        "published": "Tue, 19 Aug 2025 18:00:04 +0000",
-        "published_dt": "2025-08-19T18:00:04+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/steve-mann-adjusting-a-wearable-computing-device-called-the-eyetap-it-resembles-a-thin-pair-of-electronic-eyeglasses.jpg?id=61487265&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C0%2C1\" /><br /><br /><p>In the 1980s, people weren\u2019t <a href=\"https://spectrum.ieee.org/steve-mann-my-augmediated-life\" target=\"_self\">wearing head-mounted cameras, displays, or computers</a>. Except for high school student <a href=\"https://www.ece.utoronto.ca/people/mann-s/\" rel=\"noopener noreferrer\" target=\"_blank\">Steve Mann</a>, who regularly wore his homemade electronic computer vision system (seeing aid).</p><p>Back then, Mann attracted stares, questions, suspicion, and sometimes hostility. But it didn\u2019t stop him from refining the technology he developed. It now underlies <a href=\"https://www.pcmag.com/picks/the-best-smart-glasses\" rel=\"noopener noreferrer\" target=\"_blank\">augmented-reality eyeglasses</a>\u2014including those by <a href=\"https://www.google.com/glass/photography/\" rel=\"noopener noreferrer\" target=\"_blank\">Google</a> and<a href=\"https://www.magicleap.com/\" rel=\"noopener noreferrer\" target=\"_blank\"> Magic Leap</a>\u2014that are used in operating rooms and industrial settings such as factories and warehouses.</p><h3>Steve Mann</h3><br /><p><strong></strong><strong>Employer:</strong> </p><p>University of Toronto</p><p><strong>Job title:</strong> </p><p>Professor of electrical and computer engineering, computer science, and forestry </p><p><strong>Member grade: </strong></p><p><strong></strong>Fellow</p><p><strong>Alma maters:</strong> </p><p>McMaster University in Hamilton, Ontario; MIT </p><p>Although head-mounted computers haven\u2019t reached smartphone-level ubiquity, when Mann wears XR (eXtended Reality, something he and Charles Wyckoff <a href=\"https://wearcam.org/xr.htm\" rel=\"noopener noreferrer\" target=\"_blank\">invented at MIT in 1991</a>) gear these days as a professor of electrical and computer engineering, computer science, and forestry at the <a href=\"https://www.utoronto.ca/\" rel=\"noopener noreferrer\" target=\"_blank\">University of Toronto</a>, he doesn\u2019t turn as many heads as he used to.</p><p>In part because of his inventiveness and creativity, the IEEE Fellow was honored for his contributions to wearable computing and the concept of <a href=\"https://wearcam.org/sousveillance.htm\" rel=\"noopener noreferrer\" target=\"_blank\">sousveillance</a>\u2014the practice of using personal recording devices to watch the watchers and invert traditional surveillance power structures\u2014with this year\u2019s IEEE <a href=\"https://corporate-awards.ieee.org/award/ieee-masaru-ibuka-consumer-technology-award/\" rel=\"noopener noreferrer\" target=\"_blank\">Masaru Ibuka Consumer Technology Award. S</a>ponsored by <a href=\"https://www.sony.com/en/\" rel=\"noopener noreferrer\" target=\"_blank\">Sony</a>, the award was bestowed by the <a href=\"https://ctsoc.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Consumer Technology Society</a> at the <a href=\"https://www.ces.tech/\" rel=\"noopener noreferrer\" target=\"_blank\">Consumer Electronics Show</a> held in January in Las Vegas.</p><h2>Empowering people through wearable tech</h2><p>Mann is regarded as the <a href=\"https://youtu.be/Z9qiWqRPrcw?si=4xVRwWN1RMgANiBA\" rel=\"noopener noreferrer\" target=\"_blank\">\u201cfather of wearable computing</a>.\u201d Asked what he thinks about the moniker, he says it\u2019s less about the title and more about empowering people to see the world\u2014and themselves\u2014in new ways.</p><p>His research and systematic reimagining of how electronic devices can support and extend human abilities, especially vision, have yielded benefits for society. Among them are assisting the visually impaired with the ability to identify objects and enabling experts to remotely view what frontline workers see and then guide them from afar.</p><p>His IEEE award came one month after he received the <a href=\"https://lifeboat.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Lifeboat Foundation</a>\u2019s <a href=\"https://lifeboat.com/ex/guardian.award\" rel=\"noopener noreferrer\" target=\"_blank\">Guardian Award</a>, given to a scientist or public figure \u201cwho has warned of a future fraught with dangers and encouraged measures to prevent them.\u201d The foundation is a nonprofit, nongovernmental organization dedicated to encouraging scientific advancements while helping humanity survive existential risks and possible misuse of increasingly powerful technologies including genetic engineering, nanotechnology, and robotics/AI.</p><h2>A natural-born tinkerer </h2><p>It stands to reason that Mann would become a leading tinkerer. His earliest memories are of welding with his grandfather and knitting with his grandmother\u2014unusual hobbies for a typical 4-year-old, though not in Mann\u2019s family. His father, who worked for a men\u2019s clothing company, supplemented his income by buying and renovating houses, long before the concept of <a href=\"https://www.investopedia.com/articles/mortgages-real-estate/08/house-flip.asp\" rel=\"noopener noreferrer\" target=\"_blank\">flipping houses</a> became widespread.</p><p>\u201cWe were always living in a house under construction,\u201d Mann recalls. \u201cI used to help my dad fix things when I was 4 or 5\u2014hammer in my hand\u2014normal stuff.\u201d His grandfather, a refrigeration engineer, taught him how to weld. By age 6, he was wiring and building homemade radios. By the time he was 8, he had started a neighborhood repair business, fixing televisions and radios.</p><p>\u201cIn a sense, preschool for me was learning engineering and science,\u201d Mann says with a laugh. \u201cI grew up putting together wood, metal, or fabric. I knew how to make things at a very young age.\u201d</p><h2>Learning to see what others miss</h2><p>When Mann was 12 years old, his father brought home a broken oscillograph (an early version of the oscilloscope, used to display variations in voltage or current as visual waveforms). It turned out to be a defining moment in his life. Too impatient to accept that the waveform dot on the machine\u2019s display moved only up and down instead of both vertically and horizontally, Mann invented a way to push its image through physical space.</p><p>He placed the oscillograph\u2014which he now keeps on a shelf in his laboratory\u2014on a board mounted on roller skate wheels. He connected the device to a police radar and rolled it back and forth. When he realized the machine\u2019s motion, combined with the dot\u2019s vertical movement, created visible waveforms of the radar\u2019s signals, as a function of space rather than time, he unknowingly made a revolutionary discovery.</p><p>Later he would describe that merging of physical and virtual worlds as \u201cextended reality\u201d\u2014a concept that underlies today\u2019s<a href=\"https://spectrum.ieee.org/ieee-alliance-advancing-augmented-reality\" target=\"_self\"> AR</a> and <a href=\"https://spectrum.ieee.org/tag/extended-reality\" target=\"_self\">XR</a> technologies. It wouldn\u2019t be the last time Mann\u2019s curiosity turned a problem into an opportunity.</p><p>Decades later, on the main floor of his Toronto home, he co-founded <a href=\"https://choosemuse.com/pages/team\" rel=\"noopener noreferrer\" target=\"_blank\">InteraXon</a>, the Toronto-based company behind the <a href=\"https://choosemuse.com/?srsltid=AfmBOoqc3ta8hB6lNjQIi_jbX_Go5LphTzvrPTwE1tsykr5bg8XsWn-I\" rel=\"noopener noreferrer\" target=\"_blank\">Muse brain-sensing headband</a>, used to help people manage sleep, stress, and mental health.</p><p>Mann shares legendary 1970s <a href=\"https://www.nytimes.com/interactive/2024/03/26/business/silicon-valley-tech-xerox-parc-sri.html\" rel=\"noopener noreferrer\" target=\"_blank\">Xerox PARC</a> researcher <a href=\"https://amturing.acm.org/award_winners/kay_3972189.cfm\" rel=\"noopener noreferrer\" target=\"_blank\">Alan Kay</a>\u2019s belief that \u201c<a href=\"https://www.forbes.com/sites/chunkamui/2017/04/04/7-steps-for-inventing-the-future/\" rel=\"noopener noreferrer\" target=\"_blank\">The best way to predict the future is to invent it</a>.\u201d Mann, however, adds: \u201cSometimes you invent it by simply refusing to accept the limitations of the present.\u201d</p><h2>A member of MIT\u2019s Media Lab</h2><p> In high school, Mann won several math competitions designed to challenge students at university level. In 1982 he enrolled in <a href=\"https://www.mcmaster.ca/\" rel=\"noopener noreferrer\" target=\"_blank\">McMaster University</a>, in Hamilton, Ontario, to pursue a degree in engineering physics (an interdisciplinary program that combines physics, mathematics, and engineering principles). As an undergraduate, Mann was already experimenting with early prototypes of wearable computers\u2014head-mounted displays, body-worn cameras, and portable computing systems that predated mainstream mobile tech by decades.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Rehmi Post, Thad Starner, Steve Mann and Professor Alex Pentland donning wearable computers that resemble electronic eyeglasses in the 1990s. They are sitting on steps outside of a building at MIT.\" class=\"rm-shortcode\" id=\"58159\" src=\"https://spectrum.ieee.org/media-library/rehmi-post-thad-starner-steve-mann-and-professor-alex-pentland-donning-wearable-computers-that-resemble-electronic-eyeglasses.jpg?id=61487346&amp;width=980\" /> <small class=\"image-media media-caption\">Mann [far right] sits alongside fellow MIT Media Lab graduate students, modeling the wearable computers or smart clothes they were developing as part of their Ph.D. research. </small><small class=\"image-media media-photo-credit\">Pam Berry/The Boston Globe/Getty Images</small></p><p>He earned a bachelor\u2019s degree in 1986. He continued his studies at McMaster to earn a second bachelor\u2019s degree in electrical engineering in 1989, then a master\u2019s degree in engineering in 1991.</p><p>He then enrolled in a doctoral program at <a href=\"https://www.mit.edu/\" target=\"_blank\">MIT</a>, where he joined its renowned <a href=\"https://www.media.mit.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">Media Lab</a>, a hotbed for unconventional research blending technology, design, and the human experience. He formalized and expanded his ideas around wearable computing, wearable computer vision systems, and wearable AI. He also published some of the earliest academic papers that described the concept of sousveillance.</p><p>He completed his Ph.D. in media arts and sciences in 1997.</p><p>Mann\u2019s doctoral research contributed foundational concepts and hardware that influenced future smart glasses and devices for life logging, the practice of creating a digital record of one\u2019s daily life. He also helped blaze a trail for the fields of <a href=\"https://spectrum.ieee.org/augmented-reality-glasses-metasurface\" target=\"_self\">augmented reality</a> and <a href=\"https://spectrum.ieee.org/the-inescapability-of-ambient-computing\" target=\"_self\">ubiquitous computing</a>.</p><h2>Knitting passions into a unique academic career</h2><p>After completing his Ph.D., Mann returned to Canada and took a position at the University of Toronto as a professor of electrical and computer engineering in 1998. He says he is equally as fascinated by how technology interacts with the natural world as he is by how to remove barriers between the physical world and virtual world.</p><p><span>His interests connect to what he calls \u201cvironmentalism,\u201d which regards technology as a boundary between our environment and our \u201cvironment\u201d (ourselves). This gives rise to his vision of \u201cmersive\u201d technologies that link humans not just to each other but also to the environment around them.</span></p><p class=\"pull-quote\"><span></span>\u201cGo beyond [what\u2019s covered at] school. Define yourself by what you love so much you\u2019d do it [even if no teachers or managers were demanding it]. AI can replace a walking encyclopedia. It can\u2019t replace passion.\u201d</p><p><span>\u201cIt\u2019s advancing technology for humanity </span><em><em>and</em></em><span> Earth,\u201d he says, riffing on IEEE\u2019s mission statement. His guiding principle also explains his cross-appointment in the University of Toronto\u2019s forestry department (now part of the Faculty of Architecture, Landscape, and Design)\u2014an unusual entry on an electrical and computer engineering professor\u2019s CV.</span></p><h2>IEEE and building community</h2><p>Prior to his groundbreaking doctoral work at MIT, Mann had already joined IEEE in 1988. He credits the organization with connecting him to pioneers like <a href=\"https://www.eng.mcmaster.ca/news/simon-haykin-receives-ieee-medal-for-advancing-radar-technologies/\" target=\"_blank\">Simon Haykin</a>, the radar visionary he met at McMaster while he was in high school. Haykin pushed him to dream big, he says.</p><p>Mann has been active in the<a href=\"https://www.computer.org/\" target=\"_blank\"> IEEE Computer</a> and <a href=\"https://ctsoc.ieee.org/\" target=\"_blank\">IEEE Consumer Technology</a> societies. He has served as an organizer, session chair, and program committee member for IEEE conferences related to wearable computing and pervasive sensing.</p><p>In 1997 he helped found the<a href=\"https://www.ubicomp.org/ubicomp-iswc-2024/iswc-2024/\" rel=\"noopener noreferrer\" target=\"_blank\"> International Symposium on Wearable Computers</a>, and numerous other wearable computing symposia, conferences, and events.</p><p>He has given keynote talks and presented papers on topics including sousveillance, ubiquitous computing, and other humanistic aspects of technology at the <a href=\"https://attend.ieee.org/istas-2025/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE International Symposium on Technology and Society</a> and the <a href=\"https://percom.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE International Conference on Pervasive Computing and Communications</a>.</p><p>His contributions include influential papers in IEEE journals, especially various IEEE Transactions and Computer Society magazines.</p><p>Probably his most well-known paper is \u201c<a href=\"https://ieeexplore.ieee.org/abstract/document/566147\" rel=\"noopener noreferrer\" target=\"_blank\">Wearable Computing</a>.\u201d Published in <a href=\"https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=PER300-PRT\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>Computer</em></em></a> magazine in October 1997, the seminal work outlined the structure and vision for wearable computing as a formal research field. He also contributed articles on sousveillance\u2014exploring the intersection of technology, ethics, and human rights\u2014in <a href=\"https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=44\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>IEEE Technology and Society Magazine</em></em></a>.</p><p>He has collaborated with other IEEE members to develop frameworks for <a href=\"https://standards.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">wearable computing standards</a>, particularly around human-computer interfaces and privacy considerations.</p><h2>Forever the inventor</h2><p>Mann continues to teach, run his lab, and test new frontiers of <a href=\"https://spectrum.ieee.org/tag/wearables\" target=\"_self\">wearable devices</a>,<a href=\"https://spectrum.ieee.org/smart-clothing-cornell\" target=\"_self\"> smart clothing</a>, and <a href=\"https://www.xrtoday.com/mixed-reality/the-hottest-trends-in-immersive-environments-for-2024/\" rel=\"noopener noreferrer\" target=\"_blank\">immersive environments</a>. He\u2019s still driven, he says, by the same forces that powered his backyard experiments as a child: curiosity and passion.</p><p>For students who hope to follow in his footsteps, Mann\u2019s advice is simple: \u201cGo beyond [what\u2019s covered at] school. Don\u2019t define yourself by the classes you took or the jobs you had. Define yourself by what you love so much you\u2019d do it \u201ceven if no teachers or managers were demanding it\u201d. He adds that, \u201cAI can replace a walking encyclopedia. It can\u2019t replace passion.\u201d</p><p>Mann says he has no plans to retire. If anything, he says, his most productive years are yet to come.</p><p>\u201cI feel like I\u2019m a late bloomer,\u201d he says, chuckling at the irony. \u201cI was fixing radios when I was 8, but my best work? That\u2019s going to happen between 65 and 85.\u201d</p>"
+        "published": "Mon, 08 Sep 2025 13:00:03 +0000",
+        "published_dt": "2025-09-08T13:00:03+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/man-in-black-t-shirt-looks-at-laptop-screen-behind-him-is-a-many-node-network-diagram-in-shades-of-blue.jpg?id=61558211&amp;width=1200&amp;height=800&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p><span>The term </span><a href=\"https://spectrum.ieee.org/web3\" target=\"_blank\">Web3</a><span> was originally </span><a href=\"https://gavwood.com/dappsweb3.html\" target=\"_blank\">coined</a><span> by Etherium cofounder </span><a href=\"https://en.wikipedia.org/wiki/Gavin_Wood\" target=\"_blank\">Gavin Wood</a><span> as a secure, decentralized, peer-to-peer version of the Internet. </span><span>The idea was to build an Internet</span><span> based on </span><a href=\"https://spectrum.ieee.org/forget-cryptocurrencies-and-nftssecuring-devices-is-the-future-of-blockchain-technology\" target=\"_blank\">blockchain technology</a><span> and a peer-to-peer network, without the need for large data centers or third-party providers. These days, however, blockchain is most famous as the tool enabling <a href=\"https://spectrum.ieee.org/the-future-of-money?utm_campaign=post-teaser&amp;utm_content=ibfuflhf\" target=\"_blank\">cryptocurrencies</a>. Most recently</span><span>, the Trump administration has </span><a href=\"https://www.cnn.com/2025/08/18/business/bitcoin-crypto-rally-us-stocks\" target=\"_blank\">taken</a><span> on a pro-cryptocurrency stance, boosting blockchain\u2019s </span>popularity and media prominence.</p><p><span>Cryptography is central to the functioning of blockchains, whether for a decentralized Web or for cryptocurrencies. Every time a cryptocurrency transaction is initiated, all parties involved in the transaction need to securely prove that they agree to the transfer. This is done via a <a href=\"https://en.wikipedia.org/wiki/Digital_signature\" target=\"_blank\">digital signature</a>: a cryptographic protocol that generates a secret, private key that is unique to each user and a public key that the user shares. Then, the private key is used to generate a unique signature for each transaction. The public key can be used to verify that, indeed, the signature was created by the holder of the private key. In this way, Web3 in every incarnation relies heavily on cryptography. </span></p><p><span>To learn more about the evolution of Web3, and cryptography\u2019s role, we caught up with</span><span> </span><a href=\"https://wahby.net/\" target=\"_blank\">Riad Wahby</a><span>, assistant professor of electrical and computer engineering at Carnegie Mellon University, in Pittsburgh, and a cofounder and CEO of hardware-backed Web3 security platform </span><a href=\"https://cubist.dev/\" target=\"_blank\">Cubist</a><span>.</span></p><p><span> Wahby explained what Web3 was meant to be, what it\u2019s become, and how hardware-backed cryptography will enable its future.<br /></span></p><h3>Web3 Began as a Response to What Came Before</h3><p><strong><em>IEEE Spectrum</em>: What is Web3?</strong></p><p><strong>Riad Wahby:</strong> That\u2019s the hardest question that you\u2019re going to ask by far, because I don\u2019t know how to answer it in a way that satisfies everyone.</p><p>The term Web3 was coined around 2018, by people who looked at the way that the Web had developed. Web 1.0 was the first Web bubble, the dot-com bubble. Web 2.0, roughly speaking, is Google and Facebook and Microsoft and Apple and Netflix, and the like. And the perception, especially from folks who originally coined this term Web3, was that these companies had basically taken the Web in the wrong direction, because your privacy is gone, and you\u2019re the product, so to speak. You use Gmail for free because Google is mining your emails to sell things like better advertising. Web3 was originally a reaction to this. Early proponents of Web3 basically said, \u201cWe don\u2019t want that. We want to take back control of our stuff. I want to own my own data, and maybe cryptocurrencies and blockchains are the way there.\u201d So that\u2019s where the term originally came from.</p><p><strong>What does the term mean now?</strong></p><p><strong>Wahby:</strong> Now it doesn\u2019t mean anything like that at all. Now Web3 is the broader ecosystem around cryptocurrencies and blockchain-based technologies. And I think basically all of that revolutionary spirit has gone away in favor of building financial products and making a lot of money doing it. As far as I can tell, the term has really transformed from a reaction to a lack of privacy and a lack of sovereignty in my own data to \u201cHey, this is a technology that has something to do with blockchains.\u201d Maybe you can buy some kind of speculative meme coin and make a bunch of money doing it. So I don\u2019t know, maybe that took a dark turn at the end. That\u2019s how things go.</p><p><strong>How are those two definitions connected?</strong></p><p><strong>Wahby:</strong> Cryptography really fits into the revolutionary spirit, in the sense that the folks who want to cast off the chains of things like Google and Facebook, one of the tenets was\u2014\u201dThe way that we\u2019ll do that is we\u2019ll build this technology that\u2019s sort of amazing and that gives us all these great properties.\u201d And they were going to do that using some advanced cryptographic technologies. This is the reason that there\u2019s so many people who are cryptography researchers at universities that also are involved deeply in some kind of cryptocurrency. Because it\u2019s like this is a sea change in the way that cryptography gets used in the world.</p><p>Twenty years ago, it used to be that if you were working on really any kind of cryptography, regardless of how theoretical or how practical you intended it to be, you knew that there was not much of a chance that any of it was going to get really used in the world, unless it was extremely practical and extremely focused on solving some immediate problem. And it just used to be the case that people were extremely conservative about what kind of cryptography they used. Basically, everyone thought, \u201cWe don\u2019t need any of this crazy stuff. That\u2019s all theory. Nobody cares. The only stuff we need is what lets you connect to Amazon and safely buy stuff.\u201d The rise of cryptocurrencies brought with it this whole shift in the way that cryptography gets deployed in the world, where now if you can come up with some interesting functionality that\u2019s enabled by some advanced cryptography, probably somewhere somebody is going to try and turn that into a product that they can sell.</p><h3>Web3 Is Both Good and Bad for Cryptography</h3><p><strong>What effect has this had on the cryptographic community?</strong></p><p><strong>Wahby:</strong> It\u2019s both good and bad. It\u2019s good in that this means that there\u2019s a lot of motivation to build interesting, cool stuff. And as a researcher in cryptography, I love it because it means that there\u2019s tons more research money being poured into cryptography.</p><p>That\u2019s the good side. The bad side is that the reason that people were so conservative about deploying new cryptography is that it\u2019s easy to get the security mechanism wrong. The default state of cryptography is [to assume everything is] broken. You have to be very, very careful that each change that you make isn\u2019t returning your cryptography to the default state. I\u2019m not saying that people in Web3 aren\u2019t careful. They are. It\u2019s just by the nature of things, since it\u2019s a much faster time frame, there\u2019s much more pressure to just push stuff into production. And I think the downside is that we have seen a little bit of brokenness. It\u2019s hopefully not causing people to lose oodles of money. And I think the historical record bears this out: People lose oodles of money because other people are really dishonest, not because the cryptography is broken for the most part. But the cryptography can also be broken, and that can also be worrisome. But I\u2019d say from the perspective of somebody who\u2019s doing research in cryptography, the impact of Web3 on the cryptographic community has generally been a good thing.</p><p><strong>Now you\u2019re focused on <a href=\"https://spectrum.ieee.org/open-titan-chip\" target=\"_blank\">hardware security</a>. Can you explain what that is?</strong></p><p><strong>Wahby:</strong> Any cryptocurrency has this property that if I hold some token, and I want to send it to somebody else, the way that I do that is by producing a digital signature that says, I want to spend this token. The secret key is what lets you generate a signature. So if you have 10 <a href=\"https://spectrum.ieee.org/the-merge-heralds-cryptos-climate-friendly-future\" target=\"_blank\">Ethereum</a> [cryptocurrency coins], and they\u2019re all protected by this key, and somebody takes a copy of your key, then life is bad.</p><p>With a digital signature key it could just be sitting on your hard drive, and then you get some malware, and now somebody has silently stolen your key. There have been these big, broadly targeted malware campaigns where millions and millions of people have all had their keys stolen. So now the criminals are just like sitting there counting up all the money that they\u2019ve stolen, and there\u2019s no reversing transactions, unlike at a bank.</p><p>Here\u2019s where hardware comes in. This is not really a Web3 technology, this is kind of old, good stuff. There are these devices called hardware security modules, and they\u2019ve been used for multiple decades. This is a physical device, and this device can run certain cryptographic algorithms. And it knows enough that when you tell it, \u201cHey, please generate me a key,\u201d it can generate you a key securely. And when you tell it, \u201cPlease give me a signature,\u201d it can give you a signature securely. But the important thing is the way that it\u2019s designed, the key never leaves this piece of hardware. It turns what was a piece of data into a physical object. And we know how to secure a physical object.</p><p><strong>You\u2019re working on extending hardware security for more use cases. Can you explain what you\u2019re doing?</strong></p><p><strong>Wahby:</strong> There are two issues with the standard hardware security module.</p><p>No. 1, you need more cryptography support, so you need to be able to apply digital signatures to transactions very quickly if you\u2019re actively trading. And No. 2, you need a way of expressing that it\u2019s not just a key that can generate any signature. It\u2019s a key that also has attached to it some kind of policy that says these are the kinds of signatures that are okay to generate, and everything else is not allowed, to add extra security. These are the two directions that we have that our technology enables within traditional hardware security modules.</p><p>We start with the security that\u2019s provided by the traditional hardware security module, and we extend it using this, actually another piece of trusted hardware called the Trusted Execution Environment. We extend it to support the actual kinds of cryptography that are needed for Web3 and to support this rich programmable policy layer that lets you say, \u201cThis key is only intended for this specific kind of use,\u201d or \u201canytime somebody tries to make a payment from this key, first I have to check whether the recipient is subject to sanctions,\u201d or any other rule. So in the end, we have, not only a hardware security module, we have also this Trusted Execution Environment and this policy layer, and all this other cryptographic stuff that together gives us a hardware security module that\u2019s really designed for the Web3 use case.</p>"
       },
       {
         "id": "9a6f834e2cfb5383",
@@ -819,6 +801,78 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/the-cooley-tukey-fast-fourier-transform-algorithm.jpg?id=61498257&amp;width=1200&amp;height=800&amp;coordinates=0%2C309%2C0%2C310\" /><br /><br /><p><a href=\"https://spectrum.ieee.org/invention-of-ct-scanner\" target=\"_self\">CT scanning</a>, streaming videos, and sending images over the Internet wouldn\u2019t be possible without the <a href=\"https://ethw.org/Milestones:First_Demonstration_of_the_Fast_Fourier_Transform_(FFT),_1964\" target=\"_blank\">Fast Fourier transform</a>. Commonly known as FFT, the computer algorithm designed by researchers at <a href=\"https://www.princeton.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">Princeton</a> University and <a href=\"https://www.ibm.com/us-en\" rel=\"noopener noreferrer\" target=\"_blank\">IBM </a>is found in just about every electronic device, according to an entry in the <a href=\"https://ethw.org/Main_Page\" rel=\"noopener noreferrer\" target=\"_blank\">Engineering and Technology History Wiki</a>.</p><p>Demonstrated for the first time in 1964 by IEEE Fellows <a href=\"https://ethw.org/John_Tukey\" rel=\"noopener noreferrer\" target=\"_blank\">John Tukey</a> and <a href=\"https://ethw.org/Oral-History:James_W._Cooley\" rel=\"noopener noreferrer\" target=\"_blank\">James W. Cooley</a>, the algorithm breaks down a signal\u2014a series of values over time\u2014and converts it into frequencies. FFT was 100 times faster than the existing <a href=\"https://en.wikipedia.org/wiki/Discrete_Fourier_transform\" rel=\"noopener noreferrer\" target=\"_blank\">discrete Fourier transform</a>. The DFT also requires more memory than the FFT because it saves intermediate results while processing.</p><p>The FFT has become an important tool for manipulating and analyzing signals in many areas including audio processing, telecommunications, digital broadcasting, and image analysis. It helps filter, compress, eliminate noise from, and otherwise modify signals.</p><p>The 60-year-old ubiquitous computer code also has applications in today\u2019s cutting-edge technologies such as <a href=\"https://ieeexplore.ieee.org/document/9921684\" rel=\"noopener noreferrer\" target=\"_blank\">AI</a>, <a href=\"https://spectrum.ieee.org/quantum-computers-will-speed-up-the-internets-most-important-algorithm\" target=\"_self\">quantum computing</a>, <a href=\"https://ieeexplore.ieee.org/document/7803613\" rel=\"noopener noreferrer\" target=\"_blank\">self-driving cars</a>, and <a href=\"https://ieeexplore.ieee.org/document/10978098\" rel=\"noopener noreferrer\" target=\"_blank\">5G</a> communication systems.</p><p>The FFT was commemorated with an IEEE Milestone during a ceremony held in May at Princeton University.</p><p>\u201cThe Cooley-Tukey algorithm significantly accelerated the calculation of DFTs,\u201d 2024 IEEE President <a href=\"https://spectrum.ieee.org/u/tom-coughlin\" target=\"_self\">Tom Coughlin</a> said at the ceremony. \u201cPrior methods required significantly more computations, making FFT a revolutionary breakthrough. By leveraging algebraic properties and periodicities, the FFT reduced the number of the operations, making it particularly and practically feasible for everyday tasks, replacing the less efficient analog methods.\u201d</p><h2>A new mathematical tool</h2><p>In 1963 Tukey, a professor of mathematics and statistics at Princeton, participated in a meeting of U.S. President John F. Kennedy\u2019s <a href=\"https://en.wikipedia.org/wiki/President%27s_Science_Advisory_Committee\" rel=\"noopener noreferrer\" target=\"_blank\">Science Advisory Committee</a> to discuss ways to detect underground nuclear tests, according to the ETHW entry.</p><p>Also attending that meeting was <a href=\"https://spectrum.ieee.org/richard-garwin\" target=\"_self\">Richard Garwin</a>, a physicist and engineer at <a href=\"https://research.ibm.com/blog/richard-garwin-obituary\" rel=\"noopener noreferrer\" target=\"_blank\">IBM</a> who played a key role in designing the first hydrogen bomb. He died in May. Read about his fascinating life in this month\u2019s <a href=\"https://spectrum.ieee.org/richard-garwin-hydrogen-bomb-obituary\" target=\"_self\">In Memoriam</a>. </p><p>Tukey told Garwin he was working on speeding up the computation of an existing method\u2014the Fourier transform\u2014thinking it might help with the detection. His algorithm<a href=\"https://en.wikipedia.org/wiki/Fast_Fourier_transform\" rel=\"noopener noreferrer\" target=\"_blank\"> mathematically converted a signal from its original domain, such as time or space, to a frequency domain</a>.</p><p>Garwin recognized its potential and asked IBM to select a mathematical analyst to collaborate with Tukey. That person was Cooley, a research staff member working on numerical analysis and computation projects.</p><p>If the Fourier transform could be made faster, Garwin said, <a href=\"https://ethw.org/James_W._Cooley#:~:text=He%20suggested%20the%20idea%20of,and%20an%20IEEE%20Centennial%20medal.\" rel=\"noopener noreferrer\" target=\"_blank\">seismometers could be planted in the ground</a> in countries surrounding the Soviet Union to detect nuclear explosions from atomic bomb tests, because the Soviets wouldn\u2019t allow on-site tests, according to Cooley\u2019s <a href=\"https://ethw.org/Oral-History:James_W._Cooley#Tukey,_Garwin_and_FFT\" rel=\"noopener noreferrer\" target=\"_blank\">oral history</a> in the Engineering and Technology History Wiki. A seismometer measures ground vibrations, which are converted into electrical signals and recorded as seismograms.</p><p>To design sensors for underground nuclear tests, however, \u201cyou would have to process all the seismic signals, and a large part of the processing could be done by Fourier transforms,\u201d Cooley said in his oral history. But \u201cthe computing power at the time was not enough to process all of the signals you\u2019d need to do this.\u201d</p><p>The FFT could calculate a seismic sensor\u2019s frequency and produce images, IEEE Life Fellow <a href=\"https://www.computer.org/profiles/harold-stone\" rel=\"noopener noreferrer\" target=\"_blank\">Harold S. Stone</a> said at the Milestone event. He is an image processing researcher and Fellow emeritus at the <a href=\"https://www.nec-labs.com/\" rel=\"noopener noreferrer\" target=\"_blank\">NEC Laboratories America</a>, in Princeton, and a former IBM researcher.</p><p>Tukey and Cooley led the team that wrote the computer code that demonstrated the FFT\u2019s power.</p><p>\u201cThe demonstration of the Coley-Tukey algorithm showed that it was 100 times faster,\u201d Stone said. \u201cIt was so fast that it could keep up with the seismic data.\u201d</p><p>Sensors using the algorithm were planted, and they detected nuclear explosions within a 15-kilometer radius from where they were detonated, according to the ETHW entry.</p><p class=\"pull-quote\"><span>\u201cBy leveraging algebraic properties and periodicities, the FFT reduced the number of the operations, making it particularly and practically feasible for everyday tasks, replacing the less efficient analog methods.\u201d <strong>\u20142024 IEEE President Tom Coughlin</strong></span></p><p><span></span>In 1965 Cooley and Tukey published \u201c<a href=\"https://www.ams.org/journals/mcom/1965-19-090/S0025-5718-1965-0178586-1/S0025-5718-1965-0178586-1.pdf\" target=\"_blank\">An Algorithm for the Machine Calculation of Complex Fourier Series</a>,\u201d describing the FFT process. The seminal paper spurred development of digital signal processing technologies.</p><p>For his work, Tukey was awarded a U.S. <a href=\"https://www.nsf.gov/honorary-awards/national-medal-science\" target=\"_blank\">National Medal of Science</a> in 1973. He also received the 1982 <a href=\"https://corporate-awards.ieee.org/recipient/john-wilder-tukey/#:~:text=Home%20%C2%B7%20Recipients%20%C2%B7%20John%20Wilder%20Tukey,IEEE%20At%20A%20Glance\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Medal of Honor</a> for \u201ccontributions to the spectral analysis of random processes and the fast Fourier transform algorithm.\u201d</p><p>Cooley, who received the 2002 <a href=\"https://corporate-awards.ieee.org/wp-content/uploads/kilby-rl.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Kilby Signal Processing Medal</a> for pioneering the FFT, was a leading figure in the field of digital signal processing. Through his involvement with the IEEE Digital Signal Processing Committee (today known as the <a href=\"https://signalprocessingsociety.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Signal Processing Society</a>), he helped establish terminology and suggested research directions.</p><p>Although not one of the inventors, Garwin is credited with recognizing that the algorithm had wider applications, especially in scientific and engineering fields.</p><p>\u201cIn today\u2019s lingo, Garwin helped the FFT \u2018go viral\u2019 by getting Cooley and Tukey together,\u201d Stone said.</p><p>\u201cGarwin and Tukey sought better information to forestall and prevent wars,\u201d added Frank Anscombe, Tukey\u2019s nephew. \u201cThe Cooley-Tukey FFT swiftly advanced this cause by giving a practical, simplifying solution for wavy data. Thanks to the FFT, a technological rubicon began to be crossed: analog-to-digital machines.\u201d</p><h2>A spirit of collaboration between academia and industry</h2><p>Like so many innovations, the FFT came out of a collaboration between industry and academia, and it should be recognized for that, IEEE Fellow <a href=\"https://spectrum.ieee.org/princeton-dean-andrea-goldsmith\" target=\"_self\">Andrea Goldsmith</a> said at the ceremony. She explained that she regularly works with FFT in her research projects. At the time of the event, she was Princeton\u2019s dean of engineering and applied sciences. This month she started her new position as president of <a href=\"https://news.stonybrook.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">Stony Brook University</a>, in New York.</p><p>\u201cTaking the ideas we have from basic research in our university labs, talking to people in industry, and understanding how the research problems we work on can benefit industry either tomorrow or in five years or 20 years from now, is incredibly important,\u201d she said. \u201cSome people think of engineering as boring and dry and something that only nerds do, but there is such beauty and creativity in a lot of the innovations that we have developed, and I think the FFT is a perfect example of that.\u201d</p><p>The FFT joins more than 270 other IEEE Milestones. They are more than a marker of achievement, said IEEE Life Senior Member <a href=\"https://spectrum.ieee.org/ieee-bod-july-2026\" target=\"_self\">Bala S. Prasanna</a>, director of <a href=\"https://www.ieee.org/communities/geographic-activities/regional-list-region-1.html\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Region 1</a>.</p><p>\u201cThey are a testament to human ingenuity, perseverance, and the spirit of collaboration,\u201d Prasanna said. \u201cThese Milestones were more than just breakthroughs; they became catalysts for innovation, enabling progress in ways once thought impossible. Each one ensures that the story behind these innovations is preserved, not just as history but as inspiration for future generations.\u201d</p><p>Another <a href=\"https://www.ibm.com/quantum/blog/fft\" rel=\"noopener noreferrer\" target=\"_blank\">ceremony</a> was held on 11 June at the IBM Watson Research Center. </p><p>Milestone plaques recognizing the FFT are on display in the lobby of Princeton\u2019s <a href=\"https://engineering.princeton.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">School of Engineering and Applied Science</a> and in the main lobby at the entrance of the IBM research center.</p><p>They read:</p><p><em>\u201cIn 1964 a computer program implementing a highly efficient Fourier analysis algorithm was demonstrated at IBM Research. Jointly developed by Princeton University and IBM collaborators, the Cooley-Tukey technique calculated discrete Fourier transforms orders of magnitude faster than had been previously demonstrated. Known as the Fast Fourier Transform (FFT), its speed impacted numerous applications including computerized tomography, audio and video compression, signal processing, and real-time data streaming.\u201d</em></p>Administered by the <a href=\"https://www.ieee.org/about/history-center\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE History Center</a> and supported by <a href=\"https://secure.ieeefoundation.org/site/Donation2?df_id=1680&amp;mfc_pref=T&amp;1680.donation=form1\" rel=\"noopener noreferrer\" target=\"_blank\">donors</a>, the Milestone program recognizes outstanding technical developments around the world. The <a href=\"https://site.ieee.org/pcjs/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Princeton Central Jersey Section</a> sponsored the nomination."
       },
       {
+        "id": "13edac185ff6f419",
+        "title": "4 Ways to Conquer Imposter Syndrome",
+        "url": "https://spectrum.ieee.org/4-ways-conquer-imposter-syndrome",
+        "source": "IEEE Spectrum",
+        "published": "Mon, 08 Sep 2025 18:00:03 +0000",
+        "published_dt": "2025-09-08T18:00:03+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/conceptual-collage-of-a-faceless-woman-with-red-scribbles-around-her-head-meant-to-symbolize-mental-stress.png?id=61565186&amp;width=1200&amp;height=800&amp;coordinates=0%2C208%2C0%2C209\" /><br /><br /><p>If you credit luck instead of skill for your professional accomplishments, and if you struggle to accept praise, you might be experiencing imposter syndrome. If so, you aren\u2019t alone. Nearly <a href=\"https://hbr.org/2022/05/impostor-syndrome-has-its-advantages\" rel=\"noopener noreferrer\" target=\"_blank\">70 percent of high-achieving adults experience it</a>, according to an article in the <a href=\"https://hbr.org/\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>Harvard Business Review</em></em></a>.</p><p>Common signs of imposter syndrome include <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC7174434/\" rel=\"noopener noreferrer\" target=\"_blank\">persistent self-doubt and considering yourself a fraud despite evidence to the contrary</a>, according to a <a href=\"https://link.springer.com/journal/11606\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>Journal of General Internal Medicine</em></em></a> article.</p><p>To help engineers learn how to manage feelings of inadequacy, <a href=\"https://wie.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Women in Engineering</a> recently held the <a href=\"https://ieeetv.ieee.org/channels/wie/webinar-conquer-impostor-syndrome-to-advance-your-career\" rel=\"noopener noreferrer\" target=\"_blank\">Conquer Impostor Syndrome to Advance Your Career</a> webinar. <a href=\"https://www.kimmeninger.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Kim Meninger</a>, a leadership coach, consultant, and motivational speaker, gave tips on building confidence and overcoming anxiety.</p><p>Here are her recommendations.</p><h2>Manage disruptive thoughts</h2><p>Imposter syndrome is not a clinical diagnosis but a form of anxiety, Meninger said.</p><p>\u201cThere is no arguing with the fact that being worried someone at work is going to find out you\u2019re not capable of doing your job is fear-based,\u201d she said. The brain interprets fear as a sign of danger, she added, and that triggers a fight-or-flight physiological reaction.</p><p>When faced with social threats such as failure, rejection, and humiliation, she said, the fight-or-flight response can cause a person to lose the ability to reason, solve problems, and think clearly.</p><p>If that happens, she said, analyze what you fear and what might happen if things go sour. Create an action plan if it happens. When you have a plan, she said, you feel more in control.</p><p>When people are anxious, however, it\u2019s often difficult for them to strategize. Meninger\u2019s suggestions on how to stay calm include: </p><p><strong>Take deep breaths.</strong> It sends a signal to your brain that there is no physical threat. If you are going into a meeting that you know will trigger your anxiety, start breathing exercises a few minutes before it starts.</p><p><strong>Bring water with you. </strong>Taking a sip of your beverage during your presentation is a great pause button, buying you time to think about what you want to say next, Meninger said, and drinking something won\u2019t attract attention. You gain a moment to collect yourself.</p><p><strong>Speak slowly.</strong> Anxious people often start speaking quickly, she said. Words and thoughts can diverge, and you can lose the ability to communicate clearly. If you intentionally speak slower, it requires you to focus, diverting your attention from any panic you\u2019re feeling. It also makes you appear more in command of your message.</p><h2>Adopt a \u201cgrowth mindset\u201d</h2><p>The growth mindset, Meninger said, is the belief that a person\u2019s abilities and intelligence can be developed through dedication to learning and hard work, rather than being fixed traits.</p><p>Many people develop a fixed mindset in adulthood, believing that their abilities and intelligence are unchangeable. If you have a growth mindset, you believe you can control your destiny and choose whether you want to invest in becoming better at something.</p><p>People with a fixed mindset who are not good at math, for example, might attribute it to a lack of understanding the subject. Those with a growth mindset might study or find a tutor to help them, knowing that they can improve with focus and time.</p><p>Having a growth mindset can help you become more confident and less likely to experience imposter syndrome, Meninger said.</p><p>\u201cIt\u2019s important to be aware when you start blaming genetics or natural abilities for what you view as shortcomings,\u201d she said. \u201cWe don\u2019t always notice the way we adopt fixed mindsets.\u201d</p><p class=\"pull-quote\"><span>\u201cYour strengths are the raw materials that allow you to make an impact on your team, organization, family, and community.\u201d</span></p><p>That is where what Meninger calls the <em><em>power of yet</em></em> comes into play. When you tell yourself that you\u2019re not good at something, add a <em><em>yet</em></em> at the end of the sentence. For example, say \u201cI\u2019m not good at presenting yet,\u201d rather than simply \u201cI\u2019m not good at presenting.\u201d</p><p>Adding that single word opens up the possibility of improving rather than making the lack of a skill a definitive statement that can\u2019t be changed, she said.</p><p>Another suggested way to practice a growth mindset is to \u201cbecome a beginner intentionally,\u201d Meninger said. \u201cPerfectionists only take risks where they\u2019re virtually guaranteed to succeed. Because of this, they tend not to experience the discomfort of learning and growing.\u201d</p><p>One way to break out of that cycle, she said, is to learn a new skill outside of work, such as knitting, art, playing a musical instrument, or speaking another language.</p><h2>Celebrate your successes</h2><p>Many people don\u2019t take time to celebrate their successes. Instead, they focus on their mistakes and failures, whether real or perceived. One reason, Meninger said, is that culture and family expectations influence the way people view mistakes and successes. Several cultures teach humility and that one should not talk about their successes, as it can be boastful.</p><p>\u201cWe owe it to ourselves to unapologetically accept that we have strengths,\u201d Meninger said. \u201cThere\u2019s nothing shameful about that. Your strengths are the raw materials that allow you to make an impact on your team, organization, family, and community.\u201d</p><p>If you don\u2019t know what you do well, you can\u2019t channel it in a positive direction, she said. Knowing your strengths isn\u2019t about stroking your ego but rather understanding how you can be of service to others.</p><p>Your brain won\u2019t focus on your successes naturally, so it\u2019s important to practice, Meninger said. One way to do so is to keep an accomplishment journal. Write down three things each day that went well, or problems you solved, at work or in your personal life.</p><p>Your journal also can be used as a source when you need to fill out a performance evaluation for your employer or to make a case for a promotion, she said. It helps to build your confidence because you can see your successes listed.</p><h2>Leverage your resources</h2><p>You don\u2019t need to be an expert on every subject, Meninger said; you just need to recognize what you don\u2019t know. To gain expertise, create relationships with people who have knowledge you\u2019re missing, she recommended: Instead of putting pressure on yourself to be all-knowing, think about who at your company can complement your skills and how you can work with them.</p><p>Also, if you\u2019re worried that everyone else in a meeting has more experience than you and you\u2019re doubting your contributions, inquire why you were invited. Ask the meeting organizer what they would like you to contribute or what information they want you to prepare.</p><p>\u201cDon\u2019t go into a mystery meeting that will cause you more anxiety,\u201d Meninger cautioned.</p><p>When you ask such questions, you likely will learn the organizer invited you because of a strength you have.</p><a href=\"https://spectrum.ieee.org/ieee-wie-updates-2025\" target=\"_blank\">IEEE Women in Engineering</a> regularly hosts <a href=\"https://spectrum.ieee.org/collections/tips-on-how-to-elevate-your-career/\" target=\"_blank\">career-related</a> webinars, which are available to <a href=\"https://wie.ieee.org/events/category/webinars/career/\" target=\"_blank\">watch on demand on its website</a>. The webinars cover topics such as <a href=\"https://ieeetv.ieee.org/channels/wie/workshop-narrative-tools-for-science-communication\" target=\"_blank\">best practices for science communication</a>, <a href=\"https://ieee.webex.com/weblink/register/r5be159b0d72c7410821a5e2364fa54cd\" rel=\"noopener noreferrer\" target=\"_blank\">leadership skills</a>, and <a href=\"https://ieeetv.ieee.org/channels/wie/translational-research-to-entrepreneurship\" rel=\"noopener noreferrer\" target=\"_blank\">turning research into a startup</a><span>.</span>"
+      },
+      {
+        "id": "a1395abbdb5140d6",
+        "title": "Maximizing Solar ROI with Smarter Balance-of-System Solutions",
+        "url": "https://content.knowledgehub.wiley.com/how-to-optimize-solar-bos-for-value-and-efficiency/",
+        "source": "IEEE Spectrum",
+        "published": "Mon, 08 Sep 2025 17:55:23 +0000",
+        "published_dt": "2025-09-08T17:55:23+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/heilind-electronics-logo.png?id=60310899&amp;width=980\" /><br /><br /><p>This white paper addresses the challenge of rising balance-of-system (BOS) costs in solar energy projects, which now make up a larger share of total system expenses due to falling solar module prices. It provides valuable insights for engineers, developers, and EPCs on how to optimize BOS components for efficiency, reliability, and lower total cost of ownership. Readers will learn how to reduce labor, avoid costly installation errors, and improve long-term performance through better product selection, installation tools, mock-up testing (golden rows), and Panduit\u2019s comprehensive BOS solutions that bundle, connect, protect, and identify system elements.</p><p><span><a href=\"https://content.knowledgehub.wiley.com/how-to-optimize-solar-bos-for-value-and-efficiency/\" target=\"_blank\">Download this free whitepaper now!</a></span></p>"
+      },
+      {
+        "id": "9e324123c2b44690",
+        "title": "The Download: introducing our 35 Innovators Under 35 list for 2025",
+        "url": "https://www.technologyreview.com/2025/09/08/1123361/the-download-introducing-our-35-innovators-under-35-list-for-2025/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 08 Sep 2025 12:10:00 +0000",
+        "published_dt": "2025-09-08T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: our 35 Innovators Under 35 list for 2025 The world is full of extraordinary young people brimming with ideas for how to crack tough problems. Every year, we recognize 35 such individuals&#8230;"
+      },
+      {
+        "id": "17076315d820e7b9",
+        "title": "How Trump\u2019s policies are affecting early-career scientists\u2014in their own words",
+        "url": "https://www.technologyreview.com/2025/09/08/1123166/trumps-policy-early-career-scientists/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 08 Sep 2025 10:45:00 +0000",
+        "published_dt": "2025-09-08T10:45:00+00:00",
+        "summary": "This story is part of MIT Technology Review\u2019s &#8220;America Undone\u201d series, examining how the foundations of US success in science and innovation are currently under threat.\u00a0You can read the rest here. Every year MIT Technology Review celebrates accomplished young scientists, entrepreneurs, and inventors from around the world in our Innovators Under 35 list. We\u2019ve just&#8230;"
+      },
+      {
+        "id": "fa4ae70c459585b6",
+        "title": "Why basic science deserves our boldest investment",
+        "url": "https://www.technologyreview.com/2025/09/08/1123214/opinion-basic-science-research-funding/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 08 Sep 2025 10:45:00 +0000",
+        "published_dt": "2025-09-08T10:45:00+00:00",
+        "summary": "In December 1947, three physicists at Bell Telephone Laboratories\u2014John Bardeen, William Shockley, and Walter Brattain\u2014built a compact electronic device using thin gold wires and a piece of germanium, a material known as a semiconductor. Their invention, later named the transistor (for which they were awarded the Nobel Prize in 1956), could amplify and switch electrical&#8230;"
+      },
+      {
+        "id": "1cde74ff0d6d8074",
+        "title": "2025 Innovator of the Year: Sneha Goenka for developing an ultra-fast sequencing technology",
+        "url": "https://www.technologyreview.com/2025/09/08/1121509/innovator-of-the-year-sneha-goenka/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 08 Sep 2025 10:30:00 +0000",
+        "published_dt": "2025-09-08T10:30:00+00:00",
+        "summary": "Sneha Goenka is one of MIT Technology Review\u2019s 2025 Innovators Under 35.&#160;Meet the rest of this year\u2019s honorees.&#160; Up to a quarter of children entering intensive care have undiagnosed genetic conditions. To be treated properly, they must first get diagnoses\u2014which means having their genomes sequenced. This process typically takes up to seven weeks. Sadly, that\u2019s&#8230;"
+      },
+      {
+        "id": "96b15bbf4f754ae8",
+        "title": "Meet the Ethiopian entrepreneur who is reinventing ammonia production",
+        "url": "https://www.technologyreview.com/2025/09/08/1122179/iwnetim-abate-innovator-ammonia-production/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 08 Sep 2025 10:30:00 +0000",
+        "published_dt": "2025-09-08T10:30:00+00:00",
+        "summary": "Iwnetim Abate is one of MIT Technology Review\u2019s 2025 Innovators Under 35.&#160;Meet the rest of this year\u2019s honorees.&#160; \u201cI\u2019m the only one who wears glasses and has eye problems in the family,\u201d Iwnetim Abate says with a smile as sun streams in through the windows of his MIT office. \u201cI think it\u2019s because of the&#8230;"
+      },
+      {
+        "id": "01f60d792effac8d",
+        "title": "How Yichao \u201cPeak\u201d Ji became a global AI app hitmaker",
+        "url": "https://www.technologyreview.com/2025/09/08/1122642/ji-peak-yichao-innovator-manus-app-ai/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 08 Sep 2025 10:30:00 +0000",
+        "published_dt": "2025-09-08T10:30:00+00:00",
+        "summary": "Yichao \u201cPeak\u201d Ji is one of MIT Technology Review\u2019s 2025 Innovators Under 35.\u00a0Meet the rest of this year\u2019s honorees.\u00a0 When Yichao Ji\u2014also known as \u201cPeak\u201d\u2014appeared in a launch video for Manus in March, he didn\u2019t expect it to go viral. Speaking in fluent English, the 32-year-old introduced the AI agent built by Chinese startup Butterfly&#8230;"
+      },
+      {
         "id": "396ac0ba2cd1d46f",
         "title": "How Nauto\u2019s AI Dashcam Reduces Driver Risk and Accidents",
         "url": "https://spectrum.ieee.org/ai-dashcam-driver-safety-nauto",
@@ -837,42 +891,6 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/robotic-vacuum-from-eufy-on-a-dimly-lit-staircase-in-black-surroundings.png?id=61558584&amp;width=1200&amp;height=800&amp;coordinates=167%2C0%2C168%2C0\" /><br /><br /><p><span>Video Friday is your weekly selection of awesome robotics videos, collected by your friends at </span><em>IEEE Spectrum</em><span> robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please </span><a href=\"mailto:automaton@ieee.org?subject=Robotics%20event%20suggestion%20for%20Video%20Friday\">send us your events</a><span> for inclusion.</span></p><h5><a href=\"https://actuate.foxglove.dev/\">ACTUATE 2025</a>: 23\u201324 September 2025, SAN FRANCISCO</h5><h5><a href=\"https://www.corl.org/\">CoRL 2025</a>: 27\u201330 September 2025, SEOUL</h5><h5><a href=\"https://2025humanoids.org/\">IEEE Humanoids</a>: 30 September\u20132 October 2025, SEOUL</h5><h5><a href=\"https://worldrobotsummit.org/en/\">World Robot Summit</a>: 10\u201312 October 2025, OSAKA, JAPAN</h5><h5><a href=\"http://www.iros25.org/\">IROS 2025</a>: 19\u201325 October 2025, HANGZHOU, CHINA</h5><p>Enjoy today\u2019s videos!</p><div class=\"horizontal-rule\"></div><div><span style=\"display: none;\"> </span></div><p class=\"rm-anchors\" id=\"pcunho0cy9q\">This is ridiculous and I love it.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.eufy.com/\">Eufy</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"6epzte9ctzy\"><em>At ICRA 2024, We met Paul Nadan to learn about how his LORIS robot climbs up walls by sticking itself to rocks.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://paulnadan.com/\">CMU</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"8gfuuzdn4q8\">If a <a href=\"https://spectrum.ieee.org/humanoid-robots\" target=\"_blank\">humanoid robot</a> is going to load my dishwasher, I expect it to do so optimally, not all haphazardly like a puny human.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.figure.ai/\">Figure</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"tofpkw6d3ge\"><em>Humanoid robots have recently achieved impressive progress in locomotion and whole-body control, yet they remain constrained in tasks that demand rapid interaction with dynamic environments through manipulation. Table tennis exemplifies such a challenge: with ball speeds exceeding 5 m/s, players must perceive, predict, and act within sub-second reaction times, requiring both agility and precision. To address this, we present a hierarchical framework for humanoid table tennis that integrates a model-based planner for ball trajectory prediction and racket target planning with a reinforcement learning\u2013based whole-body controller.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://hybrid-robotics.berkeley.edu/\">Hybrid Robotics</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"8ebcsdnsgsg\"><em>Despite their promise, today\u2019s <a href=\"https://spectrum.ieee.org/eu-project-developing-symbiotic-robotplant-biohybrids\" target=\"_blank\">biohybrid robots</a> typically underperform their fully synthetic counterparts and their potential as predicted from a reductionist assessment of constituents. Many systems represent enticing proofs of concept with limited practical applicability.  Most remain confined to controlled laboratory settings and lack feasibility in complex real-world environments. Developing biohybrid robots is currently a painstaking, bespoke process, and the resulting systems are routinely inadequately characterized. Complex, intertwined relationships between component, interface, and system performance are poorly understood, and methodologies to guide informed design of biohybrid systems are lacking. The HyBRIDS ARC opportunity seeks ideas to address the question: How can synthetic and biological components be integrated to enable biohybrid platforms that outperform traditional robotic systems?</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.darpa.mil/research/programs/hybrids\">DARPA</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"vw7z5_sm7xa\"><em>Robotic systems will play a key role in future lunar missions, and a great deal of research is currently being conducted in this area. One such project is SAMLER-KI (Semi-Autonomous Micro Rover for Lunar Exploration Using Artificial Intelligence), a collaboration between the German Research Center for Artificial Intelligence (DFKI) and the University of Applied Sciences Aachen (FH Aachen), Germany. The project focuses on the conceptual design of a semi-autonomous micro rover that is capable of surviving lunar nights while remaining within the size class of a micro rover. During development, conditions on the Moon such as dust exposure, radiation, and the vacuum of space are taken into account, along with the 14-Earth-day duration of a lunar night.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://robotik.dfki-bremen.de/en/research/projects/samler-ki\">DFKI</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"8qw5l_yovz8\"><em>ARMstrong Dex is a human-scale dual-arm hydraulic robot developed by the Korea Atomic Energy Research Institute (KAERI) for disaster response applications. It is capable of lifting its own body through vertical pull-ups and manipulating objects over 50 kg, demonstrating strength beyond human capabilities. In this test, ARMstrong Dex used a handheld saw to cut through a thick 40\u00d790 mm wood beam. Sawing is a physically demanding task involving repetitive force application, fine trajectory control, and real-time coordination.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.kaeri.re.kr/eng/\">KAERI</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"ox9003uok9s\">This robot stole my \u201cOMG I HAVE JUICE\u201d face.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.pudurobotics.com/en/products/flashbot-arm\">Pudu Robotics</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"wjbxhdskx4g\">The best way of doging a punch to the face is to just have a big hole where your face should be.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>I do wish they wouldn\u2019t call it a combat robot, though.</p><p>[ <a href=\"https://www.unitree.com/\">Unitree</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"p_tfzznhaqs\">It really might be fun to have a DRC-style event for quadrupeds.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.deeprobotics.cn/en\">DEEP Robotics</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"zvnq0qirvp8\"><em>CMU researchers are developing new technology to enable robots to physically interact with people who are not able to care for themselves. These breakthroughs are being deployed in the real world, making it possible for individuals with neurological diseases, stroke, multiple sclerosis, ALS and dementia to be able to eat, clean and get dressed fully on their own.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://rchi-lab.github.io/\">CMU</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"acvscpemw4y\"><em>Caracol\u2019s additive manufacturing platforms use KUKA robotic arms to produce large-scale industrial parts with precision and flexibility. This video outlines how Caracol integrates multi-axis robotics, modular extruders, and proprietary software to support production in sectors like aerospace, marine, automotive, and architecture.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.kuka.com/it-it/settori/banca-dati-di-soluzioni/2025/09/caracol-case-study\">KUKA</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"chyxgtjvn0i\">There were a couple of robots at ICRA 2025, as you might expect.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://2026.ieee-icra.org/\">ICRA</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"mow0mvvlpc0\"><em>On June 6, 1990, following the conclusion of Voyager\u2019s planetary explorations, mission representatives held a news conference at NASA\u2019s Jet Propulsion Laboratory in Southern California to summarize key findings and answer questions from the media. In the briefing, Voyager\u2019s longtime project scientist Ed Stone, along with renowned science communicator Carl Sagan, also revealed the mission\u2019s  \u201cSolar System Family Portrait,\u201d a mosaic comprising images of six of the solar system\u2019s eight planets. Carl Sagan was a member of the Voyager imaging team and instrumental in capturing these images and bringing them to the public.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>Carl Sagan, man. Carl Sagan. Blue Dot unveil was right around 57:00, if you missed it.</p><p>[ <a href=\"https://www.jpl.nasa.gov/news/vintage-nasa-see-voyagers-1990-solar-system-family-portrait-debut/\">JPL</a> ]</p><div class=\"horizontal-rule\"></div>"
       },
       {
-        "id": "210b12d783c8a0bb",
-        "title": "The Download: longevity myths, and sewer-cleaning robots",
-        "url": "https://www.technologyreview.com/2025/09/05/1123207/the-download-longevity-myths-and-sewer-cleaning-robots/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 05 Sep 2025 12:10:00 +0000",
-        "published_dt": "2025-09-05T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Putin says organ transplants could grant immortality. Not quite. \u2014Jessica Hamzelou Earlier this week, my editor forwarded me a video of the leaders of Russia and China talking about immortality. \u201cThese days at&#8230;"
-      },
-      {
-        "id": "f57286391986686d",
-        "title": "Putin says organ transplants could grant immortality. Not quite.",
-        "url": "https://www.technologyreview.com/2025/09/05/1123113/putin-organ-transplants-immortality-longevity-replacement/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 05 Sep 2025 09:00:00 +0000",
-        "published_dt": "2025-09-05T09:00:00+00:00",
-        "summary": "This week I\u2019m writing from Manchester, where I\u2019ve been attending&#160;a conference on aging. Wednesday was full of talks and presentations by scientists who are trying to understand the nitty-gritty of aging\u2014all the way down to the molecular level. Once we can understand the complex biology of aging, we should be able to slow or prevent&#8230;"
-      },
-      {
-        "id": "4f2c4e86f7865b4f",
-        "title": "Imagining the future of banking with agentic AI",
-        "url": "https://www.technologyreview.com/2025/09/04/1123023/imagining-the-future-of-banking-with-agentic-ai/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 04 Sep 2025 16:21:23 +0000",
-        "published_dt": "2025-09-04T16:21:23+00:00",
-        "summary": "Agentic AI is coming of age. And with it comes new opportunities in the financial services sector. Banks are increasingly employing agentic AI to optimize processes, navigate complex systems, and sift through vast quantities of unstructured data to make decisions and take actions\u2014with or without human involvement. \u201cWith the maturing of agentic AI, it is&#8230;"
-      },
-      {
-        "id": "472438b828b8b319",
-        "title": "The Download: unnerving AI avatars, and Trump\u2019s climate gift to China",
-        "url": "https://www.technologyreview.com/2025/09/04/1123066/the-download-unnerving-ai-avatars-and-trumps-climate-gift-to-china/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 04 Sep 2025 12:10:00 +0000",
-        "published_dt": "2025-09-04T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Synthesia\u2019s AI clones are more expressive than ever. Soon they\u2019ll be able to talk back. \u2014Rhiannon Williams Earlier this summer, I visited the AI company Synthesia to give it what it needed to&#8230;"
-      },
-      {
         "id": "148193cb0e738185",
         "title": "Fiber to the Home",
         "url": "https://spectrum.ieee.org/steve-searcy-poem",
@@ -889,24 +907,6 @@
         "published": "Sun, 31 Aug 2025 14:00:02 +0000",
         "published_dt": "2025-08-31T14:00:02+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/silhouettes-climb-and-hang-from-a-large-rubiks-cube-against-a-bright-yellow-background.png?id=61524875&amp;width=1200&amp;height=800&amp;coordinates=126%2C0%2C127%2C0\" /><br /><br /><p>When I left Los Alamos National Laboratory to start a company 11 years ago, I thought my team was ready. We had developed a new class of quantum dots\u2014nanoscale particles of light-emitting semiconductor material that can be used in displays, solar cells, and more. Our technology was safer, more stable, and less expensive than <a href=\"https://spectrum.ieee.org/quantum-dots-nobel-prize\" target=\"_self\">existing quantum-dot materials</a>. The technical advantages were real, but I quickly learned that no amount of scientific merit guarantees market success.</p><p>For many tech-startup founders, this is an uncomfortable but necessary realization. You can build an elegant solution, but if it doesn\u2019t solve a meaningful problem in the market, it won\u2019t go anywhere commercially. The earlier you embrace that lesson, the better your odds of success.</p><h2>Your Invention Isn\u2019t the Business</h2><p>My background is in research. I have a Ph.D. in materials science from the <a href=\"https://illinois.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">University of Illinois\u2013Urbana-Champaign</a>, and I did a postdoc at <a href=\"https://www.lanl.gov/engage/organizations/cels/chemistry\" rel=\"noopener noreferrer\" target=\"_blank\">Los Alamos</a>, in New Mexico, working on nanomaterials in the chemistry division. My focus was always on advancing scientific knowledge, publishing papers, and in some cases filing patents. Like many researchers, I eventually grew tired of chasing citations and wanted to apply that work to the real world.</p><p>That\u2019s why I started <a href=\"https://www.ubiqd.com/\" rel=\"noopener noreferrer\" target=\"_blank\">UbiQD</a>. We had a material that solved the technical shortcomings of conventional quantum dots, which require toxic heavy metals like cadmium or lead and involve expensive manufacturing processes. However, when we first introduced it to the market, the conversations we had were eye-opening. People didn\u2019t care about the material for its own sake. They cared about whether it solved their problem, and the severity of the problem defined their urgency.</p><p>My advice: If you can\u2019t clearly explain how your technology makes someone\u2019s life easier, safer, more sustainable, or more profitable, you\u2019re not ready to sell it. </p><h2>\u201cThrowing It Over the Fence\u201d Doesn\u2019t Work</h2><p>Our early thinking was overly simplistic: Create better quantum dots, scale production, and let customers apply the technology to the industries that benefit from quantum dots\u2019 ability to manipulate light. We figured, if we make it, the customers will come. </p><p>To speed things up, we offered research-grade samples for testing. A number of early adopters asked for samples, but that \u201cthrow it over the fence\u201d approach <a href=\"https://spectrum.ieee.org/when-innovation-moves-too-fast\" target=\"_self\">typically doesn\u2019t work</a> with a novel enabling technology. Whether it\u2019s advanced materials, hardware, or software, you can\u2019t expect customers to figure out what solution works best; that\u2019s your job. </p><p>So before scaling your tech, spend time with potential customers. Listen more than you talk and identify their true pain points. Ask them what keeps them up at night. That\u2019s where the real opportunities lie: in the chances to provide a must-have painkiller, rather than a nice-to-have daily vitamin.</p><h2>Shelve the Ideas That Don\u2019t Fit</h2><p>One of the hardest lessons tech founders must learn is how to recognize when a beloved idea doesn\u2019t align with market needs. </p><p>Take <a href=\"https://spectrum.ieee.org/the-dawn-of-solar-windows\" target=\"_self\">solar windows</a> for greenhouses, one of the ideas we thought would be a hit but then had to shelve. Greenhouses spend a lot on electricity, so it seemed logical that they\u2019d want to generate electricity directly in the facade of the greenhouse. However, growers told us their biggest concern was crop yield, not operational costs. Light-absorbing windows could potentially cause a slight reduction in yield, and any such reduction\u2014even with energy savings\u2014would likely hurt their bottom line.</p><p class=\"pull-quote\"><span>That\u2019s where the real opportunities lie: in the chances to provide a must-have painkiller, rather than a nice-to-have daily vitamin.</span></p><p>So we paused the solar-window idea in 2018 and focused instead on a simpler, higher-impact product: greenhouse <a href=\"https://spectrum.ieee.org/quantum-dots-shift-sunlights-spectrum-to-speed-plant-growth\" target=\"_self\">films that shift the color of light</a> to help plants grow faster. The growers cared about yield, and that\u2019s what we addressed using our technology. This agricultural application is now one of UbiQD\u2019s main focus areas. </p><p>Don\u2019t get emotionally attached to one application or use case. If your company is built on a platform technology, stay flexible. The market will tell you where your technology fits\u2014and where it doesn\u2019t. </p><h2>Competition Means You\u2019re on the Right Track</h2><p>Many founders dread competition. I see it differently. When we entered the agriculture space, we saw other startups and a few large companies exploring similar ideas. That wasn\u2019t discouraging. It was validating. If no one else is working on the problem, it might not be a worthwhile opportunity. </p><p>Some startups also try to stay under the radar to gain an edge. But if potential partners or early customers don\u2019t know you\u2019re working on a problem, they can\u2019t contribute to, challenge, or help accelerate your solution. That said, differentiation matters. Our edge comes from robust intellectual property, technical depth, and years of hard-earned data. We\u2019ve had lots of help and input from outside the company, and some of our best customers found us first.</p><p>Expect and embrace competition, and don\u2019t be shy about it. Just make sure you have a defendable advantage\u2014whether through technology, partnerships, data, or expertise.</p><h2>Earn the Right to Expand</h2><p>As you begin to succeed in one market, you\u2019ll be tempted to expand quickly to others. But be cautious about moving too quickly. We\u2019ve turned down plenty of tempting market opportunities over the years because we hadn\u2019t earned the right to go after them yet.</p><p>For example, applying our materials to cosmetics or paints is exciting, but until we achieved sufficient production scale and cost reduction, it didn\u2019t make sense economically. Now that we\u2019ve lowered costs and built better infrastructure, those markets are back on the table, but we understood this only <em><em>after</em></em> studying potential customers and their needs.</p><p>Build scale and generate revenue in your first market, and only then explore adjacent opportunities. </p><h2>Advice I Wish I Had Heard Earlier</h2><p>If I could give my younger self just one piece of advice, it would be this: Fall in love with the problem first, then the solution.</p><p>As a tech-company founder, I spent years perfecting our technology and publishing papers about how great the science of the solutions is. Building a company, though, also means understanding your customers and the economics of solving their problems.</p><p>Science and engineering are critical, but so are customer discovery, <a href=\"https://spectrum.ieee.org/product-management-career\" target=\"_self\">product management</a>, and market research. Those skills are essential, and you\u2019ll probably need them sooner than you think.</p><p>So get out of the lab. Talk to potential customers as early as possible. Be ready to adapt as you listen. And remember, the value of your technology comes from the problem it solves.</p>"
-      },
-      {
-        "id": "6af13cf1a50f8751",
-        "title": "This DIY Test Equipment Could Save Your Radio",
-        "url": "https://spectrum.ieee.org/vintage-electronics-dim-bulb",
-        "source": "IEEE Spectrum",
-        "published": "Sat, 30 Aug 2025 13:00:02 +0000",
-        "published_dt": "2025-08-30T13:00:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-device-with-an-incandescent-bulb-projecting-from-its-top-two-analog-dials-and-some-controls-sits-on-top-of-a-radio-built-in.png?id=61517904&amp;width=1200&amp;height=800&amp;coordinates=0%2C426%2C0%2C426\" /><br /><br /><p>Recently I noticed an irresistible offer on Craigslist: a <a href=\"https://www.radiomuseum.org/r/majestic_3c70.html\" rel=\"noopener noreferrer\" target=\"_blank\">Majestic 3C70</a> AM/shortwave radio for just US $50. This model dates from the 1930s, when such radios came in gorgeous wooden cabinets. The specimen I stumbled on was still in the possession of the original owner, who used to listen to it with her family when she was a little girl. The wood and speaker fabric were nicely preserved, probably looking much as they when Japan attacked Pearl Harbor. I snatched it up.</p><p>I knew at the very least I\u2019d need to <a href=\"https://antiqueradio.org/recap.htm\" rel=\"noopener noreferrer\" target=\"_blank\">replace a bunch of capacitors</a>. But after scrutinizing the underside of the chassis, I realized I\u2019d be doing a lot more, as much of the original wire insulation had disintegrated. Thus began a journey that eventually led me to build my own version of a critical piece of restoration technology: a <a href=\"https://antiqueradio.org/dimbulb.htm\" rel=\"noopener noreferrer\" target=\"_blank\">dim-bulb tester</a>.</p><p>My journey started with online searching that turned up a circuit diagram for my radio, along with plenty of advice from vintage-electronics restoration experts. The chief piece of wisdom was \u201cBe careful.\u201d Even when new, electronics of the vacuum-tube era could be dangerous. Being the cautious type, I wanted to take all appropriate safety measures.</p><p>In particular, when working with tube-era electronics, you should resist the urge to just plug it in to see if it works. Decades-old paper and electrolytic capacitors are almost <a href=\"https://spectrum.ieee.org/vintage-audio-repair\" target=\"_self\">guaranteed to be bad</a>. And much else could be amiss as well. Instead, make the repairs and upgrades you determine are needed first. Even then, don\u2019t just plug in your relic and flip the power switch. Better to start it up gently to look for signs of trouble.</p><h2>How Does a Dim-Bulb Tester Work?</h2><p>But how do you turn on old equipment gently? That concept was foreign to me, having grown up in the transistor era. And this is when I learned about dim-bulb testers. They take advantage of the fact that the resistance of an ordinary incandescent light bulb increases markedly as the filament heats up. The tester sits between your device and the wall plug. The bulb is wired in series to the power line and acts as a current limiter: Even if a component or wire in your device fails and causes a short, the current flowing into the device won\u2019t exceed the current that would normally flow through the bulb. You can control the maximum current by using bulbs of different wattages.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Key components for the dim bulb tester\" class=\"rm-shortcode\" id=\"b839d\" src=\"https://spectrum.ieee.org/media-library/key-components-for-the-dim-bulb-tester.png?id=61517921&amp;width=980\" /> <small class=\"image-media media-caption\">Caption: Because the dim-bulb tester relies on an incandescent bulb [top middle], a certain retro look is guaranteed. I leaned into this aesthetic by using vintage analog meters [top left and right], and having a metal front panel custom-made by a sign maker [bottom].</small><small class=\"image-media media-photo-credit\">James Provost</small></p><p>Sure, you can cobble together such a tester using just an outlet box, a lamp base, and a switch. But I decided to go all out on the safety front and build a more fully featured dim-bulb tester, something akin to <a href=\"https://www.stagecue.com/variac.html\" target=\"_blank\">a design that I saw online</a> that includes a variable transformer along with panel meters to monitor voltage and current. And for fun, I decided to give my tester a vintage look.</p><p>I hunted on eBay for vintage bits and pieces (or ones that could pass as vintage). While the effort to make my tester look old increased the cost and slowed construction, I was beginning to like the idea of restoring old electronics as a new hobby, so I figured: Why not?</p><p class=\"ieee-inbody-related\">RELATED: <a href=\"https://spectrum.ieee.org/vintage-audio-repair\" target=\"_self\">Turn a Vintage Hi-Fi Into a Modern Entertainment Center</a></p><p>The end result was a unit that included two<a href=\"https://www.triplett.com/pages/overview\" rel=\"noopener noreferrer\" target=\"_blank\"> Triplett</a> analog panel meters that, best I can figure out, date from shortly after the Second World War. It also includes three indicator lights that must be from the 1950s. They adorn a front panel that I fabricated by ordering<a href=\"https://www.signs.com/aluminum/\" rel=\"noopener noreferrer\" target=\"_blank\"> a custom aluminum sign</a> and cutting the openings using hole saws.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"An electronic schematic.\" class=\"rm-shortcode\" id=\"fc4bb\" src=\"https://spectrum.ieee.org/media-library/an-electronic-schematic.png?id=61517931&amp;width=980\" /> <small class=\"image-media media-caption\">The dim-bulb tester allows me to ramp up the voltage applied to old equipment. The resistance of the bulb prevents damaging current flows to the equipment while looking for any signs of troublet.</small><small class=\"image-media media-photo-credit\">James Provost</small></p><p>Choosing the proper enclosure for my ersatz test instrument was one of the bigger challenges. Large enclosures tend to be expensive, and I also struggled to find something that wouldn\u2019t have looked out of place in the TV repair shops of my youth. The solution was to purchase a damaged vintage test instrument (a<a href=\"https://www.crowave.com/blog/2019/07/23/signal-generator-eico-model-315/\" target=\"_blank\"> tube-equipped signal generator</a>), pull the chassis out, and use its painted steel enclosure. I bought it for less than I would\u2019ve paid for a new enclosure. I also bought a small collection of incandescent light bulbs of different wattages. Assembling my tester was straightforward.</p><p>I wasn\u2019t quite done, though. In my investigations into how repair vintage electronics safely, I learned about using an isolation transformer to help protect against shocks. I toyed with the idea of building one into my dim-bulb tester\u2019s enclosure, but I decided it was more practical to purchase a stand-alone unit. I got a used one for a good price, but it took some work to fix and modify it so that it truly isolated the input from the output. (Oddly enough, commercial units don\u2019t typically offer full isolation\u2014you have to<a href=\"https://www.radioradar.net/en/measurements_technics/vintage_tube_radio_restoration.html\" rel=\"noopener noreferrer\" target=\"_blank\"> mod them for this</a>.) I figure that I can just plug my device into my dim-bulb tester, plug the tester into the isolation transformer, then plug the transformer into the wall.</p>With my completed tester ready to go, I carefully examined the wiring and components of my Majestic radio and ordered what I think I\u2019ll need to fix it. I\u2019ve just received the box of components from <a href=\"https://www.mouser.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Mouser</a>, so repair and live testing will begin shortly. I should add that while working on my dim-bulb tester, I couldn\u2019t resist making another $50 antique-radio purchase: a Zenith AM/FM tabletop radio from the late 1950s. The person I bought it from said that it works, but I now know there\u2019s a right way and a wrong way to verify that assertion. So I\u2019ve got plenty to keep me busy in my newfound hobby\u2014along with the gear I need to pursue it safely."
-      },
-      {
-        "id": "787ecd9d1ccb6442",
-        "title": "The Karaoke Machine\u2019s Surprising Origin",
-        "url": "https://spectrum.ieee.org/karaoke-machine-ieee-milestone",
-        "source": "IEEE Spectrum",
-        "published": "Fri, 29 Aug 2025 18:00:02 +0000",
-        "published_dt": "2025-08-29T18:00:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/shigeichi-negishis-sparko-box-which-was-the-first-karaoke-machine-created-in-1967.jpg?id=61530265&amp;width=1200&amp;height=800&amp;coordinates=0%2C137%2C0%2C138\" /><br /><br /><p>Belting your <a href=\"https://spectrum.ieee.org/video-friday-alter-3-robot-conductor\" target=\"_blank\">favorite song</a> over prerecorded music into a microphone in front of friends and strangers at karaoke is a popular way for people around the world to destress after work or celebrate a friend\u2019s birthday. The idea for the karaoke machine didn\u2019t come from a singer or a large entertainment company but from <a href=\"https://nichiden-kogyo.co.jp/en/\" rel=\"noopener noreferrer\" target=\"_blank\">Nichiden Kogyo</a>, a small electronics assembly company in Tokyo.</p><p>The company\u2019s founder, <a href=\"https://en.wikipedia.org/wiki/Shigeichi_Negishi\" rel=\"noopener noreferrer\" target=\"_blank\">Shigeichi Negishi</a>, was singing to himself at work one day in 1967 when an employee jokingly told him he was out of tune. Figuring that singing along to music would help him stay on pitch, Negishi began thinking about how to make that possible. He had the idea to turn one of the 8-track tape decks his company manufactured into what is now known as the karaoke machine.</p><p>Later that year, he built what would become the first such machine, which he called the Music Box. The 30-centimeter cube housed an 8-track player for four tapes of instrumental recordings and included a microphone to sing into.</p><p>He sold his machine in 1967 to a Japanese trading company, which then sold it to restaurants, bars, and hotel banquet halls, where they used it as entertainment.</p><p>The machine was coined <em><em>karaoke</em></em> in the 1970s to describe the act of singing along to prerecorded music. The term is a combination of two Japanese words: <em><em>kara</em></em>, meaning <em><em>empty</em></em>, and <em><em>okesutora</em></em>, meaning <em><em>orchestra</em></em>.</p><p>In a few years, dedicated establishments known as karaoke bars began to open across Japan. Today the country has more than 8,000, according to <a href=\"https://www.statista.com/topics/10306/karaoke-industry-in-japan/\" rel=\"noopener noreferrer\" target=\"_blank\">Statista</a>.</p><p>The karaoke machine has been commemorated as an <a href=\"https://ieeemilestones.ethw.org/Main_Page\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Milestone</a>. The dedication ceremony was held in June in the area that houses karaoke booths connected to the <a href=\"https://www.princehotels.com/shinagawa/\" rel=\"noopener noreferrer\" target=\"_blank\">Shinagawa Prince Hotel</a> in Tokyo. Negishi\u2019s family attended the event along with IEEE leaders. Negishi died last year at the age of 100.</p><p>He was grateful that people enjoy karaoke around the world, his son, Akihiro Negishia, said at the ceremony, \u201cthough he didn\u2019t imagine it to spread globally when he created it.\u201d</p><h2>Accidentally inventing one of the world\u2019s favorite pastimes</h2><p>Shigeichi Negishi grew up in Tokyo, where his mother ran a tobacco store and his father oversaw regional elections as a government official. After earning a bachelor\u2019s degree in economics from <a href=\"https://www.global.hosei.ac.jp/en/\" rel=\"noopener noreferrer\" target=\"_blank\">Hosei University</a> in Tokyo, he was drafted into the <a href=\"https://en.wikipedia.org/wiki/Imperial_Japanese_Army\" rel=\"noopener noreferrer\" target=\"_blank\">Imperial Japanese Army</a> during World War II. He became a prisoner of war and spent two years in Singapore before being released in 1947.</p><p>He returned to Tokyo and sold cameras for electrical parts manufacturer <a href=\"https://en.wikipedia.org/wiki/Olympus_Corporation\" rel=\"noopener noreferrer\" target=\"_blank\">Olympus Corp</a>. In 1956 he started Nichiden Kogyo, which manufactured and assembled portable radios for the home and car, according to the <a href=\"https://ieeemilestones.ethw.org/Milestone-Proposal:First_Karaoke_Machine,_1967\" rel=\"noopener noreferrer\" target=\"_blank\">Engineering and Technology History Wiki entry</a> about the karaoke machine.</p><p>Negishi would start each morning singing along to the \u201cPop Songs Without Lyrics\u201d radio show, according to a <a href=\"https://www.forbes.com/sites/tomcoughlin/2025/06/23/advancing-technology-for-the-pursuit-of-happiness/\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>Forbes</em></em></a> article. He typically didn\u2019t sing in the office, but one fateful day he did. Negishi was inspired to engineer one of the 8-track tape decks his company manufactured into what is now known as the karaoke machine</p><p>An 8-track tape deck can play and record audio using magnetic tape cartridges. Nichiden Kogyo\u2019s Music Box was a 30-centimeter cube with slots to insert four 8-track tapes on the top panel, with control buttons to play, stop, or skip to the next song.</p><p>Inside each 13-centimeter-long rectangular 8-track cartridge is a loop of almost 1 cm-wide magnetic tape that is coiled around a circular reel, as explained in an <a href=\"https://everpresent.com/when-did-the-8-track-come-out/#:~:text=Inside%20each%208%20track%20tape,tracks%20for%20sale%20on%20Google\" rel=\"noopener noreferrer\" target=\"_blank\">EverPresent blog post on the technology</a>. A small motor inside each cartridge pulls the tape across an audio head inside the player, which reads the magnetic patterns and translates them into sound. Each tape had a metal sensing strip that notified a solenoid coil located in the player when a song had ended or if a person pressed the button to switch to the next song, according to an <a href=\"https://www.instructables.com/8-Track-Walkman-Pod-thing-Retro-tech/\" rel=\"noopener noreferrer\" target=\"_blank\">Autodesk Instribules blog post</a>. The coil created a magnetic field when electricity passed through it\u2014which rotated the spindle on which the audio head was mounted to move to the next track on the tape. Each tape could hold about eight songs.</p><p>Negishi added a microphone amplifier to the player\u2019s top panel, as well as a mixing circuit. The user could adjust the volume of the music and the microphone.</p><p>He also recorded 20 of his favorite songs onto the tapes and printed out the lyrics on cardstock. He tested the machine by singing a popular ballad, \u201cMujo no Yume\u201d (\u201cThe Heartless Dream\u201d).</p><p>\u201cIt works! That\u2019s all I was thinking,\u201d Negishi told reporter <a href=\"https://www.mattalt.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Matt Alt</a> years later, when asked what his thoughts were the first time he tested the Music Box. Alt wrote <a href=\"https://www.pureinventionbook.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>Pure Invention: How Japan Made the Modern World</em></em></a>. </p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Close-up of the coin timer on a 1967 karaoke machine.\" class=\"rm-shortcode\" id=\"35bef\" src=\"https://spectrum.ieee.org/media-library/close-up-of-the-coin-timer-on-a-1967-karaoke-machine.jpg?id=61530273&amp;width=980\" /> <small class=\"image-media media-caption\">In 1969 engineers at Tokyo-based trading company Kokusai Shohin added a coin acceptor to the machine, renaming the Music Box the Sparko Box.</small><small class=\"image-media media-photo-credit\">Dr. Tomohiro Hase</small></p><p>The fees to file a patent were too expensive, according to the ETHW entry, so in 1967 Negishi sold the rights to the machine to Mitsuyoshi Hamasu, a salesman at Kokusai Shohin. The Tokyo-based trading company began selling and leasing the machines by the end of the year.</p><p>In 1969 engineers at Kokusai Shohin added a coin acceptor to the machine. The company renamed the Music Box the Sparko Box. In six years, about 8,000 units were sold, Hamasu said in <a href=\"https://www.karaoke.or.jp/03nenpyo/shogen2.php#hamasu\" target=\"_blank\">an interview about the rise of karaoke</a>.</p><p>Karaoke became so popular that in the 1980s, venues and bars specializing in soundproofed rooms known as <em><em>karaoke boxes</em></em> emerged. Groups could rent the rooms by the hour.</p><p>Negishi\u2019s family owns the first Music Box he made. It still works.</p><p>The Milestone plaque recognizing the karaoke machine is on display in front of the former headquarters of Nichiden Kogyo, which Negishi turned into a tobacco shop after he retired. The shop is now owned by his daughter. The plaque reads:</p><p><em><em>\u201cThe first karaoke machine was created in 1967 by mixing live vocals with prerecorded accompaniment for public entertainment, leading to its worldwide popularity. Created by Shigeichi Negishi of Nichiden Kogyo, and originally called Music Box (later Sparko Box), it included a mixer, microphone, and 8-track tape player, with a coin payment system to charge the singer. An early operational machine has been displayed at the original company site in Tokyo.\u201d</em></em></p>Administered by the <a href=\"https://www.ieee.org/about/history-center\" target=\"_blank\">IEEE History Center</a> and supported by<a href=\"https://secure.ieeefoundation.org/site/Donation2?df_id=1680&amp;mfc_pref=T&amp;1680.donation=form1\" rel=\"noopener noreferrer\" target=\"_blank\"> donors</a>, the <a href=\"https://spectrum.ieee.org/fft-algorithm-ieee-milestone\" target=\"_blank\">Milestone program</a> recognizes outstanding technical developments around the world. The <a href=\"https://ieee-jp.org/section/tokyo/en/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Tokyo Section</a> sponsored the nomination."
       }
     ]
   }
