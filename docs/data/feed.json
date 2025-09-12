@@ -1,24 +1,60 @@
 {
-  "generated_at": "2025-09-11T12:47:55.822353+00:00",
+  "generated_at": "2025-09-12T12:46:51.042821+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "eb10be5b59d39a8a",
-        "title": "The Download: Trump\u2019s impact on science, and meet our climate and energy honorees",
-        "url": "https://www.technologyreview.com/2025/09/11/1123534/the-download-trumps-impact-on-science-and-meet-our-climate-and-energy-honorees/",
+        "id": "9b0cbb777431525a",
+        "title": "The Download: America\u2019s gun crisis, and how AI video models work",
+        "url": "https://www.technologyreview.com/2025/09/12/1123577/the-download-americas-gun-crisis-and-how-ai-video-models-work/",
         "source": "MIT Technology Review",
-        "published": "Thu, 11 Sep 2025 12:10:00 +0000",
-        "published_dt": "2025-09-11T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How Trump\u2019s policies are affecting early-career scientists\u2014in their own words Every year MIT Technology Review celebrates accomplished young scientists, entrepreneurs, and inventors from around the world in our Innovators Under 35 list. We\u2019ve&#8230;"
+        "published": "Fri, 12 Sep 2025 12:10:00 +0000",
+        "published_dt": "2025-09-12T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We can\u2019t \u201cmake American children healthy again\u201d without tackling the gun crisis This week, the Trump administration released a strategy for improving the health and well-being of American children. The report was titled\u2014you&#8230;"
       },
       {
-        "id": "4b5a00d92c49a764",
-        "title": "STAT+: Piercing the hype around Patrick Soon-Shiong\u2019s \u2018Bioshield\u2019 cancer treatment",
-        "url": "https://www.statnews.com/2025/09/11/soon-shiong-immunitybio-cancer-trial-results/?utm_campaign=rss",
+        "id": "3414ce0f0a1854ec",
+        "title": "How do AI models generate videos?",
+        "url": "https://www.technologyreview.com/2025/09/12/1123562/how-do-ai-models-generate-videos/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 12 Sep 2025 10:01:44 +0000",
+        "published_dt": "2025-09-12T10:01:44+00:00",
+        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. It\u2019s been a big year for video generation. In the last nine months OpenAI made Sora public, Google DeepMind launched Veo 3, the video startup Runway&#8230;"
+      },
+      {
+        "id": "919e8ef4615a1636",
+        "title": "STAT+: Let the rulemaking begin: Why direct-to-consumer drug ads deserve a closer look",
+        "url": "https://www.statnews.com/2025/09/12/fda-advertising-medicines-consumers-free-speech/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Thu, 11 Sep 2025 10:30:00 +0000",
-        "published_dt": "2025-09-11T10:30:00+00:00",
-        "summary": "Why trial results\u00a0presented\u00a0earlier this week do not support the claim made by billionaire physician Patrick Soon-Shiong."
+        "published": "Fri, 12 Sep 2025 08:30:00 +0000",
+        "published_dt": "2025-09-12T08:30:00+00:00",
+        "summary": "Direct-to-consumer drug ads deserve a closer look. Here's why."
+      },
+      {
+        "id": "4528e4e1ffc0c5c1",
+        "title": "STAT+: After lagging far behind, NIH now seems on pace to spend its entire $47 billion budget by Sept. 30",
+        "url": "https://www.statnews.com/2025/09/12/nih-spending-47-billion-budget/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 12 Sep 2025 08:30:00 +0000",
+        "published_dt": "2025-09-12T08:30:00+00:00",
+        "summary": "A frenzy of grantmaking in August has the NIH seemingly on pace to spend its entire $47 billion budget by the end of the fiscal year on Sept. 30"
+      },
+      {
+        "id": "a5a5e721beec0633",
+        "title": "Opinion: If RFK Jr. doesn\u2019t resign, physicians should join a limited strike",
+        "url": "https://www.statnews.com/2025/09/12/rfk-jr-resignation-doctors-strike/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 12 Sep 2025 08:30:00 +0000",
+        "published_dt": "2025-09-12T08:30:00+00:00",
+        "summary": "If Kennedy doesn\u2019t resign, physicians should join a limited strike. Desperate diseases call for desperate measures."
+      },
+      {
+        "id": "05ae24c8a00ef7ba",
+        "title": "Opinion: \u2018The Pitt\u2019 accurately shows emergency care, but misses one critical detail: hospital bills",
+        "url": "https://www.statnews.com/2025/09/12/the-pitt-emergency-care-emmys-hospital-bills/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 12 Sep 2025 08:30:00 +0000",
+        "published_dt": "2025-09-12T08:30:00+00:00",
+        "summary": "\"The Pitt,\" nominated for 13 Emmys, ignores the financial consequences of emergency care. The average ED visit costs $750, and costs can quickly soar."
       },
       {
         "id": "cb07fa481222066e",
@@ -30,15 +66,6 @@
         "summary": "Capsida Biotherapeutics has paused a gene therapy clinical trial after the first patient died. The biotech, which began the phase 1/2 study in July, took the action to give it time to determine the root cause of the death."
       },
       {
-        "id": "8bcded47ffd63a48",
-        "title": "STAT+: Psychedelics are suddenly drawing interest from big drugmakers",
-        "url": "https://www.statnews.com/2025/09/11/pharma-companies-investing-psychedelic-treatments/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 11 Sep 2025 08:30:00 +0000",
-        "published_dt": "2025-09-11T08:30:00+00:00",
-        "summary": "Big pharmaceutical companies are getting more comfortable with psychedelic drugs, despite the FDA\u2019s rejection of MDMA last year."
-      },
-      {
         "id": "3772c9cb0243dbf1",
         "title": "STAT+: Child dies after receiving new experimental gene therapy",
         "url": "https://www.statnews.com/2025/09/10/child-dies-after-receiving-new-experimental-gene-therapy/?utm_campaign=rss",
@@ -46,42 +73,6 @@
         "published": "Wed, 10 Sep 2025 23:51:50 +0000",
         "published_dt": "2025-09-10T23:51:50+00:00",
         "summary": "The first child to receive a new experimental gene therapy for a rare neurological disorder died a few days after dosing, the company sponsoring the trial said."
-      },
-      {
-        "id": "ec9315acd7cb1d38",
-        "title": "Opinion: The MAHA kids\u2019 health report missed an important opportunity on children and non-sugar sweeteners",
-        "url": "https://www.statnews.com/2025/09/11/maha-healthy-kids-non-sugar-sweeteners-deserve-scrutiny/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 11 Sep 2025 08:30:00 +0000",
-        "published_dt": "2025-09-11T08:30:00+00:00",
-        "summary": "Non-sugar sweeteners are widespread in the food supply, yet we know far too little about their effects on children, two nutrition researchers write."
-      },
-      {
-        "id": "f3290fa3660205b0",
-        "title": "Dropping hepatitis B shots for newborns would ignore history and endanger children, scientists warn",
-        "url": "https://www.statnews.com/2025/09/11/newborn-hep-b-vaccine-debate-how-it-started/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 11 Sep 2025 08:30:00 +0000",
-        "published_dt": "2025-09-11T08:30:00+00:00",
-        "summary": "People who study, treat, or have hepatitis B say ending routine vaccination at birth - as some vaccine critics want - could lead to a resurgence of the virus."
-      },
-      {
-        "id": "3c38a1770a000f0c",
-        "title": "Opinion: Ebola outbreak in the Democratic Republic of Congo is a warning",
-        "url": "https://www.statnews.com/2025/09/11/ebola-drc-kasai-outbreak-us-global-health-who-usaid/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 11 Sep 2025 08:30:00 +0000",
-        "published_dt": "2025-09-11T08:30:00+00:00",
-        "summary": "\u201cEbola is never just a virus; it is a mirror,\u201d writes infectious disease physician Krutika Kuppalli."
-      },
-      {
-        "id": "d3f6da66e0fced90",
-        "title": "Texas banned lab-grown meat. What\u2019s next for the industry?",
-        "url": "https://www.technologyreview.com/2025/09/11/1123512/texas-lab-grown-meat/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 11 Sep 2025 08:00:00 +0000",
-        "published_dt": "2025-09-11T08:00:00+00:00",
-        "summary": "Last week, a legal battle over lab-grown meat kicked off in Texas. On September 1, a two-year ban on the technology went into effect across the state; the following day, two companies filed a lawsuit against state officials. The two companies, Wildtype Foods and Upside Foods, are part of a growing industry that aims to&#8230;"
       },
       {
         "id": "f9ed1c2ad0793dc5",
@@ -93,13 +84,40 @@
         "summary": "PMV Pharmaceuticals has reported a 43% response rate in a midphase ovarian cancer trial, putting the biotech on a track it believes will lead to a filing for FDA approval in the first quarter of 2027.<br />"
       },
       {
-        "id": "e092a5bfe5d8c845",
-        "title": "STAT+: House appropriators snub Kennedy, include mRNA vaccine funding in spending bill",
-        "url": "https://www.statnews.com/2025/09/10/mrna-vaccine-research-barda-rfk-jr/?utm_campaign=rss",
+        "id": "b0f6d722f5ee76ec",
+        "title": "STAT+: FDA pushing non-opioid path for chronic pain",
+        "url": "https://www.statnews.com/2025/09/11/fda-non-opioid-painkillers-psychedelics-soon-shiong/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 10 Sep 2025 20:12:08 +0000",
-        "published_dt": "2025-09-10T20:12:08+00:00",
-        "summary": "Lawmakers have snubbed health secretary RFK Jr. by including an amendment in a spending bill mandating that an agency under his purview continue to research messenger RNA vaccines."
+        "published": "Thu, 11 Sep 2025 15:49:05 +0000",
+        "published_dt": "2025-09-11T15:49:05+00:00",
+        "summary": "The FDA is aiming to reduce reliance on opioids by providing guidance on the development of prescription non-opioid treatments for chronic pain."
+      },
+      {
+        "id": "e2d4bfe5f2c095a0",
+        "title": "STAT+: FDA will convene an advisory committee to tackle AI mental health device regulation",
+        "url": "https://www.statnews.com/2025/09/11/fda-dhac-digital-health-ai-mental-health/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 11 Sep 2025 14:32:41 +0000",
+        "published_dt": "2025-09-11T14:32:41+00:00",
+        "summary": "The FDA will convene experts on Nov. 6 to discuss challenges around regulating mental health products that use artificial intelligence."
+      },
+      {
+        "id": "4b5a00d92c49a764",
+        "title": "STAT+: Piercing the hype around Patrick Soon-Shiong\u2019s \u2018Bioshield\u2019 cancer treatment",
+        "url": "https://www.statnews.com/2025/09/11/soon-shiong-immunitybio-cancer-trial-results/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 11 Sep 2025 10:30:00 +0000",
+        "published_dt": "2025-09-11T10:30:00+00:00",
+        "summary": "Why trial results\u00a0presented\u00a0earlier this week do not support the claim made by billionaire physician Patrick Soon-Shiong."
+      },
+      {
+        "id": "8bcded47ffd63a48",
+        "title": "STAT+: Psychedelics are suddenly drawing interest from big drugmakers",
+        "url": "https://www.statnews.com/2025/09/11/pharma-companies-investing-psychedelic-treatments/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 11 Sep 2025 08:30:00 +0000",
+        "published_dt": "2025-09-11T08:30:00+00:00",
+        "summary": "Big pharmaceutical companies are getting more comfortable with psychedelic drugs, despite the FDA\u2019s rejection of MDMA last year."
       },
       {
         "id": "040d186cc822d8ff",
@@ -129,15 +147,6 @@
         "summary": "Clinical software developer PhaseV is teaming up with another global CRO, unveiling a plan to infuse its trial design platform into Bioforum\u2019s services."
       },
       {
-        "id": "5169db9231590f07",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lb-pharmaceuticals-upsizes-ipo-285m-first-biotech-listing-months\" hreflang=\"en\">LB Pharmaceuticals upsizes IPO to $285M in 1st biotech listing in months</a>",
-        "url": "https://www.fiercebiotech.com/biotech/lb-pharmaceuticals-upsizes-ipo-285m-first-biotech-listing-months",
-        "source": "Fierce Biotech",
-        "published": "Sep 11, 2025 4:11am",
-        "published_dt": "2025-09-11T04:11:00+00:00",
-        "summary": "LB Pharmaceuticals\u2019 decision to break cover and go public seems to have paid off, with the company bumping up the number of shares on offer for its Nasdaq listing this morning."
-      },
-      {
         "id": "554e2e97d8364551",
         "title": "<a href=\"https://www.fiercebiotech.com/research/breath-taking-2b-gift-oregons-knight-cancer-institute-tightens-laces-race-top-oncology\" hreflang=\"en\">With 'breathtaking' $2B gift, Oregon's Knight Cancer Institute tightens laces for race to the top</a>",
         "url": "https://www.fiercebiotech.com/research/breath-taking-2b-gift-oregons-knight-cancer-institute-tightens-laces-race-top-oncology",
@@ -147,159 +156,168 @@
         "summary": "What\u2019s the best way to spend $2 billion? That\u2019s the pleasant problem facing oncology legend Brian Druker, M.D., as he stewards what is thought to be the largest educational donation in history from Nike co-founder Phil Knight and his wife Penny.<br />"
       },
       {
-        "id": "0849ccd089750d1d",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/capricor-shares-response-cell-therapy-denial-after-fda-publicly-releases-rejection-letter\" hreflang=\"en\">FDA misinterpreted efficacy data that prompted DMD rejection, Capricor claims</a>",
-        "url": "https://www.fiercebiotech.com/biotech/capricor-shares-response-cell-therapy-denial-after-fda-publicly-releases-rejection-letter",
+        "id": "d5fa943466e8298b",
+        "title": "Trump, Chinese biotech, and an industry career reshaped by illness",
+        "url": "https://www.statnews.com/2025/09/11/trump-chinese-biotech-crackdown-readout-loud-podcast/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 11 Sep 2025 18:06:38 +0000",
+        "published_dt": "2025-09-11T18:06:38+00:00",
+        "summary": "This week on \"The Readout LOUD\": A drug-industry career reshaped by illness, and the potential for political blowback against Chinese biotech."
+      },
+      {
+        "id": "c9edb7cc0a466240",
+        "title": "We can\u2019t \u201cmake American children healthy again\u201d without tackling the gun crisis",
+        "url": "https://www.technologyreview.com/2025/09/11/1123553/maha-report-gun-violence-checkup/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 11 Sep 2025 16:57:00 +0000",
+        "published_dt": "2025-09-11T16:57:00+00:00",
+        "summary": "Note for readers: This newsletter discusses gun violence, a raw and tragic issue in America. It was already in progress on Wednesday when a school shooting occurred at Evergreen High School in Colorado and Charlie Kirk was shot and killed at Utah Valley University.&#160; Earlier this week, the Trump administration\u2019s Make America Healthy Again movement&#8230;"
+      },
+      {
+        "id": "43cf49c559f93305",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-takeda-taps-longtime-lilly-exec-us-head\" hreflang=\"en\">Chutes &amp; Ladders\u2014Takeda taps longtime Lilly exec as US head</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-takeda-taps-longtime-lilly-exec-us-head",
         "source": "Fierce Biotech",
-        "published": "Sep 9, 2025 11:13am",
-        "published_dt": "2025-09-09T11:13:00+00:00",
-        "summary": "Capricor Therapeutics has publicly released its July response to the FDA's rejection of its Duchenne muscular dystrophy cell therapy deramiocel after the agency included deramiocel in a new batch of complete response letters released Sept. 4."
+        "published": "Sep 11, 2025 4:55pm",
+        "published_dt": "2025-09-11T16:55:00+00:00",
+        "summary": "With its head of U.S. business Julie Kim sliding up to the CEO spot next June, Takeda has locked in a replacement in Rhona Pacheco. Pacheco is set to leave behind her role as Eli Lilly\u2019s VP of U.S. cardiometabolic health, the most recent title she\u2019s held along her 20-year tenure at Lilly which saw her overseeing the company\u2019s booming GLP-1 drug portfolio."
       },
       {
-        "id": "e2d28e6c8cbbabdd",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizer-vet-takes-ceo-post-new-phase-3-ready-regenerative-medicine-biotech\" hreflang=\"en\">Pfizer vet takes CEO post at new, phase 3-ready regenerative medicine biotech</a>",
-        "url": "https://www.fiercebiotech.com/biotech/pfizer-vet-takes-ceo-post-new-phase-3-ready-regenerative-medicine-biotech",
+        "id": "2b50904c87252863",
+        "title": "STAT+: Scientists who revolutionized cystic fibrosis treatment win prestigious Lasker Award",
+        "url": "https://www.statnews.com/2025/09/11/lasker-award-cycstic-fibrosis-treatments/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 11 Sep 2025 16:15:29 +0000",
+        "published_dt": "2025-09-11T16:15:29+00:00",
+        "summary": "Three scientists who revolutionized the treatment of cystic fibrosis and prolonged the lifespan of patients with the deadly disease have won the Lasker Award."
+      },
+      {
+        "id": "29207d890eb4e7ab",
+        "title": "STAT+: Fifty cancer types in one liquid biopsy test: Exact Sciences enters early-detection market",
+        "url": "https://www.statnews.com/2025/09/11/exact-sciences-cancerguard-liquid-biopsy-multi-cancer-test/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 11 Sep 2025 16:09:12 +0000",
+        "published_dt": "2025-09-11T16:09:12+00:00",
+        "summary": "A new liquid biopsy test from Exact Sciences scans for 50 cancers in one blood sample. The company says it marks a new era in early detection, but there are&#8230;"
+      },
+      {
+        "id": "ea29cd52d64a83ac",
+        "title": "The latest data on chronic disease deaths",
+        "url": "https://www.statnews.com/2025/09/11/chronic-disease-deaths-data-morning-rounds-newsletter/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 11 Sep 2025 13:44:35 +0000",
+        "published_dt": "2025-09-11T13:44:35+00:00",
+        "summary": "In today's Morning Rounds newsletter, the latest data on chronic disease deaths, new pharma interest in psychedelics, and more."
+      },
+      {
+        "id": "ee17de262c08ecf6",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about Merck halting U.K. research plans, pharma interest in psychedelics, and more",
+        "url": "https://www.statnews.com/pharmalot/2025/09/11/merck-uk-psychedelics-gene-therapy-zentiva-fda-pain/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 11 Sep 2025 13:26:12 +0000",
+        "published_dt": "2025-09-11T13:26:12+00:00",
+        "summary": "Merck decided to halt research operations in the U.K. and bail on a major London research center, in part to protest how the country pays for medicines"
+      },
+      {
+        "id": "79d0e197efc8d6e5",
+        "title": "<a href=\"https://www.fiercebiotech.com/research/custom-gene-editor-fixes-mutation-causing-deadly-ultrarare-vascular-disease-mice\" hreflang=\"en\">Custom gene editor fixes mutation causing deadly ultrarare vascular disease in mice</a>",
+        "url": "https://www.fiercebiotech.com/research/custom-gene-editor-fixes-mutation-causing-deadly-ultrarare-vascular-disease-mice",
         "source": "Fierce Biotech",
-        "published": "Sep 9, 2025 10:05am",
-        "published_dt": "2025-09-09T10:05:00+00:00",
-        "summary": "Pfizer veteran Suneet Varma has found his next role. Months after leaving the Big Pharma, Varma has taken the CEO position at the newly created inflammation and immunology startup Intent Biologics."
-      },
-      {
-        "id": "4e73042db0cc39c6",
-        "title": "Risk of dying from chronic disease in the U.S. declined, but there are caveats, study says",
-        "url": "https://www.statnews.com/2025/09/10/chronic-disease-deaths-lancet-study-finds-america-lagging/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 10 Sep 2025 22:30:00 +0000",
-        "published_dt": "2025-09-10T22:30:00+00:00",
-        "summary": "While there has been progress against chronic disease, the U.S. has been backsliding against big killers like heart disease."
-      },
-      {
-        "id": "b981f72b0fc06da3",
-        "title": "STAT+: Harvard federal funding set to resume \u2014 at least for now",
-        "url": "https://www.statnews.com/2025/09/10/harvard-federal-funding-resuming-trump/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 10 Sep 2025 20:31:30 +0000",
-        "published_dt": "2025-09-10T20:31:30+00:00",
-        "summary": "Federal agencies have begun to inform Harvard that it is in the process of restoring at least some of its previously canceled research funding."
-      },
-      {
-        "id": "bc85f8829ae28b23",
-        "title": "Robotic device could make intubation faster and easier for first responders, small study suggests",
-        "url": "https://www.statnews.com/2025/09/10/robotic-device-could-make-emergency-intubation-more-reliable/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 10 Sep 2025 18:00:00 +0000",
-        "published_dt": "2025-09-10T18:00:00+00:00",
-        "summary": "A self-guided robotic device has the potential to open airways of critically injured patients faster and more reliably, according to a new study."
-      },
-      {
-        "id": "feda193527e8a6ac",
-        "title": "STAT+: Merck halts U.K. research operations and bails on new facility in London",
-        "url": "https://www.statnews.com/2025/09/10/merck-uk-pharma-investment-rollbacks/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 10 Sep 2025 16:47:26 +0000",
-        "published_dt": "2025-09-10T16:47:26+00:00",
-        "summary": "In a blow to the U.K., Merck said it was halting research operations in the country and bailing on a major London research center."
-      },
-      {
-        "id": "cc5084f56e7d651b",
-        "title": "STAT+: Oracle\u2019s AI strategy to take on Epic",
-        "url": "https://www.statnews.com/2025/09/10/oracle-strategy-challenge-epic-ehr-ai-prognosis/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 10 Sep 2025 15:42:57 +0000",
-        "published_dt": "2025-09-10T15:42:57+00:00",
-        "summary": "Oracle Industries president Mike Sicilia talks with Brittany Trang about the company's new AI EHR compared to Epic's"
-      },
-      {
-        "id": "ea728ae2a1b521bc",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-executes-its-own-brexit-moving-all-rd-operations-out-uk\" hreflang=\"en\">Merck executes its own Brexit, moving all R&amp;D operations out of UK</a>",
-        "url": "https://www.fiercebiotech.com/biotech/merck-executes-its-own-brexit-moving-all-rd-operations-out-uk",
-        "source": "Fierce Biotech",
-        "published": "Sep 10, 2025 3:21pm",
-        "published_dt": "2025-09-10T15:21:00+00:00",
-        "summary": "Less than two years after breaking ground on a ballyhooed 1 billion pound sterling ($1.31 billion) R&amp;D center and future U.K. headquarters in London, Merck is not only bailing on the project but is discontinuing all of its research operations in Britain, citing an unwelcoming business environment for drugmakers."
-      },
-      {
-        "id": "b643ecff581c2425",
-        "title": "STAT+: Trump reportedly discussing crackdown on Chinese drugs",
-        "url": "https://www.statnews.com/2025/09/10/china-pharma-drugs-novo-odyssey/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 10 Sep 2025 15:15:32 +0000",
-        "published_dt": "2025-09-10T15:15:32+00:00",
-        "summary": "And more biotech news from The Readout newsletter."
+        "published": "Sep 11, 2025 1:16pm",
+        "published_dt": "2025-09-11T13:16:00+00:00",
+        "summary": "Researchers at Mass General Brigham in Boston have designed a custom gene editing technique that corrected the mutation behind a rare blood vessel disease in mice, paving the way for further development of the approach to treat the deadly condition and other genetic vascular diseases."
       }
     ],
     "Engineering & Aerospace": [
       {
-        "id": "ace9600908a63e64",
-        "title": "Together launches Instant Clusters for self-service GPU access",
-        "url": "https://www.engineering.com/together-launches-instant-clusters-for-self-service-gpu-access/",
+        "id": "0b194da3655084d4",
+        "title": "NVIDIA unveils Rubin CPX for massive-context inference",
+        "url": "https://www.engineering.com/nvidia-unveils-rubin-cpx-for-massive-context-inference/",
         "source": "Engineering.com",
-        "published": "Thu, 11 Sep 2025 11:55:24 +0000",
-        "published_dt": "2025-09-11T11:55:24+00:00",
-        "summary": "<p>The offering helps AI companies manage variable demand by scaling capacity quickly using Kubernetes (K8S) or Slurm orchestration.</p>\n<p>The post <a href=\"https://www.engineering.com/together-launches-instant-clusters-for-self-service-gpu-access/\">Together launches Instant Clusters for self-service GPU access</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Fri, 12 Sep 2025 11:40:25 +0000",
+        "published_dt": "2025-09-12T11:40:25+00:00",
+        "summary": "<p>NVIDIA Rubin CPX GPU is purpose-built to handle million-token coding and generative video applications.</p>\n<p>The post <a href=\"https://www.engineering.com/nvidia-unveils-rubin-cpx-for-massive-context-inference/\">NVIDIA unveils Rubin CPX for massive-context inference</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "6669eae4eedc3621",
-        "title": "House appropriators offer support to threatened NASA missions",
-        "url": "https://spacenews.com/house-appropriators-offer-support-to-threatened-nasa-missions/",
+        "id": "595741b36c343edf",
+        "title": "Apex reaches billion-dollar valuation with Series D funding round",
+        "url": "https://spacenews.com/apex-reaches-billion-dollar-valuation-with-series-d-funding-round/",
         "source": "SpaceNews",
-        "published": "Thu, 11 Sep 2025 10:35:32 +0000",
-        "published_dt": "2025-09-11T10:35:32+00:00",
-        "summary": "<figure><img alt=\"Chandra\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/chandra-copy.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>House appropriators offered support, but no specific funding, for several NASA missions slated for cancellation in the administration\u2019s 2026 budget proposal.</p>\n<p>The post <a href=\"https://spacenews.com/house-appropriators-offer-support-to-threatened-nasa-missions/\">House appropriators offer support to threatened NASA missions</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Fri, 12 Sep 2025 10:29:46 +0000",
+        "published_dt": "2025-09-12T10:29:46+00:00",
+        "summary": "<figure><img alt=\"Comet\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/Apex_Comet_DeployedInSpace.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Satellite manufacturer Apex has raised $200 million in a new funding round that values the company at more than $1 billion.</p>\n<p>The post <a href=\"https://spacenews.com/apex-reaches-billion-dollar-valuation-with-series-d-funding-round/\">Apex reaches billion-dollar valuation with Series D funding round</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "6eee79a37fbbf4aa",
-        "title": "OpenSpace unveils Visual Intelligence Platform for construction",
-        "url": "https://www.engineering.com/openspace-unveils-visual-intelligence-platform-for-construction/",
+        "id": "ddce6bf03d03f25e",
+        "title": "FIA names Siemens official digital twin sponsor",
+        "url": "https://www.engineering.com/fia-names-siemens-official-digital-twin-sponsor/",
         "source": "Engineering.com",
-        "published": "Thu, 11 Sep 2025 10:28:32 +0000",
-        "published_dt": "2025-09-11T10:28:32+00:00",
-        "summary": "<p>Image-first platform turns reality data from the field into trusted, actionable intelligence to power faster, better decision-making.</p>\n<p>The post <a href=\"https://www.engineering.com/openspace-unveils-visual-intelligence-platform-for-construction/\">OpenSpace unveils Visual Intelligence Platform for construction</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Fri, 12 Sep 2025 09:24:04 +0000",
+        "published_dt": "2025-09-12T09:24:04+00:00",
+        "summary": "<p>FIA expands adoption of Siemens Xcelerator to design and refine next generation race car concepts.</p>\n<p>The post <a href=\"https://www.engineering.com/fia-names-siemens-official-digital-twin-sponsor/\">FIA names Siemens official digital twin sponsor</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "b5183060af42daef",
-        "title": "ROHM develops ultra-compact CMOS op amp with low circuit current",
-        "url": "https://www.engineering.com/rohm-develops-ultra-compact-cmos-op-amp-with-low-circuit-current/",
-        "source": "Engineering.com",
-        "published": "Thu, 11 Sep 2025 10:12:00 +0000",
-        "published_dt": "2025-09-11T10:12:00+00:00",
-        "summary": "<p>ROHM Semiconductor announced the development of the\u00a0TLR1901GXZ, an ultra-compact CMOS operational amplifier (op amp) that achieves the industry\u2019s lowest operating circuit current. Optimized for use as a sensing amplifier, this IC is ideally suited for space-constrained applications such as handheld measurement instruments, wearable devices, and indoor motion detectors. As the demand continues to grow for [&#8230;]</p>\n<p>The post <a href=\"https://www.engineering.com/rohm-develops-ultra-compact-cmos-op-amp-with-low-circuit-current/\">ROHM develops ultra-compact CMOS op amp with low circuit current</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "258658ad2ba8ef07",
-        "title": "Auterion, Point One partner to add precision to robotic fleets",
-        "url": "https://www.engineering.com/auterion-point-one-partner-to-add-precision-to-robotic-fleets/",
-        "source": "Engineering.com",
-        "published": "Thu, 11 Sep 2025 09:34:00 +0000",
-        "published_dt": "2025-09-11T09:34:00+00:00",
-        "summary": "<p>This collaboration enhances the capabilities of the platform, allowing the users to scale their robotic fleets and tackle complex missions with greater efficiency and safety.</p>\n<p>The post <a href=\"https://www.engineering.com/auterion-point-one-partner-to-add-precision-to-robotic-fleets/\">Auterion, Point One partner to add precision to robotic fleets</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "7294080bacf41a62",
-        "title": "Novarc to unveil SWR+TIPTIG Autonomy at FABTECH 2025",
-        "url": "https://www.engineering.com/novarc-to-unveil-swrtiptig-autonomy-at-fabtech-2025/",
-        "source": "Engineering.com",
-        "published": "Thu, 11 Sep 2025 08:19:00 +0000",
-        "published_dt": "2025-09-11T08:19:00+00:00",
-        "summary": "<p>SWR+TIPTIG Autonomy boosts weld deposition 2.6x, achieving up to 4 lbs/hr and 300% faster travel speeds than conventional TIG.</p>\n<p>The post <a href=\"https://www.engineering.com/novarc-to-unveil-swrtiptig-autonomy-at-fabtech-2025/\">Novarc to unveil SWR+TIPTIG Autonomy at FABTECH 2025</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "080933827921f69d",
-        "title": "Valens Semiconductor partners with Samsung",
-        "url": "https://www.engineering.com/valens-semiconductor-partners-with-samsung/",
-        "source": "Engineering.com",
-        "published": "Thu, 11 Sep 2025 08:12:00 +0000",
-        "published_dt": "2025-09-11T08:12:00+00:00",
-        "summary": "<p>to enhance the MIPI A-PHY standard ecosystem and collaborate on next-generation products.</p>\n<p>The post <a href=\"https://www.engineering.com/valens-semiconductor-partners-with-samsung/\">Valens Semiconductor partners with Samsung</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "113831b3a0738a57",
-        "title": "Eutelsat partners with Skynopy to explore opening OneWeb ground stations to Earth observation",
-        "url": "https://spacenews.com/eutelsat-opens-oneweb-ground-stations-to-earth-observation-with-ka-band-boost/",
+        "id": "227ab009cc10082b",
+        "title": "Cailabs raises $67 million to scale up production of optical ground stations",
+        "url": "https://spacenews.com/cailabs-raises-67-million-to-scale-up-production-of-optical-ground-stations/",
         "source": "SpaceNews",
-        "published": "Thu, 11 Sep 2025 07:00:00 +0000",
-        "published_dt": "2025-09-11T07:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"666\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2022/09/Eutelsat_Paris-Rambouillet_teleport_in_France_-_credit_Eutelsat_Adrien_Daste_2018_credit_.jpeg?fit=1000%2C666&amp;ssl=1\" width=\"1000\" /></figure>\n<p>Eutelsat has teamed up with French satellite connectivity startup Skynopy to explore offering Earth observation operators spare capacity on the ground stations used for OneWeb, its LEO broadband service.</p>\n<p>The post <a href=\"https://spacenews.com/eutelsat-opens-oneweb-ground-stations-to-earth-observation-with-ka-band-boost/\">Eutelsat partners with Skynopy to explore opening OneWeb ground stations to Earth observation</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Fri, 12 Sep 2025 09:23:12 +0000",
+        "published_dt": "2025-09-12T09:23:12+00:00",
+        "summary": "<figure><img alt=\"Cailabs\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/cailabs.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Cailabs, a French company that manufactures optical ground stations for satellite communications, has raised 57 million euros ($67 million) to scale up production.</p>\n<p>The post <a href=\"https://spacenews.com/cailabs-raises-67-million-to-scale-up-production-of-optical-ground-stations/\">Cailabs raises $67 million to scale up production of optical ground stations</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "fe8188a61118af32",
+        "title": "Signal Hill Equity partners with Kluber Architects + Engineers",
+        "url": "https://www.engineering.com/signal-hill-equity-partners-with-kluber-architects-engineers/",
+        "source": "Engineering.com",
+        "published": "Fri, 12 Sep 2025 09:22:23 +0000",
+        "published_dt": "2025-09-12T09:22:23+00:00",
+        "summary": "<p>to expand its national architecture, engineering, and design platform.</p>\n<p>The post <a href=\"https://www.engineering.com/signal-hill-equity-partners-with-kluber-architects-engineers/\">Signal Hill Equity partners with Kluber Architects + Engineers</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "81d4a8cbf4b0962e",
+        "title": "CONTACT Software and dpace partner to support PLM implementations",
+        "url": "https://www.engineering.com/contact-software-and-dpace-partner-to-support-plm-implementations/",
+        "source": "Engineering.com",
+        "published": "Fri, 12 Sep 2025 09:21:12 +0000",
+        "published_dt": "2025-09-12T09:21:12+00:00",
+        "summary": "<p>The software maker and PLM/CPQ specialist will collaborate to help companies implement tailored digital product development solutions.</p>\n<p>The post <a href=\"https://www.engineering.com/contact-software-and-dpace-partner-to-support-plm-implementations/\">CONTACT Software and dpace partner to support PLM implementations</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "da2731dd4359bfe7",
+        "title": "Supermicro delivers NVIDIA Blackwell Ultra systems for data centers",
+        "url": "https://www.engineering.com/supermicro-delivers-nvidia-blackwell-ultra-systems-for-data-centers/",
+        "source": "Engineering.com",
+        "published": "Fri, 12 Sep 2025 09:18:18 +0000",
+        "published_dt": "2025-09-12T09:18:18+00:00",
+        "summary": "<p>Delivering high volume NVIDIA HGX B300 systems and NVIDIA GB300 NVL72 in volume to customers worldwide.</p>\n<p>The post <a href=\"https://www.engineering.com/supermicro-delivers-nvidia-blackwell-ultra-systems-for-data-centers/\">Supermicro delivers NVIDIA Blackwell Ultra systems for data centers</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "84fa2921e6ca145b",
+        "title": "Eagle Point and Revizto partner to deliver AECO training",
+        "url": "https://www.engineering.com/eagle-point-and-revizto-partner-to-deliver-aeco-training/",
+        "source": "Engineering.com",
+        "published": "Fri, 12 Sep 2025 09:16:49 +0000",
+        "published_dt": "2025-09-12T09:16:49+00:00",
+        "summary": "<p>Revizto\u2019s training courses will be integrated into the Pinnacle Series platform, improving global access for AECO professionals.</p>\n<p>The post <a href=\"https://www.engineering.com/eagle-point-and-revizto-partner-to-deliver-aeco-training/\">Eagle Point and Revizto partner to deliver AECO training</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "8ed9b1471d4d0153",
+        "title": "Altair and Wichita State University\u2019s NIAR sign MoU for aerospace innovation",
+        "url": "https://www.engineering.com/altair-and-wichita-state-universitys-niar-sign-mou-for-aerospace-innovation/",
+        "source": "Engineering.com",
+        "published": "Thu, 11 Sep 2025 14:35:27 +0000",
+        "published_dt": "2025-09-11T14:35:27+00:00",
+        "summary": "<p>Collaboration will expand digital twin adoption, empower aerospace startups, and speed up product development and certification processes.</p>\n<p>The post <a href=\"https://www.engineering.com/altair-and-wichita-state-universitys-niar-sign-mou-for-aerospace-innovation/\">Altair and Wichita State University&#8217;s NIAR sign MoU for aerospace innovation</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "394baa33def4fdaa",
+        "title": "QuesTek, partners develop alloy concept for additive manufacturing",
+        "url": "https://www.engineering.com/questek-partners-develop-alloy-concept-for-additive-manufacturing/",
+        "source": "Engineering.com",
+        "published": "Thu, 11 Sep 2025 14:16:58 +0000",
+        "published_dt": "2025-09-11T14:16:58+00:00",
+        "summary": "<p>The new alloy reduces tooling delays and forging limits in high-temperature applications, giving manufacturers greater flexibility and agility.</p>\n<p>The post <a href=\"https://www.engineering.com/questek-partners-develop-alloy-concept-for-additive-manufacturing/\">QuesTek, partners develop alloy concept for additive manufacturing</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "8daf1190e8122d85",
@@ -311,6 +329,78 @@
         "summary": "<figure><img alt=\"TESSERAE in space\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/rendezvous-tesserae.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A startup has raised an initial round of funding to commercialize a technology that could create large structures in orbit.</p>\n<p>The post <a href=\"https://spacenews.com/rendezvous-robotics-raises-funding-to-develop-technology-for-self-assembling-space-structures/\">Rendezvous Robotics raises funding to develop technology for self-assembling space structures</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
+        "id": "9d99ebf9e514fb59",
+        "title": "Firefly pitches rockets, satellites for Golden Dome",
+        "url": "https://spacenews.com/firefly-pitches-rockets-satellites-for-golden-dome/",
+        "source": "SpaceNews",
+        "published": "Thu, 11 Sep 2025 21:08:03 +0000",
+        "published_dt": "2025-09-11T21:08:03+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/53359913328_b82878da3e_h.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>CEO Jason Kim said the company&#8217;s Alpha vehicle could launch test targets while the Elytra platform could host interceptors for the Golden Dome missile-defense shield</p>\n<p>The post <a href=\"https://spacenews.com/firefly-pitches-rockets-satellites-for-golden-dome/\">Firefly pitches rockets, satellites for Golden Dome</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "63e055ae9203c54e",
+        "title": "Sophia and Armada link terrestrial and orbital edge processors",
+        "url": "https://spacenews.com/sophia-and-armada-link-terrestrial-and-space-edge-processors/",
+        "source": "SpaceNews",
+        "published": "Thu, 11 Sep 2025 20:23:00 +0000",
+        "published_dt": "2025-09-11T20:23:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"542\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/rsz_cruiser_1_76d2a2f19e.png?fit=879%2C542&amp;ssl=1\" width=\"879\" /></figure>\n<p>PARIS \u2013 Mobile edge computing specialist Armada and Sophia Space are working together to establish integrated, scalable compute infrastructure extending from Earth to space. By connecting terrestrial and orbital edge processors, the partners intend to \u201ccreate a seamless edge-computing network that connects remote locations on Earth with computing resources in space,\u201d according to the Sept. [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/sophia-and-armada-link-terrestrial-and-space-edge-processors/\">Sophia and Armada link terrestrial and orbital edge processors</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "89c9ffbc5b2c8734",
+        "title": "Robot safety standard gets fresh update",
+        "url": "https://www.engineering.com/robot-safety-standard-gets-fresh-update/",
+        "source": "Engineering.com",
+        "published": "Thu, 11 Sep 2025 17:42:40 +0000",
+        "published_dt": "2025-09-11T17:42:40+00:00",
+        "summary": "<p>ANSI/A3 R15.06-2025 revises the current robot safety standard with new robot classifications, cobot guidance and a cybersecurity component.</p>\n<p>The post <a href=\"https://www.engineering.com/robot-safety-standard-gets-fresh-update/\">Robot safety standard gets fresh update</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "92cdafec07f2e42d",
+        "title": "After pausing air taxi development, here are the possible next steps for Airbus, Supernal",
+        "url": "https://aerospaceamerica.aiaa.org/after-pausing-air-taxi-development-here-are-the-possible-next-steps-for-airbus-supernal/",
+        "source": "Aerospace America",
+        "published": "Thu, 11 Sep 2025 17:36:52 +0000",
+        "published_dt": "2025-09-11T17:36:52+00:00",
+        "summary": ""
+      },
+      {
+        "id": "4108a732bd792f0f",
+        "title": "NASA\u2019s Sean Duffy surprising leadership",
+        "url": "https://spacenews.com/nasas-sean-duffy-surprising-leadership/",
+        "source": "SpaceNews",
+        "published": "Thu, 11 Sep 2025 17:21:47 +0000",
+        "published_dt": "2025-09-11T17:21:47+00:00",
+        "summary": "<figure><img alt=\"Sean Duffy\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/070325-space-minds-podcast-moon-2000x1500-1.png?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>In this week\u2019s episode of Space Minds, host Mike Gruss is joined by SpaceNews senior writer Jeff Foust to break down the surprising appointment of Sean Duffy as NASA\u2019s Acting Administrator.</p>\n<p>The post <a href=\"https://spacenews.com/nasas-sean-duffy-surprising-leadership/\">NASA&#8217;s Sean Duffy surprising leadership</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "3eacfe8e49b66277",
+        "title": "Boeing\u2019s additive solar array substrate cuts production time in half",
+        "url": "https://www.engineering.com/boeings-additive-solar-array-substrate-cuts-production-time-in-half/",
+        "source": "Engineering.com",
+        "published": "Thu, 11 Sep 2025 16:23:07 +0000",
+        "published_dt": "2025-09-11T16:23:07+00:00",
+        "summary": "<p>3D printing solar array substrate reduces composite build times by up to six months.</p>\n<p>The post <a href=\"https://www.engineering.com/boeings-additive-solar-array-substrate-cuts-production-time-in-half/\">Boeing\u2019s additive solar array substrate cuts production time in half</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "6669eae4eedc3621",
+        "title": "House appropriators offer support to threatened NASA missions",
+        "url": "https://spacenews.com/house-appropriators-offer-support-to-threatened-nasa-missions/",
+        "source": "SpaceNews",
+        "published": "Thu, 11 Sep 2025 10:35:32 +0000",
+        "published_dt": "2025-09-11T10:35:32+00:00",
+        "summary": "<figure><img alt=\"Chandra\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/chandra-copy.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>House appropriators offered support, but no specific funding, for several NASA missions slated for cancellation in the administration\u2019s 2026 budget proposal.</p>\n<p>The post <a href=\"https://spacenews.com/house-appropriators-offer-support-to-threatened-nasa-missions/\">House appropriators offer support to threatened NASA missions</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "113831b3a0738a57",
+        "title": "Eutelsat partners with Skynopy to explore opening OneWeb ground stations to Earth observation",
+        "url": "https://spacenews.com/eutelsat-opens-oneweb-ground-stations-to-earth-observation-with-ka-band-boost/",
+        "source": "SpaceNews",
+        "published": "Thu, 11 Sep 2025 07:00:00 +0000",
+        "published_dt": "2025-09-11T07:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"666\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2022/09/Eutelsat_Paris-Rambouillet_teleport_in_France_-_credit_Eutelsat_Adrien_Daste_2018_credit_.jpeg?fit=1000%2C666&amp;ssl=1\" width=\"1000\" /></figure>\n<p>Eutelsat has teamed up with French satellite connectivity startup Skynopy to explore offering Earth observation operators spare capacity on the ground stations used for OneWeb, its LEO broadband service.</p>\n<p>The post <a href=\"https://spacenews.com/eutelsat-opens-oneweb-ground-stations-to-earth-observation-with-ka-band-boost/\">Eutelsat partners with Skynopy to explore opening OneWeb ground stations to Earth observation</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
         "id": "caf813211383c1ba",
         "title": "NASA highlights potential evidence of past life in Martian rock",
         "url": "https://spacenews.com/nasa-highlights-potential-evidence-of-past-life-in-martian-rock/",
@@ -318,15 +408,6 @@
         "published": "Wed, 10 Sep 2025 20:38:17 +0000",
         "published_dt": "2025-09-10T20:38:17+00:00",
         "summary": "<figure><img alt=\"Perseverance Cheyava Falls\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"727\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/percy-cheyava.jpeg?fit=1024%2C727&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Scientists have found potential evidence of past life on Mars in a rock sample collected by a NASA rover, even as a proposed budget cancels plans to return those samples.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-highlights-potential-evidence-of-past-life-in-martian-rock/\">NASA highlights potential evidence of past life in Martian rock</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "9adb40b2b8b08e54",
-        "title": "Why the future is mechatronic",
-        "url": "https://www.engineering.com/why-the-future-is-mechatronic/",
-        "source": "Engineering.com",
-        "published": "Wed, 10 Sep 2025 20:31:49 +0000",
-        "published_dt": "2025-09-10T20:31:49+00:00",
-        "summary": "<p>Physical AI is where code meets the real world, in the factory and on the street.</p>\n<p>The post <a href=\"https://www.engineering.com/why-the-future-is-mechatronic/\">Why the future is mechatronic</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "573bc0fe3b9ca09b",
@@ -356,24 +437,6 @@
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"693\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Boeing_Millennium_Small_Sathires-scaled.jpg?fit=1024%2C693&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The first 3D-printed arrays will be deployed on small satellites built by Millennium Space</p>\n<p>The post <a href=\"https://spacenews.com/boeing-turns-to-3d-printing-to-speed-production-of-satellite-solar-arrays/\">Boeing turns to 3D printing to speed production of satellite solar arrays</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "ccb5a5de0e90d2db",
-        "title": "Cadence expands Digital Twin Platform library with NVIDIA DGX SuperPOD",
-        "url": "https://www.engineering.com/cadence-expands-digital-twin-platform-library-with-nvidia-dgx-superpod/",
-        "source": "Engineering.com",
-        "published": "Wed, 10 Sep 2025 15:25:04 +0000",
-        "published_dt": "2025-09-10T15:25:04+00:00",
-        "summary": "<p>The Cadence Reality Digital Twin Platform lets designers create data center twins by dragging vendor models that mirror real equipment.</p>\n<p>The post <a href=\"https://www.engineering.com/cadence-expands-digital-twin-platform-library-with-nvidia-dgx-superpod/\">Cadence expands Digital Twin Platform library with NVIDIA DGX SuperPOD</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "6f2d058295f5c434",
-        "title": "Martin Equipment becomes new Trimble technology outlet",
-        "url": "https://www.engineering.com/martin-equipment-becomes-new-trimble-technology-outlet/",
-        "source": "Engineering.com",
-        "published": "Wed, 10 Sep 2025 15:07:36 +0000",
-        "published_dt": "2025-09-10T15:07:36+00:00",
-        "summary": "<p>Martin to sell and support Trimble grade control, site positioning and correction services for John Deere, Wacker Neuson equipment</p>\n<p>The post <a href=\"https://www.engineering.com/martin-equipment-becomes-new-trimble-technology-outlet/\">Martin Equipment becomes new Trimble technology outlet</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
         "id": "9a40e2712b28c002",
         "title": "DARPA director elaborates on why \u2018Liberty Lifter\u2019 seaplane program was killed",
         "url": "https://aerospaceamerica.aiaa.org/darpa-director-elaborates-on-why-liberty-lifter-seaplane-program-was-killed/",
@@ -383,15 +446,6 @@
         "summary": ""
       },
       {
-        "id": "45eddefa2456c5ec",
-        "title": "Vectorworks 2026 software suite available",
-        "url": "https://www.engineering.com/vectorworks-2026-software-suite-available/",
-        "source": "Engineering.com",
-        "published": "Wed, 10 Sep 2025 14:43:22 +0000",
-        "published_dt": "2025-09-10T14:43:22+00:00",
-        "summary": "<p>Vectorworks 2026 enhances clarity, collaboration, and workflows, helping architects and designers improve productivity and design efficiency.</p>\n<p>The post <a href=\"https://www.engineering.com/vectorworks-2026-software-suite-available/\">Vectorworks 2026 software suite available</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
         "id": "f9d2166948f7c38c",
         "title": "SpaceX launches 21 satellites for Space Development Agency \u2018Transport Layer\u2019 military network",
         "url": "https://spacenews.com/spacex-launches-21-satellites-for-space-development-agency-transport-layer-military-network/",
@@ -399,90 +453,9 @@
         "published": "Wed, 10 Sep 2025 14:31:00 +0000",
         "published_dt": "2025-09-10T14:31:00+00:00",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"548\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/image006.jpg.jpeg?fit=1024%2C548&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The satellites, made by York Space Systems, make up the first plane of a mesh network projected to have 126 spacecraft</p>\n<p>The post <a href=\"https://spacenews.com/spacex-launches-21-satellites-for-space-development-agency-transport-layer-military-network/\">SpaceX launches 21 satellites for Space Development Agency \u2018Transport Layer\u2019 military network</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "29dce62fe4a17448",
-        "title": "How is the Space Force doing on getting the resources it needs?",
-        "url": "https://spacenews.com/how-is-the-space-force-doing-on-getting-the-resources-it-needs/",
-        "source": "SpaceNews",
-        "published": "Wed, 10 Sep 2025 14:00:00 +0000",
-        "published_dt": "2025-09-10T14:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"649\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/9284452-scaled-e1757016213440.jpg?fit=1024%2C649&amp;ssl=1\" width=\"1024\" /></figure>\n<p>\u201cThe Space Force we have is not the Space Force we need\u201d \u2014Gen. B. Chance Saltzman, Chief of Space Operations The United States and our allies have never been more dependent on space-based capabilities. Every other military service depends on capabilities from space to do their jobs. A loss of space capability would have a [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/how-is-the-space-force-doing-on-getting-the-resources-it-needs/\">How is the Space Force doing on getting the resources it needs?</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "fa6e1f0a17761350",
-        "title": "Japan\u2019s IHI expands constellation plans with SatVu thermal imaging partnership",
-        "url": "https://spacenews.com/japans-ihi-expands-constellation-plans-with-satvu-thermal-imaging-partnership/",
-        "source": "SpaceNews",
-        "published": "Wed, 10 Sep 2025 13:58:52 +0000",
-        "published_dt": "2025-09-10T13:58:52+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"641\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/SatVu-Signing-Ceremony.jpg?fit=1024%2C641&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Japan\u2019s IHI is broadening its push to build a sovereign Earth observation constellation, partnering with U.K.-based SatVu to explore adding thermal imaging satellites alongside radar and other sensors already in the works.</p>\n<p>The post <a href=\"https://spacenews.com/japans-ihi-expands-constellation-plans-with-satvu-thermal-imaging-partnership/\">Japan\u2019s IHI expands constellation plans with SatVu thermal imaging partnership</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "438c2b726187d776",
-        "title": "U.S. House aviation subcommittee chair targets October for markup on new supersonic flight regulations",
-        "url": "https://aerospaceamerica.aiaa.org/u-s-house-aviation-subcommittee-chair-targets-october-for-markup-on-new-supersonic-flight-regulations/",
-        "source": "Aerospace America",
-        "published": "Wed, 10 Sep 2025 13:53:41 +0000",
-        "published_dt": "2025-09-10T13:53:41+00:00",
-        "summary": ""
-      },
-      {
-        "id": "8fb5f03e30c4fc71",
-        "title": "Musk confident Starship will start launching 100 tons to orbit next year",
-        "url": "https://spacenews.com/musk-confident-starship-will-start-launching-100-tons-to-orbit-next-year/",
-        "source": "SpaceNews",
-        "published": "Wed, 10 Sep 2025 11:58:23 +0000",
-        "published_dt": "2025-09-10T11:58:23+00:00",
-        "summary": "<figure><img alt=\"Starship flight 10 landing\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/starship-f10-landing-scaled.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>SpaceX Chief Executive Elon Musk says he is confident that Starship can start delivering 100 tons of payload to orbit next year while reusing both stages.</p>\n<p>The post <a href=\"https://spacenews.com/musk-confident-starship-will-start-launching-100-tons-to-orbit-next-year/\">Musk confident Starship will start launching 100 tons to orbit next year</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "7fb6ca4a98096423",
-        "title": "The grief of a fandom: on Starship, Musk and losing the spark",
-        "url": "https://spacenews.com/the-grief-of-a-fandom-on-starship-musk-and-losing-the-spark/",
-        "source": "SpaceNews",
-        "published": "Wed, 10 Sep 2025 11:00:00 +0000",
-        "published_dt": "2025-09-10T11:00:00+00:00",
-        "summary": "<figure><img alt=\"Starship launches through heavy fog. Credit: nader saremi on Unsplash\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/nader-saremi-o6VKrOogZpw-unsplash-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Why do people defend someone who has done things that are frankly terrible?</p>\n<p>The post <a href=\"https://spacenews.com/the-grief-of-a-fandom-on-starship-musk-and-losing-the-spark/\">The grief of a fandom: on Starship, Musk and losing the spark</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "9b3943e2597167e3",
-        "title": "Ramses asteroid mission on track ahead of key funding",
-        "url": "https://spacenews.com/ramses-asteroid-mission-on-track-ahead-of-key-funding/",
-        "source": "SpaceNews",
-        "published": "Wed, 10 Sep 2025 03:13:28 +0000",
-        "published_dt": "2025-09-10T03:13:28+00:00",
-        "summary": "<figure><img alt=\"Ramses Apophis\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/07/ramses.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A European-led mission to the asteroid Apophis is on schedule ahead of key funding decisions in the coming months in both Europe and Japan.</p>\n<p>The post <a href=\"https://spacenews.com/ramses-asteroid-mission-on-track-ahead-of-key-funding/\">Ramses asteroid mission on track ahead of key funding</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
-      {
-        "id": "9b8767b0362ded73",
-        "title": "How grain has gone from famine to feast",
-        "url": "https://www.economist.com/finance-and-economics/2025/09/11/how-grain-has-gone-from-famine-to-feast",
-        "source": "Finance & economics",
-        "published": "Thu, 11 Sep 2025 09:33:43 +0000",
-        "published_dt": "2025-09-11T09:33:43+00:00",
-        "summary": "Prices are close to a five-year low"
-      },
-      {
-        "id": "b778e0da2d18ff01",
-        "title": "Meet Donald Trump\u2019s aid agency",
-        "url": "https://www.economist.com/finance-and-economics/2025/09/11/meet-donald-trumps-aid-agency",
-        "source": "Finance & economics",
-        "published": "Thu, 11 Sep 2025 09:31:18 +0000",
-        "published_dt": "2025-09-11T09:31:18+00:00",
-        "summary": "Or is it a sovereign-wealth fund in disguise?"
-      },
-      {
-        "id": "f8678957cf9c9ef3",
-        "title": "Can you make it to the end of this column?",
-        "url": "https://www.economist.com/finance-and-economics/2025/09/11/can-you-make-it-to-the-end-of-this-column",
-        "source": "Finance & economics",
-        "published": "Thu, 11 Sep 2025 09:35:49 +0000",
-        "published_dt": "2025-09-11T09:35:49+00:00",
-        "summary": "Understanding the new economics of attention"
-      },
       {
         "id": "d3acd20a40121719",
         "title": "Do tariffs raise inflation?",
@@ -601,6 +574,24 @@
         "summary": "For large classes of potential inventions, intellectual property rights that are available on paper are either not possible or not profitable for firms to enforce in practice. In this paper, we show that these missing incentives yield quantitatively significant underinvestment in research and development. We develop a simple model that formalizes the conditions under which such missing markets for innovation arise. We identify an empirical setting\u2014research into new uses for existing drugs\u2014in which there is sharp variation in the enforceability of intellectual property rights on otherwise comparable inventions over time. We show that when intellectual property rights become unenforceable, research investment and commercialization nearly cease. In doing so, we test two claims central both to our model and the innovation literature more generally\u2014that stronger intellectual property protection does, in fact, induce investment, and that heterogeneity in the availability of these rights distorts investment. The welfare consequences of inadequate incentives in our empirical context are large. Our estimates suggest that 200-800 new uses for existing drugs would have been developed under counterfactual policies. Measures of the value of these uses drawn from existing literature suggest that the social cost of this particular missing market is on the order of several trillion dollars."
       },
       {
+        "id": "9b8767b0362ded73",
+        "title": "How grain has gone from famine to feast",
+        "url": "https://www.economist.com/finance-and-economics/2025/09/11/how-grain-has-gone-from-famine-to-feast",
+        "source": "Finance & economics",
+        "published": "Thu, 11 Sep 2025 09:33:43 +0000",
+        "published_dt": "2025-09-11T09:33:43+00:00",
+        "summary": "Prices are close to a five-year low"
+      },
+      {
+        "id": "b778e0da2d18ff01",
+        "title": "Meet Donald Trump\u2019s aid agency",
+        "url": "https://www.economist.com/finance-and-economics/2025/09/11/meet-donald-trumps-aid-agency",
+        "source": "Finance & economics",
+        "published": "Thu, 11 Sep 2025 09:31:18 +0000",
+        "published_dt": "2025-09-11T09:31:18+00:00",
+        "summary": "Or is it a sovereign-wealth fund in disguise?"
+      },
+      {
         "id": "c2b04d922381a7de",
         "title": "Why American bondholders are jumpy about inflation",
         "url": "https://www.economist.com/finance-and-economics/2025/09/10/why-american-bondholders-are-jumpy-about-inflation",
@@ -680,35 +671,35 @@
         "published": "Sun, 17 Aug 2025 15:36:18 +0000",
         "published_dt": "2025-08-17T15:36:18+00:00",
         "summary": "We update our entrenchment measure"
+      },
+      {
+        "id": "6ef65644927db2af",
+        "title": "Growth-loving authoritarians are failing on their own terms",
+        "url": "https://www.economist.com/finance-and-economics/2025/08/14/growth-loving-authoritarians-are-failing-on-their-own-terms",
+        "source": "Finance & economics",
+        "published": "Thu, 14 Aug 2025 10:25:31 +0000",
+        "published_dt": "2025-08-14T10:25:31+00:00",
+        "summary": "In Asia, East Africa and the Gulf leaders now face an unpleasant choice"
       }
     ],
     "Cross-Disciplinary": [
       {
-        "id": "22c1a60a4aa5673d",
-        "title": "Natcast to Lay Off Majority of Its Staff",
-        "url": "https://spectrum.ieee.org/natcast-bankruptcy",
-        "source": "IEEE Spectrum",
-        "published": "Thu, 11 Sep 2025 12:00:03 +0000",
-        "published_dt": "2025-09-11T12:00:03+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/an-illustration-of-the-logo-for-natcast-which-resembles-an-american-flag-with-components-related-to-chips-falling-apart.jpg?id=61557640&amp;width=1200&amp;height=800&amp;coordinates=125%2C0%2C125%2C0\" /><br /><br /><p>Natcast, the non-profit organization created to run the U.S. CHIPS & Science Act\u2019s National Semiconductor Technology Center (NSTC) told the majority of its staff they would be laid off this week, <em><em>IEEE Spectrum</em></em> has learned. A small core team will continue on to shut Natcast down over the next few weeks, a person familiar with the matter said.</p><p>The organization was founded in 2023 to run NSTC, which the law established to conduct \u201cresearch and prototyping of advanced semiconductor technology and grow the domestic semiconductor workforce to strengthen the economic competitiveness and security of the domestic supply chain.\u201d</p><p>However, on 25 August Commerce Secretary Howard Lutnick stated that the department <a href=\"https://spectrum.ieee.org/natcast\" target=\"_blank\">would not deliver the US $7.4 billion</a> in funds under its contract with the government. In an accusatory <a href=\"https://www.commerce.gov/sites/default/files/2025-08/Natcast-CEO-Letter.pdf\" target=\"_blank\">letter</a> to Natcast CEO <a href=\"https://www.linkedin.com/in/deirdre-hanford/\" target=\"_blank\">Deirdre Hanford </a>and a <a href=\"https://www.commerce.gov/news/press-releases/2025/08/department-commerce-takes-action-against-biden-administrations\" target=\"_blank\">press release</a>, Lutnick claimed the nonprofit was not created legally, and said that the <a href=\"https://www.nist.gov/chips\" target=\"_blank\">National Institute of Standards and Technology</a> would be taking over NSTC operations.</p><p><span>The Commerce Department has been suppressing Natcast\u2019s operations for many months, </span><em>IEEE Spectrum</em><span> has learned. According to multiple sources, the organization\u2019s research agenda was completed in April and should have been accepted and processed by Commerce in a matter of weeks. But it never happened. A memo selecting awardees for research into </span><a href=\"https://natcast.org/research-and-development/prism\" target=\"_blank\">reducing the impact of perfluoroalkyl substances (PFAS) from semiconductor manufacturing</a><span> was submitted to Commerce but never approved. Three groups won parts of a </span><a href=\"https://natcast.org/natcast-finalizes-aidrfic-research-contracts\" target=\"_blank\">$30 million grant to transform the design of RF chips using machine learning</a><span>, but at least one awardee has gotten no word on when or whether the funding will flow.</span></p><p>\u201cThis is a sad end,\u201d said one person who requested anonymity and was involved in early debate about the NSTC. </p><p>Lutnick\u2019s characterization of Natcast\u2019s creation as cronyism \u201cis pretty frustrating,\u201d this person continued. The idea that NSTC would be operated by an independent public-private partnership, which is written into the law, came from deep consultation with industry and was intended to insulate its work from politics. The organization needed such protection to make good technical decisions, because in selecting who gets funds \u201cthere are always more losers than winners,\u201d this person said.</p><p>Over the past week, Natcast has been defending itself and its staff against Lutnick\u2019s accusations. On 4 September, in a <a href=\"https://natcast.org/natcast-member-letter-regarding-the-nstc\" target=\"_blank\">letter to its 200 members</a>, Hanford countered Lutnick\u2019s assertions that the organization was packed with Biden administration cronies and that it was run as a \u201cslush fund.\u201d Hanford pointed to the multiple layers of government and industry oversight Natcast operates under and the experienced semiconductor industry staff it has brought on. She added that the nonprofit had stuck to its agreements with the government, submitting 119 \u201cmilestones and deliverables\u201d to Commerce.</p><h2>What\u2019s Lost Without Natcast</h2><p>On 8 September, Natcast published a detailed <a href=\"https://natcast.org/natcast-assets-supporting-the-continued-mission-of-the-nstc\" target=\"_blank\">overview of what it has done so far</a>. Accomplishments included creating an industry-driven R&amp;D agenda, the development of multiple workforce programs, and the signing on of some 200 members. These members included cutting-edge logic and memory companies (such as <a href=\"https://www.intel.com/content/www/us/en/foundry/overview.html\" target=\"_blank\">Intel</a>, <a href=\"https://www.nvidia.com/en-us/\" target=\"_blank\">Nvidia</a>, <a href=\"https://www.skhynix.com/\" rel=\"noopener noreferrer\" target=\"_blank\">SK Hynix</a>, and <a href=\"https://spectrum.ieee.org/tsmc-arizona\" target=\"_self\">TSMC</a>), small companies like <a href=\"https://spectrum.ieee.org/atomera-plans-to-breathe-new-life-into-older-chip-manufacturing\" target=\"_self\">Atomera</a>, <a href=\"https://spectrum.ieee.org/search/?q=encharge+ai\" target=\"_self\">EnCharge AI</a>, and <a href=\"https://spectrum.ieee.org/power-electronics\" target=\"_self\">Polar Semiconductor</a>, and multiple universities and makers of semiconductor tools and equipment.</p><p><a href=\"https://natcast.org/nstcmembership/members\" rel=\"noopener noreferrer\" target=\"_blank\">Members</a> had the right to use facilities and other infrastructure that Natcast was standing up (for a fee) and participate in research. One goal for the infrastructure was to reduce the time from concept to prototype by 30 percent. Access to the tools and processes NSTC would provide is out of reach for even some of the country\u2019s top researchers, <em><em>IEEE Spectrum</em></em>\u2019s source said. Without that access, startups and researchers won\u2019t be able to afford to do relevant work using 300-millimeter wafers and advanced chip-technology nodes. Despite the fact that not all of its facilities were complete, Natcast had plans to proceed with research by chaining together existing infrastructure around the country.</p><p>In addition, the document from 8 September detailed the expert in-house team at Natcast, and said that expertise allowed it to evaluate R&amp;D awards at twice the rate of federal agencies while requiring considerably less overhead than government, universities, and non-profit research organizations like Imec. (It forecast a 10 percent overhead on expenses over 10 years.)</p><p>\u201cNatcast was supposed to do what industry couldn\u2019t solve by itself,\u201d said a source familiar with the situation. Its R&amp;D program was aimed at solving big problems, such as collapsing the time and energy required to <a href=\"https://natcast.org/research-and-development/smap\" rel=\"noopener noreferrer\" target=\"_blank\">move data between memory and computing</a>, in a way that the whole industry could benefit from.<span></span></p>"
-      },
-      {
-        "id": "eb10be5b59d39a8a",
-        "title": "The Download: Trump\u2019s impact on science, and meet our climate and energy honorees",
-        "url": "https://www.technologyreview.com/2025/09/11/1123534/the-download-trumps-impact-on-science-and-meet-our-climate-and-energy-honorees/",
+        "id": "9b0cbb777431525a",
+        "title": "The Download: America\u2019s gun crisis, and how AI video models work",
+        "url": "https://www.technologyreview.com/2025/09/12/1123577/the-download-americas-gun-crisis-and-how-ai-video-models-work/",
         "source": "MIT Technology Review",
-        "published": "Thu, 11 Sep 2025 12:10:00 +0000",
-        "published_dt": "2025-09-11T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How Trump\u2019s policies are affecting early-career scientists\u2014in their own words Every year MIT Technology Review celebrates accomplished young scientists, entrepreneurs, and inventors from around the world in our Innovators Under 35 list. We\u2019ve&#8230;"
+        "published": "Fri, 12 Sep 2025 12:10:00 +0000",
+        "published_dt": "2025-09-12T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We can\u2019t \u201cmake American children healthy again\u201d without tackling the gun crisis This week, the Trump administration released a strategy for improving the health and well-being of American children. The report was titled\u2014you&#8230;"
       },
       {
-        "id": "d9f3c910865adf69",
-        "title": "How Robotics Is Powering the Future of Innovation",
-        "url": "https://content.knowledgehub.wiley.com/from-concept-to-reality-how-robotics-is-transforming-our-world/",
-        "source": "IEEE Spectrum",
-        "published": "Thu, 11 Sep 2025 10:00:02 +0000",
-        "published_dt": "2025-09-11T10:00:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/heilind-molex-logo-bold-blue-and-red-text-with-a-yellow-line-under-heilind.png?id=61582070&amp;width=980\" /><br /><br /><p>The future of robotics is being shaped by powerful technologies like AI, edge computing, and high-speed connectivity, driving smarter, more responsive machines across industries. Robots are no longer confined to static environments\u2014they are evolving to interact dynamically with humans and their surroundings.</p><p>This eBook explores the impact of robotics in diverse fields, from home automation and medical technology to automotive, data centers, and industrial applications. It highlights challenges like power efficiency, miniaturization, and ruggedization, while showcasing Molex\u2019s innovative solutions tailored for each domain.</p><p>Additionally, the eBook covers:</p><ul><li>Ruggedized connectors for harsh industrial settings</li><li>Advanced power management for home robots</li><li>Miniaturized systems for precision medical robotics</li><li>5G/6G-enabled autonomous vehicles</li><li>High-speed data solutions for cloud infrastructure</li></ul><div><span><a href=\"https://content.knowledgehub.wiley.com/from-concept-to-reality-how-robotics-is-transforming-our-world/\" target=\"_blank\">Download this free whitepaper now!</a></span></div>"
+        "id": "3414ce0f0a1854ec",
+        "title": "How do AI models generate videos?",
+        "url": "https://www.technologyreview.com/2025/09/12/1123562/how-do-ai-models-generate-videos/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 12 Sep 2025 10:01:44 +0000",
+        "published_dt": "2025-09-12T10:01:44+00:00",
+        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. It\u2019s been a big year for video generation. In the last nine months OpenAI made Sora public, Google DeepMind launched Veo 3, the video startup Runway&#8230;"
       },
       {
         "id": "91a6cbe9684f4723",
@@ -720,13 +711,31 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-photo-of-a-smiling-woman-in-a-magenta-suit.jpg?id=56605851&amp;width=1200&amp;height=800&amp;coordinates=0%2C406%2C0%2C406\" /><br /><br /><p>For most of its more than 140-year existence, IEEE has been a leader in preserving the far-reaching implications of the <a href=\"https://spectrum.ieee.org/topic/tech-history/\" target=\"_blank\">history behind the electrical, electronic, and computing fields</a> and related areas of science and technology that underpin modern society. This history showcases a continuous and dynamic cycle wherein scientific understanding fuels innovation, and technological advancements enable new avenues for scientific exploration. This fascinating journey continues to hold vast implications for our future. Organizations such as IEEE have created an environment conducive to progress and evolution by facilitating knowledge sharing, developing standards, and advocating for sound public policy to ultimately advance technology for the benefit of humanity.</p><p>Exploring the contributions of key figures, such as <a href=\"https://ethw.org/Michael_Faraday\" rel=\"noopener noreferrer\" target=\"_blank\">Michael Faraday</a> and his discoveries in electromagnetism, and <a href=\"https://ethw.org/Grace_Murray_Hopper\" rel=\"noopener noreferrer\" target=\"_blank\">Grace Hopper</a>, the queen of software, as well as the challenges they overcame, offers valuable context for current and future innovators.</p><p>A greater understanding and appreciation of the historical contributions of IEEE\u2019s fields and engaging in open dialogue with the public can help build a more sustainable, efficient, and technologically advanced future. Public trust and engagement are essential for the continued progress and acceptance of technological advancements. By revisiting past successes and failures, policymakers can better anticipate the consequences of new electrical engineering advancements and develop policies that foster innovation while also ensuring public safety and environmental sustainability. Ethical considerations have always been inherent to the development of technology, and examining historical challenges can offer valuable insights for navigating similar dilemmas in emerging fields such as artificial intelligence and quantum computing.</p><p>History serves as a testament to the power of human ingenuity and collaboration. By studying the evolution of electrical engineering, we can identify patterns, reflect on what worked well and why, analyze what went wrong, and build upon existing knowledge to create new technologies.</p><h2>Supporting the cause</h2><p>Since its inception, IEEE has had a standing <a href=\"https://www.ieee.org/about/history-center/history-committee\" rel=\"noopener noreferrer\" target=\"_blank\">History Committee</a>, concerned with maintaining the legacy and heritage of the organization and its members and their related professions and technologies. The <a href=\"https://www.ieee.org/about/history-center\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE History Center</a> preserves, researches, and promotes the legacy of electrical engineering and computing through its numerous programs.</p><p>Attending <a href=\"https://ethw.org/Milestones:List_of_IEEE_Milestones\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Milestone</a> dedication ceremonies, which recognize outstanding technical developments around the world, has always been joyful to me. Visiting these historically significant locations, where local volunteers have worked with technical experts, historians, and the public to celebrate pioneering achievements and the people behind them, is truly inspiring and a testament to how technological innovation benefits humanity. They are a great way to experience the <a href=\"https://spectrum.ieee.org/what-computer-history-should-be-saved\" target=\"_blank\">history of technology</a> alongside the global IEEE community.</p><p>This year I had the opportunity to attend the reopening of the <a href=\"https://www.ieee.org/about/history-center/globalmuseum\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Global Museum</a>, which brings traveling exhibits focused on the history of electrotechnology to IEEE members and the public. The museum promotes awareness of how technological progress unfolds over generations and how engineers and researchers can build on past achievements to improve peoples\u2019 lives.</p><p>The <a href=\"https://ethw.org/Oral-History:List_of_all_Oral_Histories\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE oral history program</a> collects spoken memories and personal commentaries of historical significance through recorded interviews. There are nearly 900 interviews available on <a href=\"https://ethw.org/\" rel=\"noopener noreferrer\" target=\"_blank\">ethw.org</a>. As IEEE president, I look forward to my own participation in it.</p><p><a href=\"https://reach.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE REACH</a> provides preuniversity teachers with free resources that situate science, technology, and engineering in their social and human contexts. The resources provide students with an understanding of technologies, including how they have shaped society and, in turn, how society has shaped them.</p><p>Preserving the history of our profession is vital for fostering innovation, inspiring future generations, promoting collaboration, and ensuring the safe, sustainable, and ethical development of technology that will continue to shape our world.</p><p>I encourage you to investigate all the programs and resources available at <a href=\"https://history.ieee.org/\" target=\"_blank\">history.ieee.org</a>. The work of the IEEE History Center is possible in part by donations to the <a href=\"https://spectrum.ieee.org/ieee-foundation-celebrates-50-years\" target=\"_blank\">IEEE Foundation</a>. Support the IEEE History Center <a href=\"https://secure.ieeefoundation.org/site/Donation2?df_id=1680&amp;mfc_pref=T&amp;1680.donation=form1\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>. </p><p>Please share your thoughts with me: <a href=\"mailto:president@ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">president@ieee.org</a></p>"
       },
       {
-        "id": "d3f6da66e0fced90",
-        "title": "Texas banned lab-grown meat. What\u2019s next for the industry?",
-        "url": "https://www.technologyreview.com/2025/09/11/1123512/texas-lab-grown-meat/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 11 Sep 2025 08:00:00 +0000",
-        "published_dt": "2025-09-11T08:00:00+00:00",
-        "summary": "Last week, a legal battle over lab-grown meat kicked off in Texas. On September 1, a two-year ban on the technology went into effect across the state; the following day, two companies filed a lawsuit against state officials. The two companies, Wildtype Foods and Upside Foods, are part of a growing industry that aims to&#8230;"
+        "id": "b0b948d0e3e13412",
+        "title": "Help Celebrate IEEE Day on 7 October",
+        "url": "https://spectrum.ieee.org/ieee-day-2025",
+        "source": "IEEE Spectrum",
+        "published": "Thu, 11 Sep 2025 18:00:05 +0000",
+        "published_dt": "2025-09-11T18:00:05+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-large-group-of-college-students-posing-outside-a-university-building-several-people-are-holding-up-banners-representing-ieee.jpg?id=61588570&amp;width=1200&amp;height=800&amp;coordinates=573%2C0%2C573%2C0\" /><br /><br /><p>Every year IEEE members around the globe come together on <a href=\"https://spectrum.ieee.org/ieee-day-15th-anniversary\" target=\"_self\">IEEE Day</a> to celebrate a shared legacy of innovation, collaboration, and service. First celebrated in 2009, the day commemorates the initial gathering of IEEE members to share their technical ideas in 1884.</p><p>This year the event will be held on 7 October. It promises to be bigger, bolder, and more inspiring than ever.</p><p>IEEE Day is not just a celebration of the past; it\u2019s a rallying point for the future. The day honors the power that technology has to improve lives, as well as the volunteers who work to make it happen.</p><p>From its humble beginnings as a grassroots initiative, IEEE Day has grown into a global celebration with thousands of events hosted by IEEE affinity groups, sections, society chapters, and student branches. The events include technical talks, hackathons, community outreach programs, networking mixers, and cultural showcases. Each one reflects the diversity and creativity of IEEE\u2019s membership as well as the shared mission to advance technology for humanity.</p><h3></h3><br /><div class=\"rblad-ieee_in_content\"></div><p>\u201cIEEE Day 2025 is a celebration of innovation, collaboration, and the incredible impact our members create worldwide,\u201d says Abdul Salik, this year\u2019s event chair. \u201cI encourage everyone to join in, share their stories, and be part of this global movement.\u201d</p><h2>How to get involved</h2><p>Whether you\u2019re a longtime member, a volunteer, or have recently joined, there are many ways to participate.</p><ul><li><strong>Hold or attend an event.</strong> Organize a gathering, workshop, or panel discussion, whether in-person or virtual. IEEE Day is an opportunity to connect with peers, share ideas, and showcase your work.</li><li><strong>Share your celebration.</strong> Use the #IEEEDay2025 hashtag to post photos, videos, and stories about your event on social media. Let the world see how your community is celebrating.</li><li><strong>Explore the IEEE Day </strong><a href=\"https://ieeeday.org/toolkit\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>toolkit</strong></a><strong>.</strong> It includes logos, templates, promotional materials, and planning guides to help make your event a success.</li><li><strong>Connect through IEEE Collabratec.</strong> Join the <a href=\"https://ieee-collabratec.ieee.org/app/community/48/IEEE-Day/activities\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Day community</a> on <a href=\"https://spectrum.ieee.org/ieee-digital-certificates-volunteer\" target=\"_self\">Collabratec</a> to get answers to your questions, exchange ideas, and find inspiration from other members.</li><li><strong>Participate in IEEE Day contests.</strong> Enter images from your events in the IEEE Day photo and video contests. The categories are technology, social, and STEM-based.</li></ul><p>Whether you\u2019re planning an event, mentoring a student, or simply sharing your story, your participation can help amplify the spirit of IEEE and inspire the next generation of innovators. Visit the <a href=\"https://ieeeday.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Day website</a> and follow along on <a href=\"https://www.instagram.com/ieeeday/\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a>, <a href=\"https://www.facebook.com/IEEEDay/\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a> or <a href=\"https://www.linkedin.com/company/ieeeday/\" rel=\"noopener noreferrer\" target=\"_blank\">LinkedIn</a>.</p><p>If you need more information, <a href=\"mailto:ieee_day_contact@ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">email the IEEE Day team</a></p>"
+      },
+      {
+        "id": "ab79755408515961",
+        "title": "Reality Is Ruining the Humanoid Robot Hype",
+        "url": "https://spectrum.ieee.org/humanoid-robot-scaling",
+        "source": "IEEE Spectrum",
+        "published": "Thu, 11 Sep 2025 13:00:00 +0000",
+        "published_dt": "2025-09-11T13:00:00+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/robots-with-shovels-stand-in-a-container-ready-for-deployment-on-a-pallet.jpg?id=61564898&amp;width=1200&amp;height=800&amp;coordinates=225%2C0%2C225%2C0\" /><br /><br /><p><strong>Over the next several</strong> years, humanoid robots will change the nature of work. Or at least, that\u2019s what humanoid robotics companies have been consistently promising, enabling them to raise <a href=\"https://www.linkedin.com/posts/andrakeay_agility-robotics-a-humanoid-robot-maker-activity-7312580510977769472-mifD/\" rel=\"noopener noreferrer\" target=\"_blank\">hundreds</a> of <a href=\"https://apptronik.com/news-collection/apptronik-raises-350-million-in-series-a-funding\" rel=\"noopener noreferrer\" target=\"_blank\">millions</a> of <a href=\"https://finance.yahoo.com/news/figure-ai-shakes-silicon-valley-140122922.html\" rel=\"noopener noreferrer\" target=\"_blank\">dollars</a> at valuations that run into the billions.</p><p>Delivering on these promises will require a lot of robots. Agility Robotics expects to ship \u201c<a href=\"https://www.bloomberg.com/news/videos/2025-03-04/2025-the-year-for-humanoid-robots-agility-robotics-ceo-video\" rel=\"noopener noreferrer\" target=\"_blank\">hundreds</a>\u201d of its Digit robots in 2025 and has a factory in Oregon capable of building <a href=\"https://spectrum.ieee.org/agility-humanoid-robotics-factory\" target=\"_self\">over 10,000</a> robots per year. Tesla <a href=\"https://www.wsj.com/business/autos/musk-tells-tesla-workers-dont-sell-your-shares-98691278\" rel=\"noopener noreferrer\" target=\"_blank\">is planning </a>to produce 5,000 of its Optimus robots in 2025, and at least 50,000 in 2026. Figure believes \u201c<a href=\"https://www.forbes.com/sites/johnkoetsier/2025/01/30/figure-plans-to-ship-100000-humanoid-robots-over-next-4-years/\" rel=\"noopener noreferrer\" target=\"_blank\">there is a path to 100,000 robots</a>\u201d by 2029. And these are just three of the largest companies in an increasingly crowded space.</p><p>Amplifying this message are many financial analysts: <a href=\"https://institute.bankofamerica.com/content/dam/transformation/humanoid-robots.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Bank of America Global Research</a>, for example, predicts that global humanoid robot shipments will reach 18,000 units in 2025. And <a href=\"https://www.morganstanley.com/insights/articles/humanoid-robot-market-5-trillion-by-2050\" rel=\"noopener noreferrer\" target=\"_blank\">Morgan Stanley Research estimates</a> that by 2050 there could be over 1 billion humanoid robots, part of a US $5 trillion market.</p><p>But as of now, the market for humanoid robots is almost entirely hypothetical. Even the most successful companies in this space have deployed only a small handful of robots in carefully controlled pilot projects. And future projections seem to be based on an extraordinarily broad interpretation of jobs that a capable, efficient, and safe humanoid robot\u2014which does not currently exist\u2014might conceivably be able to do. Can the current reality connect with the promised scale?</p><h2>What Will It Take to Scale Humanoid Robots?</h2><p>Physically building tens of thousands, or even hundreds of thousands, of humanoid robots, is certainly possible in the near term. In 2023, <a href=\"https://ifr.org/ifr-press-releases/news/record-of-4-million-robots-working-in-factories-worldwide\" rel=\"noopener noreferrer\" target=\"_blank\">on the order of 500,000 industrial robots were installed worldwide</a>. Under the basic assumption that a humanoid robot is approximately equivalent to four industrial arms in terms of components, existing supply chains should be able to support even the most optimistic near-term projections for humanoid manufacturing.</p><p>But simply building the robots is arguably the easiest part of scaling humanoids, says <a href=\"https://www.linkedin.com/in/meloneewise/\" rel=\"noopener noreferrer\" target=\"_blank\">Melonee Wise</a>, who served as chief product officer at Agility Robotics until this month. \u201cThe bigger problem is demand\u2014I don\u2019t think anyone has found an application for humanoids that would require several thousand robots per facility.\u201d Large deployments, Wise explains, are the most realistic way for a robotics company to scale its business, since onboarding any new client can take weeks or months. An alternative approach to deploying several thousand robots to do a single job is to deploy several hundred robots that can each do 10 jobs, which seems to be what most of the humanoid industry is betting on in the medium to long term.</p><p>While there\u2019s a belief across much of the humanoid robotics industry that rapid progress in AI must somehow translate into rapid progress toward multipurpose robots, it\u2019s <a href=\"https://spectrum.ieee.org/solve-robotics\" target=\"_self\">not</a> <a href=\"https://www.youtube.com/watch?v=PfvctjoMPk8\" rel=\"noopener noreferrer\" target=\"_blank\">clear</a> how, when, or if that will happen. \u201cI think what a lot of people are hoping for is they\u2019re going to AI their way out of this,\u201d says Wise. \u201cBut the reality of the situation is that currently AI is not robust enough to meet the requirements of the market.\u201d</p><h2>Bringing Humanoid Robots to Market</h2><p><span>Market requirements for humanoid robots include a slew of extremely dull, extremely critical things like battery life, reliability, and safety. Of these, battery life is the most straightforward\u2014for a robot to usefully do a job, it can\u2019t spend most of its time charging. The next version of Agility\u2019s Digit robot, which can handle payloads of up to 16 kilograms, includes a bulky \u201cbackpack\u201d containing a battery with a charging ratio of 10 to 1: The robot can run for 90 minutes, and fully recharge in 9 minutes. Slimmer humanoid robots from other companies must necessarily be making compromises to maintain their svelte form factors.</span></p><p>In operation, Digit will probably spend a few minutes charging after running for 30 minutes. That\u2019s because 60 minutes of Digit\u2019s runtime is essentially a reserve in case something happens in its workspace that requires it to temporarily pause, a not-infrequent occurrence in the logistics and manufacturing environments that Agility is targeting. Without a 60-minute reserve, the robot would be much more likely to run out of power mid-task and need to be manually recharged. Consider what that might look like with even a modest deployment of several hundred robots weighing over a hundred kilograms each. \u201cNo one wants to deal with that,\u201d comments Wise.</p><p>Potential customers for humanoid robots are very concerned with downtime. Over the course of a month, a factory operating at 99 percent reliability will see approximately 5 hours of downtime. Wise says that any downtime that stops something like a production line can cost tens of thousands of dollars per minute, which is why many industrial customers expect a couple more 9s of reliability: 99.99 percent. Wise says that Agility has demonstrated this level of reliability in some specific applications, but not in the context of multipurpose or general-purpose functionality.</p><h2>Humanoid Robot Safety</h2><p><span>A humanoid robot in an industrial environment must meet general </span><a href=\"https://blog.ansi.org/ansi/ansi-b11-standards-safety-of-machinery/\" target=\"_blank\">safety</a><span> </span><a href=\"https://osha.europa.eu/en/legislation/directives/directive-2006-42-ec-of-the-european-parliament-and-of-the-council\" target=\"_blank\">requirements</a><span> for industrial machines. In the past, robotic systems like autonomous vehicles and drones have benefited from immature regulatory environments to scale quickly. But Wise says that approach can\u2019t work for humanoids, because the industry is already heavily regulated\u2014the robot is simply considered another piece of machinery.</span></p><p>There are also more specific<a href=\"https://webstore.ansi.org/standards/ria/ansiriar15082020\" target=\"_blank\"> safety standards</a> currently under development for humanoid robots, explains Matt Powers, associate director of autonomy R&amp;D at Boston Dynamics. He notes that his company is helping develop an <a href=\"https://www.iso.org/standard/91469.html\" target=\"_blank\">International Organization for Standardization (ISO) safety standard for dynamically balancing legged robots</a>. \u201cWe\u2019re very happy that the top players in the field, like Agility and Figure, are joining us in developing a way to explain why we believe that the systems that we\u2019re deploying are safe,\u201d Powers says.</p><p>These standards are necessary because the traditional safety approach of cutting power may not be a good option for a dynamically balancing system. Doing so will cause a humanoid robot to fall over, potentially making the situation even worse. There is no simple solution to this problem, and the initial approach that Boston Dynamics expects to take with its Atlas robot is to keep the robot out of situations where simply powering it off might not be the best option. \u201cWe\u2019re going to start with relatively low-risk deployments, and then expand as we build confidence in our safety systems,\u201d Powers says. \u201cI think a methodical approach is really going to be the winner here.\u201d</p><p>In practice, low risk means keeping humanoid robots away from people. But humanoids that are restricted by what jobs they can safely do and where they can safely move are going to have more trouble finding tasks that provide value.</p><h2>Are Humanoids the Answer?</h2><p><span>The issues of demand, battery life, reliability, and safety all need to be solved before humanoid robots can scale. But a more fundamental question to ask is whether a bipedal robot is actually worth the trouble.</span></p><p>Dynamic balancing with legs would theoretically enable these robots to navigate complex environments like a human. Yet demo videos show these humanoid robots as either mostly stationary or repetitively moving short distances over flat floors. The promise is that what we\u2019re seeing now is just the first step toward humanlike mobility. But in the short to medium term, there are much more reliable, efficient, and cost-effective platforms that can take over in these situations: robots with arms, but with wheels instead of legs.</p><p>Safe and reliable humanoid robots have the potential to revolutionize the labor market at some point in the future. But potential is just that, and despite the humanoid enthusiasm, we have to be realistic about what it will take to turn potential into reality. <span class=\"ieee-end-mark\"></span></p><p><em>This article appears in the October 2025 print issue as \u201cWhy Humanoid Robots Aren\u2019t Scaling.\u201d</em></p>"
+      },
+      {
+        "id": "3e691aab4a1d482b",
+        "title": "Natcast to Lay Off Majority of Its Staff",
+        "url": "https://spectrum.ieee.org/natcast-layoffs",
+        "source": "IEEE Spectrum",
+        "published": "Thu, 11 Sep 2025 12:00:03 +0000",
+        "published_dt": "2025-09-11T12:00:03+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/an-illustration-of-the-logo-for-natcast-which-resembles-an-american-flag-with-components-related-to-chips-falling-apart.jpg?id=61557640&amp;width=1200&amp;height=800&amp;coordinates=125%2C0%2C125%2C0\" /><br /><br /><p>Natcast, the non-profit organization created to run the U.S. CHIPS & Science Act\u2019s National Semiconductor Technology Center (NSTC) told the majority of its staff they would be laid off this week, <em><em>IEEE Spectrum</em></em> has learned. A small core team will continue on to shut Natcast down over the next few weeks, a person familiar with the matter said.</p><p>The organization was founded in 2023 to run NSTC, which the law established to conduct \u201cresearch and prototyping of advanced semiconductor technology and grow the domestic semiconductor workforce to strengthen the economic competitiveness and security of the domestic supply chain.\u201d</p><p>However, on 25 August Commerce Secretary Howard Lutnick stated that the department <a href=\"https://spectrum.ieee.org/natcast\" target=\"_blank\">would not deliver the US $7.4 billion</a> in funds under its contract with the government. In an accusatory <a href=\"https://www.commerce.gov/sites/default/files/2025-08/Natcast-CEO-Letter.pdf\" target=\"_blank\">letter</a> to Natcast CEO <a href=\"https://www.linkedin.com/in/deirdre-hanford/\" target=\"_blank\">Deirdre Hanford </a>and a <a href=\"https://www.commerce.gov/news/press-releases/2025/08/department-commerce-takes-action-against-biden-administrations\" target=\"_blank\">press release</a>, Lutnick claimed the nonprofit was not created legally, and said that the <a href=\"https://www.nist.gov/chips\" target=\"_blank\">National Institute of Standards and Technology</a> would be taking over NSTC operations.</p><p><span>The Commerce Department has been suppressing Natcast\u2019s operations for many months, </span><em>IEEE Spectrum</em><span> has learned. According to multiple sources, the organization\u2019s research agenda was completed in April and should have been accepted and processed by Commerce in a matter of weeks. But it never happened. A memo selecting awardees for research into </span><a href=\"https://natcast.org/research-and-development/prism\" target=\"_blank\">reducing the impact of perfluoroalkyl substances (PFAS) from semiconductor manufacturing</a><span> was submitted to Commerce but never approved. Three groups won parts of a </span><a href=\"https://natcast.org/natcast-finalizes-aidrfic-research-contracts\" target=\"_blank\">$30 million grant to transform the design of RF chips using machine learning</a><span>, but at least one awardee has gotten no word on when or whether the funding will flow.</span></p><p>\u201cThis is a sad end,\u201d said one person who requested anonymity and was involved in early debate about the NSTC. </p><p>Lutnick\u2019s characterization of Natcast\u2019s creation as cronyism \u201cis pretty frustrating,\u201d this person continued. The idea that NSTC would be operated by an independent public-private partnership, which is written into the law, came from deep consultation with industry and was intended to insulate its work from politics. The organization needed such protection to make good technical decisions, because in selecting who gets funds \u201cthere are always more losers than winners,\u201d this person said.</p><p>Over the past week, Natcast has been defending itself and its staff against Lutnick\u2019s accusations. On 4 September, in a <a href=\"https://natcast.org/natcast-member-letter-regarding-the-nstc\" target=\"_blank\">letter to its 200 members</a>, Hanford countered Lutnick\u2019s assertions that the organization was packed with Biden administration cronies and that it was run as a \u201cslush fund.\u201d Hanford pointed to the multiple layers of government and industry oversight Natcast operates under and the experienced semiconductor industry staff it has brought on. She added that the nonprofit had stuck to its agreements with the government, submitting 119 \u201cmilestones and deliverables\u201d to Commerce.</p><h2>What\u2019s Lost Without Natcast</h2><p>On 8 September, Natcast published a detailed <a href=\"https://natcast.org/natcast-assets-supporting-the-continued-mission-of-the-nstc\" target=\"_blank\">overview of what it has done so far</a>. Accomplishments included creating an industry-driven R&amp;D agenda, the development of multiple workforce programs, and the signing on of some 200 members. These members included cutting-edge logic and memory companies (such as <a href=\"https://www.intel.com/content/www/us/en/foundry/overview.html\" target=\"_blank\">Intel</a>, <a href=\"https://www.nvidia.com/en-us/\" target=\"_blank\">Nvidia</a>, <a href=\"https://www.skhynix.com/\" rel=\"noopener noreferrer\" target=\"_blank\">SK Hynix</a>, and <a href=\"https://spectrum.ieee.org/tsmc-arizona\" target=\"_self\">TSMC</a>), small companies like <a href=\"https://spectrum.ieee.org/atomera-plans-to-breathe-new-life-into-older-chip-manufacturing\" target=\"_self\">Atomera</a>, <a href=\"https://spectrum.ieee.org/search/?q=encharge+ai\" target=\"_self\">EnCharge AI</a>, and <a href=\"https://spectrum.ieee.org/power-electronics\" target=\"_self\">Polar Semiconductor</a>, and multiple universities and makers of semiconductor tools and equipment.</p><p><a href=\"https://natcast.org/nstcmembership/members\" rel=\"noopener noreferrer\" target=\"_blank\">Members</a> had the right to use facilities and other infrastructure that Natcast was standing up (for a fee) and participate in research. One goal for the infrastructure was to reduce the time from concept to prototype by 30 percent. Access to the tools and processes NSTC would provide is out of reach for even some of the country\u2019s top researchers, <em><em>IEEE Spectrum</em></em>\u2019s source said. Without that access, startups and researchers won\u2019t be able to afford to do relevant work using 300-millimeter wafers and advanced chip-technology nodes. Despite the fact that not all of its facilities were complete, Natcast had plans to proceed with research by chaining together existing infrastructure around the country.</p><p>In addition, the document from 8 September detailed the expert in-house team at Natcast, and said that expertise allowed it to evaluate R&amp;D awards at twice the rate of federal agencies while requiring considerably less overhead than government, universities, and non-profit research organizations like Imec. (It forecast a 10 percent overhead on expenses over 10 years.)</p><p>\u201cNatcast was supposed to do what industry couldn\u2019t solve by itself,\u201d said a source familiar with the situation. Its R&amp;D program was aimed at solving big problems, such as collapsing the time and energy required to <a href=\"https://natcast.org/research-and-development/smap\" rel=\"noopener noreferrer\" target=\"_blank\">move data between memory and computing</a>, in a way that the whole industry could benefit from.<span></span></p>"
       },
       {
         "id": "2280e62791472c50",
@@ -765,22 +774,58 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-person-wearing-a-bunny-suit-in-a-cleanroom-suit-looks-a-monitor.jpg?id=61522460&amp;width=1200&amp;height=800&amp;coordinates=189%2C0%2C189%2C0\" /><br /><br /><p>The U.S. Commerce Department says it will not abide by an agreement to fund the <a href=\"https://spectrum.ieee.org/tag/chips-act\" target=\"_self\">U.S. CHIPS and Science Act</a>\u2019s R&amp;D through the nonprofit set up to administer the program, called Natcast. Instead, it handed operational control to the National Institute of Standards and Technology (NIST).</p><p><a href=\"https://natcast.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Natcast</a> was created in 2023 to oversee the National Semiconductor Technology Center (NSTC), which the law established to conduct \u201cresearch and prototyping of advanced semiconductor technology and grow the domestic semiconductor workforce to strengthen the economic competitiveness and security of the domestic supply chain.\u201d </p><p>The nonprofit was contracted to receive a total of US $7.4 billion in annual payments and when the organization reaches milestones. But <a href=\"https://en.wikipedia.org/wiki/Howard_Lutnick\" rel=\"noopener noreferrer\" target=\"_blank\">Commerce Secretary Howard Lutnick</a> claimed that Natcast doesn\u2019t meet certain legal requirements, and therefore the contract, inked less than a week before Donald J. Trump took office for the second time, is illegal. </p><p>Several NSTC proponents whom <em><em>IEEE Spectrum</em></em> spoke to are concerned that the move could squander U.S. semiconductor leadership in the long term. The goal of the NSTC, those involved say, is to make gains in semiconductors from the CHIPS Act durable through continued advances. </p><h2>Semiconductor Workforce Development</h2><p>Since its establishment, Natcast has been working to bring up three <a href=\"https://spectrum.ieee.org/nstc\" target=\"_self\">key centers to execute those functions</a>. In Silicon Valley, it\u2019s established a workforce-development and design-enablement center. In New York, it opened a center for<a href=\"https://natcast.org/grand-opening-nstc-euv-accelerator\" rel=\"noopener noreferrer\" target=\"_blank\"> extreme-ultraviolet lithography for cutting-edge chipmaking</a>. And in Arizona, it plans to build a <a href=\"https://natcast.org/third-chips-for-america-rd-flagship-facility-announced\" rel=\"noopener noreferrer\" target=\"_blank\">prototyping and packaging facility</a>. The centers are intended to help startups and other companies more easily bridge the <a href=\"https://spectrum.ieee.org/power-electronics\" target=\"_self\">lab-to-fab gap</a> that currently prevents new technologies from making it into commercial products.</p><p class=\"pull-quote\">\u201cThere were people from day one\u2026who viewed [Natcast] as very much a political entity and wanted to undo it.\u201d </p><p>The CHIPS Act requires that the NSTC be operated as a \u201cpublic private-sector consortium with participation from the private sector\u201d instead of by a government agency. During the Biden administration, the Commerce Department created Natcast to fill that role, deliberately setting it up in a way to help maintain its independence from political interference. </p><p>In a <a href=\"https://www.commerce.gov/sites/default/files/2025-08/Natcast-CEO-Letter.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">public letter</a> to Natcast CEO <a href=\"https://natcast.org/deirdre-hanford-ceo\" rel=\"noopener noreferrer\" target=\"_blank\">Deirdre Hanford</a>, Lutnick cast the actions of Hanford, her staff, and the volunteer advisors involved in the organization\u2019s creation as giving \u201cthe appearance of impropriety\u201d and flouting \u201cfederal law.\u201d \u201cFrom the very beginning Natcast served as a semiconductor slush fund that did nothing but line the pockets of Biden loyalists with American tax dollars,\u201d he said in a <a href=\"https://www.commerce.gov/news/press-releases/2025/08/department-commerce-takes-action-against-biden-administrations\" rel=\"noopener noreferrer\" target=\"_blank\">press release</a>.</p><p><em><em>Spectrum</em></em> sought additional comment from the Commerce Department and from Natcast but did not receive a reply by press time.</p><p>Very little funding has actually been delivered, sources say, in part because Commerce has held up its dispersal. (Despite this, NSTC does have a <a href=\"https://www.linkedin.com/posts/jay-lewis-1108361_natcast-nist-natcast-activity-7362847657897205761-tEE3?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAAolpgBG1d7OiKsbIW43dxd6SSv0dyPEgA\" rel=\"noopener noreferrer\" target=\"_blank\">list of accomplishments</a>.) Lutnick\u2019s legal argument for refusing payment now is that Natcast wasn\u2019t established in accordance with the Government Corporation Control Act, which lays out how government agencies establish or purchase corporations. </p><p>One person familiar with the situation who asked not to be named says that the structure of Natcast is typical of public\u2013private partnerships and that its underpinnings were thoroughly reviewed by the Commerce Department before its establishment. What\u2019s really at issue, this person says, is Natcast\u2019s independence.</p><p class=\"pull-quote\">\u201cWhat was set up\u2026was always designed with a long-term strategy in mind. I don\u2019t think they\u2019ll get that back\u2026. I think all of that has gone away with this decision.\u201d</p><p>\u201cThere were people from day one\u2026who viewed [Natcast] as very much a political entity and wanted to undo it,\u201d says this person.</p><p>In the letter, Lutnick takes aim at <a href=\"https://corporate-awards.ieee.org/recipient/deirdre-hanford/\" rel=\"noopener noreferrer\" target=\"_blank\">Hanford</a>, formerly a top executive at electronic design automation giant <a href=\"https://www.synopsys.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Synopsys</a>, as well as at Natcast staffers who came over from government during the Biden administration or from a volunteer <a href=\"https://www.commerce.gov/news/press-releases/2022/09/us-department-commerce-appoints-first-members-industrial-advisory\" rel=\"noopener noreferrer\" target=\"_blank\">industrial advisory committee</a> that included IEEE Fellows and other chip-industry leaders. Targeting such people is concerning, says one expert who preferred not to be named, because chip experts who choose to work in government or at Natcast are usually giving up more lucrative work to serve their country. It has the effect of \u201cpunishing patriotic behavior,\u201d the expert said.</p><p>Delaying the work of the NSTC by attacking Natcast is counterproductive for the U.S. chip industry, the expert added. \u201cWe are in a race, and these delays make it all the more urgent.\u201d</p><p>Commerce will likely find some way to spend the money on semiconductor R&amp;D eventually, sources agreed. One expert told <em><em>Spectrum</em></em> they have faith in NIST\u2019s ability to administer the research funding. Mark Granahan, an early proponent of the CHIPS Act and CEO of<a href=\"https://idealsemi.com/\" target=\"_blank\"> Ideal Semiconductor</a>, in Bethlehem, Penn., went further. \u201cIf the administration has a different tactic but the same goal\u2026 not just independence in semiconductors but leadership\u2026then NIST and other existing infrastructure is capable of handling things,\u201d he said.</p><p>But other sources were skeptical it would have the same impact as Natcast. \u201cWhat was set up\u2026was always designed with a long-term strategy in mind,\u201d said one person. \u201cI don\u2019t think they\u2019ll get that back\u2026. I think all of that has gone away with this decision.\u201d</p><p><em>This post was updated on 26 August 2025 to remove mention of NSTC\u2019s September Symposium, which is now canceled.</em></p>"
       },
       {
-        "id": "c1d5ad10656b991e",
-        "title": "It\u2019s the End of the Line for AOL\u2019s Dial-Up Service",
-        "url": "https://spectrum.ieee.org/end-of-aol-dial-up",
+        "id": "69fd19d2e59f7349",
+        "title": "Faster Career Growth: Individual Contributor or Manager?",
+        "url": "https://spectrum.ieee.org/faster-career-growth",
         "source": "IEEE Spectrum",
-        "published": "Wed, 27 Aug 2025 14:00:04 +0000",
-        "published_dt": "2025-08-27T14:00:04+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-photo-collage-of-a-retro-modem-and-telephone-with-a-cd-floppy-disks-and-login-screen-for-america-online.jpg?id=61508652&amp;width=1200&amp;height=800&amp;coordinates=125%2C0%2C125%2C0\" /><br /><br /><p>The last time I used a dial-up modem came sometime around 2001. Within just a few years, dial-up had exited my life, never to return. I haven\u2019t even had a telephone line in my house for most of my adult life.</p><div class=\"badge_module shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\">\n<a class=\"rm-stats-tracked\" href=\"https://tedium.co/\" target=\"_blank\">\n<img alt=\"Tedium logo, a red rectangle with the word Tedium in white, above the text &quot;This post originally appeared on Tedium.&quot;\" class=\"rm-shortcode rm-lazyloadable-image\" src=\"https://spectrum.ieee.org/media-library/tedium-logo-a-red-rectangle-with-the-word-tedium-in-white-above-the-text-this-post-originally-appeared-on-tedium.png?id=60568211&amp;width=1800&amp;quality=85\" /></a>\n</div>\n<p>But I still feel a strong tinge of sadness to know that AOL is <a href=\"https://help.aol.com/articles/dial-up-internet-to-be-discontinued\" rel=\"noopener noreferrer\" target=\"_blank\">finally retiring</a> the ol\u2019 hobbyhorse. At the end of September, it\u2019s gone. The timeline is almost <a href=\"https://tedium.co/2020/10/13/eternal-september-modern-impact/\" rel=\"noopener noreferrer\" target=\"_blank\">on-the-nose fitting</a>: The widespread access to the Internet AOL\u2019s service brought in the 1990s is associated with a digital phenomenon called the Eternal September. Before AOL allowed broad access to Usenet\u2014a precursor to today\u2019s online discussion forums\u2014most new users appeared each September, when new college students frequently joined the platform. Thanks to AOL, they began showing up daily starting around September 1993.</p><p>The fact that AOL\u2019s dial-up is still active in the first place highlights a truism of technology: Sometimes, the important stuff sticks around well after it\u2019s obsolete.</p><h3>Why AOL is ditching dial-up now</h3><p>It\u2019s no surprise that dial-up has lingered for close to a quarter-century. Despite not having needed a dial-up modem myself since the summer of 2001, I was once so passionate about dial-up that I begged to get a modem for my 13th birthday. Modems are hard to shake, and not just because we fondly remember waiting so long for them to do their thing.</p><p>Originally, the telephone modem was a hack. It was pushed into public consciousness <a href=\"https://www.google.com/books/edition/A_Phone_of_Our_Own/4bgvh1lTQwcC?hl=en&amp;gbpv=1&amp;pg=PA30&amp;printsec=frontcover\" rel=\"noopener noreferrer\" target=\"_blank\">partly by Deaf users</a> who worked around the phone industry\u2019s monopolistic regulations to develop <a href=\"https://www.nad.org/resources/technology/telephone-and-relay-services/tty-and-tty-relay-services/\" rel=\"noopener noreferrer\" target=\"_blank\">the teletypewriter</a>, a system to communicate over phone lines via text. Along the way, the community invented technologies like the acoustic coupler.</p><p>To make that hack function, modems had to do multiple conversions in real time\u2014from data to audio and back again, in two directions. As I put it in a piece that <a href=\"https://tedium.co/2023/06/28/teletype-computer-evolution-history/\" rel=\"noopener noreferrer\" target=\"_blank\">compared the modem to the telegraph</a>:</p><blockquote>The modem, at least in its telephone-based forms, represents a dance between sound and data. By translating information into an aural signal, then into current, then back into an aural signal, then back into data once again, the modulation and demodulation going on is very similar to the process used with the original telegraph, albeit done manually.</blockquote><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"A retro rectangular modem that says U.S. Robotics Sportster 33.6 Faxmoden\" class=\"rm-shortcode\" id=\"e814a\" src=\"https://spectrum.ieee.org/media-library/a-retro-rectangular-modem-that-says-u-s-robotics-sportster-33-6-faxmoden.jpg?id=61508670&amp;width=980\" /> <small class=\"image-media media-caption\">Modems like this one from U.S. Robotics work by converting data to audio and back again. </small><small class=\"image-media media-photo-credit\"><a href=\"https://commons.wikimedia.org/wiki/File:U.S._Robotics_33.6K_Modem.jpg\" target=\"_blank\">Jphill19/Wikimedia Commons</a></small></p>With telegraphs, the information was input by a person, translated into electric pulses, and received by another person. Modems work the same way, just without human translators. <p>The result of all this back and forth was that modems had to give up a hell of a lot of speed to make this all work. The need to connect over a medium built for audio meant that data was at risk of getting lost over the line. (This is why <a href=\"https://tedium.co/2021/01/06/error-correcting-code-memory-history/\" target=\"_blank\">error correction</a> was an essential part of the modem\u2019s evolution; often data needed to be shared more than once to ensure it got through. Without error correction, dial-up modems would be even slower.)</p><p class=\"shortcode-media shortcode-media-youtube\"> <span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span> <small class=\"image-media media-caption\">Remember that sound? It marked many users\u2019 first experience getting online.</small><small class=\"image-media media-photo-credit\"><a href=\"https://www.youtube.com/watch?v=dudJjUU9Nhs&amp;t=2s\" target=\"_blank\">AdventuresinHD/YouTube</a></small></p><p>Telephone lines were a hugely inefficient system for data because they were built for voice and heavily compressed audio. Voices are still clear and recognizable after being compressed, but audio compression can wreak havoc on data connections. </p><p>Plus, there was the problem of line access. With a call, you could not easily share a connection. That meant you couldn\u2019t make phone calls while using dial-up, leading to some homes getting a second line. And at the Internet Service Provider level, having multiple lines got very complex, very fast.</p><p>The phone industry knew this, <a href=\"https://tedium.co/2024/01/12/isdn-history-retrospective/\" target=\"_blank\">but its initial solution, ISDN</a>, did not take off among mainstream consumers. (A later one, <a href=\"https://spectrum.ieee.org/inventor-of-dsl-altered-connectivity\" target=\"_blank\">DSL</a>, had better uptake, and is likely one of the few Internet options rural users currently have.)</p><p class=\"pull-quote\">In some areas of the United States, dial-up remains the best option\u2014the result of decades of poor investment in Internet infrastructure.</p><p>So the industry moved to other solutions to get consumers Internet\u2014<a href=\"https://spectrum.ieee.org/ethernet-ieee-milestone\" target=\"_blank\">coaxial cable</a>, which was already widespread because of cable TV, and fiber, which wasn\u2019t. The problem is, coax never reached quite as far as telephone wires did, in part because cable television wasn\u2019t technically a utility in the way electricity or water were. </p><p><span>In recent years, many attempts have been made to classify </span><a href=\"https://spectrum.ieee.org/covid19-makes-clear-broadband-access-is-human-right\" target=\"_blank\">Internet access as a public utility</a><span>, though the most recent one was </span><a href=\"https://www.npr.org/2025/01/03/nx-s1-5247840/net-neutrality-fcc-struck\" target=\"_blank\">struck down by an appeals court</a><span> earlier this year. </span><span>The public utility regulation is important. The telephone had struggled to reach rural communities in the 1930s, and only did so after a series of regulations, including </span><a href=\"https://www.frs.org/history-rural-telecommunications\" target=\"_blank\">one that led to the creation</a><span> of the Federal Communications Commission, were put into effect. So too did electricity, which </span><a href=\"https://www.richmondfed.org/publications/research/econ_focus/2020/q1/economic_history\" target=\"_blank\">needed a dedicated law</a><span> to expand its reach.</span></p><p>But the reach of broadband is frustratingly incomplete, as highlighted by the fact that many areas of the country are not properly covered by cellular signals. And getting new wires hung can be an immensely difficult task, in part because companies that sell fiber, like <a href=\"https://arstechnica.com/information-technology/2015/01/verizon-nears-the-end-of-fios-builds/\" target=\"_blank\">Verizon</a> and Google, often stop investing due to the high costs. (Though, to Google\u2019s credit, <a href=\"https://fiber.google.com/blog/2022/08/whats-next-for-google-fiber.html\" target=\"_blank\">it started expanding again in 2022</a> after a six-year rollback.)</p><p>So, in some areas of the United States, dial-up remains the best option\u2014the result of decades of poor investment in Internet infrastructure. This, for years, has propped up companies like AOL, which has evolved numerous times since it foolishly merged with Time Warner a quarter-century ago.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"A screenshot showing a 1994 DOS AOL client\" class=\"rm-shortcode\" id=\"4112a\" src=\"https://spectrum.ieee.org/media-library/a-screenshot-showing-a-1994-dos-aol-client.jpg?id=61508672&amp;width=980\" /> <small class=\"image-media media-caption\">The first PC-based client called America Online appeared on the graphical operating system GeoWorks. This screenshot shows the DOS AOL client that was distributed with GeoWorks 2.01.</small><small class=\"image-media media-photo-credit\">Ernie Smith</small></p><p>But AOL is not the company it was. After multiple acquisitions and spin-outs, it is now a mere subsidiary of Yahoo, and it long ago transitioned into a Web-first property. Oh, it still has <a href=\"https://www.aol.com/products\" target=\"_blank\">subscriptions</a>, but they\u2019re effectively fancy analogues for unnecessary security software. And their email client, while having been defeated by the likes of Gmail years ago, still has its fans. </p><p>When I posted the AOL news on social media, about 90 percent of the responses were jokes or genuine notes of respect. But there was a small contingent, maybe 5 percent, that talked about how much this was going to screw over far-flung communities. I don\u2019t think it\u2019s AOL\u2019s responsibility to keep this model going forever.</p><p>Instead, it looks like the job is going to fall to two companies: Microsoft, whose <a href=\"https://www.microsoft.com/en-us/d/msn-dial-up-internet-access/CFQ7TTC0KGVG/\" target=\"_blank\">MSN Dial-Up Internet Access</a> costs US $179.95 per year, and the company <a href=\"https://www.unitedonline.net/company/overview/\" target=\"_blank\">United Online</a>, which still operates the longtime dial-up players Juno and NetZero. Satellite Internet is also an option, with older services like HughesNet and newer ones like Starlink picking up the slack.</p><p>It\u2019s not AOL\u2019s fault. But AOL is the face of this failing.</p><h3>AOL dropping dial-up is part of a long fade-out</h3><p>As technologies go, the dial-up modem has not lasted quite as long as the telegram, which has been active in one form or another for 181 years. But the modem, which was first used in 1958 as <a href=\"https://www.ll.mit.edu/about/history/sage-semi-automatic-ground-environment-air-defense-system\" target=\"_blank\">part of an air-defense system</a>, has stuck around for a good 67 years. That makes it one of the oldest pieces of computer-related technology still in modern use.</p><p>To give you an idea of how old that is: 1958 is also the year that the <a href=\"https://tedium.co/2018/01/25/soldering-technology-history/\" target=\"_blank\">integrated circuit</a>, an essential building block of any modern computer, was invented. The disk platter, which became the modern <a href=\"https://tedium.co/2022/02/18/early-hard-drive-history/\" target=\"_blank\">hard drive</a>, was invented a year earlier. The <a href=\"https://tedium.co/2023/11/17/3m-floppy-disks-history/\" target=\"_blank\">floppy disk</a> came a decade later.</p><p>(It should be noted that the modem itself is not dying\u2014your smartphone has one\u2014but the connection your landline has to your modem, the really loud one, has seen better days.)</p><p>The news that AOL is dropping its service might be seen as the end of the line for dial-up, but the story of the telegram hints that this may not be the case. In 2006, much hay was made about <a href=\"https://www.npr.org/2006/02/02/5186113/western-union-sends-its-last-telegram\" target=\"_blank\">Western Union sending its final telegram</a>. But Western Union was never the only company sending telegrams, and another company picked up the business. You can still send a telegram via <a href=\"https://itelegram.com\" target=\"_blank\">International Telegram</a> in 2025. (It\u2019s not cheap: A single message, sent the same day, is $34, plus 75 cents per word.)</p><p>In many ways, AOL dropping the service is a sign that this already niche use case is going to get more niche. <span>But niche use cases have a way of staying relevant, given the right audience. It\u2019s sort of like why doctors continue to use pagers. As </span><a href=\"https://www.npr.org/2023/12/08/1197955913/doctors-pagers-beepers\" target=\"_blank\">a Planet Money episode</a><span> from two years ago </span>noted<span>, the additional friction of using pagers worked well with the way doctors functioned, because it ensured that they knew the messages they were getting didn\u2019t compete with anything else.</span></p><p>Dial-up is likely never going to totally die, unless the landline phone system itself gets knocked offline, <a href=\"https://www.usatoday.com/story/money/2024/12/04/att-eliminate-traditional-landline-copper-phone-service-2029/76765766007/\" target=\"_blank\">which AT&amp;T has admittedly been itching to do</a>. It remains one of the cheapest options to get online, outside of drinking a single coffee at a Panera and logging onto the wifi.</p><p>But AOL? While dial-up may have been the company\u2019s primary business earlier in its life, it hasn\u2019t really been its focus in quite a long time. AOL is now a highly diversified company, whose primary focus over the past 15 years has been advertising. It still sells subscriptions, but those subscriptions are about to lose their most important legacy feature.</p><p>AOL is simply too weak to support the next generation of Internet service themselves. Their inroad to broadband was supposed to be Time Warner Cable; that didn\u2019t work out, so they pivoted to something else, but kept around the legacy business while it was still profitable. It\u2019s likely that emerging technologies, like <a href=\"https://www.microsoft.com/en-us/corporate-responsibility/airband-initiative\" target=\"_blank\">Microsoft\u2019s Airband Initiative</a>, which relies on distributing broadband over unused \u201cwhite spaces\u201d on the television dial, stand a better shot. 5G connectivity will also likely improve over time (T-Mobile <a href=\"https://www.t-mobile.com/news/network/t-mobile-brings-5g-home-internet-to-nearly-five-million-more-homes\" target=\"_blank\">already promotes its 5G home Internet</a> as a rural option), and perhaps more satellite-based options will emerge.</p><p>Technologies don\u2019t die. They just slowly become so irrelevant that they might as well be dead.</p><h3>The monoculture of the AOL login experience</h3><p>When I posted the announcement, hidden in an obscure link on the AOL website sent to me by a colleague, it immediately went viral on Bluesky and Mastodon.</p><p>That meant I got to see a lot of people react to this news in real time. Most had the same comment: I didn\u2019t even know it was still around. Others made modem jokes, or talked about AOL\u2019s famously <a href=\"https://www.youtube.com/watch?v=11vO8OpbCvs\" target=\"_blank\">terrible customer service</a>. What was interesting was that most people said roughly the same thing about the service.</p><p>That is not the case with most online experiences, which usually reflect myriad points of views. I think it speaks to the fact that while the Internet was the ultimate monoculture killer, the experience of getting online for the first time was largely monocultural. Usually, it started with a modem connecting to a phone number and dropping us into a single familiar place. <span></span></p><p>We have lost a lot of Internet Service Providers over the years. Few spark the passion and memories of America Online, a network that somehow beat out more innovative and more established players to become the onramp to the Information Superhighway, for all the good and bad that represents.</p><p>AOL must be embarrassed of that history. It barely even announced its closure.</p>"
+        "published": "Thu, 11 Sep 2025 19:55:38 +0000",
+        "published_dt": "2025-09-11T19:55:38+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.jpg?id=59104110&amp;width=1200&amp;height=800&amp;coordinates=0%2C103%2C0%2C104\" /><br /><br /><p><em>This article is crossposted from </em><a href=\"https://spectrum.ieee.org/zaporizhzhia-nuclear-power-plant\" target=\"_self\">IEEE Spectrum</a><em>\u2019s careers newsletter. <a href=\"https://engage.ieee.org/Career-Alert-Sign-Up.html\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Sign up now</em></a><em> to get insider tips, expert advice, and practical strategies, <em><em>written i<em>n partnership with tech career development company <a href=\"https://jointaro.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Taro</a> and </em></em></em>delivered to your inbox for free!</em></em></p><p><span>During my first two years working at <a href=\"https://www.meta.com/\" target=\"_blank\">Meta</a>, I was an individual contributor (IC) engineer. Then, after an encouraging review, my manager asked if I\u2019d start managing a team of my own. I had received strong performance ratings and earned trust among my colleagues and the leadership team, and the organization\u2019s headcount was consistently increasing each year.</span></p><p>This is the standard origin story for engineers who transition to management. But the skills required to succeed as an engineer and the ones a manager has to have are significantly different. Strong engineers succeed through rigorous analytical ability and deep work. Strong managers (whose work is decidedly un-analytical!) motivate and grow people\u2019s <span>careers</span>, while also being prepared to jump into issues at a moment\u2019s notice.</p><p><span>The ideal motivation to become a manager is simple: </span><strong>You care about people</strong><span>. Management is inherently a people-oriented </span><span>job</span><span>, which means managers should grow their reports through positive and constructive feedback. A good manager cares about discovering each person\u2019s zone of genius and then assigning work that best matches that engineer\u2019s profile. The byproduct of this is the ability to scale impact, but that should not be the primary motive.</span></p><p><span>A common, yet misguided, reason to switch to management is to earn more money. At least within Big Tech companies, managers and ICs at the same level are paid the same amount. In fact, some companies deliberately pay their managers less, simply to discourage mercenary engineers who are optimizing for compensation rather than people.</span></p><p><span></span><span>However, there is nuance here that\u2019s worth calling out. At more senior levels, managers are promoted at faster rates compared to ICs. A manager\u2019s impact is largely derived from their influence in an org, which includes the number of people in their reporting chain. A director with 50 engineers in their org can effectively \u201cclaim credit\u201d for the people on their team.</span></p><p><span></span><span>On the other hand, an individual contributor at the director level must produce output that has a similar scale of impact to what the 50 engineers shipped. As you can imagine, this is much harder. IC promotions at these levels require a level of technical brilliance that is difficult to reliably reproduce.</span></p><p><span></span><span>Managers often get promoted as they accumulate more people under them. This process can happen through re-orgs or employee departures, not necessarily through the unique contributions of the manager. The result is that managers who stick around long enough will naturally grow their </span><span>careers</span><span>. Empirically, this is obvious in the data. At a company like Meta or Google, there are far more VP-level managers than there are IC engineers of the equivalent level.</span></p><p><span></span><span>In the long term, therefore, managers do earn more money than individual contributors. This is not necessarily wrong, but you should reflect on your incentives and determine what will make you fulfilled beyond the money.</span></p><p><span>I ended up saying yes to the management opportunity I was offered, and I\u2019m very glad I did. Like any <span><span>job</span></span>, there were parts that I loved and parts that I didn\u2019t, and I ended up switching back to the IC ladder within a year.</span></p><p><span>\u2014Rahul</span></p><h3><a href=\"https://spectrum.ieee.org/nasa-budget-cuts-trump-staff\" target=\"_blank\">NASA Cut 4,000 Staff, Where Will They Go?</a></h3><p><span></span><span>The U.S. space agency is undergoing a large \u201creduction in force,\u201d which includes about 4,000 employees who have taken offers to leave their positions through a \u201cdeferred resignation program.\u201d Where will ex-NASA engineers go next, and what does it mean for future missions?</span></p><p><span><a href=\"https://spectrum.ieee.org/nasa-budget-cuts-trump-staff\" target=\"_blank\">Read more here</a>.</span></p><h3><a href=\"https://spectrum.ieee.org/stem-education-in-africa\" target=\"_blank\">What I Learned From a Janky Drone</a></h3><p><span>A Nigerian engineering student describes his experience as part of a pair of articles on engineering education in Africa, from the perspective of both a student and teacher. \u201cThey describe the challenges they face and what they see as the path forward for a continent brimming with aspiring engineers but woefully short on the resources necessary for a robust education,\u201d <em>IEEE Spectrum\u2019</em>s editor-in-chief Harry Goldstein writes in an accompanying note.</span><span></span></p><p><span><a href=\"https://spectrum.ieee.org/stem-education-in-africa\" target=\"_blank\">Read more here</a>.</span></p><h3><a href=\"https://spectrum.ieee.org/tech-founders-prioritize-the-problem\" target=\"_blank\">Tech Founders Must Learn to Prioritize the Problem</a></h3><p>Taking innovative tech to market can be tricky for engineers coming from a research background. In this guest post, the founder and CEO of a quantum-dot nanotechnology company shares the lessons he\u2019s learned, and why scientific merit alone won\u2019t guarantee market success.</p><p><span></span><span><a href=\"https://spectrum.ieee.org/tech-founders-prioritize-the-problem\" target=\"_blank\">Read more here</a>.</span></p>"
       },
       {
-        "id": "c450a54a30ee3d7a",
-        "title": "Teens\u2019 Innovations Save Marine Life and Better Detect Diseases",
-        "url": "https://spectrum.ieee.org/2025-ieee-presidents-scholarship",
+        "id": "c9edb7cc0a466240",
+        "title": "We can\u2019t \u201cmake American children healthy again\u201d without tackling the gun crisis",
+        "url": "https://www.technologyreview.com/2025/09/11/1123553/maha-report-gun-violence-checkup/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 11 Sep 2025 16:57:00 +0000",
+        "published_dt": "2025-09-11T16:57:00+00:00",
+        "summary": "Note for readers: This newsletter discusses gun violence, a raw and tragic issue in America. It was already in progress on Wednesday when a school shooting occurred at Evergreen High School in Colorado and Charlie Kirk was shot and killed at Utah Valley University.&#160; Earlier this week, the Trump administration\u2019s Make America Healthy Again movement&#8230;"
+      },
+      {
+        "id": "2b26d04692730804",
+        "title": "Partnering with generative AI in the finance function",
+        "url": "https://www.technologyreview.com/2025/09/11/1123508/partnering-with-generative-ai-in-the-finance-function/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 11 Sep 2025 13:00:00 +0000",
+        "published_dt": "2025-09-11T13:00:00+00:00",
+        "summary": "Generative AI has the potential to transform the finance function. By taking on some of the more mundane tasks that can occupy a lot of time, generative AI tools can help free up capacity for more high-value strategic work. For chief financial officers, this could mean spending more time and energy on proactively advising the&#8230;"
+      },
+      {
+        "id": "eb10be5b59d39a8a",
+        "title": "The Download: Trump\u2019s impact on science, and meet our climate and energy honorees",
+        "url": "https://www.technologyreview.com/2025/09/11/1123534/the-download-trumps-impact-on-science-and-meet-our-climate-and-energy-honorees/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 11 Sep 2025 12:10:00 +0000",
+        "published_dt": "2025-09-11T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How Trump\u2019s policies are affecting early-career scientists\u2014in their own words Every year MIT Technology Review celebrates accomplished young scientists, entrepreneurs, and inventors from around the world in our Innovators Under 35 list. We\u2019ve&#8230;"
+      },
+      {
+        "id": "d9f3c910865adf69",
+        "title": "How Robotics Is Powering the Future of Innovation",
+        "url": "https://content.knowledgehub.wiley.com/from-concept-to-reality-how-robotics-is-transforming-our-world/",
         "source": "IEEE Spectrum",
-        "published": "Mon, 25 Aug 2025 18:00:04 +0000",
-        "published_dt": "2025-08-25T18:00:04+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/sydney-west-smiling-in-front-of-her-projects-booth-on-the-table-are-a-small-remotely-operated-vehicle-and-a-piece-of-coral.jpg?id=61511078&amp;width=1200&amp;height=800&amp;coordinates=0%2C308%2C0%2C308\" /><br /><br /><p>Coral reefs are vital to marine ecosystems, supporting more species than any other ocean environment. More than <a href=\"https://coralreefwatch.noaa.gov/satellite/research/coral_bleaching_report.php\" rel=\"noopener noreferrer\" target=\"_blank\">80 percent of the planet\u2019s coral reefs</a> have been bleached due to rising ocean temperatures and pollution, according to the U.S. <a href=\"https://www.noaa.gov/\" rel=\"noopener noreferrer\" target=\"_blank\">National Oceanic and Atmospheric Administration</a>. The reef damage threatens marine biodiversity across the globe.</p><p>High school student Sydney West built a remotely operated vehicle (ROV) designed to help preserve and sustain coral reefs. West, a graduate of <a href=\"https://hanford.rsd.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">Hanford High</a> in Richland, Wash., and an incoming freshman at the <a href=\"https://manoa.hawaii.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">University of Hawai\u2019i at Manoa</a>, plans to pursue a degree in mechanical engineering.</p><p>Her project, <a href=\"https://drive.google.com/file/d/1NrxoDSaaMLAyp_R4KyAyExVE_fDMJklL/view?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\">The Design and Engineering of an Intelligent Remotely Operated Vehicle for Coral Reef Research and Monitoring</a>, was showcased in May at Regeneron\u2019s <a href=\"https://www.societyforscience.org/isef/\" rel=\"noopener noreferrer\" target=\"_blank\">International Science and Engineering Fair</a>, held in Columbus, Ohio.</p><p>West won this year\u2019s <a href=\"https://www.ieee.org/education/preuniversity/scholarship\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Presidents\u2019 Scholarship</a> of US $10,000 for her underwater vehicle, <em><em>Cnidaria</em></em>. The award is payable over four years of undergraduate university study and includes a complimentary IEEE student membership. <a href=\"https://senseics.com/about-us/\" rel=\"noopener noreferrer\" target=\"_blank\">Ramy Tantawy</a>, chair of the <a href=\"https://ieee-columbus.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Columbus Section</a>, presented West with the scholarship.</p><p>The <a href=\"https://www.linkedin.com/in/kristy-provini/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Foundation</a> established the <a href=\"https://spectrum.ieee.org/ieee-presidents-scholarship\" target=\"_blank\">Presidents\u2019 Scholarship</a> to acknowledge a deserving high school student whose project demonstrates an understanding of electrical engineering or another IEEE field of interest. The scholarship is administered by <a href=\"https://www.ieee.org/education/eab\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Educational Activities</a>.</p><p>The second-place winner received a $600 scholarship; the third-place winner received a $400 scholarship. Both also got complimentary <a href=\"https://spectrum.ieee.org/ieee-society-boosting-student-membership\" target=\"_blank\">IEEE student memberships</a>.</p><h2>Computer vision and sensors identify coral species</h2><p>The ROV\u2019s name, <em><em>Cnidaria,</em></em> comes from the taxonomic family name for coral species. When discussing the project, West affectionately refers to the drone as \u201cshe,\u201d a nod to the nautical tradition of personifying vessels, as well as a reflection of the deep connection and pride she feels for her work.</p><p><em><em>Cnidaria</em></em> is equipped with computer vision technology, conductivity, temperature and depth sensors, and a water-sampling system. The vehicle is capable of identifying a variety of coral species, detecting anomalies among them, collecting water samples, and logging data about the water\u2019s condition.</p><p>West describes the ROV as versatile. \u201cEach of her systems can be modified, detached, or replaced easily,\u201d she says. The vehicle can be customized for different research needs.</p><p class=\"pull-quote\">\u201cNever be afraid of failing. Failing is not the end. If you\u2019re not failing, you\u2019re not learning.\u201d<span><strong>\u2014Fay Salim al-Mahrouqi</strong></span></p><p><span></span>West plans to add a data-logging system and a navigational aid, a <a href=\"https://www.sonardyne.com/products-knowledge-base/what-is-a-dvl-and-how-does-it-work/\" target=\"_blank\">Doppler velocity log</a>, to help researchers more accurately track coral locations and streamline data collection.</p><p>\u201cI want her to be a tool for all researchers who study coral to improve their efficiency, and make it easier for them to focus on their research and not have to worry about all of the labor-intensive and logistical hassles,\u201d West says.</p><p>West intends to launch a business offering services for ROV users, including refurbishing the drones, selling parts and systems, and offering training courses to those who want to build their own marine vehicles.</p><p>After completing her bachelor\u2019s degree in mechanical engineering, she plans to attend graduate school to study marine biology.</p><p>\u201cI want to get the best of both worlds,\u201d she says. \u201cHaving knowledge about the principles of engineering, and also what I\u2019m engineering for, will help me strengthen my work in the field.\u201d</p><p>West advises budding engineers to cultivate tenacity.</p><p>\u201cThings will go wrong,\u201d she says. \u201cYou\u2019ll hit roadblocks and obstacles, and spend days or weeks trying to solve a single problem, but that consistent effort and determination are key to eventual success.\u201d</p><h2>Machine learning for fibrosis detection</h2><p><a href=\"https://linkedin.com/in/fay-salim-al-mahrouqi-961016318\" target=\"_blank\">Fay Salim al-Mahrouqi</a>, a high school senior at the <a href=\"https://community.unesco.org/aspnet-platform/s/institution/a3rSm000000SHdJIAW/dohat-aladab-school-for-basic-education-1012?language=en_US\" rel=\"noopener noreferrer\" target=\"_blank\">Dohat al-Adab School</a> in Muscat, Oman, took second place for her project, <a href=\"https://isef.net/project/soft002-lung-tumor-and-fibrosis-detection\" rel=\"noopener noreferrer\" target=\"_blank\">A Hybrid Learning-Driven Approach for Lung Enhancement, Tumor Detection, and Fibrosis System</a>.</p><p>Al-Mahrouqi\u2019s inspiration stemmed from the loss of her grandfather to idiopathic pulmonary fibrosis. IPF is a chronic disease that develops when lung tissue becomes too thick, causing permanent scarring in the lungs, according to the U.S. <a href=\"https://www.nhlbi.nih.gov/health/idiopathic-pulmonary-fibrosis\" rel=\"noopener noreferrer\" target=\"_blank\">National Heart, Lung, and Blood Institute</a>. The condition makes it hard to breathe. Despite numerous hospital visits and CT scans, her grandfather was diagnosed with the condition too late, leading al-Mahrouqi to want to improve IPF diagnosis methods.</p><p>\u201cRadiologists look for things like tiny, honey-shaped complex sites or faint, hazy areas called ground-glass opacities in the lungs,\u201d al-Mahrouqi says. \u201cThese same patterns also show up in other diseases, like nonspecific interstitial pneumonia and early-stage lung cancer. This often leads to a misdiagnosis.\u201d</p><p>She developed a hybrid artificial intelligence system that uses a contrast-limited adaptive histogram equalization process, enhancing CT images by amplifying contrast and limiting image grain. Her prototype also uses six different pretrained convolutional neural networks that classify fibrosis patterns and nodule types\u2014malignant, benign, or normal\u2014to provide an earlier diagnosis.</p><p>\u201cThis prototype is unique because it converts classification and enhancement into a single diagnostic tool,\u201d al-Mahrouqi says. She says it is the first time machine learning techniques have been used to target fibrosis patterns.</p><p>She is collaborating with hospitals to collect more patient data to help her improve the accuracy of her diagnostic tool.</p><p>Al-Mahrouqi says she is committed to advancing her project: \u201cThe process of inventing something is not about entering a competition. It\u2019s about solving real-world problems. What\u2019s the point of working on a project if you are not willing to continue to develop it?\u201d</p><p>She says she hopes to launch a startup to commercialize her technology, with the goal of achieving worldwide adoption by hospitals. In the meantime, she says, she plans to dedicate her senior year to studying entrepreneurship and will pursue a degree in data science, cybersecurity, or electrical engineering.</p><p>Her advice to young engineers is: \u201cNever be afraid of failing. Failing is not the end. If you\u2019re not failing, you\u2019re not learning.\u201d</p><h2>A stethoscope to identify multiple body sounds</h2><p>Kayley Xu, a junior at the <a href=\"https://www.bishops.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Bishop\u2019s School</a> in La Jolla, Calif., took third place for her <a href=\"https://youtu.be/K9YNRtiQelQ\" rel=\"noopener noreferrer\" target=\"_blank\">Wearable Stethoscope Array for Cardiopulmonary Sound Localization and Interference Suppression Using Beamforming</a> project.</p><p>When Xu was 13 years old, she had a severe case of pneumonia. \u201cDuring the diagnosis and treatment process, I observed limitations with some of the medical equipment, such as the stethoscope,\u201d she says.</p><p>That experience inspired her to pursue respiratory disease research, specifically the performance of auscultation: listening to the body\u2019s internal sounds.</p><p>Through her research, she discovered that traditional stethoscopes have limitations including a doctor\u2019s inability to listen to multiple sounds simultaneously\u2014which creates interference when they overlap.</p><p>Xu designed a chest piece using a flexible printed circuit board that conforms to the patient\u2019s body. The piece uses a microelectromechanical microphone capable of capturing a wide range of frequencies. By combining novel hardware designs with beamforming\u2014a signal processing technique\u2014Xu says the device \u201ccan capture both low- and high-frequency range sounds such as lung crackles and heart murmurs, which are often missed by conventional stethoscopes.\u201d</p><p>The sensor in her device detects where a sound is coming from more accurately without sacrificing audio quality. The device also is more affordable than a standard stethoscope, she says, as its flexible printed circuit board can be produced for less than US $1 per unit when manufactured at scale.</p><p>\u201cI hope my device will enable more underdeveloped regions around the world to have broader access to stethoscopes and more cost-effective processes,\u201d she says.</p><p>Her project not only helped her advance her technical skills but also taught her the importance of perseverance, creativity, and innovation, she says.</p><p>As she heads into her junior year of high school, she plans to continue developing her device. She also intends to pursue an engineering degree.</p><p>Her advice to young engineers? \u201cHave a lot of grit and perseverance.\u201d</p>"
+        "published": "Thu, 11 Sep 2025 10:00:02 +0000",
+        "published_dt": "2025-09-11T10:00:02+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/heilind-molex-logo-bold-blue-and-red-text-with-a-yellow-line-under-heilind.png?id=61582070&amp;width=980\" /><br /><br /><p>The future of robotics is being shaped by powerful technologies like AI, edge computing, and high-speed connectivity, driving smarter, more responsive machines across industries. Robots are no longer confined to static environments\u2014they are evolving to interact dynamically with humans and their surroundings.</p><p>This eBook explores the impact of robotics in diverse fields, from home automation and medical technology to automotive, data centers, and industrial applications. It highlights challenges like power efficiency, miniaturization, and ruggedization, while showcasing Molex\u2019s innovative solutions tailored for each domain.</p><p>Additionally, the eBook covers:</p><ul><li>Ruggedized connectors for harsh industrial settings</li><li>Advanced power management for home robots</li><li>Miniaturized systems for precision medical robotics</li><li>5G/6G-enabled autonomous vehicles</li><li>High-speed data solutions for cloud infrastructure</li></ul><div><span><a href=\"https://content.knowledgehub.wiley.com/from-concept-to-reality-how-robotics-is-transforming-our-world/\" target=\"_blank\">Download this free whitepaper now!</a></span></div>"
+      },
+      {
+        "id": "d3f6da66e0fced90",
+        "title": "Texas banned lab-grown meat. What\u2019s next for the industry?",
+        "url": "https://www.technologyreview.com/2025/09/11/1123512/texas-lab-grown-meat/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 11 Sep 2025 08:00:00 +0000",
+        "published_dt": "2025-09-11T08:00:00+00:00",
+        "summary": "Last week, a legal battle over lab-grown meat kicked off in Texas. On September 1, a two-year ban on the technology went into effect across the state; the following day, two companies filed a lawsuit against state officials. The two companies, Wildtype Foods and Upside Foods, are part of a growing industry that aims to&#8230;"
       },
       {
         "id": "b21679ddfb867610",
@@ -846,24 +891,6 @@
         "summary": "In Silicon Valley\u2019s imagined future, AI models are so empathetic that we\u2019ll use them as therapists. They\u2019ll provide mental-health care for millions, unimpeded by the pesky requirements for human counselors, like the need for graduate degrees, malpractice insurance, and sleep. Down here on Earth, something very different has been happening.&#160; Last week, we published a&#8230;"
       },
       {
-        "id": "4e24935acf032c6e",
-        "title": "AI is changing the grid. Could it help more than it harms?",
-        "url": "https://www.technologyreview.com/2025/09/09/1123404/ai-grid-help/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 09 Sep 2025 09:00:00 +0000",
-        "published_dt": "2025-09-09T09:00:00+00:00",
-        "summary": "The rising popularity of AI is driving an increase in electricity demand so significant it has the potential to reshape our grid. Energy consumption by data centers has gone up by 80% from 2020 to 2025 and is likely to keep growing. Electricity prices are already rising, especially in places where data centers are most&#8230;"
-      },
-      {
-        "id": "a3323497ae772437",
-        "title": "Three big things we still don\u2019t know about AI\u2019s energy burden",
-        "url": "https://www.technologyreview.com/2025/09/09/1123408/three-big-things-we-still-dont-know-about-ais-energy-burden/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 09 Sep 2025 09:00:00 +0000",
-        "published_dt": "2025-09-09T09:00:00+00:00",
-        "summary": "Earlier this year, when my colleague Casey Crownhart and I spent six months researching the climate and energy burden of AI, we came to see one number in particular as our white whale: how much energy the leading AI models, like ChatGPT or Gemini, use up when generating a single response.&#160; This fundamental number remained&#8230;"
-      },
-      {
         "id": "13edac185ff6f419",
         "title": "4 Ways to Conquer Imposter Syndrome",
         "url": "https://spectrum.ieee.org/4-ways-conquer-imposter-syndrome",
@@ -880,33 +907,6 @@
         "published": "Mon, 08 Sep 2025 17:55:23 +0000",
         "published_dt": "2025-09-08T17:55:23+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/heilind-electronics-logo.png?id=60310899&amp;width=980\" /><br /><br /><p>This white paper addresses the challenge of rising balance-of-system (BOS) costs in solar energy projects, which now make up a larger share of total system expenses due to falling solar module prices. It provides valuable insights for engineers, developers, and EPCs on how to optimize BOS components for efficiency, reliability, and lower total cost of ownership. Readers will learn how to reduce labor, avoid costly installation errors, and improve long-term performance through better product selection, installation tools, mock-up testing (golden rows), and Panduit\u2019s comprehensive BOS solutions that bundle, connect, protect, and identify system elements.</p><p><span><a href=\"https://content.knowledgehub.wiley.com/how-to-optimize-solar-bos-for-value-and-efficiency/\" target=\"_blank\">Download this free whitepaper now!</a></span></p>"
-      },
-      {
-        "id": "9e324123c2b44690",
-        "title": "The Download: introducing our 35 Innovators Under 35 list for 2025",
-        "url": "https://www.technologyreview.com/2025/09/08/1123361/the-download-introducing-our-35-innovators-under-35-list-for-2025/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 08 Sep 2025 12:10:00 +0000",
-        "published_dt": "2025-09-08T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: our 35 Innovators Under 35 list for 2025 The world is full of extraordinary young people brimming with ideas for how to crack tough problems. Every year, we recognize 35 such individuals&#8230;"
-      },
-      {
-        "id": "17076315d820e7b9",
-        "title": "How Trump\u2019s policies are affecting early-career scientists\u2014in their own words",
-        "url": "https://www.technologyreview.com/2025/09/08/1123166/trumps-policy-early-career-scientists/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 08 Sep 2025 10:45:00 +0000",
-        "published_dt": "2025-09-08T10:45:00+00:00",
-        "summary": "This story is part of MIT Technology Review\u2019s &#8220;America Undone\u201d series, examining how the foundations of US success in science and innovation are currently under threat.\u00a0You can read the rest here. Every year MIT Technology Review celebrates accomplished young scientists, entrepreneurs, and inventors from around the world in our Innovators Under 35 list. We\u2019ve just&#8230;"
-      },
-      {
-        "id": "396ac0ba2cd1d46f",
-        "title": "How Nauto\u2019s AI Dashcam Reduces Driver Risk and Accidents",
-        "url": "https://spectrum.ieee.org/ai-dashcam-driver-safety-nauto",
-        "source": "IEEE Spectrum",
-        "published": "Sat, 06 Sep 2025 13:00:02 +0000",
-        "published_dt": "2025-09-06T13:00:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/car-is-framed-by-a-bounding-box-indicating-the-region-of-interest-of-a-computer-vision-and-tracking-system.jpg?id=61512983&amp;width=1200&amp;height=800&amp;coordinates=167%2C0%2C168%2C0\" /><br /><br /><p>Driving trucks is one of the unappreciated backbones of modern civilization. It\u2019s also hard and sometimes dangerous work. But technology is being spun up to make the job safer and easier.</p><p>A new class of devices is being targeted at fleets that helps drivers elude accidents by flagging risky situations. The new systems use <a href=\"https://spectrum.ieee.org/search/?q=convolutional+neural+networks\" target=\"_self\">convolutional neural networks</a> running in the vehicle <a href=\"https://www.ibm.com/think/topics/edge-ai\" rel=\"noopener noreferrer\" target=\"_blank\">(\u201cedge\u201d AI</a>) and in the cloud to fuse data inputs from on-board vehicle diagnostics, along with data from cameras facing the driver and the roadway. The result are systems that can assess, in real time, the risk of collision and warn drivers in time to avoid most of them.</p><p>One of the most advanced of the new systems is from a company called Nauto. Earlier this year, the <a href=\"https://www.vtti.vt.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">Virginia Tech Transportation Institute</a> (VTTI) put the AI-enabled safety system from the Palo Alto, Calif.\u2013based startup through its paces on the same <a href=\"https://www.vtti.vt.edu/facilities/virginia-smart-roads.html\" rel=\"noopener noreferrer\" target=\"_blank\">Virginia Smart Roads</a> controlled-access test tracks where it conducted a 2023 benchmark study evaluating three similar products. VTTI says this year\u2019s testing was performed under the same scenarios of distracted driving, rolling stops, tailgating, and night driving.</p><p>According to the Virginia Tech researchers, Nauto\u2019s dashcam matched or outperformed the previously benchmarked gadgets in detection accuracy\u2014and provided feedback that translated more directly into information supervisors could use to address and correct risky driver behavior. \u201cThis study allowed us to evaluate driver monitoring technologies in a controlled, repeatable way, so we could clearly measure how the [Nauto] system responded to risky behaviors,\u201d says <a href=\"https://www.vtti.vt.edu/staffdir/bio.php?&amp;pn=10234\" rel=\"noopener noreferrer\" target=\"_blank\">Susan Soccolich</a>, a senior research associate at VTTI.</p><p><a href=\"https://www.mit.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">MIT</a> driver attention researcher <a href=\"https://www.linkedin.com/posts/bryan-reimer_roadsafety-visionzero-safedriving-activity-7361123340129873921-sMgh?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAEdwGcBTFAcT9mXQR1KyLVZg4cF4uhccn0\" rel=\"noopener noreferrer\" target=\"_blank\">Bryan Reimer</a>, who was not involved in the study, says the real value of systems like Nauto\u2019s lies beyond monitoring. \u201cMany companies focus only on monitoring, but monitoring alone is just an enabler\u2014the sensor, like radar in adaptive cruise control or forward collision warning. The real art lies in the support systems that shape driver behavior. That\u2019s what makes Nauto unique.\u201d</p><h2>Reducing Alert Fatigue in Trucking Safety</h2><p> \u201cOne of our primary goals is to issue alerts only when corrective action is still possible,\u201d says Nauto CEO <a href=\"https://www.nauto.com/about\" rel=\"noopener noreferrer\" target=\"_blank\">Stefan Heck</a>. Just as important, he adds, is a design meant to avoid \u201calert fatigue,\u201d a well-known phenomenon where alerts triggered when situations don\u2019t actually call for it makes would-be responders less apt to take heed. False alerts have long plagued driver-assist systems, causing drivers to eventually disregard even the most serious warnings.</p><p>Nauto claims its alerts are accurate more than 90 percent of the time, because it combines more than ten distraction and drowsiness indicators. Among the inattention indicators the system tracks are head nodding or tilting, yawning, change in eye blink rate, long eyelid closures (indicating something called microsleeps), and gaze drifting from the road for extended periods (what happens when people text and drive). If a pedestrian enters the crosswalk and the driver is awake, alert, and not driving too fast, the system will remain silent under the assumption that the driver will slow down or stop so the person on foot can cross the street without incident. But if it notices that the driver is scrolling on their phone, it will sound an alarm\u2014and perhaps trigger a visual warning too\u2014in time to avoid causing injury.</p><p>While VTTI did not specifically test false-positive rates, it did measure detection accuracy across multiple scenarios. Soccolich reports that in Class 8 tractor tests, the system issued audible in-cab alerts for 100 percent of handheld calls, outgoing texts, discreet lap use of a smartphone, and seat belt violations, as well as 95 percent of rolling stops. For tailgating a lead vehicle, it alerted in 50 percent of trials initially, but after adjustment, delivered alerts in 100 percent of cases.</p><p>Nauto\u2019s alarms can be triggered not only in the driver\u2019s cabin but also in fleet supervisors\u2019 offices of the trucking company that uses the system. But Nauto structures its alerts to prioritize the driver: Warnings\u2014for all but the most high-risk situations\u2014go to the cab of the truck, allowing self-correction, while supervisors are notified only when the system detects recklessness or a pattern of lower-risk behavior that requires corrective action.</p><p class=\"pull-quote\">\u201cMany companies focus only on monitoring, but monitoring alone is just an enabler\u2014the sensor, like radar in adaptive cruise control or forward collision warning. The real art lies in the support systems that shape driver behavior. That\u2019s what makes Nauto unique.\u201d <strong>\u2013Bryan Reimer,  MIT</strong></p><h2>Advanced Dashcam for Fleet Risk Management</h2><p>The company packages its vehicle hardware in a windshield-mounted dashcam that plugs into a truck\u2019s <a href=\"https://www.bumper.co/blog/what-is-an-obd-port\" rel=\"noopener noreferrer\" target=\"_blank\">on-board diagnostics port</a>. With forward- and driver-facing cameras and direct access to vehicle data streams, the device continuously recalculates risk. A delivery driver glancing at a phone while drifting from their lane, for example, triggers an immediate warning and a notice to supervisors that the driver\u2019s behavior warrants being called on the carpet for their recklessness.</p><p>By contrast, a rural stop sign roll-through at dawn might trigger nothing more than a cheerful reminder to come to a complete stop next time. There are more complex cases, as when a driver is following another vehicle too closely. On a sunny day, in light traffic, the system might let it go, holding back from issuing a warning about the tailgating. But if it starts to rain, the system recognizes the change in safe stopping distance and updates its risk calculation. The driver is told to back off so there\u2019s enough space to stop the truck in time on the rain-slick road if the lead car suddenly slams on its brakes.</p><p>Nauto aims to give drivers three to four seconds to steer clear, brake gently, or refocus. \u201cThe better response isn\u2019t always slamming on the brakes,\u201d Heck says. \u201cSometimes swerving is safer, and no automated braking system today will do that.\u201d</p><h2>AI Dashcams Lower Trucking Collision Rates</h2><p>According to a 2017 <a href=\"https://www.iihs.org/?gad_source=1&amp;gad_campaignid=21368660847&amp;gbraid=0AAAAApY_Ogrk-oXNTSEuTa7lwsYpL1eOP&amp;gclid=Cj0KCQjwqqDFBhDhARIsAIHTlksYDwbcB9uJZwRFavrdaHllEw0dnSg_v_gsJmy9RIk4bTZq5RGsDUIaAj_2EALw_wcB\" rel=\"noopener noreferrer\" target=\"_blank\">Insurance Institute for Highway safety</a> (IIHS) report, if all vehicles in the United States were <a href=\"https://www.iihs.org/research-areas/bibliography/ref/2111\" rel=\"noopener noreferrer\" target=\"_blank\">equipped with both forward collision warning with automatic emergency braking</a> in 2014, \u201calmost 1 million police-reported rear-end crashes and more than 400,000 injuries in such crashes could have been prevented.\u201d A separate IIHS study concluded that putting both technologies on a vehicle was good enough to prevent half of all such collisions. Heck, pointing to those numbers as well as to the Nauto system\u2019s ability to sense danger originating both outside and inside a truck, claims his company\u2019s AI-enabled dashcam can help cut the incidence of collisions even further than those built-in <a href=\"https://spectrum.ieee.org/tag/adas\" target=\"_self\">advanced driver assistance systems</a> do.</p><p>Vehicle damage obviously costs a lot of money and time to fix. Fleets also pay follow-on costs such as those associated with <a href=\"https://www.trucking.org/news-insights/truth-about-trucking-turnover\" rel=\"noopener noreferrer\" target=\"_blank\">driver turnover</a>, a persistent problem in trucking. Lower crash rates, conversely, cut recruitment and training costs and reduce insurance premiums\u2014giving fleet managers strong incentive to implement technologies like this new class of AI dashcams. </p><p><span>Today, Nauto\u2019s dashcam is an aftermarket add-on about the size of a smartphone, but the company envisions future vehicles with the technology embedded as a software feature. With insurers increasingly setting their rates based on telematics from fleets, the ability to combine video evidence, vehicle data, and driver monitoring could reshape how risk is calculated and rates are set.</span></p><p>Ultimately the effectiveness of these risk assessment\u2013and-alerting devices hinges on driver trust. If the driver believes that the system is designed to make them a better, safer motorist rather than to serve as a surveillance tool so the company can look over their shoulder, they\u2019ll be more likely to accept input from their electronic copilot\u2014and less likely to crash.</p>"
       }
     ]
   }
