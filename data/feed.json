@@ -1,16 +1,7 @@
 {
-  "generated_at": "2025-09-13T12:42:17.157419+00:00",
+  "generated_at": "2025-09-14T12:41:44.604929+00:00",
   "categories": {
     "Biotech": [
-      {
-        "id": "616c7da2858ea083",
-        "title": "Opinion: 9 answers to burning questions about pharmaceutical ads",
-        "url": "https://www.statnews.com/2025/09/13/pharmaceutical-ads-rfk-jr-fda-enforcement-questions-answered/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 13 Sep 2025 11:00:00 +0000",
-        "published_dt": "2025-09-13T11:00:00+00:00",
-        "summary": "Got questions about the FDA\u2019s new plans around pharmaceutical ads? We\u2019ve got answers."
-      },
       {
         "id": "cb07fa481222066e",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/capsida-pauses-phase-1-gene-therapy-trial-after-child-dies\" hreflang=\"en\">Capsida pauses phase 1 gene therapy trial after child dies</a>",
@@ -19,6 +10,15 @@
         "published": "Sep 11, 2025 7:08am",
         "published_dt": "2025-09-11T07:08:00+00:00",
         "summary": "Capsida Biotherapeutics has paused a gene therapy clinical trial after the first patient died. The biotech, which began the phase 1/2 study in July, took the action to give it time to determine the root cause of the death."
+      },
+      {
+        "id": "616c7da2858ea083",
+        "title": "Opinion: 9 answers to burning questions about pharmaceutical ads",
+        "url": "https://www.statnews.com/2025/09/13/pharmaceutical-ads-rfk-jr-fda-enforcement-questions-answered/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sat, 13 Sep 2025 11:00:00 +0000",
+        "published_dt": "2025-09-13T11:00:00+00:00",
+        "summary": "Got questions about the FDA\u2019s new plans around pharmaceutical ads? We\u2019ve got answers."
       },
       {
         "id": "37f22b9a121a877e",
@@ -257,6 +257,24 @@
         "summary": "<figure><img alt=\"TESSERAE in space\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/rendezvous-tesserae.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A startup has raised an initial round of funding to commercialize a technology that could create large structures in orbit.</p>\n<p>The post <a href=\"https://spacenews.com/rendezvous-robotics-raises-funding-to-develop-technology-for-self-assembling-space-structures/\">Rendezvous Robotics raises funding to develop technology for self-assembling space structures</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
+        "id": "2f6808d323d86079",
+        "title": "NASA reestablishes contact with one of two TRACERS satellites",
+        "url": "https://spacenews.com/nasa-reestablishes-contact-with-one-of-two-tracers-satellites/",
+        "source": "SpaceNews",
+        "published": "Sat, 13 Sep 2025 20:06:52 +0000",
+        "published_dt": "2025-09-13T20:06:52+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"732\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/07/tracers.jpg?fit=1024%2C732&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA has restored contact with one of a pair of space science satellites that ran into problems shortly after its July launch.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-reestablishes-contact-with-one-of-two-tracers-satellites/\">NASA reestablishes contact with one of two TRACERS satellites</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "45d1705a65a0f7ae",
+        "title": "Golden Dome\u2019s cost: anywhere from billions to trillions, depending on design",
+        "url": "https://spacenews.com/golden-domes-cost-anywhere-from-billions-to-trillions-depending-on-design/",
+        "source": "SpaceNews",
+        "published": "Sat, 13 Sep 2025 15:14:37 +0000",
+        "published_dt": "2025-09-13T15:14:37+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"601\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Screenshot-2025-06-04-at-1.34.59-PM.png?fit=1024%2C601&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A new report by Todd Harrison of the American Enterprise Institute estimates Golden Dome could cost from $252 billion to $3.6 trillion over 20 years, based on scope and capabilities</p>\n<p>The post <a href=\"https://spacenews.com/golden-domes-cost-anywhere-from-billions-to-trillions-depending-on-design/\">Golden Dome\u2019s cost: anywhere from billions to trillions, depending on design</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
         "id": "78fe197776d41a64",
         "title": "Maxar executive renews warning that budget cuts threaten commercial remote sensing industry",
         "url": "https://spacenews.com/maxar-executive-renews-warning-that-budget-cuts-threaten-commercial-remote-sensing-industry/",
@@ -435,24 +453,6 @@
         "published": "Thu, 11 Sep 2025 07:00:00 +0000",
         "published_dt": "2025-09-11T07:00:00+00:00",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"666\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2022/09/Eutelsat_Paris-Rambouillet_teleport_in_France_-_credit_Eutelsat_Adrien_Daste_2018_credit_.jpeg?fit=1000%2C666&amp;ssl=1\" width=\"1000\" /></figure>\n<p>Eutelsat has teamed up with French satellite connectivity startup Skynopy to explore offering Earth observation operators spare capacity on the ground stations used for OneWeb, its LEO broadband service.</p>\n<p>The post <a href=\"https://spacenews.com/eutelsat-opens-oneweb-ground-stations-to-earth-observation-with-ka-band-boost/\">Eutelsat partners with Skynopy to explore opening OneWeb ground stations to Earth observation</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "caf813211383c1ba",
-        "title": "NASA highlights potential evidence of past life in Martian rock",
-        "url": "https://spacenews.com/nasa-highlights-potential-evidence-of-past-life-in-martian-rock/",
-        "source": "SpaceNews",
-        "published": "Wed, 10 Sep 2025 20:38:17 +0000",
-        "published_dt": "2025-09-10T20:38:17+00:00",
-        "summary": "<figure><img alt=\"Perseverance Cheyava Falls\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"727\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/percy-cheyava.jpeg?fit=1024%2C727&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Scientists have found potential evidence of past life on Mars in a rock sample collected by a NASA rover, even as a proposed budget cancels plans to return those samples.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-highlights-potential-evidence-of-past-life-in-martian-rock/\">NASA highlights potential evidence of past life in Martian rock</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "573bc0fe3b9ca09b",
-        "title": "NASA says it\u2019s found likely signs of ancient life on Mars",
-        "url": "https://aerospaceamerica.aiaa.org/nasa-says-its-found-likely-signs-of-ancient-life-on-mars/",
-        "source": "Aerospace America",
-        "published": "Wed, 10 Sep 2025 19:45:54 +0000",
-        "published_dt": "2025-09-10T19:45:54+00:00",
-        "summary": ""
       }
     ],
     "Economics": [
