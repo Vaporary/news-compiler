@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-09-20T12:44:39.065465+00:00",
+  "generated_at": "2025-09-21T12:43:51.766965+00:00",
   "categories": {
     "Biotech": [
+      {
+        "id": "1637a625c0df19a3",
+        "title": "Opinion: Pro sports leagues should do away with injury reports",
+        "url": "https://www.statnews.com/2025/09/21/nfl-injury-list-sports-betting-athlete-medical-privacy/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sun, 21 Sep 2025 11:00:00 +0000",
+        "published_dt": "2025-09-21T11:00:00+00:00",
+        "summary": "NFL injury lists began after a high-rolling gambler learned five players on one team had the flu. It\u2019s time to change the system."
+      },
+      {
+        "id": "8ccee6c2d808ea9e",
+        "title": "Winner of mRNA Nobel Prize says ACIP member\u2019s claim that Covid vaccines persist is \u201cabsolutely impossible\u201d",
+        "url": "https://www.statnews.com/2025/09/20/drew-weissman-nobel-prize-mrna-covid-vaccines-rebuts-retsef-levi-claims/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sat, 20 Sep 2025 14:41:55 +0000",
+        "published_dt": "2025-09-20T14:41:55+00:00",
+        "summary": "In a Q&#038;A with STAT, Nobel winner Drew Weissman addressed concerns raised about Covid shots at a recent meeting of federal vaccine advisers."
+      },
       {
         "id": "fdac74470918b7d6",
         "title": "STAT+: FDA approves ultra-rare disease drug that became a symbol of uncertainty over regulatory standards",
@@ -208,36 +226,9 @@
         "published": "Fri, 19 Sep 2025 08:30:00 +0000",
         "published_dt": "2025-09-19T08:30:00+00:00",
         "summary": "\u201cOver and over again, Covid-19 has shown it can cause severe disease in children, disease that is preventable by a safe and effective vaccine,\u201d writes former CDC Director Rochelle Walensky."
-      },
-      {
-        "id": "0b6f253e5dfc4f7c",
-        "title": "Opinion: STAT+: Why pharma companies are suddenly pausing investment in the U.K.",
-        "url": "https://www.statnews.com/2025/09/19/uk-astrazeneca-merck-eli-lilly-sanofi-investment-pharma/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 19 Sep 2025 08:30:00 +0000",
-        "published_dt": "2025-09-19T08:30:00+00:00",
-        "summary": "For decades the U.K. has punched above its weight in life sciences. Now pharma companies are pulling back."
-      },
-      {
-        "id": "c2892bed7acf78cb",
-        "title": "Opinion: I\u2019m a doctor \u2014 and I introduce myself by my first name",
-        "url": "https://www.statnews.com/2025/09/19/doctors-using-first-names-with-patients/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 19 Sep 2025 08:30:00 +0000",
-        "published_dt": "2025-09-19T08:30:00+00:00",
-        "summary": "Jenny Tsai is a physician but tends to introduce herself to patients by her first name. \u201cIt helps me build the rapport I want. It feels more like me,\u201d she&#8230;"
       }
     ],
     "Engineering & Aerospace": [
-      {
-        "id": "b4a6d302c5be87d7",
-        "title": "NASA revives VIPER lunar rover mission with Blue Origin lander award",
-        "url": "https://spacenews.com/nasa-revives-viper-lunar-rover-mission-with-blue-origin-lander-award/",
-        "source": "SpaceNews",
-        "published": "Sat, 20 Sep 2025 06:07:43 +0000",
-        "published_dt": "2025-09-20T06:07:43+00:00",
-        "summary": "<figure><img alt=\"Blue Moon and VIPER\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/viper-bluemoon.jpeg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA has revived a robotic lunar rover mission by selecting Blue Origin to deliver it to the moon\u2019s south pole in 2027.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-revives-viper-lunar-rover-mission-with-blue-origin-lander-award/\">NASA revives VIPER lunar rover mission with Blue Origin lander award</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
       {
         "id": "add83d76a589987d",
         "title": "Live Event: The Space Investment Horizon",
@@ -246,6 +237,15 @@
         "published": "Fri, 19 Sep 2025 18:33:33 +0000",
         "published_dt": "2025-09-19T18:33:33+00:00",
         "summary": "<figure><img alt=\"The Space Investment Horizon webinar\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Space-Investment-Horizon-2000x1500-Webinar.png?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>For more than six decades, the United States has pursued the promise of nuclear power in space \u2014 a technology capable of delivering energy where sunlight can\u2019t reach and enabling missions beyond the limits of chemical propulsion. Yet since a brief reactor flight in 1965, no fission reactor has operated in orbit.</p>\n<p>The post <a href=\"https://spacenews.com/live-event-the-space-investment-horizon/\">Live Event: The Space Investment Horizon</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "2149f0b2522d1cf4",
+        "title": "Hexagon adds AI-enhanced porosity and inclusion analysis to VG 2025.3",
+        "url": "https://www.engineering.com/hexagon-adds-ai-enhanced-porosity-and-inclusion-analysis-to-vg-2025-3/",
+        "source": "Engineering.com",
+        "published": "Fri, 19 Sep 2025 15:04:07 +0000",
+        "published_dt": "2025-09-19T15:04:07+00:00",
+        "summary": "<p>Hexagon\u2019s VG 2025.3 adds AI to its Porosity and Inclusion Analysis tool for CT-based defect detection in manufacturing.</p>\n<p>The post <a href=\"https://www.engineering.com/hexagon-adds-ai-enhanced-porosity-and-inclusion-analysis-to-vg-2025-3/\">Hexagon adds AI-enhanced porosity and inclusion analysis to VG 2025.3</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "25cdb6ca6053295e",
@@ -282,6 +282,24 @@
         "published": "Fri, 19 Sep 2025 10:00:00 +0000",
         "published_dt": "2025-09-19T10:00:00+00:00",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"587\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Raptor_Guide_Sweden_Testing.png?fit=1024%2C587&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The satellite imagery company&#8217;s Raptor software uses terrain mapping to guide UAVs when satellite signals are jammed or unavailable</p>\n<p>The post <a href=\"https://spacenews.com/taiwanese-aerospace-firm-partners-with-maxar-on-gps-alternative-drone-navigation/\">Taiwanese aerospace firm partners with Maxar on GPS-alternative drone navigation</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "dff864d83695a2cb",
+        "title": "NASA safety panel warns Starship lunar lander could be delayed by years",
+        "url": "https://spacenews.com/nasa-safety-panel-warns-starship-lunar-lander-could-be-delayed-by-years/",
+        "source": "SpaceNews",
+        "published": "Sat, 20 Sep 2025 19:13:55 +0000",
+        "published_dt": "2025-09-20T19:13:55+00:00",
+        "summary": "<figure><img alt=\"Starship HLS lander\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2023/06/starshiphls.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA safety advisers say they doubt the lunar lander version of SpaceX\u2019s Starship will be ready to support the Artemis 3 mission as planned in 2027.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-safety-panel-warns-starship-lunar-lander-could-be-delayed-by-years/\">NASA safety panel warns Starship lunar lander could be delayed by years</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "b4a6d302c5be87d7",
+        "title": "NASA revives VIPER lunar rover mission with Blue Origin lander award",
+        "url": "https://spacenews.com/nasa-revives-viper-lunar-rover-mission-with-blue-origin-lander-award/",
+        "source": "SpaceNews",
+        "published": "Sat, 20 Sep 2025 06:07:43 +0000",
+        "published_dt": "2025-09-20T06:07:43+00:00",
+        "summary": "<figure><img alt=\"Blue Moon and VIPER\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/viper-bluemoon.jpeg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA has revived a robotic lunar rover mission by selecting Blue Origin to deliver it to the moon\u2019s south pole in 2027.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-revives-viper-lunar-rover-mission-with-blue-origin-lander-award/\">NASA revives VIPER lunar rover mission with Blue Origin lander award</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "c548ed7ca280e147",
@@ -392,15 +410,6 @@
         "summary": "<p>Grundfos will use the 3DEXPERIENCE platform on the cloud across all business divisions as it focuses on sustainable product lifecycle management and services.</p>\n<p>The post <a href=\"https://www.engineering.com/grundfos-chooses-dassaults-3dexperience-platform-on-the-cloud/\">Grundfos chooses Dassault&#8217;s 3DEXPERIENCE platform on the cloud</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "35d4376157ffea01",
-        "title": "The PLM M&A race\u2014from lifecycle to enterprise digital everything",
-        "url": "https://www.engineering.com/the-plm-ma-race-from-lifecycle-to-enterprise-digital-everything/",
-        "source": "Engineering.com",
-        "published": "Fri, 19 Sep 2025 11:38:00 +0000",
-        "published_dt": "2025-09-19T11:38:00+00:00",
-        "summary": "<p>PLM vendors chase everything\u2014but risk losing coherence in the process.</p>\n<p>The post <a href=\"https://www.engineering.com/the-plm-ma-race-from-lifecycle-to-enterprise-digital-everything/\">The PLM M&amp;A race\u2014from lifecycle to enterprise digital everything</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
         "id": "b7a69cf8e853b6d8",
         "title": "Space Norway and SSTL collaborate on radar satellite program",
         "url": "https://spacenews.com/space-norway-and-sstl-collaborate-on-radar-satellite-program/",
@@ -444,18 +453,18 @@
         "published": "Thu, 18 Sep 2025 19:08:05 +0000",
         "published_dt": "2025-09-18T19:08:05+00:00",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Hubble-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>TAMPA, Fla. \u2014 Hubble Network has secured $70 million in Series B funding to help deploy a 60-satellite constellation capable of connecting up to a billion Bluetooth devices worldwide by 2028. The Seattle-based venture announced the funding Sept. 17, bringing its total raised to $100 million since it was founded in 2021. \u201cThe plan is [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/hubble-network-raises-70-million-to-accelerate-60-satellite-bluetooth-constellation/\">Hubble Network raises $70 million to accelerate 60-satellite Bluetooth constellation</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "78d9639dcba51bc8",
-        "title": "Educating customers may be half the battle for nascent hyperspectral sector",
-        "url": "https://spacenews.com/educating-customers-may-be-half-the-battle-for-nascent-hyperspectral-sector/",
-        "source": "SpaceNews",
-        "published": "Thu, 18 Sep 2025 15:35:32 +0000",
-        "published_dt": "2025-09-18T15:35:32+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/rsz_wy.png?fit=879%2C682&amp;ssl=1\" width=\"879\" /></figure>\n<p>PARIS \u2013 A significant challenge for hyperspectral satellite operators is alerting potential customers to promising applications, according to speakers at the Summit on Earth Observation Business here. Hyperspectral datasets can reveal atmospheric greenhouse gases, identify stores of lithium and other high-value minerals, measure nitrogen in agricultural fields, and pinpoint the telltale signs of biological, nuclear [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/educating-customers-may-be-half-the-battle-for-nascent-hyperspectral-sector/\">Educating customers may be half the battle for nascent hyperspectral sector</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
+      {
+        "id": "da0b3ec7376bd783",
+        "title": "How Russia\u2019s besieged economy is clinging on",
+        "url": "https://www.economist.com/finance-and-economics/2025/09/21/how-russias-besieged-economy-is-clinging-on",
+        "source": "Finance & economics",
+        "published": "Sun, 21 Sep 2025 08:58:12 +0000",
+        "published_dt": "2025-09-21T08:58:12+00:00",
+        "summary": "The good times have firmly come to an end, but wage growth remains strong"
+      },
       {
         "id": "d3acd20a40121719",
         "title": "Do tariffs raise inflation?",
@@ -671,15 +680,6 @@
         "published": "Tue, 29 Jul 2025 16:00:22 +0000",
         "published_dt": "2025-07-29T16:00:22+00:00",
         "summary": "Blame apps and DORKs, not stimmies"
-      },
-      {
-        "id": "55e46bc7897b8c10",
-        "title": "Europe averts its Trumpian trade nightmare",
-        "url": "https://www.economist.com/finance-and-economics/2025/07/28/europe-averts-its-trumpian-trade-nightmare",
-        "source": "Finance & economics",
-        "published": "Mon, 28 Jul 2025 00:11:36 +0000",
-        "published_dt": "2025-07-28T00:11:36+00:00",
-        "summary": "A deal with America chooses certain tariffs over risky retaliation"
       }
     ],
     "Cross-Disciplinary": [
