@@ -1,7 +1,52 @@
 {
-  "generated_at": "2025-10-12T12:44:07.864211+00:00",
+  "generated_at": "2025-10-13T12:51:39.544299+00:00",
   "categories": {
     "Biotech": [
+      {
+        "id": "b0e317c4e49872b8",
+        "title": "The Download: planet hunting, and India\u2019s e-scooters",
+        "url": "https://www.technologyreview.com/2025/10/13/1125657/the-download-planet-hunting-and-indias-e-scooters/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 13 Oct 2025 12:11:53 +0000",
+        "published_dt": "2025-10-13T12:11:53+00:00",
+        "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An Earthling\u2019s guide to planet hunting The pendant on Rebecca Jensen-Clem\u2019s necklace is composed of 36 silver hexagons entwined in a honeycomb mosaic. At the Keck Observatory, in Hawaii, just as many segments&#8230;"
+      },
+      {
+        "id": "e802abeece32292e",
+        "title": "An Earthling\u2019s guide to planet hunting",
+        "url": "https://www.technologyreview.com/2025/10/13/1124970/astronomy-planet-hunting-atmosphere/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 13 Oct 2025 10:00:00 +0000",
+        "published_dt": "2025-10-13T10:00:00+00:00",
+        "summary": "The pendant on Rebecca Jensen-Clem\u2019s necklace is only about an inch wide, composed of 36 silver hexagons entwined in a honeycomb mosaic. At the Keck Observatory, in Hawaii, just as many segments make up a mirror that spans 33 feet, reflecting images of uncharted worlds for her to study.&#160; Jensen-Clem, an astronomer at the University&#8230;"
+      },
+      {
+        "id": "36e556ef48cac081",
+        "title": "Opinion: Drug developers shouldn\u2019t shortchange the autoimmune community",
+        "url": "https://www.statnews.com/2025/10/13/clinical-trials-autoimmune-disorders-crohns-lupus-nkarta/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 13 Oct 2025 08:30:00 +0000",
+        "published_dt": "2025-10-13T08:30:00+00:00",
+        "summary": "\u201cHow a company treats its clinical trial pioneers is a litmus test for corporate social responsibility,\u201d writes Nkarta CEO Paul J. Hastings."
+      },
+      {
+        "id": "1b17a57e6935690b",
+        "title": "STAT+: Medicare Advantage insurers still in retreat as annual enrollment kicks off",
+        "url": "https://www.statnews.com/2025/10/13/medicare-advantage-plans-open-enrollment-2026-benefits-costs/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 13 Oct 2025 08:30:00 +0000",
+        "published_dt": "2025-10-13T08:30:00+00:00",
+        "summary": "Medicare Advantage enrollment may contract for the first time in 20 years."
+      },
+      {
+        "id": "b88f29539f77e01b",
+        "title": "Opinion: STAT+: Why this cardiologist is cautious about the Apple Watch\u2019s blood pressure feature",
+        "url": "https://www.statnews.com/2025/10/13/apple-watch-hypertension-notifications-blood-pressure-public-health/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 13 Oct 2025 08:30:00 +0000",
+        "published_dt": "2025-10-13T08:30:00+00:00",
+        "summary": "\u201cHypertension notifications, alongside the growing suite of health metrics in the Apple ecosystem, are not population health tools,\u201d a cardiologist writes."
+      },
       {
         "id": "76dda528f476a9bf",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-former-cber-chief-marks-leaps-lilly\" hreflang=\"en\">Chutes &amp; Ladders\u2014Former CBER chief Peter Marks leaps to Lilly</a>",
@@ -10,6 +55,24 @@
         "published": "Oct 9, 2025 1:41pm",
         "published_dt": "2025-10-09T13:41:00+00:00",
         "summary": "Peter Marks, M.D., Ph.D., the former head of the FDA\u2019s Center for Biologics Evaluation and Research (CBER), has joined Eli Lilly as senior vice president of molecule discovery and head of infectious disease. Marks served as CBER chief for nearly a decade until butting heads with Department of Health and Human Services Secretary Robert F. Kennedy Jr. over vaccine policy."
+      },
+      {
+        "id": "ee13b87087eec156",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gilead-arcus-keep-tigit-dream-alive-27-month-os-phase-2-cancer-cohort\" hreflang=\"en\">Gilead, Arcus keep TIGIT dream alive with 27-month OS data from phase 2 cancer cohort</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gilead-arcus-keep-tigit-dream-alive-27-month-os-phase-2-cancer-cohort",
+        "source": "Fierce Biotech",
+        "published": "Oct 13, 2025 5:10am",
+        "published_dt": "2025-10-13T05:10:00+00:00",
+        "summary": "Gilead and Arcus\u2019 anti-TIGIT antibody domvanalimab has been tied to median overall survival of almost 27 months, keeping alive one of the last remaining hopes for this once-hyped modality."
+      },
+      {
+        "id": "ffd952262729f54d",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/moderna-posts-melanoma-data-behind-decision-say-i-do-ido\" hreflang=\"en\">Moderna posts melanoma data behind decision to say 'I do' to IDO</a>",
+        "url": "https://www.fiercebiotech.com/biotech/moderna-posts-melanoma-data-behind-decision-say-i-do-ido",
+        "source": "Fierce Biotech",
+        "published": "Oct 13, 2025 5:03am",
+        "published_dt": "2025-10-13T05:03:00+00:00",
+        "summary": "Moderna has shared some of the phase 1/2 data that persuaded it to expand and prioritize development of a cancer candidate, reporting responses in melanoma patients failed by checkpoint inhibitors."
       },
       {
         "id": "a5f27b58ee426cdf",
@@ -39,6 +102,15 @@
         "summary": "It\u2019s still early in the season, but Evommune has become the latest indicator that drug developers are once again tempted by the public markets."
       },
       {
+        "id": "4c4e339134b06132",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/regeneron-hails-chord-progression-sharing-updated-data-hearing-loss-gene-therapy\" hreflang=\"en\">Regeneron amplifies CHORD progression, sharing updated data on hearing loss gene therapy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/regeneron-hails-chord-progression-sharing-updated-data-hearing-loss-gene-therapy",
+        "source": "Fierce Biotech",
+        "published": "Oct 10, 2025 4:56am",
+        "published_dt": "2025-10-10T04:56:00+00:00",
+        "summary": "Regeneron has posted updated clinical data on DB-OTO, providing more evidence of the gene therapy\u2019s potential to treat a rare genetic form of deafness."
+      },
+      {
         "id": "5342067d813d338b",
         "title": "The Download: mysteries of the immunome, and how to choose a climate tech pioneer",
         "url": "https://www.technologyreview.com/2025/10/09/1125517/the-download-mysteries-of-the-immunome-and-how-to-choose-a-climate-tech-pioneer/",
@@ -64,6 +136,24 @@
         "published": "Oct 9, 2025 7:53am",
         "published_dt": "2025-10-09T07:53:00+00:00",
         "summary": "England's AviadoBio is looking to China as a potential source of additional gene therapies, securing an option to a $413 million biobucks deal that could deliver a rare eye disease candidate."
+      },
+      {
+        "id": "1bf71b01f8abf7d0",
+        "title": "Biden is receiving radiation and hormone therapy to treat his prostate cancer",
+        "url": "https://www.statnews.com/2025/10/12/joe-biden-prostate-cancer-treatment-radiation-hormone-therapy/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 13 Oct 2025 00:31:01 +0000",
+        "published_dt": "2025-10-13T00:31:01+00:00",
+        "summary": "Former President\u00a0Biden\u00a0is receiving radiation and hormone therapy as part of a new phase of treating his\u00a0aggressive form of prostate cancer."
+      },
+      {
+        "id": "a2d52c5fe6af759b",
+        "title": "STAT+: One Mass. health system is turning to AI to ease shortage of primary care doctors. Some don\u2019t like it",
+        "url": "https://www.statnews.com/2025/10/12/mass-general-brigham-ai-primary-care-doctors-shortage/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 13 Oct 2025 00:21:40 +0000",
+        "published_dt": "2025-10-13T00:21:40+00:00",
+        "summary": "Mass General Brigham has turned to AI to address\u00a0a critical shortage of primary care doctors, launching an AI app that questions patients, reviews medical records, and produces a list of&#8230;"
       },
       {
         "id": "94238919025b3bc5",
@@ -136,99 +226,45 @@
         "published": "Fri, 10 Oct 2025 17:30:39 +0000",
         "published_dt": "2025-10-10T17:30:39+00:00",
         "summary": "Drugmakers have been scrambling to strike deals with the Trump administration."
-      },
-      {
-        "id": "639ed581397625ce",
-        "title": "Building connected data ecosystems for AI at scale",
-        "url": "https://www.technologyreview.com/2025/10/10/1124313/building-connected-data-ecosystems-for-ai-at-scale/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 10 Oct 2025 16:11:22 +0000",
-        "published_dt": "2025-10-10T16:11:22+00:00",
-        "summary": ""
-      },
-      {
-        "id": "b2ed996c912b4c44",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-shutters-cell-therapy-unit-ending-work-potential-type-1-diabetes-cure\" hreflang=\"en\">Novo shutters cell therapy unit, ending work on potential Type 1 diabetes 'cure'</a>",
-        "url": "https://www.fiercebiotech.com/biotech/novo-shutters-cell-therapy-unit-ending-work-potential-type-1-diabetes-cure",
-        "source": "Fierce Biotech",
-        "published": "Oct 10, 2025 3:02pm",
-        "published_dt": "2025-10-10T15:02:00+00:00",
-        "summary": "Novo Nordisk is ending all work in cell therapy, including a Type 1 diabetes program, amid CEO Maziar Mike Doustdar's reorganization. As part of the move, the company is laying off nearly all of the division\u2019s 250 employees, according to a Danish publication."
-      },
-      {
-        "id": "e0fc85cdc7e210ab",
-        "title": "STAT+: AstraZeneca to make obesity drugs\u00a0in new Virginia plant",
-        "url": "https://www.statnews.com/2025/10/10/biotech-news-astrazeneca-biosecure-novo-akero/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 10 Oct 2025 14:56:43 +0000",
-        "published_dt": "2025-10-10T14:56:43+00:00",
-        "summary": "And more biotech news stories, brought to you by The Readout newsletter."
-      },
-      {
-        "id": "2eaaaa1cb316a175",
-        "title": "STAT+: Up and down the ladder: The latest comings and goings",
-        "url": "https://www.statnews.com/pharmalot/2025/10/10/pharma-biotech-jobs-lilly-bayer-kalvista/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 10 Oct 2025 14:52:24 +0000",
-        "published_dt": "2025-10-10T14:52:24+00:00",
-        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-      },
-      {
-        "id": "258f1a85e0be3e3d",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/jj-talks-pen-new-chapter-protagonist-partnership-buyout-wsj\" hreflang=\"en\">J&amp;J in talks to buy immunology partner Protagonist: WSJ </a>",
-        "url": "https://www.fiercebiotech.com/biotech/jj-talks-pen-new-chapter-protagonist-partnership-buyout-wsj",
-        "source": "Fierce Biotech",
-        "published": "Oct 10, 2025 2:14pm",
-        "published_dt": "2025-10-10T14:14:00+00:00",
-        "summary": "Johnson &amp; Johnson may be looking to deepen its relationship with immunology partner Protagonist Therapeutics with a takeover deal, The Wall Street Journal reports."
-      },
-      {
-        "id": "55a6720a089835b2",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about U.S. Senate passing Biosecure Act, TrumpRx plans and more",
-        "url": "https://www.statnews.com/pharmalot/2025/10/10/trump-astrazeneca-gates-obesity-china-india-cough-goodrx/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 10 Oct 2025 13:05:17 +0000",
-        "published_dt": "2025-10-10T13:05:17+00:00",
-        "summary": "Plus more pharma news stories from the Pharmalittle newsletter."
-      },
-      {
-        "id": "de7c2534788a6a77",
-        "title": "<a href=\"https://www.fiercebiotech.com/research/mit-becomes-first-school-rebuff-white-house-deal-scientific-funding-should-be-based\" hreflang=\"en\">MIT first school to rebuff White House deal: 'Scientific funding should be based on scientific merit alone'</a>",
-        "url": "https://www.fiercebiotech.com/research/mit-becomes-first-school-rebuff-white-house-deal-scientific-funding-should-be-based",
-        "source": "Fierce Biotech",
-        "published": "Oct 10, 2025 1:04pm",
-        "published_dt": "2025-10-10T13:04:00+00:00",
-        "summary": "The Massachusetts Institute of Technology has refused the Trump administration\u2019s deal for prioritized funding in exchange for adhering to the president\u2019s ideological views\u2014the first university to publicly do so.&nbsp;"
-      },
-      {
-        "id": "3de284efe61dcabf",
-        "title": "STAT+: Bristol Myers to buy startup Orbital Therapeutics, building out cell therapy pipeline",
-        "url": "https://www.statnews.com/2025/10/10/bristol-myers-squibb-orbital-cell-therapy-autoimmune-car-t-in-vivo/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 10 Oct 2025 12:40:01 +0000",
-        "published_dt": "2025-10-10T12:40:01+00:00",
-        "summary": "Bristol Myers Squibb is buying startup Orbital Therapeutics for $1.5 billion, aiming to develop more scalable cell therapies for autoimmune disorders."
-      },
-      {
-        "id": "c633101eae17e4de",
-        "title": "The Download: our bodies\u2019 memories, and Traton\u2019s electric trucks",
-        "url": "https://www.technologyreview.com/2025/10/10/1125586/the-download-our-bodies-memories-and-tratons-electric-trucks/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 10 Oct 2025 12:10:00 +0000",
-        "published_dt": "2025-10-10T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How do our bodies remember? \u201cLike riding a bike\u201d is shorthand for the remarkable way that our bodies remember how to move. Most of the time when we talk about muscle memory, we\u2019re&#8230;"
-      },
-      {
-        "id": "f61dc40a3b7e274a",
-        "title": "STAT+: Senate-passed BIOSECURE Act would add arrow to Trump\u2019s drug-pricing quiver",
-        "url": "https://www.statnews.com/2025/10/10/senate-passes-biosecure-act-trump-drug-pricing-china/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 10 Oct 2025 11:42:44 +0000",
-        "published_dt": "2025-10-10T11:42:44+00:00",
-        "summary": "The Senate has passed legislation that would restrict U.S. pharmaceutical and biotechnology companies from doing business with certain Chinese companies."
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "810abd22f3c7186b",
+        "title": "Momentus and Solstar to offer communications, transportation and infrastructure in low-Earth orbit",
+        "url": "https://spacenews.com/momentus-and-solstar-to-offer-communications-transportation-and-infrastructure-in-low-earth-orbit/",
+        "source": "SpaceNews",
+        "published": "Mon, 13 Oct 2025 12:00:00 +0000",
+        "published_dt": "2025-10-13T12:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"492\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/rsz_solstar_momentus_rsa_x.jpg?fit=879%2C492&amp;ssl=1\" width=\"879\" /></figure>\n<p>BRISBANE, Australia \u2013 Momentus and Solstar Space announced a three-year agreement Oct. 13 to expand communications, transportation and infrastructure services for government and commercial missions in low-Earth orbit. The reciprocal-services agreement is designed to combine \u201cthe respective strengths, products and services of each company to deliver comprehensive low-Earth orbit space capabilities to address a broad [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/momentus-and-solstar-to-offer-communications-transportation-and-infrastructure-in-low-earth-orbit/\">Momentus and Solstar to offer communications, transportation and infrastructure in low-Earth orbit</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "cfe1c4ec886da4cb",
+        "title": "JAXA to launch tech demo satellites on Electron rockets",
+        "url": "https://spacenews.com/jaxa-to-launch-tech-demo-satellites-on-electron-rockets/",
+        "source": "SpaceNews",
+        "published": "Mon, 13 Oct 2025 11:52:25 +0000",
+        "published_dt": "2025-10-13T11:52:25+00:00",
+        "summary": "<figure><img alt=\"Electron launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"789\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/electron-f64.jpeg?fit=1024%2C789&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The Japanese space agency JAXA has selected Rocket Lab to launch a set of technology demonstration satellites on Electron rockets after continued delays with a Japanese launch vehicle.</p>\n<p>The post <a href=\"https://spacenews.com/jaxa-to-launch-tech-demo-satellites-on-electron-rockets/\">JAXA to launch tech demo satellites on Electron rockets</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "f757ca31079bfe1d",
+        "title": "Kontron and EIZO partner to expand VPX CPU/GPU platforms",
+        "url": "https://www.engineering.com/kontron-and-eizo-partner-to-expand-vpx-cpu-gpu-platforms/",
+        "source": "Engineering.com",
+        "published": "Mon, 13 Oct 2025 10:13:52 +0000",
+        "published_dt": "2025-10-13T10:13:52+00:00",
+        "summary": "<p>This partnership strengthens Kontron as a single-source VPX provider with EIZO\u2019s GPU technology.</p>\n<p>The post <a href=\"https://www.engineering.com/kontron-and-eizo-partner-to-expand-vpx-cpu-gpu-platforms/\">Kontron and EIZO partner to expand VPX CPU/GPU platforms</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "d2ec1a9c4b0c9e50",
+        "title": "Protolabs appoints Marc Kermisch as chief technology and AI officer",
+        "url": "https://www.engineering.com/protolabs-appoints-marc-kermisch-as-chief-technology-and-ai-officer/",
+        "source": "Engineering.com",
+        "published": "Mon, 13 Oct 2025 10:09:03 +0000",
+        "published_dt": "2025-10-13T10:09:03+00:00",
+        "summary": "<p>Marc\u2019s experience leading technology, R&#038;D, and AI teams at global companies positions him to lead the next chapter at Protolabs.</p>\n<p>The post <a href=\"https://www.engineering.com/protolabs-appoints-marc-kermisch-as-chief-technology-and-ai-officer/\">Protolabs appoints Marc Kermisch as chief technology and AI officer</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
       {
         "id": "457bcf5e22696db2",
         "title": "Momentus wins two NASA contracts to fly tech demo payloads",
@@ -320,6 +356,15 @@
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"794\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/Infra-overview-Q3-scaled-1.webp?fit=1024%2C794&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Early-stage investor Space Capital said global investments in core space infrastructure climbed to a five-quarter high of $4.4 billion over the three months to the end of September, amid a breakout year for U.S. satellite manufacturing.</p>\n<p>The post <a href=\"https://spacenews.com/space-infrastructure-investments-surge-to-five-quarter-high/\">Space infrastructure investments surge to five-quarter high</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
+        "id": "cdc1b553fd8d28d7",
+        "title": "SpaceX prepares for next Starship test flight",
+        "url": "https://spacenews.com/spacex-prepares-for-next-starship-test-flight/",
+        "source": "SpaceNews",
+        "published": "Mon, 13 Oct 2025 00:04:01 +0000",
+        "published_dt": "2025-10-13T00:04:01+00:00",
+        "summary": "<figure><img alt=\"Flight 11 preview\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/flight11preview.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>SpaceX is set to conduct its next Starship test flight as the company continues to test the launch vehicle and play well with others in airspace.</p>\n<p>The post <a href=\"https://spacenews.com/spacex-prepares-for-next-starship-test-flight/\">SpaceX prepares for next Starship test flight</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
         "id": "1f084a00f20f0c67",
         "title": "French space defense startup Dark ceases operations",
         "url": "https://spacenews.com/french-space-defense-startup-dark-ceases-operations/",
@@ -392,15 +437,6 @@
         "summary": "<p>Brings marketing leadership in AI innovation and enterprise software.</p>\n<p>The post <a href=\"https://www.engineering.com/bentley-appoints-cate-lochead-as-chief-marketing-officer/\">Bentley appoints Cate Lochead as chief marketing officer</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "4b1719483997bd61",
-        "title": "How small language models can advance digital transformation \u2013 part 2",
-        "url": "https://www.engineering.com/how-small-language-models-can-advance-digital-transformation-part-2/",
-        "source": "Engineering.com",
-        "published": "Thu, 09 Oct 2025 17:51:36 +0000",
-        "published_dt": "2025-10-09T17:51:36+00:00",
-        "summary": "<p>Let\u2019s compare small language models to large language models for digital transformation projects.</p>\n<p>The post <a href=\"https://www.engineering.com/how-small-language-models-can-advance-digital-transformation-part-2/\">How small language models can advance digital transformation \u2013 part 2</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
         "id": "4c9004f3cb9e8f5e",
         "title": "Lockheed Martin adapting to a faster space race",
         "url": "https://spacenews.com/lockheed-martin-adapting-to-a-faster-space-race/",
@@ -410,15 +446,6 @@
         "summary": "<figure><img alt=\"Space Minds\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/072525-space-minds-podcast-ISS-1920-1080-1.png?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>In this week\u2019s episode of Space Minds, host Mike Gruss speaks with Robert Lightfoot, president, space at Lockheed Martin and former NASA associate administrator. </p>\n<p>The post <a href=\"https://spacenews.com/lockheed-martin-adapting-to-a-faster-space-race/\">Lockheed Martin adapting to a faster space race</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "42d4b059a3e47c5a",
-        "title": "Remcom adds advanced antenna analysis tools in XFdtd update",
-        "url": "https://www.engineering.com/remcom-adds-advanced-antenna-analysis-tools-in-xfdtd-update/",
-        "source": "Engineering.com",
-        "published": "Thu, 09 Oct 2025 11:57:25 +0000",
-        "published_dt": "2025-10-09T11:57:25+00:00",
-        "summary": "<p>New features include phase difference analysis, flexible far-zone visualization, and performance improvements for faster workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/remcom-adds-advanced-antenna-analysis-tools-in-xfdtd-update/\">Remcom adds advanced antenna analysis tools in XFdtd update</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
         "id": "2758b246f911b55e",
         "title": "Stoke Space raises $510 million",
         "url": "https://spacenews.com/stoke-space-raises-510-million/",
@@ -426,36 +453,18 @@
         "published": "Wed, 08 Oct 2025 23:03:02 +0000",
         "published_dt": "2025-10-08T23:03:02+00:00",
         "summary": "<figure><img alt=\"Stoke Nova\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"627\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/stoke-nova.jpeg?fit=1024%2C627&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Stoke Space, a company developing a fully reusable launch vehicle, has raised $510 million to fund operations through its first launches, bringing its total capital raised to nearly $1 billion.</p>\n<p>The post <a href=\"https://spacenews.com/stoke-space-raises-510-million/\">Stoke Space raises $510 million</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "89874f6a6c7d8108",
-        "title": "Blue Origin flies sixth crewed New Shepard flight of 2025",
-        "url": "https://spacenews.com/blue-origin-flies-sixth-crewed-new-shepard-flight-of-2025/",
-        "source": "SpaceNews",
-        "published": "Wed, 08 Oct 2025 20:58:41 +0000",
-        "published_dt": "2025-10-08T20:58:41+00:00",
-        "summary": "<figure><img alt=\"NS-36 liftoff\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"572\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/ns36-liftoff.jpeg?fit=1024%2C572&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Blue Origin launched its sixth crewed New Shepard flight so far this year Oct. 8 as the company works to increase the vehicle\u2019s flight rate.</p>\n<p>The post <a href=\"https://spacenews.com/blue-origin-flies-sixth-crewed-new-shepard-flight-of-2025/\">Blue Origin flies sixth crewed New Shepard flight of 2025</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "e9ba442fd5c79373",
-        "title": "Space Force sets up \u2018working capital fund\u2019 for commercial space services",
-        "url": "https://spacenews.com/space-force-sets-up-working-capital-fund-for-commercial-space-services/",
-        "source": "SpaceNews",
-        "published": "Wed, 08 Oct 2025 20:48:12 +0000",
-        "published_dt": "2025-10-08T20:48:12+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"666\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2022/11/210713-A-LL512-1013.jpeg?fit=1000%2C666&amp;ssl=1\" width=\"1000\" /></figure>\n<p>The Space Force\u2019s working capital fund will be used to buy satellite communications and other commercial space services with funds from internal Department of War customers</p>\n<p>The post <a href=\"https://spacenews.com/space-force-sets-up-working-capital-fund-for-commercial-space-services/\">Space Force sets up \u2018working capital fund\u2019 for commercial space services</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "7586d5f1e03e6672",
-        "title": "AST SpaceMobile gains Verizon ally amid SpaceX\u2019s direct-to-device push",
-        "url": "https://spacenews.com/ast-spacemobile-gains-verizon-ally-amid-spacexs-direct-to-device-push/",
-        "source": "SpaceNews",
-        "published": "Wed, 08 Oct 2025 20:09:08 +0000",
-        "published_dt": "2025-10-08T20:09:08+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"769\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/Bluebird-6.jpeg?fit=1024%2C769&amp;ssl=1\" width=\"1024\" /></figure>\n<p>AST SpaceMobile\u2019s shares closed up more than 8% Oct. 8 after Verizon joined AT&#038;T in signing a definitive agreement to use its planned space-based cellular network, easing investor concerns about SpaceX\u2019s aggressive push into the fledgling D2D market.</p>\n<p>The post <a href=\"https://spacenews.com/ast-spacemobile-gains-verizon-ally-amid-spacexs-direct-to-device-push/\">AST SpaceMobile gains Verizon ally amid SpaceX\u2019s direct-to-device push</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
+      {
+        "id": "8f9726bb4e5a90e0",
+        "title": "The Economic Geography of American Slavery -- by Treb Allen, Winston Chen, Suresh Naidu",
+        "url": "https://www.nber.org/papers/w34356#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "What would the antebellum American economy have looked like without slavery? Using new micro-data on the U.S. economy in 1860, we document that where free and enslaved workers live and how much they earn correlates strongly\u2014but differently\u2014with geographic proxies for agricultural productivity, disease, and ease of slave escape. To explain these patterns, we build a quantitative spatial model of slavery, where slaveholders coerce enslaved workers into supplying more labor, capture the proceeds of their labor, and assign them to sectors and occupations that maximize owner profits rather than worker welfare. Combining theory and data, we then quantify how dismantling the institution of slavery affected the spatial economy. We find that the economic impacts of emancipation are substantial, generating welfare gains for the enslaved of roughly 1,200%, while reducing welfare of free workers by 0.7% and eliminating slaveholder profit. Aggregate GDP rises by 9.1%, with a contraction in agricultural productivity counteracted by an expansion in manufacturing and services driven by an exodus of formerly enslaved workers out of agriculture and into the U.S. North."
+      },
       {
         "id": "d3acd20a40121719",
         "title": "Do tariffs raise inflation?",
@@ -466,13 +475,22 @@
         "summary": "Usually. But the bigger problem is that they harm economic growth and innovation"
       },
       {
-        "id": "e75460d0db7671dd",
-        "title": "Climate Change, Conflict, and the Risk of Economic Collapse in Africa -- by Joel Ferguson, Marshall Burke, Edward Miguel, Solomon M. Hsiang",
-        "url": "https://www.nber.org/papers/w34320#fromrss",
+        "id": "2c2243ab78cf8810",
+        "title": "Measuring What Matters: Why Italy May Be in Better Fiscal Shape than the US -- by Emanuele Dicarlo, Laurence J. Kotlikoff, Mauro Mar\u00e8, Marco Olivari",
+        "url": "https://www.nber.org/papers/w34340#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "Is human-caused climate change likely to trigger enduring economic decline in modern societies? We study whether changes in violent conflict and economic growth caused by warming could interact to degrade economic opportunities and trap African countries in poverty. We provide evidence of an emerging high-conflict and low-growth \"poverty trap\" equilibrium in Africa and describe theoretically how such an equilibrium could result from warming. We then combine historical data on temperature, growth, and conflict with projections from a large ensemble of global climate models to evaluate the risk that warming and subsequent conflict could push African economies into a regime of sustained negative economic growth. We find that the risk of such \"economic collapse\" is material in a moderate-to-high emissions scenario. We estimate that in Africa, a current \"high\" emissions trajectory (RCP 7.0) may increase the incidence of conflict 5.1 percentage points (95% CI 0.2-13.0) and increase the share of countries with net negative GDP growth this century by 12.2 percentage points (95% CI 2.0-27.5).  We calculate that roughly 82% of this additional conflict risk and 14% of projected GDP losses are due to the interacting effects between these two outcomes, underscoring the importance of accounting for their indirect effects and feedbacks. Our findings suggest an unprecedented scale of emissions mitigation, economic policy innovation or institutional investment that would be required to contain the risk of catastrophic human impacts from climate change in many African countries."
+        "summary": "This study uses fiscal gap accounting (FGA) and generational accounting (GA) to compare US and Italian fiscal solvency. FGA and GA incorporate all government outlays and receipts, whether put on or kept off the books. FGA measures, in the form of reduced net outlays, the constant share of each future year\u2019s GDP needed to balance the government\u2019s intertemporal budget. GA calculates the lifetime net tax rate \u2013 lifetime taxes divided by lifetime labor earnings -- facing future generations if current generations pay nothing more, on net, than current policy mandates. Deficit accounting suggests that Italy\u2019s 135 percent debt-to-GDP ratio places it in worse fiscal shape than the US with its 123 percent ratio. But on a fiscal-gap basis, Italy appears in far better shape regardless of the discount rate used. Based on the theoretically appropriate rate \u2013 the average real return to national wealth, the U.S. fiscal gap is 7.4%. Italy\u2019s is 4.0%. These requisite solvency adjustments are far larger if delayed or if the UN\u2019s more pessimistic demographic projections prevail. Neither country can expect future generations, on their own, to cover their government\u2019s red ink. Doing so requires levying lifetime net tax rates, in each country, that exceed 100%."
+      },
+      {
+        "id": "7588c55eacc39fc8",
+        "title": "Returns to Trainees in a Highly Regulated Labor Market -- by Michael R. Richards, Jonathan Seward, Christopher M. Whaley",
+        "url": "https://www.nber.org/papers/w34365#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "Human capital formation enhances worker productivity and firm performance. However, firms may not fully internalize the financial benefits from investing in employee skill-building, which can disincentivize worker training and suggest roles for government support. We examine such tradeoffs in the context of physician training (i.e., \u201cresidency\u201d programs). Using the universe of Medicare inpatient and outpatient records from 2014-2019 and differences-in-differences analyses, we show that hospitals\u2019 productivity and revenues grow by 10-20% after underwriting a procedure-oriented residency\u2013\u2013though heterogeneity exists. The hospitals benefiting from trainee labor conservatively net over $2 million in steady-state, revealing substantive private incentives to finance physician training."
       },
       {
         "id": "8bd66e558ada2539",
@@ -484,58 +502,58 @@
         "summary": "Just consider what happens if inflation starts to rise again"
       },
       {
-        "id": "6f00b86a690c86ab",
-        "title": "Artificial Intelligence in Research and Development -- by Benjamin Jones",
-        "url": "https://www.nber.org/papers/w34312#fromrss",
+        "id": "0eb79b40917bd239",
+        "title": "Introducing The SPEAK: A Scalable Computer-Adaptive Tool to Measure Knowledge of Early Human Development -- by Caroline Gaudreau, Dani Levine, John A. List, Dana Suskind",
+        "url": "https://www.nber.org/papers/w34349#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "How much can AI accelerate progress in different research fields?  This paper shows that three features\u2014the share of research tasks AI performs, the productivity of AI at those tasks, and the strength of bottlenecks\u2014are key determinants of AI\u2019s implications in any area, from cancer therapeutics to software design. The model maps changes in AI capabilities to research outcomes, quantifies the \u201cmarginal returns to intelligence,\u201d and shows how AI can shift returns to R&amp;D investment. Concepts like superintelligence, Powerful AI, and Transformative AI are further engaged and disciplined.  Finally, the framework sets a measurement agenda linking AI benchmarks to field-specific opportunities for accelerating progress."
+        "summary": "Research shows responsive caregiving enhances children's brain development, with parental knowledge predicting positive behaviors and outcomes. However, knowledge varies widely across educational levels, highlighting the need for targeted interventions. Despite evidence that this knowledge can be improved, no comprehensive metric exists for efficient assessment. We introduce SPEAK (Survey of Parent/Provider Expectations and Knowledge), a computer-adaptive tool grounded in item-response theory that we created, to address this gap by measuring parental and educator knowledge across development domains with precision and speed. This paper details SPEAK's development, including domain construction, cognitive interviewing, expert review, psychometric calibration, and validity evidence. SPEAK offers a flexible, scalable solution for clinical, educational, research, and policy settings. By identifying knowledge gaps, it enables tailored interventions, supports professional development, and informs policy, ultimately improving parent-child interactions and child outcomes. Our tool bridges critical gaps in assessing child development knowledge, advancing research and cross-sector collaboration to promote early childhood development worldwide."
       },
       {
-        "id": "b13c893c8c4bf8da",
-        "title": "The Impact of Immunotherapy on Reductions in Cancer Mortality: Evidence from Medicare -- by Danea Horn, Abby E. Alpert, Mark Duggan, Mireille Jacobson",
-        "url": "https://www.nber.org/papers/w34317#fromrss",
+        "id": "729071df82038e3b",
+        "title": "Big Beautiful Numbers: The Impact of Governmental Data on Firms' Valuations -- by Derek Lemoine",
+        "url": "https://www.nber.org/papers/w34350#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "Immunotherapy is a breakthrough innovation in cancer care but is also among the most expensive treatments, with costs exceeding $150,000 per patient. We study the introduction of immune checkpoint inhibitors (ICIs), the most widely used class of immunotherapy drugs. In 2022, ICIs accounted for 44% of the $17.5 billion Medicare Part B cancer drug spending. We focus on metastatic melanoma, the first approved indication for ICIs. While overall cancer mortality rates declined since the 1990s, melanoma mortality rates increased through the early 2010s. Following the first ICI approvals in 2011 and 2014, melanoma mortality declined sharply. Using traditional Medicare claims, we estimate the impact of the introduction of ICIs on healthcare utilization, costs, and 1-year survival for patients with metastatic melanoma, relative to metastatic colorectal cancer (CRC), where ICIs were not approved until 2017. Variation in approval timing allows us to isolate the effect of ICIs from broader cancer care trends. We find that ICIs reduced 1-year mortality by 6.2%. Since about 1 in 5 metastatic melanoma patients received ICIs, this implies a 27.5% reduction among treated patients. The introduction of ICIs also reduced chemotherapy and radiation use, but increased Medicare spending by 59.3% or about 260% among ICI-treated patients. Accounting for life expectancy gains beyond one year, the benefits of ICIs for melanoma patients appear comparable, or potentially even greater, than the substantial added Medicare costs. Nonetheless, ICI use remains relatively low given large survival benefits and few alternative treatments, suggesting that costs\nand other barriers limit patient access."
+        "summary": "I use the prices of financial options to study the value of macroeconomic data produced by the Bureau of Labor Statistics and the Bureau of Economic Analysis.  I show that options traders expect several data products to contain information relevant to valuations of firms throughout the economy.  The most affected firms tend to be larger and more capital-intensive.  Traders especially anticipate data releases in more recent years and in periods of high uncertainty about economic policy.  Traders expect more relevant information from U.S. government data products than from Federal Reserve policy statements and minutes."
       },
       {
-        "id": "88cd453afc839190",
-        "title": "Making AI Count: The Next Measurement Frontier -- by Diane Coyle, John Lourenze S. Poquiz",
-        "url": "https://www.nber.org/papers/w34330#fromrss",
+        "id": "c0fe2087b856b656",
+        "title": "Social Costs of Work Disruptions: Evidence from Physicians and their Patients -- by Leila Agha, Na'ama Shenhav, Myles Wagner",
+        "url": "https://www.nber.org/papers/w34360#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "Generative AI is transforming production, consumption, and work, yet current statistical frameworks would likely struggle to capture its economic full economic impact. While the 2025 System of National Accounts introduces AI as a distinct asset, challenges remain in valuing AI-related investments, inputs, and outputs. Moreover, as a general-purpose technology, AI alters business processes, service quality, and labor organization in ways poorly reflected in official data. This paper outlines key measurement gaps from transformative AI, including the tracking cross-border inputs, quality change, and process changes. We argue that economic statistics should adopt more granular, task-based, and outcome-focused approaches to ensure relevance in an increasingly AI-driven economy."
+        "summary": "Work disruptions among women are common and costly for workers and firms, but do consumers also shoulder some of these costs? We study the impact of physicians\u2019 births\u2014a large, temporary shock to women\u2019s labor supply\u2014on their patients\u2019 access to care, using administrative Medicaid claims data from California. Female physicians reduce their office visits by 85% in the quarter after giving birth, but return nearly to pre-birth levels within two years. These supply disruptions generate persistent effects on child patients: those whose primary care physician gives birth are less likely to see their usual physician for up to two years and receive less preventative care, including a 50% reduction in vaccination claims and a 42% reduction in lead testing. In contrast, we find little impact on adult patients. The lasting effects on children coincide with fewer pediatrician encounters overall, consistent with limited availability of substitute providers and the central role of pediatricians in monitoring children\u2019s preventative care. Our findings demonstrate how shocks to women\u2019s labor supply can generate persistent consumer welfare losses."
       },
       {
-        "id": "d68c45c2aba4a533",
-        "title": "Trade and Development in a Fracturing World -- by Amit Khandelwal",
-        "url": "https://www.nber.org/papers/w34333#fromrss",
+        "id": "cb52287e95ca1a81",
+        "title": "A Narrative Account of the Great Inflation in the UK 1961-1997 -- by Michael D. Bordo, Oliver Bush, Ryland Thomas",
+        "url": "https://www.nber.org/papers/w34363#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "In a fracturing world, how can low- and middle-income countries (LMICs) continue to leverage trade for economic development? Drawing on recent research at this intersection, this review argues that countries should look inward toward domestic reforms in key factor markets. I review evidence on how trade in LMICs is shaped by frictions in labor, capital, material, land, and information markets, and highlight areas where the evidence base remains thin. I concluded with a discussion of vertical policies relevant for LMICs\u2014particularly the role of services\u2014and suggest areas where further research is needed to assess whether development can be service-led."
+        "summary": "This narrative paper provides a detailed account of the Great Inflation in the United Kingdom from 1961 to 1997, serving as a companion to the analytical account of fiscal policy presented in Bordo, Bush, and Thomas (2025). We discuss the background fundamentals in place at the outset of the Great Inflation and document the distinct phases of inflation, the unique features of the UK\u2019s experience relative to other advanced economies, and the interplay between fiscal, monetary, and incomes policies. By placing the UK\u2019s inflationary episodes within their institutional and historical context, this paper offers a qualitative perspective that complements the quantitative analysis of the main paper and informs ongoing debates about the causes and consequences of persistent inflation."
       },
       {
-        "id": "50b65e5037384a52",
-        "title": "Fractional Ownership and Copyright Licensing: Evidence from the Music Industry -- by Alberto Galasso, El Hadi Caoui",
-        "url": "https://www.nber.org/papers/w34336#fromrss",
+        "id": "f716cf08a75074f6",
+        "title": "Who Rides Out the Storm? The Immediate Post-College Transition and its Role in Socioeconomic Earnings Gaps -- by Judith Scott-Clayton, Veronica Minaya, C.J. Libassi, Joshua K.R. Thomas",
+        "url": "https://www.nber.org/papers/w34366#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "Creative content is often the product of collaboration, which may lead to fractional ownership of intellectual property. We study the effect of fractional ownership on the licensing of copyrighted material and its reuse. To do so, we compile new data on the copyright ownership structure of songs and their licensing for use in movies. We document that fractional song ownership has increased substantially: the mean number of songwriters and publishers per song has tripled between 1958 and 2021. We show that, conditional on a rich set of controls, greater fractionalization is associated with lower likelihood of licensing. We leverage the Sony-led acquisition of EMI Music Publishing in 2012 to obtain within-song variation in ownership and find that consolidating ownership rights significantly increases licensing, beyond any standalone effects of the merger."
+        "summary": "Despite a large earnings premium for bachelor\u2019s degree completion in general, graduates from low-income families earn substantially less than graduates from high-income families. While prior research has documented the role of college quality and major choice in explaining these gaps, we examine undermatching on a different margin: the first (post-college) job transition. The transition from college to the labor market can be challenging to navigate, and students with financial, informational, or other disadvantages during the job search may be more likely to \u201cundermatch\u201d to their first job. Using administrative data from a large, urban, public college system, we document large gaps in earnings five years after graduation by SES (proxied by financial aid receipt) that remain unexplained even after controlling for GPA, college, field of study, and other pre-graduation characteristics. We then examine how features of the initial job transition relate to longer-term earnings, and to what extent differences in the first job transition can explain later SES earnings gaps. Our results show that first job transitions are rocky for many graduates, strongly predict earnings at Year 5, and are a substantial mediator of socioeconomic gaps in earnings five years after college graduation\u2014reducing the unexplained gap by almost two-thirds."
       },
       {
-        "id": "56d4699b73491040",
-        "title": "The Past and Future of U.S. Structural Change: Compositional Accounting and Forecasting -- by Andrew Foerster, Andreas Hornstein, Pierre-Daniel Sarte, Mark W. Watson",
-        "url": "https://www.nber.org/papers/w34338#fromrss",
+        "id": "8247455f2e7f75e1",
+        "title": "Banking Crises, Nonlinear Export Elasticities, and the Dominant Currency Paradigm -- by Robin Brooks, Eswar S. Prasad",
+        "url": "https://www.nber.org/papers/w34371#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We explore the evolving significance of different production sectors within the U.S. economy since World War II and provide methods for estimating and forecasting these shifts. Using a compositional accounting approach, we find that the well-documented transition from goods to services is primarily driven by two compositional changes: 1) the rise of Intellectual Property Products (IPP) as an input producer, replacing Durable Goods almost one-for-one in terms of input shares in virtually all sectors; and 2) a shift in consumer spending from Nondurable Goods to Services. A structural model replicating these shifts reveals that the rise of IPP at the expense of Durable Goods is largely explained by increases in the efficiency of IPP inputs used in production: input-biased technical change. Trend variations in sectoral total factor productivity, and their attendant effects on relative prices and income, are the main driver of evolving consumption patterns. Both reduced-form and structural forecasts project these trends to continue over the next two decades, albeit at lower rates, indicating a slower pace of structural change."
+        "summary": "The dominant currency paradigm posits that dollar invoicing reduces the potency of exchange rate depreciations in boosting export volumes. This implies that export elasticities with respect to the exchange rate are small, rendering even large depreciations ineffectual in the short term. We incorporate two innovations versus existing work. First, we allow for nonlinearities, permitting large depreciations to disproportionately lift exports. Second, we control for banking crises, which accompany many depreciations. Our baseline export elasticity\u2014without nonlinearities or banking crisis controls\u2014is -0.3, consistent with prevailing \u201celasticity pessimism.\u201d This elasticity rises to between -0.5 and -0.8 within two years for depreciations above 20 percent without banking crises."
       },
       {
         "id": "483fcd6e7dcb6580",
@@ -662,27 +680,27 @@
         "published": "Wed, 27 Aug 2025 19:35:33 +0000",
         "published_dt": "2025-08-27T19:35:33+00:00",
         "summary": "How strong is the evidence, and how bad would it be if the claims were true?"
-      },
-      {
-        "id": "b888d4faa903bb2b",
-        "title": "Even as China\u2019s economy suffers, stocks soar. What\u2019s going on?",
-        "url": "https://www.economist.com/finance-and-economics/2025/08/27/even-as-chinas-economy-suffers-stocks-soar-whats-going-on",
-        "source": "Finance & economics",
-        "published": "Wed, 27 Aug 2025 12:55:18 +0000",
-        "published_dt": "2025-08-27T12:55:18+00:00",
-        "summary": "The Shanghai composite is defying gravity"
-      },
-      {
-        "id": "5c0effffe5ebecbc",
-        "title": "Trump\u2019s trade victims are shrugging off his attacks",
-        "url": "https://www.economist.com/finance-and-economics/2025/08/20/trumps-trade-victims-are-shrugging-off-his-attacks",
-        "source": "Finance & economics",
-        "published": "Wed, 20 Aug 2025 15:33:32 +0000",
-        "published_dt": "2025-08-20T15:33:32+00:00",
-        "summary": "And China is gaining in the process"
       }
     ],
     "Cross-Disciplinary": [
+      {
+        "id": "b0e317c4e49872b8",
+        "title": "The Download: planet hunting, and India\u2019s e-scooters",
+        "url": "https://www.technologyreview.com/2025/10/13/1125657/the-download-planet-hunting-and-indias-e-scooters/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 13 Oct 2025 12:11:53 +0000",
+        "published_dt": "2025-10-13T12:11:53+00:00",
+        "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An Earthling\u2019s guide to planet hunting The pendant on Rebecca Jensen-Clem\u2019s necklace is composed of 36 silver hexagons entwined in a honeycomb mosaic. At the Keck Observatory, in Hawaii, just as many segments&#8230;"
+      },
+      {
+        "id": "e802abeece32292e",
+        "title": "An Earthling\u2019s guide to planet hunting",
+        "url": "https://www.technologyreview.com/2025/10/13/1124970/astronomy-planet-hunting-atmosphere/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 13 Oct 2025 10:00:00 +0000",
+        "published_dt": "2025-10-13T10:00:00+00:00",
+        "summary": "The pendant on Rebecca Jensen-Clem\u2019s necklace is only about an inch wide, composed of 36 silver hexagons entwined in a honeycomb mosaic. At the Keck Observatory, in Hawaii, just as many segments make up a mirror that spans 33 feet, reflecting images of uncharted worlds for her to study.&#160; Jensen-Clem, an astronomer at the University&#8230;"
+      },
       {
         "id": "7cb72b6036b65370",
         "title": "Intelligence Meets Energy: ADIPEC 2025 and the AI Revolution in the Energy Sector",
@@ -889,24 +907,6 @@
         "published": "Wed, 08 Oct 2025 12:10:00 +0000",
         "published_dt": "2025-10-08T12:10:00+00:00",
         "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Trump administration may cut funding for two major direct-air capture plants The US Department of Energy appears poised to terminate funding for a pair of large carbon-sucking factories that were originally set&#8230;"
-      },
-      {
-        "id": "78d735242da1b1c3",
-        "title": "The Trump administration may cut funding for two major direct-air-capture plants",
-        "url": "https://www.technologyreview.com/2025/10/07/1125207/the-us-is-set-to-cancel-funding-for-two-major-direct-air-capture-plants/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 07 Oct 2025 18:29:20 +0000",
-        "published_dt": "2025-10-07T18:29:20+00:00",
-        "summary": "The US Department of Energy appears poised to terminate funding for a pair of large carbon-sucking factories that were originally set to receive more than $1 billion in government grants, according to a department-issued list of projects obtained by MIT Technology Review and circulating among federal agencies. One of the projects is the South Texas&#8230;"
-      },
-      {
-        "id": "707aad1dd50d7f86",
-        "title": "AI toys are all the rage in China\u2014and now they\u2019re appearing on shelves in the US too",
-        "url": "https://www.technologyreview.com/2025/10/07/1125191/ai-toys-in-china/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 07 Oct 2025 16:51:02 +0000",
-        "published_dt": "2025-10-07T16:51:02+00:00",
-        "summary": "Kids have always played with and talked to stuffed animals. But now their toys can talk back, thanks to a wave of companies that are fitting children\u2019s playthings with chatbots and voice assistants.&#160; It\u2019s a trend that has particularly taken off in China: A recent report by the Shenzhen Toy Industry Association and JD.com predicts&#8230;"
       }
     ]
   }
