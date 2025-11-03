@@ -1,7 +1,115 @@
 {
-  "generated_at": "2025-11-02T12:44:59.751528+00:00",
+  "generated_at": "2025-11-03T12:53:12.254277+00:00",
   "categories": {
     "Biotech": [
+      {
+        "id": "8dbe66c5732dbdfe",
+        "title": "STAT+: Caribou\u2019s off-the-shelf CAR-T therapy shows promise in lymphoma study",
+        "url": "https://www.statnews.com/2025/11/03/caribou-biosciences-vespa-cel-lymphoma/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 03 Nov 2025 12:00:00 +0000",
+        "published_dt": "2025-11-03T12:00:00+00:00",
+        "summary": "Caribou Biosciences said its off-the-shelf CAR-T therapy induced complete and durable remissions in patients with advanced B-cell lymphoma."
+      },
+      {
+        "id": "0a36273c6473340c",
+        "title": "This startup wants to clean up the copper industry",
+        "url": "https://www.technologyreview.com/2025/11/03/1127474/copper-smelting-chemistry-clean/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 03 Nov 2025 11:00:00 +0000",
+        "published_dt": "2025-11-03T11:00:00+00:00",
+        "summary": "Demand for copper is surging, as is pollution from its dirty production processes. The founders of one startup, Still Bright, think they have a better, cleaner way to generate the copper the world needs.&#160; The company uses water-based reactions, based on battery chemistry technology, to purify copper in a process that could be less polluting&#8230;"
+      },
+      {
+        "id": "57da7ca11ee8eed8",
+        "title": "STAT+: What\u2019s on tap at a major heart conference",
+        "url": "https://www.statnews.com/2025/11/03/aha-scientific-sessions-2025-what-to-expect-new-orleans/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 03 Nov 2025 10:00:00 +0000",
+        "published_dt": "2025-11-03T10:00:00+00:00",
+        "summary": "New studies identify a new villain in heart disease (the kidney) and new standards for averting stroke."
+      },
+      {
+        "id": "429bd4c66a83114a",
+        "title": "The Americas, led by Canada, is on the brink of losing measles-elimination status",
+        "url": "https://www.statnews.com/2025/11/03/measles-elimination-status-canada-united-states-mexico/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 03 Nov 2025 09:30:00 +0000",
+        "published_dt": "2025-11-03T09:30:00+00:00",
+        "summary": "The Americas is the only region of the world to have stopped endemic transmission of measles. But its victory is on the verge of being rolled back."
+      },
+      {
+        "id": "0abbb75df66344bf",
+        "title": "STAT+: AI for medical coding is helping this primary care clinic open a dozen more locations",
+        "url": "https://www.statnews.com/2025/11/03/ai-medical-coding-med-first-expansion/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 03 Nov 2025 09:30:00 +0000",
+        "published_dt": "2025-11-03T09:30:00+00:00",
+        "summary": "Autonomous coding using AI is turning into a new battlefront between insurers and health care providers."
+      },
+      {
+        "id": "b67d6fe8af3c0b69",
+        "title": "In Texas, the nation\u2019s MAHA capital, many are frustrated with the status quo in health care",
+        "url": "https://www.statnews.com/2025/11/03/make-america-healthy-again-texas-heart-of-maha-movement/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 03 Nov 2025 09:30:00 +0000",
+        "published_dt": "2025-11-03T09:30:00+00:00",
+        "summary": "Texas is the MAHA capital of the country \u2014\u00a0offering a look at health policies that may soon roll across the country."
+      },
+      {
+        "id": "ae38e75d92e3ac8c",
+        "title": "Opinion: The right place for AI companions in mental health care",
+        "url": "https://www.statnews.com/2025/11/03/ai-companions-prosthetic-relationships-prescription-for-loneliness/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 03 Nov 2025 09:30:00 +0000",
+        "published_dt": "2025-11-03T09:30:00+00:00",
+        "summary": "For those unable to sustain relationships despite years of treatment, chatbots could offer legitimate and therapeutic support."
+      },
+      {
+        "id": "1c14ac5f2467eec0",
+        "title": "Opinion: The big flaw in Big Pharma\u2019s \u2018patient advocacy\u2019",
+        "url": "https://www.statnews.com/2025/11/03/big-pharma-patient-advocacy-corporate-responsibility-prader-willi-rare-disease/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 03 Nov 2025 09:30:00 +0000",
+        "published_dt": "2025-11-03T09:30:00+00:00",
+        "summary": "When Big Pharma ties its corporate social responsibility initiatives to patients' needs, too often it veers into theater."
+      },
+      {
+        "id": "77a139e2068aa6bb",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-places-intellia-phase-3-crispr-trials-hold-over-raised-liver-enzymes\" hreflang=\"en\">FDA places Intellia phase 3 CRISPR trials on hold over raised liver enzymes</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-places-intellia-phase-3-crispr-trials-hold-over-raised-liver-enzymes",
+        "source": "Fierce Biotech",
+        "published": "Oct 30, 2025 6:38am",
+        "published_dt": "2025-10-30T06:38:00+00:00",
+        "summary": "After Intellia Therapeutics paused a pair of phase 3 trials for its CRISPR therapy in response to a liver safety signal, the FDA has made things official by placing the studies under a clinical hold."
+      },
+      {
+        "id": "87f75110bbd35fe2",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/italian-biotech-aavantgarde-eyes-143m-series-b-fund-retinal-disease-gene-therapy-trials\" hreflang=\"en\">Italian biotech AAVantgarde adds $141M series B to fund retinal disease gene therapy trials</a>",
+        "url": "https://www.fiercebiotech.com/biotech/italian-biotech-aavantgarde-eyes-143m-series-b-fund-retinal-disease-gene-therapy-trials",
+        "source": "Fierce Biotech",
+        "published": "Oct 29, 2025 10:34am",
+        "published_dt": "2025-10-29T10:34:00+00:00",
+        "summary": "Amgen Ventures-backed AAVantgarde Bio has raised $141 million in series B funding that the Italian biotech will use to push its two AAV gene therapies for eye diseases through the clinic."
+      },
+      {
+        "id": "d1974cafd44d33bb",
+        "title": "STAT+: FDA\u2019s top drug regulator resigns amid investigation",
+        "url": "https://www.statnews.com/2025/11/02/fda-george-tidmarsh-regulator-kevin-tang/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sun, 02 Nov 2025 21:48:30 +0000",
+        "published_dt": "2025-11-02T21:48:30+00:00",
+        "summary": "George Tidmarsh, the FDA's top drug regulator, has been placed on leave after being accused of abusing his regulatory authority, STAT has learned."
+      },
+      {
+        "id": "c928fc90c326ce97",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/neurocrine-pens-880m-deal-chinas-transthera-red-hot-immunology-target\" hreflang=\"en\">Neurocrine pens $880M deal with China's TransThera for red-hot immunology target</a>",
+        "url": "https://www.fiercebiotech.com/biotech/neurocrine-pens-880m-deal-chinas-transthera-red-hot-immunology-target",
+        "source": "Fierce Biotech",
+        "published": "Nov 3, 2025 5:43am",
+        "published_dt": "2025-11-03T05:43:00+00:00",
+        "summary": "Neurocrine Biosciences has penned a deal with China\u2019s TransThera Sciences potentially worth more than $880 million in biobucks for inhibitors aimed at a red-hot inflammation target."
+      },
       {
         "id": "e298aa92a57c9d18",
         "title": "Opinion: A sports device to \u2018protect the brain\u2019 illustrates a major problem with the FDA de novo pathway",
@@ -12,13 +120,13 @@
         "summary": "\u201cThis is not just about one device. It\u2019s about what happens when institutions grow comfortable living in their own ambiguity and hiding behind opacity.\u201d"
       },
       {
-        "id": "77a139e2068aa6bb",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-places-intellia-phase-3-crispr-trials-hold-over-raised-liver-enzymes\" hreflang=\"en\">FDA places Intellia phase 3 CRISPR trials on hold over raised liver enzymes</a>",
-        "url": "https://www.fiercebiotech.com/biotech/fda-places-intellia-phase-3-crispr-trials-hold-over-raised-liver-enzymes",
+        "id": "31948b6e51e679e6",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizer-sues-metsera-over-novos-counter-offer-obesity-biotech-stands-firm\" hreflang=\"en\">Pfizer sues Metsera over Novo's shock counteroffer, but obesity biotech stands firm</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pfizer-sues-metsera-over-novos-counter-offer-obesity-biotech-stands-firm",
         "source": "Fierce Biotech",
-        "published": "Oct 30, 2025 6:38am",
-        "published_dt": "2025-10-30T06:38:00+00:00",
-        "summary": "After Intellia Therapeutics paused a pair of phase 3 trials for its CRISPR therapy in response to a liver safety signal, the FDA has made things official by placing the studies under a clinical hold."
+        "published": "Nov 3, 2025 4:05am",
+        "published_dt": "2025-11-03T04:05:00+00:00",
+        "summary": "Pfizer has lived up to its threat of taking legal action to prevent Metsera from slipping out of its grasp, but the obesity biotech also seems up for the fight."
       },
       {
         "id": "1c55a33516848a2a",
@@ -37,15 +145,6 @@
         "published": "Oct 31, 2025 11:55am",
         "published_dt": "2025-10-31T11:55:00+00:00",
         "summary": "Thermo Fisher Scientific is breaking out the big bills to score a clinical research treat. With $8.875 billion in cash, the life science giant is adding Clario Holdings to its goodie bag, the company announced on Oct. 29."
-      },
-      {
-        "id": "6e721163736d4c16",
-        "title": "STAT+: Under Vinay Prasad, employees at a key FDA center fear speaking out, look for the exits",
-        "url": "https://www.statnews.com/2025/10/31/vinay-prasad-fda-cber-management-issues-insiders-say/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 31 Oct 2025 08:30:00 +0000",
-        "published_dt": "2025-10-31T08:30:00+00:00",
-        "summary": "Exclusive: Vinay Prasad has rattled FDA staff by expanding his power and pushing out senior leaders."
       },
       {
         "id": "f62240de839bf0be",
@@ -75,13 +174,22 @@
         "summary": "Novartis is pulling back the curtain on late-stage Sj\u00f6gren\u2019s wins, revealing an edge for its investigational monoclonal antibody ianalumab over placebo in both studies."
       },
       {
-        "id": "b3ec8d3d93eb5612",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kyverna-links-car-t-improved-autoimmune-outcomes-small-trial\" hreflang=\"en\">Kyverna links CAR-T to improved autoimmune outcomes in small trial</a>",
-        "url": "https://www.fiercebiotech.com/biotech/kyverna-links-car-t-improved-autoimmune-outcomes-small-trial",
+        "id": "350bc0e7944fa577",
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/why-protocol-ready-doesnt-mean-trial-ready-ovarian-cancer-clinical-trials\" hreflang=\"en\">Why Protocol-Ready Doesn\u2019t Mean Trial-Ready in Ovarian Cancer Clinical Trials</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/why-protocol-ready-doesnt-mean-trial-ready-ovarian-cancer-clinical-trials",
         "source": "Fierce Biotech",
-        "published": "Oct 29, 2025 10:01am",
-        "published_dt": "2025-10-29T10:01:00+00:00",
-        "summary": "Kyverna Therapeutics has reported deep, sustained improvements in autoimmune disease patients who received a single dose of its CAR T-cell therapy KYV-101."
+        "published": "Oct 27, 2025 3:18pm",
+        "published_dt": "2025-10-27T15:18:00+00:00",
+        "summary": "Late-stage ovarian cancer trials face unique hurdles. Learn how new feasibility planning can turn risk into readiness."
+      },
+      {
+        "id": "99a5596d2a32d3dd",
+        "title": "Trump says he will help \u2018Dilbert\u2019 creator get cancer drug",
+        "url": "https://www.statnews.com/2025/11/02/scott-adams-prostate-cancer-pluvicto/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sun, 02 Nov 2025 20:13:51 +0000",
+        "published_dt": "2025-11-02T20:13:51+00:00",
+        "summary": "Trump posted on Truth Social that he will help Scott Adams of \u2018Dilbert\u2019 fame access Pluvicto."
       },
       {
         "id": "707d3576177f5fd6",
@@ -118,125 +226,80 @@
         "published": "Sat, 01 Nov 2025 11:00:00 +0000",
         "published_dt": "2025-11-01T11:00:00+00:00",
         "summary": "\u201cIt is evolutionarily certain that we will have more outbreaks, more pandemics, and frankly, they could be significantly worse than Covid,\u201d says global health expert Seth Berkley."
-      },
-      {
-        "id": "9a77dbcc66f6687b",
-        "title": "STAT+: Pfizer sues Novo Nordisk, Metsera for breach of merger agreement",
-        "url": "https://www.statnews.com/2025/10/31/pfizer-sues-novo-nordisk-metsera-merger-agreement-breach/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 31 Oct 2025 22:04:54 +0000",
-        "published_dt": "2025-10-31T22:04:54+00:00",
-        "summary": "Pfizer sues Novo Nordisk, Metsera for breach of merger agreement"
-      },
-      {
-        "id": "90042811040a87a2",
-        "title": "Here\u2019s the latest company planning for gene-edited babies",
-        "url": "https://www.technologyreview.com/2025/10/31/1127461/heres-the-latest-company-planning-for-gene-edited-babies/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 31 Oct 2025 19:27:48 +0000",
-        "published_dt": "2025-10-31T19:27:48+00:00",
-        "summary": "A West Coast biotech entrepreneur says he\u2019s secured $30 million to form a public-benefit company to study how to safely create genetically edited babies, marking the largest known investment into the taboo technology.&#160;&#160; The new company, called Preventive, is being formed to research so-called \u201cheritable genome editing,\u201d in which the DNA of embryos would be&#8230;"
-      },
-      {
-        "id": "1b5f3fb04c1cc6e5",
-        "title": "Judges order the Trump administration to use contingency funds for SNAP payments during the shutdown",
-        "url": "https://www.statnews.com/2025/10/31/judges-trump-snap-payments-government-shutdown/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 31 Oct 2025 18:45:50 +0000",
-        "published_dt": "2025-10-31T18:45:50+00:00",
-        "summary": "Two federal judges ruled nearly simultaneously on Friday that President Trump\u2019s administration must to continue to fund SNAP using contingency funds during the government shutdown."
-      },
-      {
-        "id": "ec32b8ba423c4fbb",
-        "title": "Amid attacks on such work, NIH-led research links structural racism to increased heart disease",
-        "url": "https://www.statnews.com/2025/10/31/structural-racism-impacts-health-nih-scientists-publish-new-study/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 31 Oct 2025 16:30:34 +0000",
-        "published_dt": "2025-10-31T16:30:34+00:00",
-        "summary": "NIH-led research on structural racism was published Friday, even as the Trump administration has cancelled and discredited such work."
-      },
-      {
-        "id": "3b89aae46090276c",
-        "title": "STAT+: Up and down the ladder: The latest comings and goings",
-        "url": "https://www.statnews.com/pharmalot/2025/10/31/up-down-ladder-pharma-biotech-jobs-sanofi/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 31 Oct 2025 15:53:38 +0000",
-        "published_dt": "2025-10-31T15:53:38+00:00",
-        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-      },
-      {
-        "id": "37bd8ca56bdf2f61",
-        "title": "The Download: down the Mandela effect rabbit hole, and the promise of a vaccine for colds",
-        "url": "https://www.technologyreview.com/2025/10/31/1127444/the-download-down-the-mandela-effect-rabbit-hole-and-the-promise-of-a-vaccine-for-colds/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 31 Oct 2025 12:10:00 +0000",
-        "published_dt": "2025-10-31T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why do so many people think the Fruit of the Loom logo had a cornucopia? Quick question: Does the Fruit of the Loom logo feature a cornucopia? Many of us have been wearing&#8230;"
-      },
-      {
-        "id": "953ebf59aafc4ba2",
-        "title": "Insurers and providers keep pace using the same financial strategy: more AI",
-        "url": "https://www.statnews.com/2025/10/31/health-news-medicare-midterm-elections-vinay-prasad/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 31 Oct 2025 12:06:25 +0000",
-        "published_dt": "2025-10-31T12:06:25+00:00",
-        "summary": "And more health news brought to you by Morning Rounds"
-      },
-      {
-        "id": "eca3f2da932d53d8",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biotech-graveyard\" hreflang=\"en\">Biotech Graveyard</a>",
-        "url": "https://www.fiercebiotech.com/biotech/biotech-graveyard",
-        "source": "Fierce Biotech",
-        "published": "Oct 31, 2025 9:46am",
-        "published_dt": "2025-10-31T09:46:00+00:00",
-        "summary": "Welcome to the Fierce Biotech Graveyard, our annual ritual remembering the biotechs we lost in 2025 and those on the brink."
-      },
-      {
-        "id": "162730b36a8d7daa",
-        "title": "Here\u2019s why we don\u2019t have a cold vaccine. Yet.",
-        "url": "https://www.technologyreview.com/2025/10/31/1127408/heres-why-we-dont-have-a-cold-vaccine-yet/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 31 Oct 2025 09:00:00 +0000",
-        "published_dt": "2025-10-31T09:00:00+00:00",
-        "summary": "For those of us in the Northern Hemisphere, it\u2019s the season of the sniffles. As the weather turns, we\u2019re all spending more time indoors. The kids have been back at school for a couple of months. And cold germs are everywhere. My youngest started school this year, and along with artwork and seedlings, she has&#8230;"
-      },
-      {
-        "id": "2d95a83ef301ae4e",
-        "title": "STAT+: Insurers say they\u2019ll deploy more AI to combat \u2018aggressive\u2019 coding by hospitals",
-        "url": "https://www.statnews.com/2025/10/31/health-insurer-ai-fights-hospital-ai-coding-billing/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 31 Oct 2025 08:30:00 +0000",
-        "published_dt": "2025-10-31T08:30:00+00:00",
-        "summary": "Insurers say they\u2019ll deploy more AI to combat \u2018aggressive\u2019 coding by hospitals."
-      },
-      {
-        "id": "c360b47279f51859",
-        "title": "Health care takes center stage in this year\u2019s elections, a sign of midterm strategies to come",
-        "url": "https://www.statnews.com/2025/10/31/governors-races-health-care-politics-midterm-testing-grounds/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 31 Oct 2025 08:30:00 +0000",
-        "published_dt": "2025-10-31T08:30:00+00:00",
-        "summary": "Health care has become a central issue in this year\u2019s elections, a sign of parties' midterm strategies to come."
-      },
-      {
-        "id": "016bf205b70d7243",
-        "title": "Opinion: A $20 over-the-counter drug in Europe requires a prescription and $800 in the U.S.",
-        "url": "https://www.statnews.com/2025/10/31/why-miebo-costs-40-times-more-than-its-european-version/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 31 Oct 2025 08:30:00 +0000",
-        "published_dt": "2025-10-31T08:30:00+00:00",
-        "summary": "A month\u2019s supply of Miebo requires $800 and a prescription in the U.S. In Europe, it\u2019s over-the-counter and $20."
       }
     ],
     "Engineering & Aerospace": [
       {
-        "id": "a89553fbc4b48cf1",
-        "title": "Stratasys launches iAM Marketplace for additive manufacturing materials",
-        "url": "https://www.engineering.com/stratasys-launches-iam-marketplace-for-additive-manufacturing-materials/",
+        "id": "997de6be2664d776",
+        "title": "China launches first GEO Yaogan satellite as India lofts record-mass commsat",
+        "url": "https://spacenews.com/china-launches-first-geo-yaogan-satellite-as-india-lofts-record-mass-commsat/",
+        "source": "SpaceNews",
+        "published": "Mon, 03 Nov 2025 11:14:10 +0000",
+        "published_dt": "2025-11-03T11:14:10+00:00",
+        "summary": "<figure><img alt=\"A Long March 7A rocket lifts off from Wenchang Satellite Launch Center in Hainan, China, sending a bright plume of flame and exhaust into grey morning skies as it begins its ascent. Four lightning towers flank the pad amid billowing white clouds of vapor.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Yaogan46-CZ7A-WSLC-3nov2025-casc1.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>China launched a new Yaogan reconnaissance satellite late Sunday, following India\u2019s launch of its highest mass communications satellite to date.</p>\n<p>The post <a href=\"https://spacenews.com/china-launches-first-geo-yaogan-satellite-as-india-lofts-record-mass-commsat/\">China launches first GEO Yaogan satellite as India lofts record-mass commsat</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "6d34e6ada566f202",
+        "title": "On the eve of the ISS\u2019s 25th anniversary, humanity stares down a gap in its presence in space",
+        "url": "https://spacenews.com/on-the-eve-of-the-isss-25th-anniversary-humanity-stares-down-a-gap-in-its-presence-in-space/",
+        "source": "SpaceNews",
+        "published": "Mon, 03 Nov 2025 11:00:00 +0000",
+        "published_dt": "2025-11-03T11:00:00+00:00",
+        "summary": "<figure><img alt=\"Illustration of Axiom Space\u2019s proposed space station. Credit: Axiom\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"513\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/axiom-scaled.jpg?fit=1024%2C513&amp;ssl=1\" width=\"1024\" /></figure>\n<p>On Nov. 2, 2000, the Soyuz TM-31 spacecraft docked with the Zvezda module of the International Space Station. On board were Roscosmos cosmonauts Yuri Gidzenko and Sergei Krikalev and NASA astronaut Bill Shepherd. They were known as Expedition 1, the first long-term crew to live on the ISS. Since their arrival, there have always been [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/on-the-eve-of-the-isss-25th-anniversary-humanity-stares-down-a-gap-in-its-presence-in-space/\">On the eve of the ISS\u2019s 25th anniversary, humanity stares down a gap in its presence in space</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "92f7ac1a862462fb",
+        "title": "Hail to the maintainers!",
+        "url": "https://aerospaceamerica.aiaa.org/hail-to-the-maintainers/",
+        "source": "Aerospace America",
+        "published": "Mon, 03 Nov 2025 10:59:00 +0000",
+        "published_dt": "2025-11-03T10:59:00+00:00",
+        "summary": ""
+      },
+      {
+        "id": "e825c532eb9d623d",
+        "title": "HighPoint launches Rocket 1624A PCIe Gen5 switch adapter",
+        "url": "https://www.engineering.com/highpoint-launches-rocket-1624a-pcie-gen5-switch-adapter/",
         "source": "Engineering.com",
-        "published": "Fri, 31 Oct 2025 15:01:20 +0000",
-        "published_dt": "2025-10-31T15:01:20+00:00",
-        "summary": "<p>The new independent platform provides manufacturers with more options, simpler operation and flexibility across printers and applications.</p>\n<p>The post <a href=\"https://www.engineering.com/stratasys-launches-iam-marketplace-for-additive-manufacturing-materials/\">Stratasys launches iAM Marketplace for additive manufacturing materials</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Mon, 03 Nov 2025 10:20:00 +0000",
+        "published_dt": "2025-11-03T10:20:00+00:00",
+        "summary": "<p>The compact adapter supports NVMe storage and GPU expansion, offering flexible PCIe Gen5 connectivity for enterprise systems.</p>\n<p>The post <a href=\"https://www.engineering.com/highpoint-launches-rocket-1624a-pcie-gen5-switch-adapter/\">HighPoint launches Rocket 1624A PCIe Gen5 switch adapter</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "404cc691932beb8d",
+        "title": "Bentley announces 2025 Partner Excellence Awards winners",
+        "url": "https://www.engineering.com/bentley-announces-2025-partner-excellence-awards-winners/",
+        "source": "Engineering.com",
+        "published": "Mon, 03 Nov 2025 10:05:00 +0000",
+        "published_dt": "2025-11-03T10:05:00+00:00",
+        "summary": "<p>Winners were honored at the 2025 Sales Partner Summit in Berlin for achievements in sales, transformation and customer success.</p>\n<p>The post <a href=\"https://www.engineering.com/bentley-announces-2025-partner-excellence-awards-winners/\">Bentley announces 2025 Partner Excellence Awards winners</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "0b1ef83be21628fb",
+        "title": "CONTACT Software partners with Share PLM on change management",
+        "url": "https://www.engineering.com/contact-software-partners-with-share-plm-on-change-management/",
+        "source": "Engineering.com",
+        "published": "Mon, 03 Nov 2025 09:44:00 +0000",
+        "published_dt": "2025-11-03T09:44:00+00:00",
+        "summary": "<p>The partnership expands CONTACT\u2019s Learning Services with transformation management to align PLM implementation with business goals.</p>\n<p>The post <a href=\"https://www.engineering.com/contact-software-partners-with-share-plm-on-change-management/\">CONTACT Software partners with Share PLM on change management</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "4916054be0a7fa1c",
+        "title": "Hyundai and NVIDIA expand AI collaboration for mobility and robotics",
+        "url": "https://www.engineering.com/hyundai-and-nvidia-expand-ai-collaboration-for-mobility-and-robotics/",
+        "source": "Engineering.com",
+        "published": "Mon, 03 Nov 2025 08:03:00 +0000",
+        "published_dt": "2025-11-03T08:03:00+00:00",
+        "summary": "<p>Partnership includes $3B investment and 50,000 NVIDIA GPUs to power Korea\u2019s new AI innovation and smart factory ecosystem.</p>\n<p>The post <a href=\"https://www.engineering.com/hyundai-and-nvidia-expand-ai-collaboration-for-mobility-and-robotics/\">Hyundai and NVIDIA expand AI collaboration for mobility and robotics</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "a7ac76f5361c9075",
+        "title": "NVIDIA and SK Group to build major AI factory in Korea",
+        "url": "https://www.engineering.com/nvidia-and-sk-group-to-build-major-ai-factory-in-korea/",
+        "source": "Engineering.com",
+        "published": "Mon, 03 Nov 2025 07:28:00 +0000",
+        "published_dt": "2025-11-03T07:28:00+00:00",
+        "summary": "<p>Facility will feature 50,000 GPUs and advance semiconductor R&#038;D, digital twins and AI agent development.</p>\n<p>The post <a href=\"https://www.engineering.com/nvidia-and-sk-group-to-build-major-ai-factory-in-korea/\">NVIDIA and SK Group to build major AI factory in Korea</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "1d1fb798ac84b9ba",
@@ -273,6 +336,24 @@
         "published": "Wed, 29 Oct 2025 13:40:00 +0000",
         "published_dt": "2025-10-29T13:40:00+00:00",
         "summary": ""
+      },
+      {
+        "id": "502dc29fd9ca9a4d",
+        "title": "Rocket Lab\u2019s proposed acquisition of Mynaric faces sovereignty test",
+        "url": "https://spacenews.com/rocket-labs-proposed-acquisition-of-mynaric-faces-sovereignty-test/",
+        "source": "SpaceNews",
+        "published": "Sun, 02 Nov 2025 17:59:21 +0000",
+        "published_dt": "2025-11-02T17:59:21+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/08/FocqgZhaUAECh_z-scaled.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Rocket Lab, based in Long Beach, California, announced in March that it planned to acquire Munich-headquartered Mynaric for about $150 million</p>\n<p>The post <a href=\"https://spacenews.com/rocket-labs-proposed-acquisition-of-mynaric-faces-sovereignty-test/\">Rocket Lab&#8217;s proposed acquisition of Mynaric faces sovereignty test</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "41fe2b1fb32c95d4",
+        "title": "SpaceX launches fourth Bandwagon rideshare mission",
+        "url": "https://spacenews.com/spacex-launches-fourth-bandwagon-rideshare-mission/",
+        "source": "SpaceNews",
+        "published": "Sun, 02 Nov 2025 16:26:16 +0000",
+        "published_dt": "2025-11-02T16:26:16+00:00",
+        "summary": "<figure><img alt=\"Bandwagon-4 launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/f9-bandwagon4.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>SpaceX launched the fourth in its series of rideshare missions to mid-inclination orbits Nov. 2, carrying payloads that included technology demonstration satellites for space stations and orbital data centers.</p>\n<p>The post <a href=\"https://spacenews.com/spacex-launches-fourth-bandwagon-rideshare-mission/\">SpaceX launches fourth Bandwagon rideshare mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "80eee24988faef64",
@@ -347,42 +428,6 @@
         "summary": "<p>Design World\u2019s Editor-in-Chief Rachael Pasini and Managing Editor Mike Santora presented the winners of the 2025 LEAP Awards on October 29, 2025, during an online broadcast.</p>\n<p>The post <a href=\"https://www.engineering.com/2025-leap-awards-winners-announced-by-design-world/\">2025 LEAP Awards winners announced by Design World</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "fa83f97bf6a703c7",
-        "title": "NVIDIA partners with U.S. labs and firms to build AI infrastructure",
-        "url": "https://www.engineering.com/nvidia-partners-with-u-s-labs-and-firms-to-build-ai-infrastructure/",
-        "source": "Engineering.com",
-        "published": "Fri, 31 Oct 2025 15:14:28 +0000",
-        "published_dt": "2025-10-31T15:14:28+00:00",
-        "summary": "<p>The collaboration will support scientific research, innovation, and U.S. industrial growth through large-scale AI systems.</p>\n<p>The post <a href=\"https://www.engineering.com/nvidia-partners-with-u-s-labs-and-firms-to-build-ai-infrastructure/\">NVIDIA partners with U.S. labs and firms to build AI infrastructure</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "2db2851767eadd7f",
-        "title": "Lumafield introduces Auto-Dimensioning for NIST-traceable 3D measurement",
-        "url": "https://www.engineering.com/lumafield-introduces-auto-dimensioning-for-nist-traceable-3d-measurement/",
-        "source": "Engineering.com",
-        "published": "Fri, 31 Oct 2025 14:29:22 +0000",
-        "published_dt": "2025-10-31T14:29:22+00:00",
-        "summary": "<p>CT-based metrology gives engineers a powerful new tool for faster and complete insight into every part.</p>\n<p>The post <a href=\"https://www.engineering.com/lumafield-introduces-auto-dimensioning-for-nist-traceable-3d-measurement/\">Lumafield introduces Auto-Dimensioning for NIST-traceable 3D measurement</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "daf2328dab27f546",
-        "title": "Chalkline VisiSpecs update introduces Building Product Manufacturer Program",
-        "url": "https://www.engineering.com/chalkline-visispecs-update-introduces-building-product-manufacturer-program/",
-        "source": "Engineering.com",
-        "published": "Fri, 31 Oct 2025 14:17:27 +0000",
-        "published_dt": "2025-10-31T14:17:27+00:00",
-        "summary": "<p>The new Product Request feature lets architects and engineers connect directly with manufacturers to verify project specifications.</p>\n<p>The post <a href=\"https://www.engineering.com/chalkline-visispecs-update-introduces-building-product-manufacturer-program/\">Chalkline VisiSpecs update introduces Building Product Manufacturer Program</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "0db4c7d7dbe5f6ac",
-        "title": "BorgWarner expands inverter partnership with Great Wall Motor",
-        "url": "https://www.engineering.com/borgwarner-expands-inverter-partnership-with-great-wall-motor/",
-        "source": "Engineering.com",
-        "published": "Fri, 31 Oct 2025 13:49:23 +0000",
-        "published_dt": "2025-10-31T13:49:23+00:00",
-        "summary": "<p>The new projects will use BorgWarner\u2019s dual inverter technology, with mass production expected to begin in 2026.</p>\n<p>The post <a href=\"https://www.engineering.com/borgwarner-expands-inverter-partnership-with-great-wall-motor/\">BorgWarner expands inverter partnership with Great Wall Motor</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
         "id": "954e480540c653b0",
         "title": "Resources, reactors and rivalries will decide the new moon race",
         "url": "https://spacenews.com/resources-reactors-and-rivalries-will-decide-the-new-moon-race/",
@@ -408,81 +453,9 @@
         "published": "Fri, 31 Oct 2025 10:00:00 +0000",
         "published_dt": "2025-10-31T10:00:00+00:00",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"575\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/03/Vasylkiv-Feb28-NoAnalysis-scaled.jpg?fit=1024%2C575&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Krakow \u2014 The European Commission on Oct. 28 proposed that EU member states approve talks with Ukraine on its participation in its government satellite communication program, known as GOVSATCOM. The European Union\u2019s GOVSATCOM platform is designed to provide secure satellite communication capabilities by pooling and sharing existing satellite resources from member states and accredited private [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/european-commission-weighs-inviting-ukraine-to-europes-govsatcom-platform/\">European Commission weighs inviting Ukraine to Europe\u2019s GOVSATCOM platform</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "6368a16d70b64204",
-        "title": "Airbus UpNext wraps up initial ground tests of automated taxiing software",
-        "url": "https://aerospaceamerica.aiaa.org/airbus-upnext-wraps-up-initial-ground-tests-of-automated-taxiing-software/",
-        "source": "Aerospace America",
-        "published": "Fri, 31 Oct 2025 09:00:00 +0000",
-        "published_dt": "2025-10-31T09:00:00+00:00",
-        "summary": ""
-      },
-      {
-        "id": "945a83eb81b450a2",
-        "title": "SpaceX defends Starship lunar lander as it works on \u2018simplified\u2019 approach",
-        "url": "https://spacenews.com/spacex-defends-starship-lunar-lander-as-it-works-on-simplified-approach/",
-        "source": "SpaceNews",
-        "published": "Thu, 30 Oct 2025 23:50:24 +0000",
-        "published_dt": "2025-10-30T23:50:24+00:00",
-        "summary": "<figure><img alt=\"Starship pad\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/starship-hls-pad.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>SpaceX says it is developing a \u201csimplified\u201d lunar landing mission architecture while defending the progress it has made on its Starship lander for Artemis.</p>\n<p>The post <a href=\"https://spacenews.com/spacex-defends-starship-lunar-lander-as-it-works-on-simplified-approach/\">SpaceX defends Starship lunar lander as it works on \u2018simplified\u2019 approach</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "6ae3c3bd5009edd4",
-        "title": "China\u2019s StarDetect raises Series A funding to expand on-orbit computing and space domain awareness services",
-        "url": "https://spacenews.com/chinas-stardetect-raises-series-a-funding-to-expand-on-orbit-computing-and-space-domain-awareness-services/",
-        "source": "SpaceNews",
-        "published": "Thu, 30 Oct 2025 22:18:17 +0000",
-        "published_dt": "2025-10-30T22:18:17+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"720\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2020/01/Debris_objects_in_low-Earth_orbit_LEO_ESA-2008-e1578629438865.jpg?fit=1000%2C720&amp;ssl=1\" width=\"1000\" /></figure>\n<p>Chinese commercial firm StarDetect has raised early funding as it seeks to establish itself as a provider of space domain awareness and satellite computing solutions.</p>\n<p>The post <a href=\"https://spacenews.com/chinas-stardetect-raises-series-a-funding-to-expand-on-orbit-computing-and-space-domain-awareness-services/\">China\u2019s StarDetect raises Series A funding to expand on-orbit computing and space domain awareness services</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "98aca67f34dcfd5d",
-        "title": "Interest rate cut further fuels space investor optimism amid talk of returning SPACs",
-        "url": "https://spacenews.com/interest-rate-cut-further-fuels-space-investor-optimism-amid-talk-of-returning-spacs/",
-        "source": "SpaceNews",
-        "published": "Thu, 30 Oct 2025 21:22:02 +0000",
-        "published_dt": "2025-10-30T21:22:02+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"572\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/MikeC-Innovation-scaled.jpg?fit=1024%2C572&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Growing space investor optimism got another lift Oct. 29 after the U.S. Federal Reserve cut interest rates by a quarter point for the second time this year, making borrowing cheaper for a capital-intensive industry already buoyed by rising defense investment.</p>\n<p>The post <a href=\"https://spacenews.com/interest-rate-cut-further-fuels-space-investor-optimism-amid-talk-of-returning-spacs/\">Interest rate cut further fuels space investor optimism amid talk of returning SPACs</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "382936852c95357f",
-        "title": "Golden Dome hype meets information vacuum as industry awaits Pentagon direction",
-        "url": "https://spacenews.com/golden-dome-hype-meets-information-vacuum-as-industry-awaits-pentagon-direction/",
-        "source": "SpaceNews",
-        "published": "Thu, 30 Oct 2025 20:44:41 +0000",
-        "published_dt": "2025-10-30T20:44:41+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/IMG_2721-scaled.jpeg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>With the government shutdown dragging on and architectural details still under wraps, defense contractors find themselves in the position of building capabilities for a system that hasn\u2019t been defined</p>\n<p>The post <a href=\"https://spacenews.com/golden-dome-hype-meets-information-vacuum-as-industry-awaits-pentagon-direction/\">Golden Dome hype meets information vacuum as industry awaits Pentagon direction</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
-      {
-        "id": "252964d207c8a697",
-        "title": "Why Wall Street won\u2019t see the next crash coming",
-        "url": "https://www.economist.com/finance-and-economics/2025/11/02/why-wall-street-wont-see-the-next-crash-coming",
-        "source": "Finance & economics",
-        "published": "Sun, 02 Nov 2025 11:46:08 +0000",
-        "published_dt": "2025-11-02T11:46:08+00:00",
-        "summary": "Even the best traders struggle to predict sudden jumps in volatility"
-      },
-      {
-        "id": "e3e6ce435b7d0c61",
-        "title": "The Austerity Threshold -- by Vadim Elenev, Tim Landvoigt, Stijn Van Nieuwerburgh",
-        "url": "https://www.nber.org/papers/w34397#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "We introduce a new indicator of fiscal capacity\u2014the \u201causterity threshold\u201d: the debt-to-GDP level above which the government must raise fiscal surpluses to ensure debt safety. In a model with realistic risk premia, nominal rigidities, and an intermediary sector, calibrated to the U.S., we estimate this threshold at 189%. We highlight the roles of safety premia and intermediation-driven convenience yields. The threshold varies with the source of surpluses: spending cuts reduce inflation and allow low interest rates, while tax increases distort labor supply and raise inflation. Uncertainty over the austerity regime\u2014spending cuts or tax increases\u2014sharply lowers fiscal capacity. The expected austerity regime affects asset prices and macro outcomes even when debt-to-GDP is well below the threshold."
-      },
-      {
-        "id": "5739fda3bafcaeb5",
-        "title": "LLM Survey Framework: Coverage, Reasoning, Dynamics, Identification -- by Jing Cynthia Wu, Jin Xi, Shihan Xie",
-        "url": "https://www.nber.org/papers/w34308#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "We propose a new LLM-based survey framework that enables retrospective coverage, economic reasoning, dynamic effects, and clean identification. We recover human-comparable treatment effects in a multi-wave randomized controlled trial of inflation expectations surveys, at 1/1000 the cost. To demonstrate the framework\u2019s full potential, we extend the benchmark human survey (10 waves, 2018\u20132023) to over 50 waves dating back to 1990. We further examine the economic mechanisms underlying agents\u2019 expectation formation, identifying the mean-reversion and individual-attention channels. Finally, we trace dynamic treatment effects and demonstrate clean identification. Together, these innovations demonstrate that LLM surveys enable research designs unattainable with human surveys."
-      },
       {
         "id": "8bd66e558ada2539",
         "title": "How Trump\u2019s war on the Federal Reserve could do serious damage",
@@ -493,22 +466,67 @@
         "summary": "Just consider what happens if inflation starts to rise again"
       },
       {
-        "id": "537bc9f1a48f5122",
-        "title": "GDP Growth Expectations and Cash-flow Risk Premium -- by William N. Goetzmann, Akiko Watanabe, Masahiro Watanabe",
-        "url": "https://www.nber.org/papers/w34402#fromrss",
+        "id": "027d93df00bfcb77",
+        "title": "We Won't be Missed: Work and Growth in the AGI World -- by Pascual Restrepo",
+        "url": "https://www.nber.org/papers/w34423#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We show that procyclical stocks\u2013those whose cash flows rise with expected economic growth\u2013earn higher average returns than countercyclical stocks. Leveraging nearly 75 years of economist survey data on real GDP growth expectations, we identify economic states while sidestepping model-driven forecast error. GDP forecasts comove with consumption and predict the market return, real GDP growth, and consumption growth. This approach builds on the literatures on both the Intertemporal and Consumption Capital Asset Pricing Models. We document a statistically significant, economically meaningful procyclicality premium that remains robust to standard factor controls."
+        "summary": "This chapter explores the long-run implications of Artificial General Intelligence (AGI) for economic growth and labor markets. AGI makes it feasible to perform all economically valuable work using compute. I distinguish between bottleneck and supplementary work\u2014tasks that are essential versus non-essential for unhindered growth. As computational resources expand: (i) the economy automates all bottleneck work, (ii) some supplementary work may be left exclusively to humans, (iii) output becomes linear in compute and labor and its growth is driven by the expansion of compute, (iv) wages converge to the opportunity cost of computational resources required to reproduce human work, and (v) the share of labor income in GDP converges to zero."
       },
       {
-        "id": "de01cd3861e99565",
-        "title": "Lessons for Automatic Fiscal Stabilizers from the Great Recession and the COVID Recession -- by Karen Dynan, Douglas Elmendorf",
-        "url": "https://www.nber.org/papers/w34411#fromrss",
+        "id": "a27ebc8bb9e0da46",
+        "title": "The Price of Intelligence: How Should Socially-minded Firms Price and Deploy AI? -- by Nils H. Lehr, Pascual Restrepo",
+        "url": "https://www.nber.org/papers/w34424#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "This paper simulates economic developments as if the discretionary fiscal stimulus enacted in the past two recessions had not occurred and additional automatic fiscal stabilizers had been deployed instead. For the calibration of key economic relationships most consistent with the empirical literature, we find that more sustained fiscal stimulus would have pushed unemployment down more rapidly following the Great Recession and that more limited stimulus would have caused inflation to increase much less following the COVID recession. We caution, though, that our estimates are uncertain given the large number of assumptions embedded in the calculations. Under different assumptions about the supply side of the economy when resource utilization is high, the stimulus enacted in early 2021 was not a significant cause of the observed runup in inflation that followed, and substituting an automatic stabilizer would have made little difference to inflation."
+        "summary": "Leading AI firms claim to prioritize social welfare. How should firms with a social mandate price and deploy AI? We derive pricing formulas that depart from profit maximization by incorporating incentives to improve welfare and reduce labor disruptions. Using US data, we evaluate several scenarios. A welfarist firm that values both profit and welfare should price closer to marginal cost, as efficiency gains outweigh distributional concerns. A conservative firm focused on labor-market stability should price above the profit-maximizing level in the short run, especially when its AI may displace low-income workers. Overall, socially minded firms face a trade-off between expanding access to AI and the resulting loss in profits and labor market risks."
+      },
+      {
+        "id": "8d2a0dc56132c493",
+        "title": "The GATT vs Inflation: Tokyo Drift -- by Andrew Greenland, James Lake, John Lopresti",
+        "url": "https://www.nber.org/papers/w34429#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "This paper demonstrates that ignoring the source of variation in tariff levels yields misleading conclusions regarding the effects of tariff changes. Specifically, we show that changes in the ad valorem equivalent (AVE) tariff are insufficient to quantify the magnitude or sign of the effect of tariff changes on economic outcomes. To illustrate this point, we construct the first database of annual US statutory tariffs from 1972 to 1988 and use it to explore the consequences of liberalization in the years spanning the Tokyo Round of the General Agreement on Tariffs and Trade (GATT). Decomposing the aggregate AVE into its statutory and endogenous components, we document two distinct liberalizations in our sample. Prior to 1979, inflation combines with specific tariffs to create an \u201caccidental liberalization\u201d, despite the absence of widespread statutory tariff changes. After 1979, endogenous changes in the composition of imports mask the large Tokyo Round statutory tariff liberalization. Generalizing an exact hat framework to accommodate specific tariffs, we show that inflation-driven reductions in AVEs account for roughly half of the tariff liberalization in our sample, but these changes ultimately reduce imports and welfare. Finally, we show that specific tariffs remain an important determinant of cross-sectional variation in AVEs: between 2000 and 2017, one-third to one-half of the annual cross-sectional variance in good-level AVEs is driven by variation in the AVE of specific tariffs."
+      },
+      {
+        "id": "054d7f7280db8961",
+        "title": "Monetary Policy without an Anchor -- by Luigi Bocola, Alessandro Dovis, Kasper J\u00f8rgensen, Rishabh Kirpalani",
+        "url": "https://www.nber.org/papers/w34436#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "Policymakers often cite the risk that inflation expectations might \u201cde-anchor\u201d as a key reason for responding forcefully to inflationary shocks. We develop a model to analyze this trade-off and to quantify the benefits of stable long-run inflation expectations. In our framework, households and firms are imperfectly informed about the central bank\u2019s objective and learn from its policy choices. Recognizing this interaction, the central bank raises interest rates more aggressively after adverse supply shocks and accepts short-run output costs to secure more stable inflation expectations. The strength of this reputation channel depends on how sensitive long-run inflation expectations are to surprises in interest rates. Using high-frequency identification, we estimate these elasticities for emerging and advanced economies and find large negative values for Brazil. We fit our model to these findings and use it to quantify how reputation building motives affect monetary policy decisions, and the role of central bank's credibility in promoting macroeconomic stability."
+      },
+      {
+        "id": "9a61278b90197b9b",
+        "title": "The (In)effectiveness of Targeted Payroll Tax Reductions -- by Alessandra Fenizia, Nicholas Y. Li, Luca Citino",
+        "url": "https://www.nber.org/papers/w34437#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "This paper studies the cost-effectiveness of targeted payroll taxes for stimulating labor demand. It uses rich administrative data to study the effects of an Italian reform that raised social security contributions for apprenticeship contracts but granted a substantial discount for firms with 9 employees or less. The discount does not increase demand for apprenticeship contracts. Instead, it subsidizes inframarginal hiring. This reform is not cost-effective. Point estimates imply that each million euros of foregone social security contributions supports the employment of 29 apprentices for one year and no permanent contracts (these estimates are not statistically different from zero)."
+      },
+      {
+        "id": "378369983a04635d",
+        "title": "Environmental Catastrophe and the Direction of Invention: Evidence from the American Dust Bowl -- by Jacob Moscona",
+        "url": "https://www.nber.org/papers/w34438#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "This paper investigates how innovation responded to and shaped the economic impact of the American Dust Bowl, an environmental catastrophe that led to widespread soil erosion on the US Plains during the 1930s. Combining data on county-level erosion, the historical geography of crop production, and crop-specific innovation, I document that in the wake of the environmental crisis, agricultural technology development was strongly and persistently re-directed toward more Dust Bowl-exposed crops and, within crops, toward bio-chemical and planting technologies that could directly mitigate economic losses from environmental distress. County-level exposure to Dust Bowl-induced innovation significantly dampened the effect of land erosion on agricultural land values and revenue. These results highlight the role of crises in spurring innovation and the importance of endogenous technological progress as an adaptive force in the face of disasters."
+      },
+      {
+        "id": "3c66feb65988a61a",
+        "title": "Employment Relationships, Wage Setting, and Labor Market Power -- by Francesco Agostinelli, Domenico Ferraro, Giuseppe Sorrenti, Leonard Treuren",
+        "url": "https://www.nber.org/papers/w34439#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "We ask to what extent the quantification of labor market power depends on the modeling of the long-term worker-firm employment relationship. We develop an oligopsony model with dynamic wage contracts. Workers decide whether and where to work, choosing among firms providing different amenities and solving a dynamic discrete choice labor supply problem with firm-specific human capital. As a result, firms optimally choose wage-tenure contracts to attract and retain workers. We find that such contracts mitigate firms' incentives to impose large instantaneous wage markdowns\u2014compared to standard static wage-setting models\u2014thereby reducing the share of socially inefficient worker-firm separations. As a consequence, we show that the empirical approaches based on \"sufficient statistics\" tend to overestimate the extent of labor market power: low levels of firm-specific labor supply elasticities do not necessarily indicate rent extraction, but instead reflect firms\u2019 ability to retain workers by offering long-term value through human capital accumulation."
       },
       {
         "id": "f718156fe5c25a98",
@@ -662,27 +680,18 @@
         "published": "Wed, 10 Sep 2025 19:05:23 +0000",
         "published_dt": "2025-09-10T19:05:23+00:00",
         "summary": "The Federal Reserve prepares to cut interest rates in tricky circumstances"
-      },
-      {
-        "id": "d290d8893d3d6aa3",
-        "title": "What if the AI stockmarket blows up?",
-        "url": "https://www.economist.com/finance-and-economics/2025/09/07/what-if-the-ai-stockmarket-blows-up",
-        "source": "Finance & economics",
-        "published": "Sun, 07 Sep 2025 16:19:34 +0000",
-        "published_dt": "2025-09-07T16:19:34+00:00",
-        "summary": "We find that the potential cost has risen alarmingly high"
-      },
-      {
-        "id": "3138a2251233a923",
-        "title": "Bond vigilantes take aim at France",
-        "url": "https://www.economist.com/finance-and-economics/2025/09/04/bond-vigilantes-take-aim-at-france",
-        "source": "Finance & economics",
-        "published": "Thu, 04 Sep 2025 09:21:57 +0000",
-        "published_dt": "2025-09-04T09:21:57+00:00",
-        "summary": "With any luck, the stand-off might focus politicians\u2019 minds"
       }
     ],
     "Cross-Disciplinary": [
+      {
+        "id": "0a36273c6473340c",
+        "title": "This startup wants to clean up the copper industry",
+        "url": "https://www.technologyreview.com/2025/11/03/1127474/copper-smelting-chemistry-clean/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 03 Nov 2025 11:00:00 +0000",
+        "published_dt": "2025-11-03T11:00:00+00:00",
+        "summary": "Demand for copper is surging, as is pollution from its dirty production processes. The founders of one startup, Still Bright, think they have a better, cleaner way to generate the copper the world needs.&#160; The company uses water-based reactions, based on battery chemistry technology, to purify copper in a process that could be less polluting&#8230;"
+      },
       {
         "id": "9f318f88b49f4dce",
         "title": "Scientists Need a Positive Vision for AI",
@@ -898,15 +907,6 @@
         "published": "Thu, 30 Oct 2025 10:00:00 +0000",
         "published_dt": "2025-10-30T10:00:00+00:00",
         "summary": "The timing was eerie. On November 21, 1963, Richard Hofstadter delivered the annual Herbert Spencer Lecture at Oxford University. Hofstadter was a professor of American history at Columbia University who liked to use social psychology to explain political history, the better to defend liberalism from extremism on both sides. His new lecture was titled \u201cThe&#8230;"
-      },
-      {
-        "id": "ae36215e9ed2cb7f",
-        "title": "Can \u201cThe Simpsons\u201d really predict the future?",
-        "url": "https://www.technologyreview.com/2025/10/30/1126462/the-simpsons-conspiracy-theories-al-jean/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 30 Oct 2025 10:00:00 +0000",
-        "published_dt": "2025-10-30T10:00:00+00:00",
-        "summary": "According to internet listicles, the animated sitcom The Simpsons has predicted the future anywhere from 17 to 55 times.&#160; \u201cAs you know, we\u2019ve inherited quite a budget crunch from President Trump,\u201d the newly sworn-in President Lisa Simpson declared way back in 2000, 17 years before the real estate mogul was inaugurated as the 45th leader&#8230;"
       }
     ]
   }
