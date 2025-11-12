@@ -1,60 +1,78 @@
 {
-  "generated_at": "2025-11-11T12:52:56.096989+00:00",
+  "generated_at": "2025-11-12T12:54:21.070951+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "8c477f7131be4543",
-        "title": "STAT+: A lot could be different by the next Liver Meeting",
-        "url": "https://www.statnews.com/2025/11/11/aasld-news-of-semaglutide-hepatitis-b-vaccination-stigma/?utm_campaign=rss",
+        "id": "acfb9b2bb63c206c",
+        "title": "A MAHA Summit, minus the radical transparency",
+        "url": "https://www.statnews.com/2025/11/12/health-news-maha-leaders-and-biotech-exec-link-up/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 11 Nov 2025 12:03:55 +0000",
-        "published_dt": "2025-11-11T12:03:55+00:00",
-        "summary": "This year\u2019s scientific meeting had the highest patient attendance in AASLD history. The patients' message: stigma delays treatment."
+        "published": "Wed, 12 Nov 2025 12:53:45 +0000",
+        "published_dt": "2025-11-12T12:53:45+00:00",
+        "summary": "And more health news from today's Morning Rounds newsletter"
       },
       {
-        "id": "faab5ec45273f725",
-        "title": "STAT+: U.K. releases plan to phase out animal testing in research",
-        "url": "https://www.statnews.com/2025/11/11/uk-animal-testing-research-science-trump-administration/?utm_campaign=rss",
+        "id": "c745cb0680351842",
+        "title": "STAT+: How two top FDA officials are quietly upending vaccine regulations",
+        "url": "https://www.statnews.com/2025/11/12/fda-vaccine-policy-controlled-by-vinay-prasad-tracy-beth-hoeg/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 11 Nov 2025 10:43:20 +0000",
-        "published_dt": "2025-11-11T10:43:20+00:00",
-        "summary": "The U.K. has released its plan to phase out animal testing in research, as a number of countries move toward reducing the use of animals."
+        "published": "Wed, 12 Nov 2025 09:30:00 +0000",
+        "published_dt": "2025-11-12T09:30:00+00:00",
+        "summary": "Vinay Prasad and Tracy Beth H\u00f8eg mix skepticism with new ways to define risk in pursuing sweeping changes to vaccine policy at the FDA."
       },
       {
-        "id": "026bb3731bc18abb",
-        "title": "STAT+: What Pfizer\u2019s Metsera deal means for biotech M&A",
-        "url": "https://www.statnews.com/2025/11/11/pfizer-metsera-mergers-acqusitions-lessons/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 11 Nov 2025 09:30:00 +0000",
-        "published_dt": "2025-11-11T09:30:00+00:00",
-        "summary": "What might Pfizer's Metsera deal mean for biotech M&#038;A? Quite a lot."
+        "id": "71b32e81a110c39f",
+        "title": "Improving VMware migration workflows with agentic AI",
+        "url": "https://www.technologyreview.com/2025/11/12/1124919/improving-vmware-migration-workflows-with-agentic-ai/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 12 Nov 2025 10:11:15 +0000",
+        "published_dt": "2025-11-12T10:11:15+00:00",
+        "summary": "For years, many chief information officers (CIOs) looked at VMware-to-cloud migrations with a wary pragmatism. Manually mapping dependencies and rewriting legacy apps mid-flight was not an enticing, low-lift proposition for enterprise IT teams. But the calculus for such decisions has changed dramatically in a short period of time. Following recent VMware licensing changes, organizations are&#8230;"
       },
       {
-        "id": "44e259fd90ef3fbd",
-        "title": "Opinion: The rise of sports betting is a growing public health crisis",
-        "url": "https://www.statnews.com/2025/11/11/sports-betting-apps-public-health-crisis/?utm_campaign=rss",
+        "id": "7e8492e7b9cf6c01",
+        "title": "Opinion: James Watson\u2019s lifelong friend and prot\u00e9g\u00e9 on his complicated legacy",
+        "url": "https://www.statnews.com/2025/11/12/james-watson-dna-from-nobel-prize-to-legacy-sexism-racism/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 11 Nov 2025 09:30:00 +0000",
-        "published_dt": "2025-11-11T09:30:00+00:00",
-        "summary": "Sports betting is more addictive than ever, and millions of young Americans are paying the price."
+        "published": "Wed, 12 Nov 2025 09:30:00 +0000",
+        "published_dt": "2025-11-12T09:30:00+00:00",
+        "summary": "\u201cI can\u2019t make sense of it\u201d: Nancy Hopkins remembers who James Watson was \u2014 and who he became."
       },
       {
-        "id": "6c34771ea62a64fd",
-        "title": "STAT+: Medicare will pay more than $1,000 for AI to analyze a heart scan. Is that too much?",
-        "url": "https://www.statnews.com/2025/11/11/medicare-coverage-ai-heart-scans-heartflow-cleerly-elucid/?utm_campaign=rss",
+        "id": "630e863ca130d29a",
+        "title": "Opinion: Kids have a right to vaccinations. Let\u2019s bring in the lawyers",
+        "url": "https://www.statnews.com/2025/11/12/children-vaccines-measles-whooping-cough-rights-united-nations-conventions/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 11 Nov 2025 09:30:00 +0000",
-        "published_dt": "2025-11-11T09:30:00+00:00",
-        "summary": "Medicare will pay more than $1,000 for AI to analyze a heart scan. Is that too much?"
+        "published": "Wed, 12 Nov 2025 09:30:00 +0000",
+        "published_dt": "2025-11-12T09:30:00+00:00",
+        "summary": "Children suffering from diseases that should have been consigned to history is a moral failure. Access to vaccines is a human right."
       },
       {
-        "id": "8b08872361f1a6e3",
-        "title": "STAT+: China\u2019s biotech boom is being driven by a dazzling market rebound",
-        "url": "https://www.statnews.com/2025/11/11/china-biotech-stocks-boom-drug-development/?utm_campaign=rss",
+        "id": "848ceeeaa6320966",
+        "title": "What Kennedy\u2019s saturated fat guidelines would mean for American health",
+        "url": "https://www.statnews.com/2025/11/12/is-saturated-fat-bad-new-dietary-guidelines-maha-vs-science/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 11 Nov 2025 09:30:00 +0000",
-        "published_dt": "2025-11-11T09:30:00+00:00",
-        "summary": "Biotech is booming in China, and that's no accident."
+        "published": "Wed, 12 Nov 2025 09:30:00 +0000",
+        "published_dt": "2025-11-12T09:30:00+00:00",
+        "summary": "RFK Jr.'s new dietary guidelines are set to encourage consumption of more saturated fat, but some nutrition experts say that could cause long-term, widespread harm."
+      },
+      {
+        "id": "33c12f0ee0182a65",
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-names-longtime-oncology-chief-richard-pazdur-its-new-cder-director\" hreflang=\"en\">FDA names longtime oncology chief Richard Pazdur as its new CDER director</a>",
+        "url": "https://www.fiercebiotech.com/pharma/fda-names-longtime-oncology-chief-richard-pazdur-its-new-cder-director",
+        "source": "Fierce Biotech",
+        "published": "Nov 11, 2025 4:51pm",
+        "published_dt": "2025-11-11T16:51:00+00:00",
+        "summary": "The FDA has named the longtime leader of its oncology department, Richard Pazdur, M.D., as the new director of the Center for Drug Evaluation and Research, which oversees most prescription drugs."
+      },
+      {
+        "id": "acc039e9e7c3bc44",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/summit-leading-charge-pfizer-lays-out-its-own-plan-replace-keytruda-bispecific\" hreflang=\"en\">With Summit leading the pack in PD-1xVEGF bispecifics, Pfizer lays out its own plan to replace Keytruda</a>",
+        "url": "https://www.fiercebiotech.com/biotech/summit-leading-charge-pfizer-lays-out-its-own-plan-replace-keytruda-bispecific",
+        "source": "Fierce Biotech",
+        "published": "Nov 11, 2025 10:28am",
+        "published_dt": "2025-11-11T10:28:00+00:00",
+        "summary": "Pfizer on Monday unveiled seven near-term trials of its PD-1xVEGF bispecific antibody, the first of what chief oncology officer Jeff Legos, Ph.D., called \u201cmany planned waves\u201d of clinical investigation into the asset. These include a high-stakes head-to-head phase 3 trial against Keytruda in first-line non-small cell lung cancer."
       },
       {
         "id": "858fdf99fb3eebb9",
@@ -66,6 +84,60 @@
         "summary": "CeleCor presented the results of its pivotal CeleBrate phase 3 trial in a late-breaking session at the the American Heart Association\u2019s annual scientific sessions. <br />"
       },
       {
+        "id": "66c260a72c309f06",
+        "title": "STAT+: Why Richard Pazdur taking over the FDA\u2019s drug division is good for patients \u2014 and drug companies",
+        "url": "https://www.statnews.com/2025/11/11/richard-pazdur-cder-head-win-for-patients-drug-companies/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 12 Nov 2025 00:39:18 +0000",
+        "published_dt": "2025-11-12T00:39:18+00:00",
+        "summary": "Why naming veteran regulator Richard Pazdur to head the Food and Drug Administration\u2019s Center for Drug Evaluation and Research is fantastic news for patients and drug companies."
+      },
+      {
+        "id": "c654d36d9ca1094a",
+        "title": "STAT+: Richard Pazdur, longtime cancer regulator, named drug center director at FDA",
+        "url": "https://www.statnews.com/2025/11/11/fda-picks-richard-pazdur-director-center-for-drug-evaluation-and-research/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 11 Nov 2025 21:34:13 +0000",
+        "published_dt": "2025-11-11T21:34:13+00:00",
+        "summary": "Pazdur is a longtime FDA staffer and founded the agency's cancer therapy division"
+      },
+      {
+        "id": "71be68acb1fa8928",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about hormone therapy warnings, U.K. animal research plans, and more",
+        "url": "https://www.statnews.com/pharmalot/2025/11/11/fda-hormone-therapies-warnings-uk-animals-novo/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 11 Nov 2025 14:29:52 +0000",
+        "published_dt": "2025-11-11T14:29:52+00:00",
+        "summary": "The FDA is reversing a 2003 decision that put a stringent warning on hormone therapy products for menopausal women"
+      },
+      {
+        "id": "6b2ad4d11d155486",
+        "title": "In an unconventional process, FDA reverses a decades-old warning for hormone therapy",
+        "url": "https://www.statnews.com/2025/11/11/health-news-fda-hormone-therapy-black-box-lifted/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 11 Nov 2025 13:31:25 +0000",
+        "published_dt": "2025-11-11T13:31:25+00:00",
+        "summary": "And more health news from the Morning Rounds newsletter"
+      },
+      {
+        "id": "a397bd91857d53da",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/metagenomi-sheds-25-staff-including-ceo-focus-preclinical-hemophilia-program\" hreflang=\"en\">Metagenomi sheds 25% of workforce, including CEO, to focus on preclinical hemophilia program</a>",
+        "url": "https://www.fiercebiotech.com/biotech/metagenomi-sheds-25-staff-including-ceo-focus-preclinical-hemophilia-program",
+        "source": "Fierce Biotech",
+        "published": "Nov 12, 2025 4:42am",
+        "published_dt": "2025-11-12T04:42:00+00:00",
+        "summary": "A quarter of Metagenomi\u2019s employees, including the company\u2019s CEO, are set to lose their jobs after the gene editing biotech decided to focus resources on its preclinical hemophilia A program."
+      },
+      {
+        "id": "0500f026ad9e686c",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/neuphoria-reeling-phase-3-trial-fail-mulls-buyout-offer-investor\" hreflang=\"en\">Neuphoria, reeling from phase 3 trial fail, mulls buyout offer from investor</a>",
+        "url": "https://www.fiercebiotech.com/biotech/neuphoria-reeling-phase-3-trial-fail-mulls-buyout-offer-investor",
+        "source": "Fierce Biotech",
+        "published": "Nov 11, 2025 8:15am",
+        "published_dt": "2025-11-11T08:15:00+00:00",
+        "summary": "As Neuphoria Therapeutics considers its options in the wake of the failure of its phase 3 social anxiety program, an investor has swooped in with one potential escape route."
+      },
+      {
         "id": "2a424e4f73ca693a",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/neurocrines-depression-drug-latest-asset-takeda-pact-flunk-phase-2-trial\" hreflang=\"en\">Neurocrine's depression drug is latest asset from Takeda pact to flunk a phase 2 trial</a>",
         "url": "https://www.fiercebiotech.com/biotech/neurocrines-depression-drug-latest-asset-takeda-pact-flunk-phase-2-trial",
@@ -75,15 +147,6 @@
         "summary": "Another of the psychiatry drugs Neurocrine licensed from Takeda has stumbled in the clinic."
       },
       {
-        "id": "8f8c5808bc22c774",
-        "title": "FDA reverses decades-old warning on hormone therapy products for menopause",
-        "url": "https://www.statnews.com/2025/11/10/fda-reverses-hormone-warning-menopause-health/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 10 Nov 2025 15:42:17 +0000",
-        "published_dt": "2025-11-10T15:42:17+00:00",
-        "summary": "The FDA is reversing a 2003 decision that put a stringent warning on hormone therapy products for menopausal women, saying that the treatments offer heart, brain, and bone health benefits."
-      },
-      {
         "id": "4cbc9046ff59eac4",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/cogent-eyes-fda-submission-cancer-asset-after-clearing-another-phase-3-hurdle\" hreflang=\"en\">Cogent eyes FDA submission for cancer asset after clearing another phase 3 hurdle</a>",
         "url": "https://www.fiercebiotech.com/biotech/cogent-eyes-fda-submission-cancer-asset-after-clearing-another-phase-3-hurdle",
@@ -91,42 +154,6 @@
         "published": "Nov 10, 2025 11:03am",
         "published_dt": "2025-11-10T11:03:00+00:00",
         "summary": "Cogent Biosciences has cleared another phase 3 hurdle for its lead asset, bezuclastinib, teeing up an FDA approval in submission for a gastrointestinal cancer in the first half of next year."
-      },
-      {
-        "id": "dad9ba0506722144",
-        "title": "At AHA meeting, CRISPR data gleamed but \u2018food as medicine\u2019 spoke to the now",
-        "url": "https://www.statnews.com/2025/11/10/aha-food-as-medicine-lowered-blood-pressure/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 10 Nov 2025 09:30:00 +0000",
-        "published_dt": "2025-11-10T09:30:00+00:00",
-        "summary": "At the American Heart Association meeting, CRISPR data gleamed but \"food as medicine\" spoke to the now."
-      },
-      {
-        "id": "1a7965588420f8af",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-reports-phase-3-multiple-sclerosis-wins-btk-inhibitor-succeeding-where-rivals-failed\" hreflang=\"en\">Roche reports phase 3 multiple sclerosis wins for BTK inhibitor, succeeding where rivals failed </a>",
-        "url": "https://www.fiercebiotech.com/biotech/roche-reports-phase-3-multiple-sclerosis-wins-btk-inhibitor-succeeding-where-rivals-failed",
-        "source": "Fierce Biotech",
-        "published": "Nov 10, 2025 6:28am",
-        "published_dt": "2025-11-10T06:28:00+00:00",
-        "summary": "Roche has reported wins for its BTK inhibitor fenebrutinib in a pair of phase 3 multiple sclerosis trials. One victory was based on the finding that the candidate was non-inferior to Ocrevus, despite the company originally designing the study to show superiority to the incumbent MS treatment.<br />"
-      },
-      {
-        "id": "33d1cc7639c0fb77",
-        "title": "STAT+: Does coffee mix with AFib, and other new data from heart meeting",
-        "url": "https://www.statnews.com/2025/11/09/does-coffee-mix-with-afib-and-other-new-data-from-heart-meeting/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sun, 09 Nov 2025 22:46:55 +0000",
-        "published_dt": "2025-11-09T22:46:55+00:00",
-        "summary": "Regular coffee actually seemed to help people with atrial fibrillation, in one of many studies at the AHA meetings."
-      },
-      {
-        "id": "e2a3e5eb18e5d08d",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-bags-eye-catching-retinal-disease-gene-therapy-meiragtx-475m-deal\" hreflang=\"en\">Lilly bags eye-catching retinal disease gene therapy from MeiraGTx in $475M deal</a>",
-        "url": "https://www.fiercebiotech.com/biotech/lilly-bags-eye-catching-retinal-disease-gene-therapy-meiragtx-475m-deal",
-        "source": "Fierce Biotech",
-        "published": "Nov 7, 2025 11:17am",
-        "published_dt": "2025-11-07T11:17:00+00:00",
-        "summary": "MeiraGTx is cashing in on a gene therapy that restored vision to 11 children who were born legally blind, licensing the program to Eli Lilly in a deal potentially worth more than $475 million."
       },
       {
         "id": "e7ee55ba9c474226",
@@ -147,33 +174,6 @@
         "summary": "Executives from Parexel spotlight AI integration, data-driven trial design and workforce transformation."
       },
       {
-        "id": "e2eeee0c6ed96cbc",
-        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/phasev-ceo-now-time-embrace-ai-clinical-trial-success\" hreflang=\"en\">PhaseV CEO: Now is the Time to Embrace AI for Clinical Trial Success</a>",
-        "url": "https://www.fiercebiotech.com/sponsored/phasev-ceo-now-time-embrace-ai-clinical-trial-success",
-        "source": "Fierce Biotech",
-        "published": "Nov 4, 2025 9:29am",
-        "published_dt": "2025-11-04T09:29:00+00:00",
-        "summary": "PhaseV\u2019s transparent AI platform helps sponsors reduce trial failures and accelerate drug development through smarter design and real-world data integration."
-      },
-      {
-        "id": "2599b9e605e1c6af",
-        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/foresight-diagnostics-executive-sees-mrd-testing-future-cancer-care\" hreflang=\"en\">Foresight Diagnostics executive sees MRD testing as future of cancer care</a>",
-        "url": "https://www.fiercebiotech.com/sponsored/foresight-diagnostics-executive-sees-mrd-testing-future-cancer-care",
-        "source": "Fierce Biotech",
-        "published": "Nov 3, 2025 1:32pm",
-        "published_dt": "2025-11-03T13:32:00+00:00",
-        "summary": "Foresight Diagnostics shared insights into the evolving role of minimal residual disease (MRD) testing in precision oncology."
-      },
-      {
-        "id": "b2f6ebaf14d31e88",
-        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/gatc-health-unveils-ai-powered-risk-tool-predict-clinical-trial-success\" hreflang=\"en\">GATC Health unveils AI-powered risk tool to predict clinical trial success</a>",
-        "url": "https://www.fiercebiotech.com/sponsored/gatc-health-unveils-ai-powered-risk-tool-predict-clinical-trial-success",
-        "source": "Fierce Biotech",
-        "published": "Nov 3, 2025 10:00am",
-        "published_dt": "2025-11-03T10:00:00+00:00",
-        "summary": "AI-powered Derisq platform offers biotech and investment firms a faster, more accurate way to assess clinical trial risk and improve capital efficiency"
-      },
-      {
         "id": "51951aadb198f9b5",
         "title": "<a href=\"https://www.fiercebiotech.com/sponsored/syneos-health-executive-highlights-innovation-collaboration-clinical-trials\" hreflang=\"en\">Syneos Health executive highlights innovation, collaboration in clinical trials</a>",
         "url": "https://www.fiercebiotech.com/sponsored/syneos-health-executive-highlights-innovation-collaboration-clinical-trials",
@@ -183,60 +183,96 @@
         "summary": "SVP David Burnham outlines how payer engagement, digital innovation and patient-centric design are reshaping clinical trials and accelerating development timelines."
       },
       {
-        "id": "7620e7220848f3fe",
-        "title": "STAT+: The $10 billion question: Will Pfizer hit it big with Metsera, or have regrets?",
-        "url": "https://www.statnews.com/2025/11/10/pfizer-metsera-obesity-drugs-risks/?utm_campaign=rss",
+        "id": "f0d05b8100c4812b",
+        "title": "Covid-era rules for addiction medication, Ritalin are extended again",
+        "url": "https://www.statnews.com/2025/11/11/covid-era-rules-for-addiction-medication-ritalin-are-extended-again/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Mon, 10 Nov 2025 21:24:31 +0000",
-        "published_dt": "2025-11-10T21:24:31+00:00",
-        "summary": "At a price of up to $10 billion, Pfizer has claimed victory in its bidding war against Novo Nordisk to acquire Metsera. It's also taking on a lot of risk."
+        "published": "Tue, 11 Nov 2025 22:47:41 +0000",
+        "published_dt": "2025-11-11T22:47:41+00:00",
+        "summary": "For a fourth time, the government avoids making permanent policy on telehealth prescriptions of controlled medications for addiction and ADHD."
       },
       {
-        "id": "3e617e2bbcb6b0c5",
-        "title": "STAT+: Why a quarter of NC\u2019s Medicaid members could lose coverage",
-        "url": "https://www.statnews.com/2025/11/10/north-carolina-medicaid-expansion-faces-threat-health-care-inc/?utm_campaign=rss",
+        "id": "2d882401d51fbce7",
+        "title": "STAT+: At \u2018hush-hush\u2019 MAHA summit, RFK Jr. and deputies to mix with biotech leaders",
+        "url": "https://www.statnews.com/2025/11/11/mysterious-maha-summit-attracts-top-hhs-officials/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Mon, 10 Nov 2025 18:13:21 +0000",
-        "published_dt": "2025-11-10T18:13:21+00:00",
-        "summary": "This is the online version of STAT's weekly email newsletter Health Care Inc."
+        "published": "Tue, 11 Nov 2025 18:40:47 +0000",
+        "published_dt": "2025-11-11T18:40:47+00:00",
+        "summary": "A who's who of MAHA federal officials will be speaking at an event, stacked with industry executives and activists, organized largely in secrecy."
       },
       {
-        "id": "367b4d323b04b3ba",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/voyager-transition-bio-set-sail-neuro-research-trek-search-small-molecule-candidates\" hreflang=\"en\">Voyager, Transition Bio set sail on neuro research trek in search of small molecule candidates</a>",
-        "url": "https://www.fiercebiotech.com/biotech/voyager-transition-bio-set-sail-neuro-research-trek-search-small-molecule-candidates",
-        "source": "Fierce Biotech",
-        "published": "Nov 10, 2025 5:18pm",
-        "published_dt": "2025-11-10T17:18:00+00:00",
-        "summary": "Voyager Therapeutics is shoving off on a new journey to discover and develop small molecules targeting protein bundles that contribute to neurodegenerative diseases. Voyager is paying travel partner Transition Bio a single-digit million-dollar upfront payment, with additional payments up to $500 million possible if certain research, development, commercial and sales milestones are met."
-      },
-      {
-        "id": "045ae02639e0f337",
-        "title": "The State of AI: Energy is king, and the US is falling behind",
-        "url": "https://www.technologyreview.com/2025/11/10/1126805/the-state-of-ai-energy-is-king-and-the-us-is-falling-behind/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 10 Nov 2025 16:45:00 +0000",
-        "published_dt": "2025-11-10T16:45:00+00:00",
-        "summary": "Welcome back to\u00a0The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publications debate one aspect of the generative AI revolution and how it is reshaping global power. This week, Casey Crownhart, senior reporter for energy at MIT Technology Review and Pilita Clark, FT&#8217;s columnist,&#8230;"
-      },
-      {
-        "id": "35fc332219b5c29d",
-        "title": "STAT+: Fate of ACA subsidies still clouded after deal to reopen the government",
-        "url": "https://www.statnews.com/2025/11/10/government-shutdown-health-insurance-price-hikes-loom-despite-deal/?utm_campaign=rss",
+        "id": "ccea0a16bad0f5a7",
+        "title": "Opinion: I\u2019m a physician who went to the anti-vaccine movement\u2019s biggest gathering. More of my colleagues should too",
+        "url": "https://www.statnews.com/2025/11/11/childrens-health-defense-conference-pro-vaccine-doctor/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Mon, 10 Nov 2025 15:59:46 +0000",
-        "published_dt": "2025-11-10T15:59:46+00:00",
-        "summary": "Democrats negotiated a future vote on Affordable Care Act tax credits in return for reopening the government, but there's no guarantee of passage."
+        "published": "Tue, 11 Nov 2025 18:04:53 +0000",
+        "published_dt": "2025-11-11T18:04:53+00:00",
+        "summary": "A pro-vaccine physician went to the anti-vaccine movement\u2019s biggest gathering. He warns that public health must learn what it\u2019s up against."
+      },
+      {
+        "id": "bedd66db6c2f5285",
+        "title": "STAT+: Chinese government\u2019s\u00a0support for biotech fuels huge rally",
+        "url": "https://www.statnews.com/2025/11/11/biotech-news-china-biotech-backed-by-government/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 11 Nov 2025 15:58:32 +0000",
+        "published_dt": "2025-11-11T15:58:32+00:00",
+        "summary": "And more biotech news stories brought to you by The Readout"
+      },
+      {
+        "id": "66294432e8d22eca",
+        "title": "STAT+: How much damage did the federal shutdown do to telehealth?",
+        "url": "https://www.statnews.com/2025/11/11/federal-government-shutdown-impact-telehealth-usage-health-tech/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 11 Nov 2025 14:50:00 +0000",
+        "published_dt": "2025-11-11T14:50:00+00:00",
+        "summary": "In this edition of STAT's Health Tech newsletter: Impact of shutdown on telehealth, insurance coverage of health AI, and more."
       }
     ],
     "Engineering & Aerospace": [
       {
-        "id": "53a619607910dafa",
-        "title": "Air taxi vertiports still don\u2019t exist, but industry vows they will soon",
-        "url": "https://aerospaceamerica.aiaa.org/air-taxi-vertiports-still-dont-exist-but-industry-vows-they-will-soon/",
+        "id": "d86661614572dea9",
+        "title": "Investigation fails to determine root cause of MethaneSAT failure",
+        "url": "https://spacenews.com/investigation-fails-to-determine-root-cause-of-methanesat-failure/",
+        "source": "SpaceNews",
+        "published": "Wed, 12 Nov 2025 12:30:54 +0000",
+        "published_dt": "2025-11-12T12:30:54+00:00",
+        "summary": "<figure><img alt=\"MethaneSat\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"614\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/methanesat.jpeg?fit=1024%2C614&amp;ssl=1\" width=\"1024\" /></figure>\n<p>An investigation into the loss of a privately operated methane monitoring satellite could not identify a single root cause for the spacecraft\u2019s failure earlier this year.</p>\n<p>The post <a href=\"https://spacenews.com/investigation-fails-to-determine-root-cause-of-methanesat-failure/\">Investigation fails to determine root cause of MethaneSAT failure</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "5b9ae162545b4aea",
+        "title": "100, 75, 50 and 25 years ago in November 2025",
+        "url": "https://aerospaceamerica.aiaa.org/100-75-50-and-25-years-ago-in-november-2025/",
         "source": "Aerospace America",
-        "published": "Tue, 11 Nov 2025 10:18:00 +0000",
-        "published_dt": "2025-11-11T10:18:00+00:00",
+        "published": "Wed, 12 Nov 2025 10:49:00 +0000",
+        "published_dt": "2025-11-12T10:49:00+00:00",
         "summary": ""
+      },
+      {
+        "id": "55314bd1a6bd9bd1",
+        "title": "BW Design Group acquires Malisko to expand automation reach",
+        "url": "https://www.engineering.com/bw-design-group-acquires-malisko-to-expand-automation-reach/",
+        "source": "Engineering.com",
+        "published": "Wed, 12 Nov 2025 09:03:00 +0000",
+        "published_dt": "2025-11-12T09:03:00+00:00",
+        "summary": "<p>Deepening integrated capabilities to design and deliver the next generation of manufacturing and technology.</p>\n<p>The post <a href=\"https://www.engineering.com/bw-design-group-acquires-malisko-to-expand-automation-reach/\">BW Design Group acquires Malisko to expand automation reach</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "1f1a50b046e99d71",
+        "title": "Hexagon to acquire Inertial Sense to expand navigation tech",
+        "url": "https://www.engineering.com/hexagon-to-acquire-inertial-sense-to-expand-navigation-tech/",
+        "source": "Engineering.com",
+        "published": "Tue, 11 Nov 2025 09:51:00 +0000",
+        "published_dt": "2025-11-11T09:51:00+00:00",
+        "summary": "<p>The acquisition adds GNSS and INS solutions to Hexagon\u2019s portfolio, supporting aerospace, defense and robotics applications.</p>\n<p>The post <a href=\"https://www.engineering.com/hexagon-to-acquire-inertial-sense-to-expand-navigation-tech/\">Hexagon to acquire Inertial Sense to expand navigation tech</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "6da716e636d81e80",
+        "title": "Celus and NextPCB partner to streamline electronics design",
+        "url": "https://www.engineering.com/celus-and-nextpcb-partner-to-streamline-electronics-design/",
+        "source": "Engineering.com",
+        "published": "Tue, 11 Nov 2025 08:50:00 +0000",
+        "published_dt": "2025-11-11T08:50:00+00:00",
+        "summary": "<p>Partnership links Celus AI design tools with NextPCB\u2019s manufacturing to speed development and improve design reliability.</p>\n<p>The post <a href=\"https://www.engineering.com/celus-and-nextpcb-partner-to-streamline-electronics-design/\">Celus and NextPCB partner to streamline electronics design</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "ec72b200e2026178",
@@ -248,6 +284,123 @@
         "summary": ""
       },
       {
+        "id": "ed16a389a1d68d46",
+        "title": "Top Science Committee Democrat calls for halt to Goddard facility closures",
+        "url": "https://spacenews.com/top-science-committee-democrat-calls-for-halt-to-goddard-facility-closures/",
+        "source": "SpaceNews",
+        "published": "Tue, 11 Nov 2025 17:48:23 +0000",
+        "published_dt": "2025-11-11T17:48:23+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"681\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2015/03/Goddard-NASA.jpg?fit=1024%2C681&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The top Democrat on the House Science Committee is demanding that NASA halt efforts to close facilities at the Goddard Space Flight Center, arguing it jeopardizes key agency missions.</p>\n<p>The post <a href=\"https://spacenews.com/top-science-committee-democrat-calls-for-halt-to-goddard-facility-closures/\">Top Science Committee Democrat calls for halt to Goddard facility closures</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "d85a3ac239b27cc8",
+        "title": "PTC\u2019s IoT dream ends with sale of ThingWorx and Kepware",
+        "url": "https://www.engineering.com/ptcs-iot-dream-ends-with-sale-of-thingworx-and-kepware/",
+        "source": "Engineering.com",
+        "published": "Tue, 11 Nov 2025 17:11:52 +0000",
+        "published_dt": "2025-11-11T17:11:52+00:00",
+        "summary": "<p>They gave it their best shot, but now it\u2019s time to focus on another tech trend.</p>\n<p>The post <a href=\"https://www.engineering.com/ptcs-iot-dream-ends-with-sale-of-thingworx-and-kepware/\">PTC\u2019s IoT dream ends with sale of ThingWorx and Kepware</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "2c500cd3126110e5",
+        "title": "\u2018House of Dynamite\u2019 and where U.S. missile defense goes from here",
+        "url": "https://spacenews.com/house-of-dynamite-and-where-u-s-missile-defense-goes-from-here/",
+        "source": "SpaceNews",
+        "published": "Tue, 11 Nov 2025 14:00:00 +0000",
+        "published_dt": "2025-11-11T14:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/8792519-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A new shock-and-awe movie might sharpen public concern about American vulnerability to nuclear attack and defense against it. The fictional\u00a0\u201dHouse of Dynamite\u201d\u00a0shows United States leaders trying to respond to a single bolt-from-the-blue strike. Missile defense fails. The movie could spur real-world interest in better protection. In\u00a0\u201dHouse of Dynamite\u201d, an intercontinental ballistic missile launched from the [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/house-of-dynamite-and-where-u-s-missile-defense-goes-from-here/\">&#8216;House of Dynamite&#8217; and where U.S. missile defense goes from here</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "84c5ed5c66f37fd5",
+        "title": "Trimble adds site management tools for mixed equipment fleets",
+        "url": "https://www.engineering.com/trimble-adds-site-management-tools-for-mixed-equipment-fleets/",
+        "source": "Engineering.com",
+        "published": "Tue, 11 Nov 2025 13:46:58 +0000",
+        "published_dt": "2025-11-11T13:46:58+00:00",
+        "summary": "<p>New functionality helps civil contractors use connected data to improve productivity and profitability.</p>\n<p>The post <a href=\"https://www.engineering.com/trimble-adds-site-management-tools-for-mixed-equipment-fleets/\">Trimble adds site management tools for mixed equipment fleets</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "60207359d107dcce",
+        "title": "MathWorks launches MATLAB Copilot for AI-assisted coding",
+        "url": "https://www.engineering.com/mathworks-launches-matlab-copilot-for-ai-assisted-coding/",
+        "source": "Engineering.com",
+        "published": "Tue, 11 Nov 2025 13:36:42 +0000",
+        "published_dt": "2025-11-11T13:36:42+00:00",
+        "summary": "<p>MATLAB Copilot helps users code, debug, and learn with built-in chat, smart suggestions, and context-aware explanations.</p>\n<p>The post <a href=\"https://www.engineering.com/mathworks-launches-matlab-copilot-for-ai-assisted-coding/\">MathWorks launches MATLAB Copilot for AI-assisted coding</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "fa8a4353a1d7e362",
+        "title": "Trimble launches ProjectSight 360 for remote 3D tracking",
+        "url": "https://www.engineering.com/trimble-launches-projectsight-360-for-remote-3d-tracking/",
+        "source": "Engineering.com",
+        "published": "Tue, 11 Nov 2025 13:31:39 +0000",
+        "published_dt": "2025-11-11T13:31:39+00:00",
+        "summary": "<p>Reality capture technology enhances project management workflows, enabling construction teams to use an AI-powered 3D viewer experience.</p>\n<p>The post <a href=\"https://www.engineering.com/trimble-launches-projectsight-360-for-remote-3d-tracking/\">Trimble launches ProjectSight 360 for remote 3D tracking</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "616459514da4d76d",
+        "title": "Key antenna in NASA\u2019s Deep Space Network damaged",
+        "url": "https://spacenews.com/key-antenna-in-nasas-deep-space-network-damaged/",
+        "source": "SpaceNews",
+        "published": "Tue, 11 Nov 2025 13:12:48 +0000",
+        "published_dt": "2025-11-11T13:12:48+00:00",
+        "summary": "<figure><img alt=\"DSS-14\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"551\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/dss14.jpeg?fit=850%2C551&amp;ssl=1\" width=\"850\" /></figure>\n<p>One of the largest antennas in NASA\u2019s Deep Space Network was damaged in September and may be out of service for an extended period, further straining the system.</p>\n<p>The post <a href=\"https://spacenews.com/key-antenna-in-nasas-deep-space-network-damaged/\">Key antenna in NASA\u2019s Deep Space Network damaged</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "fb6c6b5a0b328669",
+        "title": "RS offers Omron system to simplify control panel design",
+        "url": "https://www.engineering.com/rs-offers-omron-system-to-simplify-control-panel-design/",
+        "source": "Engineering.com",
+        "published": "Tue, 11 Nov 2025 13:10:56 +0000",
+        "published_dt": "2025-11-11T13:10:56+00:00",
+        "summary": "<p>Omron\u2019s Value Design for Panel products reduce design time, improve efficiency, and support sustainability in automation.</p>\n<p>The post <a href=\"https://www.engineering.com/rs-offers-omron-system-to-simplify-control-panel-design/\">RS offers Omron system to simplify control panel design</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "7f9beddf98086dcb",
+        "title": "Automated satellite solar module production ramps up in New York",
+        "url": "https://spacenews.com/automated-satellite-solar-module-production-ramps-up-in-new-york/",
+        "source": "SpaceNews",
+        "published": "Tue, 11 Nov 2025 13:00:00 +0000",
+        "published_dt": "2025-11-11T13:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"601\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/mPower_Hi-Vol_Facility_Nov-2025.jpg?fit=1024%2C601&amp;ssl=1\" width=\"1024\" /></figure>\n<p>New Mexico-based mPower Technology has started automated, high-volume production of its space-grade solar modules in New York, the company announced Nov. 11 as it ramps up to meet demand from satellite constellations.</p>\n<p>The post <a href=\"https://spacenews.com/automated-satellite-solar-module-production-ramps-up-in-new-york/\">Automated satellite solar module production ramps up in New York</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "0b16b8440172f6d4",
+        "title": "Rocket Lab delays first Neutron launch to 2026",
+        "url": "https://spacenews.com/rocket-lab-delays-first-neutron-launch-to-2026/",
+        "source": "SpaceNews",
+        "published": "Tue, 11 Nov 2025 12:32:45 +0000",
+        "published_dt": "2025-11-11T12:32:45+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"666\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/11/Screenshot-2024-11-03-at-4.57.16%E2%80%AFPM.png?fit=1024%2C666&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Rocket Lab has delayed the first launch of its reusable Neutron rocket to 2026, saying it wants to maximize the chances that the flight will be a success.</p>\n<p>The post <a href=\"https://spacenews.com/rocket-lab-delays-first-neutron-launch-to-2026/\">Rocket Lab delays first Neutron launch to 2026</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "5bc580c38ed81523",
+        "title": "China continues assessment of Shenzhou-20 crew return after suspected debris strike",
+        "url": "https://spacenews.com/china-continues-assessment-of-shenzhou-20-crew-return-after-suspected-debris-strike/",
+        "source": "SpaceNews",
+        "published": "Tue, 11 Nov 2025 12:22:04 +0000",
+        "published_dt": "2025-11-11T12:22:04+00:00",
+        "summary": "<figure><img alt=\"A Chinese astronaut conducts a spacewalk outside the Tiangong space station, working on the robotic arm while Earth is visible in the background. The scene was captured by a panoramic camera on the Wentian module during Shenzhou-20\u2019s second EVA on June 26, 2025.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"507\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/Shenzhou20-EVA2-wentian-cameraB-26june2025-CMSEO.jpg?fit=1024%2C507&amp;ssl=1\" width=\"1024\" /></figure>\n<p>China is continuing assessments for the return of the Shenzhou-20 crew after a suspected debris impact, with no new timeline yet announced.</p>\n<p>The post <a href=\"https://spacenews.com/china-continues-assessment-of-shenzhou-20-crew-return-after-suspected-debris-strike/\">China continues assessment of Shenzhou-20 crew return after suspected debris strike</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "53a619607910dafa",
+        "title": "Air taxi vertiports still don\u2019t exist, but industry vows they will soon",
+        "url": "https://aerospaceamerica.aiaa.org/air-taxi-vertiports-still-dont-exist-but-industry-vows-they-will-soon/",
+        "source": "Aerospace America",
+        "published": "Tue, 11 Nov 2025 10:18:00 +0000",
+        "published_dt": "2025-11-11T10:18:00+00:00",
+        "summary": ""
+      },
+      {
+        "id": "e37e0fd79535deb2",
+        "title": "Supplyframe and Orbweaver partner to connect electronics data",
+        "url": "https://www.engineering.com/supplyframe-and-orbweaver-partner-to-connect-electronics-data/",
+        "source": "Engineering.com",
+        "published": "Tue, 11 Nov 2025 07:56:00 +0000",
+        "published_dt": "2025-11-11T07:56:00+00:00",
+        "summary": "<p>Integration combines Supplyframe\u2019s DSI platform with Orbweaver tools to improve data accuracy and digital workflows across systems.</p>\n<p>The post <a href=\"https://www.engineering.com/supplyframe-and-orbweaver-partner-to-connect-electronics-data/\">Supplyframe and Orbweaver partner to connect electronics data</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
         "id": "a75d7629ad21036e",
         "title": "What to expect at Formnext 2025",
         "url": "https://www.engineering.com/what-to-expect-at-formnext-2025/",
@@ -257,157 +410,49 @@
         "summary": "<p>Announcements from Arkema, DMG Mori, Stratasys and more, PLUS a special ASTM summit.</p>\n<p>The post <a href=\"https://www.engineering.com/what-to-expect-at-formnext-2025/\">What to expect at Formnext 2025</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "d1cec02f548a423d",
-        "title": "From seats to outcomes: rethinking engineering software licensing",
-        "url": "https://www.engineering.com/from-seats-to-outcomes-rethinking-engineering-software-licensing/",
-        "source": "Engineering.com",
-        "published": "Mon, 10 Nov 2025 20:35:48 +0000",
-        "published_dt": "2025-11-10T20:35:48+00:00",
-        "summary": "<p>From named users to token meters to possible outcome pricing, what does a fair price for design, make, and operate really look like?</p>\n<p>The post <a href=\"https://www.engineering.com/from-seats-to-outcomes-rethinking-engineering-software-licensing/\">From seats to outcomes: rethinking engineering software licensing</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "id": "e8575d6cf072e7d0",
+        "title": "Avio secures solid rocket deals with Lockheed Martin, Raytheon",
+        "url": "https://spacenews.com/avio-secures-solid-rocket-deals-with-lockheed-martin-raytheon/",
+        "source": "SpaceNews",
+        "published": "Mon, 10 Nov 2025 20:38:04 +0000",
+        "published_dt": "2025-11-10T20:38:04+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/GQa858iXgAAokGV-scaled.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A new solid rocket production facility is expected to be operational by early 2028, though Avio has not yet disclosed its location.</p>\n<p>The post <a href=\"https://spacenews.com/avio-secures-solid-rocket-deals-with-lockheed-martin-raytheon/\">Avio secures solid rocket deals with Lockheed Martin, Raytheon</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "98877478f0ea9499",
-        "title": "Tech Soft 3D introduces HOOPS AI for CAD apps",
-        "url": "https://www.engineering.com/tech-soft-3d-introduces-hoops-ai-for-cad-apps/",
-        "source": "Engineering.com",
-        "published": "Mon, 10 Nov 2025 15:28:07 +0000",
-        "published_dt": "2025-11-10T15:28:07+00:00",
-        "summary": "<p>New framework enables data scientists to apply AI and machine learning directly to CAD data for faster model development.</p>\n<p>The post <a href=\"https://www.engineering.com/tech-soft-3d-introduces-hoops-ai-for-cad-apps/\">Tech Soft 3D introduces HOOPS AI for CAD apps</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "id": "7265df451a6ba89e",
+        "title": "Commercial Space Federation (CSF) Welcomes New Associate Members",
+        "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-new-associate-members/",
+        "source": "SpaceNews",
+        "published": "Mon, 10 Nov 2025 20:30:00 +0000",
+        "published_dt": "2025-11-10T20:30:00+00:00",
+        "summary": "<figure><img alt=\"Commercial Space Federation (CSF) logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"901\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/commercial-space-federation-csf-square.png?fit=900%2C901&amp;ssl=1\" width=\"900\" /></figure>\n<p>November 10, 2025 \u2013 Washington, D.C.\u2014The Commercial Space Federation (CSF) is pleased to welcome Seagate Space, Michael Baker International, and Lanteris Space Systems as new Associate Members. These new members [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/commercial-space-federation-csf-welcomes-new-associate-members/\">Commercial Space Federation (CSF) Welcomes New Associate Members</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "76c15a27193e0784",
-        "title": "Novarc unveils dual-process spool welding robot for fabricators",
-        "url": "https://www.engineering.com/novarc-unveils-dual-process-spool-welding-robot-for-fabricators/",
-        "source": "Engineering.com",
-        "published": "Mon, 10 Nov 2025 14:08:00 +0000",
-        "published_dt": "2025-11-10T14:08:00+00:00",
-        "summary": "<p>The SWR-TIGMIG combines TIG and MIG welding in one platform to boost efficiency, precision, and flexibility in pipe fabrication.</p>\n<p>The post <a href=\"https://www.engineering.com/novarc-unveils-dual-process-spool-welding-robot-for-fabricators/\">Novarc unveils dual-process spool welding robot for fabricators</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "id": "3a2b730179cf7d2b",
+        "title": "Sateliot opens Barcelona facility to build more capable direct-to-device satellites",
+        "url": "https://spacenews.com/sateliot-opens-barcelona-facility-to-build-more-capable-direct-to-device-satellites/",
+        "source": "SpaceNews",
+        "published": "Mon, 10 Nov 2025 18:08:30 +0000",
+        "published_dt": "2025-11-10T18:08:30+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Maqueta-Trito-scaled.png?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Spain\u2019s Sateliot announced plans Nov. 10 to develop upgraded satellites from newly expanded facilities in Barcelona, aiming to move beyond connecting sensors and machines to also provide wideband voice, video and data links directly to smartphones.</p>\n<p>The post <a href=\"https://spacenews.com/sateliot-opens-barcelona-facility-to-build-more-capable-direct-to-device-satellites/\">Sateliot opens Barcelona facility to build more capable direct-to-device satellites</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "eee8969a51e2284e",
-        "title": "Siemens and NEC partner to advance robot motion planning",
-        "url": "https://www.engineering.com/siemens-and-nec-partner-to-advance-robot-motion-planning/",
-        "source": "Engineering.com",
-        "published": "Mon, 10 Nov 2025 13:12:00 +0000",
-        "published_dt": "2025-11-10T13:12:00+00:00",
-        "summary": "<p>The collaboration integrates NEC\u2019s Robot Task Planning with Siemens\u2019 Process Simulate to automate multi-robot motion design.</p>\n<p>The post <a href=\"https://www.engineering.com/siemens-and-nec-partner-to-advance-robot-motion-planning/\">Siemens and NEC partner to advance robot motion planning</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "id": "d554546906fdeec4",
+        "title": "The fallacy of being first \u2014 let\u2019s be enduring instead",
+        "url": "https://spacenews.com/the-fallacy-of-being-first-lets-be-enduring-instead/",
+        "source": "SpaceNews",
+        "published": "Mon, 10 Nov 2025 14:00:00 +0000",
+        "published_dt": "2025-11-10T14:00:00+00:00",
+        "summary": "<figure><img alt=\"Several \u201clong poles,\u201d or enabling technologies, need to be developed before establishing a Martian outpost like the one illustrated here. Credit: NASA/JPL\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/0412_mars_0.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Recent reports suggest that NASA is looking to accelerate its lunar landing timeline \u2014 partly to ensure that America returns to the moon before China does. The echoes of the 1960s Space Race are unmistakable. Once again, the focus seems to be on being first \u2014 planting a flag, capturing headlines and proving technological superiority. [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/the-fallacy-of-being-first-lets-be-enduring-instead/\">The fallacy of being first \u2014 let\u2019s be enduring instead</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "e40fa3a3c7103fca",
-        "title": "ZWCAD ranks highest for satisfaction and ease of use on G2",
-        "url": "https://www.engineering.com/zwcad-ranks-highest-for-satisfaction-and-ease-of-use-on-g2/",
-        "source": "Engineering.com",
-        "published": "Mon, 10 Nov 2025 13:04:00 +0000",
-        "published_dt": "2025-11-10T13:04:00+00:00",
-        "summary": "<p>ZWCAD received top user ratings on G2, earning 99/100 satisfaction and 9.3/10 usability scores, ahead of leading CAD tools.</p>\n<p>The post <a href=\"https://www.engineering.com/zwcad-ranks-highest-for-satisfaction-and-ease-of-use-on-g2/\">ZWCAD ranks highest for satisfaction and ease of use on G2</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "644f61dabf21f809",
-        "title": "STMicroelectronics introduces compact dual-range motion sensor",
-        "url": "https://www.engineering.com/stmicroelectronics-introduces-compact-dual-range-motion-sensor/",
-        "source": "Engineering.com",
-        "published": "Mon, 10 Nov 2025 08:24:06 +0000",
-        "published_dt": "2025-11-10T08:24:06+00:00",
-        "summary": "<p>The ISM6HG256X combines low- and high-g acceleration sensing with a gyroscope for industrial IoT and edge AI applications.</p>\n<p>The post <a href=\"https://www.engineering.com/stmicroelectronics-introduces-compact-dual-range-motion-sensor/\">STMicroelectronics introduces compact dual-range motion sensor</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "8ab440eb05a82503",
-        "title": "All Metals adds Kitamura 5-axis machining center in Texas",
-        "url": "https://www.engineering.com/all-metals-adds-kitamura-5-axis-machining-center-in-texas/",
-        "source": "Engineering.com",
-        "published": "Mon, 10 Nov 2025 08:20:04 +0000",
-        "published_dt": "2025-11-10T08:20:04+00:00",
-        "summary": "<p>The new Supercell-300G expands All Metals Fabricating\u2019s precision machining and automation capabilities for complex components.</p>\n<p>The post <a href=\"https://www.engineering.com/all-metals-adds-kitamura-5-axis-machining-center-in-texas/\">All Metals adds Kitamura 5-axis machining center in Texas</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "9d6bafbf1994c5eb",
-        "title": "Foretellix and Parallel Domain partner on AV simulation tools",
-        "url": "https://www.engineering.com/foretellix-and-parallel-domain-partner-on-av-simulation-tools/",
-        "source": "Engineering.com",
-        "published": "Mon, 10 Nov 2025 08:11:58 +0000",
-        "published_dt": "2025-11-10T08:11:58+00:00",
-        "summary": "<p>The collaboration combines scenario-based validation with sensor simulation to improve end-to-end autonomous vehicle testing.</p>\n<p>The post <a href=\"https://www.engineering.com/foretellix-and-parallel-domain-partner-on-av-simulation-tools/\">Foretellix and Parallel Domain partner on AV simulation tools</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "082c7d7463d29412",
-        "title": "Atom Computing advances in DARPA quantum computing project",
-        "url": "https://www.engineering.com/atom-computing-advances-in-darpa-quantum-computing-project/",
-        "source": "Engineering.com",
-        "published": "Mon, 10 Nov 2025 08:07:54 +0000",
-        "published_dt": "2025-11-10T08:07:54+00:00",
-        "summary": "<p>The company will develop an R&#038;D plan under DARPA\u2019s Quantum Benchmarking Initiative with algorithmic support from Microsoft.</p>\n<p>The post <a href=\"https://www.engineering.com/atom-computing-advances-in-darpa-quantum-computing-project/\">Atom Computing advances in DARPA quantum computing project</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "f82d461e189a8dfc",
-        "title": "SpaceX aiming for 170 Falcon 9 launches this year, exec says",
-        "url": "https://aerospaceamerica.aiaa.org/spacex-aiming-for-170-falcon-9-launches-this-year-exec-says/",
-        "source": "Aerospace America",
-        "published": "Wed, 05 Nov 2025 20:09:43 +0000",
-        "published_dt": "2025-11-05T20:09:43+00:00",
-        "summary": ""
-      },
-      {
-        "id": "63be3c7673981c58",
-        "title": "Lunar lander maker says he welcomes Chinese competition to reach the moon",
-        "url": "https://aerospaceamerica.aiaa.org/lunar-lander-maker-says-he-welcomes-chinese-competition-to-reach-the-moon/",
-        "source": "Aerospace America",
-        "published": "Tue, 04 Nov 2025 17:28:28 +0000",
-        "published_dt": "2025-11-04T17:28:28+00:00",
-        "summary": ""
-      },
-      {
-        "id": "a69fc8ce1f693531",
-        "title": "More than half the research space on Starlab commercial space station claimed, exec says",
-        "url": "https://aerospaceamerica.aiaa.org/more-than-half-the-research-space-on-starlab-commercial-space-station-claimed-exec-says/",
-        "source": "Aerospace America",
-        "published": "Tue, 04 Nov 2025 16:24:30 +0000",
-        "published_dt": "2025-11-04T16:24:30+00:00",
-        "summary": ""
-      },
-      {
-        "id": "92f7ac1a862462fb",
-        "title": "Hail to the maintainers!",
-        "url": "https://aerospaceamerica.aiaa.org/hail-to-the-maintainers/",
-        "source": "Aerospace America",
-        "published": "Mon, 03 Nov 2025 10:59:00 +0000",
-        "published_dt": "2025-11-03T10:59:00+00:00",
-        "summary": ""
-      },
-      {
-        "id": "6368a16d70b64204",
-        "title": "Airbus UpNext wraps up initial ground tests of automated taxiing software",
-        "url": "https://aerospaceamerica.aiaa.org/airbus-upnext-wraps-up-initial-ground-tests-of-automated-taxiing-software/",
-        "source": "Aerospace America",
-        "published": "Fri, 31 Oct 2025 09:00:00 +0000",
-        "published_dt": "2025-10-31T09:00:00+00:00",
-        "summary": ""
-      },
-      {
-        "id": "cb97bb9533286031",
-        "title": "Airbus sticks with airliner delivery target as it looks to \u2018create scale\u2019 in space business",
-        "url": "https://aerospaceamerica.aiaa.org/airbus-sticks-with-airliner-delivery-target-as-it-looks-to-create-scale-in-space-business/",
-        "source": "Aerospace America",
-        "published": "Wed, 29 Oct 2025 23:44:14 +0000",
-        "published_dt": "2025-10-29T23:44:14+00:00",
-        "summary": ""
-      },
-      {
-        "id": "d491f303e5fe0f26",
-        "title": "Boeing executives say operations \u2018turning a corner,\u2019 despite 777X delay, charge",
-        "url": "https://aerospaceamerica.aiaa.org/boeing-executives-say-operations-turning-a-corner-despite-777x-delay-charge/",
-        "source": "Aerospace America",
-        "published": "Wed, 29 Oct 2025 17:43:30 +0000",
-        "published_dt": "2025-10-29T17:43:30+00:00",
-        "summary": ""
-      },
-      {
-        "id": "8afe1e050bca8bd7",
-        "title": "U.S. Air Force awards grant for cislunar constellation to track spacecraft and debris",
-        "url": "https://aerospaceamerica.aiaa.org/u-s-air-force-awards-grant-for-cislunar-constellation-to-track-spacecraft-and-debris/",
-        "source": "Aerospace America",
-        "published": "Mon, 27 Oct 2025 17:32:00 +0000",
-        "published_dt": "2025-10-27T17:32:00+00:00",
-        "summary": ""
+        "id": "5d4d55b676f0ae18",
+        "title": "SpaceNews, JHU Bring Together Space Leaders to Discuss Commercial and Government Space Collaboration",
+        "url": "https://spacenews.com/spacenews-jhu-bring-together-space-leaders-to-discuss-commercial-and-government-space-collaboration/",
+        "source": "SpaceNews",
+        "published": "Mon, 10 Nov 2025 13:00:00 +0000",
+        "published_dt": "2025-11-10T13:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"900\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/SN-logo-square.jpg?fit=900%2C900&amp;ssl=1\" width=\"900\" /></figure>\n<p>Washington, D.C. \u2014 November 10, 2025 \u2014 SpaceNews, the leading source of global space industry reporting and analysis, partnered with the Johns Hopkins University Bloomberg Center to launch a new [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/spacenews-jhu-bring-together-space-leaders-to-discuss-commercial-and-government-space-collaboration/\">SpaceNews, JHU Bring Together Space Leaders to Discuss Commercial and Government Space Collaboration</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
@@ -639,6 +684,15 @@
     ],
     "Cross-Disciplinary": [
       {
+        "id": "71b32e81a110c39f",
+        "title": "Improving VMware migration workflows with agentic AI",
+        "url": "https://www.technologyreview.com/2025/11/12/1124919/improving-vmware-migration-workflows-with-agentic-ai/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 12 Nov 2025 10:11:15 +0000",
+        "published_dt": "2025-11-12T10:11:15+00:00",
+        "summary": "For years, many chief information officers (CIOs) looked at VMware-to-cloud migrations with a wary pragmatism. Manually mapping dependencies and rewriting legacy apps mid-flight was not an enticing, low-lift proposition for enterprise IT teams. But the calculus for such decisions has changed dramatically in a short period of time. Following recent VMware licensing changes, organizations are&#8230;"
+      },
+      {
         "id": "9f318f88b49f4dce",
         "title": "Scientists Need a Positive Vision for AI",
         "url": "https://spectrum.ieee.org/responsible-ai",
@@ -729,6 +783,24 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/close-up-of-a-blue-circuit-board-featuring-a-large-central-white-microchip.jpg?id=61784275&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C1\" /><br /><br /><p><em>This is a sponsored article brought to you by <a href=\"https://eda.sw.siemens.com/en-US/\" target=\"_blank\">Siemens</a>.</em></p><p>In the world of electronics, integrated circuits (IC) chips are the unseen powerhouse behind progress. Every leap\u2014whether it\u2019s smarter phones, more capable cars, or breakthroughs in healthcare and science\u2014relies on chips that are more complex, faster, and packed with more features than ever before. But creating these chips is not just a question of sheer engineering talent or ambition. The design process itself has reached staggering levels of complexity, and with it, the challenge to keep productivity and quality moving forward.</p><p>As we push against the boundaries of physics, chipmakers face more than just technical hurdles. The workforce challenges, tight timelines, and the requirements for building reliable chips are stricter than ever. Enormous effort goes into making sure chip layouts follow detailed constraints\u2014such as maintaining minimum feature sizes for transistors and wires, keeping proper spacing between different layers like metal, polysilicon, and active areas, and ensuring vias overlap correctly to create solid electrical connections. These design rules multiply with every new technology generation. For every innovation, there\u2019s pressure to deliver more with less. So, the question becomes: How do we help designers meet these demands, and how can technology help us handle the complexity without compromising on quality?</p><h2>Shifting the paradigm: the rise of AI in electronic design automation</h2><p>A major wave of change is moving through the entire field of electronic design automation (EDA), the specialized area of software and tools that chipmakers use to design, analyze, and verify the complex integrated circuits inside today\u2019s chips. Artificial intelligence is already touching many parts of the chip design flow\u2014helping with placement and routing, predicting yield outcomes, tuning analog circuits, automating simulation, and even guiding early architecture planning. Rather than simply speeding up old steps, AI is opening doors to new ways of thinking and working.</p><p class=\"pull-quote\">Machine learning models can help predict defect hotspots or prioritize risky areas long before sending a chip to be manufactured.</p><p>Instead of brute-force computation or countless lines of custom code, AI uses advanced algorithms to spot patterns, organize massive datasets, and highlight issues that might otherwise take weeks of manual work to uncover. For example, generative AI can help designers ask questions and get answers in natural language, streamlining routine tasks. Machine learning models can help predict defect hotspots or prioritize risky areas long before sending a chip to be manufactured.</p><p>This growing partnership between human expertise and machine intelligence is paving the way for what some call a \u201cshift left\u201d or concurrent build revolution\u2014finding and fixing problems much earlier in the design process, before they grow into expensive setbacks. For chipmakers, this means higher quality and faster time to market. For designers, it means a chance to focus on innovation rather than chasing bugs.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Flow diagram: IC design rule checking (DRC), SoC integration, physical verification showing errors.\" class=\"rm-shortcode\" id=\"c40c3\" src=\"https://spectrum.ieee.org/media-library/flow-diagram-ic-design-rule-checking-drc-soc-integration-physical-verification-showing-errors.jpg?id=61784279&amp;width=980\" /> <small class=\"image-media media-caption\">Figure 1. Shift-left and concurrent build of IC chips performs multiple tasks simultaneously that use to be done sequentially.</small><small class=\"image-media media-photo-credit\">Siemens</small></p><h2>The physical verification bottleneck: why design rule checking is harder than ever</h2><p><span></span><span>As chips grow more complex, the part of the design called physical verification becomes a critical bottleneck. Physical verification checks whether a chip layout meets the manufacturer\u2019s strict rules and faithfully matches the original functional schematic. Its main goal is to ensure the design can be reliably manufactured into a working chip, free of physical defects that might cause failures later on.</span></p><p>Design rule checking (DRC) is the backbone of physical verification. DRC software scans every corner of a chip\u2019s layout for violations\u2014features that might cause defects, reduce yield, or simply make the design un-manufacturable. But today\u2019s chips aren\u2019t just bigger; they\u2019re more intricate, woven from many layers of logic, memory, and analog components, sometimes stacked in three dimensions. The rules aren\u2019t simple either. They may depend on the geometry, the context, the manufacturing process and even the interactions between distant layout features.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Man with wavy black hair in a black blazer and white shirt against a plain background.\" class=\"rm-shortcode\" id=\"12f34\" src=\"https://spectrum.ieee.org/media-library/man-with-wavy-black-hair-in-a-black-blazer-and-white-shirt-against-a-plain-background.jpg?id=61784318&amp;width=980\" /> <small class=\"image-media media-caption\">Priyank Jain leads product management for Calibre Interfaces at Siemens EDA.</small><small class=\"image-media media-photo-credit\">Siemens</small></p><p>Traditionally, DRC is performed late in the flow, when all components are assembled into the final chip layout. At this stage, it\u2019s common to uncover millions of violations\u2014and fixing these late-stage issues requires extensive effort, leading to costly delays.</p><p>To minimize this burden, there\u2019s a growing focus on shifting DRC earlier in the flow\u2014a strategy called \u201cshift-left.\u201d Instead of waiting until the entire design is complete, engineers try to identify and address DRC errors much sooner at block and cell levels. This concurrent design and verification approach allows the bulk of errors to be caught when fixes are faster and less disruptive.</p><p>However, running DRC earlier in the flow on a full chip when the blocks are not DRC clean produces results datasets of breathtaking scale\u2014often tens of millions to billions of \u201cerrors,\u201d warnings, or flags because the unfinished chip design is \u201cdirty\u201d compared to a chip that\u2019s been through the full design process. Navigating these \u201cdirty\u201d results is a challenge all on its own. Designers must prioritize which issues to tackle, identify patterns that point to systematic problems, and decide what truly matters. In many cases, this work is slow and \u201cmanual,\u201d depending on the ability of engineers to sort through data, filter what matters, and share findings across teams.</p><p>To cope, design teams have crafted ways to limit the flood of information. They might cap the number of errors per rule, or use informal shortcuts\u2014passing databases or screenshots by email to team members, sharing filters in chat messages, and relying on experts to know where to look. Yet this approach is not sustainable. It risks missing major, chip-wide issues that can cascade through the final product. It slows down response and makes collaboration labor-intensive.</p><p>With ongoing workforce challenges and the surging complexity of modern chips, the need for smarter, more automated DRC analysis becomes urgent. So what could a better solution look like\u2014and how can AI help bridge the gap?</p><h2>The rise of AI-powered DRC analysis</h2><p>Recent breakthroughs in AI have changed the game for DRC analysis in ways that were unthinkable even a few years ago. Rather than scanning line by line or check by check, AI-powered systems can process billions of errors, cluster them into meaningful groups, and help designers find the root causes much faster. These tools use techniques from computer vision, advanced machine learning, and big data analytics to turn what once seemed like an impossible pile of information into a roadmap for action.</p><p>AI\u2019s ability to organize chaotic datasets\u2014finding systematic problems hidden across multiple rules or regions\u2014helps catch risks that basic filtering might miss. By grouping related errors and highlighting hot spots, designers can see the big picture and focus their time where it counts. AI-based clustering algorithms reliably transform weeks of manual investigation into minutes of guided analysis.</p><p class=\"pull-quote\">AI-powered systems can process billions of errors, cluster them into meaningful groups, and help designers find the root causes much faster.</p><p>Another benefit: collaboration. By treating results as shared, living datasets\u2014rather than static tables\u2014modern tools let teams assign owners, annotate findings and pass exact analysis views between block and partition engineers, even across organizational boundaries. Dynamic bookmarks and shared UI states cut down on confusion and rework. Instead of \u201cback and forth,\u201d teams move forward together.</p><p>Many of these innovations tease at what\u2019s possible when AI is built into the heart of the verification flow. Not only do they help designers analyze the results; they help everyone reason about the data, summarize findings and make better design decisions all the way to tape out.</p><h2>A real-world breakthrough in DRC analysis and collaboration: Siemens\u2019 Calibre Vision AI</h2><p>One of the most striking examples of AI-powered DRC analysis comes from <a href=\"https://eda.sw.siemens.com/en-US/\" target=\"_blank\">Siemens</a>, whose <a href=\"https://eda.sw.siemens.com/en-US/ic/calibre-design/interfaces/vision-ai/\" target=\"_blank\">Calibre Vision AI platform</a> is setting new standards for how full-chip verification happens. Building on years of experience in physical verification, Siemens realized that breaking bottlenecks required not only smarter algorithms but rethinking how teams work together and how data moves across the flow.</p><p>Vision AI is designed for speed and scalability. It uses a compact error database and a multi-threaded engine to load millions\u2014or even billions\u2014of errors in minutes, visualizing them so engineers see clusters and hot spots across the entire die. Instead of a wall of error codes or isolated rule violations, the tool presents a heat map of the layout, highlighting areas with the highest concentration of issues. By enabling or disabling layers (layout, markers, heat map) and adjusting layer opacity, users get a clear, customizable view of what\u2019s happening\u2014and where to look next.</p><p class=\"pull-quote\">Using advanced machine learning algorithms, Vision AI analyzes every error to find groups with common failure causes. </p><p>But the real magic is in AI-guided clustering. Using advanced machine learning algorithms, Vision AI analyzes every error to find groups with common failure causes. This means designers can attack the root cause once, fixing problems for hundreds of checks at a time instead of tediously resolving them one by one. In cases where legacy tools would force teams to slog through, for example, 3,400 checks with 600 million errors, Vision AI\u2019s clustering can reduce that effort to investigating just 381 groups\u2014turning mountains into molehills and speeding debug time by at least 2x.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Calibre Vision software, check groups, cells list, and die-view heatmap interface screenshot.\" class=\"rm-shortcode\" id=\"ac191\" src=\"https://spectrum.ieee.org/media-library/calibre-vision-software-check-groups-cells-list-and-die-view-heatmap-interface-screenshot.jpg?id=61784282&amp;width=980\" /> <small class=\"image-media media-caption\">Figure 2. The Calibre Vision AI software automates and simplifies the chip-level DRC verification process.</small><small class=\"image-media media-photo-credit\">Siemens</small></p><p><span>Vision AI is also highly collaborative. Dynamic bookmarks capture the exact state of analysis, from layer filters to zoomed layout areas, along with annotations and owner assignments. Sharing a bookmark sends a living analysis\u2014not just a static snapshot\u2014to coworkers, so everyone is working from the same view. Teams can export results databases, distribute actionable groups to block owners, and seamlessly import findings into other Siemens EDA tools for further debug.</span></p><h2>Empowering every designer: reducing the expertise gap</h2><p>A frequent pain point in chip verification is the need for deep expertise\u2014knowing which errors matter, which patterns mean trouble, and how to interpret complex results. Calibre Vision AI helps level the playing field. Its AI-based algorithms consistently create the same clusters and debug paths that senior experts would identify, but does so in minutes. New users can quickly find systematic issues and perform like seasoned engineers, helping chip companies address workforce shortages and staff turnover.</p><p>Beyond clusters and bookmarks, Vision AI lets designers build custom signals by leveraging their own data. The platform secures customer models and data for exclusive use, making sure sensitive information stays within the company. And by integrating with Siemens\u2019 EDA AI ecosystem, <a href=\"https://eda.sw.siemens.com/en-US/ic/calibre-design/interfaces/vision-ai/\" target=\"_blank\">Calibre Vision AI</a> supports generative AI chatbots and reasoning assistants. Designers can ask direct questions\u2014about syntax, about a signal, about the flow\u2014and get prompt\u2014accurate answers, streamlining training and adoption.</p><h2>Real results: speeding analysis and sharing insight</h2><p>Customer feedback from leading IC companies shows the real-world value of AI for full-chip DRC analysis and debug. One company reported that Vision AI reduced their debug effort by at least half\u2014a gain that makes the difference between tapeout and delay. Another noted the platform\u2019s signals algorithm automatically creates the same check groups that experienced users would manually identify, saving not just time but energy.</p><p>Quantitative gains are dramatic. For example, Calibre Vision AI can load and visualize error files significantly faster than traditional debug flows. Figure 3 shows the difference in four different test cases: a results file that took 350 minutes with the traditional flow, took Calibre Vision AI only 31 minutes. In another test case (not shown), it took just five minutes to analyze and cluster 3.2 billion errors from more than 380 rule checks into 17 meaningful groups. Instead of getting lost in gigabytes of error data, designers now spend time solving real problems.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Bar graph comparing traditional flow vs. Vision AI flow times at various nanometer scales.\" class=\"rm-shortcode\" id=\"2f678\" src=\"https://spectrum.ieee.org/media-library/bar-graph-comparing-traditional-flow-vs-vision-ai-flow-times-at-various-nanometer-scales.jpg?id=61784294&amp;width=980\" /> <small class=\"image-media media-caption\">Figure 3. Charting the results load time between the traditional DRC debug flow and the Calibre Vision AI flow.</small><small class=\"image-media media-photo-credit\">Siemens</small></p><h2>Looking ahead: the future of AI in chip design</h2><p><span></span><span>Today\u2019s chips demand more than incremental improvements in EDA software. As the need for speed, quality and collaboration continues to grow, the story of physical verification will be shaped by smarter, more adaptive technologies. With AI-powered DRC analysis, we see a clear path: a faster and more productive way to find systematic issues, intelligent debug, stronger collaboration and the chance for every designer to make an expert impact.</span></p><p>By combining the creativity of engineers with the speed and insight of AI, platforms like <a href=\"https://eda.sw.siemens.com/en-US/ic/calibre-design/interfaces/vision-ai/\" target=\"_blank\">Calibre Vision AI</a> are driving a new productivity curve in full-chip analysis. With these tools, teams don\u2019t just keep up with complexity\u2014they turn it into a competitive advantage.</p><p>At Siemens, the future of chip verification is already taking shape\u2014where intelligence works hand in hand with intuition, and new ideas find their way to silicon faster than ever before. As the industry continues to push boundaries and unlock the next generation of devices, AI will help chip design reach new heights.</p><p><em>For more on Calibre Vision AI and how Siemens is shaping the future of chip design, visit <a href=\"https://eda.sw.siemens.com/en-US/\" target=\"_blank\">eda.sw.siemens.com</a> and search for Calibre Vision AI.</em></p>"
       },
       {
+        "id": "2fbe9c25e745300c",
+        "title": "Be a Force for Good On Giving Tuesday",
+        "url": "https://spectrum.ieee.org/ieee-giving-tuesday-2025",
+        "source": "IEEE Spectrum",
+        "published": "Tue, 11 Nov 2025 19:00:03 +0000",
+        "published_dt": "2025-11-11T19:00:03+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-money-plant-growing-bigger-while-its-being-watered.jpg?id=62145334&amp;width=1245&amp;height=700&amp;coordinates=0%2C300%2C0%2C300\" /><br /><br /><p><a href=\"https://www.givingtuesday.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Giving Tuesday</a>, being held on 2 December this year, is a day globally dedicated to generosity and empowering individuals and organizations to transform people\u2019s lives and communities. For this year\u2019s event, <a href=\"https://www.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE</a> and the <a href=\"https://www.ieeefoundation.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Foundation</a> invite members to <a href=\"https://spectrum.ieee.org/members-donating-to-ieee-foundation\" target=\"_self\">invest</a> in the organization\u2019s charitable programs. The programs aim to inspire the next generation of engineers, provide sustainable energy to those in need, assist in emergency response efforts, and more.</p><p>This Giving Tuesday, members have the opportunity to help amplify the technological breakthroughs and innovative programs that change lives globally.</p><h2>Double your impact</h2><p>The initial US $75,000 donated to the Giving Tuesday campaign will be matched by the IEEE Foundation, dollar for dollar, up to $170,000.</p><p>Donors can direct their gift to the IEEE <a href=\"https://www.ieeefoundation.org/impact/\" rel=\"noopener noreferrer\" target=\"_blank\">program</a> they feel most connected to, or they can choose to direct their donation to the IEEE Foundation for efforts that:</p><ul><li>Illuminate the possibilities of technology to address global challenges.</li><li>Educate the next generation of innovators and engineers.</li><li>Engage a wider audience to appreciate the impact of engineering.</li><li>Energize innovation by celebrating excellence.</li><li>Shape the destiny of the next generation.</li></ul><h2>Help shine a light on your favorite program</h2><p>Donating money is not the only way to make an impact on IEEE\u2019s Giving Tuesday. Here are some other opportunities.</p><ul><li>Become a <a href=\"https://www.ieeefoundation.org/community/?utm_source=institute&amp;utm_medium=publication&amp;utm_campaign=giving+tuesday25\" rel=\"noopener noreferrer\" target=\"_blank\">community fundraiser</a> and help promote your favorite IEEE philanthropic program or the IEEE Foundation to your network by creating a personalized page on the IEEE Foundation website. Once your page is set up, you can share it on your social media profiles and email it to your friends, family, and professional contacts.</li><li>Share, like, and comment on Giving Tuesday posts on <a href=\"https://www.facebook.com/IEEEFoundation\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a> and <a href=\"https://www.linkedin.com/company/ieee-foundation\" rel=\"noopener noreferrer\" target=\"_blank\">LinkedIn</a> leading up to and on the day.</li><li>Post an #Unselfie photo\u2014a picture of yourself accompanied by why you support IEEE\u2019s philanthropic programs\u2014on social media using the hashtags #IEEEFoundation and #IEEEGivingTuesday. The Foundation provides a <a href=\"https://www.ieeefoundation.org/toolkit/?utm_source=institute&amp;utm_medium=publication&amp;utm_campaign=giving+tuesday25\" rel=\"noopener noreferrer\" target=\"_blank\">tool kit</a> with social media templates and fundraising resources on its website.</li></ul><p>For updates, check the IEEE Foundation <a href=\"https://www.ieeefoundation.org/givingtuesday?utm_source=institute&amp;utm_medium=publication&amp;utm_campaign=giving+tuesday25\" rel=\"noopener noreferrer\" target=\"_blank\">Giving Tuesday web page</a> and follow the <a href=\"https://spectrum.ieee.org/ieee-foundation-day\" target=\"_self\">Foundation</a> on <a href=\"https://www.facebook.com/IEEEFoundation\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a> and <a href=\"https://www.linkedin.com/company/ieee-foundation\" rel=\"noopener noreferrer\" target=\"_blank\">LinkedIn</a>.</p><p><em>This article was updated on 11 November 2025.</em></p>"
+      },
+      {
+        "id": "fdf8dd1172ef6467",
+        "title": "The Download: surviving extreme temperatures, and the big whale-wind turbine conspiracy",
+        "url": "https://www.technologyreview.com/2025/11/11/1127866/the-download-surviving-extreme-temperatures-and-the-big-whale-wind-turbine-conspiracy/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 11 Nov 2025 13:10:00 +0000",
+        "published_dt": "2025-11-11T13:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The quest to find out how our bodies react to extreme temperatures Climate change is subjecting vulnerable people to temperatures that push their limits. In 2023, about 47,000 heat-related deaths are believed to&#8230;"
+      },
+      {
         "id": "045ae02639e0f337",
         "title": "The State of AI: Energy is king, and the US is falling behind",
         "url": "https://www.technologyreview.com/2025/11/10/1126805/the-state-of-ai-energy-is-king-and-the-us-is-falling-behind/",
@@ -762,7 +834,7 @@
         "source": "IEEE Spectrum",
         "published": "Mon, 10 Nov 2025 13:00:03 +0000",
         "published_dt": "2025-11-10T13:00:03+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/michael-holmes-speaking-on-stage-to-a-large-conference-audience.jpg?id=62098294&amp;width=1245&amp;height=700&amp;coordinates=0%2C120%2C0%2C120\" /><br /><br /><p>A 1980s-era semiconductor fab in Austin, Texas, is getting a makeover. The Texas Institute for Electronics (<a href=\"https://www.txie.org/\" target=\"_blank\">TIE</a>), as it\u2019s called now, is tooling up to become the only advanced packaging plant in the world that is dedicated to 3D heterogenous integration (3DHI)\u2014the stacking of chips made of multiple materials, both silicon and non-silicon. </p><p>The fab is the infrastructure behind <a href=\"https://www.darpa.mil/research/programs/next-generation-microelectronics\" target=\"_blank\">DARPA\u2019s Next-Generation Microelectronics Manufacturing (NGMM) program</a>. \u201cNGMM is focused on a revolution in microelectronics through 3D heterogeneous integration,\u201d said <a href=\"https://www.darpa.mil/about/people/michael-holmes\" target=\"_blank\">Michael Holmes</a>, managing director of the program. </p><p>Stacking two or more silicon chips inside the same package makes them act as if they are all one integrated circuit. It already powers some of the <a href=\"https://spectrum.ieee.org/amd-mi300\" target=\"_blank\">most advanced processors</a> in the world. But DARPA predicts silicon-on-silicon stacking will result in no more than a 30-fold boost in performance over what\u2019s possible with 2D integration. By contrast, doing it with a mix of materials\u2014<a href=\"https://spectrum.ieee.org/silicon-carbide\" target=\"_blank\">gallium nitride, silicon carbide</a>, and other semiconductors\u2014could deliver a 100-fold boost, Holmes told engineers and other interested parties at the program\u2019s unofficial coming out party, the NGMM Summit, late last month.</p><p>The new fab will make sure these unusual stacked chips are prototyped and manufactured in the United States. Startups, and there were many at the launch event, are looking for a place to prototype and begin manufacturing ideas that are too weird for anywhere else\u2014and hopefully bypassing the<a href=\"https://spectrum.ieee.org/power-electronics\" target=\"_blank\"> lab-to-fab </a>valley of death that claims many hardware startups.</p><p>The state of Texas is contributing $552 million to stand up the fab and its programs, with DARPA contributing the remaining $840 million. After NGMM\u2019s five-year mission is complete, the fab is expected to be a self-sustaining business. \u201cWe are, frankly, a startup,\u201d said TIE CEO <a href=\"https://www.linkedin.com/in/dwayne-labrake-aa19427/\" target=\"_blank\">Dwayne LaBrake</a>. \u201cWe have more runway than a typical startup, but we have to stand on our own.\u201d </p><h2>Starting up a 3DHI Fab</h2><p>Getting to that point will take a lot of work, but the TIE foundry is off to a quick start. On a tour of the facility, <em>IEEE Spectrum</em> saw multiple chip manufacturing and testing tools in various states of installation and met several engineers and technicians who had started within the last three months. TIE expects all the fab\u2019s tools to be in place in the first quarter of 2026.</p><p>Just as important as the tools themselves is the ability of foundry customers to use them in a predictable manufacturing process. That\u2019s something that is particularly difficult to develop, TIE officials explained. At the most basic level, non-silicon wafers are  often not the same size as each other. And they have different mechanical properties, meaning they expand and contract with temperature at different rates. Yet much of the fab\u2019s work will be linking these chips together with micrometer precision.</p><p>The first phase of getting that done is the development of what are called a process design kit and an assembly design kit. The former provides the rules that constrain semiconductor design at the fab. The latter, the assembly design kit, is the real heart of things, because it gives the rules for the <a href=\"https://spectrum.ieee.org/hybrid-bonding\" target=\"_blank\">3D assembly and other advanced packaging</a>.</p><p>Next, TIE will refine those by way of three 3DHI projects, which NGMM is calling exemplars. These are a phased-array radar, an infrared imager called a focal plane array, and a compact power converter. Piloting those through production \u201cgives us an initial roadmap\u2026 an on-ramp into tremendous innovation across a broader application space,\u201d said Holmes.</p><p>These three very different products are emblematic of how the fab will have to operate once it\u2019s up and running. Executives described it as a \u201chigh-mix, low-volume\u201d foundry, meaning it\u2019s going to have to be good at doing many different things, but it\u2019s not going to make a lot of any one thing. </p><p>This is the opposite of most silicon foundries. A high-volume silicon foundry gets to run lots of similar test wafers through its process to work out the bugs. But TIE can\u2019t do that, so instead it\u2019s relying on AI\u2014developed by Austin startup <a href=\"https://sandboxsemiconductor.com/\" target=\"_blank\">Sandbox Semiconductor</a>\u2014to help predict the outcome of tweaks to its processes.</p><p>Along the way, NGMM will provide a number of research opportunities. \u201cWhat we have with NGMM is a very rare opportunity,\u201d said <a href=\"https://ntxsi.utdallas.edu/biography-dr-thoedore-moise/\" target=\"_blank\">Ted Moise</a>, a professor at UT Dallas and an IEEE Fellow. With NGMM, universities are planning to work on new thermal conductivity films, microfluidic cooling technology, understanding failure mechanisms in complex packages, and more.</p><p>\u201cNGMM is a weird program for DARPA,\u201d admitted <a href=\"https://www.darpa.mil/about/people/whitney-mason1\" target=\"_blank\">Whitney Mason</a>, director of the agency\u2019s Microsystems Technology Office. \u201cIt\u2019s not our habit to stand up facilities that do manufacturing.\u201d </p><p>But \u201cKeep Austin Weird\u201d is the city\u2019s unofficial motto, so maybe NGMM and TIE will prove a perfect fit.</p>"
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/michael-holmes-speaking-on-stage-to-a-large-conference-audience.jpg?id=62098294&amp;width=1245&amp;height=700&amp;coordinates=0%2C120%2C0%2C120\" /><br /><br /><p>A 1980s-era semiconductor fab in Austin, Texas, is getting a makeover. The Texas Institute for Electronics (<a href=\"https://www.txie.org/\" target=\"_blank\">TIE</a>), as it\u2019s called now, is tooling up to become the only advanced packaging plant in the world that is dedicated to 3D heterogeneous integration (3DHI)\u2014the stacking of chips made of multiple materials, both silicon and non-silicon. </p><p>The fab is the infrastructure behind <a href=\"https://www.darpa.mil/research/programs/next-generation-microelectronics\" target=\"_blank\">DARPA\u2019s Next-Generation Microelectronics Manufacturing (NGMM) program</a>. \u201cNGMM is focused on a revolution in microelectronics through 3D heterogeneous integration,\u201d said <a href=\"https://www.darpa.mil/about/people/michael-holmes\" target=\"_blank\">Michael Holmes</a>, managing director of the program. </p><p>Stacking two or more silicon chips inside the same package makes them act as if they are all one integrated circuit. It already powers some of the <a href=\"https://spectrum.ieee.org/amd-mi300\" target=\"_blank\">most advanced processors</a> in the world. But DARPA predicts silicon-on-silicon stacking will result in no more than a 30-fold boost in performance over what\u2019s possible with 2D integration. By contrast, doing it with a mix of materials\u2014<a href=\"https://spectrum.ieee.org/silicon-carbide\" target=\"_blank\">gallium nitride, silicon carbide</a>, and other semiconductors\u2014could deliver a 100-fold boost, Holmes told engineers and other interested parties at the program\u2019s unofficial coming out party, the NGMM Summit, late last month.</p><p>The new fab will make sure these unusual stacked chips are prototyped and manufactured in the United States. Startups, and there were many at the launch event, are looking for a place to prototype and begin manufacturing ideas that are too weird for anywhere else\u2014and hopefully bypassing the<a href=\"https://spectrum.ieee.org/power-electronics\" target=\"_blank\"> lab-to-fab </a>valley of death that claims many hardware startups.</p><p>The state of Texas is contributing $552 million to stand up the fab and its programs, with DARPA contributing the remaining $840 million. After NGMM\u2019s five-year mission is complete, the fab is expected to be a self-sustaining business. \u201cWe are, frankly, a startup,\u201d said TIE CEO <a href=\"https://www.linkedin.com/in/dwayne-labrake-aa19427/\" target=\"_blank\">Dwayne LaBrake</a>. \u201cWe have more runway than a typical startup, but we have to stand on our own.\u201d </p><h2>Starting up a 3DHI Fab</h2><p>Getting to that point will take a lot of work, but the TIE foundry is off to a quick start. On a tour of the facility, <em>IEEE Spectrum</em> saw multiple chip manufacturing and testing tools in various states of installation and met several engineers and technicians who had started within the past three months. TIE expects all the fab\u2019s tools to be in place in the first quarter of 2026.</p><p>Just as important as the tools themselves is the ability of foundry customers to use them in a predictable manufacturing process. That\u2019s something that is particularly difficult to develop, TIE officials explained. At the most basic level, non-silicon wafers are  often not the same size as one another, and they have different mechanical properties, meaning they expand and contract with temperature at different rates. Yet much of the fab\u2019s work will be linking these chips together with micrometer precision.</p><p>The first phase of getting that done is the development of what are called a process design kit and an assembly design kit. The former provides the rules that constrain semiconductor design at the fab. The latter, the assembly design kit, is the real heart of things, because it gives the rules for the <a href=\"https://spectrum.ieee.org/hybrid-bonding\" target=\"_blank\">3D assembly and other advanced packaging</a>.</p><p>Next, TIE will refine those by way of three 3DHI projects, which NGMM is calling exemplars. These are a phased-array radar, an infrared imager called a focal plane array, and a compact power converter. Piloting those through production \u201cgives us an initial road map\u2026an on-ramp into tremendous innovation across a broader application space,\u201d said Holmes.</p><p>These three very different products are emblematic of how the fab will have to operate once it\u2019s up and running. Executives described it as a \u201chigh-mix, low-volume\u201d foundry, meaning it\u2019s going to have to be good at doing many different things, but it\u2019s not going to make a lot of any one thing. </p><p>This is the opposite of most silicon foundries. A high-volume silicon foundry gets to run lots of similar test wafers through its process to work out the bugs. But TIE can\u2019t do that, so instead it\u2019s relying on AI\u2014developed by Austin startup <a href=\"https://sandboxsemiconductor.com/\" target=\"_blank\">Sandbox Semiconductor</a>\u2014to help predict the outcome of tweaks to its processes.</p><p>Along the way, NGMM will provide a number of research opportunities. \u201cWhat we have with NGMM is a very rare opportunity,\u201d said <a href=\"https://ntxsi.utdallas.edu/biography-dr-thoedore-moise/\" target=\"_blank\">Ted Moise</a>, a professor at UT Dallas and an IEEE Fellow. With NGMM, universities are planning to work on new thermal conductivity films, microfluidic cooling technology, understanding failure mechanisms in complex packages, and more.</p><p>\u201cNGMM is a weird program for DARPA,\u201d admitted <a href=\"https://www.darpa.mil/about/people/whitney-mason1\" target=\"_blank\">Whitney Mason</a>, director of the agency\u2019s Microsystems Technology Office. \u201cIt\u2019s not our habit to stand up facilities that do manufacturing.\u201d </p><p>But \u201cKeep Austin Weird\u201d is the city\u2019s unofficial motto, so maybe NGMM and TIE will prove a perfect fit.</p>"
       },
       {
         "id": "fd3841272f8141ba",
@@ -771,7 +843,7 @@
         "source": "IEEE Spectrum",
         "published": "Sun, 09 Nov 2025 14:00:02 +0000",
         "published_dt": "2025-11-09T14:00:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/orbital-arc-s-prototype-is-a-small-metal-canister-with-black-and-red-wires-and-a-clamp-with-a-wing-nut.jpg?id=62097074&amp;width=1245&amp;height=700&amp;coordinates=0%2C288%2C0%2C288\" /><br /><br /><p><span>It sounds like a NASA pipe dream: a new spacecraft thruster that\u2019s up to 40 percent more power efficient than today\u2019s. Even better, its fuel costs less than a thousandth as much and weighs an eighth of the mass. A startup called </span><a href=\"https://orbitalarc.com/\" target=\"_blank\">Orbital Arc</a><span> claims it can make such a thruster.</span></p><p>With this design, \u201cwe can go from a thruster that\u2019s about a few inches across and several kilograms to a thruster on a chip that\u2019s about an inch across and has the same thrust output, but weighs about an eighth as much,\u201d the company\u2019s founder, <a href=\"https://orbitalarc.com/about-us/\" target=\"_blank\">Jonathan Huffman</a>, says.</p><p>According to Orbital Arc the hardware would be small enough to fit on the smallest low-earth orbit satellites but generate enough power for an interplanetary mission. Such inexpensive thrust could bring meaningful savings for <a href=\"https://spectrum.ieee.org/kessler-syndrome-space-debris\" target=\"_self\">satellite operators hoping to dodge debris</a>, or mission operators aiming to send probes to distant planets.</p><p>The key to these innovations is a combination of cheap, readily available fuel, MEMS microfabrication, and a strong love of sci-fi.</p><h2>Designing a Better Thruster </h2><p>Thrusters generally work by creating and then expelling a plasma, pushing a spacecraft in the opposite direction. Inside ever-popular <a href=\"https://spectrum.ieee.org/hall-effect-sensor\" target=\"_self\">Hall thrusters</a>, a magnetic field traps electrons in a tight, circular orbit. A noble gas\u2014commonly xenon\u2014drifts into a narrow channel where it collides with the circulating charge knocking off electrons and ionizing it into <a href=\"https://spectrum.ieee.org/amp/kessler-syndrome-plasma-thruster-deorbit-2673981482\" target=\"_self\">plasma</a>. A high-voltage electric field then rockets the plasma out the exhaust. </p><p>Orbital Arc\u2019s technology looks a bit different and came about almost coincidentally. Huffman was a biotech consultant and self-described \u201csci-fi nerd\u201d who, in his spare time, had been commissioned to design fictitious technology for a futuristic video game. He had to figure out how aircraft might maneuver 250 years from now to make the game controls realistic, and so he started researching state-of-the-art propulsion systems. </p><p>He quickly came to understand a limitation of existing ion thrusters he thought could be improved upon within the coming centuries, and (spoiler alert) possibly sooner: if a mission requires more thrust, its thruster needs to be heavier. But crucially, \u201cthere\u2019s a certain point at which adding more mass to the thruster negates all of the benefits you can get from extra thrust,\u201d he says. So, to retain those benefits, thrusters need to be small but mighty. </p><p>Huffman\u2019s familiarity with biology labs gave him an unexpected edge when it came to propulsion design. Through his job, he learned about nanoscale tips\u2014nozzles that emit ions\u2014used to generate intense electromagnetic fields for biomedical research. They\u2019re found in mass spectrometers, instruments that identify unknown chemicals by converting them into ions, accelerating them, and watching how they fly.</p><p>He suspected that such a system could be miniaturized even more to make the ionization process in a thruster. After a year and a half of developing the concept, Huffman was convinced that his idea for a small thruster had potential beyond a video game. </p><p>And he was right. Each Orbital Arc thruster has a chip at its heart with millions of micrometer-scale, positively charged tips embedded in it and channels to direct gas flow\u2014naphthalene flows in, and ions flow out. </p><p>As naphthalene molecules pass the charged tips, the molecules<strong> </strong>become polarized\u2014here, that means a molecule\u2019s electrons bunch up on one of its sides. Because of the uneven field created by the charge, the molecules get dragged towards a tip and are then trapped there, unable to escape until they release electrons. </p><p>Once they release electrons, \u201cyou have an ion that\u2019s at the point of a really sharp positively charged object, and it itself is now positively charged. So it accelerates,\u201d Huffman explains. The repelled ions fly by and spray out into space, propelling the spacecraft forward.</p><p>An advantage of this design is the power savings that come from avoiding the internal plasma generation that other thrusters rely on, Huffman says. \u201cPlasmas have losses because everything\u2019s in a big soup mixed together,\u201d Huffman explains. Free electrons in a plasma can recombine with ions to produce neutral atoms \u201cand now I\u2019ve lost the energy that I put in to make that charged particle. It\u2019s a waste of power.\u201d Recent calculations show the naphthalene nanotip thruster providing a 30 to 40 percent improvement in power efficiency, he claims.</p><p>By avoiding plasmas all together, the Orbital Arc design is able to capitalize on the power savings, as shown in a recent demonstration. In a recent test, just six of Orbital Arc\u2019s tips were able to generate about three times more ion current than an array of 320,000 tips from a group from MIT, Huffman says.</p><p>Two and a half years after his \u201caha\u201d moment (and after \u201cbuilding the whole darn thing in Excel\u201d), Huffman is the CEO of Orbital Arc, a startup testing four working prototypes of its tiny tips-on-chips. </p><p>The thruster is not only innovative for its size, but also for its fuel. Naphthalene\u2014the main ingredient of <a href=\"https://en.wikipedia.org/wiki/Mothball\" target=\"_blank\">mothballs</a>\u2014is a readily available byproduct of oil refineries. The compound may smell bad, but it\u2019s safe to handle and extremely cheap, Huffman says, costing around US $1.50 per kilogram compared to some $3,000 per kilogram for xenon.</p><p>Orbital Arc\u2019s use of naphthalene aids in their shrinking of product costs, which the company claims is at one percent of traditional Hall thrusters. \u201cI think that\u2019s believable,\u201d says <a href=\"https://alfven.princeton.edu/about/personnel/jonathan_macarthur/\" rel=\"noopener noreferrer\" target=\"_blank\">Jonathan MacArthur</a>, a postdoctoral researcher at Princeton University\u2019s Electric Propulsion and Plasma Dynamics Laboratory. \u201cWhat remains to be seen is, okay, it\u2019s cheap, but if I put diesel in my gas car because it\u2019s on sale, that doesn\u2019t necessarily bode well for the engine in my car.\u201d He wishes the startup would release data to back up their cost claims\u2014and while they\u2019re at it, data to back up performance claims, as well.</p><h2>From Prototype to Flight</h2><p>For now, in the prototype stage, each chip contains only six tips, fabricated using MEMS manufacturing processes in a cleanroom at Oak Ridge National Laboratory. But the next step is to manufacture a full-scale version of the chip in a university lab, Huffman says.</p><p>Then, the company will need to build the thruster that goes around the chip. \u201cThat\u2019s a relatively simple device. It\u2019s a valve, it\u2019s a few wires, it\u2019s a few structural components. Very, very straightforward,\u201d Huffman claims. He says he\u2019ll need to integrate all of those parts before running through vibration testing, radiation testing, thermal cycling, and other steps on the way to achieve flight qualification. \u201cTwo years from now, I can have a product that is sellable, probably.\u201d</p><p>Huffman thinks Orbital Arc\u2019s initial customers would be small teams, like startups or research groups. He\u2019s confident that they\u2019ll be willing to try the new thrusters, despite the risks inherent to new technologies, because of the expected performance at low cost. \u201cSo some folks just won\u2019t have any choice but to buy it, even if it hasn\u2019t flown before. If they want to do the mission, they\u2019re going to take the risk,\u201d he says.</p><p>Princeton\u2019s MacArthur is skeptical of that claim. \u201cWhen you\u2019re choosing a propulsion system, generally data and heritage is everything.\u201d He\u2019s not so sure that customers will be willing to take on the risk of a new thruster without a history of flight. </p><p>Still, some CubeSat-scale missions may agree to use new thrusters at a discount, suggests <a href=\"https://aero.engin.umich.edu/people/jia-richards-oliver/\" rel=\"noopener noreferrer\" target=\"_blank\">Oliver Jia-Richards</a>, who studies in-space propulsion at the University of Michigan. Customers may also be willing to take a chance on Orbital Arc because other startups, like <a href=\"https://www.enpulsion.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Enpulsion</a>, have been recently successful with their new electric propulsion technology, he says. But \u201cwith this kind of thing, there\u2019s always risks.\u201d</p><p>After targeting small missions, Huffman wants to \u201cbuild something where we show off a bit.\u201d He notes that, as of yet, no satellite has completed a round trip to the moon after a year in Earth\u2019s orbit without refueling. It\u2019s funding dependent and there may be more attractive opportunities that come up, \u201cso we\u2019ll see,\u201d he says.</p><p>And he\u2019s not stopping there. \u201cWe are tapping into a mathematical reality,\u201d Huffman says. \u201cIf you cut dry mass off of spacecraft, you gain exponential benefits in its performance because of the way the rocket equation works. You get exponentially penalized for extra dry mass.\u201d </p><p>By integrating Orbital Arc\u2019s thrusters, he says, a mission could cut solar panel and power supply mass because it drive is more power efficient, cut tank mass because naphthalene doesn\u2019t require a pressure vessel unlike xenon, and cut thruster mass itself. With these savings, \u201cyou go from flying one-way science missions to Mars to flying two-way human rated missions to Jupiter without refueling,\u201d Huffman claims.</p><p>So while the thruster is Orbital Arc\u2019s first step, Huffman envisions an ultra-light spacecraft bus next\u2014arriving long before the far-future era of the video game that inspired it.</p>"
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/orbital-arc-s-prototype-is-a-small-metal-canister-with-black-and-red-wires-and-a-clamp-with-a-wing-nut.jpg?id=62097074&amp;width=1245&amp;height=700&amp;coordinates=0%2C288%2C0%2C288\" /><br /><br /><p><span>It sounds like a NASA pipe dream: a new spacecraft thruster that\u2019s up to 40 percent more power-efficient than today\u2019s. Even better, its fuel costs less than a thousandth as much and weighs an eighth of the mass. A startup called </span><a href=\"https://orbitalarc.com/\" target=\"_blank\">Orbital Arc</a><span> claims it can make such a thruster.</span></p><p>With this design, \u201cwe can go from a thruster that\u2019s about a few inches across and several kilograms to a thruster on a chip that\u2019s about an inch across and has the same thrust output, but weighs about an eighth as much,\u201d the company\u2019s founder, <a href=\"https://orbitalarc.com/about-us/\" target=\"_blank\">Jonathan Huffman</a>, says.</p><p>According to Orbital Arc, the hardware would be small enough to fit on the smallest low Earth orbit satellites but generate enough power for an interplanetary mission. Such inexpensive thrust could bring meaningful savings for <a href=\"https://spectrum.ieee.org/kessler-syndrome-space-debris\" target=\"_self\">satellite operators hoping to dodge debris</a> or mission operators aiming to send probes to distant planets.</p><p>The key to these innovations is a combination of cheap, readily available fuel, MEMS microfabrication, and a strong love of sci-fi.</p><h2>Designing a Better Thruster </h2><p>Thrusters generally work by creating and then expelling a plasma, pushing a spacecraft in the opposite direction. Inside ever-popular <a href=\"https://spectrum.ieee.org/hall-effect-sensor\" target=\"_self\">Hall thrusters</a>, a magnetic field traps electrons in a tight, circular orbit. A noble gas\u2014commonly xenon\u2014drifts into a narrow channel where it collides with the circulating charge knocking off electrons and ionizing it into <a href=\"https://spectrum.ieee.org/amp/kessler-syndrome-plasma-thruster-deorbit-2673981482\" target=\"_self\">plasma</a>. A high-voltage electric field then rockets the plasma out the exhaust. </p><p>Orbital Arc\u2019s technology looks a bit different and came about almost coincidentally. Huffman was a biotech consultant and self-described \u201csci-fi nerd\u201d who, in his spare time, had been commissioned to design fictitious technology for a futuristic video game. He had to figure out how spacecraft might maneuver 250 years from now to make the game controls realistic, so he started researching state-of-the-art propulsion systems. </p><p>He quickly came to understand a limitation of existing ion thrusters he thought could be improved upon within the coming centuries and (spoiler alert) possibly sooner: If a mission requires more thrust, its thruster needs to be heavier. But crucially, \u201cthere\u2019s a certain point at which adding more mass to the thruster negates all of the benefits you can get from extra thrust,\u201d he says. So, to retain those benefits, thrusters need to be small but mighty. </p><p>Huffman\u2019s familiarity with biology labs gave him an unexpected edge when it came to propulsion design. Through his job, he learned about nanoscale tips that emit ions used to generate intense electromagnetic fields for biomedical research. They\u2019re found in mass spectrometers, instruments that identify unknown chemicals by converting them into ions, accelerating them, and watching how they fly.</p><p>He suspected that such a system could be miniaturized even more to make the ionization process in a thruster. After a year and a half of developing the concept, Huffman was convinced that his idea for a small thruster had potential beyond a video game. </p><p>And he was right. Each Orbital Arc thruster has a chip at its heart with millions of micrometer-scale, positively charged tips embedded in it and channels to direct gas flow\u2014naphthalene flows in, and ions flow out. </p><p>As naphthalene molecules pass the charged tips, the molecules<strong> </strong>become polarized\u2014here, that means a molecule\u2019s electrons bunch up on one of its sides. Because of the uneven field created by the charge, the molecules get dragged toward a tip and are then trapped there, unable to escape until they release electrons. </p><p>Once they release electrons, \u201cyou have an ion that\u2019s at the point of a really sharp positively charged object, and it itself is now positively charged. So it accelerates,\u201d Huffman explains. The repelled ions fly by and spray out into space, propelling the spacecraft forward.</p><p>An advantage of this design is the power savings that come from avoiding the internal plasma generation that other thrusters rely on, Huffman says. \u201cPlasmas have losses because everything\u2019s in a big soup mixed together,\u201d Huffman explains. Free electrons in a plasma can recombine with ions to produce neutral atoms \u201cand now I\u2019ve lost the energy that I put in to make that charged particle. It\u2019s a waste of power.\u201d Recent calculations show the naphthalene nanotip thruster providing a 30 to 40 percent improvement in power efficiency, he claims.</p><p>A recent demonstration showed that the Orbital Arc design is not only able to capitalize on the power savings of avoiding plasmas all together, but also outperforms other designs using similar technology. In a recent test, just six of Orbital Arc\u2019s tips were able to generate about three times more ion current than an array of 320,000 tips from a group from MIT, Huffman says.</p><p>Two and a half years after his \u201caha\u201d moment (and after \u201cbuilding the whole darn thing in Excel\u201d), Huffman is the CEO of Orbital Arc, a startup testing four working prototypes of its tiny tips-on-chips. </p><p>The thruster is not only innovative for its size, but also for its fuel. Naphthalene\u2014the main ingredient in <a href=\"https://en.wikipedia.org/wiki/Mothball\" target=\"_blank\">mothballs</a>\u2014is a readily available byproduct of oil refineries. The compound may smell bad, but it\u2019s safe to handle and extremely cheap, Huffman says, costing around US $1.50 per kilogram compared to some $3,000 per kilogram for xenon.</p><p>Orbital Arc\u2019s use of naphthalene aids in their shrinking of product costs, which the company claims is at 25 to 33 percent of traditional Hall thrusters. \u201cI think that\u2019s believable,\u201d says <a href=\"https://alfven.princeton.edu/about/personnel/jonathan_macarthur/\" target=\"_blank\">Jonathan MacArthur</a>, a postdoctoral researcher at Princeton University\u2019s Electric Propulsion and Plasma Dynamics Laboratory. \u201cWhat remains to be seen is, okay, it\u2019s cheap, but if I put diesel in my gas car because it\u2019s on sale, that doesn\u2019t necessarily bode well for the engine in my car.\u201d He wishes the startup would release data to back up their cost claims\u2014and while they\u2019re at it, data to back up performance claims, as well.</p><h2>From Prototype to Flight</h2><p>For now, in the prototype stage, each chip contains only six tips, fabricated using MEMS manufacturing processes in a cleanroom at Oak Ridge National Laboratory. But the next step is to manufacture a full-scale version of the chip in a university lab, Huffman says.</p><p>Then, the company will need to build the thruster that goes around the chip. \u201cThat\u2019s a relatively simple device. It\u2019s a valve, it\u2019s a few wires, it\u2019s a few structural components. Very, very straightforward,\u201d Huffman claims. He says he\u2019ll need to integrate all of those parts before running through vibration testing, radiation testing, thermal cycling, and other steps on the way to achieve flight qualification. \u201cTwo years from now, I can have a product that is sellable, probably.\u201d</p><p>Huffman thinks Orbital Arc\u2019s initial customers would be small teams, like startups or research groups. He\u2019s confident that they\u2019ll be willing to try the new thrusters, despite the risks inherent to new technologies, because of the expected performance at low cost. \u201cSo some folks just won\u2019t have any choice but to buy it, even if it hasn\u2019t flown before. If they want to do the mission, they\u2019re going to take the risk,\u201d he says.</p><p>Princeton\u2019s MacArthur is skeptical of that claim. \u201cWhen you\u2019re choosing a propulsion system, generally data and heritage is everything.\u201d He\u2019s not so sure that customers will be willing to take on the risk of a new thruster without a history of flight. </p><p>Still, some CubeSat-scale missions may agree to use new thrusters at a discount, suggests <a href=\"https://aero.engin.umich.edu/people/jia-richards-oliver/\" target=\"_blank\">Oliver Jia-Richards</a>, who studies in-space propulsion at the University of Michigan. Customers may also be willing to take a chance on Orbital Arc because other startups, like <a href=\"https://www.enpulsion.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Enpulsion</a>, have been recently successful with their new electric propulsion technology, he says. But \u201cwith this kind of thing, there\u2019s always risks.\u201d</p><p>After targeting small missions, Huffman wants to \u201cbuild something where we show off a bit.\u201d He notes that, as of yet, no satellite has completed a round trip to the moon after a year in Earth\u2019s orbit without refueling. It\u2019s funding dependent and there may be more attractive opportunities that come up, \u201cso we\u2019ll see,\u201d he says.</p><p>And he\u2019s not stopping there. \u201cWe are tapping into a mathematical reality,\u201d Huffman says. \u201cIf you cut dry mass off of spacecraft, you gain exponential benefits in its performance because of the way the rocket equation works. You get exponentially penalized for extra dry mass.\u201d </p><p>By integrating Orbital Arc\u2019s thrusters, he says, a mission could cut solar panel and power supply mass because its drive is more power efficient, cut tank mass because naphthalene doesn\u2019t require a pressure vessel unlike xenon, and cut thruster mass itself. With these savings, \u201cyou go from flying one-way science missions to Mars to flying two-way human-rated missions to Jupiter without refueling,\u201d Huffman claims.</p><p>So while the thruster is Orbital Arc\u2019s first step, Huffman envisions an ultralight spacecraft bus next\u2014arriving long before the far-future era of the video game that inspired it.</p><p><em>This post was corrected on 11 November 2025 to indicate the proper cost savings of the new technology.</em><br /></p>"
       },
       {
         "id": "0317f0b7d5ac7da1",
@@ -835,33 +907,6 @@
         "published": "Thu, 06 Nov 2025 11:00:00 +0000",
         "published_dt": "2025-11-06T11:00:00+00:00",
         "summary": "Picture it: I\u2019m minding my business at a party, parked by the snack table (of course). A friend of a friend wanders up, and we strike up a conversation. It quickly turns to work, and upon learning that I\u2019m a climate technology reporter, my new acquaintance says something like: \u201cShould I be using AI? I\u2019ve&#8230;"
-      },
-      {
-        "id": "55229a23694605d0",
-        "title": "A new ion-based quantum computer makes error correction simpler",
-        "url": "https://www.technologyreview.com/2025/11/05/1127659/a-new-ion-based-quantum-computer-makes-error-correction-simpler/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 05 Nov 2025 21:43:02 +0000",
-        "published_dt": "2025-11-05T21:43:02+00:00",
-        "summary": "The US- and UK-based company Quantinuum today unveiled Helios, its third-generation quantum computer, which includes expanded computing power and error correction capability.&#160; Like all other existing quantum computers, Helios is not powerful enough to execute the industry\u2019s dream money-making algorithms, such as those that would be useful for materials discovery or financial modeling. But Quantinuum\u2019s&#8230;"
-      },
-      {
-        "id": "3792aca47c44cdbf",
-        "title": "Discover\u2019s Data Manager Helps Foil Credit Card Fraudsters",
-        "url": "https://spectrum.ieee.org/discover-manager-credit-card-fraud",
-        "source": "IEEE Spectrum",
-        "published": "Wed, 05 Nov 2025 19:00:03 +0000",
-        "published_dt": "2025-11-05T19:00:03+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/pankaj-gupta-slightly-smiling-while-seated-at-his-desk-in-a-suit-jacket.jpg?id=62063107&amp;width=1245&amp;height=700&amp;coordinates=0%2C300%2C0%2C301\" /><br /><br /><p>Have you received a notification from your bank or credit card company alerting you to suspicious activity on your account and requesting you confirm a purchase? You probably wondered how the bank suspected the charge wasn\u2019t legitimate.</p><p>Credit card companies use a variety of methods to detect fraud, which is the <a href=\"https://www.experian.com/blogs/ask-experian/how-common-is-credit-card-fraud/\" rel=\"noopener noreferrer\" target=\"_blank\">most common type of identity theft</a> and is on the rise, according to <a href=\"https://www.experian.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Experian</a>, one of the major consumer credit information services.</p><h3>Pankaj Gupta</h3><br /><p><strong>Employer </strong></p><p><strong></strong>Discover, in Raleigh, N.C.</p><p><strong>Title </strong></p><p><strong></strong>Data engineering manager</p><p><strong>Member grade </strong></p><p><strong></strong>Senior member</p><p><strong>Alma mater </strong></p><p><strong></strong>Christian College of Engineering and Technology, in Bhilai, India</p><p>To help prevent unauthorized transactions, IEEE Senior Member <a href=\"https://www.linkedin.com/in/pankaj-gupta-discover/\" rel=\"noopener noreferrer\" target=\"_blank\">Pankaj Gupta</a> is developing tools using data integration, <a href=\"https://spectrum.ieee.org/topic/artificial-intelligence/\" target=\"_self\">artificial intelligence</a>, machine learning, and real-time account monitoring. Gupta is a manager of data and analytics engineering for Discover, and he works from Raleigh, N.C.</p><p>\u201cThe innovations my fraud department has developed have helped my organization respond to threats faster and adapt more easily to future needs,\u201d he says.</p><p>This year, he received Discover\u2019s <a href=\"https://www.linkedin.com/posts/pankaj-gupta-discover_im-truly-honored-to-receive-the-2025-presidents-activity-7316862305072279553-vNZc/\" rel=\"noopener noreferrer\" target=\"_blank\">President\u2019s Award</a>, the company\u2019s highest employee recognition. It is given to those who have achieved outstanding business results while demonstrating the company\u2019s values.</p><p>Gupta also became an invited member of the<a href=\"https://councils.forbes.com/profile/Pankaj-Gupta-Manager-Data-Engineering-Discover-Financial-services/e4b1ce85-390f-4966-ac88-e03bb40cdae9\" rel=\"noopener noreferrer\" target=\"_blank\"> Forbes Technology Council</a>, a community of experienced leaders across industries, selected based on their professional achievements and leadership experience.</p><p>He says he enjoys his job but says he never meant to work in financial services, a field where he has built a nearly two-decade-long career.</p><h2>From electrical engineering to software development</h2><p>As a youngster, he was curious about how things worked and would take apart gadgets his father brought home.</p><p>\u201cMy father worked at <a href=\"https://www.bsnl.co.in\" rel=\"noopener noreferrer\" target=\"_blank\">BSNL</a>, a government telecom organization, and often took me to his office,\u201d Gupta says. \u201cThere I would watch phones in operation and telecom operators connecting trunk calls. At home, we even had a few old, nonfunctional phones lying around.\u201d</p><p>While at school, he enjoyed participating in science and math olympiads and exhibitions, he says.</p><p>Taking note of his curiosity and his problem-solving skills, his teachers encouraged him to study engineering. He was most interested in learning electrical engineering because of his interest in the power substations that he and his father checked out.</p><p>\u201cGrowing up in a small town [Dongargarh, which is famous for the <a href=\"https://en.wikipedia.org/wiki/Bambleshwari_Temple\" rel=\"noopener noreferrer\" target=\"_blank\">Bamleshwari Temple</a>, a popular Hindu pilgrimage site], I saw how technology could help solve problems and make life better for people,\u201d he says.</p><p>He also became fascinated by the nearby steel factory\u2019s massive machines, its chimneys, and the constant activity around them, he says.</p><p>\u201cI noticed how everything seemed to work together in a coordinated way. Seeing such complex engineering in action at such a young age planted the seed of my interest in technology,\u201d he says. \u201cThis exposure inspired me to pursue electrical engineering as a career.\u201d</p><p>In 2002 he enrolled in the EE program at the <a href=\"https://ccetbhilai.ac.in/\" rel=\"noopener noreferrer\" target=\"_blank\">Christian College of Engineering and Technology</a>, in Bhilai, India, a 180-minute commute each way by train. He left at 5 a.m. and returned at 6:30 p.m. During his senior year, his family began struggling financially, he says, so his priority was to find a job immediately after graduating to support them.</p><p>In India, universities hold placement events on campus to recruit graduating students. Gupta says he was lucky enough to receive a job offer from the Indian IT company <a href=\"https://en.wikipedia.org/wiki/Mahindra_Satyam\" rel=\"noopener noreferrer\" target=\"_blank\">Satyam Computer Services</a>, which is now defunct. He started there in 2006 after earning his bachelor\u2019s degree in engineering and electrical engineering. Satyam assigned him to work on a software program for a financial services company.</p><p>That\u2019s when he pivoted to <a href=\"https://spectrum.ieee.org/vibe-coding\" target=\"_blank\">software engineering</a>.</p><p>Gupta says that although software development wasn\u2019t his preferred career path, it enabled him to support himself and his parents.</p><p>He still has a soft spot for electrical engineering, he says, but he hasn\u2019t changed fields or industries for the past 18 years.</p><p>His time at a variety of financial institutions has allowed him to travel the world to work in other countries including Germany and the United Kingdom, he says. The United States is the fourth country where he has worked.</p><p>\u201cIt\u2019s been an exciting journey, learning about different work cultures and technologies,\u201d he says.</p><h2>Using AI and machine learning to combat fraud</h2><p>Gupta left Satyam in 2011 to join <a href=\"https://www.mphasis.com/home.html\" rel=\"noopener noreferrer\" target=\"_blank\">Mphasis</a>, an IT solutions company in Bangalore, India, as a senior software developer focused on extracting, transforming, and loading (ETL) data. After a year, he left for <a href=\"https://www.wipro.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Wipro Technologies</a> in Bengaluru. As a technical lead, he was assigned as a consultant for Capital One in Bangalore in an offshore development center. He led a team of 10 employees working on data integration projects including generic frameworks.</p><p>He moved to the United States in 2017 to work as an associate vice president at <a href=\"https://www.jpmorganchase.com/\" rel=\"noopener noreferrer\" target=\"_blank\">JPMorgan Chase</a> in Jersey City, N.J. He helped create a world-class analytics platform and modernize the bank\u2019s reporting systems. He also worked on systems that use a zero-trust security approach, which he describes as one whereby banks do not automatically trust any user or system. Instead, they verify every transaction.</p><p>\u201cThis greatly reduces the risk of fraud or unauthorized access,\u201d he says.</p><p>He also developed scalable data partitioning techniques that organize and split large volumes of information into more manageable pieces.</p><p class=\"pull-quote\"><span>\u201cI believe that as AI advances, other innovations will evolve.\u201d</span></p><p>\u201cThis allows the system to process data more quickly, handle growth without slowing down, and support real-time decision-making,\u201d he says. \u201cThese innovations have helped my organization respond to threats faster.\u201d</p><p>He joined Discover in 2019 and has worked his way up from principal data engineer for the data and analytics group to manager of data engineering. He developed AI-enhanced data pipelines to train models in making real-time, automated decisions.</p><p>AI and machine learning systems can prevent fraudulent transactions by collecting information about a customer\u2019s typical financial habits over time, such as whether banking is done online or through an app, the time of day transactions occur, and the typical amount paid to creditors. The system is then trained to look for anomalies.</p><p>In simple terms, the system assigns a risk score to each transaction, usually on a scale based on patterns it has learned, Gupta says. If the score crosses a certain threshold, the bank might take preventive action. If, for instance, there is an unusual purchase in a location far from where the customer lives, the bank will send the customer a message, looking to verify whether the transaction is legitimate. If the customer does not recognize the purchase, the bank blocks the transaction.</p><h2>Staying connected to tech pros</h2><p>Gupta joined IEEE in 2023 \u201cto connect with a global network of technology professionals, and to stay updated in the latest advancements in engineering and computing,\u201d he says. He was elevated to senior member later that year.</p><p>\u201cMembership has helped me access world-class research through the <a href=\"https://ieeexplore.ieee.org/document/6461145\" target=\"_blank\">IEEE Xplore Digital Library</a>,\u201d he says. \u201cIt also provided me an opportunity to attend <a href=\"https://www.ieee.org/conferences-events\" target=\"_blank\">conferences</a> and share my expertise with the wider engineering community.\u201d</p><h2>AI\u2019s impact on engineering</h2><p>His advice for young engineers is to stay curious and keep learning.</p><p>\u201cTechnology is changing very rapidly,\u201d he says. \u201cWhat is working right now might change in six months, so adaptability is your biggest strength.\u201d</p><p>He predicts that AI agents will eventually take over repetitive tasks such as those related to automation, coding, and programming. Where engineers will be most needed, he says, is building AI models and training them.</p><p>\u201cEngineers will find significant opportunities for growth in these areas,\u201d he says. \u201cI believe that as AI advances, other innovations will evolve.</p><p>\u201cFocus on solving real problems, not just building solutions for their own sake.</p><p>\u201cBuild your professional network and seek mentors who can guide you through both technical and career challenges.\u201d</p>"
-      },
-      {
-        "id": "adcaa6d72e2729a5",
-        "title": "The Download: the solar geoengineering race, and future gazing with the The Simpsons",
-        "url": "https://www.technologyreview.com/2025/11/05/1127627/the-download-the-solar-geoengineering-race-and-future-gazing-with-the-the-simpsons/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 05 Nov 2025 13:13:26 +0000",
-        "published_dt": "2025-11-05T13:13:26+00:00",
-        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why the for-profit race into solar geoengineering is bad for science and public trust \u2014David Keith is the professor of geophysical sciences at the University of Chicago and Daniele Visioni is an assistant&#8230;"
       }
     ]
   }
