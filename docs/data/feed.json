@@ -1,7 +1,70 @@
 {
-  "generated_at": "2025-11-16T12:46:45.533131+00:00",
+  "generated_at": "2025-11-17T12:53:34.206972+00:00",
   "categories": {
     "Biotech": [
+      {
+        "id": "7bd666624e172872",
+        "title": "STAT+: Nuvalent sees success for its second genetically targeted lung cancer drug",
+        "url": "https://www.statnews.com/2025/11/17/nuvalent-alk-lung-cancer-drug-neladalkib-succeeds/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 17 Nov 2025 11:30:00 +0000",
+        "published_dt": "2025-11-17T11:30:00+00:00",
+        "summary": "Nuvalent said its drug for ALK+ lung cancer shrank tumors in more than a quarter of patients whose disease had returned after trying other targeted medicines"
+      },
+      {
+        "id": "dfabfd64a675c89f",
+        "title": "What is the chance your plane will be hit by space debris?",
+        "url": "https://www.technologyreview.com/2025/11/17/1127980/what-is-the-chance-your-plane-will-be-hit-by-space-debris/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 17 Nov 2025 10:00:00 +0000",
+        "published_dt": "2025-11-17T10:00:00+00:00",
+        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. In mid-October, a mysterious object cracked the windshield of a packed Boeing 737 cruising at 36,000 feet above Utah, forcing the pilots into an emergency landing.&#8230;"
+      },
+      {
+        "id": "0527a953cb83fe1d",
+        "title": "Brain organoid pioneers fear inflated claims about biocomputing could backfire",
+        "url": "https://www.statnews.com/2025/11/17/brain-organoid-pioneers-fear-backlash-over-biocomputing/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 17 Nov 2025 09:30:00 +0000",
+        "published_dt": "2025-11-17T09:30:00+00:00",
+        "summary": "Despite widespread skepticism, the National Science Foundation and DARPA have invested millions of dollars in organoid-based biocomputing"
+      },
+      {
+        "id": "2c06338aa9a42315",
+        "title": "Opinion: STAT+: Sanofi CEO: How we\u2019re measuring AI success",
+        "url": "https://www.statnews.com/2025/11/17/roai-return-investment-ai-sanofi-paul-hudson/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 17 Nov 2025 09:30:00 +0000",
+        "published_dt": "2025-11-17T09:30:00+00:00",
+        "summary": "\u201cROAI isn't about flashy demos or model size. It's about measurable improvements,\u201d writes Sanofi CEO Paul Hudson."
+      },
+      {
+        "id": "41d8c8a94c2f6cc5",
+        "title": "STAT+: China\u2019s WuXi AppTec, after evading threat of U.S. restrictions, comes out ahead",
+        "url": "https://www.statnews.com/2025/11/17/wuxi-apptec-dodges-sanctions-sales-soar/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 17 Nov 2025 09:30:00 +0000",
+        "published_dt": "2025-11-17T09:30:00+00:00",
+        "summary": "WuXi AppTec, the Chinese pharma giant with extensive ties with U.S. companies, appears to be thriving now that the threat of U.S. restrictions has dissipated."
+      },
+      {
+        "id": "41daee8fc8758c2d",
+        "title": "Opinion: How emotions affect health care coverage decisions",
+        "url": "https://www.statnews.com/2025/11/17/health-coverage-affective-science-emotions-decisions/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 17 Nov 2025 09:30:00 +0000",
+        "published_dt": "2025-11-17T09:30:00+00:00",
+        "summary": "Where logic and reason fail us, emotion takes over \u2014 including in choosing health care coverage."
+      },
+      {
+        "id": "8cdcdf3e23d41ebd",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/nuvalent-shares-lung-cancer-data-sparking-race-fda-would-be-pfizer-rival\" hreflang=\"en\">Nuvalent shares lung cancer data, sparking race to FDA for would-be Pfizer rival</a>",
+        "url": "https://www.fiercebiotech.com/biotech/nuvalent-shares-lung-cancer-data-sparking-race-fda-would-be-pfizer-rival",
+        "source": "Fierce Biotech",
+        "published": "Nov 17, 2025 5:53am",
+        "published_dt": "2025-11-17T05:53:00+00:00",
+        "summary": "Nuvalent has reported phase 1/2 lung cancer data, teeing the biotech up to talk to the FDA about an approval filing that could establish its neladalkib as a challenger to Pfizer\u2019s Lorbrena."
+      },
       {
         "id": "09a0f0a6ddb9cb09",
         "title": "Opinion: Celebrating a new, faster path to gene-editing medicines on demand",
@@ -12,15 +75,6 @@
         "summary": "The FDA\u2019s Marty Makary and Vinay Prasad have laid out a path for CRISPR treatments on demand. An expert weighs in on what it would mean for families."
       },
       {
-        "id": "236424705f1d000d",
-        "title": "STAT+: Kura Oncology secures approval for leukemia drug, its first",
-        "url": "https://www.statnews.com/2025/11/13/kura-oncology-leukemia-komzifti/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 13 Nov 2025 16:35:41 +0000",
-        "published_dt": "2025-11-13T16:35:41+00:00",
-        "summary": "The FDA approved a drug made by Kura Oncology to treat patients with a certain type of genetically altered leukemia."
-      },
-      {
         "id": "cd452e97a5152134",
         "title": "<a href=\"https://www.fiercebiotech.com/medtech/promega-msi-tech-wins-fda-approval-companion-diagnostic-keytruda-lenvima-combo-uterine\" hreflang=\"en\">Promega wins FDA approval as companion diagnostic for Keytruda-Lenvima combo in uterine cancer</a>",
         "url": "https://www.fiercebiotech.com/medtech/promega-msi-tech-wins-fda-approval-companion-diagnostic-keytruda-lenvima-combo-uterine",
@@ -28,15 +82,6 @@
         "published": "Nov 13, 2025 2:56am",
         "published_dt": "2025-11-13T02:56:00+00:00",
         "summary": "Promega has scored an FDA green light for its microsatellite instability testing technology as a companion diagnostic for Merck and Eisai\u2019s Keytruda-Lenvima combination for patients with advanced endometrial carcinoma."
-      },
-      {
-        "id": "5cc06c002fcc3fe6",
-        "title": "<a href=\"https://www.fiercebiotech.com/cro/bms-boosts-cancer-trials-sarah-cannons-clinical-research-platform\" hreflang=\"en\">BMS boosts cancer trials with Sarah Cannon's clinical research platform</a>",
-        "url": "https://www.fiercebiotech.com/cro/bms-boosts-cancer-trials-sarah-cannons-clinical-research-platform",
-        "source": "Fierce Biotech",
-        "published": "Nov 12, 2025 11:45am",
-        "published_dt": "2025-11-12T11:45:00+00:00",
-        "summary": "Bristol Myers Squibb is expanding a partnership with oncology organization Sarah Cannon Research Institute, tapping into SCRI\u2019s community-based clinical trial network."
       },
       {
         "id": "46d434e91a72dc35",
@@ -66,24 +111,6 @@
         "summary": "Applied Therapeutics\u2019 lack of progress on govorestat as well as the potential costs to come have led analysts to question whether the biotech will ever be able to get the drug to market."
       },
       {
-        "id": "87437c983332ec60",
-        "title": "Merck\u2019s heart disease win and the FDA\u2019s new drug regulator",
-        "url": "https://www.statnews.com/2025/11/13/merck-cholesterol-pcsk9-pazdur-fda-readout-loud/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 13 Nov 2025 19:00:48 +0000",
-        "published_dt": "2025-11-13T19:00:48+00:00",
-        "summary": "This week on \"The Readout LOUD\" podcast: What does Rick Pazdur's new role mean for the FDA? And how much credit can the president take for lowering GLP-1 drug prices?"
-      },
-      {
-        "id": "99dd259b8691a2fa",
-        "title": "STAT+: Makary, Prasad outline pathway for bespoke gene therapy",
-        "url": "https://www.statnews.com/2025/11/13/biotech-news-fda-outlines-gene-editing-pathway/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 13 Nov 2025 14:39:56 +0000",
-        "published_dt": "2025-11-13T14:39:56+00:00",
-        "summary": "And other biotech news, brought to you by The Readout"
-      },
-      {
         "id": "f9cc576114df52e4",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/century-candel-and-macrogenics-call-time-certain-clinical-trials-conserve-cash\" hreflang=\"en\">Century, Candel and MacroGenics call time on certain clinical trials to conserve cash</a>",
         "url": "https://www.fiercebiotech.com/biotech/century-candel-and-macrogenics-call-time-certain-clinical-trials-conserve-cash",
@@ -109,15 +136,6 @@
         "published": "Nov 13, 2025 3:57am",
         "published_dt": "2025-11-13T03:57:00+00:00",
         "summary": "Grail saw a sharp rise in third-quarter sales as it outlined a firmer FDA submission date for its Galleri cancer blood test."
-      },
-      {
-        "id": "841d20647d0524e1",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fdas-new-plausible-mechanism-pathway-accelerate-bespoke-gene-editing-therapies\" hreflang=\"en\">UPDATED: Prasad, Makary unveil new FDA path for accelerating custom gene editing therapies</a>",
-        "url": "https://www.fiercebiotech.com/biotech/fdas-new-plausible-mechanism-pathway-accelerate-bespoke-gene-editing-therapies",
-        "source": "Fierce Biotech",
-        "published": "Nov 12, 2025 3:52pm",
-        "published_dt": "2025-11-12T15:52:00+00:00",
-        "summary": "In a highly anticipated article, FDA officials Vinay Prasad, M.D., and Martin Makary, M.D., outlined a novel regulatory pathway that could trigger a seismic shift in how bespoke gene editing therapies are developed and approved."
       },
       {
         "id": "3c46c92f7f617117",
@@ -208,53 +226,71 @@
         "published": "Fri, 14 Nov 2025 14:47:30 +0000",
         "published_dt": "2025-11-14T14:47:30+00:00",
         "summary": "Merck agreed to buy Cidara Therapeutics, the maker of an experimental flu therapy, in a $9.2 billion deal"
-      },
-      {
-        "id": "c2e62689830612c7",
-        "title": "More Americans use weight loss drugs like Ozempic than live in Texas",
-        "url": "https://www.statnews.com/2025/11/14/health-news-more-glp-1-users-than-texans/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 14 Nov 2025 14:10:56 +0000",
-        "published_dt": "2025-11-14T14:10:56+00:00",
-        "summary": "And more Morning Rounds updates on health and medicine"
-      },
-      {
-        "id": "baad3cc5c06e5775",
-        "title": "The Download: how AI really works, and phasing out animal testing",
-        "url": "https://www.technologyreview.com/2025/11/14/1127959/the-download-how-ai-really-works-and-phasing-out-animal-testing/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 14 Nov 2025 13:10:00 +0000",
-        "published_dt": "2025-11-14T13:10:00+00:00",
-        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI\u2019s new LLM exposes the secrets of how AI really works The news: ChatGPT maker OpenAI has built an experimental large language model that is far easier to understand than typical models. Why&#8230;"
       }
     ],
     "Engineering & Aerospace": [
       {
-        "id": "e8742e457e46a2c1",
-        "title": "Dream Chaser completes key tests ahead of first flight",
-        "url": "https://spacenews.com/dream-chaser-completes-key-tests-ahead-of-first-flight/",
+        "id": "e7c70cd307ba4c71",
+        "title": "China to launch Shenzhou-22 spacecraft Nov. 25 to provide lifeboat for astronauts",
+        "url": "https://spacenews.com/china-to-launch-shenzhou-22-spacecraft-nov-25-to-provide-lifeboat-for-astronauts/",
         "source": "SpaceNews",
-        "published": "Sun, 16 Nov 2025 09:13:30 +0000",
-        "published_dt": "2025-11-16T09:13:30+00:00",
-        "summary": "<figure><img alt=\"Dream Chaser\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"585\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/dreamchaser-towtest.jpeg?fit=1024%2C585&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Sierra Space has completed key testing milestones for its Dream Chaser vehicle as the company explores both civil and national security missions for the spaceplane.</p>\n<p>The post <a href=\"https://spacenews.com/dream-chaser-completes-key-tests-ahead-of-first-flight/\">Dream Chaser completes key tests ahead of first flight</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Mon, 17 Nov 2025 10:50:11 +0000",
+        "published_dt": "2025-11-17T10:50:11+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/shenzhou21-docked-tiangong-31oct2025-CMSEO.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>China is set to launch an uncrewed Shenzhou spacecraft to the Tiangong space station to provide the Shenzhou-21 astronauts with a means of returning home.</p>\n<p>The post <a href=\"https://spacenews.com/china-to-launch-shenzhou-22-spacecraft-nov-25-to-provide-lifeboat-for-astronauts/\">China to launch Shenzhou-22 spacecraft Nov. 25 to provide lifeboat for astronauts</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "d9e42e5bcce8f354",
-        "title": "3D Systems adds new SLA printer, casting tools and materials",
-        "url": "https://www.engineering.com/3d-systems-adds-new-sla-printer-casting-tools-and-materials/",
+        "id": "36eeb82dae55b7aa",
+        "title": "Teledyne to offer space-ready CMOS sensor models in 2025",
+        "url": "https://www.engineering.com/teledyne-to-offer-space-ready-cmos-sensor-models-in-2025/",
         "source": "Engineering.com",
-        "published": "Thu, 13 Nov 2025 14:32:47 +0000",
-        "published_dt": "2025-11-13T14:32:47+00:00",
-        "summary": "<p>The updates include a dual-laser SLA system, new casting software and expanded resin options for manufacturing and prototyping.</p>\n<p>The post <a href=\"https://www.engineering.com/3d-systems-adds-new-sla-printer-casting-tools-and-materials/\">3D Systems adds new SLA printer, casting tools and materials</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Mon, 17 Nov 2025 10:33:45 +0000",
+        "published_dt": "2025-11-17T10:33:45+00:00",
+        "summary": "<p>Engineering models, evaluation kits and reference tools will support faster integration of Teledyne\u2019s sensors for New Space applications.</p>\n<p>The post <a href=\"https://www.engineering.com/teledyne-to-offer-space-ready-cmos-sensor-models-in-2025/\">Teledyne to offer space-ready CMOS sensor models in 2025</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "8b7ab41677c2503b",
-        "title": "Carbon raises $60M in new funding",
-        "url": "https://www.engineering.com/carbon-raises-60m-in-new-funding/",
+        "id": "af9bd00f27d7302a",
+        "title": "FAA ends commercial launch curfew",
+        "url": "https://spacenews.com/faa-ends-commercial-launch-curfew/",
+        "source": "SpaceNews",
+        "published": "Mon, 17 Nov 2025 08:49:47 +0000",
+        "published_dt": "2025-11-17T08:49:47+00:00",
+        "summary": "<figure><img alt=\"Falcon 9 streaks\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/f9-doublestreak.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The FAA has ended restrictions on the timing of commercial launches that were triggered by the government shutdown\u2019s effects on airspace management.</p>\n<p>The post <a href=\"https://spacenews.com/faa-ends-commercial-launch-curfew/\">FAA ends commercial launch curfew</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "cf08fc270fb21c38",
+        "title": "EnGenius debuts modular data center and AI servers at SC25",
+        "url": "https://www.engineering.com/engenius-debuts-modular-data-center-and-ai-servers-at-sc25/",
         "source": "Engineering.com",
-        "published": "Thu, 13 Nov 2025 21:04:34 +0000",
-        "published_dt": "2025-11-13T21:04:34+00:00",
-        "summary": "<p>Existing investors bet big on growth of domestic additive manufacturing.</p>\n<p>The post <a href=\"https://www.engineering.com/carbon-raises-60m-in-new-funding/\">Carbon raises $60M in new funding</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Mon, 17 Nov 2025 08:36:00 +0000",
+        "published_dt": "2025-11-17T08:36:00+00:00",
+        "summary": "<p>EnGenius is introducing Intel Xeon 6\u2013based servers, SmartNICs and management tools designed to support AI, HPC and hybrid cloud workloads.</p>\n<p>The post <a href=\"https://www.engineering.com/engenius-debuts-modular-data-center-and-ai-servers-at-sc25/\">EnGenius debuts modular data center and AI servers at SC25</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "ba0059c48d763e6c",
+        "title": "Falcon 9 launches Sentinel-6B satellite to monitor global sea level",
+        "url": "https://spacenews.com/falcon-9-launches-sentinel-6b-satellite-to-monitor-global-sea-level/",
+        "source": "SpaceNews",
+        "published": "Mon, 17 Nov 2025 08:06:09 +0000",
+        "published_dt": "2025-11-17T08:06:09+00:00",
+        "summary": "<figure><img alt=\"Sentinel-6B deploy\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"523\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/sentinel6b-deploy.jpeg?fit=1024%2C523&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A Falcon 9 launched a joint U.S.-European satellite to monitor sea levels Nov. 17, extending a record of measurements that dates back more than three decades.</p>\n<p>The post <a href=\"https://spacenews.com/falcon-9-launches-sentinel-6b-satellite-to-monitor-global-sea-level/\">Falcon 9 launches Sentinel-6B satellite to monitor global sea level</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "7e0ff6597f1013c0",
+        "title": "Silicon Motion introduces PCIe Gen5 controller for QLC SSDs",
+        "url": "https://www.engineering.com/silicon-motion-introduces-pcie-gen5-controller-for-qlc-ssds/",
+        "source": "Engineering.com",
+        "published": "Mon, 17 Nov 2025 07:50:20 +0000",
+        "published_dt": "2025-11-17T07:50:20+00:00",
+        "summary": "<p>The SM8388 enables nearline SSD designs with enterprise security features, low power use, and support for AI and cloud data environments.</p>\n<p>The post <a href=\"https://www.engineering.com/silicon-motion-introduces-pcie-gen5-controller-for-qlc-ssds/\">Silicon Motion introduces PCIe Gen5 controller for QLC SSDs</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "2c7f89899aa20d99",
+        "title": "SK keyfoundry advances development of SiC power technologies",
+        "url": "https://www.engineering.com/sk-keyfoundry-advances-development-of-sic-power-technologies/",
+        "source": "Engineering.com",
+        "published": "Mon, 17 Nov 2025 07:36:54 +0000",
+        "published_dt": "2025-11-17T07:36:54+00:00",
+        "summary": "<p>SK keyfoundry plans to offer 1200V SiC MOSFET process technologies by 2025 and begin SiC power semiconductor foundry services in 2026.</p>\n<p>The post <a href=\"https://www.engineering.com/sk-keyfoundry-advances-development-of-sic-power-technologies/\">SK keyfoundry advances development of SiC power technologies</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "299e041b249a3942",
@@ -273,6 +309,24 @@
         "published": "Thu, 13 Nov 2025 00:01:20 +0000",
         "published_dt": "2025-11-13T00:01:20+00:00",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/10/53391894924_67f8907238_k.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Firefly Aerospace says contamination in a fluid line caused the loss in September of an Alpha first stage being tested for an upcoming launch.</p>\n<p>The post <a href=\"https://spacenews.com/firefly-identifies-cause-of-alpha-booster-test-failure/\">Firefly identifies cause of Alpha booster test failure</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "25a24f94cc5bf429",
+        "title": "OHB raises concerns about planned European space joint venture",
+        "url": "https://spacenews.com/ohb-raises-concerns-about-planned-european-space-joint-venture/",
+        "source": "SpaceNews",
+        "published": "Sun, 16 Nov 2025 21:54:39 +0000",
+        "published_dt": "2025-11-16T21:54:39+00:00",
+        "summary": "<figure><img alt=\"European Spaceport Co.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/european-spaceport-co.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The head of OHB says he is concerned about a planned joint venture among three of his competitors, even as the company sees opportunities from growing European space spending.</p>\n<p>The post <a href=\"https://spacenews.com/ohb-raises-concerns-about-planned-european-space-joint-venture/\">OHB raises concerns about planned European space joint venture</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "e8742e457e46a2c1",
+        "title": "Dream Chaser completes key tests ahead of first flight",
+        "url": "https://spacenews.com/dream-chaser-completes-key-tests-ahead-of-first-flight/",
+        "source": "SpaceNews",
+        "published": "Sun, 16 Nov 2025 09:13:30 +0000",
+        "published_dt": "2025-11-16T09:13:30+00:00",
+        "summary": "<figure><img alt=\"Dream Chaser\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"585\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/dreamchaser-towtest.jpeg?fit=1024%2C585&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Sierra Space has completed key testing milestones for its Dream Chaser vehicle as the company explores both civil and national security missions for the spaceplane.</p>\n<p>The post <a href=\"https://spacenews.com/dream-chaser-completes-key-tests-ahead-of-first-flight/\">Dream Chaser completes key tests ahead of first flight</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "7e6c176ce1f9c29f",
@@ -365,15 +419,6 @@
         "summary": "<p>Formlabs also introduced a faster large-format curing unit and new PreForm features that streamline post-processing and improve workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/formlabs-introduces-new-tough-resins-for-end-use-3d-parts/\">Formlabs introduces new tough resins for end-use 3D parts</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "6e3691e6e85bbf8c",
-        "title": "Nikon SLM and Additive Assurance partner on integrated AM monitoring",
-        "url": "https://www.engineering.com/nikon-slm-and-additive-assurance-partner-on-integrated-am-monitoring/",
-        "source": "Engineering.com",
-        "published": "Fri, 14 Nov 2025 10:12:39 +0000",
-        "published_dt": "2025-11-14T10:12:39+00:00",
-        "summary": "<p>The collaboration adds real-time melt pool and layer analysis to the NXG platform, supporting consistent, production-scale metal AM builds.</p>\n<p>The post <a href=\"https://www.engineering.com/nikon-slm-and-additive-assurance-partner-on-integrated-am-monitoring/\">Nikon SLM and Additive Assurance partner on integrated AM monitoring</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
         "id": "34fbf499ffd9a499",
         "title": "Shenzhou-20 astronauts safely return to Earth on Shenzhou-21 spacecraft after space debris damage concerns",
         "url": "https://spacenews.com/shenzhou-20-astronauts-safely-return-to-earth-on-shenzhou-21-spacecraft-after-space-debris-damage-concerns/",
@@ -408,80 +453,17 @@
         "published": "Fri, 14 Nov 2025 04:00:00 +0000",
         "published_dt": "2025-11-14T04:00:00+00:00",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"659\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/rsz_dsc09332.jpg?fit=879%2C659&amp;ssl=1\" width=\"879\" /></figure>\n<p>SAN FRANCISCO \u2013 Canada\u2019s SBQuantum has won an \u20ac800,000 ($932,000) European Space Agency contract to deliver a prototype quantum magnetometer for space-based Earth observation. Under the 21-month contract, announced Nov. 14, SBQuantum will upgrade the quantum diamond magnetometer delivered to ESA for testing and evaluation in 2024. The new version of the sensor will be [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/canadas-sbquantum-wins-contract-to-supply-esa-magnetometer/\">Canada&#8217;s SBQuantum wins contract to supply ESA magnetometer</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "74d1af32f5ebfb6a",
-        "title": "New Glenn launches NASA\u2019s ESCAPADE Mars mission, lands booster",
-        "url": "https://spacenews.com/new-glenn-launches-nasas-escapade-mars-mission-lands-booster/",
-        "source": "SpaceNews",
-        "published": "Thu, 13 Nov 2025 21:38:41 +0000",
-        "published_dt": "2025-11-13T21:38:41+00:00",
-        "summary": "<figure><img alt=\"NG-2\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/NG-2-Ascent-2.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Blue Origin successfully launched a NASA Mars mission on the second flight of its New Glenn booster Nov. 13, landing the vehicle\u2019s first stage in the process.</p>\n<p>The post <a href=\"https://spacenews.com/new-glenn-launches-nasas-escapade-mars-mission-lands-booster/\">New Glenn launches NASA\u2019s ESCAPADE Mars mission, lands booster</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "42e3bad02c7df53d",
-        "title": "IonQ expands into space networking with acquisition of Skyloom",
-        "url": "https://spacenews.com/ionq-expands-into-space-networking-with-acquisition-of-skyloom/",
-        "source": "SpaceNews",
-        "published": "Thu, 13 Nov 2025 21:31:13 +0000",
-        "published_dt": "2025-11-13T21:31:13+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"589\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Skyloom_clean_room_-_August_2025.jpg?fit=1024%2C589&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Skyloom Global is a Colorado-based provider of space-based optical communications terminals</p>\n<p>The post <a href=\"https://spacenews.com/ionq-expands-into-space-networking-with-acquisition-of-skyloom/\">IonQ expands into space networking with acquisition of Skyloom\u00a0</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "83c8c4800ba0db01",
-        "title": "Blue Origin nails booster landing on second New Glenn launch",
-        "url": "https://aerospaceamerica.aiaa.org/blue-origin-nails-booster-landing-on-second-new-glenn-launch/",
-        "source": "Aerospace America",
-        "published": "Thu, 13 Nov 2025 21:24:27 +0000",
-        "published_dt": "2025-11-13T21:24:27+00:00",
-        "summary": ""
-      },
-      {
-        "id": "b88492c881d36ec2",
-        "title": "Project Kuiper becomes Amazon Leo ahead of LEO broadband service debut",
-        "url": "https://spacenews.com/project-kuiper-becomes-amazon-leo-ahead-of-leo-broadband-service-debut/",
-        "source": "SpaceNews",
-        "published": "Thu, 13 Nov 2025 20:19:23 +0000",
-        "published_dt": "2025-11-13T20:19:23+00:00",
-        "summary": "<figure><img alt=\"KF-01 launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/f9-kf01.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Project Kuiper has shed its seven-year-old code name, emerging as Amazon Leo Nov. 13 as the company nears the start of initial broadband services from the low Earth orbit constellation next year.</p>\n<p>The post <a href=\"https://spacenews.com/project-kuiper-becomes-amazon-leo-ahead-of-leo-broadband-service-debut/\">Project Kuiper becomes Amazon Leo ahead of LEO broadband service debut</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "dfe077a80796f40e",
-        "title": "Firefly deepens push into defense market after closing SciTec acquisition",
-        "url": "https://spacenews.com/firefly-deepens-push-into-defense-market-after-closing-scitec-acquisition/",
-        "source": "SpaceNews",
-        "published": "Thu, 13 Nov 2025 16:35:41 +0000",
-        "published_dt": "2025-11-13T16:35:41+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"533\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/G5FX0qCXEAA8JDk.jpeg?fit=800%2C533&amp;ssl=1\" width=\"800\" /></figure>\n<p>On its third-quarter earnings call Nov. 12, Firefly executives highlighted the company\u2019s alignment with the Pentagon\u2019s planned \u201cGolden Dome\u201d missile defense initiative</p>\n<p>The post <a href=\"https://spacenews.com/firefly-deepens-push-into-defense-market-after-closing-scitec-acquisition/\">Firefly deepens push into defense market after closing SciTec acquisition</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
       {
-        "id": "872cf444e65524f9",
-        "title": "Motives and Constraints in the Implementation of Argentina\u2019s 2017 Tax Reform -- by Santiago Afonso, Sebastian Galiani",
-        "url": "https://www.nber.org/papers/w34442#fromrss",
+        "id": "a8f6a477a99846ff",
+        "title": "The Race Between Asset Supply and Asset Demand -- by Adrien Auclert, Hannes Malmberg, Matthew Rognlie, Ludwig Straub",
+        "url": "https://www.nber.org/papers/w34470#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "This paper examines the motives, constraints, and sequencing behind Argentina\u2019s 2017 tax reform, drawing on the authors\u2019 direct involvement in its design and implementation. We document how a large inherited fiscal imbalance, a disinflation program that mechanically raised real pension spending under the pre-existing indexation rule, minority status in Congress, and limited administrative capacity jointly narrowed the feasible policy set. Within those constraints, the reform aimed to be near-revenue-neutral while rebalancing the system toward investment and employment: phasing down corporate rates with dividend taxation and inflation adjustment, reducing the labor wedge at the bottom via a per-worker deduction, rationalizing VAT and excises (including carbon and health-motivated taxes), and coordinating with provinces to cap and de-cascade the turnover tax (ISIB) through a Fiscal Consensus. We trace how coalition politics and sectoral vetoes reshaped the package, why forward guidance and escape clauses were embedded ex ante, and how the 2018 sudden stop, followed by policy reversals, limited the reform\u2019s realized growth dividend. We draw four lessons: credibility is a fiscal instrument; provincial coordination beats technocratic perfection; discretionary levers invite rent-seeking; and targeting informality and compliance margins yields higher returns than blunt rate changes. The analysis offers a pragmatic template for tax reform under macroeconomic fragility, federal fragmentation, and state-capacity constraints."
-      },
-      {
-        "id": "770cc0257a0097ae",
-        "title": "From Asia, With Skills -- by Gaurav Khanna",
-        "url": "https://www.nber.org/papers/w34449#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "This paper examines the rise of high-skill migration from Asia to the United States over the past three decades and its consequences for both sending and receiving economies. Between 1990 and 2019, migrants from five Asian countries\u2014India, China, South Korea, Japan, and the Philippines\u2014accounted for over one-third of the growth in US software developers and a quarter of the increase in scientists, engineers, and physicians. Drawing on census microdata, visa records, and administrative sources, I show how US demand for talent in information technology, higher education, and healthcare interacted with Asia\u2019s demographic and educational transformations to generate this migration boom. Policy reforms (notably the H-1B, F-1, and J-1 visa programs) and sectoral shifts\u2014such as the internet revolution, declining public support for universities, and aging-related healthcare demand\u2014created persistent needs for foreign students and workers. Asian economies were uniquely positioned to meet this demand through rapid tertiary expansion, strong STEM institutions, English proficiency, and diaspora networks. These inflows boosted US innovation, entrepreneurship, and service-sector productivity while fostering \u201cbrain gain\u201d and \u201cbrain circulation\u201d in Asia. Together, these trends reveal how talent flows from Asia have become central to the structure and growth of the modern US economy."
-      },
-      {
-        "id": "6902df924117cc87",
-        "title": "The Economic Impact of Brexit -- by Nicholas Bloom, Philip Bunn, Paul Mizen, Pawel Smietanka, Gregory Thwaites",
-        "url": "https://www.nber.org/papers/w34459#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "This paper examines the impact of the UK's decision to leave the European Union (Brexit) in 2016. Using almost a decade of data since the referendum, we combine simulations based on macro data with estimates derived from micro data collected through our Decision Maker Panel survey. These estimates suggest that by 2025, Brexit had reduced UK GDP by 6% to 8%, with the impact accumulating gradually over time. We estimate that investment was reduced by between 12% and 18%, employment by 3% to 4% and productivity by 3% to 4%. These large negative impacts reflect a combination of elevated uncertainty, reduced demand, diverted management time, and increased misallocation of resources from a protracted Brexit process. Comparing these with contemporary forecasts \u2013 providing a rare macro example to complement the burgeoning micro-literature of social science predictions \u2013 shows that these forecasts were accurate over a 5-year horizon, but they underestimated the impact over a decade."
+        "summary": "We introduce an asset supply-and-demand approach to analyze the trajectory of US aggregate wealth, real interest rates, and fiscal sustainability. Our framework uses micro-founded and easy-to-implement sufficient statistics to quantify how shifts in demographics, inequality, and other forces affect asset market equilibrium. From 1950 to the present, rapid population aging, rising income inequality, increasing foreign demand for US assets, and declining productivity growth all contributed to a surge in asset demand. Asset supply initially fell, then turned around sharply, mainly driven by increases in government debt and the value of capitalized profits. Overall, asset demand won the race, and interest rates fell. Looking ahead to 2100, population aging will continue to strongly push up asset demand, but at current tax and benefit levels, asset supply will win the race, as rising entitlement costs push up government debt even more. While rising asset demand creates space for debt to eventually reach 250% of GDP without higher interest rates, stabilizing debt at any level requires a permanent fiscal adjustment of at least 10% of GDP."
       },
       {
         "id": "8bd66e558ada2539",
@@ -491,51 +473,6 @@
         "published": "Thu, 28 Aug 2025 09:56:45 +0000",
         "published_dt": "2025-08-28T09:56:45+00:00",
         "summary": "Just consider what happens if inflation starts to rise again"
-      },
-      {
-        "id": "0d91c979a50fb402",
-        "title": "Artificial Intelligence, Competition, and Welfare -- by Susan Athey, Fiona Scott Morton",
-        "url": "https://www.nber.org/papers/w34444#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "We study how market power in artificial intelligence (AI) shapes wages and welfare in open-economy general equilibrium by treating AI as a priced, imported factor. Across three models, we separate technical efficiency from the impact of upstream price setting. In a two-traded-goods benchmark, the incidence of AI price changes depends on how sectoral skill intensity changes with AI prices; non-monotone intensity can generate \u201cdouble harm\u201d for unskilled workers (lower real wage after a large decrease in the price of AI, and real wage decreases further when the AI price rises as a result of market power). With one non-traded sector, we observe that the classic \u201cDutch disease\u201d effect here would arise when one sector gets more productive and draws labor away from other sectors, creating scarcity and raising prices; but this is not what we expect from the introduction of labor-substituting AI. In contrast, our last model considers two non-traded sectors and CES/free entry, and the opportunity for discrete adoption of technology that replaces unskilled labor from the AI-using sector. When AI reduces unit costs and increases variety, it will not pull U from non-tradables, instead it will displace workers from the AI-using sector and lower wage due to diminishing returns in alternative sectors. Strategic upstream pricing of AI then harms welfare through unit-cost (usage fees) and variety (access fees) channels, with income leakage abroad. We derive an adoption frontier tying feasible usage prices to displaced workers\u2019 outside options and show a monopolist typically prices on this boundary; capping one instrument shifts rents to the other. Broad gains for the adopting country relies on pressure (or regulation) on both usage and access fees and as well as policy that supports productive absorption of displaced labor. The framework clarifies when AI can lower real wages and aggregate welfare despite efficiency gains."
-      },
-      {
-        "id": "29c238106693f25b",
-        "title": "Minimum Wages and Informality -- by Ellora Derenoncourt, Fran\u00e7ois Gerard, Lorenzo Lagos, Claire Montialoux",
-        "url": "https://www.nber.org/papers/w34445#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "How do minimum wages affect informality? We study the near-doubling of the real minimum wage from 2000 to 2009 in Brazil, where 46% of the workforce is informal. Using labor force surveys covering the informal sector, we show the minimum wage exhibits near full passthrough to informal employees working in formal firms, about half of all informal employees. The formal-to-informal reallocation elasticity with respect to the formal-wage is small: -0.28. Our findings illustrate how minimum wages can positively affect living standards for workers thought beyond the reach of labor law, a sizable share of the workforce in developing economies."
-      },
-      {
-        "id": "6fcbf398912f3410",
-        "title": "Then and Now: A Look Back and Ahead at the Federal Budget -- by Alan J. Auerbach, William Gale",
-        "url": "https://www.nber.org/papers/w34455#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "It is well-understood that the U.S. faces an unsustainable fiscal future. We review historical budget trends and basic fiscal processes. We provide new estimates of the budget outlook, incorporating the recently enacted One Big Beautiful Bill Act (OBBBA), and finding that the debt-GDP ratio will rise to 183% in 2054 under the OBBBA as legislated and to 199% if the temporary tax and spending provisions are made permanent. These figures compare to a current debt-GDP ratio of about 100% and a pre-OBBBA CBO analysis earlier this year that projected the 2054 debt-GDP ratio to be 154%. We estimate a fiscal gap \u2013 the permanent tax or spending changes needed to keep the 2054 debt-GDP ratio at its current level \u2013 to be about 3.4% of GDP if OBBBA is extended. We discuss the economic and political ramifications of debt and different ways to address the fiscal situation."
-      },
-      {
-        "id": "4d47427484181927",
-        "title": "Branching Out: Capital Mobility and Long-Run Growth -- by Sarah Quincy, Chenzi Xu",
-        "url": "https://www.nber.org/papers/w34457#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "We study the long-run effects of the first wave of U.S. banking market integration on capital mobility and manufacturing productivity. Using newly digitized bank and branch balance sheet data matched to state and county panels, we provide direct evidence that branching produced lasting productivity gains without aggregate capital deepening by leveraging internal capital markets to improve the geographic allocation of capital. Our novel ``deposit market access'' measure shows that bank funding grew most in capital-constrained counties within branching states. Both market access and border discontinuity designs indicate that branching\u2019s organizational structure reduced capital allocation frictions to generate persistent growth."
-      },
-      {
-        "id": "745b7ef8a22848a9",
-        "title": "Path Dependence in the Labor Market: The Long-run Effects of Early Career Occupational Experience -- by Jesse Bruhn, Jacob Fabian, Luke Gallagher, Matthew Gudgeon, Adam Isen, Aaron R. Phipps",
-        "url": "https://www.nber.org/papers/w34463#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "We study the causal effect of different early career occupational experiences on labor market outcomes. To do so, we pair over two decades of administrative tax data with internal personnel records from one of the largest employers of young adults in the United States: the US Army. Enlistees work in a diverse and varied set of occupations, including non-combat roles like mechanics, legal services, financial specialists, cooks, dental hygienists, police officers, and network/computer specialists. Occupational eligibility is determined by test score cutoffs which we leverage in a series of 35 regression discontinuity designs. We find that a typical early career occupational experience generates a substantial amount of path dependence, with point estimates that suggest a 19p.p. increase in the likelihood of being observed in an identical or closely related occupation as much as 20 years later. The corresponding impact of different occupations on earnings are highly heterogeneous, yet predictable: long-run changes in the average earnings of the occupations applicants are pushed into, and pulled out-of, can explain over 60% of the causal variation across cutoffs, with point estimates that suggest improvements in occupational earnings premia translate dollar-for-dollar into economic success. Taken together, our results highlight the importance of early career occupational experience as a key channel for promoting long-run well-being among young adults who are not college bound."
       },
       {
         "id": "40efde73b3b49b32",
@@ -680,9 +617,81 @@
         "published": "Wed, 24 Sep 2025 16:18:15 +0000",
         "published_dt": "2025-09-24T16:18:15+00:00",
         "summary": "Despite fears of a reckoning, its fundamentals look solid"
+      },
+      {
+        "id": "6dba19a33bdd7e1d",
+        "title": "Russia\u2019s besieged economy is clinging on",
+        "url": "https://www.economist.com/finance-and-economics/2025/09/21/russias-besieged-economy-is-clinging-on",
+        "source": "Finance & economics",
+        "published": "Sun, 21 Sep 2025 08:58:12 +0000",
+        "published_dt": "2025-09-21T08:58:12+00:00",
+        "summary": "The good times have firmly come to an end, but wage growth remains strong"
+      },
+      {
+        "id": "a370fa08d06e1e38",
+        "title": "Ukraine faces a $19bn budget black hole",
+        "url": "https://www.economist.com/finance-and-economics/2025/09/17/ukraine-faces-a-19bn-budget-black-hole",
+        "source": "Finance & economics",
+        "published": "Wed, 17 Sep 2025 19:44:22 +0000",
+        "published_dt": "2025-09-17T19:44:22+00:00",
+        "summary": "Without funding, the country will be left vulnerable"
+      },
+      {
+        "id": "9b8767b0362ded73",
+        "title": "How grain has gone from famine to feast",
+        "url": "https://www.economist.com/finance-and-economics/2025/09/11/how-grain-has-gone-from-famine-to-feast",
+        "source": "Finance & economics",
+        "published": "Thu, 11 Sep 2025 09:33:43 +0000",
+        "published_dt": "2025-09-11T09:33:43+00:00",
+        "summary": "Prices are close to a five-year low"
+      },
+      {
+        "id": "b778e0da2d18ff01",
+        "title": "Meet Donald Trump\u2019s aid agency",
+        "url": "https://www.economist.com/finance-and-economics/2025/09/11/meet-donald-trumps-aid-agency",
+        "source": "Finance & economics",
+        "published": "Thu, 11 Sep 2025 09:31:18 +0000",
+        "published_dt": "2025-09-11T09:31:18+00:00",
+        "summary": "Or is it a sovereign-wealth fund in disguise?"
+      },
+      {
+        "id": "c2b04d922381a7de",
+        "title": "Why American bondholders are jumpy about inflation",
+        "url": "https://www.economist.com/finance-and-economics/2025/09/10/why-american-bondholders-are-jumpy-about-inflation",
+        "source": "Finance & economics",
+        "published": "Wed, 10 Sep 2025 19:05:23 +0000",
+        "published_dt": "2025-09-10T19:05:23+00:00",
+        "summary": "The Federal Reserve prepares to cut interest rates in tricky circumstances"
+      },
+      {
+        "id": "d290d8893d3d6aa3",
+        "title": "What if the AI stockmarket blows up?",
+        "url": "https://www.economist.com/finance-and-economics/2025/09/07/what-if-the-ai-stockmarket-blows-up",
+        "source": "Finance & economics",
+        "published": "Sun, 07 Sep 2025 16:19:34 +0000",
+        "published_dt": "2025-09-07T16:19:34+00:00",
+        "summary": "We find that the potential cost has risen alarmingly high"
+      },
+      {
+        "id": "3138a2251233a923",
+        "title": "Bond vigilantes take aim at France",
+        "url": "https://www.economist.com/finance-and-economics/2025/09/04/bond-vigilantes-take-aim-at-france",
+        "source": "Finance & economics",
+        "published": "Thu, 04 Sep 2025 09:21:57 +0000",
+        "published_dt": "2025-09-04T09:21:57+00:00",
+        "summary": "With any luck, the stand-off might focus politicians\u2019 minds"
       }
     ],
     "Cross-Disciplinary": [
+      {
+        "id": "dfabfd64a675c89f",
+        "title": "What is the chance your plane will be hit by space debris?",
+        "url": "https://www.technologyreview.com/2025/11/17/1127980/what-is-the-chance-your-plane-will-be-hit-by-space-debris/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 17 Nov 2025 10:00:00 +0000",
+        "published_dt": "2025-11-17T10:00:00+00:00",
+        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. In mid-October, a mysterious object cracked the windshield of a packed Boeing 737 cruising at 36,000 feet above Utah, forcing the pilots into an emergency landing.&#8230;"
+      },
       {
         "id": "23df676886ea3851",
         "title": "Get to Know the IEEE Board of Directors",
@@ -898,15 +907,6 @@
         "published": "Wed, 12 Nov 2025 19:59:40 +0000",
         "published_dt": "2025-11-12T19:59:40+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/digital-display-showing-electrical-activity-in-the-brain-from-a-electroencephalogram-test.jpg?id=62160411&amp;width=1245&amp;height=700&amp;coordinates=0%2C120%2C0%2C120\" /><br /><br /><p>How much pain are you in on a scale from one to 10? </p><p>This simple method is still the way pain is measured in doctors\u2019 offices, clinics, and hospitals\u2014but how do I know if my five out of 10 is the same as yours? </p><p>A new, early-stage platform aims to more <a href=\"https://spectrum.ieee.org/researchers-move-closer-to-objectively-quantifying-pain\" target=\"_blank\">objectively measure</a> and share our individual perception of pain. It measures brain activity in two people in order to understand how their experiences compare and recreate one person\u2019s pain for the other. The platform was developed as a partnership between the large Tokyo-based telecommunications company <a href=\"https://www.docomo.ne.jp/english/\" rel=\"noopener noreferrer\" target=\"_blank\">NTT Docomo</a> and startup <a href=\"https://pain-ml.com/en/\" rel=\"noopener noreferrer\" target=\"_blank\">PaMeLa</a>, short for Pain Measurement Laboratory, in Osaka, Japan.</p><p>It\u2019s part of a project from Docomo called <a href=\"https://www.docomo.ne.jp/english/corporate/technology/rd/tech/6g/pdf/feel_tech_e.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Feel Tech</a>. \u201cWe are developing a human-augmentation platform designed to deepen mutual understanding between people,\u201d a Docomo representative told <em><em>IEEE Spectrum </em><span></span></em>by email. (Answers were originally provided in Japanese and translated by Docomo\u2019s public relations.) \u201cPreviously, we focused on sharing movement, <a href=\"https://www.global.ntt/insights-hub/feel-tech-and-the-future-of-human-communication/\" target=\"_blank\">touch</a>, and <a href=\"https://www.docomo.ne.jp/info/news_release/2023/12/21_00.html?icid=CRP_CORP_technology_rd_ft_001_to_CRP_INFO_news_release_2023_12_21_00\" target=\"_blank\">taste</a>\u2014senses that are inherently difficult to express and communicate. This time, our focus is on pain, another sense that is challenging to articulate.\u201d </p><p>Docomo demonstrated the platform last month at the <a href=\"https://www.ceatec.com/en/about/\" target=\"_blank\">Combined Exhibition of Advanced Technologies </a>(CEATEC), Japan\u2019s largest electronics trade show.</p><h2>How Shared Pain Perception Tech Works</h2><p>The system consists of three components: a pain-sensing device, a platform for estimating the difference in sensitivity, and a heat-based actuation device. </p><p>First, the system uses electroencephalography (EEG) to measure brain waves and uses an AI model to \u201cvisualize\u201d pain as a score between 0 and 100, for both the sender and receiver. The actuation device is then calibrated based on each person\u2019s sensitivity, so a sensation transmitted to both people will feel the same.</p><p>In this initial version, the platform works with thermally induced pain stimuli. \u201cThis method allows for precise adjustment and ensures safety during research and development,\u201d Docomo says. PaMeLa also used thermal stimulation in its research on determining the intensity level of pain, which graded the pain stimulation data of 461 subjects with machine learning algorithms. </p><p><span>However, the company says, pain from other sources can also be shared. Eventually, Docomo aims to convey many types of physical and even psychological pain, which will be an aim of future research. </span><span>\u201cWe believe there are various possibilities for how pain can be captured and shared,\u201d Docomo says.</span></p><h2>Finding a Use Case for Shared Pain Perception</h2><p>The technology is still at a very early stage, says <a href=\"https://www.lerner.ccf.org/biomedical-engineering/saab/\" target=\"_blank\">Carl Saab</a>, the founder and director of the <a href=\"https://www.lerner.ccf.org/consortium-for-pain/\" target=\"_blank\">Cleveland Clinic Consortium for Pain</a>. Saab, who is also an adjunct professor at Brown University, researches pain biomarkers, including through EEG measurements and AI. </p><p>For one thing, Saab says he\u2019s not clear what the use case is for the platform. In terms of the science, h<span>e also notes that pain differs in healthy patients and those experiencing ongoing pain, such as <a href=\"https://spectrum.ieee.org/chronic-pain\" target=\"_blank\">chronic pain</a> or migraine. \u201cIf you induce pain in a healthy volunteer versus somebody who\u2019s a pain patient, the nature of the representation of pain in the brain is different,\u201d Saab says. Healthy volunteers know that the pain will be temporary, he explains. But in real patients, chronic pain often comes with anxiety, depression, and sometime side effects from medication.</span></p><p>In a study Saab conducted several years ago, for example, he induced pain by submerging volunteers\u2019 arms in ice for an extended period. When he did the same with pain patients, the resulting brain activity was much more complex, and the signals weren\u2019t so clear. </p><p>Docomo says it plans to collaborate with hospitals in the future to verify the technology in medical settings. And in March, PaMeLa <a href=\"https://pain-ml.com/en/2025/03/31/completion-of-investigator-initiated-clinical-trial-for-the-development-of-the-pain-assessment-support-system-pms-2/\" target=\"_blank\">announced it completed</a> a clinical trial that analyzed changes in EEG signals before and after administration of painkillers in patients receiving surgeries under general anesthesia. The startup is also investigating pain in other conditions, such as exercise, acute pain from injections, and chronic pain.</p><p>\u201cPain is a multidimensional experience,\u201d Saab says. \u201cWhen you say you\u2019re measuring someone\u2019s pain, you always have to be careful about what kind of dimension you are measuring.\u201d</p>"
-      },
-      {
-        "id": "b2800044b1b64b03",
-        "title": "The Download: how to survive a conspiracy theory, and moldy cities",
-        "url": "https://www.technologyreview.com/2025/11/12/1127881/the-download-how-to-survive-a-conspiracy-theory-and-moldy-cities/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 12 Nov 2025 13:10:00 +0000",
-        "published_dt": "2025-11-12T13:10:00+00:00",
-        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What it\u2019s like to be in the middle of a conspiracy theory (according to a conspiracy theory expert) \u2014Mike Rothschild is a journalist and an expert on the growth and impact of conspiracy&#8230;"
       }
     ]
   }
