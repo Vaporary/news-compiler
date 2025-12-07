@@ -1,7 +1,16 @@
 {
-  "generated_at": "2025-12-06T12:49:53.896436+00:00",
+  "generated_at": "2025-12-07T12:48:42.226141+00:00",
   "categories": {
     "Biotech": [
+      {
+        "id": "063be2b272e63113",
+        "title": "STAT+: Hengrui, BeOne top new analysis of Chinese drug development",
+        "url": "https://www.statnews.com/2025/12/07/jiangsu-hengrui-beone-chinese-biotech-innovation-ranking/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sun, 07 Dec 2025 12:00:00 +0000",
+        "published_dt": "2025-12-07T12:00:00+00:00",
+        "summary": "A new report looks at Chinese biotech innovation capturing the attention of pharmaceutical executives and investors worldwide."
+      },
       {
         "id": "7f04682b2f5f2d86",
         "title": "STAT+: Boehringer Ingelheim prepares schizophrenia app for FDA submission after trial results",
@@ -21,8 +30,8 @@
         "summary": "The industry\u2019s mRNA alliance is demanding steady FDA leadership, warning that the current \u201cunprecedented turmoil\u201d at the agency is eroding Americans' trust and threatening public health."
       },
       {
-        "id": "57f0c8464b6df492",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/markets-thinking-backwards-fdas-1-trial-approval-plan-would-boost-rd-spend-jefferies\" hreflang=\"en\">\u2018Market\u2019s thinking is backwards\u2019: FDA\u2019s 1-trial approval plan would boost R&amp;D spend, Jefferies says</a>",
+        "id": "8adb14257a97b575",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/markets-thinking-backwards-fdas-1-trial-approval-plan-would-boost-rd-spend-jefferies\" hreflang=\"en\">'Market's thinking is backwards': FDA's 1-trial approval plan would boost R&amp;D spend, Jefferies says</a>",
         "url": "https://www.fiercebiotech.com/biotech/markets-thinking-backwards-fdas-1-trial-approval-plan-would-boost-rd-spend-jefferies",
         "source": "Fierce Biotech",
         "published": "Dec 5, 2025 10:36am",
@@ -156,6 +165,24 @@
         "summary": "Capricor Therapeutics has notched a key win in its efforts to bring Duchenne muscular dystrophy cell therapy deramiocel to market, hitting the primary endpoint in a phase 3 trial."
       },
       {
+        "id": "a45e44f96c98fe62",
+        "title": "STAT+: \u2018Remarkable\u2019 drug results against an aggressive leukemia",
+        "url": "https://www.statnews.com/2025/12/06/ash-meeting-syndax-drug-for-acute-myeloid-leukemia/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sat, 06 Dec 2025 20:26:30 +0000",
+        "published_dt": "2025-12-06T20:26:30+00:00",
+        "summary": "At the end of a tense year for science, the American Society of Hematology heard promising data on acute myeloid leukemia, Von Willebrand disease and more."
+      },
+      {
+        "id": "d84665c4f8f20825",
+        "title": "Opinion: RFK Jr.\u2019s vaccine advisory panel is beset by incompetence, bias, and procedural chaos",
+        "url": "https://www.statnews.com/2025/12/06/acip-vaccine-advisory-panel-incompetence-bias-expert/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sat, 06 Dec 2025 14:04:53 +0000",
+        "published_dt": "2025-12-06T14:04:53+00:00",
+        "summary": "The Advisory Committee on Immunization Practices' (ACIP) meetings used to be a geek\u2019s dream: hours of long, maybe dreary presentation of extensive data followed by lengthy discussions that drilled into&#8230;"
+      },
+      {
         "id": "0270ba33d58a08f5",
         "title": "RFK Jr.\u2019s vaccine panel is laying the groundwork for more scrutiny of childhood shots",
         "url": "https://www.statnews.com/2025/12/05/cdc-acip-panel-entire-childhood-vaccine-schedule-under-scrutiny/?utm_campaign=rss",
@@ -199,33 +226,6 @@
         "published": "Fri, 05 Dec 2025 15:32:26 +0000",
         "published_dt": "2025-12-05T15:32:26+00:00",
         "summary": "The CDC's ACIP panel voted to recommend delaying the birth dose of the hepatitis B vaccine, ending a policy that has reined in the virus."
-      },
-      {
-        "id": "6aa2cbaa3c69ca7e",
-        "title": "Harnessing human-AI collaboration for an AI roadmap that moves beyond pilots",
-        "url": "https://www.technologyreview.com/2025/12/05/1128730/harnessing-human-ai-collaboration-for-an-ai-roadmap-that-moves-beyond-pilots/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 05 Dec 2025 15:00:00 +0000",
-        "published_dt": "2025-12-05T15:00:00+00:00",
-        "summary": "The past year has marked a turning point in the corporate AI conversation. After a period of eager experimentation, organizations are now confronting a more complex reality: While investment in AI has never been higher, the path from pilot to production remains elusive. Three-quarters of enterprises remain stuck in experimentation mode, despite mounting pressure to&#8230;"
-      },
-      {
-        "id": "7b2c4d40836f0448",
-        "title": "STAT+: Harvard lab hollowed out by Trump cuts",
-        "url": "https://www.statnews.com/2025/12/05/biotech-news-vinay-prasad-blames-media-harvard-cuts/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 05 Dec 2025 14:30:20 +0000",
-        "published_dt": "2025-12-05T14:30:20+00:00",
-        "summary": "And more biotech news brought to you by The Readout newsletter"
-      },
-      {
-        "id": "740fa4ce23ccfa8b",
-        "title": "Ethiopia eyes experimental Marburg vaccine after outbreak",
-        "url": "https://www.statnews.com/2025/12/05/health-news-vaccines-galore-marburg-acip-hep-b/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 05 Dec 2025 13:52:05 +0000",
-        "published_dt": "2025-12-05T13:52:05+00:00",
-        "summary": "And more health news of the day from Morning Rounds"
       }
     ],
     "Engineering & Aerospace": [
@@ -273,6 +273,15 @@
         "published": "Wed, 03 Dec 2025 11:18:17 +0000",
         "published_dt": "2025-12-03T11:18:17+00:00",
         "summary": "<figure><img alt=\"Antares nuclear propulsion\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/antares-propulsion.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Nuclear power startup Antares announced a $96 million Series B round Dec. 2 to fund work on developing small nuclear reactors, including for space applications.</p>\n<p>The post <a href=\"https://spacenews.com/antares-raises-96-million-for-nuclear-reactors-on-earth-and-in-space/\">Antares raises $96 million for nuclear reactors on Earth and in space</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "23dbdcd5a32568fa",
+        "title": "SpaceX gets approval to build Starship launch complex at Cape Canaveral",
+        "url": "https://spacenews.com/spacex-gets-approval-to-build-starship-launch-complex-at-cape-canaveral/",
+        "source": "SpaceNews",
+        "published": "Sat, 06 Dec 2025 20:44:09 +0000",
+        "published_dt": "2025-12-06T20:44:09+00:00",
+        "summary": "<figure><img alt=\"Starship SLC-37\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"619\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/slc37-starship.jpeg?fit=1024%2C619&amp;ssl=1\" width=\"1024\" /></figure>\n<p>he Department of the Air Force has approved plans to convert a former Delta 4 launch site at Cape Canaveral into a complex for SpaceX\u2019s Starship.</p>\n<p>The post <a href=\"https://spacenews.com/spacex-gets-approval-to-build-starship-launch-complex-at-cape-canaveral/\">SpaceX gets approval to build Starship launch complex at Cape Canaveral</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "d4cf74084dba34a9",
@@ -444,15 +453,6 @@
         "published": "Thu, 04 Dec 2025 12:36:54 +0000",
         "published_dt": "2025-12-04T12:36:54+00:00",
         "summary": "<p>Single-license access links STAR-CCM+, Amesim, HEEDS and Femap with Teamcenter X data management and AI setup help.</p>\n<p>The post <a href=\"https://www.engineering.com/siemens-adds-simcenter-x-advanced-to-cloud-simulation-platform/\">Siemens adds Simcenter X Advanced to cloud simulation platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "2c713f8d72ee1e2e",
-        "title": "Hexagon releases GeoMonitoring web platform for site safety data",
-        "url": "https://www.engineering.com/hexagon-releases-geomonitoring-web-platform-for-site-safety-data/",
-        "source": "Engineering.com",
-        "published": "Thu, 04 Dec 2025 12:27:00 +0000",
-        "published_dt": "2025-12-04T12:27:00+00:00",
-        "summary": "<p>The system uses 3D views, shared dashboards and automated alerts to track ground movement and support multiuser analysis.</p>\n<p>The post <a href=\"https://www.engineering.com/hexagon-releases-geomonitoring-web-platform-for-site-safety-data/\">Hexagon releases GeoMonitoring web platform for site safety data</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       }
     ],
     "Economics": [
