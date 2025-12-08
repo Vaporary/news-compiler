@@ -1,15 +1,87 @@
 {
-  "generated_at": "2025-12-07T12:48:42.226141+00:00",
+  "generated_at": "2025-12-08T12:55:29.766997+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "063be2b272e63113",
-        "title": "STAT+: Hengrui, BeOne top new analysis of Chinese drug development",
-        "url": "https://www.statnews.com/2025/12/07/jiangsu-hengrui-beone-chinese-biotech-innovation-ranking/?utm_campaign=rss",
+        "id": "d46eddd7f7d94a1e",
+        "title": "STAT+: Kymera drug positioned to rival Sanofi and Regeneron\u2019s Dupixent succeeds in early-stage eczema trial",
+        "url": "https://www.statnews.com/2025/12/08/kymera-kt-621-clinical-trial-results-atopic-dermatitis-challenge-dupixent/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Sun, 07 Dec 2025 12:00:00 +0000",
-        "published_dt": "2025-12-07T12:00:00+00:00",
-        "summary": "A new report looks at Chinese biotech innovation capturing the attention of pharmaceutical executives and investors worldwide."
+        "published": "Mon, 08 Dec 2025 12:00:00 +0000",
+        "published_dt": "2025-12-08T12:00:00+00:00",
+        "summary": "Now, the company will aim to show the drug helps patients with eczema and asthma in larger, placebo-controlled trial."
+      },
+      {
+        "id": "72ca3ad0832adb31",
+        "title": "4 technologies that didn\u2019t make our 2026 breakthroughs list",
+        "url": "https://www.technologyreview.com/2025/12/08/1128969/2026-breakthroughs-list-leftovers/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 08 Dec 2025 12:00:00 +0000",
+        "published_dt": "2025-12-08T12:00:00+00:00",
+        "summary": "If you\u2019re a longtime reader, you probably know that our newsroom selects 10 breakthroughs every year that we think will define the future. This group exercise is mostly fun and always engrossing, but at times it can also be quite difficult.\u00a0 We collectively pitch dozens of ideas, and the editors meticulously review and debate the&#8230;"
+      },
+      {
+        "id": "8f09bf597316a108",
+        "title": "STAT+: Dyne Therapeutics plans to file for approval for next-generation Duchenne drug",
+        "url": "https://www.statnews.com/2025/12/08/dyne-therapeutics-duchenne-fda-exon-skipper-sarepta/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 08 Dec 2025 11:36:08 +0000",
+        "published_dt": "2025-12-08T11:36:08+00:00",
+        "summary": "Dyne Therapeutics plans to submit its next-gen Duchenne muscular dystrophy drug to the FDA after a successful trial."
+      },
+      {
+        "id": "dc195c2825ee0c46",
+        "title": "STAT+: Is AI ready to interpret chest X-rays without human supervision?",
+        "url": "https://www.statnews.com/2025/12/08/can-ai-interpret-chest-xrays-without-supervision/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 08 Dec 2025 09:30:00 +0000",
+        "published_dt": "2025-12-08T09:30:00+00:00",
+        "summary": "In radiology, an early adopter of health AI, a debate is brewing: Should generative AI models interpret medical images on their own?"
+      },
+      {
+        "id": "a0c20667028fd2ff",
+        "title": "Opinion: We wrote the HHS review on treatment for minors with gender dysphoria. We hope our critics actually read our report",
+        "url": "https://www.statnews.com/2025/12/08/hhs-gender-dysphoria-minors-report-authors/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 08 Dec 2025 09:30:00 +0000",
+        "published_dt": "2025-12-08T09:30:00+00:00",
+        "summary": "\u201cMedical professionals should look past the partisan framing and engage with the substance of this debate,\u201d write the authors of the HHS review on treating minors with gender dysphoria."
+      },
+      {
+        "id": "0f67ae8a5c18b674",
+        "title": "Opinion: My continuous glucose monitor graphs my life \u2014 but misses the big picture",
+        "url": "https://www.statnews.com/2025/12/08/continuous-glucose-monitor-cgm-insulin-pump-behavioral-intelligence/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 08 Dec 2025 09:30:00 +0000",
+        "published_dt": "2025-12-08T09:30:00+00:00",
+        "summary": "\u201cDiabetes is not only metabolic; it's emotional, cognitive, and situational,\u201d writes Mark E. Paull."
+      },
+      {
+        "id": "dbd13723553c4161",
+        "title": "STAT+: Driven by GLP-1s, prescription drug spending explodes at major health insurers",
+        "url": "https://www.statnews.com/2025/12/08/health-insurers-spending-more-on-prescriptions-glp-1-drugs-cited/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 08 Dec 2025 09:30:00 +0000",
+        "published_dt": "2025-12-08T09:30:00+00:00",
+        "summary": "Some insurers have spent more on drugs in nine months this year than they did in all of 2024. Cost of weight loss drugs a major factor, STAT analysis finds."
+      },
+      {
+        "id": "96ac10725f425280",
+        "title": "NIH shut out hundreds of young scientists from funding to start their own labs",
+        "url": "https://www.statnews.com/2025/12/08/trump-nih-cuts-impacts-next-gen-researchers-american-science-shattered-series/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 08 Dec 2025 09:30:00 +0000",
+        "published_dt": "2025-12-08T09:30:00+00:00",
+        "summary": "Special Report: The NIH has shut out hundreds of young scientists from funding to start their own labs."
+      },
+      {
+        "id": "1cfb77326281ba24",
+        "title": "<a href=\"https://www.fiercebiotech.com/research/amphistas-targeted-glue-sticks-landing-aml-test-supporting-push-clinic\" hreflang=\"en\">Amphista's targeted glue sticks the landing in AML test, supporting push into the clinic</a>",
+        "url": "https://www.fiercebiotech.com/research/amphistas-targeted-glue-sticks-landing-aml-test-supporting-push-clinic",
+        "source": "Fierce Biotech",
+        "published": "Dec 8, 2025 5:17am",
+        "published_dt": "2025-12-08T05:17:00+00:00",
+        "summary": "Amphista Therapeutics has reported preclinical leukemia data on its protein degrader, positioning the Big Pharma-partnered biotech to target a 2026 start date for a phase 1 clinical trial."
       },
       {
         "id": "7f04682b2f5f2d86",
@@ -66,13 +138,22 @@
         "summary": "The FDA has placed a hold on Denali Therapeutics\u2019 plans to launch a phase 1 rare disease trial, citing concerns about immune reactions to the investigational treatment recorded in preclinical mouse studies."
       },
       {
-        "id": "17e296334332ab80",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-floats-user-fee-cuts-early-stage-us-trials-additional-fees-overseas-development\" hreflang=\"en\">FDA floats user fee cuts for early-stage US trials, additional fees for overseas development</a>",
-        "url": "https://www.fiercebiotech.com/biotech/fda-floats-user-fee-cuts-early-stage-us-trials-additional-fees-overseas-development",
+        "id": "b36fb185ff1d4b10",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/abbvie-hands-back-phase-1-duties-chronic-inflammation-drug-partner-ose\" hreflang=\"en\">AbbVie hands back phase 1 duties for chronic inflammation drug to partner Ose</a>",
+        "url": "https://www.fiercebiotech.com/biotech/abbvie-hands-back-phase-1-duties-chronic-inflammation-drug-partner-ose",
         "source": "Fierce Biotech",
-        "published": "Dec 3, 2025 4:53pm",
-        "published_dt": "2025-12-03T16:53:00+00:00",
-        "summary": "The FDA has proposed cutting fees for early-stage companies conducting clinical development in the U.S. instead of abroad."
+        "published": "Dec 8, 2025 5:42am",
+        "published_dt": "2025-12-08T05:42:00+00:00",
+        "summary": "Close to two years after AbbVie handed over $48 million for the rights to Ose Immunotherapeutics\u2019 inflammation drug, the Big Pharma now wants the French biotech to keep an eye on the asset for a while longer."
+      },
+      {
+        "id": "65bea00b884af1b2",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ash-star-antibody-sparkles-preview-potential-phase-3-bleeding-disease-success\" hreflang=\"en\">ASH: Star antibody sparkles in preview of potential phase 3 bleeding disease success</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ash-star-antibody-sparkles-preview-potential-phase-3-bleeding-disease-success",
+        "source": "Fierce Biotech",
+        "published": "Dec 6, 2025 5:08pm",
+        "published_dt": "2025-12-06T17:08:00+00:00",
+        "summary": "ORLANDO, Fla.\u2014With dosing underway in a pivotal phase 3 trial, Star Therapeutics is illuminating the clinical potential of its anti-bleeding antibody VGA039 with encouraging phase 1/2 results in a common bleeding disorder."
       },
       {
         "id": "a45921190191802b",
@@ -82,33 +163,6 @@
         "published": "Dec 5, 2025 4:33pm",
         "published_dt": "2025-12-05T16:33:00+00:00",
         "summary": "Johnson &amp; Johnson\u2019s billion-dollar bet on a novel implant for heart failure hit a roadblock this week, with an FDA advisory panel unanimously voting against its risk-benefit profile."
-      },
-      {
-        "id": "0641d6e0c1cabde7",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about FDA\u2019s Prasad defending his plans, a Merck setback in Germany, and more",
-        "url": "https://www.statnews.com/pharmalot/2025/12/05/fda-prasad-mark-cuban-generics-keytruda-pharmalittle-newsletter/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 05 Dec 2025 14:22:11 +0000",
-        "published_dt": "2025-12-05T14:22:11+00:00",
-        "summary": "In today's Pharmalittle roundup, we're reading about FDA's Prasad defending his plans, a Merck setback in Germany, and more."
-      },
-      {
-        "id": "664bacb05b749270",
-        "title": "Faulty glucose monitors linked to 7 deaths and more than 700 injuries, FDA warns",
-        "url": "https://www.statnews.com/2025/12/04/abbott-diabetes-care-faulty-glucose-monitors-deaths-injuries/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 04 Dec 2025 23:10:15 +0000",
-        "published_dt": "2025-12-04T23:10:15+00:00",
-        "summary": "The FDA is warning people to stop using certain types of glucose monitor sensors after Abbott Diabetes Care said their devices were linked to seven deaths and more than 700&#8230;"
-      },
-      {
-        "id": "f9ed8ca9c47f1148",
-        "title": "STAT+: Vinay Prasad, FDA\u2019s vaccine regulator, waves off criticism in closed-door remarks",
-        "url": "https://www.statnews.com/2025/12/04/vinay-prasad-fda-defends-vaccine-plan-blames-false-narratives/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 04 Dec 2025 20:56:20 +0000",
-        "published_dt": "2025-12-04T20:56:20+00:00",
-        "summary": "In a closed meeting, Vinay Prasad pushes back on criticism of his vaccine policy changes, morale issues at the FDA, and his role in recent drug-approval turbulence."
       },
       {
         "id": "80f51ddaf754114a",
@@ -138,97 +192,79 @@
         "summary": "While Denali Therapeutics awaits a delayed FDA decision for its Hunter syndrome drug, the biotech is already banking on the therapy\u2019s commercial success."
       },
       {
-        "id": "aabb1c619b50ed77",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-names-tracy-beth-hoeg-fresh-vaccine-safety-probe-acting-head-drug-center\" hreflang=\"en\">FDA names Tracy Beth H\u00f8eg, fresh from vaccine safety probe, as acting head of drug center</a>",
-        "url": "https://www.fiercebiotech.com/biotech/fda-names-tracy-beth-hoeg-fresh-vaccine-safety-probe-acting-head-drug-center",
-        "source": "Fierce Biotech",
-        "published": "Dec 4, 2025 4:04am",
-        "published_dt": "2025-12-04T04:04:00+00:00",
-        "summary": "The FDA has named Tracy Beth H\u00f8eg, M.D., Ph.D., as acting director of its Center for Drug Evaluation and Research, continuing the rapid ascent of a physician who rose to prominence during the pandemic."
-      },
-      {
-        "id": "fbf7472195a0620b",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/medtronics-hugo-surgical-robot-secures-us-clearance\" hreflang=\"en\">Medtronic's Hugo surgical robot secures US clearance</a>",
-        "url": "https://www.fiercebiotech.com/medtech/medtronics-hugo-surgical-robot-secures-us-clearance",
-        "source": "Fierce Biotech",
-        "published": "Dec 3, 2025 2:30pm",
-        "published_dt": "2025-12-03T14:30:00+00:00",
-        "summary": "The FDA\u2019s initial clearance includes procedures to remove the prostate, kidneys and bladder, which covers about 230,000 surgeries annually in the U.S."
-      },
-      {
-        "id": "6657f27e0ef849fa",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/capricor-sets-2nd-approval-attempt-duchenne-cell-therapy-phase-3-win\" hreflang=\"en\">Capricor's phase 3 win sets up 2nd approval attempt for Duchenne cell therapy</a>",
-        "url": "https://www.fiercebiotech.com/biotech/capricor-sets-2nd-approval-attempt-duchenne-cell-therapy-phase-3-win",
-        "source": "Fierce Biotech",
-        "published": "Dec 3, 2025 10:48am",
-        "published_dt": "2025-12-03T10:48:00+00:00",
-        "summary": "Capricor Therapeutics has notched a key win in its efforts to bring Duchenne muscular dystrophy cell therapy deramiocel to market, hitting the primary endpoint in a phase 3 trial."
-      },
-      {
-        "id": "a45e44f96c98fe62",
-        "title": "STAT+: \u2018Remarkable\u2019 drug results against an aggressive leukemia",
-        "url": "https://www.statnews.com/2025/12/06/ash-meeting-syndax-drug-for-acute-myeloid-leukemia/?utm_campaign=rss",
+        "id": "f3bd3d4ae363650d",
+        "title": "STAT+: A promising sickle cell pill and a new way to treat myelofibrosis",
+        "url": "https://www.statnews.com/2025/12/07/ash-meeting-newsletter-fulcrum-sickle-cell-pill-incyte-myelofibrosis-data/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Sat, 06 Dec 2025 20:26:30 +0000",
-        "published_dt": "2025-12-06T20:26:30+00:00",
-        "summary": "At the end of a tense year for science, the American Society of Hematology heard promising data on acute myeloid leukemia, Von Willebrand disease and more."
+        "published": "Sun, 07 Dec 2025 20:36:04 +0000",
+        "published_dt": "2025-12-07T20:36:04+00:00",
+        "summary": "At ASH 2025, Fulcrum presented promising data on a sickle cell pill and Incyte is pioneering a new way to treat myelofibrosis."
       },
       {
-        "id": "d84665c4f8f20825",
-        "title": "Opinion: RFK Jr.\u2019s vaccine advisory panel is beset by incompetence, bias, and procedural chaos",
-        "url": "https://www.statnews.com/2025/12/06/acip-vaccine-advisory-panel-incompetence-bias-expert/?utm_campaign=rss",
+        "id": "60bc0ece209a68ad",
+        "title": "STAT+: Incyte study results suggest a new approach to treating myelofibrosis",
+        "url": "https://www.statnews.com/2025/12/07/incyte-results-myelofibrosis-treatment-ash-2025/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Sat, 06 Dec 2025 14:04:53 +0000",
-        "published_dt": "2025-12-06T14:04:53+00:00",
-        "summary": "The Advisory Committee on Immunization Practices' (ACIP) meetings used to be a geek\u2019s dream: hours of long, maybe dreary presentation of extensive data followed by lengthy discussions that drilled into&#8230;"
+        "published": "Sun, 07 Dec 2025 19:42:28 +0000",
+        "published_dt": "2025-12-07T19:42:28+00:00",
+        "summary": "Incyte's data bolster efforts to develop a new type of drug for myelofibrosis, and suggest it may be a replacement for Jakafi."
       },
       {
-        "id": "0270ba33d58a08f5",
-        "title": "RFK Jr.\u2019s vaccine panel is laying the groundwork for more scrutiny of childhood shots",
-        "url": "https://www.statnews.com/2025/12/05/cdc-acip-panel-entire-childhood-vaccine-schedule-under-scrutiny/?utm_campaign=rss",
+        "id": "729154c031026836",
+        "title": "STAT+: Fulcrum study suggests improved efficacy for higher dose sickle cell pill",
+        "url": "https://www.statnews.com/2025/12/07/fulcrum-pill-for-sickle-cell-data-at-ash-higher-dose-better-results/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Fri, 05 Dec 2025 23:37:05 +0000",
-        "published_dt": "2025-12-05T23:37:05+00:00",
-        "summary": "RFK Jr.\u2019s vaccine panel is laying the groundwork for more scrutiny of childhood shots."
+        "published": "Sun, 07 Dec 2025 17:27:07 +0000",
+        "published_dt": "2025-12-07T17:27:07+00:00",
+        "summary": "A higher dose of the experimental pill for sickle cell disease showed more promise, Fulcrum said at the American Society of Hematology annual meeting."
       },
       {
-        "id": "eb41ea9b484a3cc5",
-        "title": "STAT+: Cancer detection firm Freenome to go public via $330 million SPAC deal",
-        "url": "https://www.statnews.com/2025/12/05/freenome-plans-go-public-early-cancer-detection/?utm_campaign=rss",
+        "id": "fbcca3be10aafd12",
+        "title": "STAT+: New data from Gilead, Arcellx multiple myeloma CAR-T suggest benefit over rival treatment",
+        "url": "https://www.statnews.com/2025/12/07/gilead-arcellx-multiple-myeloma-treatment-anito-cel-promising-data-ash/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Fri, 05 Dec 2025 17:54:05 +0000",
-        "published_dt": "2025-12-05T17:54:05+00:00",
-        "summary": "Freenome, a Bay Area biotech that is part of the increasingly competitive race to accurately detect cancer early through blood-based tests, plans to go public."
-      },
-      {
-        "id": "6beef61a4001266c",
-        "title": "STAT+: In radiology, an early adopter of AI, technology is advancing faster than the field can keep up",
-        "url": "https://www.statnews.com/2025/12/05/radiology-artificial-intelligence-advancing-faster-rsna/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 05 Dec 2025 16:31:37 +0000",
-        "published_dt": "2025-12-05T16:31:37+00:00",
-        "summary": "AI use has exploded in radiology as the field struggles with staffing shortages, exacerbated by growing imaging volumes."
-      },
-      {
-        "id": "e0e2df92d68bffaf",
-        "title": "STAT+: Up and down the ladder: The latest comings and goings",
-        "url": "https://www.statnews.com/pharmalot/2025/12/05/pharma-biotech-jobs-ladder-gilead-incyte/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 05 Dec 2025 16:17:46 +0000",
-        "published_dt": "2025-12-05T16:17:46+00:00",
-        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-      },
-      {
-        "id": "d4ce05d963f80062",
-        "title": "CDC panel recommends delaying birth dose of hepatitis B vaccine",
-        "url": "https://www.statnews.com/2025/12/05/cdc-hepatitis-b-vaccination-acip-panel-overturns-30-year-policy/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 05 Dec 2025 15:32:26 +0000",
-        "published_dt": "2025-12-05T15:32:26+00:00",
-        "summary": "The CDC's ACIP panel voted to recommend delaying the birth dose of the hepatitis B vaccine, ending a policy that has reined in the virus."
+        "published": "Sun, 07 Dec 2025 15:56:41 +0000",
+        "published_dt": "2025-12-07T15:56:41+00:00",
+        "summary": "Gilead and Arcellx reported promising data for their CAR-T therapy anito-cel at the annual American Society of Hematology meeting."
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "a4a1ccdbd78ae756",
+        "title": "Linear Integrated Systems releases LSBF862 low-noise JFET",
+        "url": "https://www.engineering.com/linear-integrated-systems-releases-lsbf862-low-noise-jfet/",
+        "source": "Engineering.com",
+        "published": "Mon, 08 Dec 2025 12:52:18 +0000",
+        "published_dt": "2025-12-08T12:52:18+00:00",
+        "summary": "<p>Device is a drop-in alternative to NXP\u2019s BF862, with 40V BVGSS and optional special testing for Vgs(off) and IDSS.</p>\n<p>The post <a href=\"https://www.engineering.com/linear-integrated-systems-releases-lsbf862-low-noise-jfet/\">Linear Integrated Systems releases LSBF862 low-noise JFET</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "6e84db619648e4c5",
+        "title": "Study quantifies costs of EU Space Act to European and U.S. companies",
+        "url": "https://spacenews.com/study-quantifies-costs-of-eu-space-act-to-european-and-u-s-companies/",
+        "source": "SpaceNews",
+        "published": "Mon, 08 Dec 2025 12:29:04 +0000",
+        "published_dt": "2025-12-08T12:29:04+00:00",
+        "summary": "<figure><img alt=\"Kubilius\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/P067364-774808-scaled.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A proposed European Union space law could cost both European and American space companies hundreds of millions of euros in lost revenue annually, according to a new study.</p>\n<p>The post <a href=\"https://spacenews.com/study-quantifies-costs-of-eu-space-act-to-european-and-u-s-companies/\">Study quantifies costs of EU Space Act to European and U.S. companies</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "17050560c2ee268d",
+        "title": "uSkin tactile sensors integrated into Tesollo DG-5F robot hand",
+        "url": "https://www.engineering.com/uskin-tactile-sensors-integrated-into-tesollo-dg-5f-robot-hand/",
+        "source": "Engineering.com",
+        "published": "Mon, 08 Dec 2025 11:52:03 +0000",
+        "published_dt": "2025-12-08T11:52:03+00:00",
+        "summary": "<p>Sensor skins cover fingertips, phalanges and palm, giving the five-finger hand force and motion feedback for dexterous grasping.</p>\n<p>The post <a href=\"https://www.engineering.com/uskin-tactile-sensors-integrated-into-tesollo-dg-5f-robot-hand/\">uSkin tactile sensors integrated into Tesollo DG-5F robot hand</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "7fe37fcfef6eb180",
+        "title": "NASA extends agreement with CASIS for ISS national lab",
+        "url": "https://spacenews.com/nasa-extends-agreement-with-casis-for-iss-national-lab/",
+        "source": "SpaceNews",
+        "published": "Mon, 08 Dec 2025 11:12:52 +0000",
+        "published_dt": "2025-12-08T11:12:52+00:00",
+        "summary": "<figure><img alt=\"Fincke ISS research\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/54777099285_09ec7ffb5d_k.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA has extended an agreement with a nonprofit organization to manage the portion of the International Space Station designated as a national laboratory, likely for the final time.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-extends-agreement-with-casis-for-iss-national-lab/\">NASA extends agreement with CASIS for ISS national lab</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
       {
         "id": "cd8d6918c78adf9d",
         "title": "Castelion raises $350 million to scale hypersonic missile production",
@@ -266,13 +302,22 @@
         "summary": "<p>New Future Labs unit adds partner hardware from UBTech, LimX Dynamics and Elephant Robotics for developers, labs and STEM programs.</p>\n<p>The post <a href=\"https://www.engineering.com/autonomous-expands-into-ai-edge-computers-and-research-robots/\">Autonomous expands into AI edge computers and research robots</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "9ac1ca750b8c8ddb",
-        "title": "Antares raises $96 million for nuclear reactors on Earth and in space",
-        "url": "https://spacenews.com/antares-raises-96-million-for-nuclear-reactors-on-earth-and-in-space/",
+        "id": "c98957dc6227c2ad",
+        "title": "Guetlein defends Golden Dome secrecy, says industry is \u2018well informed\u2019 despite criticism",
+        "url": "https://spacenews.com/guetlein-defends-golden-dome-secrecy-says-industry-is-well-informed-despite-criticism/",
         "source": "SpaceNews",
-        "published": "Wed, 03 Dec 2025 11:18:17 +0000",
-        "published_dt": "2025-12-03T11:18:17+00:00",
-        "summary": "<figure><img alt=\"Antares nuclear propulsion\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/antares-propulsion.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Nuclear power startup Antares announced a $96 million Series B round Dec. 2 to fund work on developing small nuclear reactors, including for space applications.</p>\n<p>The post <a href=\"https://spacenews.com/antares-raises-96-million-for-nuclear-reactors-on-earth-and-in-space/\">Antares raises $96 million for nuclear reactors on Earth and in space</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Sun, 07 Dec 2025 18:30:42 +0000",
+        "published_dt": "2025-12-07T18:30:42+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"586\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Screenshot-2025-12-06-at-6.07.39-PM.png?fit=1024%2C586&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Guetlein said his office has held extensive private engagements with industry. </p>\n<p>The post <a href=\"https://spacenews.com/guetlein-defends-golden-dome-secrecy-says-industry-is-well-informed-despite-criticism/\">Guetlein defends Golden Dome secrecy, says industry is \u2018well informed\u2019 despite criticism</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "28042000be2b68ef",
+        "title": "China hearing focuses on U.S. policy shortfalls",
+        "url": "https://spacenews.com/china-hearing-focuses-on-u-s-policy-shortfalls/",
+        "source": "SpaceNews",
+        "published": "Sun, 07 Dec 2025 16:51:39 +0000",
+        "published_dt": "2025-12-07T16:51:39+00:00",
+        "summary": "<figure><img alt=\"Griffin\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"570\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/griffin-dec2025.jpeg?fit=1024%2C570&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A House hearing on the rise of China\u2019s space program turned into a broader critique of U.S. space policy, including NASA\u2019s current approach to returning astronauts to the moon.</p>\n<p>The post <a href=\"https://spacenews.com/china-hearing-focuses-on-u-s-policy-shortfalls/\">China hearing focuses on U.S. policy shortfalls</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "23dbdcd5a32568fa",
@@ -408,54 +453,18 @@
         "published": "Thu, 04 Dec 2025 18:47:26 +0000",
         "published_dt": "2025-12-04T18:47:26+00:00",
         "summary": "<p>Immersive Engineering provides an intuitive environment for designers to assess geometry, ergonomics and assembly intent. </p>\n<p>The post <a href=\"https://www.engineering.com/how-is-immersive-engineering-transforming-product-development/\">How is Immersive Engineering transforming product development?</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "8edace11c9d8d12b",
-        "title": "Welcome, Jared Isaacman",
-        "url": "https://spacenews.com/welcome-jared-isaacman/",
-        "source": "SpaceNews",
-        "published": "Thu, 04 Dec 2025 17:52:38 +0000",
-        "published_dt": "2025-12-04T17:52:38+00:00",
-        "summary": "<figure><img alt=\"Isaacman\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/54961826041_3df60ef4d0_k.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Welcome, Jared Isaacman. We who love NASA, or at least the idea of NASA, wish you the very best in taking leadership of the great American space agency. You seem to be an agent for change and NASA sorely needs that. Its human spaceflight program, which garners most of its public attention and financial support, [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/welcome-jared-isaacman/\">Welcome, Jared Isaacman</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "4267903767167c6f",
-        "title": "Celestis Selects Stoke Space\u2019s Nova for Infinite Flight: Humanity\u2019s Next Deep-Space Memorial Mission",
-        "url": "https://spacenews.com/celestis-selects-stoke-spaces-nova-for-infinite-flight-humanitys-next-deep-space-memorial-mission/",
-        "source": "SpaceNews",
-        "published": "Thu, 04 Dec 2025 15:53:05 +0000",
-        "published_dt": "2025-12-04T15:53:05+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"940\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Logo-on-Black-2.png?fit=940%2C940&amp;ssl=1\" width=\"940\" /></figure>\n<p>HOUSTON, TX \u2013 December 3, 2025 \u2013 For more than three decades, Celestis, Inc. has transformed remembrance into exploration, sending the names, ashes, and DNA of pioneers and visionaries into [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/celestis-selects-stoke-spaces-nova-for-infinite-flight-humanitys-next-deep-space-memorial-mission/\">Celestis Selects Stoke Space\u2019s Nova for Infinite Flight: Humanity\u2019s Next Deep-Space Memorial Mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "54cbd62942f8f63e",
-        "title": "The shift that saved American spaceflight",
-        "url": "https://spacenews.com/the-shift-that-saved-american-spaceflight/",
-        "source": "SpaceNews",
-        "published": "Thu, 04 Dec 2025 14:20:21 +0000",
-        "published_dt": "2025-12-04T14:20:21+00:00",
-        "summary": "<figure><img alt=\"Phil McAlister\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/2000-1500-space-minds-phil-mcalister.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>In this episode, former NASA commercial space division chief Phil McAlister sits down with host David Ariosto for a wide-ranging conversation about the future of human spaceflight, NASA\u2019s internal culture, and the explosive growth of the commercial space sector.</p>\n<p>The post <a href=\"https://spacenews.com/the-shift-that-saved-american-spaceflight/\">The shift that saved American spaceflight</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "a7e6af01a15875e7",
-        "title": "Roscosmos replaces cosmonaut on next Crew Dragon mission to ISS",
-        "url": "https://spacenews.com/roscosmos-replaces-cosmonaut-on-next-crew-dragon-mission-to-iss/",
-        "source": "SpaceNews",
-        "published": "Thu, 04 Dec 2025 12:38:24 +0000",
-        "published_dt": "2025-12-04T12:38:24+00:00",
-        "summary": "<figure><img alt=\"Oleg Artemyev and Crew-12\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/crew12-artemyev.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Roscosmos has replaced a cosmonaut assigned to the next Crew Dragon mission to the International Space Station for reasons neither it nor NASA will disclose.</p>\n<p>The post <a href=\"https://spacenews.com/roscosmos-replaces-cosmonaut-on-next-crew-dragon-mission-to-iss/\">Roscosmos replaces cosmonaut on next Crew Dragon mission to ISS</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "ad8f9dd45259b0b2",
-        "title": "Siemens adds Simcenter X Advanced to cloud simulation platform",
-        "url": "https://www.engineering.com/siemens-adds-simcenter-x-advanced-to-cloud-simulation-platform/",
-        "source": "Engineering.com",
-        "published": "Thu, 04 Dec 2025 12:36:54 +0000",
-        "published_dt": "2025-12-04T12:36:54+00:00",
-        "summary": "<p>Single-license access links STAR-CCM+, Amesim, HEEDS and Femap with Teamcenter X data management and AI setup help.</p>\n<p>The post <a href=\"https://www.engineering.com/siemens-adds-simcenter-x-advanced-to-cloud-simulation-platform/\">Siemens adds Simcenter X Advanced to cloud simulation platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       }
     ],
     "Economics": [
+      {
+        "id": "820d554ba62719c3",
+        "title": "Accommodating Emerging Giants in the Global Economy -- by Zhuokai Huang, Benny Kleinman, Ernest Liu, Stephen J. Redding",
+        "url": "https://www.nber.org/papers/w34530#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "How has aggregate income and welfare in the United States been affected by globalization and rapid productivity growth in emerging economies? We use the class of constant elasticity trade models to provide quantitative evidence on these questions. We find that reductions in worldwide trade frictions over the period from 1960-2020 reduced the share of the United States in global GDP but raised its aggregate welfare. Similarly, productivity growth in Japan and China led to a decline in the relative income of the United States, but brought aggregate welfare gains from the resulting expansion in global production possibilities. Trade integration and foreign productivity growth have relatively modest effects on domestic income and welfare compared to domestic productivity growth."
+      },
       {
         "id": "8bd66e558ada2539",
         "title": "How Trump\u2019s war on the Federal Reserve could do serious damage",
@@ -466,31 +475,49 @@
         "summary": "Just consider what happens if inflation starts to rise again"
       },
       {
-        "id": "78aefc936e280a5e",
-        "title": "Labor Market Strength and Declining Community College Enrollment -- by Joshua Goodman, Joseph Winkelmann",
-        "url": "https://www.nber.org/papers/w34498#fromrss",
+        "id": "a13e966dfcfa5571",
+        "title": "Avoiding Prejudice: Islamophobia and the Labor Supply of Arabs and Muslims in the U.S. -- by Kerwin Kofi Charles, Konstantin Kunze, Hani Mansour, Daniel I. Rees, Bryson Rintala",
+        "url": "https://www.nber.org/papers/w34526#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "Declining U.S. college enrollments over the past 15 years have triggered questions about the health of the postsecondary sector. Using institution-level data, we make four points. First, such declines are driven not by the four-year sector but by two-year community colleges, which have apparently shrunk by over 30% since the peak of the Great Recession. Second, over one-third of this apparent decline is an artifact of some community colleges being reclassified as offering four-year degrees. Third, pre-Great Recession data shows a 1 percentage point increase in the local unemployment rate increases first-time community college enrollment by 2 percent, suggesting many students are on the margin between community college and job opportunities. For-profit college enrollments are similarly countercyclical, while public and private four-year college enrollments appear acyclical. Our estimates suggest that strengthening labor markets explain about 60% of the post-Great Recession decline in first-time community college enrollment. Fourth, students whose enrollment decisions are most sensitive to labor market conditions appear unlikely to have completed a degree. Though declining community college enrollments are a challenge for postsecondary institutions, it is less clear whether they signal a problem for students on the margin of enrollment."
+        "summary": "This paper provides direct evidence that members of a disfavored group adjust their economic behavior in response to prejudice. We exploit plausibly exogenous, localized increases in anti-Arab and anti-Muslim sentiment generated by combat fatalities of U.S. service members from a given state during the wars in Iraq and Afghanistan between 2001 and 2014. Linking detailed records on military fatalities with survey data, we estimate the causal effect of these shocks on the labor supply of Arab and Muslim men residing in the affected states. Following a home-state fatality, Arab and Muslim men reduce their weekly hours of work by approximately one percent relative to the baseline sample mean. The reduction is twice as large among the self-employed and concentrated in occupations requiring frequent customer or co-worker interaction. These patterns are consistent with avoidance-based sorting predicted by prejudice-based models of discrimination. The timing of the response coincides with short-lived increases in anti-Muslim hate crimes, confirming that the estimated effects reflect shifts in prejudice rather than broader economic conditions. Our findings provide direct evidence that prejudice can distort market outcomes by inducing targeted individuals to withdraw from interactions with prejudiced market participants."
       },
       {
-        "id": "b664cee5c96a2476",
-        "title": "A Sufficient Statistics Approach to Optimal Corporate Taxes -- by Dustin L. Swonder, Dami\u00e1n Vergara",
-        "url": "https://www.nber.org/papers/w34517#fromrss",
+        "id": "d8718a34d384b01e",
+        "title": "The Innovation Race: Experimental Evidence on Advanced Technologies -- by Zo\u00eb B. Cullen, Ester Faia, Elisa Guglielminetti, Ricardo Perez-Truglia, Concetta Rondinelli",
+        "url": "https://www.nber.org/papers/w34532#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "This paper characterizes the equity\u2013efficiency tradeoff of corporate taxation using a stylized model that draws on the corporate investment and tax incidence literatures. We derive optimal corporate tax formulas in terms of estimable reduced-form elasticities and welfare weights on workers and firm owners. While much empirical work emphasizes investment responses, these elasticities do not feature in optimal tax formulas. The elasticity of taxable profits is a sufficient statistic for the efficiency costs of the corporate tax. Higher corporate tax rates are desirable when firm owners have low welfare weights, and less desirable when taxing profits reduces wages. These empirical objects remain central across extensions, including heterogeneous production technologies, tax sheltering, international capital mobility, monopsony, and linear labor income taxes. We survey the empirical literature and find that existing estimates can support a wide range of optimal tax rates. An inverse-optimum analysis provides combinations of welfare weights of workers and firm owners that would rationalize the post-2017 US corporate tax cut as optimal."
+        "summary": "We present the first large-scale field experiment test of strategic complementarities in firms\u2019 technology adoption. Our experiment was embedded in a Bank of Italy survey covering around 3,000 firms. We elicited firms\u2019 beliefs about competitors\u2019 adoption of two advanced technologies: Artificial Intelligence (AI) and robotics. We randomly provided half of the sample with accurate information about adoption rates. Most firms substantially underestimated competitors\u2019 current adoption, and when provided with information, they updated their expectations about competitors\u2019 future adoption. The information increased firms\u2019 own intended future adoption of robotics, although we do not observe a significant effect on AI adoption. Our findings provide causal evidence on coordination in innovation and illustrate how information frictions shape technology diffusion."
       },
       {
-        "id": "e90a7d53a41096b8",
-        "title": "The Effects of Widespread Online Education on Market Structure and Enrollment -- by Nano Barahona, Cau\u00ea Dobbin, Sebasti\u00e1n Otero",
-        "url": "https://www.nber.org/papers/w34522#fromrss",
+        "id": "4acf8194839ec9ba",
+        "title": "Measurement Matters: Financial Reporting and Productivity -- by John M. Barrios, Brian C. Fujiy, Petro Lisowsky, Michael Minnis",
+        "url": "https://www.nber.org/papers/w34536#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We study the rapid expansion of Brazil's private online higher-education sector and its effects on market structure and college enrollment. Exploiting regional and field-specific variation in online education penetration, we find that online programs expand access for older students but divert younger students from higher-quality in-person programs. Greater competition lowers tuition prices but also reduces the supply of in-person degrees. Using an equilibrium model of college education, we show that in the absence of online programs, total enrollment would be 14 percent lower, while in-person enrollment would rise by 33 percent. On net, aggregate labor-market value added declines by 1.4 percent. Online education raises value added for older students, who benefit from increased access, but lowers it for younger students, who shift toward lower-return online options. Counterfactual policies that restrict online enrollment to older cohorts could increase value added for younger students without reducing gains for older cohorts."
+        "summary": "We examine how differences in financial reporting practices shape firm productivity. Leveraging new audit questions in the U.S. Census Bureau's 2021 Management and Organizational Practices Survey (MOPS), and complementary tax return data from the Internal Revenue Service (IRS) and detailed financial records from Sageworks, we find that (i) variation in reporting quality explains 10--20 percent of intra-industry total factor productivity dispersion, and (ii) evidence of complementarity between the effects of financial audits and management practices driving firm productivity. We then examine the underlying mechanisms. First, audits function as a managerial technology, improving the precision of internal information and raising efficiency, with stronger effects in competitive, low-margin industries and among younger firms. Second, exploiting cross-state variation in tax incentives, we show that audits constrain underreporting and mitigate the downward bias in measured productivity. Together, these results highlight the underrated importance of financial reporting quality driving firm productivity."
+      },
+      {
+        "id": "153fbfbffe285d8f",
+        "title": "Waiting for the Right Offer: Laboratory Evidence on How News Affects Bargaining -- by Tingting Ding, Steven F. Lehrer",
+        "url": "https://www.nber.org/papers/w34543#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "We conduct a series of laboratory experiments that implement the Daley and Green (2020) model to examine whether the gradual, exogenous revelation of sellers\u2019 private information influences the occurrence of trades in a bilateral bargaining setting with a static lemon condition. We find that while information does not increase efficiency, it reduces the likelihood that buyers incur losses when trading with low-quality sellers. Anticipating that additional signals will arrive, buyers hesitate to finalize deals immediately and exhibit a \u201cwaiting for news\u201d effect, making sizable offer adjustments only when sufficient positive signals have accumulated. In contrast, informed sellers are less sensitive to news but appear to wait for the offer that they deem acceptable."
+      },
+      {
+        "id": "17d3c2fb7e99ac30",
+        "title": "Delivering Higher Pay? The Impacts of a Task-Level Pay Standard in the Gig Economy -- by Yuan An, Andrew Garin, Brian K. Kovak",
+        "url": "https://www.nber.org/papers/w34545#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "How does a task-level minimum pay requirement for gig workers affect their earnings and employment? We study this question in the context of a January 2024 law in Seattle that establishes a per-task minimum pay standard for app-based delivery workers. Drawing on novel cross-platform, trip-level gig activity data, we compare earnings and employment trajectories around the implementation of the law for workers who were doing delivery work in Seattle before the reform against workers who had been active in other regions of Washington State. We find that the minimum pay law raised delivery pay per task, though the increases in base pay per task were partially offset by a substantial reduction in average tips, a major component of delivery pay. At the same time, the policy led to a reduction in the number of tasks completed by highly attached incumbent drivers (but not an increase in exit from delivery work), completely offsetting increased pay per task and leading to zero effect on monthly earnings. We find evidence that drivers experienced more unpaid idle time and longer distances driven between tasks, but find no evidence that drivers reduced their total time working on delivery apps and only limited evidence of switching from delivery to ride-hailing work. Using a simple model of the labor market for platform delivery drivers, we show that our evidence is consistent with free entry of drivers into the delivery market driving down the task-finding rate until expected earnings return to their pre-reform level. These findings highlight the challenges of raising pay in spot markets for tasks where there is free entry of workers."
       },
       {
         "id": "a4d25f9f0de8bce4",
@@ -653,36 +680,18 @@
         "published": "Wed, 24 Sep 2025 16:18:15 +0000",
         "published_dt": "2025-09-24T16:18:15+00:00",
         "summary": "Despite fears of a reckoning, its fundamentals look solid"
-      },
-      {
-        "id": "6dba19a33bdd7e1d",
-        "title": "Russia\u2019s besieged economy is clinging on",
-        "url": "https://www.economist.com/finance-and-economics/2025/09/21/russias-besieged-economy-is-clinging-on",
-        "source": "Finance & economics",
-        "published": "Sun, 21 Sep 2025 08:58:12 +0000",
-        "published_dt": "2025-09-21T08:58:12+00:00",
-        "summary": "The good times have firmly come to an end, but wage growth remains strong"
-      },
-      {
-        "id": "a370fa08d06e1e38",
-        "title": "Ukraine faces a $19bn budget black hole",
-        "url": "https://www.economist.com/finance-and-economics/2025/09/17/ukraine-faces-a-19bn-budget-black-hole",
-        "source": "Finance & economics",
-        "published": "Wed, 17 Sep 2025 19:44:22 +0000",
-        "published_dt": "2025-09-17T19:44:22+00:00",
-        "summary": "Without funding, the country will be left vulnerable"
-      },
-      {
-        "id": "9b8767b0362ded73",
-        "title": "How grain has gone from famine to feast",
-        "url": "https://www.economist.com/finance-and-economics/2025/09/11/how-grain-has-gone-from-famine-to-feast",
-        "source": "Finance & economics",
-        "published": "Thu, 11 Sep 2025 09:33:43 +0000",
-        "published_dt": "2025-09-11T09:33:43+00:00",
-        "summary": "Prices are close to a five-year low"
       }
     ],
     "Cross-Disciplinary": [
+      {
+        "id": "72ca3ad0832adb31",
+        "title": "4 technologies that didn\u2019t make our 2026 breakthroughs list",
+        "url": "https://www.technologyreview.com/2025/12/08/1128969/2026-breakthroughs-list-leftovers/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 08 Dec 2025 12:00:00 +0000",
+        "published_dt": "2025-12-08T12:00:00+00:00",
+        "summary": "If you\u2019re a longtime reader, you probably know that our newsroom selects 10 breakthroughs every year that we think will define the future. This group exercise is mostly fun and always engrossing, but at times it can also be quite difficult.\u00a0 We collectively pitch dozens of ideas, and the editors meticulously review and debate the&#8230;"
+      },
       {
         "id": "88cd21a86f0185e5",
         "title": "Trillions Spent and Big Software Projects Are Still Failing",
@@ -889,15 +898,6 @@
         "published": "Wed, 03 Dec 2025 19:55:59 +0000",
         "published_dt": "2025-12-03T19:55:59+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-3d-printed-metal-impeller-section.jpg?id=62225225&amp;width=1245&amp;height=700&amp;coordinates=0%2C474%2C0%2C475\" /><br /><br /><p><a href=\"https://cadmore.com/metal\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"Link: https://cadmore.com/metal\"><span>CADmore Metal</span></a> has introduced a fresh take on 3D printing metal components to the North American market known as <a href=\"https://www.3dnatives.com/en/everything-you-need-to-know-about-cold-metal-fusion-260220245/\" target=\"_blank\">cold metal fusion</a> (CMF).<strong> </strong> <a href=\"https://www.linkedin.com/in/johncarrington/\" target=\"_blank\">John Carrington</a>, the company\u2019s CEO, claims CMF produces stronger 3D printed metal parts that are cheaper and faster to make. That includes titanium components, which have historically caused trouble for 3D printers.</p><p>3D printing has used metals included aluminum, powdered steel, and nickel alloys <a href=\"https://spectrum.ieee.org/3d-printed-rocket\" target=\"_blank\">for some time</a>. While titanium parts are in high demand in fields such as aerospace and health care due to their superior strength-to-weight ratio, corrosion resistance, and their suitability for complex geometries, the metal has presented challenges for 3D printers.</p><p>Titanium becomes more reactive at high temperatures and tends to crack when the printed part cools. It can also become brittle as it absorbs hydrogen, oxygen, or nitrogen during the printing process. Carrington says CMF overcomes these issues.</p><p>\u201cOur primary customers tend to come from the energy, defense, and aerospace industries,\u201d says Carrington. \u201cOne large defense contractor recently switched from traditional 3D printing to CMF as it will save them millions and reduce prototyping and parts production by months.\u201d</p><h2>How CMF Enhances Titanium 3D Printing Efficiency</h2><p>CMF combines the flexibility of 3D printing with new powder metallurgy processes to provide strength and greater durability to parts made from titanium and many other metals and alloys. The process uses a combination of proprietary metal powder and polymer binding agents that are fused layer by layer to create high-strength metal components.</p><p>The process begins like any other <a href=\"https://spectrum.ieee.org/mechanical-metamaterials-and-other-3d-printing-tech-from-chi-2017\" target=\"_blank\">3D printing project</a>: A digital file that represents the desired 3D object directs the actions of a standard industrial 3D printer in laying down a mixture of metal and a plastic binder. A laser lightly fuses each layer of powder into a cohesive solid structure. Excess powder is removed for reuse.</p><p>Where CMF differs is that the initial parts generated by this stage of the process are strong enough for grinding, drilling, and milling if required. The parts then soak in a solvent to dissolve the plastic binder. Next, they go into a furnace to burn off any remaining binder, fuse the metal particles, and compact them into a dense metal component. Surface or finishing treatments can then be applied such as polishing and heat treatment.</p><p>\u201cOur cold metal fusion technology offers a process that is at least three times faster and more scalable than any other kind of 3D printing,\u201d says Carrington. \u201cPer-part prices are generally 50 to 60 percent less than alternative metal 3D printing technology. We expect those prices to go down even more as we scale.\u201d</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Shiny silver turbine wheel with blades, placed on a dark textured surface.\" class=\"rm-shortcode\" id=\"ec031\" src=\"https://spectrum.ieee.org/media-library/shiny-silver-turbine-wheel-with-blades-placed-on-a-dark-textured-surface.jpg?id=62225237&amp;width=980\" /> <small class=\"image-media media-caption\">3D printing with metal powders such as titanium makes it possible to create parts with complex geometries.</small><small class=\"image-media media-photo-credit\">CADmore Metal</small></p><p>The material used in CMF was developed by <a href=\"https://www.headmade-materials.de/en/\" target=\"_blank\">Headmade Materials</a>, a German company. Headmade holds a patent on this 3D printing feedstock, which has been designed for use by the existing ecosystem of 3D printing machines. CADmore Metal serves as the exclusive North American distributor for the metal powders used in CMF. The company can also serve as a systems integrator for the entire process by providing the printing and sintering hardware, the specialized powders, process expertise, training, and technical support.</p><p>\u201cWe provide guidance on design optimization and integration with existing workflows to help customers maximize the technology\u2019s benefits,\u201d says Carrington. \u201cIf a turbine company comes to us to produce their parts using CMF, we can either build the parts for them as a service or set them up to carry out their own production internally while we supply the powder and support.\u201d</p><p>With the global 3D printing market now worth almost US $5 billion and predicted to reach $13 billion by 2035, according to analyst firm <a href=\"https://www.idtechex.com/\" target=\"_blank\">IDTechEx</a>, the arrival of CMF is timely. CADmore Metal just opened North America\u2019s <a href=\"https://3dprint.com/316902/cadmore-establishes-first-cold-metal-fusion-facility-in-u-s/\" target=\"_blank\">first CMF application center</a>, a nearly 280-square-meter (3,000-square-foot) facility in Columbia, S.C. Carrington says that a larger facility will open in 2026 to make room for more material processing and equipment.</p>"
-      },
-      {
-        "id": "251413df5c10e657",
-        "title": "OpenAI has trained its LLM to confess to bad behavior",
-        "url": "https://www.technologyreview.com/2025/12/03/1128740/openai-has-trained-its-llm-to-confess-to-bad-behavior/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 03 Dec 2025 18:01:39 +0000",
-        "published_dt": "2025-12-03T18:01:39+00:00",
-        "summary": "OpenAI is testing another new way to expose the complicated processes at work inside large language models. Researchers at the company can make an LLM produce what they call a confession, in which the model explains how it carried out a task and (most of the time) owns up to any bad behavior. Figuring out&#8230;"
       },
       {
         "id": "4b31d54fed999326",
