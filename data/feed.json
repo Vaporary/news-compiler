@@ -1,15 +1,51 @@
 {
-  "generated_at": "2025-12-10T12:57:37.617675+00:00",
+  "generated_at": "2025-12-11T12:59:00.482631+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "f6a3b47a94fbd07c",
-        "title": "Med school enrollment is at a new high",
-        "url": "https://www.statnews.com/2025/12/10/health-news-med-school-enrollment-higher-than-before/?utm_campaign=rss",
+        "id": "3f3b76a0a4e47691",
+        "title": "Fewer hospitals are capable of treating kids, research finds",
+        "url": "https://www.statnews.com/2025/12/11/health-news-hospitals-to-treat-kids-dwindle/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 10 Dec 2025 12:49:41 +0000",
-        "published_dt": "2025-12-10T12:49:41+00:00",
-        "summary": "And other health news from the Morning Rounds newsletter"
+        "published": "Thu, 11 Dec 2025 12:47:54 +0000",
+        "published_dt": "2025-12-11T12:47:54+00:00",
+        "summary": "And more health news from the Morning Rounds newsletter"
+      },
+      {
+        "id": "0b700ff9317af492",
+        "title": "STAT+: Lilly\u2019s next-gen obesity drug delivers major weight loss in Phase 3 trial, but with many discontinuations",
+        "url": "https://www.statnews.com/2025/12/11/eli-lilly-retatrutide-weight-loss-obesity-tolerability-trial-results/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 11 Dec 2025 11:45:00 +0000",
+        "published_dt": "2025-12-11T11:45:00+00:00",
+        "summary": "Eli Lilly's next-gen obesity drug delivered major weight loss in a trial, but some patients stopped using it after losing too much weight."
+      },
+      {
+        "id": "9bc9a71b1d4c89c6",
+        "title": "STAT+: Wave\u2019s \u2018gym bro\u2019 obesity drug is story over substance",
+        "url": "https://www.statnews.com/2025/12/11/wave-obesity-drug-wve-007-wall-street-body-composition/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 11 Dec 2025 11:30:00 +0000",
+        "published_dt": "2025-12-11T11:30:00+00:00",
+        "summary": "A raging bull market for biotech stocks and a good story have transformed an ineffective weight loss drug into a Wall Street sensation."
+      },
+      {
+        "id": "b36f99df6c35406d",
+        "title": "Solar geoengineering startups are getting serious",
+        "url": "https://www.technologyreview.com/2025/12/11/1129239/solar-geoengineering-startups-are-getting-serious/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 11 Dec 2025 11:00:00 +0000",
+        "published_dt": "2025-12-11T11:00:00+00:00",
+        "summary": "Solar geoengineering aims to manipulate the climate by bouncing sunlight back into space. In theory, it could ease global warming. But as interest in the idea grows, so do concerns about potential consequences. A startup called Stardust Solutions recently raised a $60 million funding round, the largest known to date for a geoengineering startup. My&#8230;"
+      },
+      {
+        "id": "776f743582e6b038",
+        "title": "Opinion: Now is the time to launch mpox vaccine booster trials",
+        "url": "https://www.statnews.com/2025/12/11/mpox-vaccine-booster-trials-research/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 11 Dec 2025 09:30:00 +0000",
+        "published_dt": "2025-12-11T09:30:00+00:00",
+        "summary": "Patients want to know, \u201cWhen should I get an mpox vaccine booster?\u201d But the research to answer their question isn\u2019t available."
       },
       {
         "id": "fb1af275647208f5",
@@ -21,58 +57,40 @@
         "summary": "The FDA is raising the bar for approval of CAR T-cell therapies in oncology. Under plans outlined by the FDA\u2019s biologics chief Vinay Prasad, M.D., the agency will require developers of many CAR-Ts to show superiority over existing treatments.<br />"
       },
       {
-        "id": "f6e0845f214eb2fa",
-        "title": "Securing VMware workloads in regulated industries",
-        "url": "https://www.technologyreview.com/2025/12/10/1128475/securing-vmware-workloads-in-regulated-industries/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 10 Dec 2025 10:11:19 +0000",
-        "published_dt": "2025-12-10T10:11:19+00:00",
-        "summary": "At a regional hospital, a cardiac patient\u2019s lab results sit behind layers of encryption, accessible to his surgeon but shielded from those without strictly need-to-know status. Across the street at a credit union, a small business owner anxiously awaits the all-clear for a wire transfer, unaware that fraud detection systems have flagged it for further&#8230;"
-      },
-      {
-        "id": "6883356cab0ff310",
-        "title": "How one controversial startup hopes to cool the planet",
-        "url": "https://www.technologyreview.com/2025/12/10/1129079/how-one-controversial-startup-hopes-to-cool-the-planet/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 10 Dec 2025 10:00:00 +0000",
-        "published_dt": "2025-12-10T10:00:00+00:00",
-        "summary": "Stardust Solutions believes that it can solve climate change\u2014for a price. The Israel-based geoengineering startup has said it expects&#160; nations will soon pay it more than a billion dollars a year to launch specially equipped aircraft into the stratosphere. Once they\u2019ve reached the necessary altitude, those planes will disperse particles engineered to reflect away enough&#8230;"
-      },
-      {
-        "id": "6fe450f38cc3632b",
-        "title": "Opinion: The revolution in dementia care is just beginning",
-        "url": "https://www.statnews.com/2025/12/10/revolution-dementia-care-interview-expert/?utm_campaign=rss",
+        "id": "c65d654138084a23",
+        "title": "ASH 2025 recap: what you need to know from the big medical meeting",
+        "url": "https://www.statnews.com/2025/12/11/ash-conference-2025-research-highlights-status-report/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 10 Dec 2025 09:30:00 +0000",
-        "published_dt": "2025-12-10T09:30:00+00:00",
-        "summary": "Care for patients with dementia has changed radically since Jason Karlawish started working in the field in the late \u201990s, he says on STAT\u2019s \u201cFirst Opinion Podcast.\u201d"
+        "published": "Thu, 11 Dec 2025 09:30:00 +0000",
+        "published_dt": "2025-12-11T09:30:00+00:00",
+        "summary": "Tune into the latest episode of STATus Report for host Alex Hogan's recap of the influential #ASH25 medical conference."
       },
       {
-        "id": "567a23a1ff577d5c",
-        "title": "Opinion: Rise of anti-science rhetoric has fundamentally changed the relationship between doctors and patients",
-        "url": "https://www.statnews.com/2025/12/10/anti-vaccine-rhetoric-doctors-emotional-toll/?utm_campaign=rss",
+        "id": "24b57a5d4f3be607",
+        "title": "Postscripts from the frontlines of Trump\u2019s attacks on science: no simple happy endings",
+        "url": "https://www.statnews.com/2025/12/11/american-science-shattered-series-impact-of-research-funding-cuts/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 10 Dec 2025 09:30:00 +0000",
-        "published_dt": "2025-12-10T09:30:00+00:00",
-        "summary": "\u201cThe rise of anti-science and anti-vaccine rhetoric has fundamentally changed the relationship between clinicians and patients.\u201d"
+        "published": "Thu, 11 Dec 2025 09:30:00 +0000",
+        "published_dt": "2025-12-11T09:30:00+00:00",
+        "summary": "Stories from the frontlines of Trump's attack on science: Follow-ups from a year of struggles in Part 7 of our series \"American Science, Shattered.\""
       },
       {
-        "id": "d4bc723e0f9f4aa7",
-        "title": "MAHA wants to tackle chronic diseases. This country had that idea decades ago",
-        "url": "https://www.statnews.com/2025/12/10/maha-chronic-disease-approach-slovenia-best-practices/?utm_campaign=rss",
+        "id": "7b85789db0a7a76a",
+        "title": "Opinion: When a doctor can\u2019t heal his friends",
+        "url": "https://www.statnews.com/2025/12/11/doctor-empathy-compassion-trauma/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 10 Dec 2025 09:30:00 +0000",
-        "published_dt": "2025-12-10T09:30:00+00:00",
-        "summary": "Happy 40th birthday \u2014 now come in for your health checkup. That's one way Slovenia is lowering rates of chronic disease."
+        "published": "Thu, 11 Dec 2025 09:30:00 +0000",
+        "published_dt": "2025-12-11T09:30:00+00:00",
+        "summary": "\u201cMedicine taught me how to treat disease, not how to sit with suffering\u201d: A doctor reflects on what he learned from the loss of two friends."
       },
       {
-        "id": "4b21b911c2d65bfa",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about FDA scrutiny of RSV therapies, an AI tool for clinical trials, and more",
-        "url": "https://www.statnews.com/pharmalot/2025/12/09/fda-rsv-merck-sanofi-astrazeneca-abortion-glp1/?utm_campaign=rss",
+        "id": "7bfa71dc49256e01",
+        "title": "STAT+: In a first, a nonprofit wins FDA approval for rare disease gene therapy",
+        "url": "https://www.statnews.com/2025/12/10/nonprofit-telethon-wins-fda-approval-gene-therapy-waskyra/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 09 Dec 2025 14:19:29 +0000",
-        "published_dt": "2025-12-09T14:19:29+00:00",
-        "summary": "In this morning's Pharmalittle roundup, we're reading about FDA scrutiny of RSV therapies, an AI tool for clinical trials, and more."
+        "published": "Wed, 10 Dec 2025 17:45:30 +0000",
+        "published_dt": "2025-12-10T17:45:30+00:00",
+        "summary": "The FDA has granted approval to a new gene therapy for a rare immune disorder, the maker of which is notably not a drug company, but an Italian charity."
       },
       {
         "id": "45230e57d9866812",
@@ -84,31 +102,85 @@
         "summary": "The FDA has qualified its first AI tool to help drug developers evaluate fatty liver disease in clinical trials."
       },
       {
-        "id": "386be8dde72effc8",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/dyne-readies-fda-push-after-dmd-exon-51-med-excels-trial\" hreflang=\"en\">Dyne readies FDA push after DMD exon 51 med excels in trial</a>",
-        "url": "https://www.fiercebiotech.com/biotech/dyne-readies-fda-push-after-dmd-exon-51-med-excels-trial",
+        "id": "0c55ba2a722b128d",
+        "title": "STAT+: In expert panel, FDA says \u2018door is open\u2019 for testosterone labeling revisions",
+        "url": "https://www.statnews.com/2025/12/10/fda-panel-ease-access-testosterone-therapy-men/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 11 Dec 2025 00:56:13 +0000",
+        "published_dt": "2025-12-11T00:56:13+00:00",
+        "summary": "Exactly a month after it announced the removal of black box warning labels on estrogen therapy products used in menopause, the Food and Drugs Administration hosted an expert panel to&#8230;"
+      },
+      {
+        "id": "65bddf090635de8a",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/moderna-taps-nanexa-improve-delivery-injectable-therapies-back-loaded-500m-pact\" hreflang=\"en\">Moderna taps Nanexa to improve delivery of injectable therapies in back-loaded $500M pact</a>",
+        "url": "https://www.fiercebiotech.com/biotech/moderna-taps-nanexa-improve-delivery-injectable-therapies-back-loaded-500m-pact",
         "source": "Fierce Biotech",
-        "published": "Dec 8, 2025 10:30am",
-        "published_dt": "2025-12-08T10:30:00+00:00",
-        "summary": "The drug \u201chas the potential to transform the care of those living with DMD amenable to exon 51 skipping,\u201d Dyne CEO John Cox said in a statement."
+        "published": "Dec 11, 2025 6:25am",
+        "published_dt": "2025-12-11T06:25:00+00:00",
+        "summary": "Moderna has tapped Swedish long-acting drug formulation company Nanexa to improve the delivery of up to four injectable therapies."
       },
       {
-        "id": "d5623ac7ad7c9006",
-        "title": "STAT+: Are we ready to let AI interpret X-rays all by itself?",
-        "url": "https://www.statnews.com/2025/12/09/artificial-intelligence-radiology-schizophrenia-app-health-tech/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 09 Dec 2025 14:55:55 +0000",
-        "published_dt": "2025-12-09T14:55:55+00:00",
-        "summary": "In this edition of Health Tech newsletter: How radiology is navigating AI, and Schizophrenia app heads to FDA."
+        "id": "9cbbafb6cbd51e4b",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-approves-its-1st-non-drug-home-treatment-depression-flow-neurosciences-brain-headset\" hreflang=\"en\">FDA approves 1st nondrug, at-home treatment for depression</a>",
+        "url": "https://www.fiercebiotech.com/medtech/fda-approves-its-1st-non-drug-home-treatment-depression-flow-neurosciences-brain-headset",
+        "source": "Fierce Biotech",
+        "published": "Dec 10, 2025 4:25pm",
+        "published_dt": "2025-12-10T16:25:00+00:00",
+        "summary": "The FDA issued a green light that covers the wearable's use both as a standalone treatment and in combination with other medications for adults with moderate to severe major depressive disorder."
       },
       {
-        "id": "64a25101f1ca0f3d",
-        "title": "Gene therapy spurs improvement in rare neuromuscular disease",
-        "url": "https://www.statnews.com/2025/12/09/health-news-gene-therapy-for-rare-spinal-disease/?utm_campaign=rss",
+        "id": "21383e8265584cc0",
+        "title": "STAT+: FDA scrutiny of infant RSV shots escalates amid turmoil",
+        "url": "https://www.statnews.com/2025/12/10/biotech-news-rsv-scrutinizes-rsv-vaccines/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 09 Dec 2025 12:57:52 +0000",
-        "published_dt": "2025-12-09T12:57:52+00:00",
-        "summary": "And other health news from the Morning Rounds newsletter"
+        "published": "Wed, 10 Dec 2025 14:34:38 +0000",
+        "published_dt": "2025-12-10T14:34:38+00:00",
+        "summary": "And more biotech news brought to you by The Readout newsletter"
+      },
+      {
+        "id": "66b28f5cfd726de0",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about FDA plans for CAR-T therapies, skinny drug labels, and much more",
+        "url": "https://www.statnews.com/pharmalot/2025/12/10/generics-scotus-fda-lilly-kenya-uk-rebates/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 10 Dec 2025 14:27:18 +0000",
+        "published_dt": "2025-12-10T14:27:18+00:00",
+        "summary": "And other pharma news from the Pharmalot campus, brought to you by the Pharmalittle newsletter."
+      },
+      {
+        "id": "d2c660a54f9b9853",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gri-touts-ipf-safety-edge-lung-function-gains-amid-cash-crunch\" hreflang=\"en\">GRI touts IPF safety edge, lung function gains amid cash crunch</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gri-touts-ipf-safety-edge-lung-function-gains-amid-cash-crunch",
+        "source": "Fierce Biotech",
+        "published": "Dec 11, 2025 5:13am",
+        "published_dt": "2025-12-11T05:13:00+00:00",
+        "summary": "Barreling toward the end of its cash runway, GRI Bio has shared phase 2a data in idiopathic pulmonary fibrosis and made the case for further development of its potentially disease-modifying therapy."
+      },
+      {
+        "id": "af99f8b9e02f2843",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/francis-medical-gets-fda-green-light-water-vapor-ablation-therapy-treat-prostate-cancer\" hreflang=\"en\">Francis Medical gets FDA green light for water vapor ablation to treat prostate cancer</a>",
+        "url": "https://www.fiercebiotech.com/medtech/francis-medical-gets-fda-green-light-water-vapor-ablation-therapy-treat-prostate-cancer",
+        "source": "Fierce Biotech",
+        "published": "Dec 10, 2025 8:55am",
+        "published_dt": "2025-12-10T08:55:00+00:00",
+        "summary": "Francis Medical garnered a 510(k) clearance for its water vapor ablation therapy for cancers of the prostate, kidneys and bladder."
+      },
+      {
+        "id": "e3a70f95bc046f09",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-links-oral-serd-30-breast-cancer-risk-reduction-phase-3-adjuvant-trial\" hreflang=\"en\">Roche links oral SERD to 30% breast cancer risk reduction in phase 3 adjuvant trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-links-oral-serd-30-breast-cancer-risk-reduction-phase-3-adjuvant-trial",
+        "source": "Fierce Biotech",
+        "published": "Dec 10, 2025 6:06am",
+        "published_dt": "2025-12-10T06:06:00+00:00",
+        "summary": "Roche has lifted the lid on the data behind its second phase 3 giredestrant win, linking the oral selective estrogen receptor degrader to a 30% reduction in the risk of invasive disease recurrence or death.<br />"
+      },
+      {
+        "id": "5608084aaedce1f7",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/zealand-pens-25b-cardiometabolic-collab-fresh-faced-chinese-biotech\" hreflang=\"en\">Zealand pens $2.5B oral cardiometabolic collab with fresh-faced Chinese biotech</a>",
+        "url": "https://www.fiercebiotech.com/biotech/zealand-pens-25b-cardiometabolic-collab-fresh-faced-chinese-biotech",
+        "source": "Fierce Biotech",
+        "published": "Dec 11, 2025 4:08am",
+        "published_dt": "2025-12-11T04:08:00+00:00",
+        "summary": "OTR may still be keeping its own pipeline under wraps, but Zealand has seen enough promise in the Chinese biotech\u2019s platform to agree to hand over up to $30 million in upfront payments."
       },
       {
         "id": "750b46e8cde769c6",
@@ -120,24 +192,6 @@
         "summary": "Exicure\u2019s investigational small molecule succeeded in mobilizing key blood-forming cells in almost 90% of patients in a phase 2 multiple myeloma trial, paving the way for smoother and more effective autologous stem cell transplants."
       },
       {
-        "id": "4c98801adb8df3ab",
-        "title": "Opinion: STAT+: FDA drug center\u2019s new acting director fits a pattern of risky, internal contradictions among agency leadership",
-        "url": "https://www.statnews.com/2025/12/09/fda-contradictions-deepen-tracy-hoeg-vinay-prasad-marty-makary/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 09 Dec 2025 09:30:00 +0000",
-        "published_dt": "2025-12-09T09:30:00+00:00",
-        "summary": "The FDA drug center\u2019s new acting director Tracy Beth H\u00f8eg fits a pattern of risky, internal contradictions among agency leadership, a professor argues."
-      },
-      {
-        "id": "ec0ccb43ee20f986",
-        "title": "Opinion: It\u2019s past time to update the rules intended to slow the FDA\u2019s revolving door",
-        "url": "https://www.statnews.com/2025/12/09/fda-revolving-door-regulator-industry-section-207/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 09 Dec 2025 09:30:00 +0000",
-        "published_dt": "2025-12-09T09:30:00+00:00",
-        "summary": "\u201cNothing corrodes public trust in a regulatory agency faster than the sense that its senior officials are auditioning for future jobs at the very companies they regulate.\u201d"
-      },
-      {
         "id": "8749d9bd0759651d",
         "title": "<a href=\"https://www.fiercebiotech.com/pharma/jj-makes-case-tecvayli-combo-alternative-car-t-second-line-multiple-myeloma\" hreflang=\"en\">ASH: J&amp;J makes case for Tecvayli combo as an alternative to CAR-T in 2nd-line multiple myeloma</a>",
         "url": "https://www.fiercebiotech.com/pharma/jj-makes-case-tecvayli-combo-alternative-car-t-second-line-multiple-myeloma",
@@ -147,270 +201,297 @@
         "summary": "A proposed combination of Johnson &amp; Johnson\u2019s multiple myeloma bispecific Tecvayli has turned up positive trial data that could put some pressure on CAR T-cell therapies, including the company\u2019s own Carvykti."
       },
       {
-        "id": "a99721a9caf1e75c",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-clears-resmed-ai-personalizing-cpap-settings\" hreflang=\"en\">FDA clears Resmed AI for personalizing CPAP settings</a>",
-        "url": "https://www.fiercebiotech.com/medtech/fda-clears-resmed-ai-personalizing-cpap-settings",
-        "source": "Fierce Biotech",
-        "published": "Dec 8, 2025 11:38am",
-        "published_dt": "2025-12-08T11:38:00+00:00",
-        "summary": "Resmed believes its artificial intelligence-powered approach to personalizing its connected CPAP machines can lead to more restful nights for people with obstructive sleep apnea."
-      },
-      {
-        "id": "8ec62890b5be463c",
-        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/agc-biologics-leader-warns-looming-microbial-manufacturing-crunch\" hreflang=\"en\">Is biopharma facing a microbial manufacturing crunch?</a>",
-        "url": "https://www.fiercebiotech.com/sponsored/agc-biologics-leader-warns-looming-microbial-manufacturing-crunch",
-        "source": "Fierce Biotech",
-        "published": "Dec 4, 2025 10:05am",
-        "published_dt": "2025-12-04T10:05:00+00:00",
-        "summary": "AGC Biologics\u2019 Dieter Kramer shares insights, data and possible solutions as demand for late-phase microbial capacity accelerates"
-      },
-      {
-        "id": "fcfe1cb051ddd31c",
-        "title": "STAT+: Solicitor general urges Supreme Court to review \u2018skinny labeling\u2019 and generic drug access",
-        "url": "https://www.statnews.com/pharmalot/2025/12/09/patents-pharma-generics-scotus-skinny-labels-medicines/?utm_campaign=rss",
+        "id": "ee71af69b1c43d89",
+        "title": "STAT+: A weakened bill to cut off Chinese biotech firms nears passage, after years of changes",
+        "url": "https://www.statnews.com/2025/12/10/biosecure-act-chinese-biotech-restrictions-passes-house/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 09 Dec 2025 21:43:10 +0000",
-        "published_dt": "2025-12-09T21:43:10+00:00",
-        "summary": "In a closely watched case, the U.S. solicitor general has urged the Supreme Court to review a controversy over so-called skinny labels for medicines."
+        "published": "Wed, 10 Dec 2025 23:03:26 +0000",
+        "published_dt": "2025-12-10T23:03:26+00:00",
+        "summary": "WASHINGTON \u2014 Congress is poised to pass the Biosecure Act after two years of incremental changes that watered down the bill\u2019s curbs on Chinese biotechs and made the law more&#8230;"
       },
       {
-        "id": "128a3b164f627a82",
-        "title": "STAT+: J&J\u2019s two-drug combo blocked tumors in advanced multiple myeloma",
-        "url": "https://www.statnews.com/2025/12/09/ash-jandj-multiple-myeloma-and-cdc-sickle-cell-data/?utm_campaign=rss",
+        "id": "993f3a77b1a3f08b",
+        "title": "Botulism outbreak sickens more than 50 babies and expands to all ByHeart products",
+        "url": "https://www.statnews.com/2025/12/10/byheart-baby-formula-recall-botulism-outbreak-expands/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 09 Dec 2025 17:06:40 +0000",
-        "published_dt": "2025-12-09T17:06:40+00:00",
-        "summary": "ASH's 2025 meeting ended with strong multiple myeloma data from J&#038;J, a new treatment for a rare disorder, and strains on a sickle-cell data program."
+        "published": "Wed, 10 Dec 2025 21:42:39 +0000",
+        "published_dt": "2025-12-10T21:42:39+00:00",
+        "summary": "Federal health officials\u00a0expanded an infant botulism outbreak tied to recalled ByHeart baby formula to include all illnesses reported since the company began production in March 2022."
       },
       {
-        "id": "0ec9a42f1b5d5a37",
-        "title": "STAT+: Biosecure Act advances, but extra ACA subsidies are still up in the air",
-        "url": "https://www.statnews.com/2025/12/09/biosecure-act-aca-subsidies-dc-diagnosis-newsletter/?utm_campaign=rss",
+        "id": "6c48ddbee6182610",
+        "title": "STAT+: Major health insurers to skip J.P. Morgan conference, again",
+        "url": "https://www.statnews.com/2025/12/10/insurers-skip-jpm-healthcare-conference-2026/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 09 Dec 2025 15:41:29 +0000",
-        "published_dt": "2025-12-09T15:41:29+00:00",
-        "summary": "In today's D.C. Diagnosis newsletter, the Biosecure Act advances, but extra ACA subsidies are still up in the air."
-      },
-      {
-        "id": "7f3dab0e589e5c77",
-        "title": "STAT+: Terns leukemia drug could succeed Novartis blockbuster",
-        "url": "https://www.statnews.com/2025/12/09/biotech-news-terns-threatens-novartis-cml-throne/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 09 Dec 2025 14:38:21 +0000",
-        "published_dt": "2025-12-09T14:38:21+00:00",
-        "summary": "And other biotech news, brought to you by The Readout newsletter"
-      },
-      {
-        "id": "648d050529248e0b",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/strong-words-big-smiles-enduring-activism-and-cautious-optimism-american-society-hematology\" hreflang=\"en\">Rainbows, pickleball and puppies: Inside the \u2018enduring activism\u2019 and \u2018cautious optimism\u2019 at ASH 2025</a>",
-        "url": "https://www.fiercebiotech.com/biotech/strong-words-big-smiles-enduring-activism-and-cautious-optimism-american-society-hematology",
-        "source": "Fierce Biotech",
-        "published": "Dec 9, 2025 1:42pm",
-        "published_dt": "2025-12-09T13:42:00+00:00",
-        "summary": "People come to Orlando to escape. With Disney World, SeaWorld and Universal Studios all in the area, there are endless opportunities to leave behind the challenges of the real world for a bit of relaxation and maybe a little bit of magic."
-      },
-      {
-        "id": "36198fc672e79895",
-        "title": "The Download: a peek at AI\u2019s future",
-        "url": "https://www.technologyreview.com/2025/12/09/1129029/the-download-a-peek-at-ais-future/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 09 Dec 2025 13:10:00 +0000",
-        "published_dt": "2025-12-09T13:10:00+00:00",
-        "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The State of AI: A vision of the world in 2030\u00a0\u00a0 There are huge gulfs of opinion when it comes to predicting the near-future impacts of generative AI. In one camp there are&#8230;"
-      },
-      {
-        "id": "cc6ad22d6db6a4af",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/teleflex-inks-2b-divestment-deals-oem-urology-and-acute-care-units\" hreflang=\"en\">Teleflex inks $2B in divestment deals for OEM, urology and acute care units</a>",
-        "url": "https://www.fiercebiotech.com/medtech/teleflex-inks-2b-divestment-deals-oem-urology-and-acute-care-units",
-        "source": "Fierce Biotech",
-        "published": "Dec 9, 2025 12:29pm",
-        "published_dt": "2025-12-09T12:29:00+00:00",
-        "summary": "Two private equity firms, Montagu and Kohlberg, agreed to carve out Teleflex\u2019s OEM division for $1.5 billion, while Intersurgical will drop $530 million for the acute care and urology portfolios."
+        "published": "Wed, 10 Dec 2025 19:39:15 +0000",
+        "published_dt": "2025-12-10T19:39:15+00:00",
+        "summary": "High costs, quiet-period rules, investor skepticism, and lingering safety concerns are pushing major insurers to once again skip the event."
       }
     ],
     "Engineering & Aerospace": [
       {
-        "id": "7af168c09894656d",
-        "title": "Supermicro ships liquid-cooled NVIDIA HGX B300 systems",
-        "url": "https://www.engineering.com/supermicro-ships-liquid-cooled-nvidia-hgx-b300-systems/",
+        "id": "4b67b497af597cc0",
+        "title": "Bluebeam adds Task Link to connect office and field workflows",
+        "url": "https://www.engineering.com/bluebeam-adds-task-link-to-connect-office-and-field-workflows/",
         "source": "Engineering.com",
-        "published": "Wed, 10 Dec 2025 09:49:17 +0000",
-        "published_dt": "2025-12-10T09:49:17+00:00",
-        "summary": "<p>New 2OU OCP and 4U platforms scale to 144 GPUs per rack, support ORV3 and cut heat via direct liquid cooling.</p>\n<p>The post <a href=\"https://www.engineering.com/supermicro-ships-liquid-cooled-nvidia-hgx-b300-systems/\">Supermicro ships liquid-cooled NVIDIA HGX B300 systems</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Thu, 11 Dec 2025 12:25:44 +0000",
+        "published_dt": "2025-12-11T12:25:44+00:00",
+        "summary": "<p>New integration with GoCanvas and updates to iOS and Android apps support real-time task updates, field data capture and centralized documentation.</p>\n<p>The post <a href=\"https://www.engineering.com/bluebeam-adds-task-link-to-connect-office-and-field-workflows/\">Bluebeam adds Task Link to connect office and field workflows</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "b11b2c3b1784b7ee",
-        "title": "Flexxbotics and IPR add StackTrax RTU to machine tending",
-        "url": "https://www.engineering.com/flexxbotics-and-ipr-add-stacktrax-rtu-to-machine-tending/",
+        "id": "5029c76a609a1280",
+        "title": "University adds QuickLogic eFPGA to rad-tolerant RISC-V MCU",
+        "url": "https://www.engineering.com/university-adds-quicklogic-efpga-to-rad-tolerant-risc-v-mcu/",
         "source": "Engineering.com",
-        "published": "Wed, 10 Dec 2025 06:03:04 +0000",
-        "published_dt": "2025-12-10T06:03:04+00:00",
-        "summary": "<p>Dual-rail 7th axis extends reach for lights-out tending across machine rows, with standardized integration and audit support.</p>\n<p>The post <a href=\"https://www.engineering.com/flexxbotics-and-ipr-add-stacktrax-rtu-to-machine-tending/\">Flexxbotics and IPR add StackTrax RTU to machine tending</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Thu, 11 Dec 2025 12:17:19 +0000",
+        "published_dt": "2025-12-11T12:17:19+00:00",
+        "summary": "<p>StarRISC microcontroller on GF 12 nm FinFET will let teams prototype custom logic and accelerators for space and high-reliability missions.</p>\n<p>The post <a href=\"https://www.engineering.com/university-adds-quicklogic-efpga-to-rad-tolerant-risc-v-mcu/\">University adds QuickLogic eFPGA to rad-tolerant RISC-V MCU</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "4a95d2eac873c29d",
-        "title": "Navitas and Cyient partner to expand GaN ecosystem in India",
-        "url": "https://www.engineering.com/navitas-and-cyient-partner-to-expand-gan-ecosystem-in-india/",
+        "id": "41ff7b5c0502c33e",
+        "title": "EMASS and Semtech pair edge AI with LoRaWAN connectivity",
+        "url": "https://www.engineering.com/emass-and-semtech-pair-edge-ai-with-lorawan-connectivity/",
         "source": "Engineering.com",
-        "published": "Wed, 10 Dec 2025 06:00:00 +0000",
-        "published_dt": "2025-12-10T06:00:00+00:00",
-        "summary": "<p>Firms will co-develop GaN products for AI data centers, EVs, grids and industrial power under Make in India.</p>\n<p>The post <a href=\"https://www.engineering.com/navitas-and-cyient-partner-to-expand-gan-ecosystem-in-india/\">Navitas and Cyient partner to expand GaN ecosystem in India</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Thu, 11 Dec 2025 11:20:33 +0000",
+        "published_dt": "2025-12-11T11:20:33+00:00",
+        "summary": "<p>CES 2026 demos highlight ECS-DoT SoCs with Semtech LR1121 for predictive maintenance and acoustic security over long-range low-power networks.</p>\n<p>The post <a href=\"https://www.engineering.com/emass-and-semtech-pair-edge-ai-with-lorawan-connectivity/\">EMASS and Semtech pair edge AI with LoRaWAN connectivity</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "af5398d3db73aae5",
-        "title": "Altair updates HyperWorks 2026 with AI and multiphysics tools",
-        "url": "https://www.engineering.com/altair-updates-hyperworks-2026-with-ai-and-multiphysics-tools/",
+        "id": "0b44fdbd371e9f72",
+        "title": "AVEVA earns 2025 Microsoft manufacturing partner award",
+        "url": "https://www.engineering.com/aveva-earns-2025-microsoft-manufacturing-partner-award/",
         "source": "Engineering.com",
-        "published": "Tue, 09 Dec 2025 06:36:30 +0000",
-        "published_dt": "2025-12-09T06:36:30+00:00",
-        "summary": "<p>JetZero is using FlightStream in HyperWorks to speed blended-wing CFD insights, supporting faster aerospace design cycles.</p>\n<p>The post <a href=\"https://www.engineering.com/altair-updates-hyperworks-2026-with-ai-and-multiphysics-tools/\">Altair updates HyperWorks 2026 with AI and multiphysics tools</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Thu, 11 Dec 2025 10:34:00 +0000",
+        "published_dt": "2025-12-11T10:34:00+00:00",
+        "summary": "<p>Collaboration uses Azure, Fabric and AI tools to support real-time data, efficiency and sustainability for industrial manufacturers.</p>\n<p>The post <a href=\"https://www.engineering.com/aveva-earns-2025-microsoft-manufacturing-partner-award/\">AVEVA earns 2025 Microsoft manufacturing partner award</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "fc9cb8f6198e51fd",
-        "title": "Auburn adds CF3D Enterprise cell for composite research",
-        "url": "https://www.engineering.com/auburn-adds-cf3d-enterprise-cell-for-composite-research/",
+        "id": "0981f8a59b443861",
+        "title": "Trimble adds SketchUp AI tools for modeling and rendering",
+        "url": "https://www.engineering.com/trimble-adds-sketchup-ai-tools-for-modeling-and-rendering/",
         "source": "Engineering.com",
-        "published": "Tue, 09 Dec 2025 05:36:51 +0000",
-        "published_dt": "2025-12-09T05:36:51+00:00",
-        "summary": "<p>Installed at Auburn\u2019s Huntsville campus, the Continuous Composites system supports hypersonics prototyping and student training.</p>\n<p>The post <a href=\"https://www.engineering.com/auburn-adds-cf3d-enterprise-cell-for-composite-research/\">Auburn adds CF3D Enterprise cell for composite research</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Thu, 11 Dec 2025 10:36:58 +0000",
+        "published_dt": "2025-12-11T10:36:58+00:00",
+        "summary": "<p>New AI Render and AI Assistant features generate images and 3D objects from prompts to cut manual steps in SketchUp workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/trimble-adds-sketchup-ai-tools-for-modeling-and-rendering/\">Trimble adds SketchUp AI tools for modeling and rendering</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "26e7c9cc5c633668",
-        "title": "Simulation spotlight: HyperWorks 2026 and Simcenter X Advanced",
-        "url": "https://www.engineering.com/simulation-spotlight-hyperworks-2026-and-simcenter-x-advanced/",
-        "source": "Engineering.com",
-        "published": "Tue, 09 Dec 2025 20:17:55 +0000",
-        "published_dt": "2025-12-09T20:17:55+00:00",
-        "summary": "<p>Get hyped and/or Xcited for the latest simulation updates from Altair and Siemens.</p>\n<p>The post <a href=\"https://www.engineering.com/simulation-spotlight-hyperworks-2026-and-simcenter-x-advanced/\">Simulation spotlight: HyperWorks 2026 and Simcenter X Advanced</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "id": "3fce359881bdbda9",
+        "title": "Report identifies science objectives of human Mars exploration",
+        "url": "https://spacenews.com/report-identifies-science-objectives-of-human-mars-exploration/",
+        "source": "SpaceNews",
+        "published": "Thu, 11 Dec 2025 09:22:02 +0000",
+        "published_dt": "2025-12-11T09:22:02+00:00",
+        "summary": "<figure><img alt=\"Several \u201clong poles,\u201d or enabling technologies, need to be developed before establishing a Martian outpost like the one illustrated here. Credit: NASA/JPL\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/0412_mars_0.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The search for past or present life should be the top science objective of future human missions to Mars, a new National Academies report concludes.</p>\n<p>The post <a href=\"https://spacenews.com/report-identifies-science-objectives-of-human-mars-exploration/\">Report identifies science objectives of human Mars exploration</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "9659763ebe924ab6",
-        "title": "ModuleWorks 2025.12 adds new automated machining tools",
-        "url": "https://www.engineering.com/moduleworks-2025-12-adds-new-automated-machining-tools/",
+        "id": "6f95a2bb1a934369",
+        "title": "Efficient Computer debuts Electron E1 evaluation kit",
+        "url": "https://www.engineering.com/efficient-computer-debuts-electron-e1-evaluation-kit/",
         "source": "Engineering.com",
-        "published": "Tue, 09 Dec 2025 14:45:06 +0000",
-        "published_dt": "2025-12-09T14:45:06+00:00",
-        "summary": "<p>Release introduces corner finishing, FeedControl constraints, thin-wall avoidance, gyroid infill for FDM and updated SWARF inputs.</p>\n<p>The post <a href=\"https://www.engineering.com/moduleworks-2025-12-adds-new-automated-machining-tools/\">ModuleWorks 2025.12 adds new automated machining tools</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Thu, 11 Dec 2025 08:00:35 +0000",
+        "published_dt": "2025-12-11T08:00:35+00:00",
+        "summary": "<p>Kit targets energy-efficient edge AI, signal processing and sensor workloads with up to 100x efficiency over legacy processors.</p>\n<p>The post <a href=\"https://www.engineering.com/efficient-computer-debuts-electron-e1-evaluation-kit/\">Efficient Computer debuts Electron E1 evaluation kit</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "56121214cd669874",
-        "title": "Keysight launches FieldFox D-Series handheld RF analyzer",
-        "url": "https://www.engineering.com/keysight-launches-fieldfox-d-series-handheld-rf-analyzer/",
+        "id": "4f008f38a9e6715c",
+        "title": "Azio AI spins out to serve high-performance compute demand",
+        "url": "https://www.engineering.com/azio-ai-spins-out-to-serve-high-performance-compute-demand/",
         "source": "Engineering.com",
-        "published": "Tue, 09 Dec 2025 06:02:18 +0000",
-        "published_dt": "2025-12-09T06:02:18+00:00",
-        "summary": "<p>New N99xxD models offer 120-MHz gap-free IQ streaming, 10 GbE SFP+ transfer and options up to 54 GHz.</p>\n<p>The post <a href=\"https://www.engineering.com/keysight-launches-fieldfox-d-series-handheld-rf-analyzer/\">Keysight launches FieldFox D-Series handheld RF analyzer</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Thu, 11 Dec 2025 07:53:00 +0000",
+        "published_dt": "2025-12-11T07:53:00+00:00",
+        "summary": "<p>New unit offers GPU servers, turnkey AI clusters and CaaS for universities, government, media and enterprise teams scaling AI workloads.</p>\n<p>The post <a href=\"https://www.engineering.com/azio-ai-spins-out-to-serve-high-performance-compute-demand/\">Azio AI spins out to serve high-performance compute demand</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "9b0bf2368681db8f",
-        "title": "PCBAIR launches 8-layer glass core PCB capability",
-        "url": "https://www.engineering.com/pcbair-launches-8-layer-glass-core-pcb-capability/",
+        "id": "bf8a90dde62b8833",
+        "title": "Why traditional AI misses the mark in manufacturing",
+        "url": "https://www.engineering.com/why-traditional-ai-misses-the-mark-in-manufacturing/",
         "source": "Engineering.com",
-        "published": "Tue, 09 Dec 2025 05:49:32 +0000",
-        "published_dt": "2025-12-09T05:49:32+00:00",
-        "summary": "<p>TGV and RDL process enables sub-20 \u03bcm vias, symmetric stack-ups and low-loss substrates for AI, HPC and optical modules.</p>\n<p>The post <a href=\"https://www.engineering.com/pcbair-launches-8-layer-glass-core-pcb-capability/\">PCBAIR launches 8-layer glass core PCB capability</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Wed, 10 Dec 2025 19:49:55 +0000",
+        "published_dt": "2025-12-10T19:49:55+00:00",
+        "summary": "<p>Integration into systems that already work on the factory floor will be the next leap forward.</p>\n<p>The post <a href=\"https://www.engineering.com/why-traditional-ai-misses-the-mark-in-manufacturing/\">Why traditional AI misses the mark in manufacturing</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "330bfab38551de7d",
-        "title": "Ezurio launches Nitrogen95 SOM for vision and edge AI",
-        "url": "https://www.engineering.com/ezurio-launches-nitrogen95-som-for-vision-and-edge-ai/",
-        "source": "Engineering.com",
-        "published": "Tue, 09 Dec 2025 05:44:31 +0000",
-        "published_dt": "2025-12-09T05:44:31+00:00",
-        "summary": "<p>SMARC 2.2 module based on NXP i.MX 95 adds 2 TOPS NPU and pre-certified Wi-Fi 6 + Bluetooth LE; EVK includes 7-in display.</p>\n<p>The post <a href=\"https://www.engineering.com/ezurio-launches-nitrogen95-som-for-vision-and-edge-ai/\">Ezurio launches Nitrogen95 SOM for vision and edge AI</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "id": "daee046a43452737",
+        "title": "Colliding space debris produces radio bursts, raising prospect of \u2018debris weather\u2019 alerts",
+        "url": "https://spacenews.com/colliding-space-debris-produces-radio-bursts-raising-prospect-of-debris-weather-alerts/",
+        "source": "SpaceNews",
+        "published": "Wed, 10 Dec 2025 17:36:51 +0000",
+        "published_dt": "2025-12-10T17:36:51+00:00",
+        "summary": "<figure><img alt=\"The space environment is peppered with space debris, some fragments too small to see with current systems, but energetic enough to pose a severe hazard to operational spacecraft. Credit: credit: The Aerospace Corporation\u2019s Space Safety Institute\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"361\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/PHOTO-2-Space-debris-and-STM-heroimage.jpg?fit=913%2C361&amp;ssl=1\" width=\"913\" /></figure>\n<p>GOLDEN, CO \u2014 A university team has found that small orbital debris could emit radio bursts as they collide or approach each other in space.\u00a0The signal can be detected with large radio dishes on Earth, as well as satellites in orbit.\u00a0 This new intelligence agency-funded research is focused on gauging the interaction of orbital debris [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/colliding-space-debris-produces-radio-bursts-raising-prospect-of-debris-weather-alerts/\">Colliding space debris produces radio bursts, raising prospect of \u2018debris weather\u2019 alerts</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "346e3e04989776bf",
-        "title": "Boeing completes Spirit AeroSystems acquisition",
-        "url": "https://aerospaceamerica.aiaa.org/boeing-completes-spirit-aerosystems-acquisition/",
+        "id": "23517a5be16b11cc",
+        "title": "Benchmark demonstrates high-throughput ASCENT thruster in hotfire testing at Edwards Air Force Base",
+        "url": "https://spacenews.com/benchmark-demonstrates-high-throughput-ascent-thruster-in-hotfire-testing-at-edwards-air-force-base/",
+        "source": "SpaceNews",
+        "published": "Wed, 10 Dec 2025 13:00:00 +0000",
+        "published_dt": "2025-12-10T13:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"653\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/rsz_benchmark-macaw-ascent-hotfire.jpg?fit=879%2C653&amp;ssl=1\" width=\"879\" /></figure>\n<p>SAN FRANCISCO \u2013 Benchmark Space Systems\u2019 ASCENT-fueled Macaw thruster performed a 10-minute continuous burn, clearing the way for an on-orbit application of the propulsion technology, the company announced Dec. 10. \u201cBecause ASCENT has 50% greater impulse density than other monopropellants, mission planners and spacecraft designers can get the similar delta-v [change in velocity] with less [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/benchmark-demonstrates-high-throughput-ascent-thruster-in-hotfire-testing-at-edwards-air-force-base/\">Benchmark demonstrates high-throughput ASCENT thruster in hotfire testing at Edwards Air Force Base</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "48ac84f697b7d34d",
+        "title": "GEO satellite refueling a priority for national security, commercial markets, new analysis finds",
+        "url": "https://spacenews.com/geo-satellite-refueling-a-priority-for-national-security-commercial-markets-new-analysis-finds/",
+        "source": "SpaceNews",
+        "published": "Thu, 11 Dec 2025 02:15:26 +0000",
+        "published_dt": "2025-12-11T02:15:26+00:00",
+        "summary": "<figure><img alt=\"APS-R\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"578\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/aps-r.jpeg?fit=1024%2C578&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The findings come from a report by the Consortium for Space Mobility and ISAM Capabilities, or COSMIC</p>\n<p>The post <a href=\"https://spacenews.com/geo-satellite-refueling-a-priority-for-national-security-commercial-markets-new-analysis-finds/\">GEO satellite refueling a priority for national security, commercial markets, new analysis finds</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "db7e288a588eac48",
+        "title": "L3Harris satellite-jamming system approved for export to close U.S. allies",
+        "url": "https://spacenews.com/l3harris-satellite-jamming-system-approved-for-export-to-close-u-s-allies/",
+        "source": "SpaceNews",
+        "published": "Thu, 11 Dec 2025 00:31:30 +0000",
+        "published_dt": "2025-12-11T00:31:30+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"574\" src=\"https://spacenews.com/wp-content/uploads/2025/12/l3harris-sas-ss-us-space-force-expands-offensive-space-programs-meadowlands-system.jpg-1024x574.avif\" width=\"1024\" /></figure>\n<p>Lt. Gen. Phil Garrant, head of the Space Systems Command, said  Five Eyes partners would likely have access to this technology</p>\n<p>The post <a href=\"https://spacenews.com/l3harris-satellite-jamming-system-approved-for-export-to-close-u-s-allies/\">L3Harris satellite-jamming system approved for export to close U.S. allies</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "8244f82b46538bad",
+        "title": "Blue Origin targets four-flight campaign for New Glenn\u2019s path to Space Force certification",
+        "url": "https://spacenews.com/blue-origin-targets-four-flight-campaign-for-new-glenns-path-to-space-force-certification/",
+        "source": "SpaceNews",
+        "published": "Wed, 10 Dec 2025 23:30:29 +0000",
+        "published_dt": "2025-12-10T23:30:29+00:00",
+        "summary": "<figure><img alt=\"NG-2\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/NG-2-Ascent-2.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Lt. Gen. Phil Garrant, who leads the Space Systems Command, said Blue Origin selected the four-flight benchmark and the government agreed</p>\n<p>The post <a href=\"https://spacenews.com/blue-origin-targets-four-flight-campaign-for-new-glenns-path-to-space-force-certification/\">Blue Origin targets four-flight campaign for New Glenn\u2019s path to Space Force certification</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "f85d46c2c09aa4c8",
+        "title": "Electra files to certify its hybrid-electric plane under FAA Part 23",
+        "url": "https://aerospaceamerica.aiaa.org/electra-files-to-certify-its-hybrid-electric-plane-under-faa-part-23/",
         "source": "Aerospace America",
-        "published": "Mon, 08 Dec 2025 19:41:10 +0000",
-        "published_dt": "2025-12-08T19:41:10+00:00",
+        "published": "Wed, 10 Dec 2025 21:52:04 +0000",
+        "published_dt": "2025-12-10T21:52:04+00:00",
         "summary": ""
       },
       {
-        "id": "6034fcebc822bdca",
-        "title": "100, 75, 50 and 25 years ago in December 2025",
-        "url": "https://aerospaceamerica.aiaa.org/100-75-50-and-25-years-ago-in-december-2025/",
+        "id": "80511f8ca575d97c",
+        "title": "Voyager wins $21 million Air Force contract for AI-driven signals processing",
+        "url": "https://spacenews.com/voyager-wins-21-million-air-force-contract-for-ai-driven-signals-processing/",
+        "source": "SpaceNews",
+        "published": "Wed, 10 Dec 2025 21:00:00 +0000",
+        "published_dt": "2025-12-10T21:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"670\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Screenshot-2025-12-09-at-10.58.47-AM.png?fit=1024%2C670&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The contract will focus on signals intelligence for U.S. Air Force platforms.</p>\n<p>The post <a href=\"https://spacenews.com/voyager-wins-21-million-air-force-contract-for-ai-driven-signals-processing/\">Voyager wins $21 million Air Force contract for AI-driven signals processing</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "a5f255442611e2f5",
+        "title": "Multiple space companies join NATO\u2019s DIANA defense accelerator",
+        "url": "https://spacenews.com/multiple-space-companies-join-natos-diana-defense-accelerator/",
+        "source": "SpaceNews",
+        "published": "Wed, 10 Dec 2025 20:58:39 +0000",
+        "published_dt": "2025-12-10T20:58:39+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Proceso-de-montaje-de-los-sateilites-de-FOSSA-Systems-en-la-sala-blanca.png?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NATO has picked 150 companies from 24 of its member countries to join its Defence Innovation Accelerator for the North Atlantic next year, including more than two dozen with ties to the space sector.</p>\n<p>The post <a href=\"https://spacenews.com/multiple-space-companies-join-natos-diana-defense-accelerator/\">Multiple space companies join NATO\u2019s DIANA defense accelerator</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "6a5555c0a2615ecf",
+        "title": "Delivering the next generation of cloud-native, multi-orbit ground systems",
+        "url": "https://spacenews.com/delivering-the-next-generation-of-cloud-native-multi-orbit-ground-systems/",
+        "source": "SpaceNews",
+        "published": "Wed, 10 Dec 2025 20:46:08 +0000",
+        "published_dt": "2025-12-10T20:46:08+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/5GNTN-300x300-chart-post-300ppi-01.png?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>As on-orbit capabilities grow more advanced, ground systems are undergoing a transformation of their own.&#160; Ground network specialist ST Engineering iDirect, with headquarters in Herndon, Virginia, is investing in new [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/delivering-the-next-generation-of-cloud-native-multi-orbit-ground-systems/\">Delivering the next generation of cloud-native, multi-orbit ground systems</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "1f39ec16e83490ac",
+        "title": "No technological barriers to refueling GEO satellites, NASA report finds",
+        "url": "https://aerospaceamerica.aiaa.org/no-technological-barriers-to-refueling-geo-satellites-nasa-report-finds/",
         "source": "Aerospace America",
-        "published": "Mon, 08 Dec 2025 15:36:44 +0000",
-        "published_dt": "2025-12-08T15:36:44+00:00",
+        "published": "Wed, 10 Dec 2025 18:10:00 +0000",
+        "published_dt": "2025-12-10T18:10:00+00:00",
         "summary": ""
       },
       {
-        "id": "b762da66a5f678f8",
-        "title": "BETA gives details on planned hybrid-electric military plane",
-        "url": "https://aerospaceamerica.aiaa.org/beta-gives-details-on-planned-hybrid-electric-military-plane/",
-        "source": "Aerospace America",
-        "published": "Fri, 05 Dec 2025 14:14:10 +0000",
-        "published_dt": "2025-12-05T14:14:10+00:00",
-        "summary": ""
+        "id": "14ab3b628d7d7868",
+        "title": "Building a simple edge-to-cloud data pipeline \u2013 Part 1",
+        "url": "https://www.engineering.com/building-a-simple-edge-to-cloud-data-pipeline-part-1/",
+        "source": "Engineering.com",
+        "published": "Wed, 10 Dec 2025 18:02:18 +0000",
+        "published_dt": "2025-12-10T18:02:18+00:00",
+        "summary": "<p>While every engineer\u2019s implementation is shaped by their business objectives and data source, most pipeline projects share a consistent sequence of steps</p>\n<p>The post <a href=\"https://www.engineering.com/building-a-simple-edge-to-cloud-data-pipeline-part-1/\">Building a simple edge-to-cloud data pipeline \u2013 Part 1</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "5c9966dce1be4f77",
-        "title": "In second NASA admin hearing, Isaacman urges moon-Mars push amid China race",
-        "url": "https://aerospaceamerica.aiaa.org/in-second-nasa-admin-hearing-isaacman-urges-moon-mars-push-amid-china-race/",
-        "source": "Aerospace America",
-        "published": "Wed, 03 Dec 2025 22:02:58 +0000",
-        "published_dt": "2025-12-03T22:02:58+00:00",
-        "summary": ""
+        "id": "41fa72fe8641a1c3",
+        "title": "Helsing and Kongsberg plot multi-mission European defense space network",
+        "url": "https://spacenews.com/helsing-and-kongsberg-plot-multi-mission-european-defense-space-network/",
+        "source": "SpaceNews",
+        "published": "Wed, 10 Dec 2025 17:44:55 +0000",
+        "published_dt": "2025-12-10T17:44:55+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"733\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Helsing_Space_Signing_2.png?fit=1024%2C733&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Two defense technology companies from Norway and Germany have joined forces to bolster Europe\u2019s sovereign intelligence and communications capabilities, with plans to start deploying small satellites in about three years.</p>\n<p>The post <a href=\"https://spacenews.com/helsing-and-kongsberg-plot-multi-mission-european-defense-space-network/\">Helsing and Kongsberg plot multi-mission European defense space network</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "15fd4ac054663c3a",
-        "title": "Electric aircraft should replace helicopters for D.C. transport, aircraft developer says",
-        "url": "https://aerospaceamerica.aiaa.org/electric-aircraft-should-replace-helicopters-for-d-c-transport-aircraft-developer-says/",
-        "source": "Aerospace America",
-        "published": "Wed, 03 Dec 2025 21:27:17 +0000",
-        "published_dt": "2025-12-03T21:27:17+00:00",
-        "summary": ""
+        "id": "ae262e5ec5f125b9",
+        "title": "China launches new TJS satellite, commercial Kinetica-1 lofts 9 spacecraft",
+        "url": "https://spacenews.com/china-launches-new-tjs-satellite-commercial-kinetica-1-lofts-9-spacecraft/",
+        "source": "SpaceNews",
+        "published": "Wed, 10 Dec 2025 17:36:52 +0000",
+        "published_dt": "2025-12-10T17:36:52+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"598\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/CZ3B-TJS22-XSLC-dec92025-CASC.jpg?fit=1024%2C598&amp;ssl=1\" width=\"1024\" /></figure>\n<p>China continued a surge in launch activity with a pair of missions Tuesday, adding to an opaque satellite series and launching new remote sensing satellites.</p>\n<p>The post <a href=\"https://spacenews.com/china-launches-new-tjs-satellite-commercial-kinetica-1-lofts-9-spacecraft/\">China launches new TJS satellite, commercial Kinetica-1 lofts 9 spacecraft</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "db370cd08b8d6e80",
-        "title": "Space Force approach to launch could provide lessons for Pentagon acquisition reform, official says",
-        "url": "https://aerospaceamerica.aiaa.org/space-force-approach-to-launch-could-provide-lessons-for-pentagon-acquisition-reform-official-says/",
-        "source": "Aerospace America",
-        "published": "Tue, 02 Dec 2025 23:32:55 +0000",
-        "published_dt": "2025-12-02T23:32:55+00:00",
-        "summary": ""
+        "id": "5a8b656e1d34ccd9",
+        "title": "Odin Space raises $3 million in seed funding",
+        "url": "https://spacenews.com/odin-space-raises-3-million-in-seed-funding/",
+        "source": "SpaceNews",
+        "published": "Wed, 10 Dec 2025 17:23:15 +0000",
+        "published_dt": "2025-12-10T17:23:15+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"758\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/rsz_odin_image_1.jpg?fit=879%2C758&amp;ssl=1\" width=\"879\" /></figure>\n<p>SAN FRANCISCO \u2013 British startup Odin Space raised $3 million in a seed round to begin commercializing tiny sensors to map and analyze sub-centimeter orbital debris. With its first sensor launched in 2023 on D-Orbit\u2019s ION orbital transfer vehicle, Odin demonstrated its ability to detect debris that\u2019s generally too small to track but still capable [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/odin-space-raises-3-million-in-seed-funding/\">Odin Space raises $3 million in seed funding</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "37395c1fd068a5f9",
-        "title": "The Ukraine war\u2019s outsized influence on small drone development",
-        "url": "https://aerospaceamerica.aiaa.org/the-ukraine-wars-outsized-influence-on-small-drone-development/",
-        "source": "Aerospace America",
-        "published": "Mon, 24 Nov 2025 16:19:13 +0000",
-        "published_dt": "2025-11-24T16:19:13+00:00",
-        "summary": ""
+        "id": "c0b9c236942ace15",
+        "title": "Revizto launches Infrastructure platform with linear navigation",
+        "url": "https://www.engineering.com/revizto-launches-infrastructure-platform-with-linear-navigation/",
+        "source": "Engineering.com",
+        "published": "Wed, 10 Dec 2025 14:24:02 +0000",
+        "published_dt": "2025-12-10T14:24:02+00:00",
+        "summary": "<p>New tool supports 2D and 3D corridor reviews, alignment import and chainage-based issue tracking for rail, road and energy projects.</p>\n<p>The post <a href=\"https://www.engineering.com/revizto-launches-infrastructure-platform-with-linear-navigation/\">Revizto launches Infrastructure platform with linear navigation</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "5149f0d367627bbf",
-        "title": "AIAA Fellow Hauck Died in November 2025",
-        "url": "https://aerospaceamerica.aiaa.org/aiaa-fellow-hauck-died-in-november-2025/",
-        "source": "Aerospace America",
-        "published": "Mon, 24 Nov 2025 15:55:55 +0000",
-        "published_dt": "2025-11-24T15:55:55+00:00",
-        "summary": ""
-      },
-      {
-        "id": "7707f2bb4c6dd7c1",
-        "title": "Congressman advocates for clear AI guardrails for aviation",
-        "url": "https://aerospaceamerica.aiaa.org/congressman-advocates-for-clear-ai-guardrails-for-aviation/",
-        "source": "Aerospace America",
-        "published": "Fri, 21 Nov 2025 18:35:42 +0000",
-        "published_dt": "2025-11-21T18:35:42+00:00",
-        "summary": ""
-      },
-      {
-        "id": "eb5da95ba33894f4",
-        "title": "Saltzman says U.S. Space Force will pursue \u2018radical shift\u2019 in acquisition, teases 2040 strategy",
-        "url": "https://aerospaceamerica.aiaa.org/saltzman-says-u-s-space-force-will-pursue-radical-shift-in-acquisition-teases-2040-strategy/",
-        "source": "Aerospace America",
-        "published": "Thu, 20 Nov 2025 21:28:36 +0000",
-        "published_dt": "2025-11-20T21:28:36+00:00",
-        "summary": ""
+        "id": "1fa5a1d52103e6cb",
+        "title": "How multi-agent AI can strengthen space missions against the unknown",
+        "url": "https://spacenews.com/how-multi-agent-ai-can-strengthen-space-missions-against-the-unknown/",
+        "source": "SpaceNews",
+        "published": "Wed, 10 Dec 2025 14:00:00 +0000",
+        "published_dt": "2025-12-10T14:00:00+00:00",
+        "summary": "<figure><img alt=\"Falcon 9 streaks\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/f9-doublestreak.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Space missions are entering a new era defined by complexity: more sensors, more software-driven behavior, more tightly coupled subsystems and more interactions between spacecraft and orbital infrastructure. As these systems evolve, the number of potential failure modes grows \u2014 ranging from thermal drift and aging hardware to configuration errors, environmental disturbances, and unfamiliar system behavior. [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/how-multi-agent-ai-can-strengthen-space-missions-against-the-unknown/\">How multi-agent AI can strengthen space missions against the unknown</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
+      {
+        "id": "c21d3e7b45dae29a",
+        "title": "What a stiff drink says about China\u2019s economy",
+        "url": "https://www.economist.com/finance-and-economics/2025/12/11/what-a-stiff-drink-says-about-chinas-economy",
+        "source": "Finance & economics",
+        "published": "Thu, 11 Dec 2025 11:12:31 +0000",
+        "published_dt": "2025-12-11T11:12:31+00:00",
+        "summary": "The baijiu business is the latest to be struck by \u201cinvolution\u201d"
+      },
+      {
+        "id": "a037d14c1bdfc0b5",
+        "title": "Germany has a lawyer problem",
+        "url": "https://www.economist.com/finance-and-economics/2025/12/11/germany-has-a-lawyer-problem",
+        "source": "Finance & economics",
+        "published": "Thu, 11 Dec 2025 11:14:59 +0000",
+        "published_dt": "2025-12-11T11:14:59+00:00",
+        "summary": "Its endless bureaucratic rules trap would-be reformers"
+      },
+      {
+        "id": "04fa6aa4de231f15",
+        "title": "America\u2019s bond market is quiet\u2014almost too quiet",
+        "url": "https://www.economist.com/finance-and-economics/2025/12/11/americas-bond-market-is-quiet-almost-too-quiet",
+        "source": "Finance & economics",
+        "published": "Thu, 11 Dec 2025 11:10:02 +0000",
+        "published_dt": "2025-12-11T11:10:02+00:00",
+        "summary": "Scott Bessent has a cunning plan"
+      },
+      {
+        "id": "2327a2cbd174f336",
+        "title": "Wall Street is drooling over bank mergers",
+        "url": "https://www.economist.com/finance-and-economics/2025/12/11/wall-street-is-drooling-over-bank-mergers",
+        "source": "Finance & economics",
+        "published": "Thu, 11 Dec 2025 11:07:13 +0000",
+        "published_dt": "2025-12-11T11:07:13+00:00",
+        "summary": "The world\u2019s most fragmented financial industry faces dramatic change"
+      },
       {
         "id": "820d554ba62719c3",
         "title": "Accommodating Emerging Giants in the Global Economy -- by Zhuokai Huang, Benny Kleinman, Ernest Liu, Stephen J. Redding",
@@ -473,6 +554,15 @@
         "published": null,
         "published_dt": null,
         "summary": "How does a task-level minimum pay requirement for gig workers affect their earnings and employment? We study this question in the context of a January 2024 law in Seattle that establishes a per-task minimum pay standard for app-based delivery workers. Drawing on novel cross-platform, trip-level gig activity data, we compare earnings and employment trajectories around the implementation of the law for workers who were doing delivery work in Seattle before the reform against workers who had been active in other regions of Washington State. We find that the minimum pay law raised delivery pay per task, though the increases in base pay per task were partially offset by a substantial reduction in average tips, a major component of delivery pay. At the same time, the policy led to a reduction in the number of tasks completed by highly attached incumbent drivers (but not an increase in exit from delivery work), completely offsetting increased pay per task and leading to zero effect on monthly earnings. We find evidence that drivers experienced more unpaid idle time and longer distances driven between tasks, but find no evidence that drivers reduced their total time working on delivery apps and only limited evidence of switching from delivery to ride-hailing work. Using a simple model of the labor market for platform delivery drivers, we show that our evidence is consistent with free entry of drivers into the delivery market driving down the task-finding rate until expected earnings return to their pre-reform level. These findings highlight the challenges of raising pay in spot markets for tasks where there is free entry of workers."
+      },
+      {
+        "id": "233484b8ab536f6a",
+        "title": "Asia\u2019s inexpensive AI stocks should worry American investors",
+        "url": "https://www.economist.com/finance-and-economics/2025/12/10/asias-inexpensive-ai-stocks-should-worry-american-investors",
+        "source": "Finance & economics",
+        "published": "Wed, 10 Dec 2025 19:18:39 +0000",
+        "published_dt": "2025-12-10T19:18:39+00:00",
+        "summary": "Tech mania looks very different in Japan, South Korea and Taiwan"
       },
       {
         "id": "a4d25f9f0de8bce4",
@@ -590,71 +680,26 @@
         "published": "Wed, 08 Oct 2025 19:13:52 +0000",
         "published_dt": "2025-10-08T19:13:52+00:00",
         "summary": "Forget debt. Here is something to villainise"
-      },
-      {
-        "id": "34d3213f3fa6c879",
-        "title": "Why Donald Trump\u2019s tariffs are failing to break global trade",
-        "url": "https://www.economist.com/finance-and-economics/2025/10/08/why-donald-trumps-tariffs-are-failing-to-break-global-trade",
-        "source": "Finance & economics",
-        "published": "Wed, 08 Oct 2025 18:20:12 +0000",
-        "published_dt": "2025-10-08T18:20:12+00:00",
-        "summary": "Six months on from \u201cLiberation Day\u201d, things look surprisingly rosy"
-      },
-      {
-        "id": "1dc17cac392cfb76",
-        "title": "Credit markets look increasingly dangerous",
-        "url": "https://www.economist.com/finance-and-economics/2025/10/02/credit-markets-look-increasingly-dangerous",
-        "source": "Finance & economics",
-        "published": "Thu, 02 Oct 2025 10:22:25 +0000",
-        "published_dt": "2025-10-02T10:22:25+00:00",
-        "summary": "A pair of bankruptcies highlight the risks"
-      },
-      {
-        "id": "d170931d916e4cae",
-        "title": "How the Trump administration learned to love foreign aid",
-        "url": "https://www.economist.com/finance-and-economics/2025/10/02/how-the-trump-administration-learned-to-love-foreign-aid",
-        "source": "Finance & economics",
-        "published": "Thu, 02 Oct 2025 10:19:44 +0000",
-        "published_dt": "2025-10-02T10:19:44+00:00",
-        "summary": "America\u2019s international assistance has not been destroyed\u2014it has been transformed"
-      },
-      {
-        "id": "054006d00108786a",
-        "title": "The AI talent war is becoming fiercer",
-        "url": "https://www.economist.com/finance-and-economics/2025/09/25/the-ai-talent-war-is-becoming-fiercer",
-        "source": "Finance & economics",
-        "published": "Thu, 25 Sep 2025 10:08:31 +0000",
-        "published_dt": "2025-09-25T10:08:31+00:00",
-        "summary": "How other countries hope to challenge America"
-      },
-      {
-        "id": "112db054a2d4c536",
-        "title": "Will Dubai\u2019s super-hot property market avoid a crash?",
-        "url": "https://www.economist.com/finance-and-economics/2025/09/24/will-dubais-super-hot-property-market-avoid-a-crash",
-        "source": "Finance & economics",
-        "published": "Wed, 24 Sep 2025 16:18:15 +0000",
-        "published_dt": "2025-09-24T16:18:15+00:00",
-        "summary": "Despite fears of a reckoning, its fundamentals look solid"
       }
     ],
     "Cross-Disciplinary": [
       {
-        "id": "f6e0845f214eb2fa",
-        "title": "Securing VMware workloads in regulated industries",
-        "url": "https://www.technologyreview.com/2025/12/10/1128475/securing-vmware-workloads-in-regulated-industries/",
+        "id": "b36f99df6c35406d",
+        "title": "Solar geoengineering startups are getting serious",
+        "url": "https://www.technologyreview.com/2025/12/11/1129239/solar-geoengineering-startups-are-getting-serious/",
         "source": "MIT Technology Review",
-        "published": "Wed, 10 Dec 2025 10:11:19 +0000",
-        "published_dt": "2025-12-10T10:11:19+00:00",
-        "summary": "At a regional hospital, a cardiac patient\u2019s lab results sit behind layers of encryption, accessible to his surgeon but shielded from those without strictly need-to-know status. Across the street at a credit union, a small business owner anxiously awaits the all-clear for a wire transfer, unaware that fraud detection systems have flagged it for further&#8230;"
+        "published": "Thu, 11 Dec 2025 11:00:00 +0000",
+        "published_dt": "2025-12-11T11:00:00+00:00",
+        "summary": "Solar geoengineering aims to manipulate the climate by bouncing sunlight back into space. In theory, it could ease global warming. But as interest in the idea grows, so do concerns about potential consequences. A startup called Stardust Solutions recently raised a $60 million funding round, the largest known to date for a geoengineering startup. My&#8230;"
       },
       {
-        "id": "6883356cab0ff310",
-        "title": "How one controversial startup hopes to cool the planet",
-        "url": "https://www.technologyreview.com/2025/12/10/1129079/how-one-controversial-startup-hopes-to-cool-the-planet/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 10 Dec 2025 10:00:00 +0000",
-        "published_dt": "2025-12-10T10:00:00+00:00",
-        "summary": "Stardust Solutions believes that it can solve climate change\u2014for a price. The Israel-based geoengineering startup has said it expects&#160; nations will soon pay it more than a billion dollars a year to launch specially equipped aircraft into the stratosphere. Once they\u2019ve reached the necessary altitude, those planes will disperse particles engineered to reflect away enough&#8230;"
+        "id": "e128d91b7c192b5a",
+        "title": "Two New AI Ethics Certifications Available from IEEE",
+        "url": "https://spectrum.ieee.org/two-new-ai-ethics-certifications",
+        "source": "IEEE Spectrum",
+        "published": "Wed, 10 Dec 2025 19:00:02 +0000",
+        "published_dt": "2025-12-10T19:00:02+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-large-floating-cube-with-ai-written-on-its-front-and-a-halo-hovering-above.jpg?id=62301657&amp;width=1200&amp;height=800&amp;coordinates=0%2C83%2C0%2C84\" /><br /><br /><p>It appears that nearly every organization is planning to use <a href=\"https://spectrum.ieee.org/topic/artificial-intelligence/\" target=\"_self\">artificial intelligence</a> to improve operations. Although autonomous intelligent systems (AIS) can offer significant benefits, they also can be used unethically. The technology can create <a href=\"https://spectrum.ieee.org/real-time-audio-deepfake-vishing\" target=\"_self\">deepfakes</a>, realistic-looking altered images and videos that help spread <a href=\"https://spectrum.ieee.org/ai-misinformation-llm-bullshit\" target=\"_self\">misinformation</a> and disinformation. Meanwhile, AI systems trained on <a href=\"https://spectrum.ieee.org/inclusive-ai\" target=\"_self\">biased data can perpetuate discrimination</a> in hiring, lending, and other practices. And surveillance systems that incorporate AI can lead to misidentification.</p><p>Those issues have led to concerns about AIS trustworthiness, and it has become more crucial for AI developers and companies to ensure the systems they use and sell are ethically sound. To help them, the <a href=\"https://standards.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Standards Association</a> (IEEE SA) launched its <a href=\"https://standards.ieee.org/products-programs/icap/ieee-certifaied/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE CertifAIEd</a> ethics program, which offers two certifications: one for individuals and one for products.</p><p>IEEE CertifAIEd was developed by an interdisciplinary group of AI ethics experts. The program is based on IEEE\u2019s <a href=\"https://standards.ieee.org/wp-content/uploads/import/documents/other/ethical-considerations-ai-as-29mar2018.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">AI ethics framework and methodology</a>, centered around the pillars of accountability, privacy, transparency, and avoiding bias. The program incorporates criteria outlined in the <a href=\"https://creativecommons.org/2025/06/25/introducing-cc-signals-a-new-social-contract-for-the-age-of-ai/\" rel=\"noopener noreferrer\" target=\"_blank\">AI ontological specifications</a> released under <a href=\"https://creativecommons.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Creative Commons</a> licenses.</p><p>IEEE is the only international organization that offers the programs, says <a href=\"https://www.linkedin.com/in/jon-labrador-862899395/\" rel=\"noopener noreferrer\" target=\"_blank\">Jon Labrador</a>, director for conformity assessment of IEEE SA programs.</p><h2>Assessment program details</h2><p>The <a href=\"https://standards.ieee.org/products-programs/icap/ieee-certifaied/professional-certification/\" rel=\"noopener noreferrer\" target=\"_blank\">professional certification</a> provides individuals with the skills to assess an AIS for adherence to IEEE\u2019s methodology and ethics framework.</p><p>Those with at least one year of experience in the use of AI tools or systems in their organization\u2019s business processes or work functions are <a href=\"https://standards.ieee.org/products-programs/icap/ieee-certifaied/professional-certification/\" rel=\"noopener noreferrer\" target=\"_blank\">eligible to apply</a> for the certification.</p><p>You don\u2019t have to be a developer or engineer to benefit from the training, Labrador says. Insurance underwriters, policymakers, human resources personnel, and others could benefit from it, he says.</p><p>\u201cProfessionals from just about any industry or any company that\u2019s using an AI tool to process business transactions are eligible for this program,\u201d he says.</p><p>The training program covers how to ensure that AI systems are open and understandable; identify and mitigate biases in algorithms; and protect personal data. The <a href=\"https://standards.ieee.org/products-programs/icap/ieee-certifaied/curriculum-licensing/\" rel=\"noopener noreferrer\" target=\"_blank\">curriculum</a> includes use cases. Courses are available in virtual, in-person, or self-study formats.</p><p>Learners must take a final exam. Once they\u2019ve successfully passed the test, they\u2019ll receive their three-year IEEE professional certification, which is globally recognized, accepted, and respected, Labrador says.</p><p>\u201cWith the certification, you\u2019ll become a trusted source for reviewing AI tools used in your business processes, and you\u2019ll be qualified to run an assessment,\u201d he says. \u201cIt would be incumbent on a company to have a few IEEE CertifAIEd professionals to review its tools regularly to make sure they conform with the values identified in our program.\u201d</p><p>The self-study exam preparatory course is available to IEEE members at US $599; it costs $699 for nonmembers.</p><h2>Product assessments</h2><p>The <a href=\"https://standards.ieee.org/products-programs/icap/ieee-certifaied/product-certification/\" rel=\"noopener noreferrer\" target=\"_blank\">product certification program</a> assesses whether an organization\u2019s AI tool or AIS conforms to the IEEE framework and continuously aligns with legal and regulatory principles such as the <a href=\"https://artificialintelligenceact.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">European Union AI Act</a>.</p><p>An IEEE CertifiAIEd assessor evaluates the product to ensure it meets all criteria. There are <a href=\"https://standards.ieee.org/products-programs/icap/ieee-certifaied/product-certification/#certification-registry\" rel=\"noopener noreferrer\" target=\"_blank\">more than 300 authorized assessors</a>.</p><p>Upon completion of the assessment, the company submits it to <a href=\"https://standards.ieee.org/products-programs/icap/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Conformity Assessment</a>, which certifies the product and issues the certification mark.</p><p>\u201cThat mark lets customers know that the company has gone through the rigors and is 100 percent in conformance with the latest IEEE AI ethics specifications,\u201d Labrador says.</p><p>\u201cThe IEEE CertifiAIEd program can also be viewed as a risk mitigation tool for companies,\u201d he says, \u201creducing the risk of system or process failures with the introduction of a new AI tool or system in established business processes.\u201d</p><p>You can <a href=\"https://standards.ieee.org/products-programs/icap/ieee-certifaied/product-certification/\" rel=\"noopener noreferrer\" target=\"_blank\">complete an application</a> to begin the process of getting your product certified.</p>"
       },
       {
         "id": "8563f2cba1fba648",
@@ -673,6 +718,15 @@
         "published": "Mon, 08 Dec 2025 14:00:02 +0000",
         "published_dt": "2025-12-08T14:00:02+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/person-next-to-healthcare-device-looking-at-phone.jpg?id=62288369&amp;width=1200&amp;height=800&amp;coordinates=62%2C0%2C63%2C0\" /><br /><br /><p><span>I was interviewing a 72-year-old retired accountant who had unplugged his <a href=\"https://spectrum.ieee.org/monitor-diabetes-from-your-smart-watch\" target=\"_blank\">smart glucose monitor</a>. He explained that he \u201cdidn\u2019t know who was looking\u201d at his blood sugar data.</span></p><p>This wasn\u2019t a man unfamiliar with technology\u2014he had successfully used computers for decades in his career. He was of sound mind. But when it came to his health device, he couldn\u2019t find clear answers about where his data went, who could access it, or how to control it. The instructions were dense, and the <a href=\"https://spectrum.ieee.org/protecting-online-privacy\" target=\"_blank\">privacy settings</a> were buried in multiple menus. So, he made what seemed like the safest choice: he unplugged it. That decision meant giving up real-time glucose monitoring that his doctor had recommended.</p><p>The healthcare IoT (Internet of Things) market is <a href=\"https://finance.yahoo.com/news/iot-healthcare-market-worth-289-140000086.html\" target=\"_blank\">projected</a> to exceed $289 billion by 2028, with older adults representing a major share of users. These devices are fall detectors, medication reminders, glucose monitors, heart rate trackers, and others that enable independent living. Yet there\u2019s a widening gap between deployment and adoption. According to an <a href=\"https://www.aarp.org/personal-technology/companies-address-online-privacy-concerns/\" target=\"_blank\">AARP survey</a>, 34% of adults over 50 list privacy as a primary barrier to adopting health technology. That represents millions of people who could benefit from monitoring tools but avoid them because they don\u2019t feel safe.</p><p>In my study at the University of Denver\u2019s Ritchie School of Engineering and Computer Science, I surveyed 22 older adults and conducted in-depth interviews with nine participants who use health-monitoring devices. The findings revealed a critical engineering failure: 82% understood security concepts like <a href=\"https://spectrum.ieee.org/two-factor-authentication-sandia-labs\" target=\"_blank\">two-factor authentication</a> and <a href=\"https://spectrum.ieee.org/homomorphic-encryption\" target=\"_blank\">encryption</a>, yet only 14% felt confident managing their privacy when using these devices. In my research, I also evaluated 28 healthcare apps designed for older adults and found that 79% lacked basic breach-notification protocols.</p><p>One participant told me, \u201cI know there\u2019s encryption, but I don\u2019t know if it\u2019s really enough to protect my data.\u201d Another said, \u201cThe thought of my health data getting into the wrong hands is very concerning. I\u2019m particularly worried about identity theft or my information being used for scams.\u201d</p><p>This is not a user knowledge problem; it\u2019s an engineering problem. We\u2019ve built systems that demand technical expertise to operate safely, then handed them to people managing complex health needs while navigating age-related changes in vision, cognition, and dexterity.</p><h2>Measuring the Gap</h2><p>To quantify the issues with privacy setting transparency, I developed the Privacy Risk Assessment Framework (PRAF), a tool that scores healthcare apps across five critical domains.</p><p>First, the regulatory compliance domain evaluates whether apps explicitly state adherence to the Health Insurance Portability and Accountability Act (HIPAA), the General Data Protection Regulation (GDPR), or other data protection standards. Just claiming to be compliant is not enough\u2014they must provide verifiable evidence.</p><p>Second, the security mechanisms<strong> </strong>domain assesses the implementation of encryption, access controls, and, most critically, breach-notification protocols that alert users when their data may have been compromised. Third, in the usability and accessibility domain, the tool examines whether privacy interfaces are readable and navigable for people with age-related visual or cognitive changes. Fourth, data-minimization practices evaluate whether apps collect only necessary information and clearly specify retention periods. Finally, third-party sharing transparency measures whether users can easily understand who has access to their data and why.</p><p>When I applied PRAF to 28 healthcare apps commonly used by older adults, the results revealed systemic gaps. Only 25% explicitly stated HIPAA compliance, and just 18% mentioned GDPR compliance. Most alarmingly, 79% lacked breach notification protocols, which means that the users may never find out if their data was compromised. The average privacy policy readability scored at a 12th-grade level, even though <a href=\"https://pubmed.ncbi.nlm.nih.gov/16541986/\" rel=\"noopener noreferrer\" target=\"_blank\">research shows</a> that the average reading level of older adults is at an 8th grade level<strong>. </strong>Not a single app included accessibility accommodations in their privacy interfaces.</p><p>Consider what happens when an older adult opens a typical health app. They face a multi-page privacy policy full of legal terminology about \u201cdata controllers\u201d and \u201cprocessing purposes,\u201d followed by settings scattered across multiple menus. One participant told me, \u201cThe instructions are hard to understand, the print is too small, and it\u2019s overwhelming.\u201d Another explained, \u201cI don\u2019t feel adequately informed about how my data is collected, stored, and shared. It seems like most of these companies are after profit, and they don\u2019t make it easy for users to understand what\u2019s happening with their data.\u201d</p><p>When protection requires a manual people can\u2019t read, two outcomes follow: they either skip security altogether leaving themselves vulnerable, or abandon the technology entirely, forfeiting its health benefits.</p><h2>Engineering for privacy</h2><p>We need to treat trust as an engineering specification, not a marketing promise. Based on my research findings and the specific barriers older adults face, three approaches address the root causes of distrust.</p><p>The first approach is adaptive security defaults. Rather than requiring users to navigate complex configuration menus, devices should ship with pre-configured best practices that automatically adjust to data sensitivity and device type. A fall detection system doesn\u2019t need the same settings as a continuous glucose monitor. This approach draws from the principle of \u201csecurity by default\u201d in systems engineering.</p><p>Biometric or voice authentication can replace passwords that are easily forgotten or written down. The key is removing the burden of expertise while maintaining strong protection. As one participant put it: \u201cSimplified security settings, better educational resources, and more intuitive user interfaces will be beneficial.\u201d</p><p>The second approach is real-time transparency<strong>.</strong> Users shouldn\u2019t have to dig through settings to see where their data goes. Instead, notification systems should show each data access or sharing event in plain language. For example: \u201cYour doctor accessed your heart-rate data at 2 p.m. to review for your upcoming appointment.\u201d A single dashboard should summarize who has access and why.</p><p>This addresses a concern that came up repeatedly in my interviews: users want to know who is seeing their data and why. The engineering challenge here isn\u2019t technical complexity, it\u2019s designing interfaces that convey technical realities in language anyone can understand. Such systems already exist in other domains; banking apps, for instance, send immediate notifications for every transaction. The same principle applies to health data, where the stakes are arguably higher.</p><p>The third approach is invisible security updates. Manual patching creates vulnerability windows. Automatic, seamless updates should be standard for any device handling health data, paired with a simple status indicator so users can confirm protection at a glance. As one participant said, \u201cThe biggest issue that we as seniors have is the fact that we don\u2019t remember our passwords... The new technology is surpassing the ability of seniors to keep up with it.\u201d Automating updates removes a significant source of anxiety and risk.</p><h2>What\u2019s at Stake</h2><p>We can keep building healthcare IoT the way we have: fast, feature-rich, and fundamentally untrustworthy. Or, we can engineer systems that are transparent, secure, and usable by design. Trust isn\u2019t something you market through slogans or legal disclaimers. It\u2019s something you engineer, line by line, into the code itself.<strong> </strong>For older adults relying on technology to maintain independence, that kind of engineering matters more than any new feature we could add. Every unplugged glucose monitor, every abandoned fall detector, every health app deleted out of confusion or fear represents not just a lost sale but a missed opportunity to support someone\u2019s health and autonomy.</p><p>The challenge of privacy in healthcare IoT goes beyond fixing existing systems, it requires reimagining how we communicate privacy itself. My ongoing research builds on these findings through an AI-driven Data Helper, a system that uses large language models to translate dense legal privacy policies into short, accurate, and accessible summaries for older adults. By making data practices transparent and comprehension measurable, this approach aims to turn compliance into understanding and trust, thus advancing the next generation of trustworthy digital health systems.</p>"
+      },
+      {
+        "id": "1d4f3305d7136cd0",
+        "title": "This Low-Cost Stopgap Tech Can Fix the Grid",
+        "url": "https://spectrum.ieee.org/grid-congestion-uk",
+        "source": "IEEE Spectrum",
+        "published": "Wed, 10 Dec 2025 14:00:02 +0000",
+        "published_dt": "2025-12-10T14:00:02+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/three-rows-of-machines-outdoors-surrounded-by-a-fence.jpg?id=62286808&amp;width=1200&amp;height=800&amp;coordinates=156%2C0%2C156%2C0\" /><br /><br /><p><strong>The power surging through</strong> transmission lines over the iconic stone walls of England\u2019s northern countryside is pushing the United Kingdom\u2019s grid to its limits. To the north, Scottish wind farms have doubled their output over the past decade. In the south, where electricity demand is heaviest, electrification and new data centers promise to draw more power, but new generation is falling short. Construction on a new 3,280-megawatt nuclear power plant west of London lags years behind schedule.</p><p>The result is a lopsided flow of power that\u2019s maxing out transmission corridors from the Highlands to London. That grid strain won\u2019t ease any time soon. New lines linking Scotland to southern England are at least three to four years from operation, and at risk of further delays from fierce local opposition.</p><p>At the same time, U.K. Prime Minister Keir Starmer is bent on installing even more wind power and slashing fossil-fuel generation by 2030. His Labour government says low-carbon power is cheaper and more secure than natural gas, much of which comes from Norway via the world\u2019s longest underwater gas pipeline and is vulnerable to disruption and sabotage.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Map of transmission lines in southern Scotland and northern England.\" class=\"rm-shortcode\" id=\"1e710\" src=\"https://spectrum.ieee.org/media-library/map-of-transmission-lines-in-southern-scotland-and-northern-england.png?id=62286818&amp;width=980\" /> <small class=\"image-media media-caption\">The lack of transmission lines available to move power flowing south from Scottish wind farms has caused grid congestion in England. To better manage it, the U.K. has installed SmartValves at three substations in northern England\u2014Penwortham, Harker, and Saltholme\u2014and is constructing a fourth at South Shields. </small><small class=\"image-media media-photo-credit\">Chris Philpot </small></p>The U.K.\u2019s resulting grid congestion prevents transmission operators from delivering some of their cleanest, cheapest generation to all of the consumers who want it. Congestion is a perennial problem whenever power consumption is on the rise. It pushes circuits to their thermal limits and creates grid stability or security constraints.<p>With congestion relief needed now, the U.K.\u2019s grid operators are getting creative, rapidly tapping new cable designs and innovations in power electronics to squeeze more power through existing transmission corridors. These <a href=\"https://spectrum.ieee.org/grid-enhancing-technologies\" target=\"_self\">grid-enhancing technologies</a>, or GETs, present a low-cost way to bridge the gap until new lines can be built.</p><p>\u201cGETs allow us to operate the system harder before an investment arrives, and they save a s***load of money,\u201d says <a href=\"https://linkedin.com/in/julian-leslie-b9059535?originalSubdomain=uk\" target=\"_blank\">Julian Leslie</a>, chief engineer and director of strategic energy planning at the National Energy System Operator (NESO), the Warwick-based agency that directs U.K. energy markets and infrastructure.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"A stone wall along a dirt trail with large powerlines running overhead on a sunny day \" class=\"rm-shortcode\" id=\"3c272\" src=\"https://spectrum.ieee.org/media-library/a-stone-wall-along-a-dirt-trail-with-large-powerlines-running-overhead-on-a-sunny-day.jpg?id=62286810&amp;width=980\" /><small class=\"image-media media-caption\">Transmission lines running across England\u2019s countryside are maxed out, creating bottlenecks in the grid that prevent some carbon-free power from reaching customers. </small><small class=\"image-media media-photo-credit\">Vincent Lowe/Alamy </small></p><p>The U.K.\u2019s extreme grid challenge has made it ground zero for some of the boldest GETs testing and deployment. Such innovation involves some risk, because an intervention anywhere on the U.K.\u2019s tightly meshed power system can have system-wide impacts. (Grid operators elsewhere are choosing to start with GETs at their systems\u2019 periphery\u2014where there\u2019s less impact if something goes wrong.)</p><p>The question is how far\u2014and how fast\u2014the U.K.\u2019s grid operators can push GETs capabilities. The new technologies still have a limited track record, so operators are cautiously feeling their way toward heavier investment. Power system experts also have unanswered questions about these advanced grid capabilities. For example, will they create more complexity than grid operators can manage in real time? Might feedback between different devices destabilize the grid?</p><p>There is no consensus yet as to how to even screen for such risks, let alone protect against them, says <a href=\"https://www.robinpreece.com/\" target=\"_blank\">Robin Preece</a>, professor in future power systems at the University of Manchester, in England. \u201cWe\u2019re at the start of establishing that now, but we\u2019re building at the same time. So it\u2019s kind of this race between the necessity to get this technology installed as quickly as possible, and our ability to fully understand what\u2019s happening.\u201d</p><h2>How is the U.K. Managing Grid Congestion?</h2><p>One of the most innovative and high-stakes tricks in the U.K.\u2019s toolbox employs electronic power-flow controllers, devices that shift electricity from jammed circuits to those with spare capacity. These devices have been able to finesse enough additional wind power through grid bottlenecks to replace an entire gas-fired generator. Installed in northern England four years ago by <a href=\"https://www.smartwires.com/\" target=\"_blank\">Smart Wires</a>, based in Durham, N.C., these SmartValves are expected to help even more as NESO installs more of them and masters their capabilities.</p><p>Warwick-based <a href=\"https://www.nationalgrid.com/electricity-transmission\" target=\"_blank\">National Grid Electricity Transmission</a>, the grid operator for England and Wales, is adding SmartValves and also replacing several thousand kilometers of overhead wire with advanced conductors that can carry more current. And it\u2019s using a technique called <a href=\"https://spectrum.ieee.org/dynamic-line-rating-grid-congestion\" target=\"_self\">dynamic line rating</a>, whereby sensors and models work together to predict when weather conditions will allow lines to carry extra current.</p><p>Other kinds of GETs are also being used globally. Advanced conductors are the most widely deployed. Dynamic line rating is increasingly common in European countries, and U.S. utilities are beginning to take it seriously. Europe also leads the world in topology-optimization software, which reconfigures power routes to alleviate congestion, and advanced power-flow-control devices like SmartValves.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Workers wearing hard hats and safety harnesses standing high up on an electricity pylon in the countryside\" class=\"rm-shortcode\" id=\"4a9a9\" src=\"https://spectrum.ieee.org/media-library/workers-wearing-hard-hats-and-safety-harnesses-standing-high-up-on-an-electricity-pylon-in-the-countryside.jpg?id=62286977&amp;width=980\" /> <small class=\"image-media media-caption\">Engineers install dynamic line rating technology from the Boston-based company LineVision on National Grid\u2019s transmission network. </small><small class=\"image-media media-photo-credit\">National Grid Electricity Transmission </small></p><p>SmartValves\u2019 chops stand out at the Penwortham substation in Lancashire, England, one of two National Grid sites where the device made its U.K. debut in 2021. Penwortham substation is a major transmission hub, whose spokes desperately need congestion relief. Auditory evidence of heavy power flows was clear during my visit to the substation, which buzzes loudly. The sound is due to the electromechanical stresses on the substation\u2019s massive transformers, explains my guide, National Grid commissioned engineer Paul Lloyd.</p><p>Penwortham\u2019s transformers, circuits, and protective relays are spread over 15 hectares, sandwiched between pastureland and suburban homes near Preston, a small city north of Manchester. Power arrives from the north on two pairs of 400-kilovolt AC lines, and most of it exits southward via 400-kV and 275-kV double-circuit wires.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Power lines crossing a rural pasture, with an old fence in the foreground and a substation in the background.\" class=\"rm-shortcode\" id=\"ce7e1\" src=\"https://spectrum.ieee.org/media-library/power-lines-crossing-a-rural-pasture-with-an-old-fence-in-the-foreground-and-a-substation-in-the-background.jpg?id=62286959&amp;width=980\" /> <small class=\"image-media media-caption\">Transmission lines lead to the congested Penwortham substation, which has become a test-bed for GETs such as  SmartValves and dynamic line rating. </small><small class=\"image-media media-photo-credit\">Peter Fairley </small></p><p>What makes the substation a strategic test-bed for GETs is its position just north of the U.K. grid\u2019s biggest bottleneck, known as Boundary B7a, which runs east to west across the island. Nine circuits traverse the B7a: the four AC lines headed south from Penwortham, four AC lines closer to Yorkshire\u2019s North Sea coast, and a high-voltage direct-current (HVDC) link offshore. In theory, those circuits can collectively carry 13.6 gigawatts across the B7a. But NESO caps its flow at several gigawatts lower to ensure that no circuits overload if any two lines turn off.</p><p>Such limits are necessary for grid reliability, but they are leaving terawatt-hours of wind power stranded in Scotland and increasing consumers\u2019 energy costs: an extra \u00a3196 million (US $265 million) in 2024 alone. The costs stem from NESO having to ramp up gas-fired generators to meet demand down south while simultaneously compensating wind-farm operators for curtailing their output, as required under U.K. policy.</p><p>So National Grid keeps tweaking Penwortham. In 2011 the substation got its first big GET: phase-shifting transformers (PSTs), a type of analog flow controller. PSTs adjust power flow by creating an AC waveform whose alternating voltage leads or lags its alternating current. They do so by each PST using a pair of connected transformers to selectively combine power from an AC transmission circuit\u2019s three phases. Motors reposition electrical connections on the transformer coils to adjust flows.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Large machines outdoors connected to power lines \" class=\"rm-shortcode\" id=\"d09c1\" src=\"https://spectrum.ieee.org/media-library/large-machines-outdoors-connected-to-power-lines.jpg?id=62286963&amp;width=980\" /> <small class=\"image-media media-caption\">Phase-shifting transformers (PSTs) were installed in 2012 at the Penwortham substation and are the analog predecessor to SmartValves. They\u2019re powerful but also bulky and relatively inflexible. It can take 10 minutes or more for the PST\u2019s motorized actuators at Penwortham to tap their full range of flow control, whereas SmartValves can shift within milliseconds.</small><small class=\"image-media media-photo-credit\">National Grid Electricity Transmission </small></p><p><span>Penwortham\u2019s pair of 540-tonne PSTs occupy the entire south end of the substation, along with their dedicated chillers, relays, and power supplies. Delivering all that hardware required extensive road closures and floating a huge barge up the adjacent River Ribble, an event that made national news.</span></p><p>The SmartValves at Penwortham stand in stark contrast to the PSTs\u2019 heft, complexity, and mechanics. SmartValves are a type of static synchronous series compensator, or SSSC\u2014a solid-state alternative to PSTs that employs power electronics to tweak power flows in milliseconds. I saw two sets of them tucked into a corner of the substation, occupying a quarter of the area of the PSTs.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Workers on an elevated platform and tall, cylindrical machinery\" class=\"rm-shortcode\" id=\"146f3\" src=\"https://spectrum.ieee.org/media-library/workers-on-an-elevated-platform-and-tall-cylindrical-machinery.jpg?id=62286971&amp;width=980\" /> <small class=\"image-media media-caption\">The SmartValve V103 design [above] experienced some teething and reliability issues that were ironed out with the technology\u2019s next iteration, the V104.</small> <small class=\"image-media media-photo-credit\">            National Grid Electricity Transmission/Smart Wires        </small> </p><p>The SmartValves are first and foremost an insurance policy to guard against a potentially crippling event: the sudden loss of one of the B7a\u2019s 400-kV lines. If that were to happen, gigawatts of power would instantly seek another route over neighboring lines. And if it happened on a windy day, when lots of power is streaming in from the north, the resulting surge could overload the 275-kV circuits headed from Penwortham to Liverpool. The SmartValves\u2019 job is to save the day.</p><p>They do this by adding impedance to the 275-kV lines, thus acting to divert more power to the remaining 400-kV lines. This rerouting of power prevents a blackout that could potentially cascade through the grid. The upside to that protection is that NESO can safely schedule an additional 350 MW over the B7a.</p><p>The savings add up. \u201cThat\u2019s 350 MW of wind you\u2019re no longer curtailing from wind farms. So that\u2019s 350 times \u00a3100 a megawatt-hour,\u201d says Leslie, at NESO. \u201cThat\u2019s also 350 MW of gas-fired power that you don\u2019t need to replace the wind. So that\u2019s 350 times \u00a3120 a megawatt-hour. The numbers get big quickly.\u201d</p><p><a href=\"https://ieeexplore.ieee.org/author/37266637500\" target=\"_blank\">Mark Osborne</a>, the National Grid lead asset life-cycle engineer managing its SmartValve projects, estimates the devices are saving U.K. customers over \u00a3100 million (US $132 million) a year. At that rate, they\u2019ll pay for themselves \u201cwithin a few years,\u201d Osborne says. By utility standards, where investments are normally amortized over decades, that\u2019s \u201calmost immediately,\u201d he adds.</p><h2>How Do Grid-Enhancing Technologies Work?</h2><p>The way Smart Wires\u2019 SSSC devices adjust power flow is based on emulating impedance, which is a strange beast created by AC power. An AC flow\u2019s changing magnetic field induces an additional voltage in the line\u2019s conductor, which then acts as a drag on the initial field. Smart Wires\u2019 SSSC devices alter power flow by emulating that natural process, effectively adding or subtracting impedance by adding their own voltage wave to the line. Adding a wave that leads the original voltage wave will boost flow, while adding a lagging wave will reduce flow.</p><p>The SSSC\u2019s submodules of capacitors and high-speed insulated-gate bipolar transistors operate in sequence to absorb power from a line and synthesize its novel impedance-altering waves. And thanks to its digital controls and switches, the device can within milliseconds flip from maximum power push to maximum pull.</p><p>You can trace the development of SSSCs to the advent of HVDC transmission in the 1950s. HVDC converters take power from an AC grid and efficiently convert it and transfer it over a DC line to another point in the same grid, or to a neighboring AC grid. In 1985, Narain Hingorani, an HVDC expert at the Palo Alto\u2013based Electric Power Research Institute, showed that similar converters could modulate the flow of an AC line. Four years later, Westinghouse engineer Laszlo Gyugyi proposed SSSCs, which became the basis for Smart Wires\u2019 boxes.</p><p>Major power-equipment manufacturers tried to commercialize SSSCs in the early 2000s. But utilities had little need for flow control back then because they had plenty of conventional power plants that could meet local demand when transmission lines were full.</p><p>The picture changed as solar and wind generation exploded and conventional plants began shutting down. In years past, grid operators addressed grid congestion by turning power plants on or off in strategic locations. But as of 2024, the U.K. had shut down all of its coal-fired power plants\u2014save one, which now burns wood\u2014and it has vowed to slash gas-fired generation from about a quarter of electricity supply in 2024 to at most 5 percent in 2030.</p><p class=\"pull-quote\">The U.K.\u2019s extreme grid challenge has made it ground zero for some of the boldest GETs testing and deployment.</p><p>To seize the emerging market opportunity presented by changing grid operations, Smart Wires had to make a crucial technology upgrade: ditching transformers. The company\u2019s first SSSC, and those from other suppliers, relied on a transformer to absorb lightning, voltage surges, and every other grid assault that could fry their power electronics. This made them bulky and added cost. So Smart Wires engineers set to work in 2017 to see if they could live without the transformer, says Frank Kreikebaum, Smart Wires\u2019s interim chief of engineering. Two years later the company had assembled a transformerless electronic shield. It consisted of a suite of filters and diverters, along with a control system to activate them. Ditching the transformer produced a trim, standardized product\u2014a modular system-in-a-box.</p><p>SmartValves work at any voltage and are generally ganged together to achieve a desired level of flow control. They can be delivered fast, and they fit in the kinds of tight spaces that are common in substations. \u201cIt\u2019s not about cost, even though we\u2019re competitive there. It\u2019s about \u2018how quick\u2019 and \u2018can it fit,\u2019\u201d says Kreikebaum.</p><p>And if the grid\u2019s pinch point shifts? The devices can be quickly moved to another substation. \u201cIt\u2019s a Lego-brick build,\u201d says <a href=\"https://www.linkedin.com/in/owen-wilkes/?originalSubdomain=uk\" target=\"_blank\">Owen Wilkes</a>, National Grid\u2019s director of network design. Wilkes\u2019s team decides where to add equipment based on today\u2019s best projections, but he appreciates the flexibility to respond to unexpected changes.</p><p>National Grid\u2019s deployments in 2021 were the highest-voltage installation of SSSCs at the time, and success there is fueling expansion. National Grid now has packs of SmartValves installed at three substations in northern England and under construction at another, with five more installations planned in that area. Smart Wires has also commissioned commercial projects at transmission substations in Australia, Brazil, Colombia, and the United States.</p><h2>Dynamic Line Rating Boosts Grid Efficiency</h2><p>In addition to SSSCs, National Grid has deployed lidar that senses sag on Penwortham\u2019s 275-kV lines\u2014an indication that they\u2019re starting to overheat. The sensors are part of a dynamic line rating system and help grid operators maximize the amount of current that high-voltage lines can carry based on near-real-time weather conditions. (Cooler weather means more capacity.) Now the same technology is being deployed across the B7a\u2014a \u00a31 million investment that is projected to save consumers \u00a333 million annually, says <a href=\"https://www.linkedin.com/in/corin-ireland-4040b2179/?originalSubdomain=uk\" target=\"_blank\">Corin Ireland</a>, a National Grid optimization engineer with the task of seizing GETs opportunities.</p><p>There\u2019s also a lot of old conductor wires being swapped out for those that can carry more power. National Grid\u2019s business plan calls for 2,416 kilometers of such reconductoring over the coming five years, which is about 20 percent of its system. Scotland\u2019s transmission operators are busy with their own big swaps.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Rural farmland with shape and rotating wind turbines \" class=\"rm-shortcode\" id=\"80b0b\" src=\"https://spectrum.ieee.org/media-library/rural-farmland-with-shape-and-rotating-wind-turbines.jpg?id=62286812&amp;width=980\" /> <small class=\"image-media media-caption\">Scottish wind farms have doubled their power output over the past decade, but it often gets stranded due to grid congestion in England.</small> <small class=\"image-media media-photo-credit\">            Andreas Berthold/Alamy        </small> </p><p>But while National Grid and NESO are making some of the boldest deployments of GETs in the world, they\u2019re not fully tapping the technologies\u2019 capabilities. That\u2019s partly due to the conservative nature of power utilities, and partly because grid operators already have plenty to keep their eyes on. It also stems from the unknowns that still surround GETs, like whether they might take the grid in unforeseen directions if allowed to respond automatically, or get stuck in a feedback loop responding to each other. Imagine SmartValve controllers at different substations fighting, with one substation jumping to remove impedance that the other just added, causing fluctuating power flows.</p><p>\u201cThese technologies operate very quickly, but the computers in the control room are still very reliant on people making decisions,\u201d says Ireland. \u201cSo there are time scales that we have to take into consideration when planning and operating the network.\u201d</p><p>This kind of conservative dispatching leaves value on the table. For example, the dynamic line rating models can spit out new line ratings every 15 minutes, but grid operators get updates only every 24 hours. Fewer updates means fewer opportunities to tap the system\u2019s ability to boost capacity. Similarly, for SmartValves, NESO activates installations at only one substation at a time. And control-room operators turn them on manually, even though the devices could automatically respond to faults within milliseconds.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Workers in harnesses and hard hats climbing and standing high up on a transmission tower in the countryside.\" class=\"rm-shortcode\" id=\"9e46e\" src=\"https://spectrum.ieee.org/media-library/workers-in-harnesses-and-hard-hats-climbing-and-standing-high-up-on-a-transmission-tower-in-the-countryside.jpg?id=62286819&amp;width=980\" /> <small class=\"image-media media-caption\">National Grid is upgrading transmission lines dating as far back as the 1960s. This includes installing conductors that retain their strength at higher temperatures, allowing them to carry more power.</small> <small class=\"image-media media-photo-credit\">            National Grid Electricity Transmission        </small> </p><p>Modeling by Smart Wires and National Grid shows a significant capacity boost across Boundary B7a if Penwortham\u2019s SmartValves were to work in tandem with another set further up the line. For example, when Penwortham is adding impedance to push megawatts off the 275-kV lines, a set closer to Scotland could simultaneously pull the power north, nudging the sum over to the B7a\u2019s eastern circuits. Simulations by <a href=\"https://www.linkedin.com/in/andrew-hiorns-6a92b158/?originalSubdomain=uk\" target=\"_blank\">Andy Hiorns</a>, a former National Grid planning director who consults for Smart Wires, suggest that this kind of cooperative action should increase the B7a circuits\u2019 usable capacity by another 250 to 300 MW. \u201cYou double the effectiveness by using them as pairs,\u201d he says.</p><p>Operating multiple flow controllers may become necessary for unlocking the next boundary en route to London, south of the B7a, called Boundary B8. As dynamic line rating, beefier conductors, and SmartValves send more power across the B7a, lines traversing B8 are reaching their limits. Eventually, every boundary along the route will have to be upgraded.</p><p>Meanwhile, back at its U.S. headquarters, Smart Wires is developing other applications for its SSSCs, such as filtering out power oscillations that can destabilize grids and reduce allowable transfers. That capability could be unlocked remotely with firmware.</p><p>The company is also working on a test program that could turn on pairs of SmartValve installations during slack moments when there isn\u2019t much going on in the control rooms. That would give National Grid and NESO operators an opportunity to observe the impacts, and to get more comfortable with the technology.</p><p>National Grid and Smart Wires are also hard at work developing industry-first optimization software for coordinating flow-control devices. \u201cIt\u2019s possible to extend the technology from how we\u2019re using it today,\u201d says Ireland at National Grid. \u201cThat\u2019s the exciting bit.\u201d</p><p>NESO\u2019s Julian Leslie shares that excitement and says he expects SmartValves to begin working together to ease power through the grid\u2014once the operators have the modeling right and get a little more comfortable with the technology. \u201cIt\u2019s a great innovation that has the potential to be really transformational,\u201d he says. \u201cWe\u2019re just not quite there yet.\u201d <span class=\"ieee-end-mark\"></span></p>"
       },
       {
         "id": "4528c633e5fc51f8",
@@ -738,13 +792,49 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-surveillance-camera-collage-with-digital-graphics-overlaying-a-curly-haired-person-and-a-speeding-car.png?id=62219013&amp;width=1200&amp;height=800&amp;coordinates=0%2C22%2C0%2C23\" /><br /><br /><p>For years, <a href=\"https://www.csulb.edu/college-of-liberal-arts/journalism-public-relations/page/dr-gwen-shaffer\" rel=\"noopener noreferrer\" target=\"_blank\">Gwen Shaffer</a> has been leading Long Beach, Calif. residents on \u201cdata walks,\u201d pointing out public Wi-Fi routers, security cameras, smart water meters, and parking kiosks. The goal, according to the professor of journalism and public relations at <a href=\"https://www.csulb.edu/college-of-liberal-arts/journalism-public-relations\" rel=\"noopener noreferrer\" target=\"_blank\">California State University, Long Beach</a>, was to learn <a href=\"https://www.erudit.org/en/journals/survsoc/2025-v23-n2-survsoc010265/1120085ar/abstract/\" rel=\"noopener noreferrer\" target=\"_blank\">how residents felt</a> about the ways in which their city collected data on them.</p><h3>Gwen Shaffer</h3><br /><p><a href=\"https://www.csulb.edu/college-of-liberal-arts/journalism-public-relations/page/dr-gwen-shaffer\" rel=\"noopener noreferrer\" target=\"_blank\">Gwen Shaffer</a> is a professor of journalism and public relations at <a href=\"https://www.csulb.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">California State University, Long Beach</a>. She is the principal investigator on a National Science Foundation\u2013funded project aimed at providing Long Beach residents with greater agency over the personal data their city collects.</p><p>She also identified a critical gap in <a href=\"https://spectrum.ieee.org/smart-city-emergency-response\" target=\"_blank\">smart city</a> design today: While cities may disclose how they collect data, they rarely offer ways to opt out. Shaffer spoke with <em><em>IEEE Spectrum </em></em>about the experience of leading data walks, and about her research team\u2019s efforts to give citizens more control over the data collected by public technologies.</p><p><strong>What was the inspiration for your data walks?</strong></p><p><strong>Gwen Shaffer: </strong>I began facilitating data walks in 2021. I was studying residents\u2019 comfort levels with city-deployed technologies that collect personally identifiable information. My first career as a political reporter has influenced my research approach. I feel strongly about conducting applied rather than theoretical research. And I always go into a study with the goal of helping to solve a real-world challenge and inform policy.</p><p><strong>How did you organize the walks?</strong></p><p><strong>Shaffer: </strong>We posted data privacy labels with a QR code that residents can scan and find out how their data are being used. Downtown, they\u2019re in Spanish and English. In <a href=\"https://en.wikipedia.org/wiki/Cambodia_Town,_Long_Beach,_California\" rel=\"noopener noreferrer\" target=\"_blank\">Cambodia Town</a>, we did them in Khmer and English.</p><p><strong>What happened during the walks?</strong></p><p><strong>Shaffer: </strong>I\u2019ll give you one example. In a couple of the city-owned parking garages, there are <a href=\"https://spectrum.ieee.org/privacy-concerns-grow-as-us-police-departments-turn-to-license-plate-readers\" target=\"_blank\">automated license-plate readers</a> at the entrance. So when I did the data walks, I talked to our participants about how they feel about those scanners. Because once they have your license plate, if you\u2019ve parked for fewer than two hours, you can breeze right through. You don\u2019t owe money.</p><p>Responses were contextual and sometimes contradictory. There were residents who said, \u201cOh, yeah. That\u2019s so convenient. It\u2019s a time saver.\u201d So I think that shows how residents are willing to make trade-offs. Intellectually, they hate the idea of the privacy violation, but they also love convenience.</p><p><strong>What surprised you most?</strong></p><p><strong>Shaffer: </strong>One of the participants said, \u201cWhen I go to the airport, I can opt out of the facial scan and still be able to get on the airplane. But if I want to participate in so many activities in the city and not have my data collected, there\u2019s no option.\u201d</p><p>There was a<a href=\"https://www.hipaajournal.com/city-of-long-beach-ca-cyberattack/\" rel=\"noopener noreferrer\" target=\"_blank\"> cyberattack against the city in November 2023</a>. Even though we didn\u2019t have a prompt asking about it, people brought it up on their own in almost every focus group. One said, \u201cI would never connect to public Wi-Fi, especially after the city of Long Beach\u2019s site was hacked.\u201d</p><p><strong>What is the app your team is developing?</strong></p><p><strong>Shaffer: </strong>Residents want agency. So that\u2019s what led my research team to connect with privacy engineers at <a href=\"https://www.cmu.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">Carnegie Mellon University</a>, in Pittsburgh. <a href=\"https://www.cylab.cmu.edu/directory/bios/sadeh-norman.html\" rel=\"noopener noreferrer\" target=\"_blank\">Norman Sadeh</a> and his team had developed what they called the<a href=\"https://privacyassistant.org/iot/\" rel=\"noopener noreferrer\" target=\"_blank\"> IoT Assistant</a>. So I told them about our project, and proposed adapting their app for city-deployed technologies. Our plan is to give residents the opportunity to exercise their rights under the <a href=\"https://oag.ca.gov/privacy/ccpa\" rel=\"noopener noreferrer\" target=\"_blank\">California Consumer Privacy Act</a> with this app. So they could say, \u201c<a href=\"https://www.passportinc.com/faq/\" rel=\"noopener noreferrer\" target=\"_blank\">Passport Parking app</a>, delete all the data you\u2019ve already collected on me. And don\u2019t collect any more in the future.\u201d</p><p><em>This article appears in the December 2025 print issue as \u201cGwen Shaffer.\u201d</em></p>"
       },
       {
-        "id": "ace92e090e18fce6",
-        "title": "Listen to Protons for Less Than $100",
-        "url": "https://spectrum.ieee.org/listen-to-protons-diy-magnetometer",
+        "id": "1cf70851e72ab38c",
+        "title": "Why Vision AI Models Fail",
+        "url": "https://content.knowledgehub.wiley.com/why-vision-ai-models-fail/",
         "source": "IEEE Spectrum",
-        "published": "Tue, 25 Nov 2025 14:00:02 +0000",
-        "published_dt": "2025-11-25T14:00:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-pair-of-coil-wound-cylinders-sits-atop-two-milk-crates-wires-connect-them-to-a-circuit-board-connected-to-three-large-12-volt.png?id=62212907&amp;width=1200&amp;height=800&amp;coordinates=0%2C315%2C0%2C315\" /><br /><br /><p>When you get an MRI scan, the machine exploits a phenomenon called nuclear magnetic resonance (NMR). Certain kinds of atomic nuclei\u2014including those of the hydrogen atoms in a water molecule\u2014c<span>an be made to oscillate </span><span>in a magnetic field, and these oscillations </span><span>can be detected with coils of wire</span><span>. MRI scanners employ intense magnetic fields that create resonances at</span><a href=\"https://www.ncbi.nlm.nih.gov/books/NBK564320/\" target=\"_blank\"> tens to hundreds</a> of megahertz<span>. However, another NMR-based instrument involves  much lower-frequency oscillations: a</span><a href=\"https://en.wikipedia.org/wiki/Proton_magnetometer\" target=\"_blank\"> proton-precession magnetometer</a><span>, often used to measure Earth\u2019s magnetic field.</span></p><p>Proton-precession magnetometers have been around for decades and were once often used in<a href=\"https://web.archive.org/web/20100626162421/http:/www.gbl.indiana.edu/abstracts/89/peebles_89.html\" target=\"_blank\"> archaeology</a> and<a href=\"https://ui.adsabs.harvard.edu/abs/2015AGUFMNH43C1896B/abstract\" target=\"_blank\"> mineral exploration</a>. High-end models can cost thousands of dollars. Then, in 2022 a German engineer named Alexander Mumm devised<a href=\"https://alexmumm.de/dat/ppm_alexmumm_educational_listener.pdf\" target=\"_blank\"> a very simple circuit</a> for a stripped-down one. I recently built his circuit and can attest that with less than half a kilogram of 22-gauge magnet wire; two common integrated circuits; a<a href=\"https://en.wikipedia.org/wiki/MOSFET\" target=\"_blank\"> metal-oxide-semiconductor field-effect transistor, or MOSFET</a>; a handful of discrete components; and two empty 113-gram bottles of<a href=\"https://www.mortonsalt.com/home-product/morton-natures-seasons-seasoning-blend/\" target=\"_blank\"> Morton seasoning blend</a>, it\u2019s possible to measure Earth\u2019s magnetic field very accurately.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" rel=\"float: left;\" style=\"float: left;\"> <img alt=\"Principal components of the proton magnetometer.\" class=\"rm-shortcode\" id=\"ef3be\" src=\"https://spectrum.ieee.org/media-library/principal-components-of-the-proton-magnetometer.png?id=62212955&amp;width=980\" /><small class=\"image-media media-caption\">The frequency of the signal emitted by protons precessing in Earth\u2019s magnetic field lies in the audio range, so with a pair of headphones and two amplifier integrated circuits [middle right], you can detect a signal from water in seasoning bottles wrapped in coils [bottom left and right]. A MOSFET [middle left] allows for rapid control of the coils. The amplification circuitry is powered by a 9-volt battery, while a 36-volt battery charges the coils.</small><small class=\"image-media media-photo-credit\">James Provost</small></p><p>Like an MRI scanner, a proton-precession magnetometer measures the oscillations of<a href=\"https://en.wikipedia.org/wiki/Hydrogen_atom\" target=\"_blank\"> hydrogen nuclei</a>\u2014that is, protons. Like other subatomic particles, protons possess a quantum property called<a href=\"https://en.wikipedia.org/wiki/Spin_(physics)\" target=\"_blank\"> spin</a>, akin to classical angular momentum. In a magnetic field, protons wobble like spinning tops, with their spin axes tracing out a cone\u2014a phenomenon called precession. A proton-precession magnetometer gets many protons to wobble in sync and then measures the frequency of their wobbles, which is proportional to the intensity of the ambient magnetic field.</p><p>The weak strength of <a href=\"https://spectrum.ieee.org/magnetic-world-model\" target=\"_blank\">Earth\u2019s magnetic field</a> (at least compared to that of an MRI machine) means that protons wobbling under its influence do so at audio frequencies. Get enough moving in unison and the spinning protons will induce a voltage in a nearby pickup coil. Amplify that and pass it through some earphones, and you get an audio tone. So with a suitable circuit, you can, literally, hear protons.</p><p>The first step is to make the pickup coils, which is where the bottles of Morton seasoning blend come in. Why Morton seasoning blend? Two reasons. First, this size bottle will allow you to wrap about 500 turns of wire around each one with about 450 grams of 22-gauge wire. Second, the bottle has little shoulders molded at each end, making for excellent coil forms.</p><h3></h3><br /><div class=\"rblad-ieee_in_content\"></div><p>Why two bottles and two coils? That\u2019s to quash electromagnetic noise\u2014principally coming from power lines\u2014that invariably gets picked up by the coils. When two counterwound coils are wired in series, such external noise tends to cancel out. Signals from precessing protons in the two coils, though, will reinforce one another.</p><p class=\"pull-quote\"><span>Don\u2019t try this indoors or anywhere near iron-containing objects.</span></p><p>A proton magnetometer has three modes. The first is for sending DC current through the coils. The second mode disconnects the current source and allows the magnetic field it had created to collapse. The third is listening mode, which connects the coils to a sensitive audio amplifier. By filling each bottle with distilled water and sending a DC current (a few amperes) through these coils, you line up the spins of many protons in the water. Then, after putting your circuit into listening mode, you use the coils to sense the synchronous oscillations of the wobbling protons.</p><p>Mumm\u2019s circuit shifts from one mode to another in the simplest way possible: using a three-position switch. One position enables the DC-polarization mode. The next allows the magnetic field built up during polarization to collapse, and the third position is for listening.</p><h2>Avoiding Damaging Sparks</h2><p>The second mode might seem easy to achieve\u2014just disconnect the coils, right? But if you do that, <a href=\"https://spectrum.ieee.org/you-want-a-prosthetic-leg-with-a-tesla-coil-and-spark-gaps-no-problem\" target=\"_blank\">the same principle that makes spark plugs spark</a> will put a damaging high voltage across the switch contacts as the magnetic fields around the coils collapse.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"A circuit diagram. \" class=\"rm-shortcode\" id=\"84f9f\" src=\"https://spectrum.ieee.org/media-library/a-circuit-diagram.png?id=62212916&amp;width=980\" /><small class=\"image-media media-caption\">The proton-precession magnetometer is primarily just a multistage analog amplifier.</small><small class=\"image-media media-photo-credit\">James Provost</small></p><p>To avoid that, Mumm\u2019s circuit employs a MOSFET, wired to work like a high-power<a href=\"https://en.wikipedia.org/wiki/Zener_diode\" target=\"_blank\"> Zener diode</a>, used in many power-regulation circuits to allow only current above a specified threshold voltage to flow. This limits the voltage that develops across the coils when the current is cut off by just enough so that the magnetometer can shift from polarizing to listening mode quickly but without causing damage.</p><p>To pick up a strong signal, the listening circuit must also be tuned to resonate at the expected frequency of proton precession, which will depend on Earth\u2019s magnetic field at your location. You can work out approximately what that is using an online<a href=\"https://www.ngdc.noaa.gov/geomag/calculators/magcalc.shtml#igrfwmm\" target=\"_blank\"> geomagnetic-field calculator</a>. You\u2019ll get the field strength, and then you\u2019ll multiply that by the<a href=\"https://en.wikipedia.org/wiki/Gyromagnetic_ratio#Magnetogyric_ratio_for_a_nucleus\" target=\"_blank\"> gyromagnetic ratio</a> of protons (42.577 MHz per tesla). For me, that worked out to about 2 kilohertz. Estimating the inductance of the coils from their diameter and number of turns, I then selected a capacitor of suitable value in parallel with the coils to make a<a href=\"https://en.wikipedia.org/wiki/LC_circuit\" target=\"_blank\"> tank circuit</a> that resonates at that frequency.</p><p><span>You could tune your tank circuit using </span><span>a frequency generator and oscilloscope. </span><span>Or, as Mumm suggests, attach a small </span><span>speaker to the output of the circuit. Then </span><span>bring the speaker near the pickup coils. </span><span>This will create magnetic feedback and </span><span>the circuit will oscillate on it\u2019s own\u2014</span><span>loudly! You merely need to measure the </span><span>frequency of this tone, and then adjust </span><span>the tank capacitor to bring this self-os</span><span>cillation to the frequency you want to </span><span>tune to.</span></p><p>My initial attempt to listen to protons met with mixed success: Sometimes I heard tones, sometimes not. What helped to get this gizmo working consistently was realizing that proton magnetometers don\u2019t tolerate large gradients in the magnetic field. So don\u2019t try this indoors or anywhere near iron-containing objects: water pipes, cars, or even the ground. A wide-open space outside is best, with the coils raised off the ground. The second thing that helped was to apply more oomph in polarization mode. While a 12-volt battery works okay, 36 V does much better.</p><p>After figuring these things out, I can now hear protons easily. These tones are clearly the sounds of protons, because they go away if I drain the water in the bottles. And, using free audio-analyzer software called<a href=\"https://www.qsl.net/dl4yhf/spectra1.html\" target=\"_blank\"> Spectrum Lab</a>, I confirmed that the frequency of these tones matches the magnetic field at my location to about 1 percent. While it\u2019s not a practical field instrument, a proton-precession magnetometer of any kind for less than US $100 is nothing to sneer at.</p><p><em>This article appears in the December 2025 print issue as \u201cListening to Protons.\u201d</em></p>"
+        "published": "Wed, 10 Dec 2025 20:33:57 +0000",
+        "published_dt": "2025-12-10T20:33:57+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/logo-of-voxel51-orange-cube-outline-on-left-voxel-in-gray-51-in-orange-on-right.png?id=62304853&amp;width=980\" /><br /><br /><p>Prevent costly AI failures in production by mastering data-centric approaches to detect bias, classimbalance, and data leakage before deployment impacts your business.</p><ul><li>The four most common model failure modes that jeopardize production vision systems</li><li>Real-world case studies from Tesla, Walmart, and TSMC showing how failures translate to business losses</li><li>Data-centric failure modes including insufficient data, class imbalance, labeling errors, and bias</li><li>Evaluation frameworks and quantitative methods for future-proofing your deployments</li><li>Key strategies for detecting, analyzing, and preventing model failures including avoiding data leakage</li><li>Production monitoring approaches to track data drift and model confidence over time</li></ul><div><a href=\"https://content.knowledgehub.wiley.com/why-vision-ai-models-fail/\" target=\"_blank\">Download this free whitepaper now!</a></div>"
+      },
+      {
+        "id": "8c66d4117295e619",
+        "title": "Exclusive eBook: Aging Clocks & Understanding Why We Age",
+        "url": "https://www.technologyreview.com/2025/12/10/1128999/exclusive-ebook-aging-clocks-understanding-why-we-age/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 10 Dec 2025 15:08:45 +0000",
+        "published_dt": "2025-12-10T15:08:45+00:00",
+        "summary": "In this exclusive subscriber-only eBook, you&#8217;ll learn about a new method that scientists have uncovered to look at the ways our bodies are aging. by \u00a0Jessica Hamzelou October 14, 2025 Table of Contents: Related Stories: Access all subscriber-only eBooks:"
+      },
+      {
+        "id": "c8be9c3f5a6bab00",
+        "title": "The Download: a controversial proposal to solve climate change, and our future grids",
+        "url": "https://www.technologyreview.com/2025/12/10/1129186/the-download-a-controversial-proposal-to-solve-climate-change-and-our-future-grids/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 10 Dec 2025 13:14:00 +0000",
+        "published_dt": "2025-12-10T13:14:00+00:00",
+        "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How one controversial startup hopes to cool the planet Stardust Solutions believes that it can solve climate change\u2014for a price.&#160; The Israel-based geoengineering startup has said it expects nations will soon pay it&#8230;"
+      },
+      {
+        "id": "f6e0845f214eb2fa",
+        "title": "Securing VMware workloads in regulated industries",
+        "url": "https://www.technologyreview.com/2025/12/10/1128475/securing-vmware-workloads-in-regulated-industries/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 10 Dec 2025 10:11:19 +0000",
+        "published_dt": "2025-12-10T10:11:19+00:00",
+        "summary": "At a regional hospital, a cardiac patient\u2019s lab results sit behind layers of encryption, accessible to his surgeon but shielded from those without strictly need-to-know status. Across the street at a credit union, a small business owner anxiously awaits the all-clear for a wire transfer, unaware that fraud detection systems have flagged it for further&#8230;"
+      },
+      {
+        "id": "6883356cab0ff310",
+        "title": "How one controversial startup hopes to cool the planet",
+        "url": "https://www.technologyreview.com/2025/12/10/1129079/how-one-controversial-startup-hopes-to-cool-the-planet/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 10 Dec 2025 10:00:00 +0000",
+        "published_dt": "2025-12-10T10:00:00+00:00",
+        "summary": "Stardust Solutions believes that it can solve climate change\u2014for a price. The Israel-based geoengineering startup has said it expects&#160; nations will soon pay it more than a billion dollars a year to launch specially equipped aircraft into the stratosphere. Once they\u2019ve reached the necessary altitude, those planes will disperse particles engineered to reflect away enough&#8230;"
       },
       {
         "id": "36198fc672e79895",
@@ -810,33 +900,6 @@
         "summary": "The past year has marked a turning point in the corporate AI conversation. After a period of eager experimentation, organizations are now confronting a more complex reality: While investment in AI has never been higher, the path from pilot to production remains elusive. Three-quarters of enterprises remain stuck in experimentation mode, despite mounting pressure to&#8230;"
       },
       {
-        "id": "303bce0fc010344a",
-        "title": "The Download: political chatbot persuasion, and genetic optimization adverts",
-        "url": "https://www.technologyreview.com/2025/12/05/1128927/the-download-political-chatbot-persuasion-gene-editing-adverts/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 05 Dec 2025 13:10:00 +0000",
-        "published_dt": "2025-12-05T13:10:00+00:00",
-        "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI chatbots can sway voters better than political advertisements The news:&#160;Chatting with a politically biased AI model is more effective than political ads at nudging both Democrats and Republicans to support presidential candidates&#8230;"
-      },
-      {
-        "id": "67717e04340a7fe4",
-        "title": "The ads that sell the sizzle of genetic trait discrimination",
-        "url": "https://www.technologyreview.com/2025/12/05/1128755/selling-the-sizzle-of-trait-discrimination/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 05 Dec 2025 11:00:00 +0000",
-        "published_dt": "2025-12-05T11:00:00+00:00",
-        "summary": "One day this fall, I watched an electronic sign outside the Broadway-Lafayette subway station in Manhattan switch seamlessly between an ad for makeup and one promoting the website Pickyourbaby.com, which promises a way for potential parents to use genetic tests to influence their baby\u2019s traits, including eye color, hair color, and IQ. Inside the station,&#8230;"
-      },
-      {
-        "id": "cdb1d280db7358c2",
-        "title": "The era of AI persuasion in elections is about to begin",
-        "url": "https://www.technologyreview.com/2025/12/05/1128837/the-era-of-ai-persuasion-in-elections-is-about-to-begin/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 05 Dec 2025 10:00:00 +0000",
-        "published_dt": "2025-12-05T10:00:00+00:00",
-        "summary": "In January 2024, the phone rang in homes all around New Hampshire. On the other end was Joe Biden\u2019s voice, urging Democrats to \u201csave your vote\u201d by skipping the primary. It sounded authentic, but it wasn\u2019t. The call was a fake, generated by artificial intelligence. Today, the technology behind that hoax looks quaint. Tools like&#8230;"
-      },
-      {
         "id": "504233fbaeb22111",
         "title": "Are We Testing AI\u2019s Intelligence the Wrong Way?",
         "url": "https://spectrum.ieee.org/melanie-mitchell",
@@ -844,24 +907,6 @@
         "published": "Thu, 04 Dec 2025 23:30:02 +0000",
         "published_dt": "2025-12-04T23:30:02+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/an-illustration-of-a-scientist-pointing-to-a-meter-on-a-brain-the-background-is-circuitry.jpg?id=62282615&amp;width=1200&amp;height=800&amp;coordinates=62%2C0%2C63%2C0\" /><br /><br /><p><span>When people want a clear-eyed take on the state of artificial intelligence and what it all means, they tend to turn to </span><a href=\"https://melaniemitchell.me/\" target=\"_blank\">Melanie Mitchell</a><span>, a computer scientist and a </span><a href=\"https://santafe.edu/people/profile/melanie-mitchell\" target=\"_blank\">professor</a><span> at the Santa Fe Institute. Her 2019 book, <em><a href=\"https://melaniemitchell.me/aibook/\" target=\"_blank\">Artificial Intelligence: A Guide for Thinking Humans</a></em>, helped define the modern conversation about what today\u2019s AI systems can and can\u2019t do.</span></p> <p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"A smiling bespectacled woman with shoulder length brown hair.\" class=\"rm-shortcode\" id=\"66ed8\" src=\"https://spectrum.ieee.org/media-library/a-smiling-bespectacled-woman-with-shoulder-length-brown-hair.jpg?id=62282625&amp;width=980\" /> <small class=\"image-media media-caption\">Melanie Mitchell</small></p><p><span>Today </span><span>at NeurIPS, the year\u2019s biggest gathering of AI professionals, she gave a </span><a href=\"https://neurips.cc/virtual/2025/loc/san-diego/invited-talk/109607\" target=\"_blank\">keynote</a><span> titled </span><span>\u201cOn the Science of \u2018</span><span>Alien Intelligences\u2019</span><span>: Evaluating Cognitive Capabilities in Babies, Animals, and AI.\u201d</span><span> </span><span>Ahead of the talk, she spoke with </span><em>IEEE Spectrum</em><span> about </span><span>its</span><span> themes: W</span><span>hy today\u2019s AI systems should be studied more like nonverbal minds, what developmental and comparative psychology can teach AI researchers, and how better experimental methods could reshape the way we measure machine cognition.</span></p><p><strong>You use the phrase \u201calien intelligences\u201d for both AI and biological minds like babies and animals. What do you mean by that?</strong></p><p><strong>Melanie Mitchell:</strong> Hopefully you noticed the quotation marks around \u201calien intelligences.\u201d I\u2019m quoting from a paper by [the neural network pioneer] <a href=\"https://www.salk.edu/scientist/terrence-sejnowski/\" target=\"_blank\">Terrence Sejnowski</a> where he talks about ChatGPT as <a href=\"https://papers.cnl.salk.edu/PDFs/Large%20Language%20Models%20and%20the%20Reverse%20Turing%20Test%202023-4640.pdf\" target=\"_blank\">being like a space alien</a> that can communicate with us and seems intelligent. And then there\u2019s another paper by the developmental psychologist <a href=\"https://web.stanford.edu/~mcfrank/\" target=\"_blank\">Michael Frank</a> who plays on that theme and says, <a href=\"https://www.nature.com/articles/s44159-023-00211-x\" target=\"_blank\">we in developmental psychology study alien intelligences</a>, namely babies. And we have some methods that we think may be helpful in analyzing AI intelligence. So that\u2019s what I\u2019m playing on.</p><p><strong>When people talk about evaluating intelligence in AI, what kind of intelligence are they trying to measure? Reasoning or abstraction or world modeling or something else?</strong></p><p><strong>Mitchell:</strong> All of the above. People mean different things when they use the word intelligence, and intelligence itself has all these different dimensions, as you say. So, I used the term cognitive capabilities, which is a little bit more specific. I\u2019m looking at how different cognitive capabilities are evaluated in developmental and comparative psychology and trying to apply some principles from those fields to AI.</p><h2>Current Challenges in Evaluating AI Cognition</h2><p><strong>You say that the field of AI lacks good experimental protocols for evaluating cognition. What does AI evaluation look like today?</strong></p><p><strong>Mitchell:</strong> The typical way to evaluate an AI system is to have some set of <a href=\"https://spectrum.ieee.org/tag/benchmarks\" target=\"_blank\">benchmarks</a>, and to run your system on those benchmark tasks and report the accuracy. But often it turns out that even though these AI systems we have now are just killing it on benchmarks, they\u2019re surpassing humans, that performance doesn\u2019t often translate to performance in the real world. If an AI system aces the bar exam, that doesn\u2019t mean it\u2019s going to be a good lawyer in the real world. Often the machines are doing well on those particular questions but can\u2019t generalize very well. Also, tests that are designed to assess humans make assumptions that aren\u2019t necessarily relevant or correct for AI systems, about things like how well a system is able to memorize.</p><p>As a computer scientist, I didn\u2019t get any training in experimental methodology. Doing experiments on AI systems has become a core part of evaluating systems, and most people who came up through computer science haven\u2019t had that training.</p><p><strong>What do developmental and comparative psychologists know about probing cognition that AI researchers should know too?</strong></p><p><strong>Mitchell:</strong> There\u2019s all kinds of experimental methodology that you learn as a student of psychology, especially in fields like developmental and comparative psychology because those are nonverbal agents. You have to really think creatively to figure out ways to probe them. So they have all kinds of methodologies that involve very careful control experiments, and making lots of variations on stimuli to check for robustness. They look carefully at failure modes, why the system [being tested] might fail, since those failures can give more insight into what\u2019s going on than success.</p><p><strong>Can you give me a concrete example of what these experimental methods look like in developmental or comparative psychology?</strong></p><p><strong>Mitchell:</strong> One classic example is <a href=\"https://en.wikipedia.org/wiki/Clever_Hans\" target=\"_blank\">Clever Hans</a>. There was this horse, Clever Hans, who seemed to be able to do all kinds of arithmetic and counting and other numerical tasks. And the horse would tap out its answer with its hoof. For years, people studied it and said, \u201cI think it\u2019s real. It\u2019s not a hoax.\u201d But then <a href=\"https://en.wikipedia.org/wiki/Oskar_Pfungst\" target=\"_blank\">a psychologist</a> came around and said, \u201cI\u2019m going to think really hard about what\u2019s going on and do some control experiments.\u201d And his control experiments were: first, put a blindfold on the horse, and second, put a screen between the horse and the question asker. Turns out if the horse couldn\u2019t see the question asker, it couldn\u2019t do the task. What he found was that the horse was actually perceiving very subtle facial expression cues in the asker to know when to stop tapping. So it\u2019s important to come up with alternative explanations for what\u2019s going on. To be skeptical not only of other people\u2019s research, but maybe even of your own research, your own favorite hypothesis. I don\u2019t think that happens enough in AI.</p><p><strong>Do you have any case studies from research on babies?</strong></p><p><strong>Mitchell:</strong> I have one case study where babies were <a href=\"https://www.nature.com/articles/nature06288.epdf?sharing_token=NaXcdNfjn_ktn5ri3QG45tRgN0jAjWel9jnR3ZoTv0O8aD3KLw-45u9i6UpdAHsxWqm0w4l5z_rcCGu3oMzrydMb---fq01I0LBO5y_TRS_vrnUazfwqqCeiiPTOnsikTBil18Nzkcus3pGuA01UVQr-9DWge0nHwMu5X8gIJgjH90R2IqNR_-8WhIWaEnYnrp4uNLHP54XXfeAQ8FDjt23U-hFVTZg4liviDOMhx5rlatVpfpWvuJ20bMzUGaM8lAw7Q5ccGolZw_BrVmTM6frTBEOkijW7qIckKcTNQdT8gIkRtC2pNc_WiQDIENEvqe2L2Ko_9sZIOkJNoC3Qlg%3D%3D&amp;tracking_referrer=www.smithsonianmag.com\" target=\"_blank\">claimed to have an innate moral sense</a>. The experiment showed them videos where there was a cartoon character trying to climb up a hill. In one case there was another character that helped them go up the hill, and in the other case there was a character that pushed them down the hill. So there was the helper and the hinderer. And the babies were assessed as to which character they liked better\u2014and they had a couple of ways of doing that\u2014and overwhelmingly they liked the helper character better. [Editor's note: The babies were 6 to 10 months old, and assessment techniques included seeing whether the babies reached for the helper or the hinderer.]</p><p>But another research group looked very carefully at these videos and found that in all of the helper videos, the climber who was being helped was excited to get to the top of the hill and bounced up and down. And so they said, \u201cWell, what if in the hinderer case we have the climber bounce up and down at the bottom of the hill?\u201d And that <a href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0042698\" target=\"_blank\">completely turned around the results</a>. The babies always chose the one that bounced.</p><p>Again, coming up with alternatives, even if you have your favorite hypothesis, is the way that we do science. One thing that I\u2019m always a little shocked by in AI is that people use the word skeptic as a negative: \u201cYou\u2019re an LLM skeptic.\u201d But our job is to be skeptics, and that should be a compliment.</p><h2>Importance of Replication in AI Studies</h2><p><strong>Both those examples illustrate the theme of looking for counter explanations. Are there other big lessons that you think AI researchers should draw from psychology?</strong></p><p><strong>Mitchell:</strong> Well, in science in general the idea of replicating experiments is really important, and also building on other people\u2019s work. But that\u2019s sadly a little bit frowned on in the AI world. If you submit a paper to NeurIPS, for example, where you replicated someone\u2019s work and then you do some incremental thing to understand it, the reviewers will say, \u201cThis lacks novelty and it\u2019s incremental.\u201d That\u2019s the kiss of death for your paper. I feel like that should be appreciated more because that\u2019s the way that good science gets done.</p><p><strong>Going back to measuring cognitive capabilities of AI, there\u2019s lots of talk about how we can </strong><a href=\"https://spectrum.ieee.org/agi-benchmark\" target=\"_self\"><strong>measure progress towards AGI</strong></a><strong>. Is that a whole other batch of questions?</strong></p><p><strong>Mitchell:</strong> Well, the term AGI is a little bit nebulous. People define it in different ways. I think it\u2019s hard to measure progress for something that\u2019s not that well defined. And our conception of it keeps changing, partially in response to things that happen in AI. In the old days of AI, people would talk about human-level intelligence and robots being able to do all the physical things that humans do. But people have looked at robotics and said, \u201cWell, okay, it\u2019s not going to get there soon. Let\u2019s just talk about what people call the cognitive side of intelligence,\u201d which I don\u2019t think is really so separable. So I am a bit of an AGI skeptic, if you will, in the best way.</p>"
-      },
-      {
-        "id": "0ffaa13962d21b35",
-        "title": "BYD\u2019s Engine Flexes Between Ethanol, Gasoline, and Electricity",
-        "url": "https://spectrum.ieee.org/byd-song-pro-brazil-ethanol",
-        "source": "IEEE Spectrum",
-        "published": "Thu, 04 Dec 2025 20:45:47 +0000",
-        "published_dt": "2025-12-04T20:45:47+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/byd-s-song-pro-suv-driving-along-a-suspension-bridge.jpg?id=62283705&amp;width=1200&amp;height=800&amp;coordinates=0%2C83%2C0%2C84\" /><br /><br /><p>The world\u2019s first mass-produced ethanol car, the <a href=\"http://autoblog.com/electric-vehicles/2008/12/17/a-bit-of-history-fiat-147-the-first-mass-produced-ethanol-car/\" rel=\"noopener noreferrer\" target=\"_blank\">Fiat 147</a>, motored onto Brazilian roads in 1979. The vehicle crowned decades of experimentation in the country with sugar-cane (and later, corn-based and <a href=\"https://spectrum.ieee.org/brazil-doubles-down-on-biofuel\" target=\"_self\">second-generation sugar-cane waste</a>) ethanol as a homegrown fuel. When Chinese automaker <a href=\"https://www.byd.com/us\" rel=\"noopener noreferrer\" target=\"_blank\">BYD</a> introduced a plug-in hybrid designed for Brazil <a href=\"https://bydukmedia.com/en/news-articles/byd-launches-revolutionary-super-hybrid-with-biofuel-technology-%E2%80%93-the-14-millionth-new-energy-vehicle.html\" rel=\"noopener noreferrer\" target=\"_blank\">in October</a>, equipped with a flex-fuel engine that lets drivers choose to run on any ratio of gasoline and <a href=\"https://spectrum.ieee.org/corn-ethanol-is-dead-long-live-corn-ethanol\" target=\"_blank\">ethanol</a> or access plug-in electric power, the move felt like the latest chapter in a long national story.</p><p>The new engine, designed for the company\u2019s best-selling compact SUV, the <a href=\"https://www.byd.com/us/news-list/BYD-SONG-PRO-Launched-Paraguay-Paving-Way-for-Greener-Future\" rel=\"noopener noreferrer\" target=\"_blank\">Song Pro</a>, is the first plug-in hybrid engine <a href=\"https://bydukmedia.com/en/news-articles/byd-launches-revolutionary-super-hybrid-with-biofuel-technology-%E2%80%93-the-14-millionth-new-energy-vehicle.html\" rel=\"noopener noreferrer\" target=\"_blank\">dedicated to biofuel</a>, according to Wang Chuanfu, BYD\u2019s founder and CEO.</p><p><a href=\"https://me.engin.umich.edu/people/faculty/margaret-wooldridge/\" rel=\"noopener noreferrer\" target=\"_blank\">Margaret Wooldridge</a>, a professor of mechanical engineering at the University of Michigan, in Ann Arbor, says the engine\u2019s promise is not in inventing entirely new technology, but in making it accessible.</p><p class=\"ieee-inbody-related\">RELATED: <a href=\"https://spectrum.ieee.org/winner-the-omnivorous-engine\" target=\"_blank\">The Omnivorous Engine</a></p><p>\u201cThe technology existed before,\u201d says Wooldridge, who specializes in <a href=\"https://spectrum.ieee.org/hybrid-car-system-learns-fuel-efficiency\" target=\"_blank\">hybrid systems</a>, \u201cbut fuel switching is expensive, and I\u2019d expect the combinations in this engine to come at a fairly high price tag. BYD\u2019s real innovation is pulling it into a price range where everyday drivers in Brazil can actually choose ratios of ethanol and gasoline, as well as electric.\u201d</p><h2>BYD\u2019s Affordable Hybrid Innovation</h2><p>BYD Song Pro vehicles<span> </span>with this new engine were initially priced in a promotion <a href=\"https://en.clickpetroleoegas.com.br/byd-song-pro-2026-debuts-with-1-electric-engine-5-hp-and-up-to-235-km-in-electric-mode-but-price-is-still-higher-than-that-of-toyota-corolla-cross-afch\" target=\"_blank\">at around US $25,048</a>, with a list price around $35,000. For comparison, another plug-in hybrid vehicle, Toyota\u2019s 2026 Prius Prime, starts at <a target=\"_blank\"></a>$33,775. The engine is the product of an <a href=\"https://www.argusmedia.com/en/news-and-insights/latest-market-news/2740741-byd-unveils-gasoline-ethanol-engine-opens-brazil-plant\" target=\"_blank\">$18.5 million investment by BYD</a> and a collaboration between Brazilian and Chinese scientists. It<span> </span>adds to Brazil\u2019s history of ethanol use that began in the 1930s and progressed from ethanol-only to flex-fuel vehicles, providing consumers a tool kit to respond to changing fuel prices, ongoing drought like Brazil <a href=\"https://www.nature.com/articles/s41893-018-0162-5\" target=\"_blank\">experienced in the 1980s</a>, or emissions goals.</p><p>An engine switching between gasoline and ethanol needs<span> </span>a sensor that can reconcile two distinct fuel-air mixtures. \u201cIntegrating that control system, especially in a hybrid architecture, is not trivial,\u201d says Wooldridge. \u201cBut BYD appears to have engineered it in a way that\u2019s cost-effective.\u201d</p><p>By leveraging a smaller, downsized hybrid engine, the company is likely able to design the engine to be optimal over a smaller speed map\u2014a narrower, specific range of speeds and power output\u2014avoiding some efficiency compromises that have long plagued flex-fuel power-train engines, says Wooldridge.</p><p>In general, standard flex-fuel vehicles (FFVs) have an internal combustion engine and can operate on gasoline and any blend of gasoline and ethanol up to 83 percent, <a href=\"https://afdc.energy.gov/vehicles/how-do-flexible-fuel-cars-work\" target=\"_blank\">according to the U.S. Department of Energy</a>. FFV engines have only  one fuel system, and mostly use components that are the same as those found in gasoline-only cars. To compensate for ethanol\u2019s different chemical properties and power output compared to gasoline, special components modify the fuel pump and fuel-injection system. In addition, FFV engines have engine control modules<span> </span>calibrated to accommodate ethanol\u2019s higher oxygen content.</p><p>\u201cFlex-fuel gives consumers flexibility,\u201d Wooldridge says. \u201cIf you\u2019re using ethanol, you can run at a higher compression ratio, allowing molecules to be squeezed into a smaller space to allow for faster, more powerful and more efficient combustion. Increasing that ratio boosts efficiency and lowers knock\u2014but if you\u2019re also tying in electric drive, the system can stay optimally efficient across different modes,\u201d she adds.</p><p><a href=\"https://history.osu.edu/people/eaglin.5\" target=\"_blank\">Jennifer Eaglin</a>, a historian of Brazilian energy at Ohio State University, in Columbus, says that BYD is tapping into something deeply rooted in the culture of Brazil, the world\u2019s seventh-most populous country (with a population of around 220 million).</p><p>\u201cBrazil has built an ethanol-fuel system that\u2019s durable and widespread,\u201d Eaglin says. \u201cIt\u2019s no surprise that a company like BYD, recognizing that infrastructure, would innovate to give consumers more options. This isn\u2019t futuristic\u2014it\u2019s a continuation of a long national experiment.\u201d</p>"
-      },
-      {
-        "id": "3f3a8373a596c4ef",
-        "title": "Cold Metal Fusion Makes It Easy to 3D Print Titanium",
-        "url": "https://spectrum.ieee.org/titanium-3d-printer-cadmore-metal",
-        "source": "IEEE Spectrum",
-        "published": "Wed, 03 Dec 2025 19:55:59 +0000",
-        "published_dt": "2025-12-03T19:55:59+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-3d-printed-metal-impeller-section.jpg?id=62225225&amp;width=1200&amp;height=800&amp;coordinates=0%2C211%2C0%2C211\" /><br /><br /><p><a href=\"https://cadmore.com/metal\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"Link: https://cadmore.com/metal\"><span>CADmore Metal</span></a> has introduced a fresh take on 3D printing metal components to the North American market known as <a href=\"https://www.3dnatives.com/en/everything-you-need-to-know-about-cold-metal-fusion-260220245/\" target=\"_blank\">cold metal fusion</a> (CMF).<strong> </strong> <a href=\"https://www.linkedin.com/in/johncarrington/\" target=\"_blank\">John Carrington</a>, the company\u2019s CEO, claims CMF produces stronger 3D printed metal parts that are cheaper and faster to make. That includes titanium components, which have historically caused trouble for 3D printers.</p><p>3D printing has used metals included aluminum, powdered steel, and nickel alloys <a href=\"https://spectrum.ieee.org/3d-printed-rocket\" target=\"_blank\">for some time</a>. While titanium parts are in high demand in fields such as aerospace and health care due to their superior strength-to-weight ratio, corrosion resistance, and their suitability for complex geometries, the metal has presented challenges for 3D printers.</p><p>Titanium becomes more reactive at high temperatures and tends to crack when the printed part cools. It can also become brittle as it absorbs hydrogen, oxygen, or nitrogen during the printing process. Carrington says CMF overcomes these issues.</p><p>\u201cOur primary customers tend to come from the energy, defense, and aerospace industries,\u201d says Carrington. \u201cOne large defense contractor recently switched from traditional 3D printing to CMF as it will save them millions and reduce prototyping and parts production by months.\u201d</p><h2>How CMF Enhances Titanium 3D Printing Efficiency</h2><p>CMF combines the flexibility of 3D printing with new powder metallurgy processes to provide strength and greater durability to parts made from titanium and many other metals and alloys. The process uses a combination of proprietary metal powder and polymer binding agents that are fused layer by layer to create high-strength metal components.</p><p>The process begins like any other <a href=\"https://spectrum.ieee.org/mechanical-metamaterials-and-other-3d-printing-tech-from-chi-2017\" target=\"_blank\">3D printing project</a>: A digital file that represents the desired 3D object directs the actions of a standard industrial 3D printer in laying down a mixture of metal and a plastic binder. A laser lightly fuses each layer of powder into a cohesive solid structure. Excess powder is removed for reuse.</p><p>Where CMF differs is that the initial parts generated by this stage of the process are strong enough for grinding, drilling, and milling if required. The parts then soak in a solvent to dissolve the plastic binder. Next, they go into a furnace to burn off any remaining binder, fuse the metal particles, and compact them into a dense metal component. Surface or finishing treatments can then be applied such as polishing and heat treatment.</p><p>\u201cOur cold metal fusion technology offers a process that is at least three times faster and more scalable than any other kind of 3D printing,\u201d says Carrington. \u201cPer-part prices are generally 50 to 60 percent less than alternative metal 3D printing technology. We expect those prices to go down even more as we scale.\u201d</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Shiny silver turbine wheel with blades, placed on a dark textured surface.\" class=\"rm-shortcode\" id=\"ec031\" src=\"https://spectrum.ieee.org/media-library/shiny-silver-turbine-wheel-with-blades-placed-on-a-dark-textured-surface.jpg?id=62225237&amp;width=980\" /> <small class=\"image-media media-caption\">3D printing with metal powders such as titanium makes it possible to create parts with complex geometries.</small><small class=\"image-media media-photo-credit\">CADmore Metal</small></p><p>The material used in CMF was developed by <a href=\"https://www.headmade-materials.de/en/\" target=\"_blank\">Headmade Materials</a>, a German company. Headmade holds a patent on this 3D printing feedstock, which has been designed for use by the existing ecosystem of 3D printing machines. CADmore Metal serves as the exclusive North American distributor for the metal powders used in CMF. The company can also serve as a systems integrator for the entire process by providing the printing and sintering hardware, the specialized powders, process expertise, training, and technical support.</p><p>\u201cWe provide guidance on design optimization and integration with existing workflows to help customers maximize the technology\u2019s benefits,\u201d says Carrington. \u201cIf a turbine company comes to us to produce their parts using CMF, we can either build the parts for them as a service or set them up to carry out their own production internally while we supply the powder and support.\u201d</p><p>With the global 3D printing market now worth almost US $5 billion and predicted to reach $13 billion by 2035, according to analyst firm <a href=\"https://www.idtechex.com/\" target=\"_blank\">IDTechEx</a>, the arrival of CMF is timely. CADmore Metal just opened North America\u2019s <a href=\"https://3dprint.com/316902/cadmore-establishes-first-cold-metal-fusion-facility-in-u-s/\" target=\"_blank\">first CMF application center</a>, a nearly 280-square-meter (3,000-square-foot) facility in Columbia, S.C. Carrington says that a larger facility will open in 2026 to make room for more material processing and equipment.</p>"
       }
     ]
   }
