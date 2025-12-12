@@ -1,96 +1,60 @@
 {
-  "generated_at": "2025-12-11T12:59:00.482631+00:00",
+  "generated_at": "2025-12-12T12:56:18.907841+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "3f3b76a0a4e47691",
-        "title": "Fewer hospitals are capable of treating kids, research finds",
-        "url": "https://www.statnews.com/2025/12/11/health-news-hospitals-to-treat-kids-dwindle/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 11 Dec 2025 12:47:54 +0000",
-        "published_dt": "2025-12-11T12:47:54+00:00",
-        "summary": "And more health news from the Morning Rounds newsletter"
-      },
-      {
-        "id": "0b700ff9317af492",
-        "title": "STAT+: Lilly\u2019s next-gen obesity drug delivers major weight loss in Phase 3 trial, but with many discontinuations",
-        "url": "https://www.statnews.com/2025/12/11/eli-lilly-retatrutide-weight-loss-obesity-tolerability-trial-results/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 11 Dec 2025 11:45:00 +0000",
-        "published_dt": "2025-12-11T11:45:00+00:00",
-        "summary": "Eli Lilly's next-gen obesity drug delivered major weight loss in a trial, but some patients stopped using it after losing too much weight."
-      },
-      {
-        "id": "9bc9a71b1d4c89c6",
-        "title": "STAT+: Wave\u2019s \u2018gym bro\u2019 obesity drug is story over substance",
-        "url": "https://www.statnews.com/2025/12/11/wave-obesity-drug-wve-007-wall-street-body-composition/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 11 Dec 2025 11:30:00 +0000",
-        "published_dt": "2025-12-11T11:30:00+00:00",
-        "summary": "A raging bull market for biotech stocks and a good story have transformed an ineffective weight loss drug into a Wall Street sensation."
-      },
-      {
-        "id": "b36f99df6c35406d",
-        "title": "Solar geoengineering startups are getting serious",
-        "url": "https://www.technologyreview.com/2025/12/11/1129239/solar-geoengineering-startups-are-getting-serious/",
+        "id": "1c6f4459d5ecee07",
+        "title": "Southeast Asia seeks its place in space",
+        "url": "https://www.technologyreview.com/2025/12/12/1129235/dispatch-thai-space-expo-southeast-asia-exploration/",
         "source": "MIT Technology Review",
-        "published": "Thu, 11 Dec 2025 11:00:00 +0000",
-        "published_dt": "2025-12-11T11:00:00+00:00",
-        "summary": "Solar geoengineering aims to manipulate the climate by bouncing sunlight back into space. In theory, it could ease global warming. But as interest in the idea grows, so do concerns about potential consequences. A startup called Stardust Solutions recently raised a $60 million funding round, the largest known to date for a geoengineering startup. My&#8230;"
+        "published": "Fri, 12 Dec 2025 11:00:00 +0000",
+        "published_dt": "2025-12-12T11:00:00+00:00",
+        "summary": "It\u2019s a scorching October day in Bangkok and I\u2019m wandering through the exhibits at the Thai Space Expo, held in one of the city\u2019s busiest shopping malls, when I do a double take. Amid the flashy space suits and model rockets on display, there\u2019s a plain-looking package of Thai basil chicken. I\u2019m told the same&#8230;"
       },
       {
-        "id": "776f743582e6b038",
-        "title": "Opinion: Now is the time to launch mpox vaccine booster trials",
-        "url": "https://www.statnews.com/2025/12/11/mpox-vaccine-booster-trials-research/?utm_campaign=rss",
+        "id": "e130192b54175746",
+        "title": "Expanded carrier screening: Is it worth it?",
+        "url": "https://www.technologyreview.com/2025/12/12/1129344/expanded-carrier-screening-is-it-worth-it/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 12 Dec 2025 10:00:00 +0000",
+        "published_dt": "2025-12-12T10:00:00+00:00",
+        "summary": "This week I\u2019ve been thinking about babies. Healthy ones. Perfect ones. As you may have read last week, my colleague Antonio Regalado came face to face with a marketing campaign in the New York subway asking people to&#160;\u201chave your best baby.\u201d The company behind that campaign, Nucleus Genomics, says it offers customers a way to&#8230;"
+      },
+      {
+        "id": "febbf28ecdd534ca",
+        "title": "How hepatitis B vaccine changes could add confusion for families, limit protection against other diseases",
+        "url": "https://www.statnews.com/2025/12/12/cdc-acip-hepatitis-b-vaccine-change-overlooked-key-concern/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Thu, 11 Dec 2025 09:30:00 +0000",
-        "published_dt": "2025-12-11T09:30:00+00:00",
-        "summary": "Patients want to know, \u201cWhen should I get an mpox vaccine booster?\u201d But the research to answer their question isn\u2019t available."
+        "published": "Fri, 12 Dec 2025 09:30:00 +0000",
+        "published_dt": "2025-12-12T09:30:00+00:00",
+        "summary": "How a new recommendation on hepatitis B vaccination could add confusion for families and limit protection against other diseases."
       },
       {
-        "id": "fb1af275647208f5",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-steers-cancer-car-t-developers-toward-randomized-superiority-trials-policy-shift\" hreflang=\"en\">FDA steers cancer CAR-T developers toward randomized superiority trials in policy shift</a>",
-        "url": "https://www.fiercebiotech.com/biotech/fda-steers-cancer-car-t-developers-toward-randomized-superiority-trials-policy-shift",
-        "source": "Fierce Biotech",
-        "published": "Dec 9, 2025 4:34am",
-        "published_dt": "2025-12-09T04:34:00+00:00",
-        "summary": "The FDA is raising the bar for approval of CAR T-cell therapies in oncology. Under plans outlined by the FDA\u2019s biologics chief Vinay Prasad, M.D., the agency will require developers of many CAR-Ts to show superiority over existing treatments.<br />"
-      },
-      {
-        "id": "c65d654138084a23",
-        "title": "ASH 2025 recap: what you need to know from the big medical meeting",
-        "url": "https://www.statnews.com/2025/12/11/ash-conference-2025-research-highlights-status-report/?utm_campaign=rss",
+        "id": "6d9c14383c809a43",
+        "title": "STAT+: A promising method for suicide prevention starts in the doctor\u2019s office",
+        "url": "https://www.statnews.com/2025/12/12/zero-suicide-framework-initiative-trains-doctors-in-prevention/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Thu, 11 Dec 2025 09:30:00 +0000",
-        "published_dt": "2025-12-11T09:30:00+00:00",
-        "summary": "Tune into the latest episode of STATus Report for host Alex Hogan's recap of the influential #ASH25 medical conference."
+        "published": "Fri, 12 Dec 2025 09:30:00 +0000",
+        "published_dt": "2025-12-12T09:30:00+00:00",
+        "summary": "This promising method for suicide prevention starts in the doctor\u2019s office."
       },
       {
-        "id": "24b57a5d4f3be607",
-        "title": "Postscripts from the frontlines of Trump\u2019s attacks on science: no simple happy endings",
-        "url": "https://www.statnews.com/2025/12/11/american-science-shattered-series-impact-of-research-funding-cuts/?utm_campaign=rss",
+        "id": "1e5db501391a1648",
+        "title": "Opinion: I\u2019m a CVS pharmacist. My retail pharmacy colleagues and I face a crisis",
+        "url": "https://www.statnews.com/2025/12/12/pharmacists-crisis-union-patient-safety/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Thu, 11 Dec 2025 09:30:00 +0000",
-        "published_dt": "2025-12-11T09:30:00+00:00",
-        "summary": "Stories from the frontlines of Trump's attack on science: Follow-ups from a year of struggles in Part 7 of our series \"American Science, Shattered.\""
+        "published": "Fri, 12 Dec 2025 09:30:00 +0000",
+        "published_dt": "2025-12-12T09:30:00+00:00",
+        "summary": "\u201cThere is often less than a minute to review an order before falling behind,\u201d and that makes it harder to catch potential problems, a pharmacist warns."
       },
       {
-        "id": "7b85789db0a7a76a",
-        "title": "Opinion: When a doctor can\u2019t heal his friends",
-        "url": "https://www.statnews.com/2025/12/11/doctor-empathy-compassion-trauma/?utm_campaign=rss",
+        "id": "f3d46136a23b417a",
+        "title": "Opinion: Finally, some good news in health care",
+        "url": "https://www.statnews.com/2025/12/12/nurses-overwork-staffing-union-hope-health-care-upmc-seiu/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Thu, 11 Dec 2025 09:30:00 +0000",
-        "published_dt": "2025-12-11T09:30:00+00:00",
-        "summary": "\u201cMedicine taught me how to treat disease, not how to sit with suffering\u201d: A doctor reflects on what he learned from the loss of two friends."
-      },
-      {
-        "id": "7bfa71dc49256e01",
-        "title": "STAT+: In a first, a nonprofit wins FDA approval for rare disease gene therapy",
-        "url": "https://www.statnews.com/2025/12/10/nonprofit-telethon-wins-fda-approval-gene-therapy-waskyra/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 10 Dec 2025 17:45:30 +0000",
-        "published_dt": "2025-12-10T17:45:30+00:00",
-        "summary": "The FDA has granted approval to a new gene therapy for a rare immune disorder, the maker of which is notably not a drug company, but an Italian charity."
+        "published": "Fri, 12 Dec 2025 09:30:00 +0000",
+        "published_dt": "2025-12-12T09:30:00+00:00",
+        "summary": "When nurses are overworked, more patients die, research shows. Nurses are starting to fight back."
       },
       {
         "id": "45230e57d9866812",
@@ -102,22 +66,49 @@
         "summary": "The FDA has qualified its first AI tool to help drug developers evaluate fatty liver disease in clinical trials."
       },
       {
-        "id": "0c55ba2a722b128d",
-        "title": "STAT+: In expert panel, FDA says \u2018door is open\u2019 for testosterone labeling revisions",
-        "url": "https://www.statnews.com/2025/12/10/fda-panel-ease-access-testosterone-therapy-men/?utm_campaign=rss",
+        "id": "4492a92585cec069",
+        "title": "STAT+: FDA staff fear Tracy Beth H\u00f8eg will bring bias and instability to embattled drug center",
+        "url": "https://www.statnews.com/2025/12/11/tracy-beth-hoeg-fda-cder-director-faces-staff-mistrust/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Thu, 11 Dec 2025 00:56:13 +0000",
-        "published_dt": "2025-12-11T00:56:13+00:00",
-        "summary": "Exactly a month after it announced the removal of black box warning labels on estrogen therapy products used in menopause, the Food and Drugs Administration hosted an expert panel to&#8230;"
+        "published": "Thu, 11 Dec 2025 23:30:05 +0000",
+        "published_dt": "2025-12-11T23:30:05+00:00",
+        "summary": "H\u00f8eg is set to become the fifth head of the FDA's drug center in a year."
       },
       {
-        "id": "65bddf090635de8a",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/moderna-taps-nanexa-improve-delivery-injectable-therapies-back-loaded-500m-pact\" hreflang=\"en\">Moderna taps Nanexa to improve delivery of injectable therapies in back-loaded $500M pact</a>",
-        "url": "https://www.fiercebiotech.com/biotech/moderna-taps-nanexa-improve-delivery-injectable-therapies-back-loaded-500m-pact",
+        "id": "2232f7c33d543740",
+        "title": "FDA approves first new gonorrhea drug in decades",
+        "url": "https://www.statnews.com/2025/12/11/fda-approves-new-gonorrhea-antibiotic-blujepa-from-gsk/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 11 Dec 2025 21:09:31 +0000",
+        "published_dt": "2025-12-11T21:09:31+00:00",
+        "summary": "FDA approves new drug to treat gonorrhea, which is notorious for developing resistance to medicines"
+      },
+      {
+        "id": "0b700ff9317af492",
+        "title": "STAT+: Lilly\u2019s next-gen obesity drug delivers major weight loss in Phase 3 trial, but with many discontinuations",
+        "url": "https://www.statnews.com/2025/12/11/eli-lilly-retatrutide-weight-loss-obesity-tolerability-trial-results/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 11 Dec 2025 11:45:00 +0000",
+        "published_dt": "2025-12-11T11:45:00+00:00",
+        "summary": "Eli Lilly's next-gen obesity drug delivered major weight loss in a trial, but some patients stopped using it after losing too much weight."
+      },
+      {
+        "id": "a4faaaa971c8f750",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/heartbeam-swells-turning-fda-rejection-ecg-clearance\" hreflang=\"en\">HeartBeam swells on turning FDA rejection into ECG clearance</a>",
+        "url": "https://www.fiercebiotech.com/medtech/heartbeam-swells-turning-fda-rejection-ecg-clearance",
         "source": "Fierce Biotech",
-        "published": "Dec 11, 2025 6:25am",
-        "published_dt": "2025-12-11T06:25:00+00:00",
-        "summary": "Moderna has tapped Swedish long-acting drug formulation company Nanexa to improve the delivery of up to four injectable therapies."
+        "published": "Dec 11, 2025 11:00am",
+        "published_dt": "2025-12-11T11:00:00+00:00",
+        "summary": "The FDA's change of heart has HeartBeam planning its commercial launch for the new year. Its credit card-sized system delivers recordings similar to a 12-lead ECG."
+      },
+      {
+        "id": "b4ec51bbcafae92e",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-clears-lumos-labs-prescription-digital-therapy-treat-adhd-adults\" hreflang=\"en\">FDA clears Lumosity brain training games as a prescription app for adult ADHD</a>",
+        "url": "https://www.fiercebiotech.com/medtech/fda-clears-lumos-labs-prescription-digital-therapy-treat-adhd-adults",
+        "source": "Fierce Biotech",
+        "published": "Dec 11, 2025 8:57am",
+        "published_dt": "2025-12-11T08:57:00+00:00",
+        "summary": "Dubbed LumosityRx, the agency's 510(k) covers the smartphone app's use in improving attention among people between the ages of 22 and 55."
       },
       {
         "id": "9cbbafb6cbd51e4b",
@@ -127,33 +118,6 @@
         "published": "Dec 10, 2025 4:25pm",
         "published_dt": "2025-12-10T16:25:00+00:00",
         "summary": "The FDA issued a green light that covers the wearable's use both as a standalone treatment and in combination with other medications for adults with moderate to severe major depressive disorder."
-      },
-      {
-        "id": "21383e8265584cc0",
-        "title": "STAT+: FDA scrutiny of infant RSV shots escalates amid turmoil",
-        "url": "https://www.statnews.com/2025/12/10/biotech-news-rsv-scrutinizes-rsv-vaccines/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 10 Dec 2025 14:34:38 +0000",
-        "published_dt": "2025-12-10T14:34:38+00:00",
-        "summary": "And more biotech news brought to you by The Readout newsletter"
-      },
-      {
-        "id": "66b28f5cfd726de0",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about FDA plans for CAR-T therapies, skinny drug labels, and much more",
-        "url": "https://www.statnews.com/pharmalot/2025/12/10/generics-scotus-fda-lilly-kenya-uk-rebates/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 10 Dec 2025 14:27:18 +0000",
-        "published_dt": "2025-12-10T14:27:18+00:00",
-        "summary": "And other pharma news from the Pharmalot campus, brought to you by the Pharmalittle newsletter."
-      },
-      {
-        "id": "d2c660a54f9b9853",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gri-touts-ipf-safety-edge-lung-function-gains-amid-cash-crunch\" hreflang=\"en\">GRI touts IPF safety edge, lung function gains amid cash crunch</a>",
-        "url": "https://www.fiercebiotech.com/biotech/gri-touts-ipf-safety-edge-lung-function-gains-amid-cash-crunch",
-        "source": "Fierce Biotech",
-        "published": "Dec 11, 2025 5:13am",
-        "published_dt": "2025-12-11T05:13:00+00:00",
-        "summary": "Barreling toward the end of its cash runway, GRI Bio has shared phase 2a data in idiopathic pulmonary fibrosis and made the case for further development of its potentially disease-modifying therapy."
       },
       {
         "id": "af99f8b9e02f2843",
@@ -174,15 +138,6 @@
         "summary": "Roche has lifted the lid on the data behind its second phase 3 giredestrant win, linking the oral selective estrogen receptor degrader to a 30% reduction in the risk of invasive disease recurrence or death.<br />"
       },
       {
-        "id": "5608084aaedce1f7",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/zealand-pens-25b-cardiometabolic-collab-fresh-faced-chinese-biotech\" hreflang=\"en\">Zealand pens $2.5B oral cardiometabolic collab with fresh-faced Chinese biotech</a>",
-        "url": "https://www.fiercebiotech.com/biotech/zealand-pens-25b-cardiometabolic-collab-fresh-faced-chinese-biotech",
-        "source": "Fierce Biotech",
-        "published": "Dec 11, 2025 4:08am",
-        "published_dt": "2025-12-11T04:08:00+00:00",
-        "summary": "OTR may still be keeping its own pipeline under wraps, but Zealand has seen enough promise in the Chinese biotech\u2019s platform to agree to hand over up to $30 million in upfront payments."
-      },
-      {
         "id": "750b46e8cde769c6",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/ash-exicure-rebounds-phase-2-win-90-blood-cell-mobilization-myeloma\" hreflang=\"en\">ASH: Exicure rebounds with phase 2 win, seeing 90% blood cell mobilization in myeloma</a>",
         "url": "https://www.fiercebiotech.com/biotech/ash-exicure-rebounds-phase-2-win-90-blood-cell-mobilization-myeloma",
@@ -192,43 +147,241 @@
         "summary": "Exicure\u2019s investigational small molecule succeeded in mobilizing key blood-forming cells in almost 90% of patients in a phase 2 multiple myeloma trial, paving the way for smoother and more effective autologous stem cell transplants."
       },
       {
-        "id": "8749d9bd0759651d",
-        "title": "<a href=\"https://www.fiercebiotech.com/pharma/jj-makes-case-tecvayli-combo-alternative-car-t-second-line-multiple-myeloma\" hreflang=\"en\">ASH: J&amp;J makes case for Tecvayli combo as an alternative to CAR-T in 2nd-line multiple myeloma</a>",
-        "url": "https://www.fiercebiotech.com/pharma/jj-makes-case-tecvayli-combo-alternative-car-t-second-line-multiple-myeloma",
-        "source": "Fierce Biotech",
-        "published": "Dec 8, 2025 9:50pm",
-        "published_dt": "2025-12-08T21:50:00+00:00",
-        "summary": "A proposed combination of Johnson &amp; Johnson\u2019s multiple myeloma bispecific Tecvayli has turned up positive trial data that could put some pressure on CAR T-cell therapies, including the company\u2019s own Carvykti."
+        "id": "663fea714df161da",
+        "title": "Trump signs executive order to block state AI regulations",
+        "url": "https://www.statnews.com/2025/12/11/trump-signs-executive-order-blocking-state-ai-regulations/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 12 Dec 2025 01:34:28 +0000",
+        "published_dt": "2025-12-12T01:34:28+00:00",
+        "summary": "President Trump signed an executive order blocking states from crafting their own regulations for AI."
       },
       {
-        "id": "ee71af69b1c43d89",
-        "title": "STAT+: A weakened bill to cut off Chinese biotech firms nears passage, after years of changes",
-        "url": "https://www.statnews.com/2025/12/10/biosecure-act-chinese-biotech-restrictions-passes-house/?utm_campaign=rss",
+        "id": "2773a06684c7a78f",
+        "title": "STAT+: New antibiotic can effectively treat gonorrhea, study finds",
+        "url": "https://www.statnews.com/2025/12/11/new-oral-antibiotic-zoliflodacin-effective-against-gonorrhea/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 10 Dec 2025 23:03:26 +0000",
-        "published_dt": "2025-12-10T23:03:26+00:00",
-        "summary": "WASHINGTON \u2014 Congress is poised to pass the Biosecure Act after two years of incremental changes that watered down the bill\u2019s curbs on Chinese biotechs and made the law more&#8230;"
+        "published": "Thu, 11 Dec 2025 23:30:00 +0000",
+        "published_dt": "2025-12-11T23:30:00+00:00",
+        "summary": "A single-dose oral antibiotic from a new class of drugs was as effective as the previous standard of care at treating uncomplicated urogenital gonorrhea, a study published Thursday in The&#8230;"
       },
       {
-        "id": "993f3a77b1a3f08b",
-        "title": "Botulism outbreak sickens more than 50 babies and expands to all ByHeart products",
-        "url": "https://www.statnews.com/2025/12/10/byheart-baby-formula-recall-botulism-outbreak-expands/?utm_campaign=rss",
+        "id": "2e9feea506f069b8",
+        "title": "STAT+: Acting head of beleaguered mental health agency to depart this week",
+        "url": "https://www.statnews.com/2025/12/11/samsha-acting-chief-art-kleinschmidt-leaves-post/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 10 Dec 2025 21:42:39 +0000",
-        "published_dt": "2025-12-10T21:42:39+00:00",
-        "summary": "Federal health officials\u00a0expanded an infant botulism outbreak tied to recalled ByHeart baby formula to include all illnesses reported since the company began production in March 2022."
+        "published": "Thu, 11 Dec 2025 22:16:46 +0000",
+        "published_dt": "2025-12-11T22:16:46+00:00",
+        "summary": "SAMHSA, amid continuing crises in mental health and addiction, has been hit by heavy cuts in personnel and funding under President Trump."
       },
       {
-        "id": "6c48ddbee6182610",
-        "title": "STAT+: Major health insurers to skip J.P. Morgan conference, again",
-        "url": "https://www.statnews.com/2025/12/10/insurers-skip-jpm-healthcare-conference-2026/?utm_campaign=rss",
+        "id": "7fc85310ef416dee",
+        "title": "The future of American science and a dispatch from ASH",
+        "url": "https://www.statnews.com/2025/12/11/ash25-eli-lilly-obesity-drug-readout-loud-podcast/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 10 Dec 2025 19:39:15 +0000",
-        "published_dt": "2025-12-10T19:39:15+00:00",
-        "summary": "High costs, quiet-period rules, investor skepticism, and lingering safety concerns are pushing major insurers to once again skip the event."
+        "published": "Thu, 11 Dec 2025 21:18:31 +0000",
+        "published_dt": "2025-12-11T21:18:31+00:00",
+        "summary": "This week on \"The Readout LOUD\": Is a new obesity drug making people lose too much weight? Plus catch up on #ASH25 and hear how the country's scientific institutions have&#8230;"
+      },
+      {
+        "id": "4fc936595aad1871",
+        "title": "STAT+: ACA premium spike looms as Senate votes fail, House bill faces long odds",
+        "url": "https://www.statnews.com/2025/12/11/aca-subsidy-extension-senate-rejects-proposals-as-deadline-nears/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 11 Dec 2025 19:27:11 +0000",
+        "published_dt": "2025-12-11T19:27:11+00:00",
+        "summary": "Democratic and Republican proposals on health insurance voted down as year-end expiration of subsidies draws closer."
+      },
+      {
+        "id": "710fd970a1ed9e5d",
+        "title": "STAT+: Europe\u2019s pharma policy shakeup moves forward toward enactment",
+        "url": "https://www.statnews.com/2025/12/11/eu-pharma-package-market-exclusivity-medicine-access/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 11 Dec 2025 15:49:02 +0000",
+        "published_dt": "2025-12-11T15:49:02+00:00",
+        "summary": "European policymakers unveiled an agreement for the biggest shakeup to E.U. pharmaceutical policy in two decades."
+      },
+      {
+        "id": "a80db19f3b8e8bb9",
+        "title": "STAT+: Small study of Corbus\u2019 CB1-targeting\u00a0pill shows positive signal",
+        "url": "https://www.statnews.com/2025/12/11/biotech-news-corbus-positive-two-week-trial/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 11 Dec 2025 14:37:34 +0000",
+        "published_dt": "2025-12-11T14:37:34+00:00",
+        "summary": "And more biotech news updates brought to you by The Readout"
+      },
+      {
+        "id": "5200596b225e9317",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about Lilly\u2019s new obesity drug, E.U. pharma rules, and much more",
+        "url": "https://www.statnews.com/pharmalot/2025/12/11/lilly-obesity-weight-ftc-teva-patents-europe-testosterone/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 11 Dec 2025 14:24:18 +0000",
+        "published_dt": "2025-12-11T14:24:18+00:00",
+        "summary": "In today's Pharmalittle roundup, Lilly's new obesity drug, E.U. pharma rules, and much more."
+      },
+      {
+        "id": "efe8ed2a3025da0d",
+        "title": "STAT+: HHS health IT chief hints at a new approach to EHR certification",
+        "url": "https://www.statnews.com/2025/12/11/hhs-new-approach-ehr-certification-health-tech/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 11 Dec 2025 13:25:40 +0000",
+        "published_dt": "2025-12-11T13:25:40+00:00",
+        "summary": "In this edition of STAT Health Tech: Takeaways from top HHS officials attending a health AI summit, and other news."
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "c42278f4c32067a6",
+        "title": "NASA advances heliophysics mission into next phase",
+        "url": "https://spacenews.com/nasa-advances-heliophysics-mission-into-next-phase/",
+        "source": "SpaceNews",
+        "published": "Fri, 12 Dec 2025 12:40:46 +0000",
+        "published_dt": "2025-12-12T12:40:46+00:00",
+        "summary": "<figure><img alt=\"CINEMA\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"575\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/cinema.jpeg?fit=1024%2C575&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA has selected a heliophysics mission to move into the next phase of development amid broader concerns about the state of the field.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-advances-heliophysics-mission-into-next-phase/\">NASA advances heliophysics mission into next phase</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "a3779689d2d8a8d7",
+        "title": "$106B Ground Segment Market Enters Service\u2011Driven Era",
+        "url": "https://spacenews.com/106b-ground-segment-market-enters-service-driven-era/",
+        "source": "SpaceNews",
+        "published": "Fri, 12 Dec 2025 11:00:00 +0000",
+        "published_dt": "2025-12-12T11:00:00+00:00",
+        "summary": "<figure><img alt=\"Novaspace logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Paris, France [December 12, 2025] \u2013 Novaspace\u2019s 6th Ground Segment Market Prospects report projects a $106 Billion market and a fundamental shift in satellite infrastructure economics. NGSO constellations are reshaping [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/106b-ground-segment-market-enters-service-driven-era/\">$106B Ground Segment Market Enters Service\u2011Driven Era</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "fdbf8459ef58c88d",
+        "title": "China launches new Guowang satellites, Long March 12A launch and landing attempt date set",
+        "url": "https://spacenews.com/china-launches-new-guowang-satellites-long-march-12a-launch-and-landing-attempt-date-set/",
+        "source": "SpaceNews",
+        "published": "Fri, 12 Dec 2025 08:19:02 +0000",
+        "published_dt": "2025-12-12T08:19:02+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"707\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Guowang-group16-CZ12-HCSLC-11dec2025-CASC.jpg?fit=1024%2C707&amp;ssl=1\" width=\"1024\" /></figure>\n<p>China launched new Guowang satellite internet payloads Dec. 11 as preparations advanced for a Long March 12A orbital launch and first stage landing attempt.</p>\n<p>The post <a href=\"https://spacenews.com/china-launches-new-guowang-satellites-long-march-12a-launch-and-landing-attempt-date-set/\">China launches new Guowang satellites, Long March 12A launch and landing attempt date set</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "004f3c8cd1658c6f",
+        "title": "NASA astrophysics director offers optimistic vision despite budget uncertainty",
+        "url": "https://spacenews.com/nasa-astrophysics-director-offers-optimistic-vision-despite-budget-uncertainty/",
+        "source": "SpaceNews",
+        "published": "Fri, 12 Dec 2025 04:51:40 +0000",
+        "published_dt": "2025-12-12T04:51:40+00:00",
+        "summary": "<figure><img alt=\"Roman\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/roman-nov2025.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The head of NASA\u2019s astrophysics division offered an upbeat assessment of upcoming missions, a stark contrast to the bleak outlook in the agency\u2019s budget proposal six months ago.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-astrophysics-director-offers-optimistic-vision-despite-budget-uncertainty/\">NASA astrophysics director offers optimistic vision despite budget uncertainty</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "0b44fdbd371e9f72",
+        "title": "AVEVA earns 2025 Microsoft manufacturing partner award",
+        "url": "https://www.engineering.com/aveva-earns-2025-microsoft-manufacturing-partner-award/",
+        "source": "Engineering.com",
+        "published": "Thu, 11 Dec 2025 10:34:00 +0000",
+        "published_dt": "2025-12-11T10:34:00+00:00",
+        "summary": "<p>Collaboration uses Azure, Fabric and AI tools to support real-time data, efficiency and sustainability for industrial manufacturers.</p>\n<p>The post <a href=\"https://www.engineering.com/aveva-earns-2025-microsoft-manufacturing-partner-award/\">AVEVA earns 2025 Microsoft manufacturing partner award</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "bf8a90dde62b8833",
+        "title": "Why traditional AI misses the mark in manufacturing",
+        "url": "https://www.engineering.com/why-traditional-ai-misses-the-mark-in-manufacturing/",
+        "source": "Engineering.com",
+        "published": "Wed, 10 Dec 2025 19:49:55 +0000",
+        "published_dt": "2025-12-10T19:49:55+00:00",
+        "summary": "<p>Integration into systems that already work on the factory floor will be the next leap forward.</p>\n<p>The post <a href=\"https://www.engineering.com/why-traditional-ai-misses-the-mark-in-manufacturing/\">Why traditional AI misses the mark in manufacturing</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "daee046a43452737",
+        "title": "Colliding space debris produces radio bursts, raising prospect of \u2018debris weather\u2019 alerts",
+        "url": "https://spacenews.com/colliding-space-debris-produces-radio-bursts-raising-prospect-of-debris-weather-alerts/",
+        "source": "SpaceNews",
+        "published": "Wed, 10 Dec 2025 17:36:51 +0000",
+        "published_dt": "2025-12-10T17:36:51+00:00",
+        "summary": "<figure><img alt=\"The space environment is peppered with space debris, some fragments too small to see with current systems, but energetic enough to pose a severe hazard to operational spacecraft. Credit: credit: The Aerospace Corporation\u2019s Space Safety Institute\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"361\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/PHOTO-2-Space-debris-and-STM-heroimage.jpg?fit=913%2C361&amp;ssl=1\" width=\"913\" /></figure>\n<p>GOLDEN, CO \u2014 A university team has found that small orbital debris could emit radio bursts as they collide or approach each other in space.\u00a0The signal can be detected with large radio dishes on Earth, as well as satellites in orbit.\u00a0 This new intelligence agency-funded research is focused on gauging the interaction of orbital debris [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/colliding-space-debris-produces-radio-bursts-raising-prospect-of-debris-weather-alerts/\">Colliding space debris produces radio bursts, raising prospect of \u2018debris weather\u2019 alerts</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "90aeedbb5460e28b",
+        "title": "Space Force rolls out new naming scheme for satellites and space weapons",
+        "url": "https://spacenews.com/space-force-rolls-out-new-naming-scheme-for-satellites-and-space-weapons/",
+        "source": "SpaceNews",
+        "published": "Fri, 12 Dec 2025 00:30:00 +0000",
+        "published_dt": "2025-12-12T00:30:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"541\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Screenshot-2025-12-11-at-2.28.35-PM.png?fit=1024%2C541&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Gen. Chance Saltzman unveils a taxonomy linking system names to mission areas, echoing legacy traditions across the military</p>\n<p>The post <a href=\"https://spacenews.com/space-force-rolls-out-new-naming-scheme-for-satellites-and-space-weapons/\">Space Force rolls out new naming scheme for satellites and space weapons</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "e5800dd5cb086bab",
+        "title": "U.S. Air Force Secretary warns China\u2019s space gains are driven by more than copying",
+        "url": "https://spacenews.com/u-s-air-force-secretary-warns-chinas-space-gains-are-driven-by-more-than-copying/",
+        "source": "SpaceNews",
+        "published": "Fri, 12 Dec 2025 00:00:00 +0000",
+        "published_dt": "2025-12-12T00:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"624\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/251211-F-KN215-7416-scaled.jpg?fit=1024%2C624&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Troy Meink says Beijing is innovating, not merely reverse-engineering U.S. systems</p>\n<p>The post <a href=\"https://spacenews.com/u-s-air-force-secretary-warns-chinas-space-gains-are-driven-by-more-than-copying/\">U.S. Air Force Secretary warns China\u2019s space gains are driven by more than copying</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "73f8485f12aaedc1",
+        "title": "Focused on boosting launch cadence, SpaceX and Blue Origin execs detail company needs",
+        "url": "https://aerospaceamerica.aiaa.org/focused-on-boosting-launch-cadence-spacex-and-blue-origin-execs-detail-company-needs/",
+        "source": "Aerospace America",
+        "published": "Thu, 11 Dec 2025 22:49:14 +0000",
+        "published_dt": "2025-12-11T22:49:14+00:00",
+        "summary": ""
+      },
+      {
+        "id": "a57418f77d3e86ff",
+        "title": "2025: The Turning Point for Satellite Operators",
+        "url": "https://spacenews.com/2025-the-turning-point-for-satellite-operators/",
+        "source": "SpaceNews",
+        "published": "Thu, 11 Dec 2025 22:28:24 +0000",
+        "published_dt": "2025-12-11T22:28:24+00:00",
+        "summary": "<figure><img alt=\"Novaspace logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Paris, France [December 11, 2025] \u2013 Released today, Novaspace\u2019s latest FSS Operators: Benchmarks &#38; Performance Review unveils a year of transformation for satellite operators. 2025 is redefining the rules of [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/2025-the-turning-point-for-satellite-operators/\">2025: The Turning Point for Satellite Operators</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "29f070df5ba44584",
+        "title": "SpaceX IPO plan sets stage for a surge of other space listings",
+        "url": "https://spacenews.com/spacex-ipo-plan-sets-stage-for-a-surge-of-other-space-listings/",
+        "source": "SpaceNews",
+        "published": "Thu, 11 Dec 2025 19:33:26 +0000",
+        "published_dt": "2025-12-11T19:33:26+00:00",
+        "summary": "<figure><img alt=\"Falcon 9 launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/f9-20251105.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Other space companies are likely to move toward the public markets now that Elon Musk is openly signaling plans to pursue a SpaceX IPO next year, hoping to ride the wave of momentum behind a potentially record-breaking listing.</p>\n<p>The post <a href=\"https://spacenews.com/spacex-ipo-plan-sets-stage-for-a-surge-of-other-space-listings/\">SpaceX IPO plan sets stage for a surge of other space listings</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "1c9ca2231be30e92",
+        "title": "K2 Space raises $250 million to scale high-power satellite line",
+        "url": "https://spacenews.com/k2-space-raises-250-million-to-scale-high-power-satellite-line/",
+        "source": "SpaceNews",
+        "published": "Thu, 11 Dec 2025 16:22:52 +0000",
+        "published_dt": "2025-12-11T16:22:52+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/K2_Space_FLIGHT.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Torrance, California-based K2 was founded in 2022 to build large satellites with more onboard power and volume.</p>\n<p>The post <a href=\"https://spacenews.com/k2-space-raises-250-million-to-scale-high-power-satellite-line/\">K2 Space raises $250 million to scale high-power satellite line</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "923aa85a156fc9d7",
+        "title": "BAE Systems wins $16 million DARPA award to advance autonomous satellite tasking",
+        "url": "https://spacenews.com/bae-systems-wins-16-million-darpa-award-to-advance-autonomous-satellite-tasking/",
+        "source": "SpaceNews",
+        "published": "Thu, 11 Dec 2025 15:10:10 +0000",
+        "published_dt": "2025-12-11T15:10:10+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Oversight_Press_Release.jpg.webp?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The award is for Phase 2 of DARPA\u2019s Oversight program.</p>\n<p>The post <a href=\"https://spacenews.com/bae-systems-wins-16-million-darpa-award-to-advance-autonomous-satellite-tasking/\">BAE Systems wins $16 million DARPA award to advance autonomous satellite tasking</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "abb4dea836bc4825",
+        "title": "Building the future of space defense",
+        "url": "https://spacenews.com/building-the-future-of-space-defense/",
+        "source": "SpaceNews",
+        "published": "Thu, 11 Dec 2025 14:50:53 +0000",
+        "published_dt": "2025-12-11T14:50:53+00:00",
+        "summary": "<figure><img alt=\"Matt Maga\u00f1a\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/12112025-space-minds-podcast-voyager-2000-1500.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>In this episode of Space Minds, host Mike Gruss sits down with Matt Maga\u00f1a, President of Space, Defense &#038; National Security at Voyager Technologies, to explore one of the most consequential national security space stories of 2025: Golden Dome.</p>\n<p>The post <a href=\"https://spacenews.com/building-the-future-of-space-defense/\">Building the future of space defense</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "ee6ccb33b11e5e43",
+        "title": "Enduralock Validates OneLink\u2122 Prototype in Zero-G Simulation",
+        "url": "https://spacenews.com/enduralock-validates-onelink-prototype-in-zero-g-simulation/",
+        "source": "SpaceNews",
+        "published": "Thu, 11 Dec 2025 14:00:00 +0000",
+        "published_dt": "2025-12-11T14:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"500\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Enduralock-Logo.png?fit=500%2C500&amp;ssl=1\" width=\"500\" /></figure>\n<p>LENEXA, KS \u2013 Enduralock is pleased to announce the successful completion of form, fit, and function testing for its OneLink\u2122 satellite docking connector in Arkisys\u2019 1G robotic ground test facility [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/enduralock-validates-onelink-prototype-in-zero-g-simulation/\">Enduralock Validates OneLink\u2122 Prototype in Zero-G Simulation</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "3731f1f8dd070d04",
+        "title": "The U.S. race to the moon: Why Plan B cannot wait",
+        "url": "https://spacenews.com/the-u-s-race-to-the-moon-why-plan-b-cannot-wait/",
+        "source": "SpaceNews",
+        "published": "Thu, 11 Dec 2025 14:00:00 +0000",
+        "published_dt": "2025-12-11T14:00:00+00:00",
+        "summary": "<figure><img alt=\"Illustration representing NASA&#039;s moon-to-Mars ambitions. Credit: NASA\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/moon-to-mars-scaled.png?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>For years, both the Trump Administration and Congress have clearly stated that returning Americans to the moon before China in the 2028-2030 timeframe is a national priority. It is central to United States leadership in space, to global influence and to the future of human exploration.\u00a0 Yet across the space community, a sobering recognition has [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/the-u-s-race-to-the-moon-why-plan-b-cannot-wait/\">The U.S. race to the moon: Why Plan B cannot wait</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
       {
         "id": "4b67b497af597cc0",
         "title": "Bluebeam adds Task Link to connect office and field workflows",
@@ -255,15 +408,6 @@
         "published": "Thu, 11 Dec 2025 11:20:33 +0000",
         "published_dt": "2025-12-11T11:20:33+00:00",
         "summary": "<p>CES 2026 demos highlight ECS-DoT SoCs with Semtech LR1121 for predictive maintenance and acoustic security over long-range low-power networks.</p>\n<p>The post <a href=\"https://www.engineering.com/emass-and-semtech-pair-edge-ai-with-lorawan-connectivity/\">EMASS and Semtech pair edge AI with LoRaWAN connectivity</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "0b44fdbd371e9f72",
-        "title": "AVEVA earns 2025 Microsoft manufacturing partner award",
-        "url": "https://www.engineering.com/aveva-earns-2025-microsoft-manufacturing-partner-award/",
-        "source": "Engineering.com",
-        "published": "Thu, 11 Dec 2025 10:34:00 +0000",
-        "published_dt": "2025-12-11T10:34:00+00:00",
-        "summary": "<p>Collaboration uses Azure, Fabric and AI tools to support real-time data, efficiency and sustainability for industrial manufacturers.</p>\n<p>The post <a href=\"https://www.engineering.com/aveva-earns-2025-microsoft-manufacturing-partner-award/\">AVEVA earns 2025 Microsoft manufacturing partner award</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "0981f8a59b443861",
@@ -302,196 +446,16 @@
         "summary": "<p>New unit offers GPU servers, turnkey AI clusters and CaaS for universities, government, media and enterprise teams scaling AI workloads.</p>\n<p>The post <a href=\"https://www.engineering.com/azio-ai-spins-out-to-serve-high-performance-compute-demand/\">Azio AI spins out to serve high-performance compute demand</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "bf8a90dde62b8833",
-        "title": "Why traditional AI misses the mark in manufacturing",
-        "url": "https://www.engineering.com/why-traditional-ai-misses-the-mark-in-manufacturing/",
-        "source": "Engineering.com",
-        "published": "Wed, 10 Dec 2025 19:49:55 +0000",
-        "published_dt": "2025-12-10T19:49:55+00:00",
-        "summary": "<p>Integration into systems that already work on the factory floor will be the next leap forward.</p>\n<p>The post <a href=\"https://www.engineering.com/why-traditional-ai-misses-the-mark-in-manufacturing/\">Why traditional AI misses the mark in manufacturing</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "daee046a43452737",
-        "title": "Colliding space debris produces radio bursts, raising prospect of \u2018debris weather\u2019 alerts",
-        "url": "https://spacenews.com/colliding-space-debris-produces-radio-bursts-raising-prospect-of-debris-weather-alerts/",
-        "source": "SpaceNews",
-        "published": "Wed, 10 Dec 2025 17:36:51 +0000",
-        "published_dt": "2025-12-10T17:36:51+00:00",
-        "summary": "<figure><img alt=\"The space environment is peppered with space debris, some fragments too small to see with current systems, but energetic enough to pose a severe hazard to operational spacecraft. Credit: credit: The Aerospace Corporation\u2019s Space Safety Institute\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"361\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/PHOTO-2-Space-debris-and-STM-heroimage.jpg?fit=913%2C361&amp;ssl=1\" width=\"913\" /></figure>\n<p>GOLDEN, CO \u2014 A university team has found that small orbital debris could emit radio bursts as they collide or approach each other in space.\u00a0The signal can be detected with large radio dishes on Earth, as well as satellites in orbit.\u00a0 This new intelligence agency-funded research is focused on gauging the interaction of orbital debris [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/colliding-space-debris-produces-radio-bursts-raising-prospect-of-debris-weather-alerts/\">Colliding space debris produces radio bursts, raising prospect of \u2018debris weather\u2019 alerts</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "23517a5be16b11cc",
-        "title": "Benchmark demonstrates high-throughput ASCENT thruster in hotfire testing at Edwards Air Force Base",
-        "url": "https://spacenews.com/benchmark-demonstrates-high-throughput-ascent-thruster-in-hotfire-testing-at-edwards-air-force-base/",
-        "source": "SpaceNews",
-        "published": "Wed, 10 Dec 2025 13:00:00 +0000",
-        "published_dt": "2025-12-10T13:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"653\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/rsz_benchmark-macaw-ascent-hotfire.jpg?fit=879%2C653&amp;ssl=1\" width=\"879\" /></figure>\n<p>SAN FRANCISCO \u2013 Benchmark Space Systems\u2019 ASCENT-fueled Macaw thruster performed a 10-minute continuous burn, clearing the way for an on-orbit application of the propulsion technology, the company announced Dec. 10. \u201cBecause ASCENT has 50% greater impulse density than other monopropellants, mission planners and spacecraft designers can get the similar delta-v [change in velocity] with less [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/benchmark-demonstrates-high-throughput-ascent-thruster-in-hotfire-testing-at-edwards-air-force-base/\">Benchmark demonstrates high-throughput ASCENT thruster in hotfire testing at Edwards Air Force Base</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
         "id": "48ac84f697b7d34d",
         "title": "GEO satellite refueling a priority for national security, commercial markets, new analysis finds",
         "url": "https://spacenews.com/geo-satellite-refueling-a-priority-for-national-security-commercial-markets-new-analysis-finds/",
         "source": "SpaceNews",
         "published": "Thu, 11 Dec 2025 02:15:26 +0000",
         "published_dt": "2025-12-11T02:15:26+00:00",
-        "summary": "<figure><img alt=\"APS-R\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"578\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/aps-r.jpeg?fit=1024%2C578&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The findings come from a report by the Consortium for Space Mobility and ISAM Capabilities, or COSMIC</p>\n<p>The post <a href=\"https://spacenews.com/geo-satellite-refueling-a-priority-for-national-security-commercial-markets-new-analysis-finds/\">GEO satellite refueling a priority for national security, commercial markets, new analysis finds</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "db7e288a588eac48",
-        "title": "L3Harris satellite-jamming system approved for export to close U.S. allies",
-        "url": "https://spacenews.com/l3harris-satellite-jamming-system-approved-for-export-to-close-u-s-allies/",
-        "source": "SpaceNews",
-        "published": "Thu, 11 Dec 2025 00:31:30 +0000",
-        "published_dt": "2025-12-11T00:31:30+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"574\" src=\"https://spacenews.com/wp-content/uploads/2025/12/l3harris-sas-ss-us-space-force-expands-offensive-space-programs-meadowlands-system.jpg-1024x574.avif\" width=\"1024\" /></figure>\n<p>Lt. Gen. Phil Garrant, head of the Space Systems Command, said  Five Eyes partners would likely have access to this technology</p>\n<p>The post <a href=\"https://spacenews.com/l3harris-satellite-jamming-system-approved-for-export-to-close-u-s-allies/\">L3Harris satellite-jamming system approved for export to close U.S. allies</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "8244f82b46538bad",
-        "title": "Blue Origin targets four-flight campaign for New Glenn\u2019s path to Space Force certification",
-        "url": "https://spacenews.com/blue-origin-targets-four-flight-campaign-for-new-glenns-path-to-space-force-certification/",
-        "source": "SpaceNews",
-        "published": "Wed, 10 Dec 2025 23:30:29 +0000",
-        "published_dt": "2025-12-10T23:30:29+00:00",
-        "summary": "<figure><img alt=\"NG-2\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/NG-2-Ascent-2.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Lt. Gen. Phil Garrant, who leads the Space Systems Command, said Blue Origin selected the four-flight benchmark and the government agreed</p>\n<p>The post <a href=\"https://spacenews.com/blue-origin-targets-four-flight-campaign-for-new-glenns-path-to-space-force-certification/\">Blue Origin targets four-flight campaign for New Glenn\u2019s path to Space Force certification</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "f85d46c2c09aa4c8",
-        "title": "Electra files to certify its hybrid-electric plane under FAA Part 23",
-        "url": "https://aerospaceamerica.aiaa.org/electra-files-to-certify-its-hybrid-electric-plane-under-faa-part-23/",
-        "source": "Aerospace America",
-        "published": "Wed, 10 Dec 2025 21:52:04 +0000",
-        "published_dt": "2025-12-10T21:52:04+00:00",
-        "summary": ""
-      },
-      {
-        "id": "80511f8ca575d97c",
-        "title": "Voyager wins $21 million Air Force contract for AI-driven signals processing",
-        "url": "https://spacenews.com/voyager-wins-21-million-air-force-contract-for-ai-driven-signals-processing/",
-        "source": "SpaceNews",
-        "published": "Wed, 10 Dec 2025 21:00:00 +0000",
-        "published_dt": "2025-12-10T21:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"670\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Screenshot-2025-12-09-at-10.58.47-AM.png?fit=1024%2C670&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The contract will focus on signals intelligence for U.S. Air Force platforms.</p>\n<p>The post <a href=\"https://spacenews.com/voyager-wins-21-million-air-force-contract-for-ai-driven-signals-processing/\">Voyager wins $21 million Air Force contract for AI-driven signals processing</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "a5f255442611e2f5",
-        "title": "Multiple space companies join NATO\u2019s DIANA defense accelerator",
-        "url": "https://spacenews.com/multiple-space-companies-join-natos-diana-defense-accelerator/",
-        "source": "SpaceNews",
-        "published": "Wed, 10 Dec 2025 20:58:39 +0000",
-        "published_dt": "2025-12-10T20:58:39+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Proceso-de-montaje-de-los-sateilites-de-FOSSA-Systems-en-la-sala-blanca.png?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NATO has picked 150 companies from 24 of its member countries to join its Defence Innovation Accelerator for the North Atlantic next year, including more than two dozen with ties to the space sector.</p>\n<p>The post <a href=\"https://spacenews.com/multiple-space-companies-join-natos-diana-defense-accelerator/\">Multiple space companies join NATO\u2019s DIANA defense accelerator</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "6a5555c0a2615ecf",
-        "title": "Delivering the next generation of cloud-native, multi-orbit ground systems",
-        "url": "https://spacenews.com/delivering-the-next-generation-of-cloud-native-multi-orbit-ground-systems/",
-        "source": "SpaceNews",
-        "published": "Wed, 10 Dec 2025 20:46:08 +0000",
-        "published_dt": "2025-12-10T20:46:08+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/5GNTN-300x300-chart-post-300ppi-01.png?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>As on-orbit capabilities grow more advanced, ground systems are undergoing a transformation of their own.&#160; Ground network specialist ST Engineering iDirect, with headquarters in Herndon, Virginia, is investing in new [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/delivering-the-next-generation-of-cloud-native-multi-orbit-ground-systems/\">Delivering the next generation of cloud-native, multi-orbit ground systems</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "1f39ec16e83490ac",
-        "title": "No technological barriers to refueling GEO satellites, NASA report finds",
-        "url": "https://aerospaceamerica.aiaa.org/no-technological-barriers-to-refueling-geo-satellites-nasa-report-finds/",
-        "source": "Aerospace America",
-        "published": "Wed, 10 Dec 2025 18:10:00 +0000",
-        "published_dt": "2025-12-10T18:10:00+00:00",
-        "summary": ""
-      },
-      {
-        "id": "14ab3b628d7d7868",
-        "title": "Building a simple edge-to-cloud data pipeline \u2013 Part 1",
-        "url": "https://www.engineering.com/building-a-simple-edge-to-cloud-data-pipeline-part-1/",
-        "source": "Engineering.com",
-        "published": "Wed, 10 Dec 2025 18:02:18 +0000",
-        "published_dt": "2025-12-10T18:02:18+00:00",
-        "summary": "<p>While every engineer\u2019s implementation is shaped by their business objectives and data source, most pipeline projects share a consistent sequence of steps</p>\n<p>The post <a href=\"https://www.engineering.com/building-a-simple-edge-to-cloud-data-pipeline-part-1/\">Building a simple edge-to-cloud data pipeline \u2013 Part 1</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "41fa72fe8641a1c3",
-        "title": "Helsing and Kongsberg plot multi-mission European defense space network",
-        "url": "https://spacenews.com/helsing-and-kongsberg-plot-multi-mission-european-defense-space-network/",
-        "source": "SpaceNews",
-        "published": "Wed, 10 Dec 2025 17:44:55 +0000",
-        "published_dt": "2025-12-10T17:44:55+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"733\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Helsing_Space_Signing_2.png?fit=1024%2C733&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Two defense technology companies from Norway and Germany have joined forces to bolster Europe\u2019s sovereign intelligence and communications capabilities, with plans to start deploying small satellites in about three years.</p>\n<p>The post <a href=\"https://spacenews.com/helsing-and-kongsberg-plot-multi-mission-european-defense-space-network/\">Helsing and Kongsberg plot multi-mission European defense space network</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "ae262e5ec5f125b9",
-        "title": "China launches new TJS satellite, commercial Kinetica-1 lofts 9 spacecraft",
-        "url": "https://spacenews.com/china-launches-new-tjs-satellite-commercial-kinetica-1-lofts-9-spacecraft/",
-        "source": "SpaceNews",
-        "published": "Wed, 10 Dec 2025 17:36:52 +0000",
-        "published_dt": "2025-12-10T17:36:52+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"598\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/CZ3B-TJS22-XSLC-dec92025-CASC.jpg?fit=1024%2C598&amp;ssl=1\" width=\"1024\" /></figure>\n<p>China continued a surge in launch activity with a pair of missions Tuesday, adding to an opaque satellite series and launching new remote sensing satellites.</p>\n<p>The post <a href=\"https://spacenews.com/china-launches-new-tjs-satellite-commercial-kinetica-1-lofts-9-spacecraft/\">China launches new TJS satellite, commercial Kinetica-1 lofts 9 spacecraft</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "5a8b656e1d34ccd9",
-        "title": "Odin Space raises $3 million in seed funding",
-        "url": "https://spacenews.com/odin-space-raises-3-million-in-seed-funding/",
-        "source": "SpaceNews",
-        "published": "Wed, 10 Dec 2025 17:23:15 +0000",
-        "published_dt": "2025-12-10T17:23:15+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"758\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/rsz_odin_image_1.jpg?fit=879%2C758&amp;ssl=1\" width=\"879\" /></figure>\n<p>SAN FRANCISCO \u2013 British startup Odin Space raised $3 million in a seed round to begin commercializing tiny sensors to map and analyze sub-centimeter orbital debris. With its first sensor launched in 2023 on D-Orbit\u2019s ION orbital transfer vehicle, Odin demonstrated its ability to detect debris that\u2019s generally too small to track but still capable [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/odin-space-raises-3-million-in-seed-funding/\">Odin Space raises $3 million in seed funding</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "c0b9c236942ace15",
-        "title": "Revizto launches Infrastructure platform with linear navigation",
-        "url": "https://www.engineering.com/revizto-launches-infrastructure-platform-with-linear-navigation/",
-        "source": "Engineering.com",
-        "published": "Wed, 10 Dec 2025 14:24:02 +0000",
-        "published_dt": "2025-12-10T14:24:02+00:00",
-        "summary": "<p>New tool supports 2D and 3D corridor reviews, alignment import and chainage-based issue tracking for rail, road and energy projects.</p>\n<p>The post <a href=\"https://www.engineering.com/revizto-launches-infrastructure-platform-with-linear-navigation/\">Revizto launches Infrastructure platform with linear navigation</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "1fa5a1d52103e6cb",
-        "title": "How multi-agent AI can strengthen space missions against the unknown",
-        "url": "https://spacenews.com/how-multi-agent-ai-can-strengthen-space-missions-against-the-unknown/",
-        "source": "SpaceNews",
-        "published": "Wed, 10 Dec 2025 14:00:00 +0000",
-        "published_dt": "2025-12-10T14:00:00+00:00",
-        "summary": "<figure><img alt=\"Falcon 9 streaks\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/f9-doublestreak.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Space missions are entering a new era defined by complexity: more sensors, more software-driven behavior, more tightly coupled subsystems and more interactions between spacecraft and orbital infrastructure. As these systems evolve, the number of potential failure modes grows \u2014 ranging from thermal drift and aging hardware to configuration errors, environmental disturbances, and unfamiliar system behavior. [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/how-multi-agent-ai-can-strengthen-space-missions-against-the-unknown/\">How multi-agent AI can strengthen space missions against the unknown</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "summary": "<figure><img alt=\"Provisioner\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"578\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/aps-r.jpeg?fit=1024%2C578&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The findings come from a report by the Consortium for Space Mobility and ISAM Capabilities, or COSMIC</p>\n<p>The post <a href=\"https://spacenews.com/geo-satellite-refueling-a-priority-for-national-security-commercial-markets-new-analysis-finds/\">GEO satellite refueling a priority for national security, commercial markets, new analysis finds</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
-      {
-        "id": "c21d3e7b45dae29a",
-        "title": "What a stiff drink says about China\u2019s economy",
-        "url": "https://www.economist.com/finance-and-economics/2025/12/11/what-a-stiff-drink-says-about-chinas-economy",
-        "source": "Finance & economics",
-        "published": "Thu, 11 Dec 2025 11:12:31 +0000",
-        "published_dt": "2025-12-11T11:12:31+00:00",
-        "summary": "The baijiu business is the latest to be struck by \u201cinvolution\u201d"
-      },
-      {
-        "id": "a037d14c1bdfc0b5",
-        "title": "Germany has a lawyer problem",
-        "url": "https://www.economist.com/finance-and-economics/2025/12/11/germany-has-a-lawyer-problem",
-        "source": "Finance & economics",
-        "published": "Thu, 11 Dec 2025 11:14:59 +0000",
-        "published_dt": "2025-12-11T11:14:59+00:00",
-        "summary": "Its endless bureaucratic rules trap would-be reformers"
-      },
-      {
-        "id": "04fa6aa4de231f15",
-        "title": "America\u2019s bond market is quiet\u2014almost too quiet",
-        "url": "https://www.economist.com/finance-and-economics/2025/12/11/americas-bond-market-is-quiet-almost-too-quiet",
-        "source": "Finance & economics",
-        "published": "Thu, 11 Dec 2025 11:10:02 +0000",
-        "published_dt": "2025-12-11T11:10:02+00:00",
-        "summary": "Scott Bessent has a cunning plan"
-      },
-      {
-        "id": "2327a2cbd174f336",
-        "title": "Wall Street is drooling over bank mergers",
-        "url": "https://www.economist.com/finance-and-economics/2025/12/11/wall-street-is-drooling-over-bank-mergers",
-        "source": "Finance & economics",
-        "published": "Thu, 11 Dec 2025 11:07:13 +0000",
-        "published_dt": "2025-12-11T11:07:13+00:00",
-        "summary": "The world\u2019s most fragmented financial industry faces dramatic change"
-      },
       {
         "id": "820d554ba62719c3",
         "title": "Accommodating Emerging Giants in the Global Economy -- by Zhuokai Huang, Benny Kleinman, Ernest Liu, Stephen J. Redding",
@@ -554,6 +518,15 @@
         "published": null,
         "published_dt": null,
         "summary": "How does a task-level minimum pay requirement for gig workers affect their earnings and employment? We study this question in the context of a January 2024 law in Seattle that establishes a per-task minimum pay standard for app-based delivery workers. Drawing on novel cross-platform, trip-level gig activity data, we compare earnings and employment trajectories around the implementation of the law for workers who were doing delivery work in Seattle before the reform against workers who had been active in other regions of Washington State. We find that the minimum pay law raised delivery pay per task, though the increases in base pay per task were partially offset by a substantial reduction in average tips, a major component of delivery pay. At the same time, the policy led to a reduction in the number of tasks completed by highly attached incumbent drivers (but not an increase in exit from delivery work), completely offsetting increased pay per task and leading to zero effect on monthly earnings. We find evidence that drivers experienced more unpaid idle time and longer distances driven between tasks, but find no evidence that drivers reduced their total time working on delivery apps and only limited evidence of switching from delivery to ride-hailing work. Using a simple model of the labor market for platform delivery drivers, we show that our evidence is consistent with free entry of drivers into the delivery market driving down the task-finding rate until expected earnings return to their pre-reform level. These findings highlight the challenges of raising pay in spot markets for tasks where there is free entry of workers."
+      },
+      {
+        "id": "c21d3e7b45dae29a",
+        "title": "What a stiff drink says about China\u2019s economy",
+        "url": "https://www.economist.com/finance-and-economics/2025/12/11/what-a-stiff-drink-says-about-chinas-economy",
+        "source": "Finance & economics",
+        "published": "Thu, 11 Dec 2025 11:12:31 +0000",
+        "published_dt": "2025-12-11T11:12:31+00:00",
+        "summary": "The baijiu business is the latest to be struck by \u201cinvolution\u201d"
       },
       {
         "id": "233484b8ab536f6a",
@@ -680,17 +653,53 @@
         "published": "Wed, 08 Oct 2025 19:13:52 +0000",
         "published_dt": "2025-10-08T19:13:52+00:00",
         "summary": "Forget debt. Here is something to villainise"
+      },
+      {
+        "id": "34d3213f3fa6c879",
+        "title": "Why Donald Trump\u2019s tariffs are failing to break global trade",
+        "url": "https://www.economist.com/finance-and-economics/2025/10/08/why-donald-trumps-tariffs-are-failing-to-break-global-trade",
+        "source": "Finance & economics",
+        "published": "Wed, 08 Oct 2025 18:20:12 +0000",
+        "published_dt": "2025-10-08T18:20:12+00:00",
+        "summary": "Six months on from \u201cLiberation Day\u201d, things look surprisingly rosy"
+      },
+      {
+        "id": "1dc17cac392cfb76",
+        "title": "Credit markets look increasingly dangerous",
+        "url": "https://www.economist.com/finance-and-economics/2025/10/02/credit-markets-look-increasingly-dangerous",
+        "source": "Finance & economics",
+        "published": "Thu, 02 Oct 2025 10:22:25 +0000",
+        "published_dt": "2025-10-02T10:22:25+00:00",
+        "summary": "A pair of bankruptcies highlight the risks"
+      },
+      {
+        "id": "d170931d916e4cae",
+        "title": "How the Trump administration learned to love foreign aid",
+        "url": "https://www.economist.com/finance-and-economics/2025/10/02/how-the-trump-administration-learned-to-love-foreign-aid",
+        "source": "Finance & economics",
+        "published": "Thu, 02 Oct 2025 10:19:44 +0000",
+        "published_dt": "2025-10-02T10:19:44+00:00",
+        "summary": "America\u2019s international assistance has not been destroyed\u2014it has been transformed"
       }
     ],
     "Cross-Disciplinary": [
       {
-        "id": "b36f99df6c35406d",
-        "title": "Solar geoengineering startups are getting serious",
-        "url": "https://www.technologyreview.com/2025/12/11/1129239/solar-geoengineering-startups-are-getting-serious/",
+        "id": "1c6f4459d5ecee07",
+        "title": "Southeast Asia seeks its place in space",
+        "url": "https://www.technologyreview.com/2025/12/12/1129235/dispatch-thai-space-expo-southeast-asia-exploration/",
         "source": "MIT Technology Review",
-        "published": "Thu, 11 Dec 2025 11:00:00 +0000",
-        "published_dt": "2025-12-11T11:00:00+00:00",
-        "summary": "Solar geoengineering aims to manipulate the climate by bouncing sunlight back into space. In theory, it could ease global warming. But as interest in the idea grows, so do concerns about potential consequences. A startup called Stardust Solutions recently raised a $60 million funding round, the largest known to date for a geoengineering startup. My&#8230;"
+        "published": "Fri, 12 Dec 2025 11:00:00 +0000",
+        "published_dt": "2025-12-12T11:00:00+00:00",
+        "summary": "It\u2019s a scorching October day in Bangkok and I\u2019m wandering through the exhibits at the Thai Space Expo, held in one of the city\u2019s busiest shopping malls, when I do a double take. Amid the flashy space suits and model rockets on display, there\u2019s a plain-looking package of Thai basil chicken. I\u2019m told the same&#8230;"
+      },
+      {
+        "id": "e130192b54175746",
+        "title": "Expanded carrier screening: Is it worth it?",
+        "url": "https://www.technologyreview.com/2025/12/12/1129344/expanded-carrier-screening-is-it-worth-it/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 12 Dec 2025 10:00:00 +0000",
+        "published_dt": "2025-12-12T10:00:00+00:00",
+        "summary": "This week I\u2019ve been thinking about babies. Healthy ones. Perfect ones. As you may have read last week, my colleague Antonio Regalado came face to face with a marketing campaign in the New York subway asking people to&#160;\u201chave your best baby.\u201d The company behind that campaign, Nucleus Genomics, says it offers customers a way to&#8230;"
       },
       {
         "id": "e128d91b7c192b5a",
@@ -718,6 +727,15 @@
         "published": "Mon, 08 Dec 2025 14:00:02 +0000",
         "published_dt": "2025-12-08T14:00:02+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/person-next-to-healthcare-device-looking-at-phone.jpg?id=62288369&amp;width=1200&amp;height=800&amp;coordinates=62%2C0%2C63%2C0\" /><br /><br /><p><span>I was interviewing a 72-year-old retired accountant who had unplugged his <a href=\"https://spectrum.ieee.org/monitor-diabetes-from-your-smart-watch\" target=\"_blank\">smart glucose monitor</a>. He explained that he \u201cdidn\u2019t know who was looking\u201d at his blood sugar data.</span></p><p>This wasn\u2019t a man unfamiliar with technology\u2014he had successfully used computers for decades in his career. He was of sound mind. But when it came to his health device, he couldn\u2019t find clear answers about where his data went, who could access it, or how to control it. The instructions were dense, and the <a href=\"https://spectrum.ieee.org/protecting-online-privacy\" target=\"_blank\">privacy settings</a> were buried in multiple menus. So, he made what seemed like the safest choice: he unplugged it. That decision meant giving up real-time glucose monitoring that his doctor had recommended.</p><p>The healthcare IoT (Internet of Things) market is <a href=\"https://finance.yahoo.com/news/iot-healthcare-market-worth-289-140000086.html\" target=\"_blank\">projected</a> to exceed $289 billion by 2028, with older adults representing a major share of users. These devices are fall detectors, medication reminders, glucose monitors, heart rate trackers, and others that enable independent living. Yet there\u2019s a widening gap between deployment and adoption. According to an <a href=\"https://www.aarp.org/personal-technology/companies-address-online-privacy-concerns/\" target=\"_blank\">AARP survey</a>, 34% of adults over 50 list privacy as a primary barrier to adopting health technology. That represents millions of people who could benefit from monitoring tools but avoid them because they don\u2019t feel safe.</p><p>In my study at the University of Denver\u2019s Ritchie School of Engineering and Computer Science, I surveyed 22 older adults and conducted in-depth interviews with nine participants who use health-monitoring devices. The findings revealed a critical engineering failure: 82% understood security concepts like <a href=\"https://spectrum.ieee.org/two-factor-authentication-sandia-labs\" target=\"_blank\">two-factor authentication</a> and <a href=\"https://spectrum.ieee.org/homomorphic-encryption\" target=\"_blank\">encryption</a>, yet only 14% felt confident managing their privacy when using these devices. In my research, I also evaluated 28 healthcare apps designed for older adults and found that 79% lacked basic breach-notification protocols.</p><p>One participant told me, \u201cI know there\u2019s encryption, but I don\u2019t know if it\u2019s really enough to protect my data.\u201d Another said, \u201cThe thought of my health data getting into the wrong hands is very concerning. I\u2019m particularly worried about identity theft or my information being used for scams.\u201d</p><p>This is not a user knowledge problem; it\u2019s an engineering problem. We\u2019ve built systems that demand technical expertise to operate safely, then handed them to people managing complex health needs while navigating age-related changes in vision, cognition, and dexterity.</p><h2>Measuring the Gap</h2><p>To quantify the issues with privacy setting transparency, I developed the Privacy Risk Assessment Framework (PRAF), a tool that scores healthcare apps across five critical domains.</p><p>First, the regulatory compliance domain evaluates whether apps explicitly state adherence to the Health Insurance Portability and Accountability Act (HIPAA), the General Data Protection Regulation (GDPR), or other data protection standards. Just claiming to be compliant is not enough\u2014they must provide verifiable evidence.</p><p>Second, the security mechanisms<strong> </strong>domain assesses the implementation of encryption, access controls, and, most critically, breach-notification protocols that alert users when their data may have been compromised. Third, in the usability and accessibility domain, the tool examines whether privacy interfaces are readable and navigable for people with age-related visual or cognitive changes. Fourth, data-minimization practices evaluate whether apps collect only necessary information and clearly specify retention periods. Finally, third-party sharing transparency measures whether users can easily understand who has access to their data and why.</p><p>When I applied PRAF to 28 healthcare apps commonly used by older adults, the results revealed systemic gaps. Only 25% explicitly stated HIPAA compliance, and just 18% mentioned GDPR compliance. Most alarmingly, 79% lacked breach notification protocols, which means that the users may never find out if their data was compromised. The average privacy policy readability scored at a 12th-grade level, even though <a href=\"https://pubmed.ncbi.nlm.nih.gov/16541986/\" rel=\"noopener noreferrer\" target=\"_blank\">research shows</a> that the average reading level of older adults is at an 8th grade level<strong>. </strong>Not a single app included accessibility accommodations in their privacy interfaces.</p><p>Consider what happens when an older adult opens a typical health app. They face a multi-page privacy policy full of legal terminology about \u201cdata controllers\u201d and \u201cprocessing purposes,\u201d followed by settings scattered across multiple menus. One participant told me, \u201cThe instructions are hard to understand, the print is too small, and it\u2019s overwhelming.\u201d Another explained, \u201cI don\u2019t feel adequately informed about how my data is collected, stored, and shared. It seems like most of these companies are after profit, and they don\u2019t make it easy for users to understand what\u2019s happening with their data.\u201d</p><p>When protection requires a manual people can\u2019t read, two outcomes follow: they either skip security altogether leaving themselves vulnerable, or abandon the technology entirely, forfeiting its health benefits.</p><h2>Engineering for privacy</h2><p>We need to treat trust as an engineering specification, not a marketing promise. Based on my research findings and the specific barriers older adults face, three approaches address the root causes of distrust.</p><p>The first approach is adaptive security defaults. Rather than requiring users to navigate complex configuration menus, devices should ship with pre-configured best practices that automatically adjust to data sensitivity and device type. A fall detection system doesn\u2019t need the same settings as a continuous glucose monitor. This approach draws from the principle of \u201csecurity by default\u201d in systems engineering.</p><p>Biometric or voice authentication can replace passwords that are easily forgotten or written down. The key is removing the burden of expertise while maintaining strong protection. As one participant put it: \u201cSimplified security settings, better educational resources, and more intuitive user interfaces will be beneficial.\u201d</p><p>The second approach is real-time transparency<strong>.</strong> Users shouldn\u2019t have to dig through settings to see where their data goes. Instead, notification systems should show each data access or sharing event in plain language. For example: \u201cYour doctor accessed your heart-rate data at 2 p.m. to review for your upcoming appointment.\u201d A single dashboard should summarize who has access and why.</p><p>This addresses a concern that came up repeatedly in my interviews: users want to know who is seeing their data and why. The engineering challenge here isn\u2019t technical complexity, it\u2019s designing interfaces that convey technical realities in language anyone can understand. Such systems already exist in other domains; banking apps, for instance, send immediate notifications for every transaction. The same principle applies to health data, where the stakes are arguably higher.</p><p>The third approach is invisible security updates. Manual patching creates vulnerability windows. Automatic, seamless updates should be standard for any device handling health data, paired with a simple status indicator so users can confirm protection at a glance. As one participant said, \u201cThe biggest issue that we as seniors have is the fact that we don\u2019t remember our passwords... The new technology is surpassing the ability of seniors to keep up with it.\u201d Automating updates removes a significant source of anxiety and risk.</p><h2>What\u2019s at Stake</h2><p>We can keep building healthcare IoT the way we have: fast, feature-rich, and fundamentally untrustworthy. Or, we can engineer systems that are transparent, secure, and usable by design. Trust isn\u2019t something you market through slogans or legal disclaimers. It\u2019s something you engineer, line by line, into the code itself.<strong> </strong>For older adults relying on technology to maintain independence, that kind of engineering matters more than any new feature we could add. Every unplugged glucose monitor, every abandoned fall detector, every health app deleted out of confusion or fear represents not just a lost sale but a missed opportunity to support someone\u2019s health and autonomy.</p><p>The challenge of privacy in healthcare IoT goes beyond fixing existing systems, it requires reimagining how we communicate privacy itself. My ongoing research builds on these findings through an AI-driven Data Helper, a system that uses large language models to translate dense legal privacy policies into short, accurate, and accessible summaries for older adults. By making data practices transparent and comprehension measurable, this approach aims to turn compliance into understanding and trust, thus advancing the next generation of trustworthy digital health systems.</p>"
+      },
+      {
+        "id": "f331634637a2d02a",
+        "title": "Ghost Robotics\u2019 Arm Brings Manipulation to Military Quadrupeds",
+        "url": "https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm",
+        "source": "IEEE Spectrum",
+        "published": "Thu, 11 Dec 2025 15:00:02 +0000",
+        "published_dt": "2025-12-11T15:00:02+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/robotic-dog-lifting-backpack-with-its-mechanical-arm-in-an-industrial-setting.jpg?id=62304619&amp;width=1200&amp;height=800&amp;coordinates=0%2C83%2C0%2C84\" /><br /><br /><p><a href=\"https://www.ghostrobotics.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Ghost Robotics</a> is today announcing a major upgrade for their Vision 60 quadruped: an arm. Ghost, a company which originated at the <a href=\"https://www.grasp.upenn.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">GRASP Lab at the University of Pennsylvania</a>, specializes in exceptionally rugged quadrupeds, and while many of its customers use its robots for public safety and disaster relief, it also <a href=\"https://www.army.mil/article/274841/promising_experiment_signals_future_integration_of_advanced_tech_into_army_units\" rel=\"noopener noreferrer\" target=\"_blank\">provides robots</a> to the United States military, which has very specific needs when it comes to keeping humans out of danger.</p><p>In that context, it\u2019s not unreasonable to assume that Ghost\u2019s robots may sometimes be used to carry weapons, and despite the <a href=\"https://spectrum.ieee.org/ukraine-killer-drones\" target=\"_self\">proliferation of robots</a> in many roles in the Ukraine war, the idea of a legged robot carrying a weapon is not a comfortable one for many people. <em><em>IEEE Spectrum</em></em> spoke with Ghost co-founder and current CEO <a href=\"https://www.linkedin.com/in/gavin-kenneally-321a3833/\" rel=\"noopener noreferrer\" target=\"_blank\">Gavin Kenneally</a> to learn more about the new arm, and to get his perspective on selling robots to the military.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Green military robot dog opens a wooden door with articulated arm.\" class=\"rm-shortcode\" id=\"a501b\" src=\"https://spectrum.ieee.org/media-library/green-military-robot-dog-opens-a-wooden-door-with-articulated-arm.jpg?id=62304622&amp;width=980\" /> <small class=\"image-media media-caption\">The Vision 60\u2019s new arm  has six degrees of freedom. </small><small class=\"image-media media-photo-credit\">Ghost Robotics</small></p><h2>Robots for the Military</h2><p>Ghost Robotics initially made a name for itself with its very impressive <a href=\"https://spectrum.ieee.org/ghost-robotics-minitaur-quadruped\" target=\"_self\">early work with the Minitaur direct-drive quadruped</a> in 2016. The company also made headlines in late 2021, when a now-deleted post on Twitter (now X) went viral because it included a photograph of one of Ghost\u2019s Vision 60 quadrupeds <a href=\"https://spectrum.ieee.org/ghost-robotics-armed-military-robots\" target=\"_self\">with a rifle mounted on its back</a>.</p><p>That picture resulted in a <a href=\"https://kodlab.seas.upenn.edu/news/koditscheks-letter-to-ghosts-ceo/\" target=\"_blank\">very strong reaction</a>, although as <em><em>IEEE Spectrum</em></em> reported at the time, robots with guns affixed to them wasn\u2019t new: To mention one early example, the U.S. military had already deployed weapons on mobile robots <a href=\"https://www.wired.com/2008/04/armed-robots-st/\" target=\"_blank\">in Iraq in 2007</a>. And while several legged robot companies <a href=\"https://spectrum.ieee.org/robots-with-weapons-industry-initiative\" target=\"_self\">pledged in 2022 not to weaponize their general purpose robots</a>, the Chinese military <a href=\"https://www.theguardian.com/science/article/2024/may/30/chinese-armys-latest-weapon-gun-toting-dog\" target=\"_blank\">in 2024 displayed</a> quadrupeds from Unitree equipped with guns. (Unitree, based in China, was one of the signers of the 2022 pledge.)</p><p>The issue of weaponized robots goes far beyond Ghost Robotics, and far beyond robots with legs. We\u2019ve covered both the <a href=\"https://spectrum.ieee.org/we-should-not-ban-killer-robots\" target=\"_self\">practical</a> and <a href=\"https://spectrum.ieee.org/a-path-towards-reasonable-autonomous-weapons-regulation\" target=\"_self\">ethical</a> perspectives on this extensively at <em><em>IEEE Spectrum</em></em>, and the intensity of the debates show that there is no easy answer. But to summarize one important point made by some ethicists, some military experts, and Ghost Robotics itself: robots are replaceable, humans are not. \u201cCustomers use our robots to keep people out of harm\u2019s way,\u201d Ghost CEO Kenneally tells <em><em>Spectrum.</em></em></p><p>It\u2019s also worth pointing out that even the companies who signed the pledge not to weaponize their general purpose robots <a href=\"https://spectrum.ieee.org/robots-with-weapons-industry-initiative\" target=\"_self\">acknowledge</a> that military robots exist, and are accepting of that, provided that such robots are used under existing legal doctrines and operate within those safeguards\u2014and that what constraints should or should not be imposed on these kinds of robots is best decided by policymakers rather than industry.</p><p>This is essentially Ghost Robotics\u2019 position as well, says Kenneally. \u201cWe sell our robots to U.S. and allied governments, and as part of that, the robots are used in defense applications where they will sometimes be weaponized. What\u2019s most critical to us is that the decisions about how to use these robots are happening systematically and ethically at the government policy level.\u201d</p><p>To some extent, these decisions are already being made within the U.S. government. <a href=\"https://media.defense.gov/2023/Jan/25/2003149928/-1/-1/0/DOD-DIRECTIVE-3000.09-AUTONOMY-IN-WEAPON-SYSTEMS.PDF\" target=\"_blank\">Department of Defense Directive 3000.09</a>, \u2018Autonomy in Weapon Systems,\u2019 lays out the responsibilities and limitations for how autonomous or human-directed robotics weapons systems should be developed and deployed, including requirements for human use-of-force judgements. At least in the U.S., this directive implies that there are rules and accountability for robotic weapons.</p><p></p><h2>Vision 60\u2019s Versatile Arm Capabilities</h2><p>Ghost sees its Vision 60 quadruped as a system that its trusted customers can use as they see fit, and the manipulator enables many additional capabilities. \u201cThe primary purpose of the robot has been as a sensor platform,\u201d Kenneally says, \u201cbut sometimes there are doors in the way, or objects that need to be moved, or you might want the robot to take a sample. So the ability to do all of that mobile manipulation has been hugely valuable for our customers.\u201d</p><p>As it turns out, arms are good for more than manipulation. \u201cOne thing that\u2019s been very interesting is that our customers have been using the arm as a sensor boom, which is something that we hadn\u2019t anticipated,\u201d says Kenneally. Ghost\u2019s robot has plenty of cameras, but they\u2019re mostly at the viewpoint of a moderately-sized dog. The new arm offers a more human-like vantage and a way to peek around corners or over things without exposing the whole robot.</p><p>Ghost was not particularly interested in building their own arm, and tried off-the-shelf options to get the manipulation bit working. And they did get the manipulation working; what didn\u2019t work were any of those arms after the 50 kilogram robot rolled over on them. \u201cWe wanted to make sure that we could build an arm that could stand up to the same intense rigors of our customers\u2019 operations that the rest of the robot can,\u201d says Kenneally. \u201cMorphologically, we actually consider the arm to be a fifth leg, so that the robot operates as a unified system for whole-body control.\u201d</p><p>The rest of the robot is exceptionally rugged, which is what makes it appealing to customers with unique needs, like special forces teams. Enough battery life for more than three hours of walking (or more than 20 hours on standby) isn\u2019t bad, and the Vision 60 is sealed against sand and dust, and can survive complete submergence in shallow water. It can operate in extreme temperatures ranging from -40 \u00b0C to 55 \u00b0C, which has been a particular challenge for robots. And if you do manage to put it in a situation where it physically breaks one of its legs, it\u2019s easy to swap in a spare in just a few minutes, even out in the field.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Robotic dog opening a glass door with its arm in front of a building.\" class=\"rm-shortcode\" id=\"724f7\" src=\"https://spectrum.ieee.org/media-library/robotic-dog-opening-a-glass-door-with-its-arm-in-front-of-a-building.jpg?id=62304623&amp;width=980\" /> <small class=\"image-media media-caption\">The Vision 60 can open doors withe high-level direction from a human operator.</small><small class=\"image-media media-photo-credit\">Ghost Robotics</small></p><h2>Quadruped Robot Competition From China</h2><p>Despite Ghost quietly selling over a thousand quadrupeds to date, Kenneally is cautious about the near future for legged robots, as is anyone who has seriously considered buying one, because it\u2019s impossible to ignore the option of just buying one from a Chinese company at about a tenth the cost of a quadruped from a company based in the U.S. or Europe.</p><p>\u201cChina has identified legged robotics as a lynchpin technology that they are strategically funding,\u201d Kenneally says. \u201cI think it\u2019s an extremely serious threat in the long term, and we have to take these competitors very seriously despite their current shortcomings.\u201d There is a technological moat, for now, but if the market for legged robots follows the same trajectory as the market for drones did, that moat will shrink drastically over the next few years.</p><p>The United States is poised to <a href=\"https://www.reuters.com/world/us/chinese-dronemaker-dji-urges-us-complete-security-review-2025-12-04/\" target=\"_blank\">ban consumer drone sales from Chinese manufacturer DJI</a>, and <a href=\"https://www.defenseone.com/technology/2017/08/us-army-just-ordered-soldiers-stop-using-drones-chinas-dji/139999/\" target=\"_blank\">banned DJI drone use by federal agencies in 2017</a>. But it may be too late in some sense, as DJI\u2019s global market share is <a href=\"https://www.technologyreview.com/2024/06/26/1094249/china-commercial-drone-dji-security/\" target=\"_blank\">something like 90 percent</a>. Meanwhile, Unitree may have already cornered <a href=\"https://newsletter.semianalysis.com/p/quadruped-state-of-the-market-unitree\" target=\"_blank\">somewhere around 70 percent</a> of the global market for quadrupeds, despite <a href=\"https://spectrum.ieee.org/unitree-robot-exploit\" target=\"_self\">the recent publication of exploits</a> that allow the robots to send unauthorized data to China.</p><p>In the United States in particular, private sector robotics funding is unpredictable at the best of times, and Kenneally argues that to compete with Chinese-subsidized robot-makers American companies like Ghost who produce these robots domestically will need sustained U.S. government support, too. That doesn\u2019t mean the government has to pick which companies will be the winners, but that it should find a way to support the U.S. robotics industry as a whole, if it still wants to have a meaningful one. \u201cThe quadruped industry isn\u2019t a science project anymore,\u201d says Kenneally. \u201cIt\u2019s matured, and quadruped robots are going to become extremely important in both commercial and government applications. But it\u2019s only through continued innovation that we\u2019ll be able to stay ahead.\u201d</p>"
       },
       {
         "id": "1d4f3305d7136cd0",
@@ -756,6 +774,24 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/muet-epics-team-and-volunteers-visited-the-project-community-partner-at-ida-rieu-school-for-the-blind-and-deaf.jpg?id=62236973&amp;width=1200&amp;height=800&amp;coordinates=156%2C0%2C156%2C0\" /><br /><br /><p>The <a href=\"https://epics.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">EPICS (Engineering Projects in Community Service) in IEEE</a> initiative had a record year in 2025, funding 48 projects involving nearly 1,000 students from 17 countries. The <a href=\"https://www.ieee.org/education/eab\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Educational Activities</a> program approved the most projects this year, distributing US $290,000 in funding and <a href=\"https://spectrum.ieee.org/ieee-tryengineering-funds-50-projects\" target=\"_blank\">engaging more students</a> than ever before in innovative, hands-on engineering systems.</p><p>The program offers students opportunities to engage in service learning and collaborate with engineering professionals and community organizations to develop solutions that address local community challenges. The projects undertaken by IEEE groups encompass student branches, sections, society chapters, and affinity groups including <a href=\"https://wie.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Women in Engineering</a> and <a href=\"https://yp.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Young Professionals</a>.</p><p><a href=\"https://spectrum.ieee.org/epics-in-ieee-15th-anniversary\" target=\"_blank\">EPICS in IEEE</a> provides funding up to $10,000, along with resources and mentorship, for projects focused on <a href=\"https://epics.ieee.org/about/\" rel=\"noopener noreferrer\" target=\"_blank\">four key areas of community improvement</a>: education and outreach, environment, access and abilities, and human services.</p><p>This year, EPICS partnered with four IEEE societies and the <a href=\"https://standards.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Standards Association</a> on 23 of the 48 approved projects. The <a href=\"https://epics.ieee.org/aps-cope-supported-projects/\" rel=\"noopener noreferrer\" target=\"_blank\">Antennas and Propagation Society</a> supported three, the <a href=\"https://epics.ieee.org/ias-supported-projects/\" rel=\"noopener noreferrer\" target=\"_blank\">Industry Applications Society (IAS)</a> funded nine, the <a href=\"https://ieee-ims.org/epics-ieee\" rel=\"noopener noreferrer\" target=\"_blank\">Instrumentation and Measurement Society (IMS)</a> sponsored five, the <a href=\"https://www.ieee-ras.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Robotics and Automation Society</a> supported two, the <a href=\"https://sscs.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Solid State Circuits Society (SSCS) </a>provided funding for three, and the <a href=\"https://epics.ieee.org/ieee-sa-funded-projects/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Standards Association</a> sponsored one.</p><p>The stories of the partner-funded projects demonstrate the impact and the effect the projects have on the students and their communities.</p><h2>Matoruco agroecological garden</h2><p>The IAS student branch at the <a href=\"https://www.upb.edu.co/es/home\" rel=\"noopener noreferrer\" target=\"_blank\">Universidad Pontificia Bolivariana</a> in Colombia worked on a project that involved <a href=\"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=11131639\" rel=\"noopener noreferrer\" target=\"_blank\">water storage, automated irrigation, and waste management</a>. The goal was to transform the Matoruco agroecological garden at the Instituci\u00f3n Educativa Los Garzones into a more lively, sustainable, and accessible space.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"These team members configure the LoRa One network (a proprietary radio communication network based on spread spectrum modulation) to send data to an online dashboard showing solar power usage, pump status, and soil moisture. Two students configuring a radio communication network using their laptop.\" class=\"rm-shortcode\" id=\"1d467\" src=\"https://spectrum.ieee.org/media-library/these-team-members-configure-the-lora-one-network-a-proprietary-radio-communication-network-based-on-spread-spectrum-modulation.jpg?id=62236979&amp;width=980\" /> <small class=\"image-media media-caption\">These EPICS in IEEE team members from the Universidad Pontificia Bolivariana in Colombia are configuring a radio communications network that will send data to an online dashboard showing the solar power usage, pump status, and soil moisture for the Matoruco agroecological garden at the Instituci\u00f3n Educativa Los Garzones. </small><small class=\"image-media media-photo-credit\">EPICS in IEEE</small></p><p>By using an irrigation automation system, electric pump control, and soil moisture monitoring, the team aimed to show how engineering concepts combine academic knowledge and practical application. The initiative uses monocrystalline solar panels for power, a programmable logic controller to automatically manage pumps and valves, soil moisture sensors for real-time data, and a LoRa One network (a proprietary radio communication system based on spread spectrum modulation) to send data to an online dashboard showing solar power usage, pump status, and soil moisture.</p><p>Los Garzones preuniversity students were taught about the irrigation system through hands-on projects, received training on organic waste management from university students, and participated in installation activities. The university team also organizes garden cleanup events to engage younger students with the community garden.</p><p>\u201cWe seek to generate a true sense of belonging by offering students and faculty a gathering place for hands-on learning and shared responsibility,\u201d says Rafael Gustavo Ramos Noriega, the team lead and fourth-year electronics engineering student. \u201cBy integrating technical knowledge with fun activities and training sessions, we empower the community to keep the garden alive and continue improving it.</p><p>\u201cThis project has been an unmatched platform for preparing me for a professional career,\u201d he added. \u201cBy leading everything from budget planning to the final installation, I have experienced firsthand all the stages of a real engineering project: scope definition, resource management, team coordination, troubleshooting, and delivering tangible results. All of this reinforces my goal of dedicating myself to research and development in automation and embedded systems and contributing innovation in the agricultural and environmental sectors to help more communities and make my mark.\u201d</p><p>The project received $7,950 from IAS.</p><p class=\"shortcode-media shortcode-media-youtube\"> <span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span> <small class=\"image-media media-caption\">Students give a tour of the systems they installed at the Matoruco agroecological garden.</small> </p><h2>A smart braille system</h2><p>More than 1.5 million individuals in Pakistan are blind, including thousands of children who face barriers to accessing essential learning resources, according to the <a href=\"https://www.iapb.org/\" target=\"_blank\">International Agency for the Prevention of Blindness</a>. To address the need for accessible learning tools, a student team from the <a href=\"https://site.muet.edu.pk/\" rel=\"noopener noreferrer\" target=\"_blank\">Mehran University of Engineering and Technology (MUET)</a> and the <a href=\"https://r10.ieee.org/karachi/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Karachi Section</a> created <a href=\"https://epics.ieee.org/blogs/bridging-gaps-in-education-a-smart-braille-system-from-pakistan/\" rel=\"noopener noreferrer\" target=\"_blank\">BrailleGenAI: Empowering Braille Learning With Edge AI and Voice Interaction</a>.</p><p>The interactive system for blind children combines edge artificial intelligence, generative AI, and embedded systems, says <a href=\"https://www.linkedin.com/in/kainat-fizzah-muhammad/?originalSubdomain=pk\" rel=\"noopener noreferrer\" target=\"_blank\">Kainat Fizzah Muhammad</a>, a project leader and electrical engineering student at MUET. The system uses a camera to recognize tactile braille blocks and provide real-time audio feedback via text-to-speech technology. It includes gamified modules designed to support literacy, numeracy, logical reasoning, and voice recognition.</p><p>The team partnered with the <a href=\"https://hands.org.pk/\" rel=\"noopener noreferrer\" target=\"_blank\">Hands Welfare Foundation</a>, a nonprofit in Pakistan that focuses on inclusive education, disability empowerment, and community development. The team collaborated with the <a href=\"https://en.wikipedia.org/wiki/Ida_Rieu_School\" rel=\"noopener noreferrer\" target=\"_blank\">Ida Rieu School</a>, part of the <a href=\"https://idarieu.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Ida Rieu Welfare Association</a>, which serves the visually and hearing impaired.</p><p>\u201cThese partnerships have been instrumental in helping us plan outreach activities, gather input from experts and caregivers, and prepare for usability testing across diverse environments,\u201d says Attiya Baqai, a professor in the MUET electronic engineering department. Support from the Hands foundation ensured the solution was shaped by the real-world needs of the visually impaired community.</p><p>SSCS provided $9,155 in funding.</p><p class=\"shortcode-media shortcode-media-youtube\"> <span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span> <small class=\"image-media media-caption\">The student team shows how the smart braille system they developed works.</small> </p><h2>Tackling air pollution</h2><p>Macedonia\u2019s capital, Skopje, is among Europe\u2019s most polluted cities, particularly in winter, due to thick smog caused by temperature changes, according to the <a href=\"https://www.who.int/\" rel=\"noopener noreferrer\" target=\"_blank\">World Health Organization</a>. The WHO reports that the city\u2019s air contains particles that can cause health issues without early warning signs\u2014known as silent killers.</p><p>A team at <a href=\"https://ukim.edu.mk/en/\" rel=\"noopener noreferrer\" target=\"_blank\">Sts. Cyril and Methodius University</a> created a system to measure and publicize local air pollution levels through its <a href=\"https://epics.ieee.org/blogs/students-in-macedonia-help-tackle-air-pollution/\" rel=\"noopener noreferrer\" target=\"_blank\">What We Breathe</a> project. It aims to raise awareness and improve health outcomes, particularly among the city\u2019s children.</p><p>\u201cOur goal is to provide people with information on current pollution levels so they can make informed decisions regarding their exposure and take protective measures,\u201d says <a href=\"https://www.linkedin.com/in/andrej-ilievski-4267a414a/\" rel=\"noopener noreferrer\" target=\"_blank\">Andrej Ilievski</a>, an IEEE student member majoring in computer hardware engineering and electronics. \u201cWe chose to focus on schools first because children\u2019s lungs and immune systems are still developing, making them one of our population\u2019s most vulnerable demographics.\u201d</p><p>The project involved 10 university students working with high schools, faculty, and the Society of Environmental Engineers of Macedonia to design and build a sensing and display tool that communicates via the Internet.</p><p class=\"pull-quote\">\u201cBy leading everything from budget planning to the final installation, I have experienced firsthand all the stages of a real engineering project: scope definition, resource management, team coordination, troubleshooting, and delivering tangible results.\u201d <strong>\u2014Rafael Gustavo Ramos Noriega</strong></p><p>\u201cOur sensing unit detects particulate matter, temperature, and humidity,\u201d says project leader <a href=\"https://scholar.google.com/citations?user=7lGkqgQAAAAJ&amp;hl=en\" rel=\"noopener noreferrer\" target=\"_blank\">Josif Kjosev</a>, an electronics professor at the university. \u201cIt then transmits that data through a Wi-Fi connection to a public server every 5 minutes, while our display unit retrieves the data from the server.\u201d</p><p>\u201cSince deploying the system,\u201d Ilievski says, \u201ceveryone on the team has been enthusiastic about how well the project connects with their high school audience.\u201d</p><p>The team says it hopes students will continue to work on new versions of the devices and provide them to other interested schools in the area.</p><p>\u201cFor most of my life, my academic success has been on paper,\u201d Ilievski says. \u201cBut thanks to our EPICS in IEEE project, I finally have a real, physical object that I helped create.</p><p>\u201cWe\u2019re grateful for the opportunity to make this project a reality and be part of something bigger.\u201d</p><p>The project received $8,645 from the IMS. </p><h2>Society partnerships count</h2><p>Thanks to partnerships with IEEE societies, EPICS can provide more opportunities to students around the world. The program also includes mentors from societies and travel grants for conferences, enhancing the student experience.</p><p>The collaborations motivate students to apply technologies in the IEEE societies\u2019 areas of interest to real-world problems, helping them improve their communities and fostering continued engagement with the society and IEEE.</p><p>You can learn how to get involved with EPICS by visiting its website.</p>"
       },
       {
+        "id": "57b8ba2e35934e61",
+        "title": "Tiny Chips Could Lead to Giant Power Savings",
+        "url": "https://spectrum.ieee.org/voltage-regulator",
+        "source": "IEEE Spectrum",
+        "published": "Thu, 11 Dec 2025 14:00:02 +0000",
+        "published_dt": "2025-12-11T14:00:02+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/close-up-of-powerlattice-s-newest-chiplet-on-the-pad-of-a-person-s-pointer-finger.jpg?id=62303380&amp;width=1200&amp;height=800&amp;coordinates=0%2C83%2C0%2C84\" /><br /><br /><p>Even if a GPU in a data center should only require 700 watts to run a large language model, it may realistically need 1,700 watts because of inefficiencies in how electricity reaches it. That\u2019s a problem Peng Zou and his team at startup <a href=\"https://www.powerlatticeinc.com/\" rel=\"noopener noreferrer\" target=\"_blank\">PowerLattice</a> say they have solved by miniaturizing and repackaging high-voltage regulators.</p><p>The company claims that its new <a href=\"https://spectrum.ieee.org/chiplet\" target=\"_self\">chiplets</a> deliver up to a 50 percent reduction in power consumption and twice performance per watt by sizing down the voltage conversion process and moving it significantly closer to processors.</p><h2>Shrinking and Moving Power Delivery</h2><p>Traditional systems deliver power to AI chips by converting AC power from the grid into DC power, which then gets transformed again into low-voltage (around one volt) DC, usable by the GPU. With that voltage drop, current must increase to conserve power. </p><p>This exchange happens near the processor, but the current still travels a meaningful distance in its low-voltage state. A high current traveling any distance is bad news, because the system loses power in the form of heat proportional to the current squared. \u201cThe closer you get to the processor, the less distance that the high current has to travel, and thus we can reduce the power loss,\u201d says <a href=\"https://jacobsschool.ucsd.edu/people/profile/hanh-phuc-le\" rel=\"noopener noreferrer\" target=\"_blank\">Hanh-Phuc Le</a>, who researches power electronics at the University California, San Diego and has no connection to PowerLattice.</p><p>Given the ever-growing <a href=\"https://spectrum.ieee.org/ai-energy-use\" target=\"_self\">power consumption of AI data centers</a>, \u201cthis has almost become a show-stopping issue today,\u201d PowerLattice\u2019s Zou says.</p><p>Zou thinks he and his colleagues have found a way to avoid this huge loss of power. Instead of dropping the voltage a few centimeters away from the processor, they figured out how to do it millimeters away, within the processor\u2019s package. PowerLattice designed tiny power delivery chiplets\u2014shrinking inductors, voltage control circuits, and software-programmable logic into an IC about twice the size of a pencil eraser. The chiplets sit under the processor\u2019s package substrate, to which they\u2019re connected.</p><p>One challenge the minds at PowerLattice faced was how to make inductors smaller without altering their capabilities. Inductors temporarily store energy and then release it smoothly, helping regulators maintain steady outputs. Their physical size directly influences how much energy they can manage, so shrinking them weakens their effect.</p><p>The startup countered this issue by building their inductors from a specialized magnetic alloy that \u201cenables us to run the inductor very efficiently at high frequency,\u201d Zou says. \u201cWe can operate at a hundred times higher frequency than the traditional solution.\u201d At higher operating frequencies, circuits can be designed to use an inductor with a much lower inductance, meaning the component itself can be made with less physical material. The alloy is unique because it maintains better magnetic properties than comparable materials at these high frequencies.</p><p>The resulting chiplets are less than 1/20th the area of today\u2019s voltage regulators, Zou says. And each is only 100 micrometers thick, around the thickness of a strand of hair. Being so tiny allows the chiplets to fit as close as possible to the processor, and the space savings provide valuable real estate to other components.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"3D rendering of PowerLattice's chiplets on the underside of a processor package.\" class=\"rm-shortcode\" id=\"e0195\" src=\"https://spectrum.ieee.org/media-library/3d-rendering-of-powerlattice-s-chiplets-on-the-underside-of-a-processor-package.jpg?id=62303434&amp;width=980\" /> <small class=\"image-media media-caption\">PowerLattice\u2019s chiplets would sit on the underside of a GPU\u2019s package to provide power from below.</small><small class=\"image-media media-photo-credit\">PowerLattice</small></p><p>Even at their small size, the proprietary tech is \u201chighly configurable and scalable,\u201d Zou says. Customers can use multiple chiplets for a more comprehensive fix or fewer if their architecture doesn\u2019t require it. \u201cIt\u2019s one key differentiator\u201d of PowerLattice\u2019s solution to the voltage regulation problem, according to Zou.</p><p>Employing the chiplets can reduce 50 percent of power needs for an operator, effectively doubling performance, the company claims. But this number seems ambitious to Le. He says that 50 percent power savings \u201ccould be achievable, but that means PowerLattice has to have direct control of the load, which includes the processor as well.\u201d The only way he sees it as realistic is if the company has the ability to <a href=\"https://spectrum.ieee.org/a-circuit-to-boost-battery-life\" target=\"_self\">manage power supply in real time </a>depending on a processor\u2019s workload\u2014a technique called <a href=\"https://www.sciencedirect.com/topics/computer-science/dynamic-voltage-and-frequency-scaling\" target=\"_blank\">dynamic voltage and frequency scaling</a>\u2014which PowerLattice does not.</p><h2>Facing Competition</h2><p>Right now, PowerLattice is in the midst of reliability and validation testing before it releases its first product to customers, in about two years. But bringing the chiplets to market won\u2019t be straightforward because PowerLattice has some big-name competition. Intel, for example, is developing a <a href=\"https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/servers/platforms/intel-pentium-silver-and-intel-celeron-processors-datasheet-volume-1-of-2/fully-integrated-voltage-regulator-fivr/\" target=\"_blank\">Fully Integrated Voltage Regulator</a>, a device partially devoted to solving the same problem. </p><p>Zou doesn\u2019t consider Intel competition because, in addition to the products differing in their approaches to the power delivery problem, he does not believe Intel will be providing its technology to its competitors. \u201cFrom a market position perspective, we are quite a bit different,\u201d Zou says.</p><p>A decade ago, PowerLattice wouldn\u2019t have room to succeed, Le says, because companies that sold processors only ensured reliability for their chips if customers purchased their power supplies as well. \u201cQualcomm, for example, can sell their processor chip and the vast majority of their customers also have to buy their proprietary Qualcomm power supply management chip because otherwise they would say, \u2018We don\u2019t guarantee the reliable operation of the whole system.\u2019\u201d</p><p>Now, though, there may be hope. \u201cThere\u2019s a trend of what we call chiplet implementation, so it is a <a href=\"https://spectrum.ieee.org/intels-view-of-the-chiplet-revolution\" target=\"_self\">heterogeneous integration</a>,\u201d Le says. Customers are mixing and matching components from different companies to achieve better system optimization, he says. </p><p>And while notable providers like Intel and Qualcomm may continue to have the upper hand with notable customers, smaller companies\u2014mostly startups\u2014building processors and AI infrastructures will also be power hungry. These groups will need to look for a power supply source, and that\u2019s where PowerLattice and similar companies could come in, Le says. \u201cThat\u2019s how the market is. We have a startup working with a startup doing something that actually rivals, and even competes with, some large companies.\u201d</p>"
+      },
+      {
+        "id": "08b31c158aef17a8",
+        "title": "In 1844, Chess Was Already Online",
+        "url": "https://spectrum.ieee.org/telegraph-chess",
+        "source": "IEEE Spectrum",
+        "published": "Thu, 11 Dec 2025 13:23:32 +0000",
+        "published_dt": "2025-12-11T13:23:32+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/collage-with-chess-game-vintage-machine-and-map-against-yellow-and-black-background.png?id=62293844&amp;width=1200&amp;height=800&amp;coordinates=0%2C34%2C0%2C35\" /><br /><br /><p><strong>On 18 November 1844,</strong> the Washington Chess Club challenged its counterparts in Baltimore to a match. Two teams were organized, and at 4 p.m. on 26 November, the first game commenced with three consulting members to a side. Washington began conventionally, pushing a pawn to the center of <a href=\"https://www.gutenberg.org/cache/epub/61533/pg61533-images.html#CHESS\" rel=\"noopener noreferrer\" target=\"_blank\">the board</a>. Baltimore immediately responded by mirroring the move. But this was unlike any chess game ever played before. The Baltimoreans were still in Baltimore, the Washingtonians were still in Washington, D.C, 60 kilometers away, and they were playing by electrical telegraph.</p><p>Successive moves were transmitted over the new Baltimore\u2013Washington telegraph line, the first in the United States, which Samuel Morse and company had inaugurated in May of that year with the message \u201c<a href=\"https://americanhistory.si.edu/collections/object/nmah_713485\" rel=\"noopener noreferrer\" target=\"_blank\">What hath God wrought</a>.\u201d</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Black and white photo of a man in 19th century garb standing, with his hand on a mechanical apparatus.\" class=\"rm-shortcode\" id=\"e791e\" src=\"https://spectrum.ieee.org/media-library/black-and-white-photo-of-a-man-in-19th-century-garb-standing-with-his-hand-on-a-mechanical-apparatus.jpg?id=62293850&amp;width=980\" /> <small class=\"image-media media-caption\">Samuel F.B. Morse pushed for the first U.S. telegraph, which connected Washington, D.C., to Baltimore, Md.</small><small class=\"image-media media-photo-credit\"><a href=\"https://www.loc.gov/item/2001700118/\" target=\"_blank\">Mathew B. Brady/Library of Congress</a></small></p><p>One chess game led to another, and play continued on and off for days. Records of the games are incomplete and sometimes inconsistent\u2014181 years later, it\u2019s unclear who exactly dreamt up chess over wire and why. But thanks in part to historical documents at the Smithsonian Institution, we know enough about the people involved and the operation of the early telegraph to have a sense of the proceedings. We know that Morse would <a href=\"https://www.gutenberg.org/cache/epub/61533/pg61533-images.html#LETTER_19\" target=\"_blank\">cite chess</a> in lobbying Congress to fund the extension of the telegraphic network to New York via Philadelphia. And we know that there was much more chess by telegraph to come.</p><p>Not simply a novelty or a one-off tech demo, telegraph chess eventually became a <a href=\"https://www.jstor.org/stable/23788123\" target=\"_blank\">well-known, joked-about trend</a> in the United States and Britain, writes historian <a href=\"https://www.fu-berlin.de/en/sites/cas/ueber_uns/Postdoctoral-Fellows/cas-postdoc-alumni/Simone_M__ller_Pohl/index.html\" target=\"_blank\">Simone M\u00fcller-Pohl</a>. Chess by telegraph also prefigured chess played through other means of telecommunications. There are records of recreational and serious games played over radio, on telephone lines, satellite, and through online interfaces including forums, email, and dedicated live services. Most recently, chess has evolved into an esport. Earlier this year, chess joined the likes of <em><em>Call of Duty</em></em>, <em><em>Street Fighter</em></em>, and <em><em>Rocket League</em></em> at the<a href=\"https://www.esportsworldcup.com/en/news/chess-joins-ewc\" target=\"_blank\"> 2025 Esports World Cup</a> in Riyadh, Saudi Arabia.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Color photo of a man wearing headphones and seated at a computer, staring at a display of a chess board. \" class=\"rm-shortcode\" id=\"3e0c7\" src=\"https://spectrum.ieee.org/media-library/color-photo-of-a-man-wearing-headphones-and-seated-at-a-computer-staring-at-a-display-of-a-chess-board.jpg?id=62293851&amp;width=980\" /> <small class=\"image-media media-caption\">Last August, chess grandmaster Magnus Carlsen won the first ever Chess Esports World Cup.</small><small class=\"image-media media-photo-credit\">Esports World Cup</small></p><p>The number of adults worldwide who play chess regularly is often estimated at <a href=\"https://www.un.org/en/observances/world-chess-day\" target=\"_blank\">around 600 million</a>, and many of them use whatever means available to play games across long distances with friends, rivals, and strangers. Indeed, the 1,500-year-old game and the latest in telecommunications always seem to find each other, starting just months after the first telegraph was built in the United States, when chess went electric.</p><h2><span>The Birth of Chess by Telegraph</span></h2><p>The Baltimore\u2013Washington telegraph was financed in 1843 with US $30,000 (about $1.3 million today) <a href=\"https://www.senate.gov/artandhistory/senate-stories/morses-telegraph-in-the-capitol.htm\" target=\"_blank\">appropriated by Congress</a>, with the help of Morse\u2019s business partner, <a href=\"https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=1860&amp;context=mainehistoryjournal\" target=\"_blank\">Francis O.J. Smith</a>, who had supported the project in 1838 while still a sitting congressman from Maine. By late 1844, a bill to extend the line to New York was in front of the U.S. House of Representatives. In at least one way, drawing the attention of legislators to the new line was relatively easy\u2014the Washington end moved back and forth between the Capitol building and<a href=\"https://about.usps.com/who-we-are/postal-history/headquarters-sites.pdf\" target=\"_blank\"> the post office</a>, near the present-day National Portrait Gallery. If you were a lawmaker in Washington at the time, the telegraph would\u2019ve been hard to miss.</p><h3></h3><br /><div class=\"rblad-ieee_in_content\"></div><p>But perhaps they needed more persuading. Orrin S. Wood, a telegraph operator, thought so. On 5 December 1844, Wood wrote <a href=\"https://reader.library.cornell.edu/docviewer/digital?id=ezra0002_4#page/12/mode/1up\" target=\"_blank\">a letter</a> to his brother-in-law, engineer Ezra Cornell, who had worked on the line and would go on to cofound Western Union:</p><p>\u201cWe have had considerable excitement in playing chess between this place and Baltimore for the last 2 or 3 weeks.\u2026I am inclined to think that Congress will do something for Prof Morse as very many of them appear to be very much interested with [chess].\u201d</p><p>A week later, <a href=\"https://www.gutenberg.org/cache/epub/61533/pg61533-images.html#LETTER_19\" target=\"_blank\">Morse wrote</a> to George M. Bibb, Secretary of the Treasury, to lobby for the funding. The telegraph could relay congressional news, presidential convention results, or the whereabouts of wanted criminals, he argued. He also played the chess card:</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Two brief hand-written notes related to a telegraph chess match between the Washington Chess Club and its counterpart in Baltimore. \" class=\"rm-shortcode\" id=\"3865a\" src=\"https://spectrum.ieee.org/media-library/two-brief-hand-written-notes-related-to-a-telegraph-chess-match-between-the-washington-chess-club-and-its-counterpart-in-baltimo.jpg?id=62293858&amp;width=980\" /> <small class=\"image-media media-caption\">On 18 November 1844, the Washington Chess Club challenged Baltimore to a game of telegraph chess. One telegraph operator asked his counterpart, \u201cAre you tired of checkers?\u201d</small><small class=\"image-media media-photo-credit\"><a href=\"https://siarchives.si.edu/collections/siris_arc_217214\" target=\"_blank\">Smithsonian Institution Archives</a></small></p><p>\u201cTo show the variety of the operations of the telegraph, a game of draughts [checkers], and several games of chess, have been played between the cities of Baltimore and Washington, with the same ease as if the players were seated at the same table.\u201d</p><p>Chess had even been played on rainy nights, he noted. The telegraph\u2019s continued operation in both inclement weather and darkness compared favorably with <a href=\"https://spectrum.ieee.org/what-the-count-of-monte-cristo-can-teach-us-about-cybersecurity\" target=\"_self\">optical telegraphy</a>. Such systems, popular in France, consisted of regularly spaced flag towers that relayed messages by semaphore; they were costly to build and operate and only worked in daylight and good weather.</p><p>While Morse played up people\u2019s interest in telegraphic chess, the game itself didn\u2019t obviously begin with promotional intent. It began with checkers. We know this because Morse\u2019s associate Alfred Vail kept a \u201cJournal of the Magnetic Telegraph between Washington and Baltimore\u201d (now part of the <a href=\"https://siarchives.si.edu/collections/siris_arc_217214\" target=\"_blank\">Vail Telegraph Collection</a> at the Smithsonian) in which he meticulously recorded messages sent over the wire for posterity.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"A hand-written note dated Nov 26 records chess moves in a game between Washington, D.C, and Baltimore \" class=\"rm-shortcode\" id=\"d7781\" src=\"https://spectrum.ieee.org/media-library/a-hand-written-note-dated-nov-26-records-chess-moves-in-a-game-between-washington-d-c-and-baltimore.jpg?id=62293859&amp;width=980\" /> <small class=\"image-media media-caption\">Notes from a 26 November 1844 chess game record players\u2019 moves, as well as other snippets of information, such as \u201cI sent tea for Mr. Vail by 5 o\u2019clock train.\u201d</small><small class=\"image-media media-photo-credit\"><a href=\"https://siarchives.si.edu/collections/siris_arc_217214\" target=\"_blank\">Smithsonian Institution Archives</a></small></p><p>On 15 November 1844, Vail in Washington instructed Henry J. Rogers in Baltimore to \u201cget a checkerboard and let us play a game tomorrow morning.\u201d Vail promised to send instructions by regular mail on the five o\u2019clock train. At first confused, Rogers came up with the idea of using numbered squares to communicate locations on the board. Later that day, Rogers announced that John Wills, a journalist with the <em><em>Baltimore Patriot</em></em>, would play in his place.</p><p>The next morning, before the checkers game began, Vail recorded a telegraphic exchange between himself and Rogers, in which Vail suggests the game is for private enjoyment, and he would prefer that Wills\u2014a reporter\u2014not write about it:</p><p style=\"margin-left: 20px;\"><em>Do you think the game any advantage R</em></p><p style=\"margin-left: 20px;\"><em>What game V</em></p><p style=\"margin-left: 20px;\"><em>Checkers R</em></p><p style=\"margin-left: 20px;\"><em>Amusement V</em></p><p style=\"margin-left: 20px;\"><em>Don\u2019t you think people will make remarks R</em></p><p style=\"margin-left: 20px;\"><em>Not if it is done by ourselves V</em></p><p style=\"margin-left: 20px;\"><em>yes have you any objections to Wills R</em></p><p style=\"margin-left: 20px;\"><em>none if he does not publish it V</em></p><p style=\"margin-left: 20px;\"><em>yes R</em></p><p>Wills was thoroughly impressed with the technology, calling it \u201canother wonder of the age,\u201d according to Rogers. And so the telegraphers agreed that he could publish an account of the game, which perhaps was Vail\u2019s hope all along. The story was still being prepared for publication on 18 November when Vail tapped, \u201cThe Washington Chess Club challenge Baltimore to a game.\u201d</p><h2>How about a Nice Game of Chess?</h2><p>Vail\u2019s 1845 book about the telegraph includes <a href=\"https://www.gutenberg.org/cache/epub/61533/pg61533-images.html#CHESS\" target=\"_blank\">a brief report</a> on chess. He writes that in the Washington\u2013Baltimore match, seven games were played, totalling 686 moves \u201ctransmitted without a single mistake or interruption.\u201d These details reappear in <a href=\"https://www.loc.gov/item/05025200/\" target=\"_blank\"><em><em>The Book of the First American Chess Congress</em></em></a>, which called the Baltimore\u2013Washington games the first telegraphic chess match.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Black and white photo of a man in fancy 19th century dress, seated and holding a walking stick.\" class=\"rm-shortcode\" id=\"548b8\" src=\"https://spectrum.ieee.org/media-library/black-and-white-photo-of-a-man-in-fancy-19th-century-dress-seated-and-holding-a-walking-stick.jpg?id=62293860&amp;width=980\" /> <small class=\"image-media media-caption\">Alfred Vail, Morse\u2019s associate, was instrumental in organizing the first telegraph chess match and kept detailed notes on messages sent over the line.</small><small class=\"image-media media-photo-credit\">Zoom Historical/Alamy</small></p>How did the games actually unfold? While many of the rules and conventions of chess would be familiar to modern chess players, the games were unusual in other ways. At the time, the standard way of describing chess moves was descriptive notation, says <a href=\"https://new.uschess.org/author/john-mccrary\" target=\"_blank\">John McCrary</a>, a former president of the <a href=\"https://new.uschess.org/\" target=\"_blank\">United States Chess Federation</a> who maintains a collection of some 100 chess books from <a href=\"https://chesscollectorsinternational.org/wp-content/uploads/2023/12/rare-chess-book-collecting.pdf\" target=\"_blank\">before 1900</a>. For instance, \u201cpawn to queen\u2019s bishop\u2019s four\u201d described moving a pawn in front of the bishop on the queen\u2019s side of the board to the fourth row from the bottom.<p>Before the electrical telegraph, such descriptions would have been used in correspondence chess, played by mail. And <a href=\"https://archive.org/details/TheOxfordCompanionToChessFirstEditionByDavidHooperKennethWhyld/page/n355/mode/2up\" target=\"_blank\"><em><em>The Oxford Companion to Chess</em></em></a> (1984) describes a proposed 1823 match between France and England that intended to use semaphore telegraph, although the notation used was either never planned or has been lost to time.</p><p>But Vail and Rogers used a system that assigned a unique number to each of the 64 squares. So \u201cpawn to queen\u2019s bishop\u2019s four\u201d would have been rendered as \u201c11 to 27.\u201d Though the game itself can be remarkably complex, that system allowed individual moves to be communicated simply. \u201cThe exchange of information in chess is relatively low,\u201d says <a href=\"https://www.linkedin.com/in/david-kazdan-ba92968/\" target=\"_blank\">David Kazdan</a>, an engineer at <a href=\"https://case.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">Case Western Reserve University</a> who has recently overseen a <a href=\"https://www.arrl.org/news/view/using-amateur-radio-to-play-chess\" rel=\"noopener noreferrer\" target=\"_blank\">renewed collaboration</a> between the school\u2019s radio and chess clubs. \u201cYou don\u2019t need much of a communication channel to play chess.\u201d</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Two hand-drawn grids labeled \\u201ccheckers\\u201d and \\u201ccheckers &amp; chess,\\u201d with numbers in different squares. \" class=\"rm-shortcode\" id=\"2e716\" src=\"https://spectrum.ieee.org/media-library/two-hand-drawn-grids-labeled-u201ccheckers-u201d-and-u201ccheckers-chess-u201d-with-numbers-in-different-squares.jpg?id=62293861&amp;width=980\" /> <small class=\"image-media media-caption\">To represent the positions on their telegraph chess board, Alfred Vail and Henry Rogers assigned a unique number to each of the 64 squares.</small><small class=\"image-media media-photo-credit\"><a href=\"https://siarchives.si.edu/collections/siris_arc_217214\" target=\"_blank\">Smithsonian Institution Archives</a></small></p><p>Vail\u2019s book logs the moves for two of the chess games, and both accounts include an illegal move\u2014probably errors that were introduced later. The accounts in Vail\u2019s telegraphic journal, on the other hand, appear accurate, and even include a real-time correction of one move.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"A list titled First Game of Chess that records the chess moves made by the W, for white, player and the B, for black, player. \" class=\"rm-shortcode\" id=\"33085\" src=\"https://spectrum.ieee.org/media-library/a-list-titled-first-game-of-chess-that-records-the-chess-moves-made-by-the-w-for-white-player-and-the-b-for-black-player.jpg?id=62293864&amp;width=980\" /> <small class=\"image-media media-caption\">In the first game of telegraph chess, White was defeated.</small><small class=\"image-media media-photo-credit\"><a href=\"https://archive.org/details/bub_gb_PGw8AAAAYAAJ/page/n1/mode/2up\" target=\"_blank\">Google Books</a></small></p><p>In Vail\u2019s journal, Washington claims the white pieces, but close examination shows that Washington either played the first move as black, or the board was mirrored left to right. At the time, the white pieces did not always take the<a href=\"https://new.uschess.org/news/evolution-modern-chess-rules-white-moves-first\" target=\"_blank\"> first move</a>. The sides also agreed to a limit of 10 minutes per move, even though time controls weren\u2019t common in chess, and the chess clock had not yet been invented. And while Vail wanted \u201cfirst rate players,\u201d McCrary calls the overall play weak, with a poor understanding of the long-term planning needed to coordinate all of the pieces. Both teams also made tactical errors. For example, in the second game, Washington overlooked that one of their pawns was overworked defending two other pieces simultaneously, watched as Baltimore captured one of the pieces, and elected not to retaliate in order to continue defending a more valuable knight. \u201cEven with changing conventions of that time, what was there in the description was atypical,\u201d says McCrary.</p><p class=\"ieee-inbody-related\">RELATED: <a href=\"https://spectrum.ieee.org/chess-computer-1920\" target=\"_self\">This 1920 Chess Automaton Was Wired to Win</a></p><p>The teams took a break during the first game and then reconvened on 28 November. With a pawn in position to advance to the last row, where it would be \u201cpromoted\u201d\u2014that is, replaced by a more dangerous piece of the player\u2019s choice\u2014Baltimore swept in with its queen and readied checkmate in one move. Unable to salvage the game, Washington resigned. \u201cHa ha,\u201d wrote Rogers. \u201cHa ha,\u201d responded Vail.</p><p>There is no record of overall standings, and no winner was declared between the two cities after all games had been played.</p><h2>The Tech of Telegraph Chess</h2><p>By today\u2019s standards, the hardware that relayed the moves was relatively simple, mainly consisting of a battery, a switch, and a magnet. \u201cIt\u2019s not all that different from a doorbell,\u201d says <a href=\"https://www.albany.edu/history/faculty/david-hochfelder\" target=\"_blank\">David Hochfelder</a>, a historian at the <a href=\"https://www.albany.edu/\" target=\"_blank\">State University of New York at Albany</a> who has studied the <a href=\"https://www.press.jhu.edu/books/title/3173/telegraph-america-1832-1920\" target=\"_blank\">early American telegraph</a>.</p><p>Laying the line between the two cities had been difficult, with costly delays after failed attempts to bury the cable and to use cheaper noninsulated wire. Eventually, overhead insulated copper wire was strung the distance between poles.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Black and white photo of a tabletop apparatus with metal gears.\" class=\"rm-shortcode\" id=\"d725b\" src=\"https://spectrum.ieee.org/media-library/black-and-white-photo-of-a-tabletop-apparatus-with-metal-gears.jpg?id=62293867&amp;width=980\" /> <small class=\"image-media media-caption\">On 24 May 1844, this telegraph register received the first message sent by telegraph: \u201cWhat hath God wrought.\u201d</small><small class=\"image-media media-photo-credit\">AP</small></p><p>Years before the chess match, Morse had considered a messaging system that used only numbers, which corresponded to set words or phrases listed in a code book. But he soon realized that a practical communications service would need an alphabetic component to spell out proper names.</p><p>This led to Morse\u2019s eponymous code, which assigns a series of short and long signals to different alphanumeric characters. By tapping on a key, telegraph operators would interrupt a battery-powered current that ran the length of the telegraph wire. At the other end, an electromagnet moved a stylus, pen, or pencil, to mark a piece of paper with the corresponding dots and dashes, which an operator would then read. (The sounder, which turned the signals into audible sounds, hadn\u2019t yet been invented.)</p><p class=\"ieee-inbody-related\">Related: <a href=\"https://spectrum.ieee.org/morse-codes-vanquished-competitor-the-dial-telegraph\" target=\"_self\">Morse Code\u2019s Vanquished Competitor: The Dial Telegraph</a></p><p>During the chess games, the telegraph operators occasionally asked each other how many people were in the room. At times, a dozen kibitzers looked on. At others, only the rotating cast of chess players and telegraph operators was present.</p><h2>Telegraph Chess Moves On</h2><p>The Baltimore\u2013Washington telegraph line was an immediate hit with a general public that embraced popular science through lectures and popular books and magazines. <em><em>Scientific American</em></em> was founded in 1845, for example. But people were more curious to see the telegraph at work than they were to use its services, even though the line operated <a href=\"https://www.scientificamerican.com/article/first-week-of-the-telegraph/\" target=\"_blank\">free of charge</a> for the first year. \u201cOperators tended to show its capabilities rather than handling actual message traffic,\u201d says Hochfelder.</p><p>The lack of activity is sometimes evident in the telegraph journal. Many of the messages are purely functional (\u201cI am ready,\u201d \u201cstop 30 minutes\u201d); simple greetings; notifications of letters sent and received; or requests for daily newspapers. The Baltimore end of the telegraph was in the Mt. Clare station of the <a href=\"https://preservationmaryland.org/this-day-in-history-chartering-of-the-bo-railroad/\" target=\"_blank\">B&amp;O railroad</a>, and the telegraph line ran alongside the tracks. Mail delivered by train took half a day door to door, says Hochfelder, and the telegraph offered little practical advantage.</p><p>On 5 December 1844, Rogers wrote to Vail:</p><p>\u201cI hear from several sources that we are making rather an unfavorable impression with the religious part of the community, and I am under the impression if we continue after the present party is through that we will be injured more than any benefit might or can be derived from it.\u201d</p><p>The exact nature of the religious community\u2019s complaint with telegraph chess is unclear.</p><p>Although Morse wrote to Vail on the day of the first chess game that he \u201cwas much pleased with your game of drafts,\u201d he came to feel that chess was too <a href=\"https://atlantic-cable.com/Article/1926CableChess/index.htm\" target=\"_blank\">frivolous</a> for the telegraph, as noted by the chess writer Tim Harding in his <a href=\"https://mcfarlandbooks.com/product/correspondence-chess-in-britain-and-ireland-1824-1987/\" target=\"_blank\"><em><em>Correspondence Chess in Britain and Ireland, 1824\u20131987</em></em></a> (McFarland, 2011)<em><em>.</em></em> Whatever the reasons, it appears that after 17 December 1844, no more chess was played on the line. And in the end, Congress didn\u2019t fund a telegraphic connection to New York, nor did it acquire perpetual rights to the telegraph, in part because Morse\u2019s business partner had other designs, says Hochfelder. The Baltimore\u2013Washington line operated under the auspices of the <a href=\"https://about.usps.com/who-we-are/postal-history/telegraph.pdf\" target=\"_blank\">Postal Service</a> from 1845 to 1847, when funding ended.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Two black and white photos. On the left, a man in a suit moves a piece on a chess board. On the left the man holds a printout coming from a teletype machine, while another man stands next to him. \" class=\"rm-shortcode\" id=\"21deb\" src=\"https://spectrum.ieee.org/media-library/two-black-and-white-photos-on-the-left-a-man-in-a-suit-moves-a-piece-on-a-chess-board-on-the-left-the-man-holds-a-printout-co.jpg?id=62293885&amp;width=980\" /> <small class=\"image-media media-caption\">When U.S. chess grandmaster Bobby Fischer was prevented from attending an international tournament in Havana, his moves were relayed via teletype.</small><small class=\"image-media media-photo-credit\"> Left: Everett Collection Historical/Alamy; Right: Smith Archive/Alamy</small></p><p>After that, the U.S. telegraph thrived in private ventures. Over the next few years, companies built local lines and networks to connect cities across the country. Most notably, Ezra Cornell\u2019s Western Union completed a <a href=\"https://www.nps.gov/articles/000/the-transcontinental-telegraph.htm\" target=\"_blank\">transcontinental telegraph in 1861</a>, and eventually became a monopoly in the United States. Ordinary people rarely used the telegraph, says Hochfelder, but it transformed industries such as finance and journalism.</p><p>Meanwhile, telegraph chess was taken up elsewhere. In 1845, for example, a match between London and Gosport, England, involved inventor <a href=\"https://spectrum.ieee.org/morse-codes-vanquished-competitor-the-dial-telegraph\" target=\"_self\">Charles Wheatstone</a> and chess master Howard Staunton. But it would take another few decades for telechess to become more widespread, with prominent club matches <a href=\"https://atlantic-cable.com/Article/1926CableChess/index.htm\" target=\"_blank\">played over telegraph</a> from the 1890s into the 1920s.</p><p>High-level chess competitions tend to be held in person, but games have been played remotely from time to time. For example, in 1965, U.S. grandmaster Bobby Fischer relayed his moves <a href=\"https://www.youtube.com/watch?v=w0UJ52Gw5W4\" target=\"_blank\">by teletype</a> over telephone lines from New York City to Havana, after the U.S. State Department prevented his attending a tournament there. And in 1999, a couple of years after losing a rematch to the IBM supercomputer <a href=\"https://spectrum.ieee.org/how-ibms-deep-blue-beat-world-champion-chess-player-garry-kasparov\" target=\"_self\">Deep Blue</a>, world champion Garry Kasparov played a promotional game against a team representing \u201cthe world,\u201d which consulted on moves via a <a href=\"https://news.microsoft.com/source/1999/10/25/world-chess-champion-garry-kasparov-defeats-world-team-in-kasparov-vs-the-world-on-msn-com/\" target=\"_blank\">Microsoft forum</a>.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Color photo of a man in a suite sitting next to a computer with a large display of a chess board. \" class=\"rm-shortcode\" id=\"e6618\" src=\"https://spectrum.ieee.org/media-library/color-photo-of-a-man-in-a-suite-sitting-next-to-a-computer-with-a-large-display-of-a-chess-board.jpg?id=62293870&amp;width=980\" /> <small class=\"image-media media-caption\">In a promotional game in 1999, Russian grandmaster Garry Kasparov played an online game against \u201cthe world.\u201d </small><small class=\"image-media media-photo-credit\">Jeff Christensen/Getty Images</small></p><p>Today, the internet has taken telecom chess to fabulous new heights, with one site alone, <a href=\"https://chess.com\" target=\"_blank\">chess.com</a>, often hosting up to 20 million games a day. Indeed, the growth in online play has sometimes <a href=\"https://www.chess.com/blog/CHESScom/chess-is-booming-and-our-servers-are-struggling\" target=\"_blank\">stretched</a> the capacities of the servers and the engineers who maintain them.</p><p>Why have technologists taken the opportunity to play chess using so many generations of telecommunications? It may simply be that chess is popular, and by its nature can actually be played with short messages and perfect information, unlike soccer or poker.</p><p>But is there something more, maybe a natural affinity? \u201cThere are similarities in thinking processes [between] engineering design, and the sort of puzzle solving that a chess game involves,\u201d says Kazdan of Case Western Reserve. The connection may be one-sided. \u201cMany engineers like chess. I\u2019m not sure many chess players like engineering.\u201d <span class=\"ieee-end-mark\"></span></p>"
+      },
+      {
         "id": "0e2da17ff4f45c1a",
         "title": "Why the Most \u201cAccurate\u201d Glucose Monitors Are Failing Some Users",
         "url": "https://spectrum.ieee.org/glucose-monitor-accuracy-user-concerns",
@@ -790,6 +826,24 @@
         "published": "Fri, 28 Nov 2025 13:00:02 +0000",
         "published_dt": "2025-11-28T13:00:02+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-surveillance-camera-collage-with-digital-graphics-overlaying-a-curly-haired-person-and-a-speeding-car.png?id=62219013&amp;width=1200&amp;height=800&amp;coordinates=0%2C22%2C0%2C23\" /><br /><br /><p>For years, <a href=\"https://www.csulb.edu/college-of-liberal-arts/journalism-public-relations/page/dr-gwen-shaffer\" rel=\"noopener noreferrer\" target=\"_blank\">Gwen Shaffer</a> has been leading Long Beach, Calif. residents on \u201cdata walks,\u201d pointing out public Wi-Fi routers, security cameras, smart water meters, and parking kiosks. The goal, according to the professor of journalism and public relations at <a href=\"https://www.csulb.edu/college-of-liberal-arts/journalism-public-relations\" rel=\"noopener noreferrer\" target=\"_blank\">California State University, Long Beach</a>, was to learn <a href=\"https://www.erudit.org/en/journals/survsoc/2025-v23-n2-survsoc010265/1120085ar/abstract/\" rel=\"noopener noreferrer\" target=\"_blank\">how residents felt</a> about the ways in which their city collected data on them.</p><h3>Gwen Shaffer</h3><br /><p><a href=\"https://www.csulb.edu/college-of-liberal-arts/journalism-public-relations/page/dr-gwen-shaffer\" rel=\"noopener noreferrer\" target=\"_blank\">Gwen Shaffer</a> is a professor of journalism and public relations at <a href=\"https://www.csulb.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">California State University, Long Beach</a>. She is the principal investigator on a National Science Foundation\u2013funded project aimed at providing Long Beach residents with greater agency over the personal data their city collects.</p><p>She also identified a critical gap in <a href=\"https://spectrum.ieee.org/smart-city-emergency-response\" target=\"_blank\">smart city</a> design today: While cities may disclose how they collect data, they rarely offer ways to opt out. Shaffer spoke with <em><em>IEEE Spectrum </em></em>about the experience of leading data walks, and about her research team\u2019s efforts to give citizens more control over the data collected by public technologies.</p><p><strong>What was the inspiration for your data walks?</strong></p><p><strong>Gwen Shaffer: </strong>I began facilitating data walks in 2021. I was studying residents\u2019 comfort levels with city-deployed technologies that collect personally identifiable information. My first career as a political reporter has influenced my research approach. I feel strongly about conducting applied rather than theoretical research. And I always go into a study with the goal of helping to solve a real-world challenge and inform policy.</p><p><strong>How did you organize the walks?</strong></p><p><strong>Shaffer: </strong>We posted data privacy labels with a QR code that residents can scan and find out how their data are being used. Downtown, they\u2019re in Spanish and English. In <a href=\"https://en.wikipedia.org/wiki/Cambodia_Town,_Long_Beach,_California\" rel=\"noopener noreferrer\" target=\"_blank\">Cambodia Town</a>, we did them in Khmer and English.</p><p><strong>What happened during the walks?</strong></p><p><strong>Shaffer: </strong>I\u2019ll give you one example. In a couple of the city-owned parking garages, there are <a href=\"https://spectrum.ieee.org/privacy-concerns-grow-as-us-police-departments-turn-to-license-plate-readers\" target=\"_blank\">automated license-plate readers</a> at the entrance. So when I did the data walks, I talked to our participants about how they feel about those scanners. Because once they have your license plate, if you\u2019ve parked for fewer than two hours, you can breeze right through. You don\u2019t owe money.</p><p>Responses were contextual and sometimes contradictory. There were residents who said, \u201cOh, yeah. That\u2019s so convenient. It\u2019s a time saver.\u201d So I think that shows how residents are willing to make trade-offs. Intellectually, they hate the idea of the privacy violation, but they also love convenience.</p><p><strong>What surprised you most?</strong></p><p><strong>Shaffer: </strong>One of the participants said, \u201cWhen I go to the airport, I can opt out of the facial scan and still be able to get on the airplane. But if I want to participate in so many activities in the city and not have my data collected, there\u2019s no option.\u201d</p><p>There was a<a href=\"https://www.hipaajournal.com/city-of-long-beach-ca-cyberattack/\" rel=\"noopener noreferrer\" target=\"_blank\"> cyberattack against the city in November 2023</a>. Even though we didn\u2019t have a prompt asking about it, people brought it up on their own in almost every focus group. One said, \u201cI would never connect to public Wi-Fi, especially after the city of Long Beach\u2019s site was hacked.\u201d</p><p><strong>What is the app your team is developing?</strong></p><p><strong>Shaffer: </strong>Residents want agency. So that\u2019s what led my research team to connect with privacy engineers at <a href=\"https://www.cmu.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">Carnegie Mellon University</a>, in Pittsburgh. <a href=\"https://www.cylab.cmu.edu/directory/bios/sadeh-norman.html\" rel=\"noopener noreferrer\" target=\"_blank\">Norman Sadeh</a> and his team had developed what they called the<a href=\"https://privacyassistant.org/iot/\" rel=\"noopener noreferrer\" target=\"_blank\"> IoT Assistant</a>. So I told them about our project, and proposed adapting their app for city-deployed technologies. Our plan is to give residents the opportunity to exercise their rights under the <a href=\"https://oag.ca.gov/privacy/ccpa\" rel=\"noopener noreferrer\" target=\"_blank\">California Consumer Privacy Act</a> with this app. So they could say, \u201c<a href=\"https://www.passportinc.com/faq/\" rel=\"noopener noreferrer\" target=\"_blank\">Passport Parking app</a>, delete all the data you\u2019ve already collected on me. And don\u2019t collect any more in the future.\u201d</p><p><em>This article appears in the December 2025 print issue as \u201cGwen Shaffer.\u201d</em></p>"
+      },
+      {
+        "id": "9e25e29d98c1ffc4",
+        "title": "The Download: solar geoengineering\u2019s future, and OpenAI is being sued",
+        "url": "https://www.technologyreview.com/2025/12/11/1129288/the-download-solar-geoengineerings-future-and-openai-is-being-sued/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 11 Dec 2025 13:10:00 +0000",
+        "published_dt": "2025-12-11T13:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Solar geoengineering startups are getting serious Solar geoengineering aims to manipulate the climate by bouncing sunlight back into space. In theory, it could ease global warming. But as interest in the idea grows,&#8230;"
+      },
+      {
+        "id": "b36f99df6c35406d",
+        "title": "Solar geoengineering startups are getting serious",
+        "url": "https://www.technologyreview.com/2025/12/11/1129239/solar-geoengineering-startups-are-getting-serious/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 11 Dec 2025 11:00:00 +0000",
+        "published_dt": "2025-12-11T11:00:00+00:00",
+        "summary": "Solar geoengineering aims to manipulate the climate by bouncing sunlight back into space. In theory, it could ease global warming. But as interest in the idea grows, so do concerns about potential consequences. A startup called Stardust Solutions recently raised a $60 million funding round, the largest known to date for a geoengineering startup. My&#8230;"
       },
       {
         "id": "1cf70851e72ab38c",
@@ -853,60 +907,6 @@
         "published": "Mon, 08 Dec 2025 16:30:00 +0000",
         "published_dt": "2025-12-08T16:30:00+00:00",
         "summary": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publications debate one aspect of the generative AI revolution reshaping global power.&#160;You can read the rest of the series here. In this final edition, MIT Technology Review\u2019s senior AI editor Will Douglas&#8230;"
-      },
-      {
-        "id": "3c37cde5ede3e00d",
-        "title": "The Download: four (still) big breakthroughs, and how our bodies fare in extreme heat",
-        "url": "https://www.technologyreview.com/2025/12/08/1128982/the-download-four-still-big-breakthroughs-and-how-our-bodies-fare-in-extreme-heat/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 08 Dec 2025 13:14:00 +0000",
-        "published_dt": "2025-12-08T13:14:00+00:00",
-        "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 4 technologies that didn\u2019t make our 2026 breakthroughs list If you\u2019re a longtime reader, you probably know that our newsroom selects 10 breakthroughs every year that we think&#160;will define the future. This group&#8230;"
-      },
-      {
-        "id": "72ca3ad0832adb31",
-        "title": "4 technologies that didn\u2019t make our 2026 breakthroughs list",
-        "url": "https://www.technologyreview.com/2025/12/08/1128969/2026-breakthroughs-list-leftovers/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 08 Dec 2025 12:00:00 +0000",
-        "published_dt": "2025-12-08T12:00:00+00:00",
-        "summary": "If you\u2019re a longtime reader, you probably know that our newsroom selects 10 breakthroughs every year that we think will define the future. This group exercise is mostly fun and always engrossing, but at times it can also be quite difficult.\u00a0 We collectively pitch dozens of ideas, and the editors meticulously review and debate the&#8230;"
-      },
-      {
-        "id": "ce801a5fdfdda2cd",
-        "title": "Entrepreneurship Program Brings Incubator Ideas to More Countries",
-        "url": "https://spectrum.ieee.org/ieee-entrepreneurship-program-more-countries",
-        "source": "IEEE Spectrum",
-        "published": "Fri, 05 Dec 2025 19:00:02 +0000",
-        "published_dt": "2025-12-05T19:00:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/susan-lau-natasha-main-ryan-ramkhelawan-and-julia-proto-posing-in-front-of-several-international-flags.jpg?id=62282024&amp;width=1200&amp;height=800&amp;coordinates=0%2C83%2C0%2C84\" /><br /><br /><p>Technology evolves rapidly, and innovation is key to business survival, so mentoring young professionals, <a href=\"https://spectrum.ieee.org/lwanga-herbert-qa\" target=\"_blank\">promoting entrepreneurship</a>, and connecting tech startups to a global network of experts and resources are essential.</p><p>Some IEEE volunteers do all of the above and more as part of the <a href=\"https://entrepreneurship.ieee.org/latin-america-region-team-ambassador-program/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Entrepreneurship Ambassador Program</a>.</p><p>The program was launched in 2018 in <a href=\"https://ieeer8.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Region 8</a> (Europe, Middle East, and Africa) thanks to a grant from the <a href=\"https://secure.ieeefoundation.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Foundation</a>. The ambassadors organize networking events with industry representatives to help IEEE young professionals and student members achieve their entrepreneurial endeavors and strengthen their technical, interpersonal, and business skills. The ambassadors also organize pitch competitions in their geographic area.</p><p>The ambassador program launched this year in <a href=\"https://www.ieeer10.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Region 10</a> (Asia Pacific).</p><p>Last year the program was introduced in <a href=\"https://r9.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Region 9</a> (Latin America) with funding from the <a href=\"https://www.ieeefoundation.org/impact/illuminate/taenzer-memorial-fund/\" rel=\"noopener noreferrer\" target=\"_blank\">Taenzer Memorial Fund</a>. The results of the program\u2019s inaugural year were impressive: 13 ambassadors organized events in Bolivia, Brazil, Colombia, Ecuador, Mexico, Panama, Peru, and Uruguay.</p><p>\u201cThe program is beneficial because it connects entrepreneurs with industry professionals, fosters mentorship, helps young professionals <a href=\"https://spectrum.ieee.org/thinking-like-an-entrepreneur\" target=\"_blank\">build leadership skills</a>, and creates opportunities for startup sponsorships,\u201d says <a href=\"https://wie.ieee.org/susana-lau/\" rel=\"noopener noreferrer\" target=\"_blank\">Susana Lau</a>, vice chair of <a href=\"https://entrepreneurship.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Entrepreneurship</a> in Latin America. \u201cThe program has also proven successful in attracting IEEE volunteers to serve as ambassadors and helping to support entrepreneurship and startup ventures.\u201d</p><p>Lau, an IEEE senior member, is a past president of the <a href=\"https://r9.ieee.org/panama/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Panama Section</a> and an active <a href=\"https://wie.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Women in Engineering</a> volunteer.</p><h2>A professional development opportunity</h2><p>People who participated in the Region 9 program say the experience was life-changing, both personally and professionally.</p><p><a href=\"https://www.facebook.com/ieeeENT/posts/2024-best-ambassador-award-winner-pedro-jos%C3%A9-pineda-fern%C3%A1ndez-de-c%C3%B3rdova-is-reco/1089241469909019/\" rel=\"noopener noreferrer\" target=\"_blank\">Pedro Jos\u00e9 Pineda</a>, whose work was recognized with one of the region\u2019s two Top Ambassador Awards, says he\u2019s been able to \u201cexpand international collaborations and strengthen the innovation ecosystem in Latin America.</p><p>\u201cIt\u2019s more than an award,\u201d the IEEE member says. \u201cIt\u2019s an opportunity to create global impact from local action.\u201d</p><p class=\"pull-quote\">\u201cThis remarkable experience has opened new doors for my future career within IEEE, both nationally and globally.\u201d<strong>\u2014Vitor Paiva</strong></p><p>The region\u2019s other Top Ambassador recipient was <a href=\"https://www.linkedin.com/in/vitor-paiva-medeiros-da-cunha-466724223/\" rel=\"noopener noreferrer\" target=\"_blank\">Vitor Paiva</a> of Natal, Brazil. He had the opportunity to attend this year\u2019s <a href=\"https://ieee-risingstars.org/2026/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Rising Stars</a> in Las Vegas\u2014his first international experience outside Brazil.</p><p>After participating in the program, the IEEE student member volunteered with its regional marketing committee.</p><p>\u201cI was proud to showcase Brazil\u2019s IEEE community while connecting with some of IEEE\u2019s most influential leaders,\u201d Paiva, a student at the <a href=\"https://www.ufrn.br/\" rel=\"noopener noreferrer\" target=\"_blank\">Universidade Federal do Rio Grande do Norte</a>, says. \u201cThis remarkable experience has opened new doors for my future career within IEEE, both nationally and globally.\u201d</p><h2>Expanding the initiative</h2><p>The IEEE Foundation says it will invest in the regional programs by funding the grants presented to the winners of the regional pitch competitions, similar to the funding for Region 9. The goal is to hold a worldwide competition, Lau says.</p><p>The ongoing expansion is a testament to the program\u2019s efforts, says <a href=\"https://www.linkedin.com/in/christophergwright\" rel=\"noopener noreferrer\" target=\"_blank\">Christopher G. Wright</a>, senior manager of programs and governance at the IEEE Foundation.</p><p>\u201cI\u2019ve had the pleasure of working on the grants for the IEEE Entrepreneurship Ambassador Program team over the years,\u201d Wright says, \u201cand I am continually impressed by the team\u2019s dedication and the program\u2019s evolution.\u201d</p>To learn more about the program in your region or to apply to become an ambassador, visit the <a href=\"https://entrepreneurship.ieee.org/latin-america-region-team-ambassador-program/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Entrepreneurship website</a> and search for your region."
-      },
-      {
-        "id": "7da590ab0e7e2e55",
-        "title": "Video Friday: Biorobotics Turns Lobster Tails Into Gripper",
-        "url": "https://spectrum.ieee.org/lobster-biorobotics",
-        "source": "IEEE Spectrum",
-        "published": "Fri, 05 Dec 2025 17:30:02 +0000",
-        "published_dt": "2025-12-05T17:30:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/robotic-gripper-with-feather-like-fingers-delicately-holds-a-brown-mushroom-on-a-black-background.jpg?id=62284894&amp;width=1200&amp;height=800&amp;coordinates=154%2C0%2C155%2C0\" /><br /><br /><p><span>Video Friday is your weekly selection of awesome robotics videos, collected by your friends at </span><em>IEEE Spectrum</em><span> robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please </span><a href=\"mailto:automaton@ieee.org?subject=Robotics%20event%20suggestion%20for%20Video%20Friday\">send us your events</a><span> for inclusion.</span></p><h5><a href=\"https://2026.ieee-icra.org/\">ICRA 2026</a>: 1\u20135 June 2026, VIENNA</h5><p>Enjoy today\u2019s videos!</p><div class=\"horizontal-rule\"></div><div><span style=\"display: none;\"> </span></div><blockquote class=\"rm-anchors\" id=\"wmlz2khwjrs\"><em>EPFL scientists have integrated discarded crustacean shells into robotic devices, leveraging the strength and flexibility of natural materials for robotic applications.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://news.epfl.ch/news/bio-hybrid-robots-turn-food-waste-into-functiona-2/\">EPFL</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"rrcxecifj0u\">Finally, a good <a href=\"https://spectrum.ieee.org/humanoid-robots\" target=\"_blank\">humanoid robot</a> demo!</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>Although having said that, I never trust videos demos where it works really well once, and then just pretty well every other time.</p><p>[ <a href=\"https://www.limxdynamics.com/en/oli\">LimX Dynamics</a> ]</p><p>Thanks, Jinyan!</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"fysgitfvvbs\">I understand how these structures work, I really do. But watching something rigid extrude itself from a flexible reel will always seem a little magical.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.eurekalert.org/news-releases/1107385\">AAAS</a> ]</p><p>Thanks, Kyujin!</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"gh7dlaqlsuc\">I\u2019m not sure what \u201cindustrial grade\u201d actually means, but I want robots to be \u201cautomotive grade,\u201d where they\u2019ll easily operate for six months or a year without any maintenance at all.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.pudurobotics.com/en/products/d5\">Pudu Robotics</a> ]</p><p>Thanks, Mandy!</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"rry09dybo4e\">When you start to suspect that your <a href=\"https://spectrum.ieee.org/mobile-ev-charging-robot\" target=\"_blank\">robotic EV charging</a> solution costs more than your car.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.flexiv.com/case-studies/ev_charging_solution\">Flexiv</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"fgcqqycag5s\">Yeah uh if the application for this humanoid is actually making robot parts with a hammer and anvil, then I\u2019d be impressed.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.engineai.com.cn/product-t800\">EngineAI</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"qcdtnfayqxk\"><em>Researchers at Columbia Engineering have designed a robot that can learn a human-like sense of neatness. The researchers taught the system by showing it millions of examples, not teaching it specific instructions. The result is a model that can look at a cluttered tabletop and rearrange scattered objects in an orderly fashion.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://arxiv.org/html/2310.04566v3\">Paper</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"yiyk8gpu9ye\">Why haven\u2019t we seen this sort of thing in humanoid robotics videos yet?</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.inria.fr/en/hucebot\">HUCEBOT</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"qxg2umns0vo\">While I definitely appreciate in-the-field testing, it\u2019s also worth asking to what extent your robot is actually being challenged by the in-the-field field that you\u2019ve chosen.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.deeprobotics.cn/en\">DEEP Robotics</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"44wpylavik0\"><em>Introducing HMND 01 Alpha Bipedal \u2014 autonomous, adaptive, designed for real-world impact. Built in 5 months, walking stably after 48 hours of training.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://thehumanoid.ai/product/\">Humanoid</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"kjjeqzecpcq\">Unitree says that \u201cthis is to validate the overall reliability of the robot\u201d but I really have to wonder how useful this kind of reliability validation actually is.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.unitree.com/\">Unitree</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"fxikqk-izqq\">This University of Pennsylvania GRASP on Robotics Seminar is by Jie Tan from Google DeepMind, on \u201cGemini Robotics: Bringing AI into the Physical World.\u201d</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><blockquote><em>Recent advancements in large multimodal models have led to the emergence of remarkable generalist capabilities in digital domains, yet their translation to physical agents such as robots remains a significant challenge. In this talk, I will present Gemini Robotics, an advanced Vision-Language-Action (VLA) generalist model capable of directly controlling robots. Furthermore, I will discuss the challenges, learnings and future research directions on robot foundation models.</em></blockquote><p>[ <a href=\"https://www.grasp.upenn.edu/events/fall-2025-grasp-on-robotics-jie-tan/\">University of Pennsylvania GRASP Laboratory</a> ]</p><div class=\"horizontal-rule\"></div>"
-      },
-      {
-        "id": "6aa2cbaa3c69ca7e",
-        "title": "Harnessing human-AI collaboration for an AI roadmap that moves beyond pilots",
-        "url": "https://www.technologyreview.com/2025/12/05/1128730/harnessing-human-ai-collaboration-for-an-ai-roadmap-that-moves-beyond-pilots/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 05 Dec 2025 15:00:00 +0000",
-        "published_dt": "2025-12-05T15:00:00+00:00",
-        "summary": "The past year has marked a turning point in the corporate AI conversation. After a period of eager experimentation, organizations are now confronting a more complex reality: While investment in AI has never been higher, the path from pilot to production remains elusive. Three-quarters of enterprises remain stuck in experimentation mode, despite mounting pressure to&#8230;"
-      },
-      {
-        "id": "504233fbaeb22111",
-        "title": "Are We Testing AI\u2019s Intelligence the Wrong Way?",
-        "url": "https://spectrum.ieee.org/melanie-mitchell",
-        "source": "IEEE Spectrum",
-        "published": "Thu, 04 Dec 2025 23:30:02 +0000",
-        "published_dt": "2025-12-04T23:30:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/an-illustration-of-a-scientist-pointing-to-a-meter-on-a-brain-the-background-is-circuitry.jpg?id=62282615&amp;width=1200&amp;height=800&amp;coordinates=62%2C0%2C63%2C0\" /><br /><br /><p><span>When people want a clear-eyed take on the state of artificial intelligence and what it all means, they tend to turn to </span><a href=\"https://melaniemitchell.me/\" target=\"_blank\">Melanie Mitchell</a><span>, a computer scientist and a </span><a href=\"https://santafe.edu/people/profile/melanie-mitchell\" target=\"_blank\">professor</a><span> at the Santa Fe Institute. Her 2019 book, <em><a href=\"https://melaniemitchell.me/aibook/\" target=\"_blank\">Artificial Intelligence: A Guide for Thinking Humans</a></em>, helped define the modern conversation about what today\u2019s AI systems can and can\u2019t do.</span></p> <p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"A smiling bespectacled woman with shoulder length brown hair.\" class=\"rm-shortcode\" id=\"66ed8\" src=\"https://spectrum.ieee.org/media-library/a-smiling-bespectacled-woman-with-shoulder-length-brown-hair.jpg?id=62282625&amp;width=980\" /> <small class=\"image-media media-caption\">Melanie Mitchell</small></p><p><span>Today </span><span>at NeurIPS, the year\u2019s biggest gathering of AI professionals, she gave a </span><a href=\"https://neurips.cc/virtual/2025/loc/san-diego/invited-talk/109607\" target=\"_blank\">keynote</a><span> titled </span><span>\u201cOn the Science of \u2018</span><span>Alien Intelligences\u2019</span><span>: Evaluating Cognitive Capabilities in Babies, Animals, and AI.\u201d</span><span> </span><span>Ahead of the talk, she spoke with </span><em>IEEE Spectrum</em><span> about </span><span>its</span><span> themes: W</span><span>hy today\u2019s AI systems should be studied more like nonverbal minds, what developmental and comparative psychology can teach AI researchers, and how better experimental methods could reshape the way we measure machine cognition.</span></p><p><strong>You use the phrase \u201calien intelligences\u201d for both AI and biological minds like babies and animals. What do you mean by that?</strong></p><p><strong>Melanie Mitchell:</strong> Hopefully you noticed the quotation marks around \u201calien intelligences.\u201d I\u2019m quoting from a paper by [the neural network pioneer] <a href=\"https://www.salk.edu/scientist/terrence-sejnowski/\" target=\"_blank\">Terrence Sejnowski</a> where he talks about ChatGPT as <a href=\"https://papers.cnl.salk.edu/PDFs/Large%20Language%20Models%20and%20the%20Reverse%20Turing%20Test%202023-4640.pdf\" target=\"_blank\">being like a space alien</a> that can communicate with us and seems intelligent. And then there\u2019s another paper by the developmental psychologist <a href=\"https://web.stanford.edu/~mcfrank/\" target=\"_blank\">Michael Frank</a> who plays on that theme and says, <a href=\"https://www.nature.com/articles/s44159-023-00211-x\" target=\"_blank\">we in developmental psychology study alien intelligences</a>, namely babies. And we have some methods that we think may be helpful in analyzing AI intelligence. So that\u2019s what I\u2019m playing on.</p><p><strong>When people talk about evaluating intelligence in AI, what kind of intelligence are they trying to measure? Reasoning or abstraction or world modeling or something else?</strong></p><p><strong>Mitchell:</strong> All of the above. People mean different things when they use the word intelligence, and intelligence itself has all these different dimensions, as you say. So, I used the term cognitive capabilities, which is a little bit more specific. I\u2019m looking at how different cognitive capabilities are evaluated in developmental and comparative psychology and trying to apply some principles from those fields to AI.</p><h2>Current Challenges in Evaluating AI Cognition</h2><p><strong>You say that the field of AI lacks good experimental protocols for evaluating cognition. What does AI evaluation look like today?</strong></p><p><strong>Mitchell:</strong> The typical way to evaluate an AI system is to have some set of <a href=\"https://spectrum.ieee.org/tag/benchmarks\" target=\"_blank\">benchmarks</a>, and to run your system on those benchmark tasks and report the accuracy. But often it turns out that even though these AI systems we have now are just killing it on benchmarks, they\u2019re surpassing humans, that performance doesn\u2019t often translate to performance in the real world. If an AI system aces the bar exam, that doesn\u2019t mean it\u2019s going to be a good lawyer in the real world. Often the machines are doing well on those particular questions but can\u2019t generalize very well. Also, tests that are designed to assess humans make assumptions that aren\u2019t necessarily relevant or correct for AI systems, about things like how well a system is able to memorize.</p><p>As a computer scientist, I didn\u2019t get any training in experimental methodology. Doing experiments on AI systems has become a core part of evaluating systems, and most people who came up through computer science haven\u2019t had that training.</p><p><strong>What do developmental and comparative psychologists know about probing cognition that AI researchers should know too?</strong></p><p><strong>Mitchell:</strong> There\u2019s all kinds of experimental methodology that you learn as a student of psychology, especially in fields like developmental and comparative psychology because those are nonverbal agents. You have to really think creatively to figure out ways to probe them. So they have all kinds of methodologies that involve very careful control experiments, and making lots of variations on stimuli to check for robustness. They look carefully at failure modes, why the system [being tested] might fail, since those failures can give more insight into what\u2019s going on than success.</p><p><strong>Can you give me a concrete example of what these experimental methods look like in developmental or comparative psychology?</strong></p><p><strong>Mitchell:</strong> One classic example is <a href=\"https://en.wikipedia.org/wiki/Clever_Hans\" target=\"_blank\">Clever Hans</a>. There was this horse, Clever Hans, who seemed to be able to do all kinds of arithmetic and counting and other numerical tasks. And the horse would tap out its answer with its hoof. For years, people studied it and said, \u201cI think it\u2019s real. It\u2019s not a hoax.\u201d But then <a href=\"https://en.wikipedia.org/wiki/Oskar_Pfungst\" target=\"_blank\">a psychologist</a> came around and said, \u201cI\u2019m going to think really hard about what\u2019s going on and do some control experiments.\u201d And his control experiments were: first, put a blindfold on the horse, and second, put a screen between the horse and the question asker. Turns out if the horse couldn\u2019t see the question asker, it couldn\u2019t do the task. What he found was that the horse was actually perceiving very subtle facial expression cues in the asker to know when to stop tapping. So it\u2019s important to come up with alternative explanations for what\u2019s going on. To be skeptical not only of other people\u2019s research, but maybe even of your own research, your own favorite hypothesis. I don\u2019t think that happens enough in AI.</p><p><strong>Do you have any case studies from research on babies?</strong></p><p><strong>Mitchell:</strong> I have one case study where babies were <a href=\"https://www.nature.com/articles/nature06288.epdf?sharing_token=NaXcdNfjn_ktn5ri3QG45tRgN0jAjWel9jnR3ZoTv0O8aD3KLw-45u9i6UpdAHsxWqm0w4l5z_rcCGu3oMzrydMb---fq01I0LBO5y_TRS_vrnUazfwqqCeiiPTOnsikTBil18Nzkcus3pGuA01UVQr-9DWge0nHwMu5X8gIJgjH90R2IqNR_-8WhIWaEnYnrp4uNLHP54XXfeAQ8FDjt23U-hFVTZg4liviDOMhx5rlatVpfpWvuJ20bMzUGaM8lAw7Q5ccGolZw_BrVmTM6frTBEOkijW7qIckKcTNQdT8gIkRtC2pNc_WiQDIENEvqe2L2Ko_9sZIOkJNoC3Qlg%3D%3D&amp;tracking_referrer=www.smithsonianmag.com\" target=\"_blank\">claimed to have an innate moral sense</a>. The experiment showed them videos where there was a cartoon character trying to climb up a hill. In one case there was another character that helped them go up the hill, and in the other case there was a character that pushed them down the hill. So there was the helper and the hinderer. And the babies were assessed as to which character they liked better\u2014and they had a couple of ways of doing that\u2014and overwhelmingly they liked the helper character better. [Editor's note: The babies were 6 to 10 months old, and assessment techniques included seeing whether the babies reached for the helper or the hinderer.]</p><p>But another research group looked very carefully at these videos and found that in all of the helper videos, the climber who was being helped was excited to get to the top of the hill and bounced up and down. And so they said, \u201cWell, what if in the hinderer case we have the climber bounce up and down at the bottom of the hill?\u201d And that <a href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0042698\" target=\"_blank\">completely turned around the results</a>. The babies always chose the one that bounced.</p><p>Again, coming up with alternatives, even if you have your favorite hypothesis, is the way that we do science. One thing that I\u2019m always a little shocked by in AI is that people use the word skeptic as a negative: \u201cYou\u2019re an LLM skeptic.\u201d But our job is to be skeptics, and that should be a compliment.</p><h2>Importance of Replication in AI Studies</h2><p><strong>Both those examples illustrate the theme of looking for counter explanations. Are there other big lessons that you think AI researchers should draw from psychology?</strong></p><p><strong>Mitchell:</strong> Well, in science in general the idea of replicating experiments is really important, and also building on other people\u2019s work. But that\u2019s sadly a little bit frowned on in the AI world. If you submit a paper to NeurIPS, for example, where you replicated someone\u2019s work and then you do some incremental thing to understand it, the reviewers will say, \u201cThis lacks novelty and it\u2019s incremental.\u201d That\u2019s the kiss of death for your paper. I feel like that should be appreciated more because that\u2019s the way that good science gets done.</p><p><strong>Going back to measuring cognitive capabilities of AI, there\u2019s lots of talk about how we can </strong><a href=\"https://spectrum.ieee.org/agi-benchmark\" target=\"_self\"><strong>measure progress towards AGI</strong></a><strong>. Is that a whole other batch of questions?</strong></p><p><strong>Mitchell:</strong> Well, the term AGI is a little bit nebulous. People define it in different ways. I think it\u2019s hard to measure progress for something that\u2019s not that well defined. And our conception of it keeps changing, partially in response to things that happen in AI. In the old days of AI, people would talk about human-level intelligence and robots being able to do all the physical things that humans do. But people have looked at robotics and said, \u201cWell, okay, it\u2019s not going to get there soon. Let\u2019s just talk about what people call the cognitive side of intelligence,\u201d which I don\u2019t think is really so separable. So I am a bit of an AGI skeptic, if you will, in the best way.</p>"
       }
     ]
   }
