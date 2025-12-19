@@ -1,123 +1,105 @@
 {
-  "generated_at": "2025-12-18T12:56:16.891418+00:00",
+  "generated_at": "2025-12-19T12:54:42.403320+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "8704485d3430d4cd",
-        "title": "STAT+: LA fires mixed wild and urban fuel \u2014 and reasons for ER visits",
-        "url": "https://www.statnews.com/2025/12/18/health-news-la-fires-er-smoke-risk/?utm_campaign=rss",
+        "id": "0c4a9db16ddbcb1e",
+        "title": "STAT+: FDA voucher program has become vehicle for political interference in drug review decisions, staffers say",
+        "url": "https://www.statnews.com/2025/12/19/fda-voucher-program-political-interference/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Thu, 18 Dec 2025 12:54:31 +0000",
-        "published_dt": "2025-12-18T12:54:31+00:00",
-        "summary": "And more health news from the Morning Rounds newsletter"
+        "published": "Fri, 19 Dec 2025 09:30:00 +0000",
+        "published_dt": "2025-12-19T09:30:00+00:00",
+        "summary": "Two government officials told STAT that the White House has been involved in final decisions about the FDA's new priority review voucher program for drug companies."
       },
       {
-        "id": "16e5fa91eb01db4d",
-        "title": "The 8 worst technology flops of 2025",
-        "url": "https://www.technologyreview.com/2025/12/18/1130106/the-8-worst-technology-flops-of-2025/",
+        "id": "8687cb44073739ca",
+        "title": "STAT+: U.K.\u2019s state-owned investment bank shows up in the U.S., eager to spend on biotech",
+        "url": "https://www.statnews.com/2025/12/19/uk-biotech-life-sciences-investment/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 19 Dec 2025 09:30:00 +0000",
+        "published_dt": "2025-12-19T09:30:00+00:00",
+        "summary": "The U.K. government wants to boost the local life sciences industry, and it hopes to entice American venture capital firms to help."
+      },
+      {
+        "id": "b2ccc86fdc7e206b",
+        "title": "Opinion: STAT+: I\u2019m the former head of Pfizer R&D. I\u2019m very worried about biopharma\u2019s future",
+        "url": "https://www.statnews.com/2025/12/19/pharmaceutical-industry-future-rfk-jr-trump/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 19 Dec 2025 09:30:00 +0000",
+        "published_dt": "2025-12-19T09:30:00+00:00",
+        "summary": "The New York Times once called John Lamattina, then Pfizer head of R&#038;D, \u201cDr. Optimistic.\u201d He\u2019s not so optimistic now."
+      },
+      {
+        "id": "53a842af884b1160",
+        "title": "Opinion: 5 lessons for U.S. research funding from the AIDS crisis",
+        "url": "https://www.statnews.com/2025/12/19/aids-research-federal-funding-cuts-lessons/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 19 Dec 2025 09:30:00 +0000",
+        "published_dt": "2025-12-19T09:30:00+00:00",
+        "summary": "Here are five things that actually work when there\u2019s no federal funding for critical research."
+      },
+      {
+        "id": "467aefa3ee6c5da0",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/after-hhs-funding-was-scrapped-cepi-fronts-54m-carry-modernas-pandemic-influenza-vaccine-ph\" hreflang=\"en\">After HHS funding was scrapped, CEPI fronts up to $54M to carry Moderna's pandemic influenza vaccine into phase 3</a>",
+        "url": "https://www.fiercebiotech.com/biotech/after-hhs-funding-was-scrapped-cepi-fronts-54m-carry-modernas-pandemic-influenza-vaccine-ph",
+        "source": "Fierce Biotech",
+        "published": "Dec 18, 2025 9:09am",
+        "published_dt": "2025-12-18T09:09:00+00:00",
+        "summary": "The Coalition for Epidemic Preparedness Innovations\u2014already engaged in a strategic partnership with Moderna\u2014has agreed to plug up to $54.3 million into a pivotal phase 3 trial for mRNA-1018, Moderna\u2019s mRNA-based H5 pandemic influenza vaccine candidate."
+      },
+      {
+        "id": "5a22ebd49a052fbe",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/takeda-looks-2026-fda-filing-its-sotyktu-rival-zasocitinib-after-phase-3-success\" hreflang=\"en\">Takeda looks to 2026 FDA filing for its Sotyktu rival zasocitinib after phase 3 success </a>",
+        "url": "https://www.fiercebiotech.com/biotech/takeda-looks-2026-fda-filing-its-sotyktu-rival-zasocitinib-after-phase-3-success",
+        "source": "Fierce Biotech",
+        "published": "Dec 18, 2025 3:42am",
+        "published_dt": "2025-12-18T03:42:00+00:00",
+        "summary": "Takeda\u2019s closely watched and highly valued dermatology pill zasocitinib has won out in two key phase 3 trials as the Japanese pharma looks to file the drug in the U.S. next year."
+      },
+      {
+        "id": "f0bffe2927b130a0",
+        "title": "CDC awards grant to controversial Danish researchers with ties to top FDA official",
+        "url": "https://www.statnews.com/2025/12/18/cdc-grant-controversial-researchers-ties-to-tracy-beth-hoeg/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 18 Dec 2025 23:05:50 +0000",
+        "published_dt": "2025-12-18T23:05:50+00:00",
+        "summary": "CDC awards grant to controversial Danish researchers with ties to top FDA official Tracy Beth H\u00f8eg."
+      },
+      {
+        "id": "6ac3bd587f944ecf",
+        "title": "Take our quiz on the year in health and biotechnology",
+        "url": "https://www.technologyreview.com/2025/12/18/1130140/take-our-quiz-on-the-year-in-health-and-biotechnology/",
         "source": "MIT Technology Review",
-        "published": "Thu, 18 Dec 2025 12:00:00 +0000",
-        "published_dt": "2025-12-18T12:00:00+00:00",
-        "summary": "Welcome to our annual list of the worst, least successful, and simply dumbest technologies of the year. This year, politics was a recurring theme. Donald Trump swept back into office and used his executive pen to reshape the fortunes of entire sectors, from renewables to cryptocurrency. The wrecking-ball act began even before his inauguration, when&#8230;"
+        "published": "Thu, 18 Dec 2025 16:59:02 +0000",
+        "published_dt": "2025-12-18T16:59:02+00:00",
+        "summary": "In just a couple of weeks, we\u2019ll be bidding farewell to 2025. And what a year it has been! Artificial intelligence is being incorporated into more aspects of our lives, weight-loss drugs have expanded in scope, and there have been some real \u201comg\u201d biotech stories from the fields of gene therapy, IVF, neurotech, and more.&#160;&#160;&#160;&#8230;"
       },
       {
-        "id": "0585736d5a1d3160",
-        "title": "STAT+: Eli Lilly\u2019s obesity pill helped patients maintain weight loss after switch from injections",
-        "url": "https://www.statnews.com/2025/12/18/eli-lilly-obesity-pill-orforglipron-maintain-weight-loss/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 18 Dec 2025 11:45:00 +0000",
-        "published_dt": "2025-12-18T11:45:00+00:00",
-        "summary": "Eli Lilly's obesity pill helped patients maintain weight loss after they switched from injectable drugs, outcomes that could widen the appeal of the pill."
+        "id": "3c27fe30954c03aa",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/patient-deaths-prompt-partial-hold-daiichi-mercks-global-phase-3-adc-program\" hreflang=\"en\">Patient deaths prompt partial hold for Daiichi-Merck\u2019s global phase 3 ADC program  </a>",
+        "url": "https://www.fiercebiotech.com/biotech/patient-deaths-prompt-partial-hold-daiichi-mercks-global-phase-3-adc-program",
+        "source": "Fierce Biotech",
+        "published": "Dec 18, 2025 11:02am",
+        "published_dt": "2025-12-18T11:02:00+00:00",
+        "summary": "Daiichi Sankyo and Merck &amp; Co.\u2019s phase 3 program for their investigational antibody-drug conjugate has been hit with a hold after an unexpected number of deaths were reported in the global trial."
       },
       {
-        "id": "b4e0f2f070bda2ac",
-        "title": "STAT+: Biotech, growing up, is turning profitable",
-        "url": "https://www.statnews.com/2025/12/18/biotech-growing-up-is-turning-profitable/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 18 Dec 2025 11:30:00 +0000",
-        "published_dt": "2025-12-18T11:30:00+00:00",
-        "summary": "The biotech sector is turning profitable, reaching an inflection point that generalist investors will notice."
+        "id": "5f886123dc94acad",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/boehringer-walks-away-nxeras-phase-2-ready-schizophrenia-program\" hreflang=\"en\">Boehringer walks away from Nxera's phase 2-ready schizophrenia program</a>",
+        "url": "https://www.fiercebiotech.com/biotech/boehringer-walks-away-nxeras-phase-2-ready-schizophrenia-program",
+        "source": "Fierce Biotech",
+        "published": "Dec 19, 2025 4:43am",
+        "published_dt": "2025-12-19T04:43:00+00:00",
+        "summary": "Boehringer Ingelheim has turned down its chance to license Nxera Pharma\u2019s phase 2-ready schizophrenia drug candidate, depriving the Japanese drugmaker of a 60 million euro ($70 million) option payment."
       },
       {
-        "id": "71f71858ba3087f4",
-        "title": "Can AI really help us discover new materials?",
-        "url": "https://www.technologyreview.com/2025/12/18/1130102/ai-materials-discovery/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 18 Dec 2025 11:00:00 +0000",
-        "published_dt": "2025-12-18T11:00:00+00:00",
-        "summary": "Judging from headlines and social media posts in recent years, one might reasonably assume that AI is going to fix the power grid, cure the world\u2019s diseases, and finish my holiday shopping for me. But maybe there\u2019s just a whole lot of hype floating around out there. This week, we published a new package called&#8230;"
-      },
-      {
-        "id": "9127fd03dce6782a",
-        "title": "STAT+: Hospitals owned by real estate investors more likely to close or go bankrupt",
-        "url": "https://www.statnews.com/2025/12/18/hospitals-acquired-reits-more-likely-close-go-bankrupt/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 18 Dec 2025 10:30:00 +0000",
-        "published_dt": "2025-12-18T10:30:00+00:00",
-        "summary": "Hospitals owned by real estate investors more likely to close or go bankrupt, new study finds."
-      },
-      {
-        "id": "ccbae892c564af62",
-        "title": "STAT+: Employers drop coverage for weight loss drugs as pharma\u2019s direct-to-consumer programs grow",
-        "url": "https://www.statnews.com/2025/12/18/weight-loss-drugs-wegovy-zepbound-health-plans/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 18 Dec 2025 09:30:00 +0000",
-        "published_dt": "2025-12-18T09:30:00+00:00",
-        "summary": "Doctors and groups representing employers said they\u2019re increasingly hearing about companies cutting weight loss drugs out of health plans next year."
-      },
-      {
-        "id": "bde148495d9d0f8e",
-        "title": "Opinion: New York Giants team doctor: Clinics offering \u2018miracle injections,\u2019 \u2018next generation cell therapies\u2019 are selling false hope",
-        "url": "https://www.statnews.com/2025/12/18/regenerative-medicine-stem-cells-miracles-giants/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 18 Dec 2025 09:30:00 +0000",
-        "published_dt": "2025-12-18T09:30:00+00:00",
-        "summary": "\u201cAs head team physician for the New York Giants, I routinely have athletes asking about supposed \u2018breakthrough\u2019 stem cell treatments,\u201d writes Scott Rodeo."
-      },
-      {
-        "id": "5d4e86ad9cb2e425",
-        "title": "Opinion: What I\u2019ve learned by mapping the impacts of NIH cuts",
-        "url": "https://www.statnews.com/2025/12/18/nih-cuts-impacts-future-analysis/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 18 Dec 2025 09:30:00 +0000",
-        "published_dt": "2025-12-18T09:30:00+00:00",
-        "summary": "The co-founder of SCIMaP looks at the year of NIH cuts \u2014 and what they say about the future of American research."
-      },
-      {
-        "id": "e2f3fa06c8ef54b7",
-        "title": "As dangerous eugenic ideas spread, NIH falls silent",
-        "url": "https://www.statnews.com/2025/12/18/trump-nih-cuts-nhgri-special-report-american-science-shattered/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 18 Dec 2025 09:30:00 +0000",
-        "published_dt": "2025-12-18T09:30:00+00:00",
-        "summary": "Federal research agencies are pulling back from fostering public discussions about science after the hollowing out of government communications offices."
-      },
-      {
-        "id": "bf3c03d804100870",
-        "title": "STAT+: FDA approves brain tumor warning on Depo-Provera label as court battle grows over side effects",
-        "url": "https://www.statnews.com/pharmalot/2025/12/17/fda-pfizer-contraception-cancer-preemption-depoprovera/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 17 Dec 2025 18:52:26 +0000",
-        "published_dt": "2025-12-17T18:52:26+00:00",
-        "summary": "The FDA has approved a change to the labeling for a Pfizer birth control shot that warns patients of the risk of meningioma, a type of tumor."
-      },
-      {
-        "id": "e820349ff6f39d85",
-        "title": "<a href=\"https://www.fiercebiotech.com/cro/lindus-health-and-quotient-team-create-one-stop-shop-early-midstage-trials\" hreflang=\"en\">Lindus Health and Quotient team up to create one-stop shop for early to mid-stage trials</a>",
+        "id": "71507c66503cdd26",
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/lindus-health-and-quotient-team-create-one-stop-shop-early-midstage-trials\" hreflang=\"en\">Lindus Health and Quotient team up to create one-stop shop for early- to midstage trials</a>",
         "url": "https://www.fiercebiotech.com/cro/lindus-health-and-quotient-team-create-one-stop-shop-early-midstage-trials",
         "source": "Fierce Biotech",
         "published": "Dec 17, 2025 2:36pm",
         "published_dt": "2025-12-17T14:36:00+00:00",
         "summary": "Clinical development accelerator Quotient Sciences and CRO Lindus Health are joining forces to create a streamlined process for clients to advance from first-in-human (FIH) to pivotal trials."
-      },
-      {
-        "id": "72e9cfd725e354cf",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about cancer drug trials, Europe\u2019s biotech push, and much more",
-        "url": "https://www.statnews.com/pharmalot/2025/12/17/cancer-gsk-europe-biotech-kenvue-generics-animals-fda/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 17 Dec 2025 14:30:49 +0000",
-        "published_dt": "2025-12-17T14:30:49+00:00",
-        "summary": "Drug trials offer people with cancer hope and free medicine, but they also create incentives for doctors in private clinics to sign up patients for unproven treatments"
       },
       {
         "id": "a4bc1c8859b49b5c",
@@ -147,88 +129,214 @@
         "summary": "After layoffs this fall, Mythic Therapeutics is winding down, while asthma-focused Areteia Therapeutics is reportedly shuttering mere months after reporting a phase 3 win for its oral biologic."
       },
       {
-        "id": "d1e76201c6bdcbd5",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-pays-175m-pitch-its-tent-camp4-regulatory-rna-deal\" hreflang=\"en\">GSK pays $17.5M to pitch its tent with CAMP4 in regulatory RNA deal </a>",
-        "url": "https://www.fiercebiotech.com/biotech/gsk-pays-175m-pitch-its-tent-camp4-regulatory-rna-deal",
-        "source": "Fierce Biotech",
-        "published": "Dec 18, 2025 4:18am",
-        "published_dt": "2025-12-18T04:18:00+00:00",
-        "summary": "GSK is embarking on a journey with CAMP4 Therapeutics, paying $17.5 million upfront to collaborate on regulatory RNA-targeting therapeutics in neurodegenerative and kidney disease indications."
-      },
-      {
-        "id": "f647a84a49bfda26",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/nektar-claims-phase-2-alopecia-success-after-excluding-patients-who-should-never-have-been\" hreflang=\"en\">Nektar claims phase 2 alopecia success after excluding patients who 'should never have been enrolled'</a>",
-        "url": "https://www.fiercebiotech.com/biotech/nektar-claims-phase-2-alopecia-success-after-excluding-patients-who-should-never-have-been",
-        "source": "Fierce Biotech",
-        "published": "Dec 16, 2025 4:26pm",
-        "published_dt": "2025-12-16T16:26:00+00:00",
-        "summary": "Nektar Therapeutics is planning to bring its interleukin-2-targeting drug candidate into a phase 3 trial for severe alopecia areata, even after the asset narrowly missed the main goal of a midstage trial."
-      },
-      {
-        "id": "c6c8d27a8d20fef5",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/aldeyra-dry-eye-disease-candidate-hit-fda-delay-after-shifting-agency-guidance-company-says\" hreflang=\"en\">Aldeyra dry eye disease candidate hit by FDA delay amid shifting agency guidance, biotech says</a>",
-        "url": "https://www.fiercebiotech.com/biotech/aldeyra-dry-eye-disease-candidate-hit-fda-delay-after-shifting-agency-guidance-company-says",
-        "source": "Fierce Biotech",
-        "published": "Dec 16, 2025 11:11am",
-        "published_dt": "2025-12-16T11:11:00+00:00",
-        "summary": "The FDA has delayed an approval decision for Aldeyra Therapeutics\u2019 lead dry eye disease candidate, adding another detour to the candidate\u2019s winding road to potentially reach the market."
-      },
-      {
-        "id": "676f3f67d4c29656",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-opens-door-massive-real-world-datasets-medical-device-submissions\" hreflang=\"en\">FDA opens door to massive real-world datasets in medical device submissions</a>",
-        "url": "https://www.fiercebiotech.com/medtech/fda-opens-door-massive-real-world-datasets-medical-device-submissions",
-        "source": "Fierce Biotech",
-        "published": "Dec 16, 2025 10:52am",
-        "published_dt": "2025-12-16T10:52:00+00:00",
-        "summary": "The agency said the policy change aims to enable the use of more types of massive, deidentified databases, including those from national cancer registries, health systems, insurers and EHR networks."
-      },
-      {
-        "id": "e1ae9d93f4419d38",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-clears-medivis-ar-headset-platform-neurosurgery-navigation\" hreflang=\"en\">FDA clears Medivis AR headset platform for neurosurgery navigation</a>",
-        "url": "https://www.fiercebiotech.com/medtech/fda-clears-medivis-ar-headset-platform-neurosurgery-navigation",
-        "source": "Fierce Biotech",
-        "published": "Dec 15, 2025 3:53pm",
-        "published_dt": "2025-12-15T15:53:00+00:00",
-        "summary": "The green light for the company\u2019s cranial navigation system follows up on an FDA nod for its spine-focused platform earlier this year."
-      },
-      {
-        "id": "87bf77aec6040305",
-        "title": "House passes health care bill to boost access to workplace insurance",
-        "url": "https://www.statnews.com/2025/12/17/house-passes-health-care-bill-workplace-insurance/?utm_campaign=rss",
+        "id": "57e7c05a8390bdca",
+        "title": "Facing federal hostility, supervised consumption site points to 1,900 overdose reversals",
+        "url": "https://www.statnews.com/2025/12/18/on-point-nyc-drug-consumption-site-trump-defiance/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 17 Dec 2025 23:38:41 +0000",
-        "published_dt": "2025-12-17T23:38:41+00:00",
-        "summary": "House passes health care bill to boost access to workplace insurance."
+        "published": "Thu, 18 Dec 2025 22:28:01 +0000",
+        "published_dt": "2025-12-18T22:28:01+00:00",
+        "summary": "OnPoint, the nation's first supervised drug consumption site, vows to continue its approach to harm reduction."
       },
       {
-        "id": "e670ee3e1ef24147",
-        "title": "STAT+: Meta is urged by state attorneys general to boost enforcement of weight loss drug advertising",
-        "url": "https://www.statnews.com/pharmalot/2025/12/17/meta-facebook-instagram-weight-obesity-drugs-ads/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 17 Dec 2025 21:57:04 +0000",
-        "published_dt": "2025-12-17T21:57:04+00:00",
-        "summary": "More than three dozen state AGs are urging Meta to better enforce its policies to thwart a \u201csurge of misleading\u201d ads for weight loss drugs on Instagram and Facebook."
+        "id": "40fdf32872554962",
+        "title": "China figured out how to sell EVs. Now it has to bury their batteries.",
+        "url": "https://www.technologyreview.com/2025/12/18/1130148/china-ev-battery-recycle/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 18 Dec 2025 21:24:58 +0000",
+        "published_dt": "2025-12-18T21:24:58+00:00",
+        "summary": "In August 2025, Wang Lei decided it was finally time to say goodbye to his electric vehicle. Wang, who is 39, had bought the car in 2016, when EVs still felt experimental in Beijing. It was a compact Chinese brand. The subsidies were good, and the salesman talked about \u201csupporting domestic innovation.\u201d At the time,&#8230;"
       },
       {
-        "id": "ead00f369410b95a",
-        "title": "STAT+: More drugmakers set to sign pricing deals with Trump on Friday",
-        "url": "https://www.statnews.com/2025/12/17/pharma-companies-to-announce-trump-drug-pricing-deals-friday/?utm_campaign=rss",
+        "id": "150e9ae553829c48",
+        "title": "Trump\u2019s marijuana reclassification could boost research, broaden access",
+        "url": "https://www.statnews.com/2025/12/18/trump-reclassifies-marijuana-to-boost-research-and-access/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 17 Dec 2025 18:37:04 +0000",
-        "published_dt": "2025-12-17T18:37:04+00:00",
-        "summary": "Pharma companies have agreed to lower prices and invest in the U.S. in exchange for avoiding tariffs and benefits like faster drug reviews."
+        "published": "Thu, 18 Dec 2025 19:50:31 +0000",
+        "published_dt": "2025-12-18T19:50:31+00:00",
+        "summary": "President Trump weighs in on a debate between hard-liners on marijuana and those who want more research on its medical uses."
       },
       {
-        "id": "a965e6d2f081acb4",
-        "title": "CDC\u2019s controversial new hep B vaccine guidance: everything you need to know",
-        "url": "https://www.statnews.com/2025/12/17/hepatitis-b-vaccine-newborns-cdc-recommendation-status-report/?utm_campaign=rss",
+        "id": "9996892847ce0523",
+        "title": "STAT+: NIH funding rates for early-career researchers plunged in 2025, new data show",
+        "url": "https://www.statnews.com/2025/12/18/nih-early-career-researchers-grant-success-rate-falls/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 17 Dec 2025 17:03:37 +0000",
-        "published_dt": "2025-12-17T17:03:37+00:00",
-        "summary": "This week's STATus Report takes on the CDC's new hepatitis B vaccine guidance for newborns. Host Alex Hogan dives into the controversial recommendation."
+        "published": "Thu, 18 Dec 2025 19:45:25 +0000",
+        "published_dt": "2025-12-18T19:45:25+00:00",
+        "summary": "A Trump administration change to how NIH awards grants has sharply reduced early-stage investigators\u2019 odds of securing funding."
+      },
+      {
+        "id": "97e892c5619791a8",
+        "title": "Biotech\u2019s year in review",
+        "url": "https://www.statnews.com/2025/12/18/readout-loud-podcast-biotech-venture-capital-obesity-coverage/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 18 Dec 2025 17:25:43 +0000",
+        "published_dt": "2025-12-18T17:25:43+00:00",
+        "summary": "Is the biotech industry truly out of its slump? This week on \"The Readout LOUD,\" a biotech year in review and a look ahead to next year's trends."
+      },
+      {
+        "id": "5f106fd51b498ee5",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/galapagos-ends-turbulent-year-mixed-results-last-remaining-immunology-asset\" hreflang=\"en\">Galapagos ends turbulent year with mixed results for last remaining immunology asset</a>",
+        "url": "https://www.fiercebiotech.com/biotech/galapagos-ends-turbulent-year-mixed-results-last-remaining-immunology-asset",
+        "source": "Fierce Biotech",
+        "published": "Dec 18, 2025 5:01pm",
+        "published_dt": "2025-12-18T17:01:00+00:00",
+        "summary": "After a long and strange year, Belgian biotech Galapagos is closing out 2025 with some mixed results for its last remaining immunology asset. The company\u2019s tyrosine kinase 2 inhibitor GLPG3667 met the primary endpoint in a dermatomyositis study, but failed to do the same when tested in systemic lupus erythematosus."
+      },
+      {
+        "id": "6f02b7047f464bdd",
+        "title": "In major effort to end gender-affirming care, Trump administration takes aim at hospitals",
+        "url": "https://www.statnews.com/2025/12/18/transgender-care-hospitals-trump-cms-rules/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 18 Dec 2025 14:51:46 +0000",
+        "published_dt": "2025-12-18T14:51:46+00:00",
+        "summary": "The Trump administration intends to make its most forceful attempt yet at restricting gender-affirming care for transgender youth in the U.S."
+      },
+      {
+        "id": "cd34fc547d7258cf",
+        "title": "STAT+: Cracking its growth story, Insmed\u2019s nasal inflammation study fails",
+        "url": "https://www.statnews.com/2025/12/18/biotech-news-insmed-nasal-inflammation-trial-flops/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 18 Dec 2025 14:39:02 +0000",
+        "published_dt": "2025-12-18T14:39:02+00:00",
+        "summary": "And other biotech news, brought to you from The Readout newsletter"
+      },
+      {
+        "id": "ed4d2b5cce524243",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about Lilly\u2019s obesity pill, pharma deals with Trump, and much more",
+        "url": "https://www.statnews.com/pharmalot/2025/12/18/lilly-obesity-trump-merck-pfizer-meta-moderna-vaccine/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 18 Dec 2025 14:00:03 +0000",
+        "published_dt": "2025-12-18T14:00:03+00:00",
+        "summary": "A Lilly investigational obesity pill largely helped patients maintain their weight loss after they switched from injectable treatments Wegovy and Zepbound"
+      },
+      {
+        "id": "fa03c0f11e0292c8",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/glucomodicum-touts-needle-free-sofio-glucose-monitoring-patch\" hreflang=\"en\">GlucoModicum touts needle-free Sofio glucose monitoring patch</a>",
+        "url": "https://www.fiercebiotech.com/medtech/glucomodicum-touts-needle-free-sofio-glucose-monitoring-patch",
+        "source": "Fierce Biotech",
+        "published": "Dec 18, 2025 1:46pm",
+        "published_dt": "2025-12-18T13:46:00+00:00",
+        "summary": "Finnish medtech GlucoModicum has unveiled its needle-free glucose monitor, which is designed as a temporary reader for people who do not need continuous, 24/7 coverage."
+      },
+      {
+        "id": "1f48d7521b24af6c",
+        "title": "STAT+: UnitedHealthcare delays controversial RPM policy change",
+        "url": "https://www.statnews.com/2025/12/18/unitedhealthcare-delays-rpm-policy-change-health-tech/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 18 Dec 2025 13:32:02 +0000",
+        "published_dt": "2025-12-18T13:32:02+00:00",
+        "summary": "In this edition of STAT Health Tech: United Healthcare delays a key policy change, State AGs write to Meta about misleading pharma ads, and more."
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "95fa9b777fdfdaac",
+        "title": "Astrobotic secures contracts for suborbital vehicle development",
+        "url": "https://spacenews.com/astrobotic-secures-contracts-for-suborbital-vehicle-development/",
+        "source": "SpaceNews",
+        "published": "Fri, 19 Dec 2025 12:54:19 +0000",
+        "published_dt": "2025-12-19T12:54:19+00:00",
+        "summary": "<figure><img alt=\"Xodiac and Xogdor\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"719\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Xodiac-Xogdor_12.2025.jpg?fit=1024%2C719&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Astrobotic said Dec. 19 it has won $17.5 million in NASA and military contracts to develop three new reusable suborbital vehicles for technology demonstrations and other applications.</p>\n<p>The post <a href=\"https://spacenews.com/astrobotic-secures-contracts-for-suborbital-vehicle-development/\">Astrobotic secures contracts for suborbital vehicle development</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "ada3c60359c69f6a",
+        "title": "Siemens launches PAVE360 to streamline automotive digital twins",
+        "url": "https://www.engineering.com/siemens-launches-pave360-to-streamline-automotive-digital-twins/",
+        "source": "Engineering.com",
+        "published": "Fri, 19 Dec 2025 11:37:04 +0000",
+        "published_dt": "2025-12-19T11:37:04+00:00",
+        "summary": "<p>The platform integrates Arm Zena CSS, targets ADAS, automated driving and IVI and is set for general availability in February 2026.</p>\n<p>The post <a href=\"https://www.engineering.com/siemens-launches-pave360-to-streamline-automotive-digital-twins/\">Siemens launches PAVE360 to streamline automotive digital twins</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "908bcea565d8c02e",
+        "title": "Laguna Tools adds Revo 10|14 benchtop lathe to lineup",
+        "url": "https://www.engineering.com/laguna-tools-adds-revo-1014-benchtop-lathe-to-lineup/",
+        "source": "Engineering.com",
+        "published": "Fri, 19 Dec 2025 11:19:41 +0000",
+        "published_dt": "2025-12-19T11:19:41+00:00",
+        "summary": "<p>The lathe has a 10-inch swing and 14 inches between centers plus digital speed control, 24-position indexing and a 110V outlet.</p>\n<p>The post <a href=\"https://www.engineering.com/laguna-tools-adds-revo-1014-benchtop-lathe-to-lineup/\">Laguna Tools adds Revo 10|14 benchtop lathe to lineup</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "8bcf28043f76f183",
+        "title": "PTC links Onshape Government with Arena PLM on AWS GovCloud",
+        "url": "https://www.engineering.com/ptc-links-onshape-government-with-arena-plm-on-aws-govcloud/",
+        "source": "Engineering.com",
+        "published": "Fri, 19 Dec 2025 11:03:06 +0000",
+        "published_dt": "2025-12-19T11:03:06+00:00",
+        "summary": "<p>The connection supports ITAR and EAR compliance, real-time BOM updates and controlled collaboration for regulated engineering programs.</p>\n<p>The post <a href=\"https://www.engineering.com/ptc-links-onshape-government-with-arena-plm-on-aws-govcloud/\">PTC links Onshape Government with Arena PLM on AWS GovCloud</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "ab79c1ec2ed2ce13",
+        "title": "Things to come: Important bellwethers for space exploration in 2026",
+        "url": "https://spacenews.com/things-to-come-important-bellwethers-for-space-exploration-in-2026/",
+        "source": "SpaceNews",
+        "published": "Wed, 17 Dec 2025 21:57:07 +0000",
+        "published_dt": "2025-12-17T21:57:07+00:00",
+        "summary": "<figure><img alt=\"NASA Jet Propulsion Laboratory (JPL). Credit: Credit: NASA/JPL-Caltech\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/jpl.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA is at an inflection point. 2026 will now begin with a newly-confirmed Jared Isaacman as a NASA Administrator with the White House directive to beat China back to the moon with astronauts. On the science side, we hope that NASA will continue its in-depth exploration of the Earth, solar system and universe. While the [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/things-to-come-important-bellwethers-for-space-exploration-in-2026/\">Things to come: Important bellwethers for space exploration in 2026</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "1dd8ca169e362843",
+        "title": "Trump signs sweeping executive order to assert U.S. dominance in space",
+        "url": "https://spacenews.com/trump-signs-sweeping-executive-order-to-assert-u-s-dominance-in-space/",
+        "source": "SpaceNews",
+        "published": "Thu, 18 Dec 2025 23:15:58 +0000",
+        "published_dt": "2025-12-18T23:15:58+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/P202512002DT-0230.jpg-scaled.webp?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The White House issued a sweeping executive order on space policy Dec. 18 covering topics from NASA\u2019s exploration plans to space security.</p>\n<p>The post <a href=\"https://spacenews.com/trump-signs-sweeping-executive-order-to-assert-u-s-dominance-in-space/\">Trump signs sweeping executive order to assert U.S. dominance in space</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "82ac46962ee3a5be",
+        "title": "What problem is charging for Space Situational Awareness supposed to solve?",
+        "url": "https://spacenews.com/what-problem-is-charging-for-space-situational-awareness-supposed-to-solve/",
+        "source": "SpaceNews",
+        "published": "Thu, 18 Dec 2025 23:15:31 +0000",
+        "published_dt": "2025-12-18T23:15:31+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"533\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/space-situational-awareness-ESA-scaled.jpg?fit=1024%2C533&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A recently issued Executive Order revises how the government implements Space Policy Directive-3, removing the longstanding expectation that basic space situational awareness (SSA) services, including conjunction warnings, would be provided without charge. This decision marks a departure not only from SPD-3, but from more than a decade of United States practice in which Congress and [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/what-problem-is-charging-for-space-situational-awareness-supposed-to-solve/\">What problem is charging for Space Situational Awareness supposed to solve?</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "f606a2aee738f9c1",
+        "title": "Germany awards $1.9 billion SAR satellite deal to Rheinmetall-Iceye venture",
+        "url": "https://spacenews.com/germany-awards-1-9-billion-sar-satellite-deal-to-rheinmetall-iceye-venture/",
+        "source": "SpaceNews",
+        "published": "Thu, 18 Dec 2025 21:33:03 +0000",
+        "published_dt": "2025-12-18T21:33:03+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Rheinmetall-x-ICEYE-2.png?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>New constellation would provide security for NATO\u2019s eastern flank, German brigade in Lithuania</p>\n<p>The post <a href=\"https://spacenews.com/germany-awards-1-9-billion-sar-satellite-deal-to-rheinmetall-iceye-venture/\">Germany awards $1.9 billion SAR satellite deal to Rheinmetall-Iceye venture</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "b84bc4684ae37ff0",
+        "title": "HawkEye 360 expands defense footprint with acquisition of Innovative Signal Analysis",
+        "url": "https://spacenews.com/hawkeye-360-expands-defense-footprint-with-acquisition-of-innovative-signal-analysis/",
+        "source": "SpaceNews",
+        "published": "Thu, 18 Dec 2025 17:15:47 +0000",
+        "published_dt": "2025-12-18T17:15:47+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"814\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Land-and-Sea-New-Imagery-HE360-Small.jpg-scaled.jpeg?fit=1024%2C814&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Deal backed by $150 million Series E equity and debt round</p>\n<p>The post <a href=\"https://spacenews.com/hawkeye-360-expands-defense-footprint-with-acquisition-of-innovative-signal-analysis/\">HawkEye 360 expands defense footprint with acquisition of Innovative Signal Analysis</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "b9fb3c8248c910d7",
+        "title": "Congress\u2019s SBIR standoff is slowing Space Force innovation \u2014 it must act now",
+        "url": "https://spacenews.com/congresss-sbir-standoff-is-slowing-space-force-innovation-it-must-act-now/",
+        "source": "SpaceNews",
+        "published": "Thu, 18 Dec 2025 16:00:00 +0000",
+        "published_dt": "2025-12-18T16:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"558\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/05/2634895-scaled.jpg?fit=1024%2C558&amp;ssl=1\" width=\"1024\" /></figure>\n<p>At a time when space is unmistakably a contested warfighting domain, the United States risks slowing its own progress not because of a lack of technology or talent, but because Congress has failed to act on renewing authority for critical small business innovation funding. Senior Space Force acquisition officials have publicly warned that the lapse [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/congresss-sbir-standoff-is-slowing-space-force-innovation-it-must-act-now/\">Congress\u2019s SBIR standoff is slowing Space Force innovation \u2014 it must act now</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "0a587f640bdf4620",
+        "title": "2025 was \u201calmost a watershed year\u201d for the Space Development Agency",
+        "url": "https://spacenews.com/2025-was-almost-a-watershed-year-for-the-space-development-agency/",
+        "source": "SpaceNews",
+        "published": "Thu, 18 Dec 2025 13:27:42 +0000",
+        "published_dt": "2025-12-18T13:27:42+00:00",
+        "summary": "<figure><img alt=\"Dr. Gurpartap &quot;GP&quot; Sandhoo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/space-minds-space-power-sandhoo-2000-1500-scaled.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>In this episode of Space Minds, host Mike Gruss talks with Dr. Gurpartap \u201cGP\u201d Sandhoo about what he calls \"almost a watershed year\" for the Space Development Agency. </p>\n<p>The post <a href=\"https://spacenews.com/2025-was-almost-a-watershed-year-for-the-space-development-agency/\">2025 was &#8220;almost a watershed year&#8221; for the Space Development Agency</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "012e931ac96aae5c",
+        "title": "The Army\u2019s contribution to joint space operations",
+        "url": "https://spacenews.com/the-armys-contribution-to-joint-space-operations/",
+        "source": "SpaceNews",
+        "published": "Thu, 18 Dec 2025 13:00:00 +0000",
+        "published_dt": "2025-12-18T13:00:00+00:00",
+        "summary": "<figure><img alt=\"Two British Army Special Operations Brigade soldiers, left, and a Soldier with 18th Space Company, 1st Space Brigade, right, guard a small tactical vehicle equipped with a miniaturized tactical space system during Project Convergence Capstone 4 experimentation at White Sands Missile Range, Feb. 28, 2024. Credit: United States Army Space and Missile Defense Command; photo by Brooke Nevins\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/atkinson-1-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Recent analysis by Reeves in the Mitchell Institute&#8217;s &#8220;Charting a Path to Space Superiority: The Cross-Domain Imperative&#8221; identifies the need for centralized command and control (C2) of counterspace capabilities under U.S. Space Command to ensure unity of effort. However, Reeves&#8217;s critique of the United States Army&#8217;s development of counterspace capabilities fundamentally misunderstands the Army&#8217;s role [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/the-armys-contribution-to-joint-space-operations/\">The Army&#8217;s contribution to joint space operations</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
       {
         "id": "8d99834abfaab7bf",
         "title": "Toshiba ships CCD linear sensor for line scan inspection",
@@ -239,15 +347,6 @@
         "summary": "<p>TCD2400DG offers a 22.7 kHz line rate, 4096\u00d73 RGB elements and integrates the timing generator and CCD driver to reduce wiring and EMI.</p>\n<p>The post <a href=\"https://www.engineering.com/toshiba-ships-ccd-linear-sensor-for-line-scan-inspection/\">Toshiba ships CCD linear sensor for line scan inspection</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "12559bbca71ae40d",
-        "title": "Meridian Innovation launches 50\u00d750 LWIR thermal imaging sensor",
-        "url": "https://www.engineering.com/meridian-innovation-launches-50x50-lwir-thermal-imaging-sensor/",
-        "source": "Engineering.com",
-        "published": "Thu, 18 Dec 2025 12:11:00 +0000",
-        "published_dt": "2025-12-18T12:11:00+00:00",
-        "summary": "<p>The CMOS-based device measures 7 \u00d7 7 \u00d7 7 mm. Pre-production samples are available now and mass production is set for early 2026.</p>\n<p>The post <a href=\"https://www.engineering.com/meridian-innovation-launches-50x50-lwir-thermal-imaging-sensor/\">Meridian Innovation launches 50\u00d750 LWIR thermal imaging sensor</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
         "id": "9f36fef871ccc590",
         "title": "Space community celebrates Isaacman confirmation",
         "url": "https://spacenews.com/space-community-celebrates-isaacman-confirmation/",
@@ -255,6 +354,15 @@
         "published": "Thu, 18 Dec 2025 12:15:17 +0000",
         "published_dt": "2025-12-18T12:15:17+00:00",
         "summary": "<figure><img alt=\"Isaacman\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"624\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/54962010038_20923daf20_k.jpg?fit=1024%2C624&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The space community welcomed the confirmation of Jared Isaacman as NASA\u2019s next administrator, expressing hope he can lead the agency forward and relief that a long confirmation process is over.</p>\n<p>The post <a href=\"https://spacenews.com/space-community-celebrates-isaacman-confirmation/\">Space community celebrates Isaacman confirmation</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "12559bbca71ae40d",
+        "title": "Meridian Innovation launches 50\u00d750 LWIR thermal imaging sensor",
+        "url": "https://www.engineering.com/meridian-innovation-launches-50x50-lwir-thermal-imaging-sensor/",
+        "source": "Engineering.com",
+        "published": "Thu, 18 Dec 2025 12:11:00 +0000",
+        "published_dt": "2025-12-18T12:11:00+00:00",
+        "summary": "<p>The CMOS-based device measures 7 \u00d7 7 \u00d7 7 mm. Pre-production samples are available now and mass production is set for early 2026.</p>\n<p>The post <a href=\"https://www.engineering.com/meridian-innovation-launches-50x50-lwir-thermal-imaging-sensor/\">Meridian Innovation launches 50\u00d750 LWIR thermal imaging sensor</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "ee9e429bfb917a9f",
@@ -275,22 +383,31 @@
         "summary": "<p>The 3 nm R-Car X5H targets ADAS, infotainment and gateways, with sampling underway and multi-domain demos planned for CES 2026.</p>\n<p>The post <a href=\"https://www.engineering.com/renesas-expands-gen-5-r-car-platform-for-software-defined-vehicles/\">Renesas expands Gen 5 R-Car platform for software-defined vehicles</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "ab79c1ec2ed2ce13",
-        "title": "Things to come: Important bellwethers for space exploration in 2026",
-        "url": "https://spacenews.com/things-to-come-important-bellwethers-for-space-exploration-in-2026/",
-        "source": "SpaceNews",
-        "published": "Wed, 17 Dec 2025 21:57:07 +0000",
-        "published_dt": "2025-12-17T21:57:07+00:00",
-        "summary": "<figure><img alt=\"NASA Jet Propulsion Laboratory (JPL). Credit: Credit: NASA/JPL-Caltech\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/jpl.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA is at an inflection point. 2026 will now begin with a newly-confirmed Jared Isaacman as a NASA Administrator with the White House directive to beat China back to the moon with astronauts. On the science side, we hope that NASA will continue its in-depth exploration of the Earth, solar system and universe. While the [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/things-to-come-important-bellwethers-for-space-exploration-in-2026/\">Things to come: Important bellwethers for space exploration in 2026</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "id": "1d5af0b5d5c1a680",
+        "title": "Schneider Electric introduces Motivair MCDU-45 and MCDU-55 CDUs",
+        "url": "https://www.engineering.com/schneider-electric-introduces-motivair-mcdu-45-and-mcdu-55-cdus/",
+        "source": "Engineering.com",
+        "published": "Thu, 18 Dec 2025 10:37:00 +0000",
+        "published_dt": "2025-12-18T10:37:00+00:00",
+        "summary": "<p>The corridor-optimized liquid cooling units are available globally now, with production ramping in early 2026 for HPC and AI workloads.</p>\n<p>The post <a href=\"https://www.engineering.com/schneider-electric-introduces-motivair-mcdu-45-and-mcdu-55-cdus/\">Schneider Electric introduces Motivair MCDU-45 and MCDU-55 CDUs</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "44f9f5b296130e94",
-        "title": "InnovMetric reports sale of 50,000th PolyWorks license",
-        "url": "https://www.engineering.com/innovmetric-reports-sale-of-50000th-polyworks-license/",
+        "id": "164b265d367b4770",
+        "title": "PRIME AE acquires Faller, Davis & Associates",
+        "url": "https://www.engineering.com/prime-ae-acquires-faller-davis-associates/",
         "source": "Engineering.com",
-        "published": "Wed, 17 Dec 2025 09:28:31 +0000",
-        "published_dt": "2025-12-17T09:28:31+00:00",
-        "summary": "<p>The software is used to collect and manage 3D measurement data for quality control and manufacturing workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/innovmetric-reports-sale-of-50000th-polyworks-license/\">InnovMetric reports sale of 50,000th PolyWorks license</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Thu, 18 Dec 2025 09:12:00 +0000",
+        "published_dt": "2025-12-18T09:12:00+00:00",
+        "summary": "<p>This acquisition expands Southeast market share and enables to offer the full scope of AEC services to customers.</p>\n<p>The post <a href=\"https://www.engineering.com/prime-ae-acquires-faller-davis-associates/\">PRIME AE acquires Faller, Davis &amp; Associates</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "9c54b603ed30bf4a",
+        "title": "Graitec names 2025 Keeping AEC Green scholarship winners",
+        "url": "https://www.engineering.com/graitec-names-2025-keeping-aec-green-scholarship-winners/",
+        "source": "Engineering.com",
+        "published": "Thu, 18 Dec 2025 08:55:00 +0000",
+        "published_dt": "2025-12-18T08:55:00+00:00",
+        "summary": "<p>Top essays covered a shade equity mapping platform, wind turbine diffuser design and an AI-enabled SmartScape system.</p>\n<p>The post <a href=\"https://www.engineering.com/graitec-names-2025-keeping-aec-green-scholarship-winners/\">Graitec names 2025 Keeping AEC Green scholarship winners</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "45d1dcac08d09388",
@@ -320,15 +437,6 @@
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/reusability-demo.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Denver-based Lux Aeterna announced plans Dec. 17 to land its debut reusable satellite at the Koonibba Test Range in South Australia, shortly after launching on a SpaceX rideshare mission in early 2027.</p>\n<p>The post <a href=\"https://spacenews.com/lux-aeterna-to-land-first-reusable-satellite-in-australia/\">Lux Aeterna to land first reusable satellite in Australia</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "9c38bf2bd18d5b7f",
-        "title": "Why we\u2019re still fighting for perfect fasteners in CAD",
-        "url": "https://www.engineering.com/why-were-still-fighting-for-perfect-fasteners-in-cad/",
-        "source": "Engineering.com",
-        "published": "Wed, 17 Dec 2025 16:21:27 +0000",
-        "published_dt": "2025-12-17T16:21:27+00:00",
-        "summary": "<p>It's not just laggy assemblies. Here are 6 reasons fasteners continue to frustrate CAD users\u2014and how engineers can fight back.</p>\n<p>The post <a href=\"https://www.engineering.com/why-were-still-fighting-for-perfect-fasteners-in-cad/\">Why we\u2019re still fighting for perfect fasteners in CAD</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
         "id": "026f5823143ae439",
         "title": "Speed, risk, and the future of national security space",
         "url": "https://spacenews.com/speed-risk-and-the-future-of-national-security-space/",
@@ -345,135 +453,9 @@
         "published": "Wed, 17 Dec 2025 14:00:00 +0000",
         "published_dt": "2025-12-17T14:00:00+00:00",
         "summary": "<figure><img alt=\"Thunderbird Station\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/thunderbird-station.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Max Space, a startup developing expandable module technologies, plans to build a commercial space station that could launch on a single Falcon 9 rocket.</p>\n<p>The post <a href=\"https://spacenews.com/max-space-unveils-plans-for-commercial-space-station/\">Max Space unveils plans for commercial space station</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "12b8a6cc83e80b8b",
-        "title": "What Germany got right (and wrong) in its first ever space strategy",
-        "url": "https://spacenews.com/what-germany-got-right-and-wrong-in-its-first-ever-space-strategy/",
-        "source": "SpaceNews",
-        "published": "Wed, 17 Dec 2025 14:00:00 +0000",
-        "published_dt": "2025-12-17T14:00:00+00:00",
-        "summary": "<figure><img alt=\"A photo of Europe taken by German astronaut Alexander Gerst. Credit: ESA/A.Gerst, CC BY-SA 3.0 IGO\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Europe_at_night_-_44164039574-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Germany\u2019s first national space security strategy was unveiled last month to much fanfare. And who\u2019s surprised? It was long overdue, and puts into plain language a simple but vital truth: space is now a theatre of power. With Russia and China long having treated orbit as contested territory, and the United States preparing daily for [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/what-germany-got-right-and-wrong-in-its-first-ever-space-strategy/\">What Germany got right (and wrong) in its first ever space strategy</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "b7dae4f6339160fb",
-        "title": "CoreTechnologie releases 3D_Kernel_IO 2026 with CAD simplifier",
-        "url": "https://www.engineering.com/coretechnologie-releases-3d_kernel_io-2026-with-cad-simplifier/",
-        "source": "Engineering.com",
-        "published": "Wed, 17 Dec 2025 13:14:06 +0000",
-        "published_dt": "2025-12-17T13:14:06+00:00",
-        "summary": "<p>The update supports 42 CAD formats and adds an automated function to reduce model size for VR and simulation workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/coretechnologie-releases-3d_kernel_io-2026-with-cad-simplifier/\">CoreTechnologie releases 3D_Kernel_IO 2026 with CAD simplifier</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "8c424029bca4c342",
-        "title": "Ariane 6 launches Galileo navigation satellites",
-        "url": "https://spacenews.com/ariane-6-launches-galileo-navigation-satellites/",
-        "source": "SpaceNews",
-        "published": "Wed, 17 Dec 2025 12:58:46 +0000",
-        "published_dt": "2025-12-17T12:58:46+00:00",
-        "summary": "<figure><img alt=\"Ariane 6 launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"729\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/ariane6-galileo-dec25.jpeg?fit=1024%2C729&amp;ssl=1\" width=\"1024\" /></figure>\n<p>An Ariane 6 rocket placed two satellites for Europe\u2019s Galileo navigation system into orbit Dec. 17.</p>\n<p>The post <a href=\"https://spacenews.com/ariane-6-launches-galileo-navigation-satellites/\">Ariane 6 launches Galileo navigation satellites</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "ab41e2cf1817462c",
-        "title": "WORKNC adds cloud Tool Library integration for CAM programming",
-        "url": "https://www.engineering.com/worknc-adds-cloud-tool-library-integration-for-cam-programming/",
-        "source": "Engineering.com",
-        "published": "Wed, 17 Dec 2025 09:54:54 +0000",
-        "published_dt": "2025-12-17T09:54:54+00:00",
-        "summary": "<p>The 2025.4 update also includes a new Parallel Finishing algorithm plus improved remaining-stock detection and entry and exit controls.</p>\n<p>The post <a href=\"https://www.engineering.com/worknc-adds-cloud-tool-library-integration-for-cam-programming/\">WORKNC adds cloud Tool Library integration for CAM programming</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "653767222bec80b8",
-        "title": "EMQ and Volt partner on low-latency IoT data processing",
-        "url": "https://www.engineering.com/emq-and-volt-partner-on-low-latency-iot-data-processing/",
-        "source": "Engineering.com",
-        "published": "Wed, 17 Dec 2025 08:21:42 +0000",
-        "published_dt": "2025-12-17T08:21:42+00:00",
-        "summary": "<p>The joint architecture combines MQTT ingestion and in-memory analytics to support real-time automation at the edge and in the cloud.</p>\n<p>The post <a href=\"https://www.engineering.com/emq-and-volt-partner-on-low-latency-iot-data-processing/\">EMQ and Volt partner on low-latency IoT data processing</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "69ed4e4e5f5a70a7",
-        "title": "Co-emulation platform targets complex RISC-V chip design",
-        "url": "https://www.engineering.com/co-emulation-platform-targets-complex-risc-v-chip-design/",
-        "source": "Engineering.com",
-        "published": "Wed, 17 Dec 2025 08:16:00 +0000",
-        "published_dt": "2025-12-17T08:16:00+00:00",
-        "summary": "<p>The setup combines virtual platforms, FPGA prototyping, and a multicore RISC-V CPU to support parallel hardware and software verification.</p>\n<p>The post <a href=\"https://www.engineering.com/co-emulation-platform-targets-complex-risc-v-chip-design/\">Co-emulation platform targets complex RISC-V chip design</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "da83dd35a49eec45",
-        "title": "OQ Technology links commercial IoT chipset to LEO satellite",
-        "url": "https://spacenews.com/oq-technology-links-commercial-iot-chipset-to-leo-satellite/",
-        "source": "SpaceNews",
-        "published": "Wed, 17 Dec 2025 08:00:00 +0000",
-        "published_dt": "2025-12-17T08:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Nordic-Test.png?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Luxembourg-based OQ Technology said Dec. 17 it has connected a commercial IoT chipset directly to one of its LEO satellites, using internally developed software based on 3GPP mobile standards.</p>\n<p>The post <a href=\"https://spacenews.com/oq-technology-links-commercial-iot-chipset-to-leo-satellite/\">OQ Technology links commercial IoT chipset to LEO satellite</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "aae8e22e734231ee",
-        "title": "Rocket Lab launches Space Force and NASA \u2018DiskSat\u2019 experiment",
-        "url": "https://spacenews.com/rocket-lab-set-to-launch-space-force-and-nasa-disksat-experiment/",
-        "source": "SpaceNews",
-        "published": "Wed, 17 Dec 2025 00:15:09 +0000",
-        "published_dt": "2025-12-17T00:15:09+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"675\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Screenshot-2025-12-18-at-5.31.53-AM.png?fit=1024%2C675&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The STP-S30 mission will test flat, disk-shaped smallsat design for sustained operations in very low orbit</p>\n<p>The post <a href=\"https://spacenews.com/rocket-lab-set-to-launch-space-force-and-nasa-disksat-experiment/\">Rocket Lab launches Space Force and NASA \u2018DiskSat\u2019 experiment\u00a0</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "adfbb0af40d38c72",
-        "title": "Digantara raises $50 million to expand from space surveillance to missile defense",
-        "url": "https://spacenews.com/digantara-raises-50-million-to-expand-from-space-surveillance-to-missile-defense/",
-        "source": "SpaceNews",
-        "published": "Tue, 16 Dec 2025 23:30:48 +0000",
-        "published_dt": "2025-12-16T23:30:48+00:00",
-        "summary": "<figure><img alt=\"Digantara Industries mission control center\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"573\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/digantara_missionctrl.jpeg?fit=1024%2C573&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Digantara Industries, an Indian space situational awareness company, has raised $50 million as it expands into the United States and pursues opportunities in missile defense.</p>\n<p>The post <a href=\"https://spacenews.com/digantara-raises-50-million-to-expand-from-space-surveillance-to-missile-defense/\">Digantara raises $50 million to expand from space surveillance to missile defense</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "3a33905c91db2016",
-        "title": "House Aviation Subcommittee grills FAA administrator on DC flights",
-        "url": "https://aerospaceamerica.aiaa.org/house-aviation-subcommittee-grills-faa-administrator-on-dc-flights/",
-        "source": "Aerospace America",
-        "published": "Tue, 16 Dec 2025 21:47:10 +0000",
-        "published_dt": "2025-12-16T21:47:10+00:00",
-        "summary": ""
-      },
-      {
-        "id": "2cbed8c0aa2231e1",
-        "title": "AIAA Senior Member Sanmart\u00edn Died in November 2025",
-        "url": "https://aerospaceamerica.aiaa.org/aiaa-senior-member-sanmartin-died-in-november-2025/",
-        "source": "Aerospace America",
-        "published": "Tue, 16 Dec 2025 16:42:48 +0000",
-        "published_dt": "2025-12-16T16:42:48+00:00",
-        "summary": ""
-      },
-      {
-        "id": "b05f05bf355e8a55",
-        "title": "How the Space Force trains Guardians for the future of warfare",
-        "url": "https://spacenews.com/how-the-space-force-trains-guardians-for-the-future-of-warfare/",
-        "source": "SpaceNews",
-        "published": "Tue, 16 Dec 2025 15:01:14 +0000",
-        "published_dt": "2025-12-16T15:01:14+00:00",
-        "summary": "<figure><img alt=\"Brig. Gen. Nick Hague\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/space-minds-space-power-hague-2000-1500-scaled.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>In this episode of Space Minds, host Sandra Erwin sits down with former NASA astronaut and Space Force leader Brig. Gen. Nick Hague for a wide-ranging conversation on how the U.S. Space Force is shaping its culture, training Guardians, and preparing for future conflict in space.</p>\n<p>The post <a href=\"https://spacenews.com/how-the-space-force-trains-guardians-for-the-future-of-warfare/\">How the Space Force trains Guardians for the future of warfare</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
-      {
-        "id": "f358c6c7f7ff1917",
-        "title": "Watch who you\u2019re calling childless",
-        "url": "https://www.economist.com/finance-and-economics/2025/12/18/watch-who-youre-calling-childless",
-        "source": "Finance & economics",
-        "published": "Thu, 18 Dec 2025 10:42:36 +0000",
-        "published_dt": "2025-12-18T10:42:36+00:00",
-        "summary": "Women in America are having as many babies over their lifetimes as they did two decades ago"
-      },
-      {
-        "id": "8496d32a751885e6",
-        "title": "Meet the American investors rushing into Congo",
-        "url": "https://www.economist.com/finance-and-economics/2025/12/18/meet-the-american-investors-rushing-into-congo",
-        "source": "Finance & economics",
-        "published": "Thu, 18 Dec 2025 10:40:59 +0000",
-        "published_dt": "2025-12-18T10:40:59+00:00",
-        "summary": "They are taking on war, corruption and China"
-      },
       {
         "id": "8bd66e558ada2539",
         "title": "How Trump\u2019s war on the Federal Reserve could do serious damage",
@@ -680,27 +662,27 @@
         "published": "Wed, 15 Oct 2025 19:02:33 +0000",
         "published_dt": "2025-10-15T19:02:33+00:00",
         "summary": "A thought experiment on the nearest thing to a safe asset"
+      },
+      {
+        "id": "483fcd6e7dcb6580",
+        "title": "The most dangerous corner of a balance-sheet",
+        "url": "https://www.economist.com/finance-and-economics/2025/10/08/the-most-dangerous-corner-of-a-balance-sheet",
+        "source": "Finance & economics",
+        "published": "Wed, 08 Oct 2025 19:13:52 +0000",
+        "published_dt": "2025-10-08T19:13:52+00:00",
+        "summary": "Forget debt. Here is something to villainise"
+      },
+      {
+        "id": "34d3213f3fa6c879",
+        "title": "Why Donald Trump\u2019s tariffs are failing to break global trade",
+        "url": "https://www.economist.com/finance-and-economics/2025/10/08/why-donald-trumps-tariffs-are-failing-to-break-global-trade",
+        "source": "Finance & economics",
+        "published": "Wed, 08 Oct 2025 18:20:12 +0000",
+        "published_dt": "2025-10-08T18:20:12+00:00",
+        "summary": "Six months on from \u201cLiberation Day\u201d, things look surprisingly rosy"
       }
     ],
     "Cross-Disciplinary": [
-      {
-        "id": "16e5fa91eb01db4d",
-        "title": "The 8 worst technology flops of 2025",
-        "url": "https://www.technologyreview.com/2025/12/18/1130106/the-8-worst-technology-flops-of-2025/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 18 Dec 2025 12:00:00 +0000",
-        "published_dt": "2025-12-18T12:00:00+00:00",
-        "summary": "Welcome to our annual list of the worst, least successful, and simply dumbest technologies of the year. This year, politics was a recurring theme. Donald Trump swept back into office and used his executive pen to reshape the fortunes of entire sectors, from renewables to cryptocurrency. The wrecking-ball act began even before his inauguration, when&#8230;"
-      },
-      {
-        "id": "71f71858ba3087f4",
-        "title": "Can AI really help us discover new materials?",
-        "url": "https://www.technologyreview.com/2025/12/18/1130102/ai-materials-discovery/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 18 Dec 2025 11:00:00 +0000",
-        "published_dt": "2025-12-18T11:00:00+00:00",
-        "summary": "Judging from headlines and social media posts in recent years, one might reasonably assume that AI is going to fix the power grid, cure the world\u2019s diseases, and finish my holiday shopping for me. But maybe there\u2019s just a whole lot of hype floating around out there. This week, we published a new package called&#8230;"
-      },
       {
         "id": "e128d91b7c192b5a",
         "title": "Two New AI Ethics Certifications Available from IEEE",
@@ -792,6 +774,15 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/three-rows-of-machines-outdoors-surrounded-by-a-fence.jpg?id=62286808&amp;width=1200&amp;height=800&amp;coordinates=156%2C0%2C156%2C0\" /><br /><br /><p><strong>The power surging through</strong> transmission lines over the iconic stone walls of England\u2019s northern countryside is pushing the United Kingdom\u2019s grid to its limits. To the north, Scottish wind farms have doubled their output over the past decade. In the south, where electricity demand is heaviest, electrification and new data centers promise to draw more power, but new generation is falling short. Construction on a new 3,280-megawatt nuclear power plant west of London lags years behind schedule.</p><p>The result is a lopsided flow of power that\u2019s maxing out transmission corridors from the Highlands to London. That grid strain won\u2019t ease any time soon. New lines linking Scotland to southern England are at least three to four years from operation, and at risk of further delays from fierce local opposition.</p><p>At the same time, U.K. Prime Minister Keir Starmer is bent on installing even more wind power and slashing fossil-fuel generation by 2030. His Labour government says low-carbon power is cheaper and more secure than natural gas, much of which comes from Norway via the world\u2019s longest underwater gas pipeline and is vulnerable to disruption and sabotage.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Map of transmission lines in southern Scotland and northern England.\" class=\"rm-shortcode\" id=\"1e710\" src=\"https://spectrum.ieee.org/media-library/map-of-transmission-lines-in-southern-scotland-and-northern-england.png?id=62286818&amp;width=980\" /> <small class=\"image-media media-caption\">The lack of transmission lines available to move power flowing south from Scottish wind farms has caused grid congestion in England. To better manage it, the U.K. has installed SmartValves at three substations in northern England\u2014Penwortham, Harker, and Saltholme\u2014and is constructing a fourth at South Shields. </small><small class=\"image-media media-photo-credit\">Chris Philpot </small></p>The U.K.\u2019s resulting grid congestion prevents transmission operators from delivering some of their cleanest, cheapest generation to all of the consumers who want it. Congestion is a perennial problem whenever power consumption is on the rise. It pushes circuits to their thermal limits and creates grid stability or security constraints.<p>With congestion relief needed now, the U.K.\u2019s grid operators are getting creative, rapidly tapping new cable designs and innovations in power electronics to squeeze more power through existing transmission corridors. These <a href=\"https://spectrum.ieee.org/grid-enhancing-technologies\" target=\"_self\">grid-enhancing technologies</a>, or GETs, present a low-cost way to bridge the gap until new lines can be built.</p><p>\u201cGETs allow us to operate the system harder before an investment arrives, and they save a s***load of money,\u201d says <a href=\"https://linkedin.com/in/julian-leslie-b9059535?originalSubdomain=uk\" target=\"_blank\">Julian Leslie</a>, chief engineer and director of strategic energy planning at the National Energy System Operator (NESO), the Warwick-based agency that directs U.K. energy markets and infrastructure.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"A stone wall along a dirt trail with large powerlines running overhead on a sunny day \" class=\"rm-shortcode\" id=\"3c272\" src=\"https://spectrum.ieee.org/media-library/a-stone-wall-along-a-dirt-trail-with-large-powerlines-running-overhead-on-a-sunny-day.jpg?id=62286810&amp;width=980\" /><small class=\"image-media media-caption\">Transmission lines running across England\u2019s countryside are maxed out, creating bottlenecks in the grid that prevent some carbon-free power from reaching customers. </small><small class=\"image-media media-photo-credit\">Vincent Lowe/Alamy </small></p><p>The U.K.\u2019s extreme grid challenge has made it ground zero for some of the boldest GETs testing and deployment. Such innovation involves some risk, because an intervention anywhere on the U.K.\u2019s tightly meshed power system can have system-wide impacts. (Grid operators elsewhere are choosing to start with GETs at their systems\u2019 periphery\u2014where there\u2019s less impact if something goes wrong.)</p><p>The question is how far\u2014and how fast\u2014the U.K.\u2019s grid operators can push GETs capabilities. The new technologies still have a limited track record, so operators are cautiously feeling their way toward heavier investment. Power system experts also have unanswered questions about these advanced grid capabilities. For example, will they create more complexity than grid operators can manage in real time? Might feedback between different devices destabilize the grid?</p><p>There is no consensus yet as to how to even screen for such risks, let alone protect against them, says <a href=\"https://www.robinpreece.com/\" target=\"_blank\">Robin Preece</a>, professor in future power systems at the University of Manchester, in England. \u201cWe\u2019re at the start of establishing that now, but we\u2019re building at the same time. So it\u2019s kind of this race between the necessity to get this technology installed as quickly as possible, and our ability to fully understand what\u2019s happening.\u201d</p><h2>How is the U.K. Managing Grid Congestion?</h2><p>One of the most innovative and high-stakes tricks in the U.K.\u2019s toolbox employs electronic power-flow controllers, devices that shift electricity from jammed circuits to those with spare capacity. These devices have been able to finesse enough additional wind power through grid bottlenecks to replace an entire gas-fired generator. Installed in northern England four years ago by <a href=\"https://www.smartwires.com/\" target=\"_blank\">Smart Wires</a>, based in Durham, N.C., these SmartValves are expected to help even more as NESO installs more of them and masters their capabilities.</p><p>Warwick-based <a href=\"https://www.nationalgrid.com/electricity-transmission\" target=\"_blank\">National Grid Electricity Transmission</a>, the grid operator for England and Wales, is adding SmartValves and also replacing several thousand kilometers of overhead wire with advanced conductors that can carry more current. And it\u2019s using a technique called <a href=\"https://spectrum.ieee.org/dynamic-line-rating-grid-congestion\" target=\"_self\">dynamic line rating</a>, whereby sensors and models work together to predict when weather conditions will allow lines to carry extra current.</p><p>Other kinds of GETs are also being used globally. Advanced conductors are the most widely deployed. Dynamic line rating is increasingly common in European countries, and U.S. utilities are beginning to take it seriously. Europe also leads the world in topology-optimization software, which reconfigures power routes to alleviate congestion, and advanced power-flow-control devices like SmartValves.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Workers wearing hard hats and safety harnesses standing high up on an electricity pylon in the countryside\" class=\"rm-shortcode\" id=\"4a9a9\" src=\"https://spectrum.ieee.org/media-library/workers-wearing-hard-hats-and-safety-harnesses-standing-high-up-on-an-electricity-pylon-in-the-countryside.jpg?id=62286977&amp;width=980\" /> <small class=\"image-media media-caption\">Engineers install dynamic line rating technology from the Boston-based company LineVision on National Grid\u2019s transmission network. </small><small class=\"image-media media-photo-credit\">National Grid Electricity Transmission </small></p><p>SmartValves\u2019 chops stand out at the Penwortham substation in Lancashire, England, one of two National Grid sites where the device made its U.K. debut in 2021. Penwortham substation is a major transmission hub, whose spokes desperately need congestion relief. Auditory evidence of heavy power flows was clear during my visit to the substation, which buzzes loudly. The sound is due to the electromechanical stresses on the substation\u2019s massive transformers, explains my guide, National Grid commissioned engineer Paul Lloyd.</p><p>Penwortham\u2019s transformers, circuits, and protective relays are spread over 15 hectares, sandwiched between pastureland and suburban homes near Preston, a small city north of Manchester. Power arrives from the north on two pairs of 400-kilovolt AC lines, and most of it exits southward via 400-kV and 275-kV double-circuit wires.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Power lines crossing a rural pasture, with an old fence in the foreground and a substation in the background.\" class=\"rm-shortcode\" id=\"ce7e1\" src=\"https://spectrum.ieee.org/media-library/power-lines-crossing-a-rural-pasture-with-an-old-fence-in-the-foreground-and-a-substation-in-the-background.jpg?id=62286959&amp;width=980\" /> <small class=\"image-media media-caption\">Transmission lines lead to the congested Penwortham substation, which has become a test-bed for GETs such as  SmartValves and dynamic line rating. </small><small class=\"image-media media-photo-credit\">Peter Fairley </small></p><p>What makes the substation a strategic test-bed for GETs is its position just north of the U.K. grid\u2019s biggest bottleneck, known as Boundary B7a, which runs east to west across the island. Nine circuits traverse the B7a: the four AC lines headed south from Penwortham, four AC lines closer to Yorkshire\u2019s North Sea coast, and a high-voltage direct-current (HVDC) link offshore. In theory, those circuits can collectively carry 13.6 gigawatts across the B7a. But NESO caps its flow at several gigawatts lower to ensure that no circuits overload if any two lines turn off.</p><p>Such limits are necessary for grid reliability, but they are leaving terawatt-hours of wind power stranded in Scotland and increasing consumers\u2019 energy costs: an extra \u00a3196 million (US $265 million) in 2024 alone. The costs stem from NESO having to ramp up gas-fired generators to meet demand down south while simultaneously compensating wind-farm operators for curtailing their output, as required under U.K. policy.</p><p>So National Grid keeps tweaking Penwortham. In 2011 the substation got its first big GET: phase-shifting transformers (PSTs), a type of analog flow controller. PSTs adjust power flow by creating an AC waveform whose alternating voltage leads or lags its alternating current. They do so by each PST using a pair of connected transformers to selectively combine power from an AC transmission circuit\u2019s three phases. Motors reposition electrical connections on the transformer coils to adjust flows.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Large machines outdoors connected to power lines \" class=\"rm-shortcode\" id=\"d09c1\" src=\"https://spectrum.ieee.org/media-library/large-machines-outdoors-connected-to-power-lines.jpg?id=62286963&amp;width=980\" /> <small class=\"image-media media-caption\">Phase-shifting transformers (PSTs) were installed in 2012 at the Penwortham substation and are the analog predecessor to SmartValves. They\u2019re powerful but also bulky and relatively inflexible. It can take 10 minutes or more for the PST\u2019s motorized actuators at Penwortham to tap their full range of flow control, whereas SmartValves can shift within milliseconds.</small><small class=\"image-media media-photo-credit\">National Grid Electricity Transmission </small></p><p><span>Penwortham\u2019s pair of 540-tonne PSTs occupy the entire south end of the substation, along with their dedicated chillers, relays, and power supplies. Delivering all that hardware required extensive road closures and floating a huge barge up the adjacent River Ribble, an event that made national news.</span></p><p>The SmartValves at Penwortham stand in stark contrast to the PSTs\u2019 heft, complexity, and mechanics. SmartValves are a type of static synchronous series compensator, or SSSC\u2014a solid-state alternative to PSTs that employs power electronics to tweak power flows in milliseconds. I saw two sets of them tucked into a corner of the substation, occupying a quarter of the area of the PSTs.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Workers on an elevated platform and tall, cylindrical machinery\" class=\"rm-shortcode\" id=\"146f3\" src=\"https://spectrum.ieee.org/media-library/workers-on-an-elevated-platform-and-tall-cylindrical-machinery.jpg?id=62286971&amp;width=980\" /> <small class=\"image-media media-caption\">The SmartValve V103 design [above] experienced some teething and reliability issues that were ironed out with the technology\u2019s next iteration, the V104.</small> <small class=\"image-media media-photo-credit\">            National Grid Electricity Transmission/Smart Wires        </small> </p><p>The SmartValves are first and foremost an insurance policy to guard against a potentially crippling event: the sudden loss of one of the B7a\u2019s 400-kV lines. If that were to happen, gigawatts of power would instantly seek another route over neighboring lines. And if it happened on a windy day, when lots of power is streaming in from the north, the resulting surge could overload the 275-kV circuits headed from Penwortham to Liverpool. The SmartValves\u2019 job is to save the day.</p><p>They do this by adding impedance to the 275-kV lines, thus acting to divert more power to the remaining 400-kV lines. This rerouting of power prevents a blackout that could potentially cascade through the grid. The upside to that protection is that NESO can safely schedule an additional 350 MW over the B7a.</p><p>The savings add up. \u201cThat\u2019s 350 MW of wind you\u2019re no longer curtailing from wind farms. So that\u2019s 350 times \u00a3100 a megawatt-hour,\u201d says Leslie, at NESO. \u201cThat\u2019s also 350 MW of gas-fired power that you don\u2019t need to replace the wind. So that\u2019s 350 times \u00a3120 a megawatt-hour. The numbers get big quickly.\u201d</p><p><a href=\"https://ieeexplore.ieee.org/author/37266637500\" target=\"_blank\">Mark Osborne</a>, the National Grid lead asset life-cycle engineer managing its SmartValve projects, estimates the devices are saving U.K. customers over \u00a3100 million (US $132 million) a year. At that rate, they\u2019ll pay for themselves \u201cwithin a few years,\u201d Osborne says. By utility standards, where investments are normally amortized over decades, that\u2019s \u201calmost immediately,\u201d he adds.</p><h2>How Do Grid-Enhancing Technologies Work?</h2><p>The way Smart Wires\u2019 SSSC devices adjust power flow is based on emulating impedance, which is a strange beast created by AC power. An AC flow\u2019s changing magnetic field induces an additional voltage in the line\u2019s conductor, which then acts as a drag on the initial field. Smart Wires\u2019 SSSC devices alter power flow by emulating that natural process, effectively adding or subtracting impedance by adding their own voltage wave to the line. Adding a wave that leads the original voltage wave will boost flow, while adding a lagging wave will reduce flow.</p><p>The SSSC\u2019s submodules of capacitors and high-speed insulated-gate bipolar transistors operate in sequence to absorb power from a line and synthesize its novel impedance-altering waves. And thanks to its digital controls and switches, the device can within milliseconds flip from maximum power push to maximum pull.</p><p>You can trace the development of SSSCs to the advent of HVDC transmission in the 1950s. HVDC converters take power from an AC grid and efficiently convert it and transfer it over a DC line to another point in the same grid, or to a neighboring AC grid. In 1985, Narain Hingorani, an HVDC expert at the Palo Alto\u2013based Electric Power Research Institute, showed that similar converters could modulate the flow of an AC line. Four years later, Westinghouse engineer Laszlo Gyugyi proposed SSSCs, which became the basis for Smart Wires\u2019 boxes.</p><p>Major power-equipment manufacturers tried to commercialize SSSCs in the early 2000s. But utilities had little need for flow control back then because they had plenty of conventional power plants that could meet local demand when transmission lines were full.</p><p>The picture changed as solar and wind generation exploded and conventional plants began shutting down. In years past, grid operators addressed grid congestion by turning power plants on or off in strategic locations. But as of 2024, the U.K. had shut down all of its coal-fired power plants\u2014save one, which now burns wood\u2014and it has vowed to slash gas-fired generation from about a quarter of electricity supply in 2024 to at most 5 percent in 2030.</p><p class=\"pull-quote\">The U.K.\u2019s extreme grid challenge has made it ground zero for some of the boldest GETs testing and deployment.</p><p>To seize the emerging market opportunity presented by changing grid operations, Smart Wires had to make a crucial technology upgrade: ditching transformers. The company\u2019s first SSSC, and those from other suppliers, relied on a transformer to absorb lightning, voltage surges, and every other grid assault that could fry their power electronics. This made them bulky and added cost. So Smart Wires engineers set to work in 2017 to see if they could live without the transformer, says Frank Kreikebaum, Smart Wires\u2019s interim chief of engineering. Two years later the company had assembled a transformerless electronic shield. It consisted of a suite of filters and diverters, along with a control system to activate them. Ditching the transformer produced a trim, standardized product\u2014a modular system-in-a-box.</p><p>SmartValves work at any voltage and are generally ganged together to achieve a desired level of flow control. They can be delivered fast, and they fit in the kinds of tight spaces that are common in substations. \u201cIt\u2019s not about cost, even though we\u2019re competitive there. It\u2019s about \u2018how quick\u2019 and \u2018can it fit,\u2019\u201d says Kreikebaum.</p><p>And if the grid\u2019s pinch point shifts? The devices can be quickly moved to another substation. \u201cIt\u2019s a Lego-brick build,\u201d says <a href=\"https://www.linkedin.com/in/owen-wilkes/?originalSubdomain=uk\" target=\"_blank\">Owen Wilkes</a>, National Grid\u2019s director of network design. Wilkes\u2019s team decides where to add equipment based on today\u2019s best projections, but he appreciates the flexibility to respond to unexpected changes.</p><p>National Grid\u2019s deployments in 2021 were the highest-voltage installation of SSSCs at the time, and success there is fueling expansion. National Grid now has packs of SmartValves installed at three substations in northern England and under construction at another, with five more installations planned in that area. Smart Wires has also commissioned commercial projects at transmission substations in Australia, Brazil, Colombia, and the United States.</p><h2>Dynamic Line Rating Boosts Grid Efficiency</h2><p>In addition to SSSCs, National Grid has deployed lidar that senses sag on Penwortham\u2019s 275-kV lines\u2014an indication that they\u2019re starting to overheat. The sensors are part of a dynamic line rating system and help grid operators maximize the amount of current that high-voltage lines can carry based on near-real-time weather conditions. (Cooler weather means more capacity.) Now the same technology is being deployed across the B7a\u2014a \u00a31 million investment that is projected to save consumers \u00a333 million annually, says <a href=\"https://www.linkedin.com/in/corin-ireland-4040b2179/?originalSubdomain=uk\" target=\"_blank\">Corin Ireland</a>, a National Grid optimization engineer with the task of seizing GETs opportunities.</p><p>There\u2019s also a lot of old conductor wires being swapped out for those that can carry more power. National Grid\u2019s business plan calls for 2,416 kilometers of such reconductoring over the coming five years, which is about 20 percent of its system. Scotland\u2019s transmission operators are busy with their own big swaps.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Rural farmland with shape and rotating wind turbines \" class=\"rm-shortcode\" id=\"80b0b\" src=\"https://spectrum.ieee.org/media-library/rural-farmland-with-shape-and-rotating-wind-turbines.jpg?id=62286812&amp;width=980\" /> <small class=\"image-media media-caption\">Scottish wind farms have doubled their power output over the past decade, but it often gets stranded due to grid congestion in England.</small> <small class=\"image-media media-photo-credit\">            Andreas Berthold/Alamy        </small> </p><p>But while National Grid and NESO are making some of the boldest deployments of GETs in the world, they\u2019re not fully tapping the technologies\u2019 capabilities. That\u2019s partly due to the conservative nature of power utilities, and partly because grid operators already have plenty to keep their eyes on. It also stems from the unknowns that still surround GETs, like whether they might take the grid in unforeseen directions if allowed to respond automatically, or get stuck in a feedback loop responding to each other. Imagine SmartValve controllers at different substations fighting, with one substation jumping to remove impedance that the other just added, causing fluctuating power flows.</p><p>\u201cThese technologies operate very quickly, but the computers in the control room are still very reliant on people making decisions,\u201d says Ireland. \u201cSo there are time scales that we have to take into consideration when planning and operating the network.\u201d</p><p>This kind of conservative dispatching leaves value on the table. For example, the dynamic line rating models can spit out new line ratings every 15 minutes, but grid operators get updates only every 24 hours. Fewer updates means fewer opportunities to tap the system\u2019s ability to boost capacity. Similarly, for SmartValves, NESO activates installations at only one substation at a time. And control-room operators turn them on manually, even though the devices could automatically respond to faults within milliseconds.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Workers in harnesses and hard hats climbing and standing high up on a transmission tower in the countryside.\" class=\"rm-shortcode\" id=\"9e46e\" src=\"https://spectrum.ieee.org/media-library/workers-in-harnesses-and-hard-hats-climbing-and-standing-high-up-on-a-transmission-tower-in-the-countryside.jpg?id=62286819&amp;width=980\" /> <small class=\"image-media media-caption\">National Grid is upgrading transmission lines dating as far back as the 1960s. This includes installing conductors that retain their strength at higher temperatures, allowing them to carry more power.</small> <small class=\"image-media media-photo-credit\">            National Grid Electricity Transmission        </small> </p><p>Modeling by Smart Wires and National Grid shows a significant capacity boost across Boundary B7a if Penwortham\u2019s SmartValves were to work in tandem with another set further up the line. For example, when Penwortham is adding impedance to push megawatts off the 275-kV lines, a set closer to Scotland could simultaneously pull the power north, nudging the sum over to the B7a\u2019s eastern circuits. Simulations by <a href=\"https://www.linkedin.com/in/andrew-hiorns-6a92b158/?originalSubdomain=uk\" target=\"_blank\">Andy Hiorns</a>, a former National Grid planning director who consults for Smart Wires, suggest that this kind of cooperative action should increase the B7a circuits\u2019 usable capacity by another 250 to 300 MW. \u201cYou double the effectiveness by using them as pairs,\u201d he says.</p><p>Operating multiple flow controllers may become necessary for unlocking the next boundary en route to London, south of the B7a, called Boundary B8. As dynamic line rating, beefier conductors, and SmartValves send more power across the B7a, lines traversing B8 are reaching their limits. Eventually, every boundary along the route will have to be upgraded.</p><p>Meanwhile, back at its U.S. headquarters, Smart Wires is developing other applications for its SSSCs, such as filtering out power oscillations that can destabilize grids and reduce allowable transfers. That capability could be unlocked remotely with firmware.</p><p>The company is also working on a test program that could turn on pairs of SmartValve installations during slack moments when there isn\u2019t much going on in the control rooms. That would give National Grid and NESO operators an opportunity to observe the impacts, and to get more comfortable with the technology.</p><p>National Grid and Smart Wires are also hard at work developing industry-first optimization software for coordinating flow-control devices. \u201cIt\u2019s possible to extend the technology from how we\u2019re using it today,\u201d says Ireland at National Grid. \u201cThat\u2019s the exciting bit.\u201d</p><p>NESO\u2019s Julian Leslie shares that excitement and says he expects SmartValves to begin working together to ease power through the grid\u2014once the operators have the modeling right and get a little more comfortable with the technology. \u201cIt\u2019s a great innovation that has the potential to be really transformational,\u201d he says. \u201cWe\u2019re just not quite there yet.\u201d <span class=\"ieee-end-mark\"></span></p>"
       },
       {
+        "id": "5b1dbbb5d8f48738",
+        "title": "The U.S. CHIPS Act Takes Another Hit",
+        "url": "https://spectrum.ieee.org/semiconductor-digital-twins-funding",
+        "source": "IEEE Spectrum",
+        "published": "Thu, 18 Dec 2025 13:00:02 +0000",
+        "published_dt": "2025-12-18T13:00:02+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/workers-wearing-clean-suits-in-a-semiconductor-lab.jpg?id=62601704&amp;width=1200&amp;height=800&amp;coordinates=62%2C0%2C63%2C0\" /><br /><br /><p>The head of a U.S. CHIPS and Science Act-funded center devoted to <a href=\"https://spectrum.ieee.org/tag/digital-twins\" target=\"_self\">digital twins</a> for chip manufacturing has informed its 121 members that the <a href=\"https://www.commerce.gov/\" rel=\"noopener noreferrer\" target=\"_blank\">U.S. Department of Commerce</a> will terminate its US $285-million five-year contract.<strong></strong></p><p>According to its website, the <a href=\"https://www.smartusatwins.org/\" rel=\"noopener noreferrer\" target=\"_blank\">SMART USA Institute</a> has the goal of uniting academic and industrial labs to create \u201cvirtual manufacturing replicas\u201d that reduce development and manufacturing costs by more than 35 percent, cut manufacturing development time by 30 percent, and improve manufacturing yields by 40 percent. It also aimed to train 110,000 workers over five years. This is the second CHIPS Act related institution to be <a href=\"https://spectrum.ieee.org/natcast\" target=\"_self\">defunded</a> by the federal government since the second<strong> </strong>Trump administration began in January 2025.</p><p class=\"ieee-inbody-related\">RELATED: <a href=\"https://spectrum.ieee.org/natcast\" target=\"_blank\">Trump Seeks to Cancel CHIPS Act R&amp;D Organization\u2019s Funds</a></p><p>SMART stands for \u201csemiconductor manufacturing and advanced research with twins\u201d, and the organization began life when it won a government contract in January 2025.  <a href=\"https://www.smartusatwins.org/about/faq/\" rel=\"noopener noreferrer\" target=\"_blank\">It has a complicated structure.</a> The organization is headquartered in Raleigh, N.C., and it is part of a network of federally-sponsored manufacturing innovation institutes called <a href=\"https://www.manufacturingusa.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Manufacturing USA</a>, which predates the CHIPS Act. SMART is a public-private partnership operated by SRC Manufacturing Consortium Corporation, which is a wholly owned subsidiary of the <a href=\"https://www.src.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Semiconductor Research Corporation (SRC)</a>. Established in 1982, and backed by the semiconductor industry, SRC funds R&amp;D at universities and has sponsored more than 15,000 students. </p><p>According to an email dated 12 December,  sent to SMART USA participants, and obtained by <em><em>IEEE Spectrum</em></em>, Commerce notified the organization of the termination on 10 December. The funds were withdrawn \u201c<a href=\"https://www.nasbp.org/post/the-government-contractors-guide-to-termination-for-convenience/\" rel=\"noopener noreferrer\" target=\"_blank\">for convenience</a>,\u201d an option that allows the government to unilaterally withdraw from an agreement that is written into many federal contracts, the email states. Requests for comment from the Commerce Department were not returned by press time.</p><p>\u201cAlthough DOC acknowledged that we built an effective organization and met all performance targets, the administration has chosen not to support R&amp;D and workforce development in this direction,\u201d <a href=\"https://www.linkedin.com/in/toddyounkin/\" rel=\"noopener noreferrer\" target=\"_blank\">Todd Younkin</a>, SMART USA\u2019s executive director and the CEO of SRC, wrote in the email.</p><h2>What Comes Next?</h2><p>Details of what happens next are still coming, but Younkin wrote that the organization would hold a Q&amp;A webinar on Wednesday 17 December to answer member questions.</p><p>\u201cWhile this is a setback, it doesn\u2019t diminish the importance of the work or the strength of our shared commitment to advancing leadership in microelectronics and advanced packaging,\u201d he wrote in the email. He added that SRC will continue to fund research through its other programs.</p><p>In response to <em>IEEE Spectrum</em>\u2019s questions, Younkin\u2019s office confirmed that the email was genuine. <strong></strong></p><p>Younkin reiterated that SMART USA had met its performance targets, and that the organization\u2019s performance was not the reason for the move. The organization added that it is \u201ccoordinating a responsible transition with [the Commerce Department] and members.\u201d</p><p>Regarding SRC, Younkin stated: \u201cWhile this transition is challenging, it does not define our future. We have united the semiconductor community for decades, and will continue to do so. SRC will continue to drive industry-led innovation, fostering strong ecosystems and collaborations. That includes empowerment of the next generation of semiconductor professionals, who must deliver the next era of compute and communications. Together, we will turn this moment into momentum.\u201d </p><p>In a statement, <a href=\"https://www.linkedin.com/in/david-henshall-8a21497\" target=\"_blank\">David N. Henshall</a>, chief operations officer for SMART USA, and senior vice-president for SRC, said: \u201cFederal contracting decisions evolve over time, and \u2018termination for convenience\u2019 is an established mechanism in those agreements and is not a reflection of the significant work we were doing. What\u2019s clear is the industry\u2019s continued need: the challenges in microelectronics and advanced packaging remain, and SRC\u2019s programs provide a durable path forward for collaborative R&amp;D and talent.\u201d</p><p> <cite class=\"pull-quote\">\u201cNIST has a reputation as a neutral and steadfast partner that can work with any industry and academic organization. This reputation is very much at risk\u201d</cite><span>\u2014Zoe Lofgren and Haley Stevens, House of Representatives Committee on Science Space, and Technology</span></p><p>The addition of SMART USA to SRC\u2019s portfolio led to some disruption, according to an academic participant who did not wish to be named. This scientist\u2019s three-year, $450,000 proposal had been accepted for funding in 2025, 2026, and 2027 under <a href=\"https://www.src.org/program/grc/about/mission/\" target=\"_blank\">SRC\u2019s Global Research Collaboration</a> program. But, early in 2025, years two and three of the grant were canceled and the scientist was invited to apply to SMART USA instead. </p><p>The new program required expanding the scope of the project, boosting the number of academic participants, and seeking participation and funding from SMART USA members. He joined up with researchers from eight other universities and a chipmaking equipment firm, then spent the summer writing a new proposal and trying to get SMART USA industry members on board. By August, \u201cwe were not able to secure enough funding commitments from SMART USA members to even submit,\u201d he said, adding that many of the SRC member companies that the group had been working with had not joined SMART USA by the time of submission, and those that had seemed to be putting in very little cash into the effort.</p><h2>Commerce vs. the CHIPS Act</h2><p>The withdrawal of funding from SMART USA echoes an earlier move that withdrew $7.4 billion from Natcast, the public-private partnership set up to run the National Semiconductor Technology Center, the CHIPS Act\u2019s main R&amp;D effort.</p><p>However, the two events are starkly different in tone and publicity. Commerce has so far made no public statement about SMART USA. But in a <a href=\"https://www.commerce.gov/sites/default/files/2025-08/Natcast-CEO-Letter.pdf\" target=\"_blank\">public letter</a> announcing the withdrawal of funds from Natcast, Commerce Secretary Howard Lutnick implied impropriety on the part of organization, its CEO\u2014<a href=\"https://corporate-awards.ieee.org/recipient/deirdre-hanford/\" target=\"_blank\">IEEE Frederik Philips Award</a> winner Dierdre Hanford\u2014and other experts involved in its creation. Within weeks, Natcast was forced to <a href=\"https://spectrum.ieee.org/natcast-layoffs\" target=\"_self\">lay off the majority of its staff</a> and has now folded. </p><p>In a <a href=\"https://democrats-science.house.gov/imo/media/doc/2025-12-17_HSST_Letter_Lofgren-Stevens_SmartUSA.pdf\" target=\"_blank\">letter to Craig Burkhardt</a>, Acting Undersecretary of Commerce for standards and technology, date 17 December, two members of the House of Representatives Committee on Science, Space, and Technology questioned the move to defund SMART USA. </p><p>California Democrat <a href=\"https://lofgren.house.gov/\" target=\"_blank\">Zoe Lofgren</a> and Michigan Democrat <a href=\"https://stevens.house.gov/\" target=\"_blank\">Haley Stevens</a> \u201cquestion the Department\u2019s recent decisions to halt or delay semiconductor research and development (R&amp;D) programs and awards authorized by Congress, and break existing obligations to industry and academia.\u201d</p><p>The lawmakers worry that these moves cause long term harm to the <a href=\"https://www.nist.gov/\" target=\"_blank\">National Institute of Science and Technology</a> (NIST), the agency within Commerce that implements the CHIPS Act. \u201cNIST has a reputation as a neutral and steadfast partner that can work with any industry and academic organization,\u201d they write. \u201cThis reputation is very much at risk. Few companies would willingly seek partnership with an organization that cancels its obligation on a whim.\u201d </p><p>The letter then went on to criticize NIST\u2019s <a href=\"https://www.nist.gov/chips/r%2526d-funding-opportunities/crdo-broad-agency-announcement-baa\" target=\"_blank\">solicitation of R&amp;D proposals</a> made in September in the wake of the destruction of Natcast. \u201cNIST seems to have pivoted its model to that of an investment accelerator or venture capital fund, funding riskier research in exchange for intellectual property and equity,\u201d they write. \u201cWhile there is a time and place for the venture capital model, especially in the private sector, dedicating the entire CHIPS R&amp;D program to it would unquestionably fail to meet the clear text and intent of the CHIPS Act.\u201d</p>"
+      },
+      {
         "id": "ce0ee2f223fbf481",
         "title": "Real-World Diagnostics and Prognostics for Grid-Connected Battery Energy Storage Systems",
         "url": "https://spectrum.ieee.org/sheffield-battery-energy-storage-system-research",
@@ -837,13 +828,58 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/smiling-portrait-of-abhishek-agrawal.jpg?id=62288075&amp;width=1200&amp;height=800&amp;coordinates=0%2C71%2C0%2C72\" /><br /><br /><p>If you\u2019ve shopped on <a href=\"https://www.aboutamazon.com/about-us\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon</a> in the past few months, you might have noticed it has gotten easier to find what you\u2019re looking for. Listings now have more images, detailed product names, and better descriptions. The website\u2019s predictive search feature uses the listing updates to anticipate needs and suggests a list of items in real time as you type in the search bar.</p><p>The improved shopping experience is thanks to <a href=\"https://www.linkedin.com/in/agrawalabhishekaa/\" rel=\"noopener noreferrer\" target=\"_blank\">Abhishek Agrawal</a> and his <a href=\"https://www.carbon6.io/blog/amazon-project-starfish-fba-prep-seller-updates-2025-08-01/\" rel=\"noopener noreferrer\" target=\"_blank\">Catalog AI</a> system. Launched in July, the tool collects information from across the Internet about products being sold on Amazon and, based on the data, updates listings to make them more detailed and organized.</p><h3>Abhishek Agrawal</h3><br /><p><strong>Employer</strong></p><p>Amazon Web Services in Seattle</p><p><strong>Job title</strong></p><p>Engineering leader</p><p><strong>Member grade </strong></p><p><strong></strong>Senior member</p><p><strong>Alma maters</strong></p><p><strong> </strong>University of Allahabad in India and the Indian Statistical Institute in Kolkata</p><p>Agrawal is an engineering leader at <a href=\"https://aws.amazon.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Web Services</a> in Seattle. An expert in AI and machine learning, the IEEE senior member worked on Microsoft\u2019s <a href=\"https://www.bing.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Bing</a> search engine before moving to Amazon. He also developed several features for <a href=\"https://www.microsoft.com/en-us/microsoft-teams/group-chat-software\" rel=\"noopener noreferrer\" target=\"_blank\">Microsoft Teams</a>, the company\u2019s direct messaging platform.</p><p>\u201cI\u2019ve been working in AI for more than 20 years now,\u201d he says. \u201dSeeing how much we can do with technology still amazes me.\u201d</p><p>He shares his expertise and passion for the technology as an active member and volunteer at the <a href=\"https://ieee-seattle.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Seattle Section</a>. He organizes and hosts career development workshops that teach people to create an AI agent, which can perform tasks autonomously with minimal human oversight.</p><h2>An AI career inspired by a computer</h2><p>Agrawal was born and raised in Chirgaon, a remote village in Uttar Pradesh, India. When he was growing up, no one in Chirgaon had a computer. His family owned a pharmacy, which Agrawal was expected to join after he graduated from high school. Instead, his uncle and older brother encouraged him to attend college and find his own passion.</p><p>He enjoyed mathematics and physics, and he decided to pursue a bachelor\u2019s degree in statistics at the <a href=\"https://www.allduniv.ac.in/\" rel=\"noopener noreferrer\" target=\"_blank\">University of Allahabad</a>. After graduating in 1996, he pursued a master\u2019s degree<strong> </strong>in statistics, statistical quality control, and operations research<strong> </strong>at the <a href=\"https://www.isical.ac.in/\" rel=\"noopener noreferrer\" target=\"_blank\">Indian Statistical Institute</a> in Kolkata.</p><p>While at the ISI, he saw a computer for the first time in the laboratory of <a href=\"https://www.isical.ac.in/~nikhil/\" rel=\"noopener noreferrer\" target=\"_blank\">Nikhil R. Pal</a>, an electronics and communication sciences professor. Pal worked on identifying abnormal clumps of cells in mammogram images using the<a href=\"https://ieeexplore.ieee.org/document/413225/\" rel=\"noopener noreferrer\" target=\"_blank\"> fuzzy c-means model</a>, a data-clustering technique employing a machine learning algorithm.</p><p>Agrawal earned his master\u2019s degree in 1998. He was so inspired by Pal\u2019s work, he says, that he stayed on at the university to earn a second master\u2019s degree, in computer science.</p><p>After graduating in 2001, he joined <a href=\"https://en.wikipedia.org/wiki/Novell\" rel=\"noopener noreferrer\" target=\"_blank\">Novell</a> as a senior software engineer working out of its Bengaluru office in India. He helped develop <a href=\"https://en.wikipedia.org/wiki/IFolder\" rel=\"noopener noreferrer\" target=\"_blank\">iFolder</a>, a storage platform that allows users across different computers to back up, access, and manage their files.</p><p>After four years, Agrawal left Novell to join Microsoft as a software design engineer, working at the company\u2019s <a href=\"https://www.microsoft.com/en-in/msidc/hyderabad-campus\" rel=\"noopener noreferrer\" target=\"_blank\">Hyderabad campus</a> in India. He was part of a team developing a system to upgrade Microsoft\u2019s software from <a href=\"https://en.wikipedia.org/wiki/Windows_XP\" rel=\"noopener noreferrer\" target=\"_blank\">XP</a> to <a href=\"https://en.wikipedia.org/wiki/Windows_Vista\" rel=\"noopener noreferrer\" target=\"_blank\">Vista</a>.</p><p>Two years later, he was transferred to the group developing Bing, a replacement for Microsoft\u2019s Live Search, which had been launched in 2006.</p><h2>Improving Microsoft\u2019s search engine</h2><p>Live Search had a traffic rate of less than 2 percent and struggled to keep up with <a href=\"https://www.google.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Google</a>\u2019s faster-paced, more user-friendly system, Agrawal says. He was tasked with improving search results but, Agrawal says, he and his team didn\u2019t have enough user search data to train their machine learning model.</p><p>Data for location-specific queries, such as nearby coffee shops or restaurants, was especially important, he says.</p><p>To overcome those challenges, the team used deterministic algorithms to create a more structured search. Such algorithms give the same answers for any query that uses the same specific terms. The process gets results by taking keywords\u2014such as locations, dates, and prices\u2014and finding them on webpages. To help the search engine understand what users need, Agrawal developed a query clarifier that asked them to refine their search. The machine learning tool then ranked the results from most to least relevant.</p><p>To test new features before they were launched, Agrawal and his team built an online A/B experimentation platform. Controlled tests were completed on different versions of the products, and the platform ran performance and user engagement metrics, then it produced a scorecard to show changes for updated features.</p><p>Bing launched in 2009 and is now the world\u2019s second-largest search engine, according to<a href=\"https://blackraven.digital/the-rise-of-bing-and-how-it-differs-from-google/\" rel=\"noopener noreferrer\" target=\"_blank\"> Black Raven</a>.</p><p>Throughout his 10 years of working on the system, Agrawal upgraded it. He also worked with the advertising department to improve Microsoft\u2019s services on Bing. Ads relevant to a person\u2019s search are listed among the search results.</p><p>\u201cThe work seems easy,\u201d Agrawal says, \u201cbut behind every search engine are hundreds of engineers powering ads, query formulations, rankings, relevance, and location detection.\u201d</p><h2>Testing products before launch </h2><p>Agrawal was promoted to software development manager in 2010. Five years later he was transferred to Microsoft\u2019s Seattle offices. At the time, the company was deploying new features for existing platforms without first testing them to ensure effectiveness. Instead, they measured their performance after release, Agrawal says, and that was wreaking havoc.</p><p>He proposed using his online A/B experimentation platform on all Microsoft products, not just Bing. His supervisor approved the idea. In six months Agrawal and his team modified the tool for company-wide use. Thanks to the platform, he says, Microsoft was able to smoothly deploy up-to-date products to users.</p><p>After another two years, he was promoted to principal engineering manager of Microsoft Teams, which was facing issues with user experience, he says.</p><p>\u201cMany employees received between 50 and 100 messages a day\u2014which became overwhelming for them,\u201d Agrawal says. To lessen the stress, he led a team that developed the system\u2019s first machine learning feature: Trending. It prioritized the five most important messages users should focus on. Agrawal also led the launch of incorporating emoji reactions, screen sharing, and video calls for Teams.</p><p>In 2020 he was ready for new experiences, he says, and he left Microsoft to join Amazon as an engineering leader.</p><h2>Improved Amazon shopping</h2><p>Agrawal led an Amazon team that manually collected information about products from the company\u2019s retail catalog to create a glossary. The data, which included product dimensions, color, and manufacturer, was used to standardize the language found in product descriptions to keep listings more consistent.</p><p>That is especially important when it comes to third-party sellers, he notes. Sellers listing a product had been entering as much or as little information as they wanted. Agrawal built a system that automatically suggests language from the glossary as the seller types.</p><p>He also developed an AI algorithm that utilizes the glossary\u2019s terminology to refine search results based on what a user types into the search bar. When a shopper types \u201cred mixer,\u201d for example, the algorithm lists products under the search bar that match the description. The shopper can then click on a product from the list.</p><p>In 2023 the retailer\u2019s catalog became too large for Agrawal and his team to collect information manually, so they built an AI tool to do it for them. It became the foundation for Amazon\u2019s Catalog AI system.</p><p>After gathering information about products from around the Web, Catalog AI uses large language models to update Amazon listings with missing information, correct errors, and rewrite titles and product specifications to make them clearer for the customer, Agrawal says.</p><p>The company expects the AI tool to increase sales this year by US $7.5 billion, according to a <a href=\"https://www.foxnews.com/tech/amazons-ai-wants-own-online-shopping-data\" rel=\"noopener noreferrer\" target=\"_blank\">Fox News report</a> in July.</p><h2>Finding purpose at IEEE</h2><p>Since Agrawal joined IEEE last December, he has been elevated to senior member and has become an active volunteer.</p><p>\u201cBeing part of IEEE has opened doors for collaboration, mentorship, and professional growth,\u201d he says. \u201cIEEE has strengthened both my technical knowledge and my leadership skills, helping me progress in my career.\u201d</p><p>Agrawal is the social media chair of the IEEE Seattle Section. He is also vice chair of the <a href=\"https://cis.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Computational Intelligence Society</a>.</p><p>He was a workshop cochair for the <a href=\"https://attend.ieee.org/neweraai25/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE New Era AI World Leaders Summit</a>, which was held from 5 to 7 December in Seattle. The event brought together government and industry leaders, as well as researchers and innovators working on AI, intelligent devices, <a href=\"https://spectrum.ieee.org/ukraine-weapons\" target=\"_self\">unmanned aerial vehicles</a>, and similar technologies. They explored how new tools could be used in cybersecurity, the medical field, and national disaster rescue missions.</p><p>Agrawal says he stays up to date on cutting-edge technologies by peer-reviewing 15 IEEE journals.</p><p>\u201cThe organization plays a very important role in bringing authenticity to anything that it does,\u201d he says. \u201cIf a journal article has the IEEE logo, you can believe that it was <a href=\"https://spectrum.ieee.org/ieee-research-integrity-process\" target=\"_self\">thoroughly and diligently reviewed</a>.\u201d</p>"
       },
       {
+        "id": "40fdf32872554962",
+        "title": "China figured out how to sell EVs. Now it has to bury their batteries.",
+        "url": "https://www.technologyreview.com/2025/12/18/1130148/china-ev-battery-recycle/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 18 Dec 2025 21:24:58 +0000",
+        "published_dt": "2025-12-18T21:24:58+00:00",
+        "summary": "In August 2025, Wang Lei decided it was finally time to say goodbye to his electric vehicle. Wang, who is 39, had bought the car in 2016, when EVs still felt experimental in Beijing. It was a compact Chinese brand. The subsidies were good, and the salesman talked about \u201csupporting domestic innovation.\u201d At the time,&#8230;"
+      },
+      {
+        "id": "6ac3bd587f944ecf",
+        "title": "Take our quiz on the year in health and biotechnology",
+        "url": "https://www.technologyreview.com/2025/12/18/1130140/take-our-quiz-on-the-year-in-health-and-biotechnology/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 18 Dec 2025 16:59:02 +0000",
+        "published_dt": "2025-12-18T16:59:02+00:00",
+        "summary": "In just a couple of weeks, we\u2019ll be bidding farewell to 2025. And what a year it has been! Artificial intelligence is being incorporated into more aspects of our lives, weight-loss drugs have expanded in scope, and there have been some real \u201comg\u201d biotech stories from the fields of gene therapy, IVF, neurotech, and more.&#160;&#160;&#160;&#8230;"
+      },
+      {
+        "id": "c820845662eb4a52",
+        "title": "The Download: the worst technology of 2025, and Sam Altman\u2019s AI hype",
+        "url": "https://www.technologyreview.com/2025/12/18/1130128/the-download-the-worst-technology-of-2025-and-sam-altmans-ai-hype/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 18 Dec 2025 13:10:00 +0000",
+        "published_dt": "2025-12-18T13:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The 8 worst technology flops of 2025 Welcome to our annual list of the worst, least successful, and simply dumbest technologies of the year. We like to think there\u2019s a lesson in every&#8230;"
+      },
+      {
+        "id": "16e5fa91eb01db4d",
+        "title": "The 8 worst technology flops of 2025",
+        "url": "https://www.technologyreview.com/2025/12/18/1130106/the-8-worst-technology-flops-of-2025/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 18 Dec 2025 12:00:00 +0000",
+        "published_dt": "2025-12-18T12:00:00+00:00",
+        "summary": "Welcome to our annual list of the worst, least successful, and simply dumbest technologies of the year. This year, politics was a recurring theme. Donald Trump swept back into office and used his executive pen to reshape the fortunes of entire sectors, from renewables to cryptocurrency. The wrecking-ball act began even before his inauguration, when&#8230;"
+      },
+      {
+        "id": "71f71858ba3087f4",
+        "title": "Can AI really help us discover new materials?",
+        "url": "https://www.technologyreview.com/2025/12/18/1130102/ai-materials-discovery/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 18 Dec 2025 11:00:00 +0000",
+        "published_dt": "2025-12-18T11:00:00+00:00",
+        "summary": "Judging from headlines and social media posts in recent years, one might reasonably assume that AI is going to fix the power grid, cure the world\u2019s diseases, and finish my holiday shopping for me. But maybe there\u2019s just a whole lot of hype floating around out there. This week, we published a new package called&#8230;"
+      },
+      {
         "id": "13e21be5a5a39b6e",
         "title": "This Valve Could Halve EV Fast-Charge Times",
         "url": "https://spectrum.ieee.org/breaking-ev-charging-bottlenecks",
         "source": "IEEE Spectrum",
         "published": "Wed, 17 Dec 2025 19:15:24 +0000",
         "published_dt": "2025-12-17T19:15:24+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/black-cylinder-stamped-with-the-word-hydrohertz.jpg?id=62595319&amp;width=1200&amp;height=800&amp;coordinates=62%2C0%2C63%2C0\" /><br /><br /><p>Fast, <a href=\"https://spectrum.ieee.org/tag/fast-charging\" target=\"_self\">direct-current charging</a> can charge an EV\u2019s battery from about 20 percent to 80 percent in 20 minutes. That\u2019s not bad, but it\u2019s still about six times longer than it takes to fill the tank of an ordinary petrol-powered vehicle.</p><p>One of the major bottlenecks to even faster charging is cooling, specifically uneven cooling inside big <a href=\"https://spectrum.ieee.org/vanadium-batteries\" target=\"_blank\">EV battery packs</a> as the pack is charged. <a href=\"https://www.hydrohertz.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Hydrohertz</a><span>, a British startup launched by former motorsport and power-electronics engineers, says it has a solution: fire liquid coolant exactly where it\u2019s needed during charging. Its solution, announced in November, is a rotary coolant router that fires coolant exactly where temperatures spike, and within milliseconds\u2014far faster than any single-loop system can react. In laboratory tests, this cooling tech allowed an EV battery to safely charge in less than half the time than was possible with conventional cooling architecture.</span></p><h2>A Smarter Way to Move Coolant</h2><p>Hydrohertz calls its solution <a href=\"https://www.hydrohertz.com/industries/show/the-dectravalve\" target=\"_blank\">Dectravalve</a>. It looks like a simple manifold, but it contains two concentric cylinders and a stepper motor to direct coolant to as many as four zones within the battery pack. It\u2019s installed in between the pack\u2019s <a href=\"https://www.trumonytechs.com/what-is-a-battery-cold-plate/\" target=\"_blank\">cold plates</a><span>, which are designed to efficiently remove heat from the battery cells through physical contact, and the main coolant supply loop, replacing a tangle of valves, brackets, sensors, and hoses.</span></p><p>To keep costs low, Hydrohertz designed Dectravalve to be produced with off-the-shelf materials, seals, and tolerances. <span>Keeping things simple and comparatively cheap could improve Dectravalve\u2019s chances of catching on with automakers and suppliers notorious for frugality. \u201cThermal management is trending toward simplicity and ultralow cost,\u201d says </span><a href=\"https://www.che.psu.edu/department/directory-detail-g.aspx?q=CXW31\" target=\"_blank\">Chao-Yang Wang</a><span>, a mechanical and chemical engineering professor at </span><a href=\"https://www.che.psu.edu/index.aspx\" target=\"_blank\">Penn State</a><span> whose research areas include dealing with issues related to internal fluids in batteries and fuel cells. Automakers would prefer passive cooling, he notes\u2014but not if it slows fast charging. So, at least for now, Intelligent control is essential.</span></p><p class=\"pull-quote\">\u201cIf Dectravalve works as advertised, I\u2019d expect to see a roughly 20-percent improvement in battery longevity, which is a lot.\u201d<br /><span>\u2013Anna Stefanopoulou, University of Michigan</span></p><p><span></span>Hydrohertz built Dectravalve to work with ordinary water-glycol, otherwise known as antifreeze, keeping integration simple. Using generic antifreeze avoids a step in the validation process where a supplier or EV manufacturer would otherwise have to establish whether some special formulation is compatible with the rest of the cooling system and doesn\u2019t cause unforeseen complications. And because one Dectravalve can replace the multiple valves and plumbing assemblies of a conventional cooling system, it lowers the parts count, reduces leak points, and cuts warranty risk, Hydrohertz founder and CTO <a href=\"https://uk.linkedin.com/in/martyn-talbot-bb06a9100\" target=\"_blank\">Martyn Talbot</a> claims. The tighter thermal control also lets automakers shrink oversized pumps, hoses, and heat exchangers, improving both cost and vehicle packaging.</p><p>The valve reads pack temperatures several times per second and shifts coolant flow instantly. If a high-load event\u2014like a fast charge\u2014is coming, it pre-positions itself so more coolant is apportioned to known hotspots before the temperature rises in them.</p><p>Multi-zone control can also speed warm-up to prevent the battery degradation that comes from charging at frigid temperatures. \u201cYou can send warming fluid to heat half the pack fast so it can safely start taking load,\u201d says  <a href=\"https://me.engin.umich.edu/people/faculty/anna-stefanopoulou/\" target=\"_blank\">Anna Stefanopoulou</a>, a professor of mechanical engineering at the <a href=\"https://umich.edu/\" target=\"_blank\">University of Michigan</a> who specializes in control systems, energy, and transportation technologies. That half can begin accepting load, while the system begins warming the rest of the pack more gradually, she explains. But Dectravalve\u2019s main function remains cooling fast-heating troublesome cells so they don\u2019t slow charging.</p><p>Quick response to temperature changes inside the battery doesn\u2019t increase the cooling capacity, but it leverages existing hardware far more efficiently. \u201cControl the coolant with more precision and you get more performance for free,\u201d says <a href=\"https://uk.linkedin.com/in/martyn-talbot-bb06a9100\" target=\"_blank\">Talbot</a>.</p><h2>Charge Times Can Be Cut By 60 Percent</h2><p>In early 2025, the Dectravalve underwent bench testing conducted by the <a href=\"https://warwick.ac.uk/fac/sci/wmg/\" rel=\"noopener noreferrer\" target=\"_blank\">Warwick Manufacturing Group</a> (WMG), a multidisciplinary research center at the <a href=\"https://warwick.ac.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">University of Warwick</a>, in Coventry, England, that works with transport companies to improve the manufacturability of battery systems and other technologies. WMG compared Dectravalve\u2019s cooling performance with that of a conventional single-loop cooling system using the same 100-kilowatt-hour battery pack. During 10\u201380 percent fast-charge trials, Dectravalve held peak cell temperature below 44.5 \u00b0C and kept cell-to-cell temperature variation to just below 3 \u00b0C without intervention from the battery management system. Similar thermal performance for the single-loop system was only made possible by dialing back the amount of power the battery would accept\u2014the very tapering that keeps fast charging from being on par with gasoline fill-ups.</p><p>Keeping the cell temperatures below 50 \u00b0C was key, because above that temperature <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0360128521000514\" rel=\"noopener noreferrer\" target=\"_blank\">lithium plating</a> begins. The battery suffers irreversible damage when lithium starts coating the surface of the anode\u2014the part of the battery where electrical charge is stored during charging\u2014instead of filling its internal network of pores the way water does when it\u2019s absorbed by a sponge. Plating greatly diminishes the battery\u2019s charge storage capacity. Letting the battery get too hot can also cause the electrolyte to break down. The result is inhibited flow of ions between the electrodes. And reduced flow within the battery means reduced flow in the external circuit, which powers the vehicle\u2019s motors. </p><p>Because the Dectravalve kept temperatures low and uniform\u2014and the battery management system didn\u2019t need to play energy traffic cop and slow charging to a crawl to avoid overheating\u2014charging time was cut by roughly 60 percent. With Dectravalve, the battery reached 80-percent state of charge in between 10 and 13 minutes, versus 30 minutes with the single-cooling-loop setup, according to Hydrohertz.</p><p><br /></p><h2> <strong>When Batteries Keep Cool, They Live Longer</strong></h2><p>Using Warwick\u2019s temperature data, Hydrohertz applied standard degradation models and found that cooler, more uniform packs last longer. Stefanopoulou estimates that if Dectravalve works as advertised, it could boost battery life by roughly 20 percent. \u201cThat\u2019s a lot,\u201d she says.</p><p>Still, it could be years before the system shows up on new EVs, if ever. Automakers will need years of cycle testing, crash trials, and cost studies before signing off on a new coolant architecture. Hydrohertz says several EV makers and battery suppliers have begun validation programs, and Talbot expects licensing deals to ramp up as results come in. But even in a best-case scenario, Dectravalve won\u2019t be keeping production-model EV batteries cool for at least three model years.</p>"
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/black-cylinder-stamped-with-the-word-hydrohertz.jpg?id=62595319&amp;width=1200&amp;height=800&amp;coordinates=62%2C0%2C63%2C0\" /><br /><br /><p>Fast, <a href=\"https://spectrum.ieee.org/tag/fast-charging\" target=\"_self\">direct-current charging</a> can charge an EV\u2019s battery from about 20 percent to 80 percent in 20 minutes. That\u2019s not bad, but it\u2019s still about six times as long as it takes to fill the tank of an ordinary petrol-powered vehicle.</p><p>One of the major bottlenecks to even faster charging is cooling, specifically uneven cooling inside big <a href=\"https://spectrum.ieee.org/vanadium-batteries\" target=\"_blank\">EV battery packs</a> as the pack is charged. <a href=\"https://www.hydrohertz.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Hydrohertz</a><span>, a British startup launched by former motorsport and power-electronics engineers, says it has a solution: fire liquid coolant exactly where it\u2019s needed during charging. Its solution, announced in November, is a rotary coolant router that fires coolant exactly where temperatures spike, and within milliseconds\u2014far faster than any single-loop system can react. In laboratory tests, this cooling tech allowed an EV battery to safely charge in less than half the time than was possible with conventional cooling architecture.</span></p><h2>A Smarter Way to Move Coolant</h2><p>Hydrohertz calls its solution <a href=\"https://www.hydrohertz.com/industries/show/the-dectravalve\" target=\"_blank\">Dectravalve</a>. It looks like a simple manifold, but it contains two concentric cylinders and a stepper motor to direct coolant to as many as four zones within the battery pack. It\u2019s installed in between the pack\u2019s <a href=\"https://www.trumonytechs.com/what-is-a-battery-cold-plate/\" target=\"_blank\">cold plates</a><span>, which are designed to efficiently remove heat from the battery cells through physical contact, and the main coolant supply loop, replacing a tangle of valves, brackets, sensors, and hoses.</span></p><p>To keep costs low, Hydrohertz designed Dectravalve to be produced with off-the-shelf materials, and seals, as well as dimensional  tolerances that can be met with the fabrication tools used by many major parts suppliers. <span>Keeping things simple and comparatively cheap could improve Dectravalve\u2019s chances of catching on with automakers and suppliers notorious for frugality. \u201cThermal management is trending toward simplicity and ultralow cost,\u201d says </span><a href=\"https://www.che.psu.edu/department/directory-detail-g.aspx?q=CXW31\" target=\"_blank\">Chao-Yang Wang</a><span>, a mechanical and chemical engineering professor at </span><span><a href=\"https://www.che.psu.edu/index.aspx\" target=\"_blank\">Pennsylvania State University</a> whose research areas include dealing with issues related to internal fluids in batteries and fuel cells. Automakers would prefer passive cooling, he notes\u2014but not if it slows fast charging. So, at least for now, Intelligent control is essential.</span></p><p class=\"pull-quote\">\u201cIf Dectravalve works as advertised, I\u2019d expect to see a roughly 20 percent improvement in battery longevity, which is a lot.\u201d<span><strong>\u2013Anna Stefanopoulou, University of Michigan</strong></span></p><p><span></span>Hydrohertz built Dectravalve to work with ordinary water-glycol, otherwise known as antifreeze, keeping integration simple. Using generic antifreeze avoids a step in the validation process where a supplier or EV manufacturer would otherwise have to establish whether some special formulation is compatible with the rest of the cooling system and doesn\u2019t cause unforeseen complications. And because one Dectravalve can replace the multiple valves and plumbing assemblies of a conventional cooling system, it lowers the parts count, reduces leak points, and cuts warranty risk, Hydrohertz founder and CTO <a href=\"https://uk.linkedin.com/in/martyn-talbot-bb06a9100\" target=\"_blank\">Martyn Talbot</a> claims. The tighter thermal control also lets automakers shrink oversize pumps, hoses, and heat exchangers, improving both cost and vehicle packaging.</p><p>The valve reads battery-pack temperatures several times per second and shifts coolant flow instantly. If a high-load event\u2014like a fast charge\u2014is coming, it prepositions itself so more coolant is apportioned to known hot spots before the temperature rises in them.</p><p>Multizone control can also speed warm-up to prevent the battery degradation that comes from charging at frigid temperatures. \u201cYou can send warming fluid to heat half the pack fast so it can safely start taking load,\u201d says  <a href=\"https://me.engin.umich.edu/people/faculty/anna-stefanopoulou/\" target=\"_blank\">Anna Stefanopoulou</a>, a professor of mechanical engineering at the <a href=\"https://umich.edu/\" target=\"_blank\">University of Michigan</a> who specializes in control systems, energy, and transportation technologies. That half can begin accepting load, while the system begins warming the rest of the pack more gradually, she explains. But Dectravalve\u2019s main function remains cooling fast-heating troublesome cells so they don\u2019t slow charging.</p><p>Quick response to temperature changes inside the battery doesn\u2019t increase the cooling capacity, but it leverages existing hardware far more efficiently. \u201cControl the coolant with more precision and you get more performance for free,\u201d says <a href=\"https://uk.linkedin.com/in/martyn-talbot-bb06a9100\" target=\"_blank\">Talbot</a>.</p><h2>Charge Times Can Be Cut By 60 Percent</h2><p>In early 2025, the Dectravalve underwent bench testing conducted by the <a href=\"https://warwick.ac.uk/fac/sci/wmg/\" target=\"_blank\">Warwick Manufacturing Group</a> (WMG), a multidisciplinary research center at the <a href=\"https://warwick.ac.uk/\" target=\"_blank\">University of Warwick</a>, in Coventry, England, that works with transport companies to improve the manufacturability of battery systems and other technologies. WMG compared Dectravalve\u2019s cooling performance with that of a conventional single-loop cooling system using the same 100-kilowatt-hour battery pack. During fast-charge trials from 10 percent to 80 percent, Dectravalve held peak cell temperature below 44.5 \u00b0C and kept cell-to-cell temperature variation to just below 3 \u00b0C without intervention from the battery management system. Similar thermal performance for the single-loop system was made possible only by dialing back the amount of power the battery would accept\u2014the very tapering that keeps fast charging from being on par with gasoline fill-ups.</p><p>Keeping the cell temperatures below 50 \u00b0C was key, because above that temperature <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0360128521000514\" target=\"_blank\">lithium plating</a> begins. The battery suffers irreversible damage when lithium starts coating the surface of the anode\u2014the part of the battery where electrical charge is stored during charging\u2014instead of filling its internal network of pores the way water does when it\u2019s absorbed by a sponge. Plating greatly diminishes the battery\u2019s charge-storage capacity. Letting the battery get too hot can also cause the electrolyte to break down. The result is inhibited flow of ions between the electrodes. And reduced flow within the battery means reduced flow in the external circuit, which powers the vehicle\u2019s motors. </p><p>Because the Dectravalve kept temperatures low and uniform\u2014and the battery management system didn\u2019t need to play energy traffic cop and slow charging to a crawl to avoid overheating\u2014charging time was cut by roughly 60 percent. With Dectravalve, the battery reached 80 percent state of charge in between 10 and 13 minutes, versus 30 minutes with the single-cooling-loop setup, according to Hydrohertz.</p><p><br /></p><h2> <strong>When Batteries Keep Cool, They Live Longer</strong></h2><p>Using Warwick\u2019s temperature data, Hydrohertz applied standard degradation models and found that cooler, more uniform packs last longer. Stefanopoulou estimates that if Dectravalve works as claimed, it could boost battery life by roughly 20 percent. \u201cThat\u2019s a lot,\u201d she says.</p><p>Still, it could be years before the system shows up on new EVs, if ever. Automakers will need years of cycle testing, crash trials, and cost studies before signing off on a new coolant architecture. Hydrohertz says several EV makers and battery suppliers have begun validation programs, and CTO Talbot expects licensing deals to ramp up as results come in. But even in a best-case scenario, Dectravalve won\u2019t be keeping production-model EV batteries cool for at least three model years.</p>"
       },
       {
         "id": "0e819740d6d65d38",
@@ -871,42 +907,6 @@
         "published": "Wed, 17 Dec 2025 11:00:00 +0000",
         "published_dt": "2025-12-17T11:00:00+00:00",
         "summary": "Omar Yaghi was a quiet child, diligent, unlikely to roughhouse with his nine siblings. So when he was old enough, his parents tasked him with one of the family\u2019s most vital chores: fetching water. Like most homes in his Palestinian neighborhood in Amman, Jordan, the Yaghis\u2019 had no electricity or running water. At least once&#8230;"
-      },
-      {
-        "id": "c34751f67298c644",
-        "title": "This AI Can Beat You At Rock-Paper-Scissors",
-        "url": "https://spectrum.ieee.org/analog-reservoir-computer",
-        "source": "IEEE Spectrum",
-        "published": "Tue, 16 Dec 2025 16:00:02 +0000",
-        "published_dt": "2025-12-16T16:00:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/close-up-of-tdk-s-prototype-of-an-analog-reservoir-ai-chip.jpg?id=62299641&amp;width=1200&amp;height=800&amp;coordinates=0%2C83%2C0%2C84\" /><br /><br /><p>Rock-paper-scissors is often a game of psychology, reverse psychology, reverse-reverse psychology, and chance. But what if a computer could understand you well enough to win every time? A team at Hokkaido University and the <a href=\"https://www.tdk.com/en/index.html\" target=\"_blank\">TDK Corp.</a> (of cassette-tape fame), both based in Japan, has designed a chip that can do just that.</p><p>Okay, the chip does not read your mind. It uses an acceleration sensor placed on your thumb to measure your motion and eventually earns which motions represent paper, scissors, or rock. The amazing thing is, once it\u2019s trained on your particular gestures, the chip can run the calculation predicting what you\u2019ll do in the time it takes you to say \u201cshoot,\u201d allowing it to defeat you in real time.</p><p>The technique behind this feat is called reservoir computing, which is a machine learning method that uses a complex dynamical system to extract meaningful features from time-series data. The idea of reservoir computing goes as far back as the <a href=\"https://direct.mit.edu/jocn/article-abstract/7/3/311/3172/A-Model-of-Corticostriatal-Plasticity-for-Learning?redirectedFrom=fulltext\" rel=\"noopener noreferrer\" target=\"_blank\">1990s</a>. With the growth of artificial intelligence, there has been renewed interest in reservoir computing due to its comparatively low power requirements and its potential for fast training and inference.</p><p>The research team saw power consumption as a target, says <a href=\"https://www.linkedin.com/in/tomoyuki-sasaki-98284b193/?originalSubdomain=jp\" rel=\"noopener noreferrer\" target=\"_blank\">Tomoyuki Sasaki</a>, section head and senior manager at TDK, who worked on the device. \u201cThe second target is the latency issue. In the case of the edge AI, latency is a huge problem.\u201d</p><p>To minimize the energy and latency of their setup, the team developed a CMOS hardware implementation of an analog reservoir-computing circuit. The team presented their demo at the <a href=\"https://www.ceatec.com/en/\" rel=\"noopener noreferrer\" target=\"_blank\">Combined Exhibition of Advanced Technologies</a> conference in Chiba, Japan, in October and are presenting their paper at the <a href=\"https://rebootingcomp.github.io/icrc2025/#registration\" rel=\"noopener noreferrer\" target=\"_blank\">International Conference on Rebooting Computing</a> in San Diego this week.</p><h2>What is reservoir computing?</h2><p>A reservoir computer is best understood in contrast to traditional <a href=\"https://spectrum.ieee.org/what-is-deep-learning/neural-network\" target=\"_self\">neural networks</a>, the basic architecture underlying much of AI today.</p><p>A neural network consists of artificial neurons, arranged in layers. Each layer can be thought of as a column of neurons, with each neuron in a column connecting to all the neurons in the next column via weighted artificial synapses. Data enters into the first column and propagates from left to right, layer by layer, until the final column.</p><p>During training, the output of the final layer is compared to the correct answer, and this information is used to adjust the weights in all the synapses, this time working backward, layer by layer, in a process called <a href=\"https://www.ibm.com/think/topics/backpropagation\" target=\"_blank\">backpropagation</a>.</p><p>This setup has two important features. First, the data travels only one way\u2014forward. There are no loops. Second, all of the weights connecting any pair of neurons are adjusted during the training process. This architecture has proven extremely effective and flexible, but it is also costly; adjusting what sometimes ends up being billions of weights takes both time and power.</p><p>Reservoir computing is also built with artificial neurons and synapses, but they are arranged in a fundamentally different way. First, there are no layers\u2014the neurons are connected to other neurons in a complicated, weblike way with plenty of loops. This imbues the network with a type of memory, where a particular input can keep coming back around.</p><p>Second, the connections within the reservoir are fixed. The data enters the reservoir, propagates through its complex structure, and then is connected by a set of final synapses to the output. It\u2019s only this last set of synapses, with their weights, that actually gets adjusted during training. This approach greatly simplifies the training process, and eliminates the need for backpropagation altogether.</p><p>Given that the reservoir is fixed, and the only part that\u2019s trained is a final \u201ctranslation\u201d layer from the reservoir to the desired output, it may seem like a miracle that these networks can be useful at all. And yet, for certain tasks, they have proved to be extremely effective.</p><p>\u201cThey\u2019re by no means a blanket best model to use in the machine learning toolbox,\u201d says <a href=\"https://www.cs.ucsb.edu/people/faculty/sanjukta-krishnagopal\" rel=\"noopener noreferrer\" target=\"_blank\">Sanjukta Krishnagopal</a>, assistant professor of computer science at the University of California, Santa Barbara, who was not involved in the work. But for predicting the time evolution of things that behave chaotically, such as for example, the weather, they are the right tool for the job. \u201cThis is where reservoir computing shines.\u201d</p><p>The reason is that the reservoir itself is a bit chaotic. \u201cYour reservoir is usually operating at what\u2019s called the edge of chaos, which means it can represent a large number of possible states, very simply, with a very small neural network,\u201d Krishnagopal says. </p><h2>A physical-reservoir computer</h2><p>The artificial synapses inside the reservoir are fixed, and backpropagation does not need to happen. This leaves a lot of freedom in how the reservoir is implemented. To build physical reservoirs, people have used a wide variety of mediums, including <a href=\"https://www.nature.com/articles/s41467-024-55172-3\" rel=\"noopener noreferrer\" target=\"_blank\">light</a>, <a href=\"https://spectrum.ieee.org/artificial-intelligence-on-a-mems-device-brings-neuromorphic-computing-to-the-edge\" target=\"_self\">MEMS devices</a>, and my personal favorite, <a href=\"https://link.springer.com/chapter/10.1007/978-3-540-39432-7_63\" rel=\"noopener noreferrer\" target=\"_blank\">literal buckets of water</a>.</p><p>However, the team at Hokkaido and TDK wanted to create a CMOS-compatible chip that could be used in edge devices. To implement an artificial neuron, the team designed an analog circuit node. Each node is made up of three components: a nonlinear resistor, a memory element based on MOS capacitors, and a buffer amplifier. Their chip consisted of four cores, each made up of 121 such nodes.</p><p>Wiring up the nodes to connect with each other in the complex recurring patterns required for a reservoir is difficult. To cut down on the complexity, the team decided on a so-called simple cycle reservoir, with all the nodes connected in one big loop. <a href=\"https://dl.acm.org/doi/abs/10.5555/3722577.3722735\" rel=\"noopener noreferrer\" target=\"_blank\">Prior work</a> has suggested that even this relatively simple configuration is capable of modeling a wide range of complicated dynamics.</p><p>Using this design, the team was able to build a chip that consumed only 20 microwatts of power per core, or 80 \u00b5W of power total\u2014significantly less than other CMOS-compatible physical-reservoir computing designs, the authors say.<strong></strong></p><h2>Predicting the future</h2><p>Aside from defeating humans at rock-paper-scissors, the reservoir-computing chip can predict the next step in a time series in many different domains. <span>\u201cI</span><span>f what occurs today is affected by yesterday\u2019s data, or other past data, it can predict the result,</span><span>\u201d </span><span>Sasaki says.</span></p><p>The team demonstrated the chip\u2019s abilities on several tasks, including predicting the behavior of a well-known chaotic system known as a <a href=\"https://en.wikipedia.org/wiki/Logistic_map\" target=\"_blank\">logistic map</a>. The team also used the device on the archetypal real-world example of chaos: the weather. For both test cases, the chip was able to predict the next step with remarkable accuracy.</p><p>The precision of the prediction is not the main selling point, however. The extremely low power use and low latency offered by the chip could enable a new set of applications, such as real-time learning on wearables and other edge devices.</p><p>\u201cI think the prediction is actually the same as the present technology,\u201d Sasaki says. \u201cHowever, the power consumption, the operation speed, is maybe 10 times better than the present AI technology. That is a big difference.\u201d</p>"
-      },
-      {
-        "id": "758a0b1eef16e03b",
-        "title": "Creating psychological safety in the AI era",
-        "url": "https://www.technologyreview.com/2025/12/16/1125899/creating-psychological-safety-in-the-ai-era/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 16 Dec 2025 15:00:00 +0000",
-        "published_dt": "2025-12-16T15:00:00+00:00",
-        "summary": "Rolling out enterprise-grade AI means climbing two steep cliffs at once. First, understanding and implementing the tech itself. And second, creating the cultural conditions where employees can maximize its value. While the technical hurdles are signi\ufb01cant, the human element can be even more consequential; fear and ambiguity can stall momentum of even the most promising&#8230;"
-      },
-      {
-        "id": "866a2837e5442b24",
-        "title": "The Download: why 2025 has been the year of AI hype correction, and fighting GPS jamming",
-        "url": "https://www.technologyreview.com/2025/12/16/1129944/the-download-why-2025-has-been-the-year-of-ai-hype-correction-and-fighting-gps-jamming/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 16 Dec 2025 13:10:00 +0000",
-        "published_dt": "2025-12-16T13:10:00+00:00",
-        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The great AI hype correction of 2025 Some disillusionment was inevitable. When OpenAI released a free web app called ChatGPT in late 2022, it changed the course of an entire industry\u2014and several world&#8230;"
-      },
-      {
-        "id": "cf94204c19b0417a",
-        "title": "Why it\u2019s time to reset our expectations for AI",
-        "url": "https://www.technologyreview.com/2025/12/16/1129946/why-its-time-to-reset-our-expectations-for-ai/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 16 Dec 2025 12:29:04 +0000",
-        "published_dt": "2025-12-16T12:29:04+00:00",
-        "summary": "Can I ask you a question: How do you feel about AI right now? Are you still excited? When you hear that OpenAI or Google just dropped a new model, do you still get that buzz? Or has the shine come off it, maybe just a teeny bit? Come on, you can be honest with&#8230;"
       }
     ]
   }
