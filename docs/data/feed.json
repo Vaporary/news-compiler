@@ -1,42 +1,78 @@
 {
-  "generated_at": "2026-01-19T13:03:46.605467+00:00",
+  "generated_at": "2026-01-20T13:04:20.981484+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "759daa1a5b46dbdf",
-        "title": "Going beyond pilots with composable and sovereign AI",
-        "url": "https://www.technologyreview.com/2026/01/19/1131422/going-beyond-pilots-with-composable-and-sovereign-ai/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 19 Jan 2026 11:59:33 +0000",
-        "published_dt": "2026-01-19T11:59:33+00:00",
-        "summary": "Today marks an inflection point for enterprise AI adoption. Despite billions invested in generative AI, only 5% of integrated pilots deliver measurable business value and nearly one in two companies abandons AI initiatives before reaching production. The bottleneck is not the models themselves. What\u2019s holding enterprises back is the surrounding infrastructure: Limited data accessibility, rigid&#8230;"
-      },
-      {
-        "id": "d907d701b83ab747",
-        "title": "What it\u2019s like to be banned from the US for fighting online hate",
-        "url": "https://www.technologyreview.com/2026/01/19/1131384/what-its-like-to-be-banned-from-the-us-for-fighting-online-hate/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 19 Jan 2026 10:00:00 +0000",
-        "published_dt": "2026-01-19T10:00:00+00:00",
-        "summary": "It was early evening in Berlin, just a day before Christmas Eve, when Josephine Ballon got an unexpected email from US Customs and Border Protection. The status of her ability to travel to the United States had changed\u2014she\u2019d no longer be able to enter the country.&#160; At first, she couldn\u2019t find any information online as&#8230;"
-      },
-      {
-        "id": "8754736df57a7577",
-        "title": "STAT+: Former AMA president says the U.S. health care system will implode without an overhaul",
-        "url": "https://www.statnews.com/2026/01/19/aidoc-jesse-ehrenfeld-former-ama-preisdent-on-health-ai/?utm_campaign=rss",
+        "id": "a202307708bdda4f",
+        "title": "STAT+: Corvus pill shows promise in early-stage eczema trial",
+        "url": "https://www.statnews.com/2026/01/20/corvus-pill-eczema-study-soquelitinib-dupixent/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Mon, 19 Jan 2026 09:30:00 +0000",
-        "published_dt": "2026-01-19T09:30:00+00:00",
-        "summary": "In an interview, Aidoc's Jesse Ehrenfeld talks about how AI tools can help health systems overcome staffing shortages."
+        "published": "Tue, 20 Jan 2026 12:00:00 +0000",
+        "published_dt": "2026-01-20T12:00:00+00:00",
+        "summary": "An eczema pill in development from Corvus Pharmaceuticals helped improve patients' skin in an early study."
       },
       {
-        "id": "758beef745f2f2aa",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/immunology-biotech-agomab-eye-focused-spyglass-share-ipo-ambitions\" hreflang=\"en\">Immunology biotech Agomab, eye-focused SpyGlass are latest biotechs to share IPO ambitions</a>",
-        "url": "https://www.fiercebiotech.com/biotech/immunology-biotech-agomab-eye-focused-spyglass-share-ipo-ambitions",
+        "id": "43e45bf4742d2702",
+        "title": "Opinion: STAT+: Excitement and wariness as FDA shifts to much more flexible cell and gene therapy oversight",
+        "url": "https://www.statnews.com/2026/01/20/fda-cell-gene-therapy-cgt-oversight-flexible-system-risks/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 20 Jan 2026 09:30:00 +0000",
+        "published_dt": "2026-01-20T09:30:00+00:00",
+        "summary": "These could arguably be the largest changes ever to cell and gene therapy oversight in the U.S."
+      },
+      {
+        "id": "2bfb61e07a78f54c",
+        "title": "STAT+: Florida proposes cutting eligibility for an AIDS drug program, causing panic",
+        "url": "https://www.statnews.com/pharmalot/2026/01/20/florida-hiv-aids-gilead-health-insurance/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 20 Jan 2026 09:30:00 +0000",
+        "published_dt": "2026-01-20T09:30:00+00:00",
+        "summary": "In a surprise move, Florida officials have proposed drastically reducing eligibility for the state AIDS drug assistance program."
+      },
+      {
+        "id": "5f3cc7d261a2ca1f",
+        "title": "STAT+: RFK Jr. is moving to remake a little-known vaccine panel. It could have big consequences",
+        "url": "https://www.statnews.com/2026/01/20/kennedy-fires-vaccine-injury-compensation-advisers-vicp-accv/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 20 Jan 2026 09:30:00 +0000",
+        "published_dt": "2026-01-20T09:30:00+00:00",
+        "summary": "Firing the advisory panel's members could be a first step toward revamping the vaccine injury compensation system."
+      },
+      {
+        "id": "aecdf3cc5a4f12a6",
+        "title": "Is \u2018shared decision-making\u2019 being hijacked by U.S. health officials to sow doubt about vaccines?",
+        "url": "https://www.statnews.com/2026/01/20/shared-decision-making-vaccine-guidance-twists-meaning-of-term/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 20 Jan 2026 09:30:00 +0000",
+        "published_dt": "2026-01-20T09:30:00+00:00",
+        "summary": "Experts worry that health officials' use of 'shared decision-making' in new vaccine guidance distorts the concept's meaning and disregards the importance of evidence."
+      },
+      {
+        "id": "a2aa6d60c1ed7093",
+        "title": "Opinion: It\u2019s time to translate vague unease around stem cell IVF into clear guardrails",
+        "url": "https://www.statnews.com/2026/01/20/stem-cell-ivf-ethics-regulation-complications/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 20 Jan 2026 09:30:00 +0000",
+        "published_dt": "2026-01-20T09:30:00+00:00",
+        "summary": "Stem cell IVF could enable same-sex couples and single parents to have genetically related children. It\u2019s time to think through ethics and regulation."
+      },
+      {
+        "id": "492e9b24c041875d",
+        "title": "STAT+: GSK to buy RAPT Therapeutics, maker of food allergy treatment, in $2.2B deal",
+        "url": "https://www.statnews.com/2026/01/20/gsk-rapt-therapeutics-acquisition-food-allergy-prophylaxis-ozureprubart/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 20 Jan 2026 08:01:57 +0000",
+        "published_dt": "2026-01-20T08:01:57+00:00",
+        "summary": "GSK is buying RAPT Therapeutics in a deal worth $2.2 billion, picking up an experimental medicine for food allergies."
+      },
+      {
+        "id": "a1742676b2c5c798",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-pays-22b-buy-rapt-its-phase-2-stage-food-allergy-challenger-xolair\" hreflang=\"en\">GSK pays $2.2B to buy Rapt for its phase 2-stage food allergy challenger to Xolair</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gsk-pays-22b-buy-rapt-its-phase-2-stage-food-allergy-challenger-xolair",
         "source": "Fierce Biotech",
-        "published": "Jan 19, 2026 4:51am",
-        "published_dt": "2026-01-19T04:51:00+00:00",
-        "summary": "Immunology biotech Agomab Therapeutics and eye-focused SpyGlass Pharma have both unveiled their intentions to go public, in the latest sign that the IPO window is reopening in 2026."
+        "published": "Jan 20, 2026 4:38am",
+        "published_dt": "2026-01-20T04:38:00+00:00",
+        "summary": "GSK is paying $2.2 billion to buy Rapt Therapeutics and its anti-immunoglobulin E (IgE) antibody to protect against food allergy reactions."
       },
       {
         "id": "e323efb9ad5bb50c",
@@ -66,6 +102,15 @@
         "summary": "ImmunityBio has reported ongoing complete responses of up to 15 months in two recipients of its CAR-NK cell therapy, leading the biopharma to talk up the prospects of the off-the-shelf blood cancer treatment."
       },
       {
+        "id": "6956b293946765a4",
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/fda-grants-rmat-designation-iregenes-nouvneu001-cementing-its-lead-worlds-first-ipsc\" hreflang=\"en\">FDA Grants RMAT Designation to iRegene\u2019s NouvNeu001, Cementing its Lead as the World\u2019s First iPSC Therapy with Both FTD and RMAT Recognitions</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/fda-grants-rmat-designation-iregenes-nouvneu001-cementing-its-lead-worlds-first-ipsc",
+        "source": "Fierce Biotech",
+        "published": "Jan 15, 2026 10:49am",
+        "published_dt": "2026-01-15T10:49:00+00:00",
+        "summary": "iRegene\u2019s NouvNeu001 earns dual FTD/RMAT status, a first for iPSC therapies. Strong Phase I data in PD validates its scalable chemical induction platform."
+      },
+      {
         "id": "e00d0bc2da97f497",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/ocugen-posts-midphase-gene-therapy-data-charting-course-rivalry-apellis-and-astellas\" hreflang=\"en\">Ocugen posts midphase gene therapy data, charting course for rivalry with Apellis, Astellas </a>",
         "url": "https://www.fiercebiotech.com/biotech/ocugen-posts-midphase-gene-therapy-data-charting-course-rivalry-apellis-and-astellas",
@@ -73,6 +118,96 @@
         "published": "Jan 15, 2026 9:23am",
         "published_dt": "2026-01-15T09:23:00+00:00",
         "summary": "Ocugen has reported preliminary phase 2 data on its eye disease gene therapy, providing more evidence that the candidate may outperform existing treatments from Apellis and Astellas. <br />"
+      },
+      {
+        "id": "2e1495361f6c2d6d",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Exciva earns $59M for agitation trial; Cytotheryx circles $60M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "published_dt": "2025-12-22T15:30:00+00:00",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs."
+      },
+      {
+        "id": "e8d09b869ad9ecd3",
+        "title": "STAT+: Congress revives bipartisan health care proposal, including drug middlemen provisions",
+        "url": "https://www.statnews.com/2026/01/19/bipartisan-health-care-package-pharmacy-benefit-manager/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 20 Jan 2026 01:03:32 +0000",
+        "published_dt": "2026-01-20T01:03:32+00:00",
+        "summary": "Elements of a health care deal that was blown up by Elon Musk are getting a fresh look in Congress."
+      },
+      {
+        "id": "4266cf5ec9c5dc0c",
+        "title": "Bariatric surgery beats GLP-1s for type 2 diabetes across income levels, study says",
+        "url": "https://www.statnews.com/2026/01/19/diabetes-study-bariatric-surgery-better-than-glp-1s/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 19 Jan 2026 22:00:00 +0000",
+        "published_dt": "2026-01-19T22:00:00+00:00",
+        "summary": "Across all income levels, bariatric surgery resulted in better diabetes control than GLP-1s or similar medications, a study found."
+      },
+      {
+        "id": "0115bf08031a2a7d",
+        "title": "The Download: the US digital rights crackdown, and AI companionship",
+        "url": "https://www.technologyreview.com/2026/01/19/1131450/the-download-the-us-digital-rights-crackdown-and-ai-companionship/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 19 Jan 2026 13:39:00 +0000",
+        "published_dt": "2026-01-19T13:39:00+00:00",
+        "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What it\u2019s like to be banned from the US for fighting online hate\u00a0\u00a0 Just before Christmas the Trump administration dramatically escalated its war on digital rights by banning five people from entering the&#8230;"
+      },
+      {
+        "id": "759daa1a5b46dbdf",
+        "title": "Going beyond pilots with composable and sovereign AI",
+        "url": "https://www.technologyreview.com/2026/01/19/1131422/going-beyond-pilots-with-composable-and-sovereign-ai/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 19 Jan 2026 11:59:33 +0000",
+        "published_dt": "2026-01-19T11:59:33+00:00",
+        "summary": "Today marks an inflection point for enterprise AI adoption. Despite billions invested in generative AI, only 5% of integrated pilots deliver measurable business value and nearly one in two companies abandons AI initiatives before reaching production. The bottleneck is not the models themselves. What\u2019s holding enterprises back is the surrounding infrastructure: Limited data accessibility, rigid&#8230;"
+      },
+      {
+        "id": "2b32f891d1d34774",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-pens-630m-pact-secure-remaining-rights-armored-car-t\" hreflang=\"en\">AstraZeneca pens $630M pact to secure remaining rights to armored CAR-T from AbelZeta</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-pens-630m-pact-secure-remaining-rights-armored-car-t",
+        "source": "Fierce Biotech",
+        "published": "Jan 19, 2026 10:37am",
+        "published_dt": "2026-01-19T10:37:00+00:00",
+        "summary": "The therapy in question, dubbed C-CAR031, is based on AstraZeneca\u2019s own GPC3-targeting CAR-T."
+      },
+      {
+        "id": "d907d701b83ab747",
+        "title": "What it\u2019s like to be banned from the US for fighting online hate",
+        "url": "https://www.technologyreview.com/2026/01/19/1131384/what-its-like-to-be-banned-from-the-us-for-fighting-online-hate/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 19 Jan 2026 10:00:00 +0000",
+        "published_dt": "2026-01-19T10:00:00+00:00",
+        "summary": "It was early evening in Berlin, just a day before Christmas Eve, when Josephine Ballon got an unexpected email from US Customs and Border Protection. The status of her ability to travel to the United States had changed\u2014she\u2019d no longer be able to enter the country.&#160; At first, she couldn\u2019t find any information online as&#8230;"
+      },
+      {
+        "id": "8754736df57a7577",
+        "title": "STAT+: Former AMA president says the U.S. health care system will implode without an overhaul",
+        "url": "https://www.statnews.com/2026/01/19/aidoc-jesse-ehrenfeld-former-ama-preisdent-on-health-ai/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 19 Jan 2026 09:30:00 +0000",
+        "published_dt": "2026-01-19T09:30:00+00:00",
+        "summary": "In an interview, Aidoc's Jesse Ehrenfeld talks about how AI tools can help health systems overcome staffing shortages."
+      },
+      {
+        "id": "758beef745f2f2aa",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/immunology-biotech-agomab-eye-focused-spyglass-share-ipo-ambitions\" hreflang=\"en\">Immunology biotech Agomab, eye-focused SpyGlass are latest biotechs to share IPO ambitions</a>",
+        "url": "https://www.fiercebiotech.com/biotech/immunology-biotech-agomab-eye-focused-spyglass-share-ipo-ambitions",
+        "source": "Fierce Biotech",
+        "published": "Jan 19, 2026 4:51am",
+        "published_dt": "2026-01-19T04:51:00+00:00",
+        "summary": "Immunology biotech Agomab Therapeutics and eye-focused SpyGlass Pharma have both unveiled their intentions to go public in the latest sign that the IPO window is reopening in 2026."
+      },
+      {
+        "id": "3d16ff55e32eee22",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-atacor-join-forces-extravascular-defibrillator-implant\" hreflang=\"en\">Abbott, AtaCor join forces on extravascular defibrillator implant</a>",
+        "url": "https://www.fiercebiotech.com/medtech/abbott-atacor-join-forces-extravascular-defibrillator-implant",
+        "source": "Fierce Biotech",
+        "published": "Jan 19, 2026 1:56am",
+        "published_dt": "2026-01-19T01:56:00+00:00",
+        "summary": "Abbott is teaming up with AtaCor Medical to develop a next-generation implantable cardioverter defibrillator (ICD) designed to treat dangerous cardiac arrhythmias without routing wires through the heart or veins."
       },
       {
         "id": "9e250b887d10c74c",
@@ -91,170 +226,107 @@
         "published": "Sat, 17 Jan 2026 12:00:00 +0000",
         "published_dt": "2026-01-17T12:00:00+00:00",
         "summary": "A look at the \"outrageous\" timeline and influence issues on the scientific panel that led to a new food pyramid."
-      },
-      {
-        "id": "fefa3e7d2b1c8ce5",
-        "title": "Opinion: My son had rotavirus before he could get the vaccine. Ending universal rotavirus vaccination is a tragedy",
-        "url": "https://www.statnews.com/2026/01/17/rotavirus-vaccine-removed-what-it-means-kids/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 17 Jan 2026 12:00:00 +0000",
-        "published_dt": "2026-01-17T12:00:00+00:00",
-        "summary": "A rotavirus expert\u2019s baby caught the disease before vaccines were available. He\u2019s seen firsthand why the vaccine, recently downgraded on the vaccination schedule, is so important."
-      },
-      {
-        "id": "9a5352f1e2ae2ded",
-        "title": "Tylenol use during pregnancy not linked to autism, new study says",
-        "url": "https://www.statnews.com/2026/01/16/tylenol-autism-lancet-study-finds-no-acetaminophen-link/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 16 Jan 2026 23:30:00 +0000",
-        "published_dt": "2026-01-16T23:30:00+00:00",
-        "summary": "Acetaminophen use during pregnancy is not likely to raise the risk of having a child with autism, ADHD, or intellectual disability, according to a new study published Friday."
-      },
-      {
-        "id": "e9a902253afdc8df",
-        "title": "STAT+: Limit on multiyear funding of NIH grants is a sticking point in Senate budget talks",
-        "url": "https://www.statnews.com/2026/01/16/nih-grants-multiyear-funding-sticking-point-hhs-budget/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 16 Jan 2026 23:13:35 +0000",
-        "published_dt": "2026-01-16T23:13:35+00:00",
-        "summary": "A clause limiting the use of multiyear NIH grant funding has become a sticking point as the Senate appropriations panel finalizes the HHS spending bill."
-      },
-      {
-        "id": "1525512f2584a50e",
-        "title": "STAT+: Supreme Court agrees to review \u2018skinny labeling\u2019 and generic drug access",
-        "url": "https://www.statnews.com/pharmalot/2026/01/16/scotus-generics-patents-supreme-court-amarin-hikma/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 16 Jan 2026 21:03:39 +0000",
-        "published_dt": "2026-01-16T21:03:39+00:00",
-        "summary": "The Supreme Court agreed to review a controversy over so-called skinny labels for medicines, a decision that will be closely watched for its implications for the availability of generic medicines."
-      },
-      {
-        "id": "be5502822cd25734",
-        "title": "Measles cases jump again in South Carolina, rising to more than 550",
-        "url": "https://www.statnews.com/2026/01/16/measles-cases-jump-again-south-carolina/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 16 Jan 2026 19:29:18 +0000",
-        "published_dt": "2026-01-16T19:29:18+00:00",
-        "summary": "Reported measles cases in South Carolina surged by almost 30% in the last few days, state health officials said Friday."
-      },
-      {
-        "id": "e7138474c1da8821",
-        "title": "STAT+: Up and down the ladder: The latest comings and goings",
-        "url": "https://www.statnews.com/pharmalot/2026/01/16/pharma-biotech-jobs-novo-bristol-astrazeneca/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 16 Jan 2026 17:00:58 +0000",
-        "published_dt": "2026-01-16T17:00:58+00:00",
-        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-      },
-      {
-        "id": "d47ff194757c6082",
-        "title": "The Download: cut through AI coding hype, and biotech trends to watch",
-        "url": "https://www.technologyreview.com/2026/01/16/1131375/the-download-ai-coding-hype-and-biotech-trends-to-watch/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 16 Jan 2026 12:59:42 +0000",
-        "published_dt": "2026-01-16T12:59:42+00:00",
-        "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI coding is now everywhere. But not everyone is convinced.\u00a0\u00a0 Depending who you ask, AI-powered coding is either giving software developers an unprecedented productivity boost or churning out masses of poorly designed code&#8230;"
-      },
-      {
-        "id": "8a79c69db2b5fdb4",
-        "title": "The flu vaccine is working",
-        "url": "https://www.statnews.com/2026/01/16/health-news-flu-shot-is-working-2026-season/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 16 Jan 2026 12:45:21 +0000",
-        "published_dt": "2026-01-16T12:45:21+00:00",
-        "summary": "And other health news from the Morning Rounds newsletter"
-      },
-      {
-        "id": "7c8b687cdc3bb59e",
-        "title": "STAT+: JPM Week 2026 is over. It was fantastic. Here\u2019s why",
-        "url": "https://www.statnews.com/2026/01/16/jpm-week-biotech-analysis/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 16 Jan 2026 11:30:00 +0000",
-        "published_dt": "2026-01-16T11:30:00+00:00",
-        "summary": "There were no blockbuster deals at #JPM26. That's part of what it made it so great."
-      },
-      {
-        "id": "8a76e87a665908da",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/vedanta-significantly-reduces-headcount-fund-lead-bacteria-cocktail-program\" hreflang=\"en\">Vedanta \u2018significantly\u2019 reduces headcount to fund lead bacteria cocktail program</a>",
-        "url": "https://www.fiercebiotech.com/biotech/vedanta-significantly-reduces-headcount-fund-lead-bacteria-cocktail-program",
-        "source": "Fierce Biotech",
-        "published": "Jan 16, 2026 10:44am",
-        "published_dt": "2026-01-16T10:44:00+00:00",
-        "summary": "Vedanta Biosciences has \u201csignificantly reduced\u201d its headcount to channel its remaining resources to its lead live bacteria cocktail program."
-      },
-      {
-        "id": "89eb93d97d23859e",
-        "title": "<a href=\"https://www.fiercebiotech.com/pharma/single-product-exelixis-aims-be-top-5-solid-tumor-drugmaker-us\" hreflang=\"en\">Single-drug Exelixis aims to be top 5 solid tumor company in the US: CEO</a>",
-        "url": "https://www.fiercebiotech.com/pharma/single-product-exelixis-aims-be-top-5-solid-tumor-drugmaker-us",
-        "source": "Fierce Biotech",
-        "published": "Jan 16, 2026 10:16am",
-        "published_dt": "2026-01-16T10:16:00+00:00",
-        "summary": "Exelixis may only have one drug on the market right now, but with phase 3 results for a potential new blockbuster on the horizon and a growing pipeline, the Cabometyx maker is aiming big."
-      },
-      {
-        "id": "fd53ac096ab5e169",
-        "title": "Three technologies that will shape biotech in 2026",
-        "url": "https://www.technologyreview.com/2026/01/16/1131363/three-technologies-shape-biotech-in-2026-gene-editing-embryo-scoring/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 16 Jan 2026 10:00:00 +0000",
-        "published_dt": "2026-01-16T10:00:00+00:00",
-        "summary": "Earlier this week, MIT Technology Review published its annual list of Ten Breakthrough Technologies. As always, it features technologies that made the news last year, and which\u2014for better or worse\u2014stand to make waves in the coming years. They\u2019re the technologies you should really be paying attention to. This year\u2019s list includes tech that\u2019s set to&#8230;"
-      },
-      {
-        "id": "89f0dd326e3924c7",
-        "title": "MAHA says its new food pyramid is affordable and healthy. We asked experts",
-        "url": "https://www.statnews.com/2026/01/16/affordability-new-food-pyramid-dietary-guidelines-tested-by-economists/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 16 Jan 2026 09:30:00 +0000",
-        "published_dt": "2026-01-16T09:30:00+00:00",
-        "summary": "How affordable are the new dietary guidelines? Economists and nutrition experts weigh in."
-      },
-      {
-        "id": "68b8efa662be1175",
-        "title": "Opinion: STAT+: CMS\u2019 new MAHA ELEVATE innovation model has a fundamental flaw",
-        "url": "https://www.statnews.com/2026/01/16/cms-maha-elevate-innovation-model-concerns/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 16 Jan 2026 09:30:00 +0000",
-        "published_dt": "2026-01-16T09:30:00+00:00",
-        "summary": "CMS\u2019 new MAHA ELEVATE innovation model has a fundamental flaw, The Workup columnist Vishal Khetpal writes."
-      },
-      {
-        "id": "dca80cca5b7b7ff0",
-        "title": "Breaking down JPM 2026: the mood, the big interviews \u2014 and all the AI billboards",
-        "url": "https://www.statnews.com/2026/01/15/jpm-2026-takeaways-status-report-hosted-by-alex-hogan/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 15 Jan 2026 22:02:08 +0000",
-        "published_dt": "2026-01-15T22:02:08+00:00",
-        "summary": "STAT's Alex Hogan breaks down #JPM26 on STATus Report: the mood, the big interviews \u2014 and all the AI billboards."
       }
     ],
     "Engineering & Aerospace": [
       {
-        "id": "84ccdfefa8786477",
-        "title": "Space Force ends \u2018Resilient GPS\u2019 satellite program",
-        "url": "https://spacenews.com/space-force-ends-resilient-gps-satellite-program/",
+        "id": "184199cc63b3c4b7",
+        "title": "ELEGOO to launch Centauri Carbon 2 Combo multicolor 3D printer",
+        "url": "https://www.engineering.com/elegoo-to-launch-centauri-carbon-2-combo-multicolor-3d-printer/",
+        "source": "Engineering.com",
+        "published": "Tue, 20 Jan 2026 12:46:00 +0000",
+        "published_dt": "2026-01-20T12:46:00+00:00",
+        "summary": "<p>The home-focused printer adds automatic color switching, RFID filament detection, quiet operation, and a touchscreen interface.</p>\n<p>The post <a href=\"https://www.engineering.com/elegoo-to-launch-centauri-carbon-2-combo-multicolor-3d-printer/\">ELEGOO to launch Centauri Carbon 2 Combo multicolor 3D printer</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "416ac87953c66ffc",
+        "title": "Nullspace updates EM simulation suite with AI and faster RF analysis",
+        "url": "https://www.engineering.com/nullspace-updates-em-simulation-suite-with-ai-and-faster-rf-analysis/",
+        "source": "Engineering.com",
+        "published": "Tue, 20 Jan 2026 12:18:00 +0000",
+        "published_dt": "2026-01-20T12:18:00+00:00",
+        "summary": "<p>New tools give RF engineers AI-powered CAD cleanup, adaptive frequency sweeps, and more realistic modeling for antennas and phased arrays.</p>\n<p>The post <a href=\"https://www.engineering.com/nullspace-updates-em-simulation-suite-with-ai-and-faster-rf-analysis/\">Nullspace updates EM simulation suite with AI and faster RF analysis</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "fa3e4c3202b22413",
+        "title": "Sodern to produce star trackers in Colorado",
+        "url": "https://spacenews.com/sodern-to-produce-star-trackers-in-colorado/",
         "source": "SpaceNews",
-        "published": "Mon, 19 Jan 2026 13:00:00 +0000",
-        "published_dt": "2026-01-19T13:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/11/Astranis-Nexus-Satellite-Constellation.jpg-scaled.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>WASHINGTON \u2014 The U.S. Space Force has ended an exploratory effort to add smaller, lower-cost navigation satellites to bolster the Global Positioning System, shelving a program that had been identified as a priority. The effort, known as Resilient GPS, or R-GPS, began in 2024 and funded three industry teams to develop designs and early prototypes [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/space-force-ends-resilient-gps-satellite-program/\">Space Force ends \u2018Resilient GPS\u2019 satellite program</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Tue, 20 Jan 2026 12:45:55 +0000",
+        "published_dt": "2026-01-20T12:45:55+00:00",
+        "summary": "<figure><img alt=\"Auriga star tracker\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"660\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/auriga-sodern.jpeg?fit=988%2C660&amp;ssl=1\" width=\"988\" /></figure>\n<p>Sodern, a French manufacturer of star trackers and cameras, is expanding into the United States with a new production facility in Colorado.</p>\n<p>The post <a href=\"https://spacenews.com/sodern-to-produce-star-trackers-in-colorado/\">Sodern to produce star trackers in Colorado</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "66ddda49d652d07a",
-        "title": "iBase-t releases Solumina AI for regulated aerospace manufacturing",
-        "url": "https://www.engineering.com/ibase-t-releases-solumina-ai-for-regulated-aerospace-manufacturing/",
+        "id": "ed3e75728835c42a",
+        "title": "6K Additive named AGF Defcom\u2019s strategic metal powder supplier",
+        "url": "https://www.engineering.com/6k-additive-named-agf-defcoms-strategic-metal-powder-supplier/",
         "source": "Engineering.com",
-        "published": "Fri, 16 Jan 2026 10:48:29 +0000",
-        "published_dt": "2026-01-16T10:48:29+00:00",
-        "summary": "<p>The platform debuts four AI modules designed for governed, ITAR-aligned use across production, quality and sustainment operations.</p>\n<p>The post <a href=\"https://www.engineering.com/ibase-t-releases-solumina-ai-for-regulated-aerospace-manufacturing/\">iBase-t releases Solumina AI for regulated aerospace manufacturing</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Tue, 20 Jan 2026 11:56:14 +0000",
+        "published_dt": "2026-01-20T11:56:14+00:00",
+        "summary": "<p>A closed-loop UniMelt upcycling program will convert 3D printing scrap back into premium powder, cutting waste and costs.</p>\n<p>The post <a href=\"https://www.engineering.com/6k-additive-named-agf-defcoms-strategic-metal-powder-supplier/\">6K Additive named AGF Defcom\u2019s strategic metal powder supplier</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "72eabb14d58f7946",
-        "title": "Understanding color consistency in 3D printing polymers",
-        "url": "https://www.engineering.com/understanding-color-consistency-in-3d-printing-polymers/",
+        "id": "9d9ddf640c6eea22",
+        "title": "Hexagon expands Databridge Pro no-code integration platform",
+        "url": "https://www.engineering.com/hexagon-expands-databridge-pro-no-code-integration-platform/",
         "source": "Engineering.com",
-        "published": "Fri, 16 Jan 2026 20:38:40 +0000",
-        "published_dt": "2026-01-16T20:38:40+00:00",
-        "summary": "<p>Challenges and advice for achieving color consistency in additive manufacturing.</p>\n<p>The post <a href=\"https://www.engineering.com/understanding-color-consistency-in-3d-printing-polymers/\">Understanding color consistency in 3D printing polymers</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Tue, 20 Jan 2026 11:45:00 +0000",
+        "published_dt": "2026-01-20T11:45:00+00:00",
+        "summary": "<p>Built on Apache NiFi, it adds multi-tenant security, monitoring and centralized data lineage across Hexagon and third-party systems.</p>\n<p>The post <a href=\"https://www.engineering.com/hexagon-expands-databridge-pro-no-code-integration-platform/\">Hexagon expands Databridge Pro no-code integration platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "3fdc44c5ff5fc747",
+        "title": "Gilmour Space raises $146 million",
+        "url": "https://spacenews.com/gilmour-space-raises-146-million/",
+        "source": "SpaceNews",
+        "published": "Tue, 20 Jan 2026 11:34:23 +0000",
+        "published_dt": "2026-01-20T11:34:23+00:00",
+        "summary": "<figure><img alt=\"Eris launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/Eris_Testflight1.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Australian launch vehicle and satellite manufacturer Gilmour Space Technologies has raised its largest funding round to date to scale up rocket and spacecraft production.</p>\n<p>The post <a href=\"https://spacenews.com/gilmour-space-raises-146-million/\">Gilmour Space raises $146 million</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "0a831f9c4a88dc26",
+        "title": "Bitzero adds NVIDIA Blackwell B300 GPUs for neocloud services",
+        "url": "https://www.engineering.com/bitzero-adds-nvidia-blackwell-b300-gpus-for-neocloud-services/",
+        "source": "Engineering.com",
+        "published": "Tue, 20 Jan 2026 11:32:58 +0000",
+        "published_dt": "2026-01-20T11:32:58+00:00",
+        "summary": "<p>Eight servers with 64 GPUs will be deployed in Namsskogan, Norway and leased as bare metal via Hydra Host\u2019s Brokkr platform in Q1 2026.</p>\n<p>The post <a href=\"https://www.engineering.com/bitzero-adds-nvidia-blackwell-b300-gpus-for-neocloud-services/\">Bitzero adds NVIDIA Blackwell B300 GPUs for neocloud services</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "53bb1c15fdce57a7",
+        "title": "PacketFabric and Massed Compute launch NaaS plus GPUaaS platform",
+        "url": "https://www.engineering.com/packetfabric-and-massed-compute-launch-naas-plus-gpuaas-platform/",
+        "source": "Engineering.com",
+        "published": "Tue, 20 Jan 2026 11:27:37 +0000",
+        "published_dt": "2026-01-20T11:27:37+00:00",
+        "summary": "<p>The joint offering lets enterprises order GPUs and high-performance networking together to speed AI deployment across clouds, data centers, and edge sites.</p>\n<p>The post <a href=\"https://www.engineering.com/packetfabric-and-massed-compute-launch-naas-plus-gpuaas-platform/\">PacketFabric and Massed Compute launch NaaS plus GPUaaS platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "aeb8affe936393fa",
+        "title": "Aircraft manufacturers weigh the return of the superjumbos",
+        "url": "https://aerospaceamerica.aiaa.org/aircraft-manufacturers-weigh-the-return-of-the-superjumbos/",
+        "source": "Aerospace America",
+        "published": "Tue, 20 Jan 2026 10:00:00 +0000",
+        "published_dt": "2026-01-20T10:00:00+00:00",
+        "summary": ""
+      },
+      {
+        "id": "6f0c57231cef2142",
+        "title": "Omron DX100 edge device connects PLCs and factory data",
+        "url": "https://www.engineering.com/omron-dx100-edge-device-connects-plcs-and-factory-data/",
+        "source": "Engineering.com",
+        "published": "Tue, 20 Jan 2026 09:43:54 +0000",
+        "published_dt": "2026-01-20T09:43:54+00:00",
+        "summary": "<p>Supports multiple industrial protocols, low-code flows plus Python, built-in Grafana dashboards and MQTT/SQL interfaces with device-based licensing.</p>\n<p>The post <a href=\"https://www.engineering.com/omron-dx100-edge-device-connects-plcs-and-factory-data/\">Omron DX100 edge device connects PLCs and factory data</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "6193983bf3df239f",
+        "title": "Mitsubishi Electric develops multi-agent AI for expert decisions",
+        "url": "https://www.engineering.com/mitsubishi-electric-develops-multi-agent-ai-for-expert-decisions/",
+        "source": "Engineering.com",
+        "published": "Tue, 20 Jan 2026 09:18:09 +0000",
+        "published_dt": "2026-01-20T09:18:09+00:00",
+        "summary": "<p>The technology uses adversarial debates among AI agents to support transparent decision-making in security, risk analysis, and production planning.</p>\n<p>The post <a href=\"https://www.engineering.com/mitsubishi-electric-develops-multi-agent-ai-for-expert-decisions/\">Mitsubishi Electric develops multi-agent AI for expert decisions</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "f42218c661820fae",
@@ -275,15 +347,6 @@
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"277\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/23-10192-Jackson-Jaida-Deposition-Services-Inc-FAVICON.png?fit=277%2C277&amp;ssl=1\" width=\"277\" /></figure>\n<p>Deposition Sciences, Inc. (DSI), a wholly owned subsidiary of Lockheed Martin, specializes in advanced materials and optical coatings. For over 20 years, they&#8217;ve been producing their Sunshade\u00ae thermal control material, [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/ao-resistant-material-boosts-vleo-satellite-longevity/\">AO-Resistant Material Boosts VLEO Satellite Longevity</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "facbcc4e0fbdd072",
-        "title": "DataMesh launches Robotics platform for industrial embodied AI",
-        "url": "https://www.engineering.com/datamesh-launches-robotics-platform-for-industrial-embodied-ai/",
-        "source": "Engineering.com",
-        "published": "Fri, 16 Jan 2026 10:55:26 +0000",
-        "published_dt": "2026-01-16T10:55:26+00:00",
-        "summary": "<p>The new solution uses executable digital twins to train and evaluate robots with dynamic processes, safety rules and task-based rewards.</p>\n<p>The post <a href=\"https://www.engineering.com/datamesh-launches-robotics-platform-for-industrial-embodied-ai/\">DataMesh launches Robotics platform for industrial embodied AI</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
         "id": "174887549c5b8e48",
         "title": "Managing an orbital economy as space grows more congested",
         "url": "https://spacenews.com/managing-an-orbital-economy-as-space-grows-more-congested/",
@@ -300,6 +363,42 @@
         "published": "Thu, 15 Jan 2026 13:30:00 +0000",
         "published_dt": "2026-01-15T13:30:00+00:00",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/693de2120ca31e8413c48c3e_68fdd7b66ac07322dd080f03_6887d05726e28019d06cb8bc_Slingshot2520Aerospace2520-2520TALOS-scaled.png?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The Space Force is trying to modernize how satellite operators train for conflict in orbit</p>\n<p>The post <a href=\"https://spacenews.com/slingshot-wins-27-million-space-force-contract-for-ai-training-system/\">Slingshot wins $27 million Space Force contract for AI training system</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "96c14ee351e3ca9b",
+        "title": "Damaged DSN antenna out of service until May",
+        "url": "https://spacenews.com/damaged-dsn-antenna-out-of-service-until-may/",
+        "source": "SpaceNews",
+        "published": "Mon, 19 Jan 2026 22:35:15 +0000",
+        "published_dt": "2026-01-19T22:35:15+00:00",
+        "summary": "<figure><img alt=\"DSS-14\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"551\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/dss14.jpeg?fit=850%2C551&amp;ssl=1\" width=\"850\" /></figure>\n<p>A key antenna in NASA\u2019s Deep Space Network (DSN) that was damaged last fall is expected to remain offline until May, followed by extended downtime for upgrades.</p>\n<p>The post <a href=\"https://spacenews.com/damaged-dsn-antenna-out-of-service-until-may/\">Damaged DSN antenna out of service until May</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "c35a0babd68c0a5d",
+        "title": "Additive defense update: 6K Additive, TEKNA, and Velo3D",
+        "url": "https://www.engineering.com/additive-defense-update-6k-additive-tekna-and-velo3d/",
+        "source": "Engineering.com",
+        "published": "Mon, 19 Jan 2026 18:48:40 +0000",
+        "published_dt": "2026-01-19T18:48:40+00:00",
+        "summary": "<p>A 3D printing partnership, metal powder for suppressors, and a mysterious order from a U.S. defense Tier-1 supplier.</p>\n<p>The post <a href=\"https://www.engineering.com/additive-defense-update-6k-additive-tekna-and-velo3d/\">Additive defense update: 6K Additive, TEKNA, and Velo3D</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "5fd25fc0407bc0f1",
+        "title": "NASA must act now to ensure U.S. leadership in space",
+        "url": "https://spacenews.com/nasa-must-act-now-to-ensure-u-s-leadership-in-space/",
+        "source": "SpaceNews",
+        "published": "Mon, 19 Jan 2026 14:00:00 +0000",
+        "published_dt": "2026-01-19T14:00:00+00:00",
+        "summary": "<figure><img alt=\"SLS closeup inside VAB\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"899\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/art2-slscloseupvab.jpeg?fit=1024%2C899&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Jared Isaacman made something unmistakably clear during his confirmation hearing as NASA Administrator: time is not on America\u2019s side. The United States is no longer alone in deep space ambition, and the race to return humans to the moon is strategic, geopolitical and urgent \u2014 not just symbolic. China has declared its intent with regards [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/nasa-must-act-now-to-ensure-u-s-leadership-in-space/\">NASA must act now to ensure U.S. leadership in space</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "84ccdfefa8786477",
+        "title": "Space Force ends \u2018Resilient GPS\u2019 satellite program",
+        "url": "https://spacenews.com/space-force-ends-resilient-gps-satellite-program/",
+        "source": "SpaceNews",
+        "published": "Mon, 19 Jan 2026 13:00:00 +0000",
+        "published_dt": "2026-01-19T13:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/11/Astranis-Nexus-Satellite-Constellation.jpg-scaled.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>WASHINGTON \u2014 The U.S. Space Force has ended an exploratory effort to add smaller, lower-cost navigation satellites to bolster the Global Positioning System, shelving a program that had been identified as a priority. The effort, known as Resilient GPS, or R-GPS, began in 2024 and funded three industry teams to develop designs and early prototypes [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/space-force-ends-resilient-gps-satellite-program/\">Space Force ends \u2018Resilient GPS\u2019 satellite program</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "3ba3aa6151296bab",
@@ -354,105 +453,6 @@
         "published": "Fri, 16 Jan 2026 22:49:32 +0000",
         "published_dt": "2026-01-16T22:49:32+00:00",
         "summary": "<figure><img alt=\"SpainSat NG 2\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/spainsatng2.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The operator of a Spanish military communications satellite that suffered a \u201cspace particle\u201d strike has written off the spacecraft, concluding it can no longer carry out its mission.</p>\n<p>The post <a href=\"https://spacenews.com/indra-group-writes-off-damaged-spainsat-ng-2/\">Indra Group writes off damaged SpainSat NG 2</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "a67ab85d5aeb26bd",
-        "title": "What role does digital transformation play in physics AI?",
-        "url": "https://www.engineering.com/what-role-does-digital-transformation-play-in-physics-ai/",
-        "source": "Engineering.com",
-        "published": "Fri, 16 Jan 2026 21:39:54 +0000",
-        "published_dt": "2026-01-16T21:39:54+00:00",
-        "summary": "<p>Physics AI is a powerful engineering tool based on a foundation of digital transformation.</p>\n<p>The post <a href=\"https://www.engineering.com/what-role-does-digital-transformation-play-in-physics-ai/\">What role does digital transformation play in physics AI?</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "0785259030e8abf8",
-        "title": "China conducts static fire test of new reusable Long March 12B rocket",
-        "url": "https://spacenews.com/china-conducts-static-fire-test-of-new-reusable-long-march-12b-rocket/",
-        "source": "SpaceNews",
-        "published": "Fri, 16 Jan 2026 18:06:43 +0000",
-        "published_dt": "2026-01-16T18:06:43+00:00",
-        "summary": "<figure><img alt=\"A Long March rocket stands on a launch pad in a desert setting during a static fire test, with engines firing and producing a large plume of white and gray exhaust and dust spreading outward across the ground, framed by lightning towers under a clear sky.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/LongMarch12B-static-fire-Dongfeng-JSLC-16jan2026-CASC.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>China\u2019s main space contractor performed a static fire test of a new reusable Long March rocket Friday, paving the way for a test flight.</p>\n<p>The post <a href=\"https://spacenews.com/china-conducts-static-fire-test-of-new-reusable-long-march-12b-rocket/\">China conducts static fire test of new reusable Long March 12B rocket</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "ebd62bd893f24bca",
-        "title": "Defending against Kessler Syndrome with Space Armor",
-        "url": "https://www.engineering.com/defending-against-kessler-syndrome-with-space-armor/",
-        "source": "Engineering.com",
-        "published": "Fri, 16 Jan 2026 15:50:26 +0000",
-        "published_dt": "2026-01-16T15:50:26+00:00",
-        "summary": "<p>Composite-based orbital debris mitigation tiles to be deployed on new satellite.</p>\n<p>The post <a href=\"https://www.engineering.com/defending-against-kessler-syndrome-with-space-armor/\">Defending against Kessler Syndrome with Space Armor</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "3d931219cad9a7cb",
-        "title": "Ensuring safety of AI, autonomous flight tech requires cooperation with regulators, panel says",
-        "url": "https://aerospaceamerica.aiaa.org/ensuring-safety-of-ai-autonomous-flight-tech-requires-cooperation-with-regulators-panel-says/",
-        "source": "Aerospace America",
-        "published": "Fri, 16 Jan 2026 15:27:05 +0000",
-        "published_dt": "2026-01-16T15:27:05+00:00",
-        "summary": ""
-      },
-      {
-        "id": "b845e8dce6b3fb84",
-        "title": "The countdown to clean orbits has begun with ESA\u2019s Zero Debris Charter",
-        "url": "https://spacenews.com/the-countdown-to-clean-orbits-has-begun-with-esas-zero-debris-charter/",
-        "source": "SpaceNews",
-        "published": "Fri, 16 Jan 2026 14:00:00 +0000",
-        "published_dt": "2026-01-16T14:00:00+00:00",
-        "summary": "<figure><img alt=\"An illustration showing GEO being crowded, as Earth is blanketed by an orbit of satellites and debris.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"512\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/04/Geostationary_orbit_pillars-credit-ESA.jpg?fit=1024%2C512&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Space is rapidly becoming the world\u2019s most congested frontier. What was once a domain of scientific exploration is now a crowded commercial arena, a global infrastructure layer critical to communications, navigation, climate monitoring and defense. Yet this dependence is threatened by a growing, largely invisible hazard: orbital debris. The European Space Agency\u2019s Zero Debris Technical [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/the-countdown-to-clean-orbits-has-begun-with-esas-zero-debris-charter/\">The countdown to clean orbits has begun with ESA\u2019s Zero Debris Charter</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "8f8f921a8822d19e",
-        "title": "China advances plans for dual solar system boundary missions",
-        "url": "https://spacenews.com/china-advances-plans-for-dual-solar-system-boundary-missions/",
-        "source": "SpaceNews",
-        "published": "Fri, 16 Jan 2026 11:42:04 +0000",
-        "published_dt": "2026-01-16T11:42:04+00:00",
-        "summary": "<figure><img alt=\"Bow shock around very young star LL Ori. The Chinese heliosphere probes would study such regions.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"793\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2021/04/Bow_shock_around_a_star.jpg?fit=949%2C793&amp;ssl=1\" width=\"949\" /></figure>\n<p>China has published coordinated papers outlining dual missions to the solar system\u2019s edge, suggesting the long-studied project is nearing formal approval.</p>\n<p>The post <a href=\"https://spacenews.com/china-advances-plans-for-dual-solar-system-boundary-missions/\">China advances plans for dual solar system boundary missions</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "61add3465d72cdd8",
-        "title": "Japanese launch company Interstellar Technologies raises $130 million",
-        "url": "https://spacenews.com/japanese-launch-company-interstellar-technologies-raises-130-million/",
-        "source": "SpaceNews",
-        "published": "Fri, 16 Jan 2026 11:21:58 +0000",
-        "published_dt": "2026-01-16T11:21:58+00:00",
-        "summary": "<figure><img alt=\"Zero\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/interstellar-zero.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Japanese launch vehicle startup Interstellar Technologies has raised nearly $130 million to continue development of its Zero small launch vehicle.</p>\n<p>The post <a href=\"https://spacenews.com/japanese-launch-company-interstellar-technologies-raises-130-million/\">Japanese launch company Interstellar Technologies raises $130 million</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "e3988c937fac0e0a",
-        "title": "Eagle Point Software partners with SmartDraft on training",
-        "url": "https://www.engineering.com/eagle-point-software-partners-with-smartdraft-on-training/",
-        "source": "Engineering.com",
-        "published": "Fri, 16 Jan 2026 11:05:07 +0000",
-        "published_dt": "2026-01-16T11:05:07+00:00",
-        "summary": "<p>New Pinnacle Series path, SmartDraft Fundamentals, teaches drafting teams to use SmartDraft inside AutoCAD, Civil 3D and BricsCAD Pro.</p>\n<p>The post <a href=\"https://www.engineering.com/eagle-point-software-partners-with-smartdraft-on-training/\">Eagle Point Software partners with SmartDraft on training</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "0ad54675faae8e66",
-        "title": "China launches AlSat-3A for Algeria, Ceres-1 sea launch adds to Tianqi constellation",
-        "url": "https://spacenews.com/china-launches-alsat-3a-for-algeria-ceres-1-sea-launch-adds-to-tianqi-constellation/",
-        "source": "SpaceNews",
-        "published": "Fri, 16 Jan 2026 10:51:15 +0000",
-        "published_dt": "2026-01-16T10:51:15+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"602\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/AlSat-3A-CZ2C-JSLC-15jan2026-CASC-1.jpg?fit=1024%2C602&amp;ssl=1\" width=\"1024\" /></figure>\n<p>China conducted its third and fourth launches of 2026 with Long March 2C and Ceres-1 rockets lifting off from Jiuquan and a sea platform respectively.</p>\n<p>The post <a href=\"https://spacenews.com/china-launches-alsat-3a-for-algeria-ceres-1-sea-launch-adds-to-tianqi-constellation/\">China launches AlSat-3A for Algeria, Ceres-1 sea launch adds to Tianqi constellation</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "34b5ff5074c0237b",
-        "title": "Revalize introduces partner program for CAD, CPQ and PLM",
-        "url": "https://www.engineering.com/revalize-introduces-partner-program-for-cad-cpq-and-plm/",
-        "source": "Engineering.com",
-        "published": "Fri, 16 Jan 2026 10:39:46 +0000",
-        "published_dt": "2026-01-16T10:39:46+00:00",
-        "summary": "<p>Program offers cross-sell tools, shared enablement, and a global partner network to expand reach across multiple industries.</p>\n<p>The post <a href=\"https://www.engineering.com/revalize-introduces-partner-program-for-cad-cpq-and-plm/\">Revalize introduces partner program for CAD, CPQ and PLM</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "b10281d48c69f59f",
-        "title": "Rockwell Automation supports Tate & Lyle\u2019s new Brazil plant",
-        "url": "https://www.engineering.com/rockwell-automation-supports-tate-lyles-new-brazil-plant/",
-        "source": "Engineering.com",
-        "published": "Fri, 16 Jan 2026 09:42:02 +0000",
-        "published_dt": "2026-01-16T09:42:02+00:00",
-        "summary": "<p>A fully automated Mat\u00e3o facility uses Industry 4.0-ready systems to produce citrus fiber from orange peels for clean-label foods.</p>\n<p>The post <a href=\"https://www.engineering.com/rockwell-automation-supports-tate-lyles-new-brazil-plant/\">Rockwell Automation supports Tate &amp; Lyle\u2019s new Brazil plant</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       }
     ],
     "Economics": [
@@ -518,6 +518,15 @@
         "published": null,
         "published_dt": null,
         "summary": "We estimate the long-run effects of marginal admission to elite public high schools on students' labor supply in the context of Mexico City's centralized high school admission system. Using a regression discontinuity approach, we compare students whose placement exam scores are just above and just below the elite admission threshold. We find that five and ten years after the admission exam, marginally admitted students are less likely to be employed in the formal private sector, and, if employed, they earn lower wages. However, these employment and wage gaps close after 15 years. Moreover, we find that marginal admission to elite high schools leads to delayed entry into the formal labor market, and, at least in the short run, students in elite high schools seem to sort into lower-productivity firms and industries."
+      },
+      {
+        "id": "b24fa6072172a64d",
+        "title": "China hits its GDP target\u2014in a weird way",
+        "url": "https://www.economist.com/finance-and-economics/2026/01/19/china-hits-its-gdp-target-in-a-weird-way",
+        "source": "Finance & economics",
+        "published": "Mon, 19 Jan 2026 15:02:41 +0000",
+        "published_dt": "2026-01-19T15:02:41+00:00",
+        "summary": "Strong exports make up for weak investment"
       },
       {
         "id": "3349c373fe568dff",
@@ -671,36 +680,9 @@
         "published": "Thu, 23 Oct 2025 19:12:49 +0000",
         "published_dt": "2025-10-23T19:12:49+00:00",
         "summary": "Donald Trump raises the pressure\u2014but he may have to go further"
-      },
-      {
-        "id": "904408c89caa29bc",
-        "title": "Can AI make the poor world richer?",
-        "url": "https://www.economist.com/finance-and-economics/2025/10/23/can-ai-make-the-poor-world-richer",
-        "source": "Finance & economics",
-        "published": "Thu, 23 Oct 2025 10:03:26 +0000",
-        "published_dt": "2025-10-23T10:03:26+00:00",
-        "summary": "It promises a level playing field. So have past technologies"
       }
     ],
     "Cross-Disciplinary": [
-      {
-        "id": "759daa1a5b46dbdf",
-        "title": "Going beyond pilots with composable and sovereign AI",
-        "url": "https://www.technologyreview.com/2026/01/19/1131422/going-beyond-pilots-with-composable-and-sovereign-ai/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 19 Jan 2026 11:59:33 +0000",
-        "published_dt": "2026-01-19T11:59:33+00:00",
-        "summary": "Today marks an inflection point for enterprise AI adoption. Despite billions invested in generative AI, only 5% of integrated pilots deliver measurable business value and nearly one in two companies abandons AI initiatives before reaching production. The bottleneck is not the models themselves. What\u2019s holding enterprises back is the surrounding infrastructure: Limited data accessibility, rigid&#8230;"
-      },
-      {
-        "id": "d907d701b83ab747",
-        "title": "What it\u2019s like to be banned from the US for fighting online hate",
-        "url": "https://www.technologyreview.com/2026/01/19/1131384/what-its-like-to-be-banned-from-the-us-for-fighting-online-hate/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 19 Jan 2026 10:00:00 +0000",
-        "published_dt": "2026-01-19T10:00:00+00:00",
-        "summary": "It was early evening in Berlin, just a day before Christmas Eve, when Josephine Ballon got an unexpected email from US Customs and Border Protection. The status of her ability to travel to the United States had changed\u2014she\u2019d no longer be able to enter the country.&#160; At first, she couldn\u2019t find any information online as&#8230;"
-      },
       {
         "id": "a0cd64cdc5a284dc",
         "title": "Global Giants Are Investing in Clean Tech Despite Politics",
@@ -792,6 +774,33 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/photo-of-a-mechanical-apparatus-consisting-of-a-rectangular-black-case-a-metal-cylinder-and-a-metal-hose-ending-in-a-black-fun.jpg?id=62563677&amp;width=1200&amp;height=800&amp;coordinates=0%2C84%2C0%2C84\" /><br /><br /><p>Thanks to Hollywood, whenever I think of a Dictaphone, my imagination immediately jumps to a mid-20th-century office, Don Draper suavely seated at his desk, voicing ad copy into a desktop machine. A perfectly coiffed woman from the secretarial pool then takes the recordings and neatly types them up, with carbon copies of course.</p><p>I had no idea the Dictaphone actually had its roots in the 19th century and a rivalry between two early tech giants: Alexander Graham Bell and Thomas Edison. And although it took decades to take hold in the modern office, it found novel uses in other fields.</p><h2>Who invented the Dictaphone?</h2><p>The Dictaphone was born from the competition and the cooperation of Bell and Edison and their capable teams of researchers. In 1877, Edison had introduced <a href=\"https://spectrum.ieee.org/edisons-phonograph\" target=\"_blank\">the phonograph</a>, which he later declared <a href=\"https://blogs.loc.gov/teachers/2022/03/thomas-edisons-favorite-invention-the-phonograph/\" rel=\"noopener noreferrer\" target=\"_blank\">his favorite invention</a>. And yet he wasn\u2019t quite certain about its commercial applications. Initially, he thought it might be good for recording telephone messages. Then he began to imagine other uses: a mechanical stenographer for businessmen, a notetaker for students, an elocution instructor, a talking book for the blind. The playback of recorded music\u2014the phonograph\u2019s eventual killer app\u2014was No. 4 on <a href=\"https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/\" rel=\"noopener noreferrer\" target=\"_blank\">Edison\u2019s list</a>. And after a few public demonstrations, he set aside the invention to pursue other interests.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Black and white photo of an apparatus consisting of a metal cylinder on a metal rod with a handle, seated on a flat rectangular base. \" class=\"rm-shortcode\" id=\"b77c1\" src=\"https://spectrum.ieee.org/media-library/black-and-white-photo-of-an-apparatus-consisting-of-a-metal-cylinder-on-a-metal-rod-with-a-handle-seated-on-a-flat-rectangular.jpg?id=62563774&amp;width=980\" /> <small class=\"image-media media-caption\">Thomas Edison\u2019s early phonograph from 1877 used a needle to record sound waves on a rotating cylinder wrapped with tinfoil. </small><small class=\"image-media media-photo-credit\">Thomas Edison National Historical Park/National Park Service/U.S. Department of the Interior</small></p><p>Enter Bell. In 1880, the French government had awarded Bell the Volta Prize and 50,000 francs (about US $10,000 at the time) for his invention of the telephone. The following year, he, his cousin Chichester A. Bell, and Charles Sumner Tainter used the prize money to found the Volta Laboratory Association in Washington, D.C., to do research on sound recording and transmission.</p><p class=\"ieee-inbody-related\">RELATED: <a href=\"https://spectrum.ieee.org/particle-physics-resurrects-alexander-graham-bells-voice\" target=\"_self\">Particle Physics Resurrects Alexander Graham Bell\u2019s Voice</a></p><p>Tainter saw potential in the phonograph. Edison\u2019s version used a needle to etch sound waves on a sheet of tinfoil wrapped around a metal cylinder. The foil was easily damaged, the sound quality was distorted and squeaky, and the cylinder could be replayed only a few times before degrading and becoming inaudible. Edison\u2019s phonograph couldn\u2019t be easily commercialized, in other words.</p><p>Chichester Bell and Tainter greatly improved the sound quality by replacing the tinfoil with <a href=\"https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/\" target=\"_blank\">wax-coated cardboard cylinders</a>. By 1886, the researchers at Volta Lab had a <a href=\"https://patentimages.storage.googleapis.com/da/79/62/6a4a3e32433adc/US341214.pdf\" target=\"_blank\">patented product</a>: the Graphophone.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Engraving of a man sitting on a chair and holding a tube to his mouth. The tube connects to a machine on a small desk.\" class=\"rm-shortcode\" id=\"9f471\" src=\"https://spectrum.ieee.org/media-library/engraving-of-a-man-sitting-on-a-chair-and-holding-a-tube-to-his-mouth-the-tube-connects-to-a-machine-on-a-small-desk.jpg?id=62563897&amp;width=980\" /> <small class=\"image-media media-caption\">Two colleagues of Alexander Graham Bell refined Edison\u2019s phonograph in the 1880s to create the Graphophone, which used wax-coated cardboard cylinders rather than tinfoil. </small><small class=\"image-media media-photo-credit\">Universal History Archive/Getty Images</small></p><p>Bell and Tainter believed the Graphophone would find greatest use as a mechanical stenographer. As a \u201cdictator,\u201d you would speak into the tube, and a stylus would trace the sound wave on the wax cylinder. The cylinder would then be handed off to a secretary for transcription. Typists used playback machines with foot pedals to control the speed of the recording and to reverse and repeat as necessary.</p><p>A manufacturing company set up by Volta Lab sold several machines to the U.S. government. One enthusiastic early adopter was Edward D. Easton, a noted stenographer for the U.S. Congress and the Supreme Court. Although Easton took notes in shorthand, he immediately recited his notes into the Graphophone after each session.</p><p>Easton became an evangelist for the instrument, <a href=\"https://archive.org/details/Phonogram1_4/page/n5/mode/2up\" target=\"_blank\">writing glowing accounts</a> in a trade magazine. The machine made no mistakes and could take dictation as fast as the speaker could articulate. The phonograph never complained when a transcriber needed a phrase repeated. The phonograph didn\u2019t suffer from poor penmanship. Anyone could learn to use the machine in two weeks or less, compared to months or years to master stenography. Such were Easton\u2019s claims. (Easton was such a fan that he cofounded the Columbia Phonograph Co., which went on to become a leading maker of phonographs and recorded music and lives on today as <a href=\"https://www.columbiarecords.com/\" target=\"_blank\">Columbia Records</a>.)</p><p>Before long, several companies were manufacturing and selling phonographs and dictation machines. Even though demand was initially light, patent-infringement lawsuits sprang up, which soon threatened to bankrupt all of the companies involved. Finally, in 1896, the various parties agreed to stop fighting and to cross-license each other\u2019s intellectual property. This didn\u2019t end the Bell-Edison rivalry, but it allowed the phonograph business to take off in earnest, aided by the sales of mass-produced recorded music cylinders. And the accepted name for this entertainment machine became the phonograph.</p><h2>The Dictaphone Gets Down to Business</h2><p>But Bell, Tainter, and Edison didn\u2019t forget the original promise of mechanical stenography, and the rivals soon came out with competing and very similar products designed specifically for dictation: the Dictaphone and the Ediphone. The public found it difficult to distinguish the two products, and it wasn\u2019t long before \u201cdictaphone\u201d was being used to describe all dictation machines. (The Columbia Graphophone Co. trademarked \u201cDictaphone\u201d in 1907\u2014a confusing neologism of <em><em>dicta</em></em> from the Latin for \u201csayings\u201d or \u201csay repeatedly\u201d and <em><em>phone</em></em> from the Greek for \u201cvoice\u201d or \u201csound.\u201d)</p><p>As David Morton recounts in his 1999 book <em><em>Off the Record</em></em> (Rutgers University Press), Dictaphone sales accelerated as scientific management for business began to take root. Office managers intent on streamlining, standardizing, and systemizing workflows saw the Dictaphone as a labor-saving device. In 1912, for instance, an efficiency commission set up by U.S. President William Taft endorsed the use of dictation machines in government offices. The railroad and insurance industries followed suit as they standardized their financial records. Later, managers began using dictation machines to conquer their business correspondence.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Black and white photo of an older man with a moustache holding a tube near his mouth. The tube is connected to a small machine on a desk.\" class=\"rm-shortcode\" id=\"bb3ff\" src=\"https://spectrum.ieee.org/media-library/black-and-white-photo-of-an-older-man-with-a-moustache-holding-a-tube-near-his-mouth-the-tube-is-connected-to-a-small-machine-o.jpg?id=62564099&amp;width=980\" /> <small class=\"image-media media-caption\">A Congressional reporter uses a Dictaphone in 1908. The U.S. government was an early adopter of the machines.</small><small class=\"image-media media-photo-credit\">Library of Congress</small></p><p>And yet, the Dictaphone wasn\u2019t obviously destined to become an indispensable piece of office equipment like the typewriter. In 1923, for instance, 15,000 dictation machines were sold in the United States, versus 744,000 typewriters.</p><p>In 1926, the Dictaphone Corp. tried to drum up interest by sponsoring Henry Lunn, founder of a large U.K. travel company, on an around-the-world lecture tour. At each hotel he visited, the company ensured there was a Dictaphone for Lunn to record his diary. Consider this a prototype for the modern hotel business center. At the end of his journey, Lunn published <em><em>Round the World With a Dictaphone</em></em>\u2014part travelogue, part proselytizing for Christian churches to support the League of Nations, and part Dictaphone promotion. Even so, by 1945, Dictaphone estimated that only 15 to 25 percent of the potential market had been captured.</p><p>There were social reasons working against dictation machines, Morton says in his book. Executives relied on their secretaries not only for dictation and transcription, but also for their often unacknowledged aid in prompting, correcting, and filling in their bosses\u2019 thoughts\u2014the soft skills that a machine could not replace.</p><p>Morton also attributes the slow uptake to the technology itself. One quirk of the Dictaphone is that it continued to use wax cylinders long after phonograph players had switched to discs. Transcribers often complained that the wax recordings were unintelligible\u2014dictators needed to speak directly into the speaking tube, loudly, clearly, and at an appropriate pace, but many did not.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Black and white photo of a woman sitting at a manual typewriter and wearing headphones that connect to a machine. \" class=\"rm-shortcode\" id=\"df276\" src=\"https://spectrum.ieee.org/media-library/black-and-white-photo-of-a-woman-sitting-at-a-manual-typewriter-and-wearing-headphones-that-connect-to-a-machine.jpg?id=62564524&amp;width=980\" /> <small class=\"image-media media-caption\">A secretary plays back the sound from a recorded Ediphone cylinder in 1930 to transcribe the cylinder\u2019s contents.</small><small class=\"image-media media-photo-credit\">Popperfoto/Getty Images</small></p><p>During World War II, Dictaphone finally ditched the wax cylinders in favor of etching grooves on a plastic belt, although the new machines were available only to U.S. government agencies until the end of the war. In 1947, the company publicly introduced the new technology with its Time-Master series. Each Dictabelt held about 15 minutes of recording. Meanwhile, Edison\u2019s Ediphone was rebranded the <a href=\"https://www.cooperhewitt.org/2016/09/15/take-a-memo/\" target=\"_blank\">Voicewriter</a> and recorded on distinctive red plastic discs.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Color photo of a rectangular device with a long cord and microphone and 3 reddish discs with a hole in the middle. \" class=\"rm-shortcode\" id=\"f63d1\" src=\"https://spectrum.ieee.org/media-library/color-photo-of-a-rectangular-device-with-a-long-cord-and-microphone-and-3-reddish-discs-with-a-hole-in-the-middle.jpg?id=62564655&amp;width=980\" /> <small class=\"image-media media-caption\">This 1953 Edison Voicewriter recorded the speaker\u2019s voice on plastic Diamond Discs. Magnetic tape came later.</small><small class=\"image-media media-photo-credit\">Cooper Hewitt/Smithsonian Design Museum/Smithsonian Institution</small></p><p>In the 1960s, Dictaphone finally embraced magnetic recording tape, in the form of cassette tapes. Pressure initially came from European companies, such as the Dutch electronics company Philips, which entered the U.S. market in 1958 with a low-priced tape-cartridge machine. Four years later, Philips introduced the Compact Cassette, which became the basis of today\u2019s audio cassette. Transistorized electronics furthered miniaturization and made dictation machines much more portable. Eventually, solid-state storage replaced magnetic tape, and today, we all carry around a dictation device with an effectively infinite recording time via cloud storage, and, if we choose to use it, automatic transcription.</p><h2>The Dictaphone in the Classroom</h2><p>None of the stories about businessmen using (or abusing) Dictaphones really surprised me. What did surprise me were the creative ways the Dictaphone was used as a pedagogical tool.</p><p>In 1924, for example, Dwight Everett Watkins at the University of California described in a paper how his students used a microphone, an amplifier, a telemegaphone (a type of speaker), and a Dictaphone to aid in public speaking. The setup helped students understand their rhetorical imperfections: bad grammar and bad sentence and paragraph structure. It also helped with elocution\u2014one of the early applications that Edison envisioned for his phonograph.</p><p>In 1933, George F. Meyer wrote about using the Dictaphone as an educational aid for blind and low-vision students in Minneapolis. Teachers recorded course material that would otherwise have had to be read aloud. And the students liked being able to listen to the material repeatedly without inconveniencing a human reader.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Black and white photo of a woman seated to the left and typing on a typewriter, with a crowd of young women standing around her wearing headphones that connect to a machine at the typist\\u2019s side.\" class=\"rm-shortcode\" id=\"568fe\" src=\"https://spectrum.ieee.org/media-library/black-and-white-photo-of-a-woman-seated-to-the-left-and-typing-on-a-typewriter-with-a-crowd-of-young-women-standing-around-her.jpg?id=62564721&amp;width=980\" /> <small class=\"image-media media-caption\">Students in 1930 listen to a Dictaphone recording, which the seated woman controls with foot pedals.</small><small class=\"image-media media-photo-credit\">George Rinhart/Corbis/Getty Images</small></p><p>In 1938, Frances M. Freeman wrote her master\u2019s thesis on whether the Dictaphone could help typing students who were struggling to master the skill. Her study was supported by the Dictaphone Sales Corp., but unfortunately for the company, she concluded that using a Dictaphone offered no advantage in learning to type. She did find that the students in the Dictaphone group seemed more alert in class than students taught the traditional way.</p><p>That last finding was borne out in a 1964 experiment at Dunbar Elementary School in New Orleans, where the Dictaphone Corp. had outfitted an \u201celectronic classroom.\u201d The idea was to help reluctant students by fostering an environment where learning was fun. As Principal Beulah E. Brown related in an article about the experiment, she\u2019d first encountered a Dictaphone several years earlier while on sabbatical and immediately saw its pedagogical potential. The Dictaphone, Brown wrote, promised individually tailored educational experiences, allowing students to focus on specific challenges and freeing the teacher to have more personal interactions with each child. Testimonials from Warren Honore\u2019s fifth grade class attest to its success as an engaging technology.</p><h2>From the Dictaphone to Email to AI</h2><p>As a historian of technology, I loved learning that two heavyweights in the field, <a href=\"https://www.nytimes.com/1995/12/09/us/melvin-kranzberg-78-historian-of-technology.html\" target=\"_blank\">Melvin Kranzberg</a> and <a href=\"https://www.theguardian.com/science/2012/aug/19/thomas-kuhn-structure-scientific-revolutions\" target=\"_blank\">Thomas Kuhn</a>, were both committed fans of the Dictaphone. I also enjoyed meditating on the role of the dictaphone and other technology as a mediator in the writing process.</p><p>My research turned up <a href=\"https://www.graywolfpress.org/books/tolstoys-dictaphone\" target=\"_blank\"><em><em>Tolstoy\u2019s Dictaphone: Technology and the Muse</em></em></a> (Graywolf Press), a 1996 collection of essays edited by the literary critic <a href=\"https://agnionline.bu.edu/about/our-people/authors/sven-birkerts/\" target=\"_blank\">Sven Birkerts</a><em><em>. </em></em>The title comes from an anecdote about the Russian writer Leo Tolstoy, who refused the offer of a Dictaphone because it would be \u201ctoo dreadfully exciting\u201d and would distract him from his literary pursuits. To form the volume, Birkerts posed questions to his authors concerning the place of self and soul in a society being bombarded with new forms of communication\u2014namely, email and the internet.</p><p>Today, of course, our world is being shaped by AI, arguably an even bigger disrupter than email was in the 1990s or the Dictaphone was in the early 20th century. But then, technology is always trying to remake society, and the path it takes is never inevitable. Sometimes, when we\u2019re lucky, it is delightfully surprising.</p><p><em>Part of a <a href=\"https://spectrum.ieee.org/collections/past-forward/\" target=\"_self\">continuing series</a> looking at historical artifacts that embrace the boundless potential of technology.</em></p><p><span><em>An abridged version of this article appears in the January 2026 print issue as \u201cThis Machine Listened to \u2018Dictators.\u2019 \u201d</em></span></p><h3>References</h3><br /><p>David Morton emailed me and suggested I write about the Dictaphone after hearing me <a href=\"https://vimeo.com/1127295581\" target=\"_blank\">give a talk</a> about this series. Morton is an expert on the Dictaphone, and I leaned heavily on his book <a href=\"https://www.rutgersuniversitypress.org/delaware/off-the-record/9780813527475\" target=\"_blank\"><em>Off the Record: The Technology and Culture of Sound Recording in America</em></a><em> </em>(Rutgers University Press, 1999)<em>.</em></p><p>The Dictaphone Sales Corp. publicized its product with articles such as \u201cWhy Learn the Operation of the Dictating Machine\u201d by L.C. Stowell, the company\u2019s president, in the <em>Journal of Business Education </em>in 1935.</p><p>Articles on the pedagogical uses of the Dictaphone include George F. Meyer\u2019s \u201cThe Dictaphone as an Aid in the Instruction of Children with Defective Vision,\u201d published in <em>The Teachers Forum</em> in March 1933; Beulah E. Brown\u2019s \u201c \u2018Learning Is Fun\u2019 With the Dictaphone Electronic Classroom\u2014A Discussion,\u201d published in the <em>Journal of Negro Education, </em>summer 1966; and Frances M. Freeman\u2019s master\u2019s thesis, \u201cAn Experimental Study of the Dictaphone Method of Teaching Typewriting to Retarded Students,\u201d submitted to the Oklahoma Agricultural and Mechanical College in 1938. (For Freeman, \u201cretarded\u201d meant students who typed slowly and made a lot of mistakes.)</p>"
       },
       {
+        "id": "0115bf08031a2a7d",
+        "title": "The Download: the US digital rights crackdown, and AI companionship",
+        "url": "https://www.technologyreview.com/2026/01/19/1131450/the-download-the-us-digital-rights-crackdown-and-ai-companionship/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 19 Jan 2026 13:39:00 +0000",
+        "published_dt": "2026-01-19T13:39:00+00:00",
+        "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What it\u2019s like to be banned from the US for fighting online hate\u00a0\u00a0 Just before Christmas the Trump administration dramatically escalated its war on digital rights by banning five people from entering the&#8230;"
+      },
+      {
+        "id": "759daa1a5b46dbdf",
+        "title": "Going beyond pilots with composable and sovereign AI",
+        "url": "https://www.technologyreview.com/2026/01/19/1131422/going-beyond-pilots-with-composable-and-sovereign-ai/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 19 Jan 2026 11:59:33 +0000",
+        "published_dt": "2026-01-19T11:59:33+00:00",
+        "summary": "Today marks an inflection point for enterprise AI adoption. Despite billions invested in generative AI, only 5% of integrated pilots deliver measurable business value and nearly one in two companies abandons AI initiatives before reaching production. The bottleneck is not the models themselves. What\u2019s holding enterprises back is the surrounding infrastructure: Limited data accessibility, rigid&#8230;"
+      },
+      {
+        "id": "d907d701b83ab747",
+        "title": "What it\u2019s like to be banned from the US for fighting online hate",
+        "url": "https://www.technologyreview.com/2026/01/19/1131384/what-its-like-to-be-banned-from-the-us-for-fighting-online-hate/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 19 Jan 2026 10:00:00 +0000",
+        "published_dt": "2026-01-19T10:00:00+00:00",
+        "summary": "It was early evening in Berlin, just a day before Christmas Eve, when Josephine Ballon got an unexpected email from US Customs and Border Protection. The status of her ability to travel to the United States had changed\u2014she\u2019d no longer be able to enter the country.&#160; At first, she couldn\u2019t find any information online as&#8230;"
+      },
+      {
         "id": "d47ff194757c6082",
         "title": "The Download: cut through AI coding hype, and biotech trends to watch",
         "url": "https://www.technologyreview.com/2026/01/16/1131375/the-download-ai-coding-hype-and-biotech-trends-to-watch/",
@@ -880,15 +889,6 @@
         "published": "Wed, 14 Jan 2026 11:17:46 +0000",
         "published_dt": "2026-01-14T11:17:46+00:00",
         "summary": "Behold, the hyperscale data center!&#160; Massive structures, with thousands of specialized computer chips running in parallel to perform the complex calculations required by advanced AI models. A single facility can cover millions of square feet, built with millions of pounds of steel, aluminum, and concrete; feature hundreds of miles of wiring, connecting some hundreds of&#8230;"
-      },
-      {
-        "id": "f3405cdda22b1ab3",
-        "title": "The Download: sodium-ion batteries and China\u2019s bright tech future",
-        "url": "https://www.technologyreview.com/2026/01/13/1131245/the-download-sodium-ion-batteries-and-chinas-bright-tech-future/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 13 Jan 2026 13:00:00 +0000",
-        "published_dt": "2026-01-13T13:00:00+00:00",
-        "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sodium-ion batteries are making their way into cars\u2014and the grid For decades, lithium-ion batteries have powered our phones, laptops, and electric vehicles. But lithium\u2019s limited supply and volatile price have led the industry&#8230;"
       },
       {
         "id": "80d911f0aeae750b",
