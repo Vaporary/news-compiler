@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-01-25T12:55:46.294373+00:00",
+  "generated_at": "2026-01-26T13:02:40.622689+00:00",
   "categories": {
     "Biotech": [
+      {
+        "id": "a84d4888109c9790",
+        "title": "STAT+: FDA\u2019s new \u2018plausible mechanism pathway\u2019 for personalized gene editing raises concerns",
+        "url": "https://www.statnews.com/2026/01/26/fda-makary-prasad-crispr-gene-editing-concerns-baby-kj/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 26 Jan 2026 09:30:00 +0000",
+        "published_dt": "2026-01-26T09:30:00+00:00",
+        "summary": "A new FDA pathway meant to enable one-time gene-editing cures could, ethicists warn, become a Pandora's box."
+      },
+      {
+        "id": "e76a9bbe6ff121fb",
+        "title": "STAT+: Endometriosis often takes years to diagnose. Startups want to change that",
+        "url": "https://www.statnews.com/2026/01/26/endometriosis-new-diagnostic-tests-research-advances/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 26 Jan 2026 09:30:00 +0000",
+        "published_dt": "2026-01-26T09:30:00+00:00",
+        "summary": "At least a dozen biotech companies are developing tools to diagnose endometriosis more easily."
+      },
+      {
+        "id": "a6d60bb32d34323b",
+        "title": "Opinion: Our podcast \u2018Why Should I Trust You?\u2019 connects MAHA and public health. Here\u2019s what we\u2019ve learned",
+        "url": "https://www.statnews.com/2026/01/26/podcasters-why-should-i-trust-you-discuss-maha-shared-pain/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 26 Jan 2026 09:30:00 +0000",
+        "published_dt": "2026-01-26T09:30:00+00:00",
+        "summary": "According to \u201cWhy Should I Trust You?\u201d hosts Tom W. Johnson and Brinda Adhikari, public health\u2019s disengagement from MAHA has deepened mistrust."
+      },
+      {
+        "id": "2bee265e0cac9940",
+        "title": "Opinion: Shared decision-making on vaccines is not the enemy",
+        "url": "https://www.statnews.com/2026/01/26/shared-decision-making-vaccines/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 26 Jan 2026 09:30:00 +0000",
+        "published_dt": "2026-01-26T09:30:00+00:00",
+        "summary": "\u201cIn its urge to say what Kennedy gets wrong, the public health and medical community is actively resisting something he gets right.\u201d"
+      },
       {
         "id": "ee0b27f32e594b2f",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/anti-vaccine-sentiment-pushes-moderna-away-new-late-stage-infectious-disease-trials\" hreflang=\"en\">Anti-vaccine sentiment pushes Moderna away from new late-stage infectious disease trials</a>",
@@ -19,6 +55,15 @@
         "published": "Jan 20, 2026 2:31pm",
         "published_dt": "2026-01-20T14:31:00+00:00",
         "summary": "Worldwide Clinical Trials is expanding its horizons with the acquisition of Catalyst Clinical Research, a specialist oncology organization with a particular knack for early-stage cancer trials."
+      },
+      {
+        "id": "120980de05014eaa",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/feds-charge-former-zynex-execs-massive-medtech-billing-fraud-case\" hreflang=\"en\">Feds charge former Zynex execs in massive medtech billing fraud case</a>",
+        "url": "https://www.fiercebiotech.com/medtech/feds-charge-former-zynex-execs-massive-medtech-billing-fraud-case",
+        "source": "Fierce Biotech",
+        "published": "Jan 26, 2026 3:32am",
+        "published_dt": "2026-01-26T03:32:00+00:00",
+        "summary": "A federal grand jury in Rhode Island has charged two former top executives of Colorado-based medical device company Zynex Inc. with fraud, accusing them of raking in hundreds of millions of dollars for unnecessary equipment and supplies."
       },
       {
         "id": "97e9f77c242bd541",
@@ -39,13 +84,22 @@
         "summary": "After a short delay and concerns of potential intervention from senior officials, the FDA has issued a draft guidance for the industry on the potential use of minimal residual disease and complete response to support accelerated approval of drugs to treat multiple myeloma."
       },
       {
-        "id": "69b195cd62e1d56a",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/tanabe-pharmas-oral-drug-scores-ph-3-rare-disease-study-though-details-remain-dark\" hreflang=\"en\">Tanabe Pharma's oral drug scores in ph. 3 rare disease study, though details remain in the dark</a>",
-        "url": "https://www.fiercebiotech.com/biotech/tanabe-pharmas-oral-drug-scores-ph-3-rare-disease-study-though-details-remain-dark",
-        "source": "Fierce Biotech",
-        "published": "Jan 20, 2026 10:14am",
-        "published_dt": "2026-01-20T10:14:00+00:00",
-        "summary": "Tanabe Pharma America\u2019s small molecule designed to boost melanin production has&nbsp;hit the main goal of a phase 3 trial for patients with rare hereditary disorders that cause extreme sensitivity to sunlight."
+        "id": "336ad92491227ace",
+        "title": "Public health giant William Foege, who helped eradicate smallpox, has died at 89",
+        "url": "https://www.statnews.com/2026/01/25/william-foege-obituary-smallpox-cdc-vaccination/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sun, 25 Jan 2026 20:18:42 +0000",
+        "published_dt": "2026-01-25T20:18:42+00:00",
+        "summary": "\u2018I wish we could have spared him from seeing that\u2019: Friends of Bill Foege on his legacy, and his anger over anti-vaccination."
+      },
+      {
+        "id": "4719e137c751a6fe",
+        "title": "STAT+: How investing in primary care helped a hospital system get back in the black",
+        "url": "https://www.statnews.com/2026/01/25/beth-israel-lahey-health-kevin-tabb/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sun, 25 Jan 2026 14:44:29 +0000",
+        "published_dt": "2026-01-25T14:44:29+00:00",
+        "summary": "Beth Israel Lahey Health CEO says investments in primary care are key to the organization\u2019s long-term success."
       },
       {
         "id": "8d210136bab6665a",
@@ -172,63 +226,63 @@
         "published": "Fri, 23 Jan 2026 09:30:00 +0000",
         "published_dt": "2026-01-23T09:30:00+00:00",
         "summary": "Cost-sharing insurance plans were supposed to decrease overall spending. Instead, patients \u2014 not payers \u2014 shoulder the burden of their medical costs."
-      },
-      {
-        "id": "bdc64d357ce6a4b6",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/j-craig-venter-launches-genomics-startup-designed-boost-diagnostic-insights\" hreflang=\"en\">J. Craig Venter launches genomics startup designed to boost diagnostic insights</a>",
-        "url": "https://www.fiercebiotech.com/medtech/j-craig-venter-launches-genomics-startup-designed-boost-diagnostic-insights",
-        "source": "Fierce Biotech",
-        "published": "Jan 23, 2026 6:14am",
-        "published_dt": "2026-01-23T06:14:00+00:00",
-        "summary": "Genomics and life sciences pioneer J. Craig Venter, Ph.D., is back with a new JCVI spinoff that's looking to shake up the world of diagnostics and genomic sequencing."
-      },
-      {
-        "id": "3f1472c814814bdc",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sanofi-posts-mixed-phase-3-data-key-eczema-prospect-plans-global-filings\" hreflang=\"en\">Sanofi plans global filings for key eczema prospect despite mixed phase 3 readout</a>",
-        "url": "https://www.fiercebiotech.com/biotech/sanofi-posts-mixed-phase-3-data-key-eczema-prospect-plans-global-filings",
-        "source": "Fierce Biotech",
-        "published": "Jan 23, 2026 5:44am",
-        "published_dt": "2026-01-23T05:44:00+00:00",
-        "summary": "Sanofi has reported mixed phase 3 data on amlitelimab, further muddying the prospects of a molecule tipped to generate blockbuster sales."
-      },
-      {
-        "id": "8e00762f09372e87",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-shares-sag-global-diagnostic-nutrition-biz-sales-fall-drags-earnings\" hreflang=\"en\">Abbott shares sag as global diagnostic, nutrition business sales declines drag on earnings</a>",
-        "url": "https://www.fiercebiotech.com/medtech/abbott-shares-sag-global-diagnostic-nutrition-biz-sales-fall-drags-earnings",
-        "source": "Fierce Biotech",
-        "published": "Jan 23, 2026 4:37am",
-        "published_dt": "2026-01-23T04:37:00+00:00",
-        "summary": "Abbott Laboratories saw its shares down 10% at the end of trading Thursday, Jan. 22 as the market digested weaknesses from its fourth-quarter and full-year earnings report."
-      },
-      {
-        "id": "0d25e2e958105cde",
-        "title": "STAT+: Unfilled vacancies have depleted NIH advisory councils, key players in grant approvals",
-        "url": "https://www.statnews.com/2026/01/22/nih-advisory-council-vacancies-raise-questions-funding-politicization/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 22 Jan 2026 22:08:18 +0000",
-        "published_dt": "2026-01-22T22:08:18+00:00",
-        "summary": "Only one new member was added to NIH advisory councils, which make final recommendations on grant awards, during President Trump's first year"
-      },
-      {
-        "id": "a2638c0d1be8b1ed",
-        "title": "Trump administration halts use of human fetal tissue in NIH-funded research",
-        "url": "https://www.statnews.com/2026/01/22/trump-administration-halts-use-human-fetal-tissue-nih-research/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 22 Jan 2026 20:59:46 +0000",
-        "published_dt": "2026-01-22T20:59:46+00:00",
-        "summary": "The Trump administration announced Thursday that human fetal tissue derived from abortions can no longer be used in NIH-funded research."
-      },
-      {
-        "id": "06eeb0277617a664",
-        "title": "STAT+: Health insurance execs shift blame for costly, confusing health care system",
-        "url": "https://www.statnews.com/2026/01/22/health-insurance-execs-blame-high-costs-hospitals-doctors-pharma/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 22 Jan 2026 20:11:47 +0000",
-        "published_dt": "2026-01-22T20:11:47+00:00",
-        "summary": "Health insurance execs blame the high cost of health care on hospitals, doctors, and prescription drugs."
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "c34d205b6c6319c2",
+        "title": "Microchip adds 600 V gate drivers for motor control designs",
+        "url": "https://www.engineering.com/microchip-adds-600-v-gate-drivers-for-motor-control-designs/",
+        "source": "Engineering.com",
+        "published": "Mon, 26 Jan 2026 12:39:25 +0000",
+        "published_dt": "2026-01-26T12:39:25+00:00",
+        "summary": "<p>The 12-device lineup includes half-bridge, high-side/low-side and 3-phase options with 600 mA to 4.5 A peak drive and 3.3 V logic.</p>\n<p>The post <a href=\"https://www.engineering.com/microchip-adds-600-v-gate-drivers-for-motor-control-designs/\">Microchip adds 600 V gate drivers for motor control designs</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "b49811290d39e6dd",
+        "title": "H3 failure linked to payload fairing separation anomaly",
+        "url": "https://spacenews.com/h3-failure-linked-to-payload-fairing-separation-anomaly/",
+        "source": "SpaceNews",
+        "published": "Mon, 26 Jan 2026 11:56:13 +0000",
+        "published_dt": "2026-01-26T11:56:13+00:00",
+        "summary": "<figure><img alt=\"H3 F8 payload fairing\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/h3-f8fairing.jpeg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>An H3 launch failure in December may have been caused by an unusual event that led to the satellite separating from the rocket prematurely.</p>\n<p>The post <a href=\"https://spacenews.com/h3-failure-linked-to-payload-fairing-separation-anomaly/\">H3 failure linked to payload fairing separation anomaly</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "49a50e9ec2695c83",
+        "title": "DEWALT and August Robotics launch downward drilling robot",
+        "url": "https://www.engineering.com/dewalt-and-august-robotics-launch-downward-drilling-robot/",
+        "source": "Engineering.com",
+        "published": "Mon, 26 Jan 2026 10:25:00 +0000",
+        "published_dt": "2026-01-26T10:25:00+00:00",
+        "summary": "<p>The fleet-capable system completed pilots across 10 data center projects and is planned for commercial availability in mid-2026.</p>\n<p>The post <a href=\"https://www.engineering.com/dewalt-and-august-robotics-launch-downward-drilling-robot/\">DEWALT and August Robotics launch downward drilling robot</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "ee9816e7b08fbf84",
+        "title": "Hadrian Additive launched for defense production capacity",
+        "url": "https://www.engineering.com/hadrian-additive-launched-for-defense-production-capacity/",
+        "source": "Engineering.com",
+        "published": "Mon, 26 Jan 2026 09:12:00 +0000",
+        "published_dt": "2026-01-26T09:12:00+00:00",
+        "summary": "<p>New division brings production-ready additive manufacturing capacity online in 2026.</p>\n<p>The post <a href=\"https://www.engineering.com/hadrian-additive-launched-for-defense-production-capacity/\">Hadrian Additive launched for defense production capacity</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "cf2c46aa1c24fe3b",
+        "title": "Keysight supports Airbus UpNext SpaceRAN 5G NTN tests",
+        "url": "https://www.engineering.com/keysight-supports-airbus-upnext-spaceran-5g-ntn-tests/",
+        "source": "Engineering.com",
+        "published": "Mon, 26 Jan 2026 09:04:00 +0000",
+        "published_dt": "2026-01-26T09:04:00+00:00",
+        "summary": "<p>Ground demo uses PROPSIM and UeSim to validate beam and gateway handover plus mobility between terrestrial and LEO networks.</p>\n<p>The post <a href=\"https://www.engineering.com/keysight-supports-airbus-upnext-spaceran-5g-ntn-tests/\">Keysight supports Airbus UpNext SpaceRAN 5G NTN tests</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "5216dcafcfd430b6",
+        "title": "SEMIFIVE and SAPIEN sign MOU on CMOS micro-display backplanes",
+        "url": "https://www.engineering.com/semifive-and-sapien-sign-mou-on-cmos-micro-display-backplanes/",
+        "source": "Engineering.com",
+        "published": "Mon, 26 Jan 2026 08:58:00 +0000",
+        "published_dt": "2026-01-26T08:58:00+00:00",
+        "summary": "<p>Work includes verification and simulation plus micro-LED DDI guidance to support AI smart glasses and other wearables.</p>\n<p>The post <a href=\"https://www.engineering.com/semifive-and-sapien-sign-mou-on-cmos-micro-display-backplanes/\">SEMIFIVE and SAPIEN sign MOU on CMOS micro-display backplanes</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
       {
         "id": "f590f19e2349690e",
         "title": "ENCY becomes SOLIDWORKS Certified Solution Partner",
@@ -239,15 +293,6 @@
         "summary": "<p>Certification confirms ENCY CAD/CAM compatibility with SOLIDWORKS and supports predictable CAD-to-manufacturing workflows for CNC and robotics.</p>\n<p>The post <a href=\"https://www.engineering.com/ency-becomes-solidworks-certified-solution-partner/\">ENCY becomes SOLIDWORKS Certified Solution Partner</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "eb7e69e63652a45f",
-        "title": "Dave Evans tapped to lead Misumi Americas",
-        "url": "https://www.engineering.com/dave-evans-tapped-to-lead-misumi-americas/",
-        "source": "Engineering.com",
-        "published": "Thu, 22 Jan 2026 19:12:10 +0000",
-        "published_dt": "2026-01-22T19:12:10+00:00",
-        "summary": "<p>The move comes nine months after Misumi acquired supply chain technology and manufacturing company Fictiv.</p>\n<p>The post <a href=\"https://www.engineering.com/dave-evans-tapped-to-lead-misumi-americas/\">Dave Evans tapped to lead Misumi Americas</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
         "id": "9ead3ebd9a6b5a4a",
         "title": "L3Harris to supply imager for Korean geostationary weather satellite",
         "url": "https://spacenews.com/l3harris-to-supply-imager-for-korean-geostationary-weather-satellite/",
@@ -255,6 +300,15 @@
         "published": "Thu, 22 Jan 2026 17:30:01 +0000",
         "published_dt": "2026-01-22T17:30:01+00:00",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"525\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/rsz_7da9328e40c124ff88740c579e4588a4_1747204434474.png?fit=892%2C525&amp;ssl=1\" width=\"892\" /></figure>\n<p>TAHOE CITY, Calif. &#8212; L3Harris Technologies will provide the primary imagery for the Korean Meteorological Administration\u2019s (KMA) next-generation geostationary weather satellite. The contract, awarded to L3Harris by Korean aerospace manufacturer [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/l3harris-to-supply-imager-for-korean-geostationary-weather-satellite/\">L3Harris to supply imager for Korean geostationary weather satellite</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "5ee3d23eb6e2ec98",
+        "title": "Golden Dome is forcing the Pentagon to confront missile defense economics",
+        "url": "https://spacenews.com/golden-dome-is-forcing-the-pentagon-to-confront-missile-defense-economics/",
+        "source": "SpaceNews",
+        "published": "Sun, 25 Jan 2026 15:47:06 +0000",
+        "published_dt": "2026-01-25T15:47:06+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"566\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/Image-1-23-26-at-11.09-AM-scaled.png?fit=1024%2C566&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Gen. Michael Guetlein says deterrence hinges less on exquisite technology than on cost, production scale and industrial execution</p>\n<p>The post <a href=\"https://spacenews.com/golden-dome-is-forcing-the-pentagon-to-confront-missile-defense-economics/\">Golden Dome is forcing the Pentagon to confront missile defense economics</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "fc0972ee37bda122",
@@ -399,63 +453,18 @@
         "published": "Thu, 22 Jan 2026 20:45:27 +0000",
         "published_dt": "2026-01-22T20:45:27+00:00",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"575\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/Open-Cosmos-Launches-Two-Satellites-To-Build-LEO-Constellation-4.jpg?fit=1024%2C575&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Open Cosmos deployed two satellites Jan. 22 to activate Ka-band spectrum filings reassigned by Liechtenstein last week, racing to meet deployment deadlines to bring the frequencies into use for sovereign and enterprise broadband.</p>\n<p>The post <a href=\"https://spacenews.com/open-cosmos-advances-broadband-plans-with-spectrum-once-held-by-rivada/\">Open Cosmos advances broadband plans with spectrum once held by Rivada</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "9eab4aab3bc4a71a",
-        "title": "Blue Origin flies first New Shepard mission of 2026",
-        "url": "https://spacenews.com/blue-origin-flies-first-new-shepard-mission-of-2026/",
-        "source": "SpaceNews",
-        "published": "Thu, 22 Jan 2026 20:39:30 +0000",
-        "published_dt": "2026-01-22T20:39:30+00:00",
-        "summary": "<figure><img alt=\"NS-38\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"548\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/ns38.jpeg?fit=1024%2C548&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Blue Origin launched its first New Shepard mission of the year Jan. 22, carrying five paying customers and one company employee after a last-minute change.</p>\n<p>The post <a href=\"https://spacenews.com/blue-origin-flies-first-new-shepard-mission-of-2026/\">Blue Origin flies first New Shepard mission of 2026</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "9e5dfed4c0a756eb",
-        "title": "As satellites become targets, Space Force plans for growth and a broader role",
-        "url": "https://spacenews.com/as-satellites-become-targets-space-force-plans-for-growth-and-a-broader-role/",
-        "source": "SpaceNews",
-        "published": "Thu, 22 Jan 2026 20:19:56 +0000",
-        "published_dt": "2026-01-22T20:19:56+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/DSC02039-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Gen. Shawn Bratton, vice chief of space operations of the U.S. Space Force, says growing reliance on satellites is forcing faster integration with the joint force and long-term planning beyond Earth orbit</p>\n<p>The post <a href=\"https://spacenews.com/as-satellites-become-targets-space-force-plans-for-growth-and-a-broader-role/\">As satellites become targets, Space Force plans for growth and a broader role</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "145ef4af410e8a30",
-        "title": "Paper: Sonic booms could reveal where debris has fallen after uncontrolled reentries",
-        "url": "https://aerospaceamerica.aiaa.org/paper-sonic-booms-could-reveal-where-debris-has-fallen-after-uncontrolled-reentries/",
-        "source": "Aerospace America",
-        "published": "Thu, 22 Jan 2026 19:03:00 +0000",
-        "published_dt": "2026-01-22T19:03:00+00:00",
-        "summary": ""
-      },
-      {
-        "id": "170c5f154c9050df",
-        "title": "Rocket Lab launches first satellites for Open Cosmos constellation",
-        "url": "https://spacenews.com/rocket-lab-launches-first-satellites-for-open-cosmos-constellation/",
-        "source": "SpaceNews",
-        "published": "Thu, 22 Jan 2026 18:53:58 +0000",
-        "published_dt": "2026-01-22T18:53:58+00:00",
-        "summary": "<figure><img alt=\"Electron launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/55054109777_52d9faea86_k.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A Rocket Lab Electron launched the first satellites for a new constellation being developed by Open Cosmos that will use spectrum previously assigned to Rivada Space Networks.</p>\n<p>The post <a href=\"https://spacenews.com/rocket-lab-launches-first-satellites-for-open-cosmos-constellation/\">Rocket Lab launches first satellites for Open Cosmos constellation</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "f2fa158802977047",
-        "title": "Space Force likely to double in personnel within a decade, vice chief says",
-        "url": "https://aerospaceamerica.aiaa.org/space-force-likely-to-double-in-personnel-within-a-decade-vice-chief-says/",
-        "source": "Aerospace America",
-        "published": "Thu, 22 Jan 2026 16:39:15 +0000",
-        "published_dt": "2026-01-22T16:39:15+00:00",
-        "summary": ""
-      },
-      {
-        "id": "fe3ed8c1d3a72fe1",
-        "title": "Pentagon announces \u2018patent holiday\u2019 to encourage productization",
-        "url": "https://aerospaceamerica.aiaa.org/pentagon-announces-patent-holiday-to-encourage-productization/",
-        "source": "Aerospace America",
-        "published": "Thu, 22 Jan 2026 16:20:45 +0000",
-        "published_dt": "2026-01-22T16:20:45+00:00",
-        "summary": ""
       }
     ],
     "Economics": [
+      {
+        "id": "d68c913af775eeb1",
+        "title": "Technology and Economic Development -- by Daron Acemoglu, Ufuk Akcigit, Simon Johnson",
+        "url": "https://www.nber.org/papers/w34730#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "This chapter presents a tractable framework for the study of technology adoption and diffusion in the context of economic development. Firms in countries behind the world technology frontier can rapidly adopt new techniques from the world frontier. Lower absorptive capacity (because of weak education systems, poor management practices, or barriers to technology adoption), institutional distortions, mismatch between frontier technologies and the needs of firms in the country (i.e., \u201cinappropriate technology\u201d), and credit market frictions slow down technology adoption and cause the economy in question to have a greater distance to the frontier and thus lower income per capita\u2014although the long-run growth rate of the country still remains equal to that of the frontier. This framework is extended to study the choice between innovation and imitation, as well as the role of selection for higher-productivity and higher-absorptive capacity firms during the process of economic development. We illustrate the main comparative statics of our framework with a number of correlations based on cross-country and firm-level data. The tractability of the framework makes it amenable to a range of additional extensions."
+      },
       {
         "id": "8bd66e558ada2539",
         "title": "How Trump\u2019s war on the Federal Reserve could do serious damage",
@@ -466,58 +475,58 @@
         "summary": "Just consider what happens if inflation starts to rise again"
       },
       {
-        "id": "1156cf6b5db8b958",
-        "title": "Unlocking Occupational Opportunity: The Labor Market Effects of DACA -- by Aimee Chin, Kalena Cortes, Camila Morales",
-        "url": "https://www.nber.org/papers/w34685#fromrss",
+        "id": "09a71717d375733f",
+        "title": "Speculative Growth and the AI \"Bubble\" -- by Ricardo J. Caballero",
+        "url": "https://www.nber.org/papers/w34722#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "U.S. laws make it illegal for employers to knowingly hire undocumented migrants. This legal constraint affects which firms will employ unauthorized workers and what jobs undocumented migrants can expect to get. As a result, unauthorized migrants are more likely to end up in jobs that have a lower risk of detection of immigration status and are less desirable. The Deferred Action for Childhood Arrivals (DACA) policy, which began in August 2012, gave temporary legal authorization to work in the U.S. to a subset of undocumented migrants \u2013 those who arrived in the U.S. as children meeting certain other eligibility criteria. In this paper, we use a difference-in-differences strategy to estimate the effect of DACA on the occupational outcomes of young adults who arrived in the U.S. as children. Applying this strategy to individual-level data from the American Community Survey, we find that DACA eligibility decreases the likelihood that noncitizen childhood immigrants hold traditional immigrant jobs or jobs with a high risk of injury, and increases the likelihood of holding a government job or jobs that require occupational licensing. On the whole, DACA eligibility shifts noncitizen childhood immigrants to occupations that are higher-paying and employ more educated workers. These findings are consistent with legal barriers constraining undocumented childhood migrants from taking the jobs they are interested in and have the skills for. These workers are shunted to jobs they find less desirable and there are societal losses from the misallocation of talent."
+        "summary": "AI technology can generate speculative-growth equilibria. These are rational but fragile: elevated valuations support rapid capital accumulation, yet persist only as long as beliefs remain coordinated. Because AI capital is labor-like, it expands effective labor and dampens the normal decline in the marginal product of capital as the capital stock grows. The gains from this expansion accrue disproportionately to capitalists, whose saving rate rises with wealth, raising aggregate saving.  Building on Caballero et al (2006), I show that these features generate a funding feedback\u2014rising capitalist wealth lowers the required return\u2014that can produce multiple equilibria. With intermediate adjustment costs, elevated valuations are the mechanism that sustains a transition toward a high-capital equilibrium; a loss of confidence can precipitate a self-fulfilling crash and reversal."
       },
       {
-        "id": "e5be071df36fc742",
-        "title": "The Geography of Science -- by Abhishek Nagaraj, Randol Yao",
-        "url": "https://www.nber.org/papers/w34694#fromrss",
+        "id": "c03030455ac0c837",
+        "title": "Senior Migration, Local Economic Development and Spatial Concentration -- by Marco A. Badilla Maroto, Benjamin Faber, Antoine B. Levy, Mathilde Mu\u00f1oz",
+        "url": "https://www.nber.org/papers/w34725#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "Science has long been concentrated in the Western world, but the global research landscape is undergoing a profound reorganization. Using data on 44 million publications from 1980 to 2022, we document the geography of science in terms of who produces it, what it studies, and where it diffuses. The share of publications produced in the United States has fallen from 40% in 1980 to 15% in 2022, while China\u2019s share has risen from near-zero to 32%. This pattern extends even to elite outlets, with China now producing over 35% of top-journal publications. Notably, this is driven not only by an expanding researcher base but also\u2014to a large extent\u2014by increases in individual productivity. This growth varies by fields: China leads in the Engineering and Physical Sciences (such as Chemistry), while the US retains its lead in Biomedical and Health Sciences. Moreover, China\u2019s expanding leadership in scientific production has not translated into a commensurate shift in global diffusion and integration. Elite research remains disproportionately focused on US topics (40% of breakthrough publications), and citations to Chinese research disproportionately come from within China rather than from other regions, even for top-tier science. Similar to China, other middle- and low-income countries (including India, Russia, and Brazil) have also expanded output producing as much research as high-income European Union countries combined (about 21% overall) but they remain underrepresented in top-tier journals. Overall, our findings highlight both the democratization and fragmentation of global science, raising important questions about the future of the global scientific enterprise."
+        "summary": "We document that migration flows upon retirement are predominantly from richer, more urban to poorer, more rural regions. In theory, the local economic implications of senior in-migration are ambiguous, while empirically there is little existing evidence on whether attracting mobile seniors can be an effective tool to promote economic development among lagging regions. We combine a unique collection of microdata from France with a new empirical strategy to fill this gap. We find that senior inflows have significant positive effects on the local economy over the course of a decade, including increases in the working-age population, total employment, GDP, average incomes, fiscal revenues and housing construction. These effects are particularly pronounced among initially poorer regions. They are accompanied by an increase in the share of services in the local economy, driven by employment growth in health, food services and retail sectors. Combining these estimates with observed region-to-region net migration flows, we find that mobile seniors have become a significant force for reducing the concentration of employment and GDP across regions."
       },
       {
-        "id": "fe7e1ca6d29fe223",
-        "title": "Monopsony, Markdowns, and Minimum Wages -- by Ester Faia, Benjamin Lochner, Benjamin Schoefer",
-        "url": "https://www.nber.org/papers/w34699#fromrss",
+        "id": "4a500267b388c1fe",
+        "title": "The Contribution of College Majors to Gender and Racial Earnings Differences -- by Scott A. Imberman, Michael F. Lovenheim, Patrick Massey, Kevin M. Stange, Rodney J. Andrews",
+        "url": "https://www.nber.org/papers/w34726#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "This paper presents the first direct test of two interlinked predictions at the core of the monopsony theory of the labor market: (i) that firms exploit wage-setting power by marking down wages below the marginal revenue product of labor, and (ii) that exogenous wage constraints, if binding, eliminate markdowns. Our research design revisits the 2015 introduction of a high minimum wage in Germany. Drawing on a monopsony model, we derive an empirically tractable difference-in-differences specification that provides a quantitative benchmark for the firm-level markdown response. Our main result is that empirical markdowns respond only 0\u201325% as much as the monopsony model would have predicted. Hence, at least for the labor market segment we study, (i) markdowns largely reflect other distortions than monopsony, (ii) markdowns are mismeasured, (iii) minimum wages induce widespread labor shortages, or (iv) the standard monopsony model does not provide a full, realistic account of the labor market."
+        "summary": "Gender and racial/ethnic gaps in labor market earnings remain large, even among college-goers. Cross-gender and race/ethnic differences in choice of and returns to college major are potentially important contributors. Following Texas public high school graduates for up to 20 years through college and the labor market, we assess gender and racial differences in college major choices and the consequences of these choices. Women and underrepresented minorities are less likely than men, Whites, and Asians to major in high earning fields like business, economics, engineering, and computer science, however we also show that they experience lower returns to these majors. Differences in major-specific returns relative to liberal arts explain about one quarter of the gender, White-Black, and White-Hispanic (but not White-Asian) earnings gaps among four-year college students and become larger contributors to earnings gaps than differential major distributions as workers age. We present suggestive evidence that differences in occupation choices within field are a key driver of the differences in returns across groups. The work shines light on the roles that college major choice and returns by gender and race contribute to inequality."
       },
       {
-        "id": "cf669d5f79e28419",
-        "title": "Aggregate Productivity with Discrete Choice -- by David Baqaee, Ariel Burstein",
-        "url": "https://www.nber.org/papers/w34703#fromrss",
+        "id": "fc8a87e6e6b56467",
+        "title": "Economic Development and the Environment -- by B. Kelsey Jack, Nicholas Ryan",
+        "url": "https://www.nber.org/papers/w34735#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "This paper quantifies aggregate productivity in general equilibrium economies where agents with heterogeneous preferences make discrete choices between locations and occupations. We show how the conventional tools of welfare economics, like cost-benefit analysis, can be extended to these settings. Following Debreu (1951), we measure the change in aggregate productivity as the maximum reduction in total factor productivity such that it is possible to make every household at least indifferent to their status quo allocation. Aggregate productivity rises if primary factors can be saved while keeping every household at least indifferent. We characterize this measure of efficiency in terms of compensated supply and demand curves. We show that, to a first-order approximation, the elasticity of aggregate productivity to productivity shocks is given by sales shares (regardless of preferences and technologies). We also provide second-order approximations in terms of elasticities of uncompensated supply and demand curves. We contrast our approach with some popular alternative measures of aggregate efficiency and welfare: real GDP, the cross-sectional average of utilities, and the sum of compensating variations, and show that these alternative measures have serious flaws."
+        "summary": "Economic development relies on and transforms the environment. The transformation is evident in the poor environmental quality in many developing countries. For example, air quality in Southeast Asia is three times worse than in the United States, in sub-Saharan Africa four times worse and in South Asia more than six times worse. We model how environmental quality affects health, productivity and well-being and how individuals privately adapt to environmental hazards. We also model how collective action and formal regulation contribute to environmental quality. We draw three main findings from a review of empirical research on these mechanisms. First, individual adaptation to environmental hazards is both inadequate as a remedy and inefficiently low. Second, collective action, without the state, to manage resources or address externalities has been outstripped by the scale of environmental problems. Third, state action through formal regulation works better than it looks. Many formal regulations are coarse, poorly targeted and inefficient, but nonetheless yield benefits in excess of their costs."
       },
       {
-        "id": "8a38cdc87f1cfdf2",
-        "title": "Tenure-Dependent Severance Costs and Labor Market Dynamics over the Life Cycle -- by Calebe Figueiredo, Neville Francis",
-        "url": "https://www.nber.org/papers/w34704#fromrss",
+        "id": "cba9551ead566451",
+        "title": "College Major Choice, Payoffs, and Gender Gaps -- by Christopher Campos, Pablo Mu\u00f1oz, Alonso Bucarey, Dante Contreras",
+        "url": "https://www.nber.org/papers/w34736#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We study the labor market effects of tenure-dependent severance pay systems that tie firing costs to workers\u2019 accumulated earnings histories. We develop an overlapping-generations search-and-matching model in which firms face increasing separation costs over the employment relationship. Using administrative employer\u2013employee data from Brazil, we estimate the model and show that tenure-dependent severance costs induce labor hoarding among low-productivity, long-tenured workers who would not be hired if unemployed. These distortions are strongest late in the life cycle, when firms optimally delay separation to avoid severance obligations, while simultaneously imposing higher hiring thresholds on older unemployed workers with shorter continuation values. These forces imply that tenure-based severance policies protect employment histories rather than productivity, shaping labor market dynamics over the life cycle and generating allocative inefficiencies."
+        "summary": "This paper studies how college major choices shape earnings and fertility outcomes. Using administrative data that link students' preferences, random assignment to majors, and post-college outcomes, we estimate the causal pecuniary and non-pecuniary returns to different fields of study. We document substantial heterogeneity in these returns across majors and show that such variation helps explain gender gaps in labor market outcomes: women place greater weight on balancing career and family in their major choices, and these preference differences account for about 30% of the gender earnings gap among college graduates. Last, we use our causal estimates to evaluate the effects of counterfactual assignment rules that target representation gaps in settings with centralized assignment systems. We find that gender quotas in high-return fields can significantly reduce representation and earnings gaps with minimal impacts on efficiency and aggregate fertility."
       },
       {
-        "id": "f8fb575ecfe448a7",
-        "title": "Marginal Admission to Elite High Schools: Long-run Effects on Labor Market Outcomes -- by Francisco J. Cabrera-Hern\u00e1ndez, Andrew Dustan, Daniel Osuna Gomez, Mar\u00eda Padilla-Romo",
-        "url": "https://www.nber.org/papers/w34706#fromrss",
+        "id": "c8583c910529a576",
+        "title": "Industrial Activity, State Capacity, and Deforestation: Evidence from Brazil -- by Daniel Da Mata, Mario Dotta, Edson R. Severnini",
+        "url": "https://www.nber.org/papers/w34751#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We estimate the long-run effects of marginal admission to elite public high schools on students' labor supply in the context of Mexico City's centralized high school admission system. Using a regression discontinuity approach, we compare students whose placement exam scores are just above and just below the elite admission threshold. We find that five and ten years after the admission exam, marginally admitted students are less likely to be employed in the formal private sector, and, if employed, they earn lower wages. However, these employment and wage gaps close after 15 years. Moreover, we find that marginal admission to elite high schools leads to delayed entry into the formal labor market, and, at least in the short run, students in elite high schools seem to sort into lower-productivity firms and industries."
+        "summary": "Does industrial activity drive deforestation and land degradation, and can limited state capacity be overcome to decouple economic growth from environmental harm? We examine these questions in the context of slaughterhouse plant openings in Brazil from 1994 to 2019. Guided by a simple conceptual framework and using a staggered difference-in-differences approach, we show that plant openings increase livestock production while reducing forest cover and degrading pastureland. However, following the introduction of legally enforceable, incentive-compatible agreements between slaughterhouses and federal prosecutors\u2014which penalize purchases of livestock from illegally deforested areas but act as a green certification mechanism\u2014plant openings increase productivity without driving deforestation. Our findings suggest that tying firm performance to environmental goals through market-aligned legal mechanisms can generate economic and environmental gains at low cost to the government."
       },
       {
         "id": "b24fa6072172a64d",
@@ -671,15 +680,6 @@
         "published": "Thu, 30 Oct 2025 11:22:35 +0000",
         "published_dt": "2025-10-30T11:22:35+00:00",
         "summary": "The country is in line for a pay-out from catastrophe bonds"
-      },
-      {
-        "id": "e9ed5418e177f4f9",
-        "title": "Will America\u2019s new sanctions on Russian oil force a peace deal?",
-        "url": "https://www.economist.com/finance-and-economics/2025/10/23/will-americas-new-sanctions-on-russian-oil-force-a-peace-deal",
-        "source": "Finance & economics",
-        "published": "Thu, 23 Oct 2025 19:12:49 +0000",
-        "published_dt": "2025-10-23T19:12:49+00:00",
-        "summary": "Donald Trump raises the pressure\u2014but he may have to go further"
       }
     ],
     "Cross-Disciplinary": [
