@@ -1,42 +1,60 @@
 {
-  "generated_at": "2026-01-26T13:02:40.622689+00:00",
+  "generated_at": "2026-01-27T13:04:41.113717+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "a84d4888109c9790",
-        "title": "STAT+: FDA\u2019s new \u2018plausible mechanism pathway\u2019 for personalized gene editing raises concerns",
-        "url": "https://www.statnews.com/2026/01/26/fda-makary-prasad-crispr-gene-editing-concerns-baby-kj/?utm_campaign=rss",
+        "id": "5271c262e93256bc",
+        "title": "Opinion: Sidelining Black women in clinical trials is not just a moral failure. It\u2019s bad science",
+        "url": "https://www.statnews.com/2026/01/27/breast-cancer-disparities-clinical-trial-research-black-women-asco-inavolisib/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Mon, 26 Jan 2026 09:30:00 +0000",
-        "published_dt": "2026-01-26T09:30:00+00:00",
-        "summary": "A new FDA pathway meant to enable one-time gene-editing cures could, ethicists warn, become a Pandora's box."
+        "published": "Tue, 27 Jan 2026 09:30:00 +0000",
+        "published_dt": "2026-01-27T09:30:00+00:00",
+        "summary": "When trial participants aren't representative, the evidence for universally adopted cancer treatment guidelines is incomplete."
       },
       {
-        "id": "e76a9bbe6ff121fb",
-        "title": "STAT+: Endometriosis often takes years to diagnose. Startups want to change that",
-        "url": "https://www.statnews.com/2026/01/26/endometriosis-new-diagnostic-tests-research-advances/?utm_campaign=rss",
+        "id": "6f092fec460543dd",
+        "title": "STAT+: Roche moves obesity drug to pivotal trials after mid-stage success",
+        "url": "https://www.statnews.com/2026/01/27/roche-ct388-trials-weight-loss-obesity/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Mon, 26 Jan 2026 09:30:00 +0000",
-        "published_dt": "2026-01-26T09:30:00+00:00",
-        "summary": "At least a dozen biotech companies are developing tools to diagnose endometriosis more easily."
+        "published": "Tue, 27 Jan 2026 08:08:12 +0000",
+        "published_dt": "2026-01-27T08:08:12+00:00",
+        "summary": "Roche plans to launch pivotal studies of an experimental weight loss drug after a successful mid-stage trial."
       },
       {
-        "id": "a6d60bb32d34323b",
-        "title": "Opinion: Our podcast \u2018Why Should I Trust You?\u2019 connects MAHA and public health. Here\u2019s what we\u2019ve learned",
-        "url": "https://www.statnews.com/2026/01/26/podcasters-why-should-i-trust-you-discuss-maha-shared-pain/?utm_campaign=rss",
+        "id": "93f544980cb730a4",
+        "title": "Opinion: I was an undocumented immigrant. Now I\u2019m a doctor watching the immigration crackdown keep my patients from seeking care",
+        "url": "https://www.statnews.com/2026/01/27/immigration-enforcement-health-care-system-fear/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Mon, 26 Jan 2026 09:30:00 +0000",
-        "published_dt": "2026-01-26T09:30:00+00:00",
-        "summary": "According to \u201cWhy Should I Trust You?\u201d hosts Tom W. Johnson and Brinda Adhikari, public health\u2019s disengagement from MAHA has deepened mistrust."
+        "published": "Tue, 27 Jan 2026 09:30:00 +0000",
+        "published_dt": "2026-01-27T09:30:00+00:00",
+        "summary": "Public health and immigration enforcement cannot safely occupy the same space, a physician writes."
       },
       {
-        "id": "2bee265e0cac9940",
-        "title": "Opinion: Shared decision-making on vaccines is not the enemy",
-        "url": "https://www.statnews.com/2026/01/26/shared-decision-making-vaccines/?utm_campaign=rss",
+        "id": "b8da9480d69e0a38",
+        "title": "STAT+: Newborn screening can save lives, but worries about potential harm slow adoption in the U.K.",
+        "url": "https://www.statnews.com/2026/01/27/newborn-screening-tests-uk-pressured-expand-disease-testing/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Mon, 26 Jan 2026 09:30:00 +0000",
-        "published_dt": "2026-01-26T09:30:00+00:00",
-        "summary": "\u201cIn its urge to say what Kennedy gets wrong, the public health and medical community is actively resisting something he gets right.\u201d"
+        "published": "Tue, 27 Jan 2026 09:30:00 +0000",
+        "published_dt": "2026-01-27T09:30:00+00:00",
+        "summary": "U.K. health officials are facing pressure to rethink how they expand the list of diseases that all newborns are screened for as new therapies become available."
+      },
+      {
+        "id": "3936380045a54d5f",
+        "title": "STAT+: 9 influencers shaping health information online, for better or worse",
+        "url": "https://www.statnews.com/2026/01/27/wellness-influencer-impact-health-content-creators-shape-public-opinion/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 27 Jan 2026 09:30:00 +0000",
+        "published_dt": "2026-01-27T09:30:00+00:00",
+        "summary": "The qualified medical experts, the pseudoscientific entertainers, and the MAHA mobilizers leading online health content today."
+      },
+      {
+        "id": "397fad46cfca31d9",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roches-glp1gip-drug-carmot-sees-225-weight-loss-readies-phase-3-trial\" hreflang=\"en\">Roche sees GLP1/GIP drug from Carmot produce 22.5% weight loss, readies phase 3 trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roches-glp1gip-drug-carmot-sees-225-weight-loss-readies-phase-3-trial",
+        "source": "Fierce Biotech",
+        "published": "Jan 27, 2026 4:53am",
+        "published_dt": "2026-01-27T04:53:00+00:00",
+        "summary": "Roche\u2019s dual GLP-1/GIP receptor agonist has been tied to 22.5% weight loss at 48 weeks, validating the company\u2019s decision to move the asset into phase 3 studies in the coming weeks."
       },
       {
         "id": "ee0b27f32e594b2f",
@@ -48,22 +66,58 @@
         "summary": "As the Trump administration erodes U.S. infrastructure supporting infectious disease vaccines, mRNA heavyweight Moderna plans to pull away from late-stage clinical trial investments in the area."
       },
       {
-        "id": "31e6b4c71ca50085",
-        "title": "<a href=\"https://www.fiercebiotech.com/cro/worldwide-clinical-trials-adds-catalyst-clinical-global-cro-mixture\" hreflang=\"en\">Worldwide Clinical Trials adds Catalyst Clinical to global CRO mixture</a>",
-        "url": "https://www.fiercebiotech.com/cro/worldwide-clinical-trials-adds-catalyst-clinical-global-cro-mixture",
+        "id": "0ac9600bd1e4001c",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/boehringer-pens-eu105b-deal-simceres-preclinical-ibd-bispecific\" hreflang=\"en\">Boehringer pens \u20ac1.05B deal for Simcere's preclinical IBD bispecific</a>",
+        "url": "https://www.fiercebiotech.com/biotech/boehringer-pens-eu105b-deal-simceres-preclinical-ibd-bispecific",
         "source": "Fierce Biotech",
-        "published": "Jan 20, 2026 2:31pm",
-        "published_dt": "2026-01-20T14:31:00+00:00",
-        "summary": "Worldwide Clinical Trials is expanding its horizons with the acquisition of Catalyst Clinical Research, a specialist oncology organization with a particular knack for early-stage cancer trials."
+        "published": "Jan 27, 2026 6:21am",
+        "published_dt": "2026-01-27T06:21:00+00:00",
+        "summary": "Boehringer Ingelheim has penned a 1.05 billion euro ($1.26 billion) biobucks deal for Simcere\u2019s preclinical inflammatory bowel disease (IBD) bispecific antibody."
       },
       {
-        "id": "120980de05014eaa",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/feds-charge-former-zynex-execs-massive-medtech-billing-fraud-case\" hreflang=\"en\">Feds charge former Zynex execs in massive medtech billing fraud case</a>",
-        "url": "https://www.fiercebiotech.com/medtech/feds-charge-former-zynex-execs-massive-medtech-billing-fraud-case",
+        "id": "2954b5a22e57befd",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about pharma lobbying, an FDA gene-editing pathway, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/01/26/pharma-lobbying-novo-genes-fda-patents/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 26 Jan 2026 14:05:25 +0000",
+        "published_dt": "2026-01-26T14:05:25+00:00",
+        "summary": "The pharmaceutical industry, long one of the most powerful lobbies in Washington, is spending more than ever to influence the nation\u2019s capital"
+      },
+      {
+        "id": "e6e4addc608ee594",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ex-cytodyn-ceo-sentenced-prison-must-pay-53m-restitution-former-cro-wins-new-trial\" hreflang=\"en\">Ex-CytoDyn CEO sentenced to prison, must pay $5.3M restitution as former CRO leader wins new trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ex-cytodyn-ceo-sentenced-prison-must-pay-53m-restitution-former-cro-wins-new-trial",
         "source": "Fierce Biotech",
-        "published": "Jan 26, 2026 3:32am",
-        "published_dt": "2026-01-26T03:32:00+00:00",
-        "summary": "A federal grand jury in Rhode Island has charged two former top executives of Colorado-based medical device company Zynex Inc. with fraud, accusing them of raking in hundreds of millions of dollars for unnecessary equipment and supplies."
+        "published": "Jan 26, 2026 10:13am",
+        "published_dt": "2026-01-26T10:13:00+00:00",
+        "summary": "Former CytoDyn CEO Nader Pourhassan, Ph.D., has received a 30-month prison sentence, or two and a half years, after being convicted on charges related to defrauding biotech investors."
+      },
+      {
+        "id": "a84d4888109c9790",
+        "title": "STAT+: FDA\u2019s new \u2018plausible mechanism pathway\u2019 for personalized gene editing raises concerns",
+        "url": "https://www.statnews.com/2026/01/26/fda-makary-prasad-crispr-gene-editing-concerns-baby-kj/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 26 Jan 2026 09:30:00 +0000",
+        "published_dt": "2026-01-26T09:30:00+00:00",
+        "summary": "A new FDA pathway meant to enable one-time gene-editing cures could, ethicists warn, become a Pandora's box."
+      },
+      {
+        "id": "e0875112cda7449d",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/guardant-health-gets-fda-nod-expand-use-blood-test-colon-cancer\" hreflang=\"en\">Guardant Health gets FDA nod to expand use of blood test for colon cancer</a>",
+        "url": "https://www.fiercebiotech.com/medtech/guardant-health-gets-fda-nod-expand-use-blood-test-colon-cancer",
+        "source": "Fierce Biotech",
+        "published": "Jan 26, 2026 7:48am",
+        "published_dt": "2026-01-26T07:48:00+00:00",
+        "summary": "Guardant Health snagged the FDA green light to use its Guardant360 CDx colon cancer diagnostic along with Pfizer\u2019s drug Braftovi in combination with cetuximab and chemotherapy.<br />"
+      },
+      {
+        "id": "26033320b4fbf2cb",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/qilu-programs-path-cardiometabolic-disease-120m-ai-enabled-insilico-alliance\" hreflang=\"en\">Qilu programs path into cardiometabolic disease with $120M, AI-enabled Insilico alliance</a>",
+        "url": "https://www.fiercebiotech.com/biotech/qilu-programs-path-cardiometabolic-disease-120m-ai-enabled-insilico-alliance",
+        "source": "Fierce Biotech",
+        "published": "Jan 27, 2026 3:40am",
+        "published_dt": "2026-01-27T03:40:00+00:00",
+        "summary": "Qilu Pharmaceutical has struck a deal to tap into Insilico Medicine\u2019s artificial intelligence drug development capabilities, offering up to $120 million to collaborate on small molecules for treating cardiometabolic diseases."
       },
       {
         "id": "97e9f77c242bd541",
@@ -84,168 +138,204 @@
         "summary": "After a short delay and concerns of potential intervention from senior officials, the FDA has issued a draft guidance for the industry on the potential use of minimal residual disease and complete response to support accelerated approval of drugs to treat multiple myeloma."
       },
       {
-        "id": "336ad92491227ace",
-        "title": "Public health giant William Foege, who helped eradicate smallpox, has died at 89",
-        "url": "https://www.statnews.com/2026/01/25/william-foege-obituary-smallpox-cdc-vaccination/?utm_campaign=rss",
+        "id": "7ae9ce153592c65b",
+        "title": "STAT+: Trump administration proposes tiny pay raise to 2027 Medicare Advantage plans",
+        "url": "https://www.statnews.com/2026/01/26/medicare-advantage-tiny-pay-raise-from-trump-administration/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Sun, 25 Jan 2026 20:18:42 +0000",
-        "published_dt": "2026-01-25T20:18:42+00:00",
-        "summary": "\u2018I wish we could have spared him from seeing that\u2019: Friends of Bill Foege on his legacy, and his anger over anti-vaccination."
+        "published": "Mon, 26 Jan 2026 22:37:30 +0000",
+        "published_dt": "2026-01-26T22:37:30+00:00",
+        "summary": "The Trump administration plans to increase payments to next year\u2019s Medicare Advantage plans by less than 0.1% on average \u2014 far below what industry expected."
       },
       {
-        "id": "4719e137c751a6fe",
-        "title": "STAT+: How investing in primary care helped a hospital system get back in the black",
-        "url": "https://www.statnews.com/2026/01/25/beth-israel-lahey-health-kevin-tabb/?utm_campaign=rss",
+        "id": "8bfc1b74226caa46",
+        "title": "STAT+: Hospital group wants Trump administration to block a new Lilly policy on 340B claims data",
+        "url": "https://www.statnews.com/pharmalot/2026/01/26/pharma-lilly-medicines-hospitals-340b/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Sun, 25 Jan 2026 14:44:29 +0000",
-        "published_dt": "2026-01-25T14:44:29+00:00",
-        "summary": "Beth Israel Lahey Health CEO says investments in primary care are key to the organization\u2019s long-term success."
+        "published": "Mon, 26 Jan 2026 21:11:33 +0000",
+        "published_dt": "2026-01-26T21:11:33+00:00",
+        "summary": "The American Hospital Association is asking the Trump administration to stop Eli Lilly from enacting a new policy as part of the 340B drug discount program."
       },
       {
-        "id": "8d210136bab6665a",
-        "title": "CDC pauses, then unpauses billions in public health infrastructure grants to states",
-        "url": "https://www.statnews.com/2026/01/24/public-health-infrastructure-grants-cdc-paused-states/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 24 Jan 2026 18:29:15 +0000",
-        "published_dt": "2026-01-24T18:29:15+00:00",
-        "summary": "The CDC briefly paused more than 100 grants to states and organizations to update infrastructure for public health projects."
-      },
-      {
-        "id": "75dca5c7e297489b",
-        "title": "Powdered whole milk could be a culprit in the ByHeart botulism outbreak, tests show",
-        "url": "https://www.statnews.com/2026/01/24/byheart-infant-formula-botulism-powdered-whole-milk/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 24 Jan 2026 18:22:27 +0000",
-        "published_dt": "2026-01-24T18:22:27+00:00",
-        "summary": "An\u00a0outbreak of botulism\u00a0that sickened dozens of babies may be related to powdered whole milk."
-      },
-      {
-        "id": "8584e26a3c4ca5ad",
-        "title": "STAT+: Former executives of device maker Zynex Medical indicted for fraud",
-        "url": "https://www.statnews.com/2026/01/23/former-executives-zynex-medical-indicted-for-fraud/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 23 Jan 2026 22:54:44 +0000",
-        "published_dt": "2026-01-23T22:54:44+00:00",
-        "summary": "Former executives of device maker Zynex Medical were indicted for fraud this week."
-      },
-      {
-        "id": "705ea12cfce10115",
-        "title": "STAT+: Dozens of hospitals demand better security for patient record sharing in letter to officials",
-        "url": "https://www.statnews.com/2026/01/23/hospitals-demand-better-rules-around-health-data-interoperability/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 23 Jan 2026 17:21:59 +0000",
-        "published_dt": "2026-01-23T17:21:59+00:00",
-        "summary": "Over 60 health systems asked national health record exchanges to take action to prevent \u201cbad actors\u201d from accessing patients\u2019 health information."
-      },
-      {
-        "id": "dc7a6d85e32adc01",
-        "title": "STAT+: Up and down the ladder: The latest comings and goings",
-        "url": "https://www.statnews.com/pharmalot/2026/01/23/pharma-biotech-jobs-teva-novartis-novo-lilly/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 23 Jan 2026 17:19:26 +0000",
-        "published_dt": "2026-01-23T17:19:26+00:00",
-        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-      },
-      {
-        "id": "4ad44f6aefa6d052",
-        "title": "Key autism committee is being reshaped to support Kennedy\u2019s vaccine agenda, researchers and advocates fear",
-        "url": "https://www.statnews.com/2026/01/23/kennedy-autism-advisors-new-panel-members-selection-lacks-transparency/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 23 Jan 2026 17:18:21 +0000",
-        "published_dt": "2026-01-23T17:18:21+00:00",
-        "summary": "Researchers and advocates fear a key autism committee is being reshaped to support Kennedy's vaccine agenda."
-      },
-      {
-        "id": "d12d01bca9c46393",
-        "title": "STAT+: Insurers blame drugmakers, hospitals for high prices",
-        "url": "https://www.statnews.com/2026/01/23/biotech-news-insurers-blame-drugmakers-hospitals-for-prices/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 23 Jan 2026 15:26:17 +0000",
-        "published_dt": "2026-01-23T15:26:17+00:00",
-        "summary": "Plus more biotech news updates, brought to you by The Readout"
-      },
-      {
-        "id": "237c09525a89d72f",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about drug shortages, llama antibodies for developing meds, and more",
-        "url": "https://www.statnews.com/pharmalot/2026/01/23/moderna-vaccines-cigna-shortages-cancer-obesity-weight/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 23 Jan 2026 14:27:14 +0000",
-        "published_dt": "2026-01-23T14:27:14+00:00",
-        "summary": "The number of ongoing prescription drug shortages rose slightly in the last quarter of 2025, but remained significantly lower than the all-time high reached in 2024"
-      },
-      {
-        "id": "d14b82f133743c18",
-        "title": "The Download: chatbots for health, and US fights over AI regulation",
-        "url": "https://www.technologyreview.com/2026/01/23/1131708/the-download-chatbots-for-health-and-us-fights-over-ai-regulation/",
+        "id": "19e3d58893052d2b",
+        "title": "Inside OpenAI\u2019s big play for science",
+        "url": "https://www.technologyreview.com/2026/01/26/1131728/inside-openais-big-play-for-science/",
         "source": "MIT Technology Review",
-        "published": "Fri, 23 Jan 2026 13:07:00 +0000",
-        "published_dt": "2026-01-23T13:07:00+00:00",
-        "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. \u201cDr. Google\u201d had its issues. Can ChatGPT Health do better?\u00a0\u00a0 For the past two decades, there\u2019s been a clear first step for anyone who starts experiencing new medical symptoms: Look them up online.&#8230;"
+        "published": "Mon, 26 Jan 2026 18:32:15 +0000",
+        "published_dt": "2026-01-26T18:32:15+00:00",
+        "summary": "In the three years since ChatGPT\u2019s explosive debut, OpenAI\u2019s technology has upended a remarkable range of everyday activities at home, at work, in schools\u2014anywhere people have a browser open or a phone out, which is everywhere. Now OpenAI is making an explicit play for scientists. In October, the firm announced that it had launched a&#8230;"
       },
       {
-        "id": "fe52d0d8ae260c07",
-        "title": "Planned Parenthood CEO won\u2019t negotiate with \u2018bullies\u2019",
-        "url": "https://www.statnews.com/2026/01/23/health-news-planned-parenthood-abortion-midterm-elections/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 23 Jan 2026 12:51:56 +0000",
-        "published_dt": "2026-01-23T12:51:56+00:00",
-        "summary": "And other health news today from the Morning Rounds newsletter"
-      },
-      {
-        "id": "a6c32b4c87c6f309",
-        "title": "America\u2019s coming war over AI regulation",
-        "url": "https://www.technologyreview.com/2026/01/23/1131559/americas-coming-war-over-ai-regulation/",
+        "id": "6ee1e688f992d540",
+        "title": "Why chatbots are starting to check your age",
+        "url": "https://www.technologyreview.com/2026/01/26/1131726/why-chatbots-are-starting-to-check-your-age/",
         "source": "MIT Technology Review",
-        "published": "Fri, 23 Jan 2026 10:00:00 +0000",
-        "published_dt": "2026-01-23T10:00:00+00:00",
-        "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. In the final weeks of 2025, the battle over regulating artificial intelligence in the US reached a boiling point. On December 11, after Congress failed twice&#8230;"
+        "published": "Mon, 26 Jan 2026 17:05:00 +0000",
+        "published_dt": "2026-01-26T17:05:00+00:00",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. How do tech companies check if their users are kids? This question has taken on new urgency recently thanks to growing concern about the dangers that can arise when children talk to&#8230;"
       },
       {
-        "id": "00d7ea42edb71d6e",
-        "title": "Measles is surging in the US. Wastewater tracking could help.",
-        "url": "https://www.technologyreview.com/2026/01/23/1131698/measles-surging-us-wastewater-tracking/",
+        "id": "ae2333c96abc9f8a",
+        "title": "Alex Pretti remembered by health care workers at a Minneapolis vigil as a \u2018stand-up guy\u2019",
+        "url": "https://www.statnews.com/2026/01/26/alex-pretti-minneapolis-shooting-health-workers-vigil/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 26 Jan 2026 16:00:54 +0000",
+        "published_dt": "2026-01-26T16:00:54+00:00",
+        "summary": "Health care workers brought flowers and wreaths, lit candles, and draped stethoscopes over a wooden cross as a makeshift memorial to nurse Alex Pretti."
+      },
+      {
+        "id": "ee7080ff930f5998",
+        "title": "STAT+: Launch of Wegovy pill looks to be going strong so far",
+        "url": "https://www.statnews.com/2026/01/26/biotech-news-wegovy-pill-launch-holds-promise-novo-nordisk/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 26 Jan 2026 14:30:15 +0000",
+        "published_dt": "2026-01-26T14:30:15+00:00",
+        "summary": "And more biotech news brought to you by The Readout"
+      },
+      {
+        "id": "0af29d9ef3081b08",
+        "title": "Flu updates to start the week",
+        "url": "https://www.statnews.com/2026/01/26/health-news-flu-cases-during-2026-season/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 26 Jan 2026 14:06:49 +0000",
+        "published_dt": "2026-01-26T14:06:49+00:00",
+        "summary": "And other health news from the Morning Rounds newsletter"
+      },
+      {
+        "id": "43ea2c55d9337638",
+        "title": "The power of sound in a virtual world",
+        "url": "https://www.technologyreview.com/2026/01/26/1124655/the-power-of-sound-in-a-virtual-world/",
         "source": "MIT Technology Review",
-        "published": "Fri, 23 Jan 2026 10:00:00 +0000",
-        "published_dt": "2026-01-23T10:00:00+00:00",
-        "summary": "This week marked a rather unpleasant anniversary: It\u2019s a year since Texas reported a case of measles\u2014the start of a significant outbreak that ended up spreading across multiple states. Since the start of January 2025, there have been over 2,500 confirmed cases of measles in the US. Three people have died. As vaccination rates drop&#8230;"
+        "published": "Mon, 26 Jan 2026 14:00:00 +0000",
+        "published_dt": "2026-01-26T14:00:00+00:00",
+        "summary": "In an era where business, education, and even casual conversations occur via screens, sound has become a differentiating factor. We obsess over lighting, camera angles, and virtual backgrounds, but how we sound can be just as critical to credibility, trust, and connection. That\u2019s the insight driving Erik Vaveris, vice president of product management and chief&#8230;"
       },
       {
-        "id": "8c1006e06a9f56c1",
-        "title": "STAT+: Could AI help doctors catch signs of cognitive decline early?",
-        "url": "https://www.statnews.com/2026/01/23/ai-tool-mines-health-records-for-cognitive-decline-signs/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 23 Jan 2026 09:30:00 +0000",
-        "published_dt": "2026-01-23T09:30:00+00:00",
-        "summary": "Researchers showed that an AI tool can scan clinical notes to flag patients at risk of clinical decline so doctors follow up."
+        "id": "38aef23fb6909333",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/european-investment-firm-gimv-gives-new-activity-life-science-sector\" hreflang=\"en\">European investment firm Gimv calls it quits on new life science financing</a>",
+        "url": "https://www.fiercebiotech.com/biotech/european-investment-firm-gimv-gives-new-activity-life-science-sector",
+        "source": "Fierce Biotech",
+        "published": "Jan 26, 2026 1:38pm",
+        "published_dt": "2026-01-26T13:38:00+00:00",
+        "summary": "European investment firm Gimv will no longer put funds into the life sciences sector, choosing instead to focus on its long-term investments and finding new value in four other key areas."
       },
       {
-        "id": "c25d97f9fd253f63",
-        "title": "Opinion: I\u2019m a doctor who knows better \u2014 but I switched to an inferior drug to save money",
-        "url": "https://www.statnews.com/2026/01/23/hdhp-health-insurance-patients-emergency-high-deductible-postpone-care-doctors/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 23 Jan 2026 09:30:00 +0000",
-        "published_dt": "2026-01-23T09:30:00+00:00",
-        "summary": "Cost-sharing insurance plans were supposed to decrease overall spending. Instead, patients \u2014 not payers \u2014 shoulder the burden of their medical costs."
+        "id": "f8eea9e8728c7852",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/new-rules-higher-stakes-biopharma-plays-long-game-2026\" hreflang=\"en\">New rules, higher stakes: Biopharma plays the long game in 2026</a>",
+        "url": "https://www.fiercebiotech.com/biotech/new-rules-higher-stakes-biopharma-plays-long-game-2026",
+        "source": "Fierce Biotech",
+        "published": "Jan 26, 2026 1:20pm",
+        "published_dt": "2026-01-26T13:20:00+00:00",
+        "summary": "While 2025 was dedicated to \u201cunderstanding a little bit more about the rules of this game that we\u2019re playing,\u201d 2026 is all about being active players in the game, McKinsey senior partner Greg Graves said Jan. 13 at Fierce JPM Week."
       }
     ],
     "Engineering & Aerospace": [
       {
-        "id": "c34d205b6c6319c2",
-        "title": "Microchip adds 600 V gate drivers for motor control designs",
-        "url": "https://www.engineering.com/microchip-adds-600-v-gate-drivers-for-motor-control-designs/",
+        "id": "b53db6a5591334c8",
+        "title": "Revizto adds chief revenue and product officers",
+        "url": "https://www.engineering.com/revizto-adds-chief-revenue-and-product-officers/",
         "source": "Engineering.com",
-        "published": "Mon, 26 Jan 2026 12:39:25 +0000",
-        "published_dt": "2026-01-26T12:39:25+00:00",
-        "summary": "<p>The 12-device lineup includes half-bridge, high-side/low-side and 3-phase options with 600 mA to 4.5 A peak drive and 3.3 V logic.</p>\n<p>The post <a href=\"https://www.engineering.com/microchip-adds-600-v-gate-drivers-for-motor-control-designs/\">Microchip adds 600 V gate drivers for motor control designs</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Tue, 27 Jan 2026 12:29:45 +0000",
+        "published_dt": "2026-01-27T12:29:45+00:00",
+        "summary": "<p>The company also launched a 2026 CIO Advisory Program bringing together more than 75 AECO technology leaders worldwide.</p>\n<p>The post <a href=\"https://www.engineering.com/revizto-adds-chief-revenue-and-product-officers/\">Revizto adds chief revenue and product officers</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "b49811290d39e6dd",
-        "title": "H3 failure linked to payload fairing separation anomaly",
-        "url": "https://spacenews.com/h3-failure-linked-to-payload-fairing-separation-anomaly/",
+        "id": "6be7adb1401d70ed",
+        "title": "Space Force set to choose contractors for next-gen GEO spy satellites",
+        "url": "https://spacenews.com/space-force-set-to-choose-contractors-for-next-gen-geo-spy-satellites/",
         "source": "SpaceNews",
-        "published": "Mon, 26 Jan 2026 11:56:13 +0000",
-        "published_dt": "2026-01-26T11:56:13+00:00",
-        "summary": "<figure><img alt=\"H3 F8 payload fairing\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/h3-f8fairing.jpeg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>An H3 launch failure in December may have been caused by an unusual event that led to the satellite separating from the rocket prematurely.</p>\n<p>The post <a href=\"https://spacenews.com/h3-failure-linked-to-payload-fairing-separation-anomaly/\">H3 failure linked to payload fairing separation anomaly</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Tue, 27 Jan 2026 11:00:00 +0000",
+        "published_dt": "2026-01-27T11:00:00+00:00",
+        "summary": "<figure><img alt=\"GSSAP artist rendering. Credit: U.S. Air Force\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"686\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2015/04/GSSAP-USAF.jpg?fit=1024%2C686&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The service plans to select satellite manufacturers as soon as March for the Geosynchronous Reconnaissance &#038; Surveillance (RG-XX) program,</p>\n<p>The post <a href=\"https://spacenews.com/space-force-set-to-choose-contractors-for-next-gen-geo-spy-satellites/\">Space Force set to choose contractors for next-gen GEO spy satellites</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "86cbae2180f19b86",
+        "title": "Vega C to launch Brazilian satellite",
+        "url": "https://spacenews.com/vega-c-to-launch-brazilian-satellite/",
+        "source": "SpaceNews",
+        "published": "Tue, 27 Jan 2026 10:55:36 +0000",
+        "published_dt": "2026-01-27T10:55:36+00:00",
+        "summary": "<figure><img alt=\"Vega C VV28\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"708\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/vega-vv28.jpeg?fit=1024%2C708&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A Brazilian government agency will launch an Earth observation satellite on a Vega C rocket, working with a launch broker rather than contracting directly with Avio.</p>\n<p>The post <a href=\"https://spacenews.com/vega-c-to-launch-brazilian-satellite/\">Vega C to launch Brazilian satellite</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "38b447c63f0fd07c",
+        "title": "Northwood Space raises $100 million Series B, lands $49 million Space Force deal",
+        "url": "https://spacenews.com/northwood-space-raises-100-million-series-b-lands-49-million-space-force-deal/",
+        "source": "SpaceNews",
+        "published": "Tue, 27 Jan 2026 10:30:00 +0000",
+        "published_dt": "2026-01-27T10:30:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/Portal-%E2%80%94-2-scaled.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The company makes phased-array ground stations that connect with satellites across multiple orbits</p>\n<p>The post <a href=\"https://spacenews.com/northwood-space-raises-100-million-series-b-lands-49-million-space-force-deal/\">Northwood Space raises $100 million Series B, lands $49 million Space Force deal</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "59b211dc29450125",
+        "title": "Oman signs Artemis Accords",
+        "url": "https://spacenews.com/oman-signs-artemis-accords/",
+        "source": "SpaceNews",
+        "published": "Tue, 27 Jan 2026 10:08:51 +0000",
+        "published_dt": "2026-01-27T10:08:51+00:00",
+        "summary": "<figure><img alt=\"Artemis Accords signatories\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"684\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/artaccords-iac25.jpeg?fit=1024%2C684&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Oman signed the Artemis Accords for responsible space exploration Jan. 26, becoming the 61st nation to do so.</p>\n<p>The post <a href=\"https://spacenews.com/oman-signs-artemis-accords/\">Oman signs Artemis Accords</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "6ebfbd1060bd3e8a",
+        "title": "Is optical clarity possible in 3D printing?",
+        "url": "https://www.engineering.com/is-optical-clarity-possible-in-3d-printing/",
+        "source": "Engineering.com",
+        "published": "Mon, 26 Jan 2026 21:40:40 +0000",
+        "published_dt": "2026-01-26T21:40:40+00:00",
+        "summary": "<p>In additive manufacturing, polymer materials matter for transparency, but the real key lies in print parameters and post-processing.</p>\n<p>The post <a href=\"https://www.engineering.com/is-optical-clarity-possible-in-3d-printing/\">Is optical clarity possible in 3D printing?</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "6a5c6decda3b8d68",
+        "title": "NVIDIA expands CoreWeave partnership to build 5GW of AI factories",
+        "url": "https://www.engineering.com/nvidia-expands-coreweave-partnership-to-build-5gw-of-ai-factories/",
+        "source": "Engineering.com",
+        "published": "Tue, 27 Jan 2026 08:50:20 +0000",
+        "published_dt": "2026-01-27T08:50:20+00:00",
+        "summary": "<p>NVIDIA will invest $2 billion in CoreWeave shares at $87.20 each, strengthening alignment on infrastructure, software and next-gen platforms through 2030.</p>\n<p>The post <a href=\"https://www.engineering.com/nvidia-expands-coreweave-partnership-to-build-5gw-of-ai-factories/\">NVIDIA expands CoreWeave partnership to build 5GW of AI factories</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "dbb1dbd979ea8672",
+        "title": "Elegoo launches Centauri Carbon 2 Combo multicolor 3D printer",
+        "url": "https://www.engineering.com/elegoo-launches-centauri-carbon-2-combo-multicolor-3d-printer/",
+        "source": "Engineering.com",
+        "published": "Tue, 27 Jan 2026 08:44:43 +0000",
+        "published_dt": "2026-01-27T08:44:43+00:00",
+        "summary": "<p>Priced from $449, it prints four colors via CANVAS, runs at 45 dB, and supports a 350\u00b0C nozzle.</p>\n<p>The post <a href=\"https://www.engineering.com/elegoo-launches-centauri-carbon-2-combo-multicolor-3d-printer/\">Elegoo launches Centauri Carbon 2 Combo multicolor 3D printer</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "e9609ac40ffce54d",
+        "title": "HCLTech wins Ericsson Innovation Award in 2025 supplier honors",
+        "url": "https://www.engineering.com/hcltech-wins-ericsson-innovation-award-in-2025-supplier-honors/",
+        "source": "Engineering.com",
+        "published": "Tue, 27 Jan 2026 08:32:55 +0000",
+        "published_dt": "2026-01-27T08:32:55+00:00",
+        "summary": "<p>Chosen for advancing Ericsson\u2019s zero-touch operations via a multi-year AI, automation and cloud migration collaboration.</p>\n<p>The post <a href=\"https://www.engineering.com/hcltech-wins-ericsson-innovation-award-in-2025-supplier-honors/\">HCLTech wins Ericsson Innovation Award in 2025 supplier honors</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "6485791092010f8a",
+        "title": "Deltek names 2025 Global Partner Awards winners",
+        "url": "https://www.engineering.com/deltek-names-2025-global-partner-awards-winners/",
+        "source": "Engineering.com",
+        "published": "Tue, 27 Jan 2026 08:26:47 +0000",
+        "published_dt": "2026-01-27T08:26:47+00:00",
+        "summary": "<p>Honorees span gov contracting, A&#038;E, consulting, and services; Infotek, Silversoft, Baker Tilly, Vroozi among top winners.</p>\n<p>The post <a href=\"https://www.engineering.com/deltek-names-2025-global-partner-awards-winners/\">Deltek names 2025 Global Partner Awards winners</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "89a54562c44a446f",
+        "title": "Montage launches PCIe 6.x/CXL 3.x active electrical cable",
+        "url": "https://www.engineering.com/montage-launches-pcie-6-x-cxl-3-x-active-electrical-cable/",
+        "source": "Engineering.com",
+        "published": "Tue, 27 Jan 2026 08:13:44 +0000",
+        "published_dt": "2026-01-27T08:13:44+00:00",
+        "summary": "<p>The solution targets multi-rack data centers, using OSFP-XD and in-house SerDes to deliver validated, low-latency links.</p>\n<p>The post <a href=\"https://www.engineering.com/montage-launches-pcie-6-x-cxl-3-x-active-electrical-cable/\">Montage launches PCIe 6.x/CXL 3.x active electrical cable</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "52a4c021346b0295",
+        "title": "Hanwha exploring South Korean defense constellation with MDA Space and Telesat",
+        "url": "https://spacenews.com/hanwha-exploring-south-korean-defense-constellation-with-mda-space-and-telesat/",
+        "source": "SpaceNews",
+        "published": "Mon, 26 Jan 2026 21:28:19 +0000",
+        "published_dt": "2026-01-26T21:28:19+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"750\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/02/MDA_Advance_Manufacturing.jpg?fit=1000%2C750&amp;ssl=1\" width=\"1000\" /></figure>\n<p>South Korean conglomerate Hanwha Systems is partnering with Canada\u2019s MDA Space to explore collaboration on the development of a defense satellite constellation for the Asian nation.</p>\n<p>The post <a href=\"https://spacenews.com/hanwha-exploring-south-korean-defense-constellation-with-mda-space-and-telesat/\">Hanwha exploring South Korean defense constellation with MDA Space and Telesat</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "49a50e9ec2695c83",
@@ -266,31 +356,13 @@
         "summary": "<p>New division brings production-ready additive manufacturing capacity online in 2026.</p>\n<p>The post <a href=\"https://www.engineering.com/hadrian-additive-launched-for-defense-production-capacity/\">Hadrian Additive launched for defense production capacity</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "cf2c46aa1c24fe3b",
-        "title": "Keysight supports Airbus UpNext SpaceRAN 5G NTN tests",
-        "url": "https://www.engineering.com/keysight-supports-airbus-upnext-spaceran-5g-ntn-tests/",
-        "source": "Engineering.com",
-        "published": "Mon, 26 Jan 2026 09:04:00 +0000",
-        "published_dt": "2026-01-26T09:04:00+00:00",
-        "summary": "<p>Ground demo uses PROPSIM and UeSim to validate beam and gateway handover plus mobility between terrestrial and LEO networks.</p>\n<p>The post <a href=\"https://www.engineering.com/keysight-supports-airbus-upnext-spaceran-5g-ntn-tests/\">Keysight supports Airbus UpNext SpaceRAN 5G NTN tests</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "5216dcafcfd430b6",
-        "title": "SEMIFIVE and SAPIEN sign MOU on CMOS micro-display backplanes",
-        "url": "https://www.engineering.com/semifive-and-sapien-sign-mou-on-cmos-micro-display-backplanes/",
-        "source": "Engineering.com",
-        "published": "Mon, 26 Jan 2026 08:58:00 +0000",
-        "published_dt": "2026-01-26T08:58:00+00:00",
-        "summary": "<p>Work includes verification and simulation plus micro-LED DDI guidance to support AI smart glasses and other wearables.</p>\n<p>The post <a href=\"https://www.engineering.com/semifive-and-sapien-sign-mou-on-cmos-micro-display-backplanes/\">SEMIFIVE and SAPIEN sign MOU on CMOS micro-display backplanes</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "f590f19e2349690e",
-        "title": "ENCY becomes SOLIDWORKS Certified Solution Partner",
-        "url": "https://www.engineering.com/ency-becomes-solidworks-certified-solution-partner/",
-        "source": "Engineering.com",
-        "published": "Fri, 23 Jan 2026 11:41:59 +0000",
-        "published_dt": "2026-01-23T11:41:59+00:00",
-        "summary": "<p>Certification confirms ENCY CAD/CAM compatibility with SOLIDWORKS and supports predictable CAD-to-manufacturing workflows for CNC and robotics.</p>\n<p>The post <a href=\"https://www.engineering.com/ency-becomes-solidworks-certified-solution-partner/\">ENCY becomes SOLIDWORKS Certified Solution Partner</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "id": "7bac741d85880705",
+        "title": "NASA seeks partners for Earth Science extended missions",
+        "url": "https://spacenews.com/nasa-seeks-partners-for-earth-science-extended-missions/",
+        "source": "SpaceNews",
+        "published": "Tue, 27 Jan 2026 02:34:56 +0000",
+        "published_dt": "2026-01-27T02:34:56+00:00",
+        "summary": "<figure><img alt=\"CYGNSS\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2015/04/CYGNSS-NASA_Langley.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>SAN FRANCISCO \u2013 NASA\u2019s Earth Science Division is exploring partnerships with external organizations to support instruments mounted on the International Space Station and free-flyer missions. \u201cFor some of these missions [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/nasa-seeks-partners-for-earth-science-extended-missions/\">NASA seeks partners for Earth Science extended missions</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "9ead3ebd9a6b5a4a",
@@ -300,6 +372,51 @@
         "published": "Thu, 22 Jan 2026 17:30:01 +0000",
         "published_dt": "2026-01-22T17:30:01+00:00",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"525\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/rsz_7da9328e40c124ff88740c579e4588a4_1747204434474.png?fit=892%2C525&amp;ssl=1\" width=\"892\" /></figure>\n<p>TAHOE CITY, Calif. &#8212; L3Harris Technologies will provide the primary imagery for the Korean Meteorological Administration\u2019s (KMA) next-generation geostationary weather satellite. The contract, awarded to L3Harris by Korean aerospace manufacturer [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/l3harris-to-supply-imager-for-korean-geostationary-weather-satellite/\">L3Harris to supply imager for Korean geostationary weather satellite</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "d00f37de91549cff",
+        "title": "Astranis adds Oman customer to summer GEO launch lineup",
+        "url": "https://spacenews.com/astranis-adds-oman-customer-to-summer-geo-launch-lineup/",
+        "source": "SpaceNews",
+        "published": "Mon, 26 Jan 2026 16:48:53 +0000",
+        "published_dt": "2026-01-26T16:48:53+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/Astranis1-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Oman-based industrial conglomerate MB Group has ordered a small geostationary broadband satellite from Astranis that is slated to launch this summer.</p>\n<p>The post <a href=\"https://spacenews.com/astranis-adds-oman-customer-to-summer-geo-launch-lineup/\">Astranis adds Oman customer to summer GEO launch lineup</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "826934619967f612",
+        "title": "We need a \u2018Planetary Neural Network\u2019 for AI-enabled space infrastructure protection",
+        "url": "https://spacenews.com/we-need-a-planetary-neural-network-for-ai-enabled-space-infrastructure-protection/",
+        "source": "SpaceNews",
+        "published": "Mon, 26 Jan 2026 14:00:00 +0000",
+        "published_dt": "2026-01-26T14:00:00+00:00",
+        "summary": "<figure><img alt=\"Illustration of space debris in Earth orbit from NORAD&#039;s satcat catalog\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/Spacedebris-scaled.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>You may not see it with the naked eye, but in Earth&#8217;s orbit, a silent crisis is unfolding. With over 11,000 active satellites currently in orbit \u2014 a number expected to reach between 30,000 and 60,000 by 2030 \u2014 40,500 tracked objects of 10 cm and more, 1.1 million pieces of space debris between 1 [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/we-need-a-planetary-neural-network-for-ai-enabled-space-infrastructure-protection/\">We need a \u2018Planetary Neural Network\u2019 for AI-enabled space infrastructure protection</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "17bb3641d625fe35",
+        "title": "China\u2019s space telescope aims to unlock cosmic mysteries. Will international science benefit?",
+        "url": "https://aerospaceamerica.aiaa.org/chinas-space-telescope-aims-to-unlock-cosmic-mysteries-will-international-science-benefit/",
+        "source": "Aerospace America",
+        "published": "Mon, 26 Jan 2026 14:00:00 +0000",
+        "published_dt": "2026-01-26T14:00:00+00:00",
+        "summary": ""
+      },
+      {
+        "id": "c34d205b6c6319c2",
+        "title": "Microchip adds 600 V gate drivers for motor control designs",
+        "url": "https://www.engineering.com/microchip-adds-600-v-gate-drivers-for-motor-control-designs/",
+        "source": "Engineering.com",
+        "published": "Mon, 26 Jan 2026 12:39:25 +0000",
+        "published_dt": "2026-01-26T12:39:25+00:00",
+        "summary": "<p>The 12-device lineup includes half-bridge, high-side/low-side and 3-phase options with 600 mA to 4.5 A peak drive and 3.3 V logic.</p>\n<p>The post <a href=\"https://www.engineering.com/microchip-adds-600-v-gate-drivers-for-motor-control-designs/\">Microchip adds 600 V gate drivers for motor control designs</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "b49811290d39e6dd",
+        "title": "H3 failure linked to payload fairing separation anomaly",
+        "url": "https://spacenews.com/h3-failure-linked-to-payload-fairing-separation-anomaly/",
+        "source": "SpaceNews",
+        "published": "Mon, 26 Jan 2026 11:56:13 +0000",
+        "published_dt": "2026-01-26T11:56:13+00:00",
+        "summary": "<figure><img alt=\"H3 F8 payload fairing\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/h3-f8fairing.jpeg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>An H3 launch failure in December may have been caused by an unusual event that led to the satellite separating from the rocket prematurely.</p>\n<p>The post <a href=\"https://spacenews.com/h3-failure-linked-to-payload-fairing-separation-anomaly/\">H3 failure linked to payload fairing separation anomaly</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "5ee3d23eb6e2ec98",
@@ -336,123 +453,6 @@
         "published": "Fri, 23 Jan 2026 17:46:26 +0000",
         "published_dt": "2026-01-23T17:46:26+00:00",
         "summary": ""
-      },
-      {
-        "id": "b54ce3659fafc61b",
-        "title": "Space Beyond lines up 2027 SpaceX launch for low-cost memorial cubesat",
-        "url": "https://spacenews.com/space-beyond-lines-up-2027-spacex-launch-for-low-cost-memorial-cubesat/",
-        "source": "SpaceNews",
-        "published": "Fri, 23 Jan 2026 17:42:35 +0000",
-        "published_dt": "2026-01-23T17:42:35+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/e66575_1095a0fb1e9e40278e7af9aa212e67f4mv2-scaled.webp?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Florida-based Space Beyond plans to start building its first memorial spacecraft next week after booking a launch on SpaceX\u2019s October 2027 rideshare mission.</p>\n<p>The post <a href=\"https://spacenews.com/space-beyond-lines-up-2027-spacex-launch-for-low-cost-memorial-cubesat/\">Space Beyond lines up 2027 SpaceX launch for low-cost memorial cubesat</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "a0cd1a6b3a17dfcc",
-        "title": "Former astronaut joins Vast as Haven-1 moves into integration",
-        "url": "https://spacenews.com/former-astronaut-joins-vast-as-haven-1-moves-into-integration/",
-        "source": "SpaceNews",
-        "published": "Fri, 23 Jan 2026 14:47:50 +0000",
-        "published_dt": "2026-01-23T14:47:50+00:00",
-        "summary": "<figure><img alt=\"Haven-1 integration\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/haven1-integration.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Commercial space station developer Vast has hired another former NASA astronaut as the company delays the launch of its first station.</p>\n<p>The post <a href=\"https://spacenews.com/former-astronaut-joins-vast-as-haven-1-moves-into-integration/\">Former astronaut joins Vast as Haven-1 moves into integration</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "4bf9746df6a03963",
-        "title": "100, 75, 50 and 25 years ago in January 2026",
-        "url": "https://aerospaceamerica.aiaa.org/100-75-50-and-25-years-ago-in-january-2026/",
-        "source": "Aerospace America",
-        "published": "Fri, 23 Jan 2026 14:00:00 +0000",
-        "published_dt": "2026-01-23T14:00:00+00:00",
-        "summary": ""
-      },
-      {
-        "id": "5d6525be4ffa50a6",
-        "title": "Launch operators are the rocket fuel required to galvanize spaceports in Europe",
-        "url": "https://spacenews.com/launch-operators-are-the-rocket-fuel-required-to-galvanize-spaceports-in-europe/",
-        "source": "SpaceNews",
-        "published": "Fri, 23 Jan 2026 13:00:00 +0000",
-        "published_dt": "2026-01-23T13:00:00+00:00",
-        "summary": "<figure><img alt=\"RFA ONE launch SaxaVord\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"577\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/rfaone-saxavord-illus.jpeg?fit=1024%2C577&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Europe stands on the precipice of launching a satellite from the mainland. Until now, the Guiana Space Centre in South America has operated as Europe\u2019s \u201cgateway to space\u201d but spaceports in SaxaVord and And\u00f8ya offer the tantalizing prospect of launches much closer to home. Yet infrastructure alone will not get us there. A launchpad is [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/launch-operators-are-the-rocket-fuel-required-to-galvanize-spaceports-in-europe/\">Launch operators are the rocket fuel required to galvanize spaceports in Europe</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "83d8663019f6fdc0",
-        "title": "House appropriator sees \u2018room for improvement\u2019 in NASA funding for 2027",
-        "url": "https://spacenews.com/house-appropriator-sees-room-for-improvement-in-nasa-funding-for-2027/",
-        "source": "SpaceNews",
-        "published": "Fri, 23 Jan 2026 12:48:11 +0000",
-        "published_dt": "2026-01-23T12:48:11+00:00",
-        "summary": "<figure><img alt=\"Meng\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"702\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/meng-goddard.jpeg?fit=1024%2C702&amp;ssl=1\" width=\"1024\" /></figure>\n<p>With the fiscal year 2026 appropriations process effectively complete, a key House appropriator says the next spending bill for NASA should build on that outcome.</p>\n<p>The post <a href=\"https://spacenews.com/house-appropriator-sees-room-for-improvement-in-nasa-funding-for-2027/\">House appropriator sees \u2018room for improvement\u2019 in NASA funding for 2027</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "230b8e40b005d47b",
-        "title": "Keysight adds machine learning toolkit to device modeling suite",
-        "url": "https://www.engineering.com/keysight-adds-machine-learning-toolkit-to-device-modeling-suite/",
-        "source": "Engineering.com",
-        "published": "Fri, 23 Jan 2026 11:24:29 +0000",
-        "published_dt": "2026-01-23T11:24:29+00:00",
-        "summary": "<p>The software reduces compact model parameter extraction to a few automated steps and supports PDK and DTCO workflows across device types.</p>\n<p>The post <a href=\"https://www.engineering.com/keysight-adds-machine-learning-toolkit-to-device-modeling-suite/\">Keysight adds machine learning toolkit to device modeling suite</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "a6f18245205e2e9f",
-        "title": "Corvex signs long-term NVIDIA H200 GPU lease for battery AI",
-        "url": "https://www.engineering.com/corvex-signs-long-term-nvidia-h200-gpu-lease-for-battery-ai/",
-        "source": "Engineering.com",
-        "published": "Fri, 23 Jan 2026 10:42:30 +0000",
-        "published_dt": "2026-01-23T10:42:30+00:00",
-        "summary": "<p>The deal includes a dedicated GPU cluster plus an on-prem option with hardware encryption, remote attestation and managed Kubernetes.</p>\n<p>The post <a href=\"https://www.engineering.com/corvex-signs-long-term-nvidia-h200-gpu-lease-for-battery-ai/\">Corvex signs long-term NVIDIA H200 GPU lease for battery AI</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "81a09a6bc5cdf1dc",
-        "title": "Roland DG TY-300 earns BLI 2026 Pick Award for DTF",
-        "url": "https://www.engineering.com/roland-dg-ty-300-earns-bli-2026-pick-award-for-dtf/",
-        "source": "Engineering.com",
-        "published": "Fri, 23 Jan 2026 10:36:40 +0000",
-        "published_dt": "2026-01-23T10:36:40+00:00",
-        "summary": "<p>Independent testing cited strong color accuracy, wash durability, and production speeds across multiple print modes for garment printing.</p>\n<p>The post <a href=\"https://www.engineering.com/roland-dg-ty-300-earns-bli-2026-pick-award-for-dtf/\">Roland DG TY-300 earns BLI 2026 Pick Award for DTF</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "8932db5ef1f0796a",
-        "title": "Reditus Space selects PTC Onshape for spacecraft development",
-        "url": "https://www.engineering.com/reditus-space-selects-ptc-onshape-for-spacecraft-development/",
-        "source": "Engineering.com",
-        "published": "Fri, 23 Jan 2026 09:36:26 +0000",
-        "published_dt": "2026-01-23T09:36:26+00:00",
-        "summary": "<p>Reditus moved to Onshape Government for ITAR/EAR needs as it prepares ENOS Mk1, a reusable LEO mission launching on Falcon 9.</p>\n<p>The post <a href=\"https://www.engineering.com/reditus-space-selects-ptc-onshape-for-spacecraft-development/\">Reditus Space selects PTC Onshape for spacecraft development</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "b650f9c7818816f9",
-        "title": "Space Force\u2019s acquisition arm races to rebuild contracting workforce after civilian cuts",
-        "url": "https://spacenews.com/space-forces-acquisition-arm-races-to-rebuild-contracting-workforce-after-civilian-cuts/",
-        "source": "SpaceNews",
-        "published": "Fri, 23 Jan 2026 00:09:41 +0000",
-        "published_dt": "2026-01-23T00:09:41+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"735\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/260122-X-DC888-1001.jpg?fit=1024%2C735&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Pentagon acquisition reforms and the prospect of a budget surge are colliding with a thinned civilian workforce</p>\n<p>The post <a href=\"https://spacenews.com/space-forces-acquisition-arm-races-to-rebuild-contracting-workforce-after-civilian-cuts/\">Space Force\u2019s acquisition arm races to rebuild contracting workforce after civilian cuts</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "b3df665fab5e1ec4",
-        "title": "Blue Origin to reuse New Glenn booster on next launch",
-        "url": "https://spacenews.com/blue-origin-to-reuse-new-glenn-booster-on-next-launch/",
-        "source": "SpaceNews",
-        "published": "Thu, 22 Jan 2026 23:24:25 +0000",
-        "published_dt": "2026-01-22T23:24:25+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"679\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/gallery_ng2-liftoff.jpg?fit=1024%2C679&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Blue Origin will reuse a New Glenn booster for the first time on the rocket\u2019s next launch, carrying a satellite for AST SpaceMobile.</p>\n<p>The post <a href=\"https://spacenews.com/blue-origin-to-reuse-new-glenn-booster-on-next-launch/\">Blue Origin to reuse New Glenn booster on next launch</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "b36e2666f0db3763",
-        "title": "Damaged Shenzhou-20 spacecraft survives reentry, Shenzhou-23 arrives at spaceport",
-        "url": "https://spacenews.com/damaged-shenzhou-20-spacecraft-survives-reentry-shenzhou-23-arrives-at-spaceport/",
-        "source": "SpaceNews",
-        "published": "Thu, 22 Jan 2026 22:53:16 +0000",
-        "published_dt": "2026-01-22T22:53:16+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"675\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/Shenzhou-20-landed-19jan2026-CMSA.jpg?fit=1024%2C675&amp;ssl=1\" width=\"1024\" /></figure>\n<p>China\u2019s damaged Shenzhou-20 spacecraft returned safely to Earth after on-orbit internal repairs, concluding the country\u2019s first human spaceflight emergency triggered by a suspected debris impact.</p>\n<p>The post <a href=\"https://spacenews.com/damaged-shenzhou-20-spacecraft-survives-reentry-shenzhou-23-arrives-at-spaceport/\">Damaged Shenzhou-20 spacecraft survives reentry, Shenzhou-23 arrives at spaceport</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "7827b8faaad6467d",
-        "title": "Open Cosmos advances broadband plans with spectrum once held by Rivada",
-        "url": "https://spacenews.com/open-cosmos-advances-broadband-plans-with-spectrum-once-held-by-rivada/",
-        "source": "SpaceNews",
-        "published": "Thu, 22 Jan 2026 20:45:27 +0000",
-        "published_dt": "2026-01-22T20:45:27+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"575\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/Open-Cosmos-Launches-Two-Satellites-To-Build-LEO-Constellation-4.jpg?fit=1024%2C575&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Open Cosmos deployed two satellites Jan. 22 to activate Ka-band spectrum filings reassigned by Liechtenstein last week, racing to meet deployment deadlines to bring the frequencies into use for sovereign and enterprise broadband.</p>\n<p>The post <a href=\"https://spacenews.com/open-cosmos-advances-broadband-plans-with-spectrum-once-held-by-rivada/\">Open Cosmos advances broadband plans with spectrum once held by Rivada</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
@@ -527,6 +527,15 @@
         "published": null,
         "published_dt": null,
         "summary": "Does industrial activity drive deforestation and land degradation, and can limited state capacity be overcome to decouple economic growth from environmental harm? We examine these questions in the context of slaughterhouse plant openings in Brazil from 1994 to 2019. Guided by a simple conceptual framework and using a staggered difference-in-differences approach, we show that plant openings increase livestock production while reducing forest cover and degrading pastureland. However, following the introduction of legally enforceable, incentive-compatible agreements between slaughterhouses and federal prosecutors\u2014which penalize purchases of livestock from illegally deforested areas but act as a green certification mechanism\u2014plant openings increase productivity without driving deforestation. Our findings suggest that tying firm performance to environmental goals through market-aligned legal mechanisms can generate economic and environmental gains at low cost to the government."
+      },
+      {
+        "id": "eb0aea4d3be77287",
+        "title": "Why AI won\u2019t wipe out white-collar jobs",
+        "url": "https://www.economist.com/finance-and-economics/2026/01/26/why-ai-wont-wipe-out-white-collar-jobs",
+        "source": "Finance & economics",
+        "published": "Mon, 26 Jan 2026 20:16:25 +0000",
+        "published_dt": "2026-01-26T20:16:25+00:00",
+        "summary": "The technology will expand their scope and raise their value"
       },
       {
         "id": "b24fa6072172a64d",
@@ -671,15 +680,6 @@
         "published": "Wed, 05 Nov 2025 19:58:37 +0000",
         "published_dt": "2025-11-05T19:58:37+00:00",
         "summary": "The country\u2019s economic problems are real, but its assets are doing surprisingly well"
-      },
-      {
-        "id": "f718156fe5c25a98",
-        "title": "Investors will help Jamaica recover from Hurricane Melissa",
-        "url": "https://www.economist.com/finance-and-economics/2025/10/30/investors-will-help-jamaica-recover-from-hurricane-melissa",
-        "source": "Finance & economics",
-        "published": "Thu, 30 Oct 2025 11:22:35 +0000",
-        "published_dt": "2025-10-30T11:22:35+00:00",
-        "summary": "The country is in line for a pay-out from catastrophe bonds"
       }
     ],
     "Cross-Disciplinary": [
@@ -700,6 +700,15 @@
         "published": "Fri, 09 Jan 2026 19:00:02 +0000",
         "published_dt": "2026-01-09T19:00:02+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/portrait-of-sena-kizildemir-against-a-texture-background-of-cracked-concrete.jpg?id=62694914&amp;width=1245&amp;height=700&amp;coordinates=0%2C62%2C0%2C63\" /><br /><br /><p>When two airplanes <a href=\"https://spectrum.ieee.org/the-events-of-11-september\" target=\"_blank\">hit the World Trade Center</a> in New York City on 11 September 2001, no one could predict how the Twin Towers would react structurally. The commercial jet airliners severed columns and started fires, weakening steel beams, and causing a \u201cpancaking,\u201d progressive collapse.</p><p>Skyscrapers had not been designed or constructed with that kind of catastrophic structural failure in mind. IEEE Senior Member <a href=\"https://www.linkedin.com/in/senakizildemir/\" rel=\"noopener noreferrer\" target=\"_blank\">Sena Kizildemir</a> is changing that through disaster simulation, one scenario at a time.</p><h3>Sena Kizildemir</h3><br /><p><strong>Employer</strong></p><p>Thornton Tomasetti, in New York City</p><p><strong>Job title</strong></p><p>Project engineer</p><p><strong>Member grade </strong></p><p><strong></strong>Senior member</p><p><strong>Alma maters </strong></p><p>I\u015fik University in \u015eile and Lehigh University, in Bethlehem, Pa.</p><p>A project engineer at <a href=\"https://www.thorntontomasetti.com/resource/applied-science-practice\" rel=\"noopener noreferrer\" target=\"_blank\">Thornton Tomasetti</a>\u2019s applied science division in New York, Kizildemir uses simulations to study how buildings fail under extreme events such as impacts and explosions. The simulation results can help designers develop mitigation strategies.</p><p>\u201cSimulations help us understand what could happen before it occurs in real life,\u201d she says, \u201cto be able to better plan for it.\u201d</p><p>She loves that her work mixes creativity with solving real-world problems, she says: \u201cYou\u2019re creating something to help people. My favorite question to answer is, \u2018Can you make this better or easier?\u2019\u201d</p><p>For her work, the nonprofit <a href=\"https://www.pwc-ny.org/about-us/\" rel=\"noopener noreferrer\" target=\"_blank\">Professional Women in Construction</a> named her one of its <a href=\"https://members.pwc-ny.org/events/Details/holiday-party-2025-1496059?sourceTypeId=Hub\" rel=\"noopener noreferrer\" target=\"_blank\">20 Under 40: Women in Construction</a> for 2025.</p><p>Kizildemir is passionate about <a href=\"https://spectrum.ieee.org/ieee-collabratec-mentoring-program\" target=\"_blank\">mentoring young engineers</a> and being an IEEE volunteer. She says she has made it her mission to \u201cpack as much impact into my years as possible.\u201d</p><h2>A bright student in T\u00fcrkiye</h2><p>She was born in Istanbul to a father who is a professional drummer and a mother who worked in magazine advertising and sales. Kizildemir and her older brother pursued engineering careers despite neither parent being involved in the field. While she became an expert in civil and mechanical engineering, her brother is an industrial engineer.</p><p>As a child, she was full of curiosity, she says, interested in figuring out how things were built and how they worked. She loved building objects out of <a href=\"https://www.lego.com/en-us\" rel=\"noopener noreferrer\" target=\"_blank\">Legos</a>, she says, and one of her earliest memories is using them to make miniature houses for ants.</p><p>After acing an entrance exam, she won a spot in a STEM-focused high school, where she studied mathematics and physics.</p><p class=\"pull-quote\"><span>\u201cEngineering is one of the few careers where you can make a lasting impact on the world, and I plan on mine being meaningful.\u201d</span></p><p><span></span>During her final year at the high school, she took the nationwide <a href=\"https://en.wikipedia.org/wiki/Student_Selection_and_Placement_System\" target=\"_blank\">YKS</a> (Higher Education Foundations Examination). The test determines which universities and programs\u2014such as medicine, engineering, or law\u2014students can pursue.</p><p>She received a full scholarship to attend <a href=\"https://www.isikun.edu.tr/en\" target=\"_blank\">I\u015fik University</a> in \u015eile. Figuring she would study engineering abroad one day, she chose an English-taught program. She says she found that civil engineering best aligned with making the biggest impact on her community and the world.</p><p>Several of her professors were alumni of <a href=\"https://www2.lehigh.edu/\" target=\"_blank\">Lehigh University</a>, in Bethlehem, Pa., and spoke highly of the school. After earning her bachelor\u2019s degree in civil engineering in 2016, she decided to attend Lehigh, where she earned a full scholarship to its master\u2019s program in civil engineering.</p><h2>Moving abroad and working the rails</h2><p>Her master\u2019s thesis focused on investigating root causes of crack propagation, which threatens railroad safety.</p><p>Repeated wheel-rail loading causes microcracks, leading to metal fatigue, and residual stress results from specialized heating and cooling treatments during the manufacturing of steel rails. Cracks can develop beneath the rail\u2019s surface. Because they\u2019re invisible to the naked eye, such fractures are challenging to detect, Kizildemir says.</p><p>The project was done in collaboration with the U.S. <a href=\"https://railroads.dot.gov/\" rel=\"noopener noreferrer\" target=\"_blank\">Federal Railroad Administration</a>\u2014part of the <a href=\"https://www.transportation.gov/\" rel=\"noopener noreferrer\" target=\"_blank\">Department of Transportation</a>\u2014which is looking to adjust technical standards and employ mitigation strategies.</p><p>Kizildemir and five colleagues designed and implemented testing protocols and physics-based simulations to detect cracks earlier and prevent their spread. Their research has given the Railroad Administration insights into structural defects that are being used to revise rail-building guidelines and inspection protocols. The administration published the <a href=\"https://rosap.ntl.bts.gov/view/dot/76534\" rel=\"noopener noreferrer\" target=\"_blank\">first phase</a> of the research in 2024.</p><p>After graduating in 2018, Kizildemir began a summer internship as a civil engineer at Thornton Tomasetti. She conducted computational modeling using <a href=\"https://en.wikipedia.org/wiki/Abaqus\" rel=\"noopener noreferrer\" target=\"_blank\">Abaqus</a> software for rails subjected to repeated plastic deformation\u2014material that permanently changes shape when under excessive stress\u2014and presented her recommendations for improvement to the company\u2019s management.</p><p>During her internship, she worked with professors in different fields, including materials behavior and mechanical engineering. The experience, she says, inspired her to pursue a Ph.D. in mechanical engineering at Lehigh, continuing her research with the Railroad Administration. She earned her degree in 2023.</p><p>She loved the work and the team at Thornton Tomasetti so much, she says, that she applied to work at the company, where she is now a project engineer.</p><h2>From simulations to real-world applications</h2><p>Her work focuses on developing finite element models for critical infrastructure and extreme events.</p><p>Finite modeling breaks complex systems or topics into small elements connected together to numerically simulate real-world situations. She creates computational models of structures enduring realistic catastrophic events, such as a vehicle crashing into a building.</p><p>She uses simulations to understand how buildings react to attacks such as the one on 9/11, which, she says, is often used as an example of why such research is essential.</p><p>When starting a project, she and her team review building standards and try to identify new issues not yet covered by them. The team then adapts existing codes and standards, usually developed for well-understood hazards such as earthquakes, wind, and floods, to define simulation parameters.</p><p>When a new structure is being built, for example, it is not designed to withstand a truck crashing into it. But Kizildemir and her team want to know how the building would react should that happen. They simulate the environments and situations, and they make recommendations based on the results to reduce or eliminate risks of structural failure.</p><p>Mitigation suggestions include specific strategies to be implemented during project design and construction.</p><p>Simulations can be created for any infrastructure, Kizildemir says.</p><p>\u201cI love problems that force me to think differently,\u201d she says. \u201cI want to keep growing.\u201d</p><p>She says she plans to live by Thornton Tomasetti\u2019s internal motto: \u201cWhen others say no, we say \u2018Here\u2019s how.\u2019\u201d</p><h2>Joining IEEE and getting more involved</h2><p>When Kizildemir first heard of IEEE, she assumed it was only for electrical engineers. But after learning how diverse and inclusive the organization is, she joined in 2024. She has since been elevated to a senior member and has become a volunteer. She joined the <a href=\"https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=MEMTEM014\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Technology and Engineering Management Society</a>.</p><p>She chaired the conference tracks and IEEE-sponsored sessions at the 2024 <a href=\"https://event.asme.org/Joint-Rail-Conference\" rel=\"noopener noreferrer\" target=\"_blank\">Joint Rail Conference</a>, held in Columbia, S.C. She actively contributes to IEEE\u2019s <a href=\"https://ieee-collabratec.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Collabratec platform</a> and has participated in panel review meetings for senior member elevation applications.</p><p>She\u2019s also a member of <a href=\"https://www.asme.org/\" rel=\"noopener noreferrer\" target=\"_blank\">ASME</a> and has been volunteering for it since 2023.</p><p>\u201cCommunity is what helped get me to where I am today, and I want to pay it forward and make the field better,\u201d she says. \u201cHelping others improves ourselves.\u201d</p><h2>Looking ahead and giving back</h2><p>Kizildemir mentors junior engineers at Thornton Thomasetti and is looking to expand her reach through <a href=\"https://www.ieee.org/membership/mentoring\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE\u2019s mentorship programs</a>.</p><p>\u201cEngineering doesn\u2019t have a gender requirement,\u201d she says she tells girls. \u201cIf you\u2019re curious and like understanding how things work and get excited to solve difficult problems, engineering is for you.</p><p>\u201cCivil engineers don\u2019t just build bridges,\u201d she adds. \u201cThere are countless niche areas to be explored. Engineering is one of the few careers where you can make a lasting impact on the world, and I plan on mine being meaningful.\u201d</p><p>Kizildemir says she wants every engineer to be able to improve their community. Her main piece of advice for recent engineering graduates is that \u201ccuriosity, discipline, and the willingness to understand things deeply, to see how things can be done better,\u201d are the keys to success.</p>"
+      },
+      {
+        "id": "4b14b11938adca48",
+        "title": "IEEE Brings Hands-On STEM Activities to India\u2019s Rural Areas",
+        "url": "https://spectrum.ieee.org/ieee-stem-activities-rural-india",
+        "source": "IEEE Spectrum",
+        "published": "Mon, 26 Jan 2026 19:00:03 +0000",
+        "published_dt": "2026-01-26T19:00:03+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/group-of-higher-secondary-school-students-in-india-holding-up-an-ieee-banner-inside-their-classroom.jpg?id=63278514&amp;width=1245&amp;height=700&amp;coordinates=0%2C36%2C0%2C36\" /><br /><br /><p>\u201cUntil we get equality in education, we won\u2019t have an equal society.\u201d Spoken by <a href=\"https://supremecourthistory.org/supreme-court-justices/associate-justice-sonia-sotomayor/\" rel=\"noopener noreferrer\" target=\"_blank\">Sonia Sotomayor</a>, associate justice of the U.S. <a href=\"https://www.supremecourt.gov/\" rel=\"noopener noreferrer\" target=\"_blank\">Supreme Court</a>, the words echo sharply across regions of the world where education is not guaranteed.</p><p>In the far northeastern corner of India\u2014where villages are located in forests, on mountains, and along riverbanks\u2014rural classrooms often operate with limited resources and even fewer opportunities. In districts such as <a href=\"https://en.wikipedia.org/wiki/Dhemaji\" rel=\"noopener noreferrer\" target=\"_blank\">Dhemaji</a>, Assam, and the rural areas of <a href=\"https://en.wikipedia.org/wiki/Kharagpur\" rel=\"noopener noreferrer\" target=\"_blank\">Kharagpur</a> and <a href=\"https://en.wikipedia.org/wiki/West_Bengal\" rel=\"noopener noreferrer\" target=\"_blank\">West Bengal</a>, learning STEM often is just a distant dream.</p><p>I grew up in rural areas, and I saw how curiosity for science collided with poverty. Many students\u2019 futures rely entirely on getting good grades to determine whether they are \u201cworthy\u201d of studying technical subjects later. One low grade on an exam can completely derail their future. More importantly, the absence of fully equipped laboratories, trained mentors, or exposure to STEM careers prevents many children from even being able to imagine an engineering career.</p><p>This is not just an educational issue. It is a matter of equity, directly aligned with <a href=\"https://sdgs.un.org/goals/goal4\" rel=\"noopener noreferrer\" target=\"_blank\">U.N. Sustainable Development Goal 4</a>, which aims to ensure a quality education for everyone.</p><p>The challenge is one that organizations such as <a href=\"https://www.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE</a>, with its global technical community, are positioned to address. As technology becomes more imperative for everyday life, proficiency in electronics and programming is no longer optional\u2014it is essential.</p><h2>STEM outreach programs</h2><p>In December 2020 volunteers from the joint student chapter of the <a href=\"https://edu.ieee.org/in-iitkgp-mtt/about/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Antennas and Propagation\u2013Microwave Theory and Techniques</a> (IEEE AP-MTT) societies at the <a href=\"https://www.iitkgp.ac.in/\" rel=\"noopener noreferrer\" target=\"_blank\">Indian Institute of Technology Kharagpur</a> launched a grassroots STEM outreach <a href=\"https://ieeexplore.ieee.org/abstract/document/9423752\" rel=\"noopener noreferrer\" target=\"_blank\">initiative</a> with support from the <a href=\"https://ieeekharagpur.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Kharagpur Section</a>.</p><p>I coordinated the initiative, which started when I was secretary of the student chapter. (I also was its vice chair and chair from 2020 to 2022.) Today I am a student ambassador for the IEEE MTT Society and the <a href=\"https://yp.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Young Professionals</a> cochair of the <a href=\"https://www.linkedin.com/company/ieee-benelux-mtt-ap-joint-chapter/?originalSubdomain=nl\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Benelux MTT-AP joint chapter</a>.</p><p>The program\u2019s mission was simple: make hands-on electronics accessible to students who had never seen an <a href=\"https://www.arduino.cc/\" rel=\"noopener noreferrer\" target=\"_blank\">Arduino</a> board.</p><p>It began with training in the fundamentals of circuit building\u2014LEDs, switches, breadboards, and batteries\u2014and progressed into Arduino programming, automation, and sensor integration. The volunteers emphasized teamwork and friendly competitions to keep students engaged.</p><p>Through straightforward, relatable demonstrations, even complex topics such as electromagnetic concepts were explained in ways that the students could understand. The methodology not only increased understanding; it also sparked enthusiasm. In the first year, nearly 100 students from five schools benefited from the curriculum. The model is now known as Teach, Train, and Build (TTB). The initiative was recognized in 2021 with the <a href=\"https://students.ieee.org/the-darrel-chong-student-activity-award/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Darrel Chong Student Activity Award</a>.</p><h2>The birth of hobby clubs</h2><p>TTB\u2019s success led to additional funding from the <a href=\"https://sight.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Special Interest Group in Humanitarian Technology</a> (SIGHT) program in 2022<strong>. </strong>This support from IEEE SIGHT enabled the establishment of<strong> </strong>three electronics hobby labs in underserved schools in Assam and West Bengal. The E-HuTS (electronic hobby clubs for technical development in rural schools) labs became permanent areas where students learn, experiment, and innovate.</p><p>The inauguration ceremony for the E-HuTS was a milestone moment. To further inspire students, <a href=\"https://www.linkedin.com/in/mrinal-mandal-96a97137/\" rel=\"noopener noreferrer\" target=\"_blank\">Mrinal Mandal</a>, a professor of electrical and computer engineering at IIT Kharagpur, gave a motivational talk in Bengali. The immediate outcome was that a group of students built a smart home using Arduino and wireless communication modules\u2014something they never imagined they could do.</p><h2>Reducing gender disparity</h2><p>A similar transformation unfolded in Assam, where the TTB program was conducted entirely in the Assamese language, ensuring inclusivity for students with limited exposure to English. After completing the program, students proudly displayed their IEEE certificates.</p><p>One of the best aspects of the Assam program was the overwhelming participation of female students. Many of the young women were interacting with electronics for the first time\u2014an inspiring step toward reducing gender disparity in the STEM field.</p><h2>Real impact: projects, confidence, and recognition</h2><p>The more than 85 students who joined the hobby clubs in Assam and West Bengal developed almost three dozen projects including sensor-based alarms and environmental monitoring systems. The innovations weren\u2019t replicas; they were original student-driven designs developed under the guidance of an IEEE mentor.</p><p>The initiative received a mention in the <a href=\"https://www.ieee.org/content/dam/ieee-org/ieee/web/org/corporate-communications/annual-report/2022/2022-ieee-annual-final-print-version.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">2022 IEEE annual report</a> and in an article in <a href=\"https://spectrum.ieee.org/the-institute/\" target=\"_self\"><em><em>The Institute</em></em></a> about<strong> </strong>the <a href=\"https://spectrum.ieee.org/ieee-education-week-2022-overview\" target=\"_self\">2022<strong> </strong>IEEE Education Week</a> activities.</p><p>To ensure measurable progress of the program, the TTB team also implemented an evaluation matrix inspired by <a href=\"https://ieeeht.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Humanitarian Technologies Board</a> guidelines. The spreadsheet tracked outputs including the number of workshops held, hours delivered, and tools provided. It also measured results such as skills development, knowledge retention, student engagement, and long-term interest.</p><p>The structured methodology made the project replicable and transparent, providing a framework for future STEM outreach efforts.</p><h2>New chapters, new beginnings</h2><p>The momentum from those initiatives helped spark the creation of IEEE communities in India. In 2023 the IEEE student branch at <a href=\"https://dibru.ac.in/\" rel=\"noopener noreferrer\" target=\"_blank\">Dibrugarh University</a> in Assam was formed, followed in 2024 by the university\u2019s <a href=\"https://edu.ieee.org/in-dibru/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Microwave Theory and Technology Society student branch chapter</a>. The groups have become centers of volunteer activity, ensuring long-term sustainability.</p><p>This year the TTB team organized<strong> </strong><a href=\"https://www.instagram.com/p/DGStCkIT2Tn/?hl=en\" rel=\"noopener noreferrer\" target=\"_blank\">TechnoFest: Udhvav 2.0</a><strong>,</strong> which brought engineers, scientists, lecturers, and members of the <a href=\"https://yp.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Young Professionals</a> group together with students in the region. For many participants, it was their first opportunity to interact with real innovators and role models, turning the festival into an energizing platform of inspiration and exposure for rural youth.</p><h2>A visit to Vidhya: The Living School</h2><p>Also in 2023, thanks to a grant from the <a href=\"https://mtt.org/ieee-mtt-s-ambassador-program/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE MTT-S Ambassador</a> program, IEEE volunteers visited <a href=\"https://vidyalivingschool.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Vidhya: The Living School</a>, in Dhemaji. The session took place outdoors that October amid breathtaking natural landscapes, demonstrating that learning thrives even outside of a traditional infrastructure.</p><p>Another important milestone came in 2024, when the <a href=\"https://mtt.org/humanitarian-initiatives-sight/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE MTT-S SIGHT group</a> provided a grant of US $1,000 to the school for its <a href=\"https://edu.ieee.org/in-dibru/\" rel=\"noopener noreferrer\" target=\"_blank\">Vidhya Shakti project</a> to install solar panels to provide uninterrupted and sustainable power to the school.</p><p>The student ambassadors met several distinguished figures who have made notable contributions to STEM education in India. They included <a href=\"https://in.linkedin.com/in/pranjalburagohain\" rel=\"noopener noreferrer\" target=\"_blank\">Pranjal Buragohain</a>, founder of the Vidhya school; chemical scientist <a href=\"https://neist.res.in/1177.php\" rel=\"noopener noreferrer\" target=\"_blank\">Binoy Kumar Saikia</a>, a recipient of the <a href=\"https://en.wikipedia.org/wiki/Shanti_Swarup_Bhatnagar_Prize_for_Science_and_Technology\" rel=\"noopener noreferrer\" target=\"_blank\">Shanti Swarup Bhatnagar Award for Science and Technology</a> in India; and astronomer <a href=\"https://www.linkedin.com/in/kishor-baruah-69746414a/?originalSubdomain=in\" rel=\"noopener noreferrer\" target=\"_blank\">Kishor Baruah</a>, known for creating programs for visually impaired students.</p><p>Another heartwarming stop was at the Tai Phake School near <a href=\"https://en.wikipedia.org/wiki/Naharkatiya\" rel=\"noopener noreferrer\" target=\"_blank\">Naharkatya</a>, where one of the first E-HuTS labs was established in 2022.</p><p>The initiative has grown far beyond its original mission. It now: </p><ul><li>Connects universities with remote schools.</li><li>Empowers underprivileged students.</li><li>Nurtures future IEEE volunteers.</li><li>Reduces gender barriers.</li><li>Creates sustainable technical ecosystems.</li><li>Builds a culture of giving back.</li></ul><p>What began with a few breadboards and LEDs is now shaping the future of budding engineers across India. More than 100 students have been affected, dozens of projects have been built, and schools now have functioning electronics labs. New IEEE student branches have sprung to life, and communities once isolated from STEM education are becoming part of the growing technological landscape.</p><p>The journey continues, driven by connection, compassion, and the belief that every student, no matter where they live, deserves access to quality STEM education.</p>"
       },
       {
         "id": "38833ff5b659914c",
@@ -819,6 +828,42 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/david-alan-koehler-and-manfred-schindler-smiling.jpg?id=62681591&amp;width=1245&amp;height=700&amp;coordinates=0%2C156%2C0%2C157\" /><br /><br /><p>The IEEE Board of Directors has nominated IEEE Senior Member David Alan Koehler and IEEE Life Fellow Manfred \u201cFred\u201d J. Schindler as candidates for 2027 IEEE president-elect.</p><p>IEEE Senior Member Gerardo Barbosa and IEEE Life Senior Member Timothy T. Lee are seeking nomination by petition. A separate article will be published in <em><em>The Institute </em></em>at a later date.</p><p>The winner of this year\u2019s election will serve as IEEE president in 2028. For more information about the election, president-elect candidates, and the petition process, visit the <a href=\"https://www.ieee.org/about/corporate/election/index.html\" rel=\"noopener noreferrer\" target=\"_blank\">ieee.org/elections</a>.</p><h2>IEEE Senior Member David Alan Koehler</h2><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"David Alan Koehler smiling in a suit jacket and tie.\" class=\"rm-shortcode\" id=\"24785\" src=\"https://spectrum.ieee.org/media-library/david-alan-koehler-smiling-in-a-suit-jacket-and-tie.jpg?id=62681605&amp;width=980\" /> <small class=\"image-media media-photo-credit\">Steven Miller Photography</small></p><p><span>Koehler is a subject matter expert with almost 30 years of experience in establishing condition-based maintenance practices for electrical equipment and managing analytical laboratories. He has presented his work at global conferences and published articles in technical publications related to the power industry. Koehler is an executive advisor at Danovo Energy Solutions.</span></p><p>An active volunteer, he has served in every geographical unit within IEEE. His first leadership position was chair of the Central Indiana Section from 2012 to 2014. He served as 2019\u20132020 director of IEEE Region 4, vice chair of the 2022 IEEE Board of Directors Ad Hoc Committee on the Future of Engagement, 2022 vice president of IEEE Member and Geographic Activities, and chair of the 2024 IEEE Board of Directors Ad Hoc Committee on Leadership Continuity and Efficiency.</p><p>He served on the IEEE Board of Directors for three different years. He has been a member of the IEEE-USA, Member and Geographic Activities, and Publication Services and Products boards.</p><p>Koehler is a proud and active member of IEEE Women In Engineering and IEEE-Eta Kappa Nu, the honor society.</p><h2>IEEE Life Fellow Manfred \u201cFred\u201d J. Schindler</h2><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Manfred Schindler smiling in a suit jacket and tie.\" class=\"rm-shortcode\" id=\"ff563\" src=\"https://spectrum.ieee.org/media-library/manfred-schindler-smiling-in-a-suit-jacket-and-tie.jpg?id=62681616&amp;width=980\" /> <small class=\"image-media media-photo-credit\">Steven Miller Photography</small></p><p><span>Schindler, an expert in microwave semiconductor technology, is an independent consultant supporting clients with technical expertise, due diligence, and project management.</span></p><p>Throughout his career, he led the development of microwave integrated-circuit technology, from lab demonstrations to high-volume commercial products. He has numerous technical publications and holds 11 patents.</p><p>Schindler served as CTO of Anlotek, and director of Qorvo and RFMD\u2019s Boston design center. He was applications manager at IBM, engineering manager at ATN Microwave, and a lab manager at Raytheon.</p><p>An IEEE volunteer for more than 30 years, Schindler served as the 2024 vice president of IEEE Technical Activities and the 2022\u20132023 Division IV director. He was chair of the IEEE Conferences Committee from 2015 to 2018 and president of the IEEE Microwave Theory and Technology Society (MTTS) in 2003. He received the 2018 IEEE MTTS Distinguished Service Award. His award-winning micro-business column has appeared in <em><em>IEEE Microwave Magazine</em></em> since 2011.</p><p>He also led the 2025 One IEEE to Enable Strategic Investments in Innovations and Public Imperative Activities adhoc committee.</p><p>Schindler is an IEEE\u2013Eta Kappa Nu honorary life member. </p>"
       },
       {
+        "id": "19e3d58893052d2b",
+        "title": "Inside OpenAI\u2019s big play for science",
+        "url": "https://www.technologyreview.com/2026/01/26/1131728/inside-openais-big-play-for-science/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 26 Jan 2026 18:32:15 +0000",
+        "published_dt": "2026-01-26T18:32:15+00:00",
+        "summary": "In the three years since ChatGPT\u2019s explosive debut, OpenAI\u2019s technology has upended a remarkable range of everyday activities at home, at work, in schools\u2014anywhere people have a browser open or a phone out, which is everywhere. Now OpenAI is making an explicit play for scientists. In October, the firm announced that it had launched a&#8230;"
+      },
+      {
+        "id": "6ee1e688f992d540",
+        "title": "Why chatbots are starting to check your age",
+        "url": "https://www.technologyreview.com/2026/01/26/1131726/why-chatbots-are-starting-to-check-your-age/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 26 Jan 2026 17:05:00 +0000",
+        "published_dt": "2026-01-26T17:05:00+00:00",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. How do tech companies check if their users are kids? This question has taken on new urgency recently thanks to growing concern about the dangers that can arise when children talk to&#8230;"
+      },
+      {
+        "id": "43ea2c55d9337638",
+        "title": "The power of sound in a virtual world",
+        "url": "https://www.technologyreview.com/2026/01/26/1124655/the-power-of-sound-in-a-virtual-world/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 26 Jan 2026 14:00:00 +0000",
+        "published_dt": "2026-01-26T14:00:00+00:00",
+        "summary": "In an era where business, education, and even casual conversations occur via screens, sound has become a differentiating factor. We obsess over lighting, camera angles, and virtual backgrounds, but how we sound can be just as critical to credibility, trust, and connection. That\u2019s the insight driving Erik Vaveris, vice president of product management and chief&#8230;"
+      },
+      {
+        "id": "7b79febb3e8bde25",
+        "title": "The Download: why LLMs are like aliens, and the future of head transplants",
+        "url": "https://www.technologyreview.com/2026/01/26/1131717/the-download-why-llms-are-like-aliens-and-the-future-of-head-transplants/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 26 Jan 2026 13:10:00 +0000",
+        "published_dt": "2026-01-26T13:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the new biologists treating LLMs like aliens&#160;&#160; How large is a large language model? We now coexist with machines so vast and so complicated that nobody quite understands what they are, how&#8230;"
+      },
+      {
         "id": "206379513a0fae61",
         "title": "Video Friday: Humans and Robots Team Up in Battlefield Triage",
         "url": "https://spectrum.ieee.org/darpa-triage-challenge-robot",
@@ -862,51 +907,6 @@
         "published": "Thu, 22 Jan 2026 14:00:02 +0000",
         "published_dt": "2026-01-22T14:00:02+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/illustration-of-a-wavy-line.jpg?id=62998822&amp;width=1245&amp;height=700&amp;coordinates=0%2C62%2C0%2C63\" /><br /><br /><p><span>Much has been made of the excessive power demands of AI, but solutions are sparse. This has led engineers to consider completely new paradigms in computing: </span><a href=\"https://spectrum.ieee.org/generative-optical-ai-nature-ucla\" target=\"_self\">optical</a><span>, </span><a href=\"https://spectrum.ieee.org/thermodynamic-computing-normal-computing\" target=\"_self\">thermodynamic</a><span>, </span><a href=\"https://spectrum.ieee.org/reversible-computing\" target=\"_self\">reversible</a><span>\u2014the list goes on. Many of these approaches require a change in the materials used for computation, which would demand an overhaul in the CMOS fabrication techniques used today.</span></p><p>Over the past decade, <a href=\"https://www.linkedin.com/in/dr-hector-j-de-los-santos-phd-ieee-fellow-6111291/\" target=\"_blank\">Hector De Los Santos</a> has been working on yet another new approach. The technique would require the same exact materials used in CMOS, preserving the costly equipment, yet still allow computations to be performed in a radically different way. Instead of the motion of individual electrons\u2014current\u2014computations can be done with the collective, wavelike propagations in a sea of electrons, known as <a href=\"https://spectrum.ieee.org/nanosensors-perform-sensing-on-demand\" target=\"_self\">plasmons</a>.</p><p>De Los Santos, an IEEE Fellow, first <a href=\"https://ieeexplore.ieee.org/abstract/document/5233891\" target=\"_blank\">proposed the idea</a> of computing with plasmons back in 2010. More recently, in 2024, De Los Santos and collaborators from University of South Carolina, Ohio State University, and the Georgia Institute of Technology <a href=\"https://pubs.aip.org/aip/adv/article/14/6/065321/3297922\" target=\"_blank\">created a device</a> that demonstrated the main component of plasmon-based logic: the ability to control one plasmon with another. We caught up with De Los Santos to understand the details of this novel technological proposal.</p><h2>How Plasmon Computing Works</h2><p><strong><em>IEEE Spectrum</em>: How did you first come up with the idea for plasmon computing?</strong></p><p><strong>De Los Santos:</strong> I got the idea of plasmon computing around 2009, upon observing the direction in which the field of CMOS logic was going. In particular, they were following the downscaling paradigm in which, by reducing the size of transistors, you would cram more and more transistors in a certain area, and that would increase the performance. However, if you follow that paradigm to its conclusion, as the device sizes are reduced, quantum mechanical effects come into play, as well as leakage. When the devices are very small, a number of effects called short channel effects come into play, which manifest themselves as increased power dissipation.</p><p>So I began to think, \u201cHow can we solve this problem of improving the performance of logic devices while using the same fabrication techniques employed for CMOS\u2014that is, while exploiting the current infrastructure?\u201d I came across an old logic paradigm called fluidic logic, which uses <a href=\"https://plcsitemiz.wordpress.com/wp-content/uploads/2009/03/modern-control-engineering-kogata-3rd-edition.pdf\" target=\"_blank\">fluids</a>. For example, jets of air whose direction was impacted by other jets of air could implement logic functions. So I had the idea, why don\u2019t we implement a paradigm analogous to that one, but instead of using air as a fluid, we use localized electron charge density waves\u2014plasmons. Not electrons, but electron disturbances.</p><p>And now the timing is very appropriate because, as most people know, AI is very power intensive. People are coming against a brick wall on how to go about solving the power consumption issue, and the current technology is not going to solve that problem.</p><p><strong>What is a plasmon, exactly?</strong></p><p><strong>De Los Santos:</strong> Plasmons are basically the disturbance of the electron density. If you have what is called an electron sea, you can imagine a pond of water. When you disturb the surface, you create waves. And these waves, the undulations on the surface of this water, propagate through the water. That is an almost perfect analogy to plasmons. In the case of plasmons, you have a sea of electrons. And instead of using a pebble or a piece of wood tapping on the surface of the water to create a wave that propagates, you tap this sea of electrons with an electromagnetic wave.</p><p><strong>How do plasmons promise to overcome the scaling issues of traditional CMOS logic? </strong></p><p><strong>De Los Santos:</strong> Going back to the analogy of the throwing the pebble on the pond: It takes very, very low energy to create this kind of disturbance. The energy to excite a plasmon is on the order of attojoules or less. And the disturbance that you generate propagates very fast. A disturbance propagates faster than a particle. Plasmons propagate in unison with the electromagnetic wave that generates them, which is the speed of light in the medium. So just intrinsically, the way of operation is extremely fast and extremely low power compared to current technology.</p><p>In addition to that, current CMOS technology dissipates power even if it\u2019s not used. Here, that\u2019s not the case. If there is no wave propagating, then there is no power dissipation.</p><p><strong>How do you do logic operations with plasmons?</strong></p><p><strong>De Los Santos:</strong> You pattern long, thin wires in a configuration in the shape of the letter Y. At the base of the Y you launch a plasmon. Call this the bias plasmon, this is the bit. If you don\u2019t do anything, when this plasmon gets to the junction it will split in two, so at the output of the Y, you will detect two equal electric field strengths.</p><p>Now, imagine that at the Y junction you apply another wire at an angle to the incoming wire. Along that new wire, you send another plasmon, called a control plasmon. You can use the control plasmon to redirect the original bias plasmon into one leg of the Y.</p><p>Plasmons are charge disturbances, and two plasmons have the same nature: They either are both positive or both negative. So, they repel each other if you force them to converge into a junction. And by controlling the angle of the control plasmon impinging on the junction, you can control the angle of the plasmon coming out of the junction. And that way you can steer one plasmon with another one. The control plasmon simply joins the incoming plasmon, so you end up with double the voltage on one leg.</p><p>You can do this from both sides, add a wire and a control plasmon on either side of the junction so you can redirect the plasmon into either leg of the Y, giving you a zero or a one.</p><h2>Building a Plasmon-Based Logic Device<br /></h2><p><strong>You\u2019ve built this Y-junction device and demonstrated steering a plasmon to one side in 2024. Can you describe the device and its operation?</strong></p><p><strong>De Los Santos:</strong> The Y-junction device is about 5 square [micrometers]. The Y is made up of the following: a metal on top of an oxide, on top of a semiconducting wafer, on top of a ground plane. Now, between the oxide and the wafer, you have to generate a charge density\u2014this is the sea of electrons. To do that, you apply a DC voltage between the metal of the Y and the ground plane, and that generates your static sea of electrons. Then you impinge upon that with an incoming electromagnetic wave, again between the metal and ground plane. When the electromagnetic wave reaches the static charge density, the sea of electrons that was there generates a localized electron charge density disturbance: a plasmon.</p><p>Now, if you launch a plasmon by itself, it will quickly dissipate. It will not propagate very far.<strong> </strong>In my setup, the reason why the plasmon survives is because it is being regenerated. As the electromagnetic field propagates, you keep regenerating the plasmons, creating new plasmons at its front end.</p><p><strong>What is left to be done before you can implement full computer logic?</strong></p><p><strong>De Los Santos:</strong> I demonstrated the partial device, that is just the interaction of two plasmons. The next step would be to demonstrate and fabricate the full device, which would have the two controls. And after that gets done, the next step is concatenating them to create a full adder, because that is the fundamental computing logic component.</p><p><strong>What do you think are going to be the main challenges going forward?</strong></p><p><strong>De Los Santos:</strong> I think the main challenge is that the technology doesn\u2019t follow from today\u2019s paradigm of logic devices based on current flows. This is based on wave flows. People are accustomed to other things, and it may be difficult to understand the device. The different concepts that are brought together in this device are not normally employed by the dominant technology, and it is really interdisciplinary in nature. You have to know about metal-oxide-semiconductor physics, then you have to know about electromagnetic waves, then you have to know about quantum field theory. The knowledge base to understand the device rarely exists in a single head. Maybe another next step is to try to make it more accessible. Getting people to sponsor the work and to understand it is a challenge, not really the implementation. There\u2019s not really a fabrication limitation. </p><p>But in my opinion, the usual approaches are just doomed, for two reasons. First, they are not reversible, meaning information is lost in the computation, which results in energy loss. Second, as the devices shrink energy dissipation increases, posing an insurmountable barrier. In contrast, plasmon computation is inherently reversible, and there is no fundamental reason it should dissipate any energy during switching.<strong></strong></p>"
-      },
-      {
-        "id": "0a06c5feab0026c6",
-        "title": "The Download: Yann LeCun\u2019s new venture, and lithium\u2019s on the rise",
-        "url": "https://www.technologyreview.com/2026/01/22/1131680/the-download-yann-lecun-lithium-rise/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 22 Jan 2026 13:10:00 +0000",
-        "published_dt": "2026-01-22T13:10:00+00:00",
-        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Yann LeCun\u2019s new venture is a contrarian bet against large language models\u00a0\u00a0\u00a0\u00a0 Yann LeCun is a Turing Award recipient and a top AI researcher, but he has long been a contrarian figure in&#8230;"
-      },
-      {
-        "id": "e896d136f78f69d4",
-        "title": "Why 2026 is a hot year for lithium",
-        "url": "https://www.technologyreview.com/2026/01/22/1131563/lithium-2026/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 22 Jan 2026 11:00:00 +0000",
-        "published_dt": "2026-01-22T11:00:00+00:00",
-        "summary": "In 2026, I\u2019m going to be closely watching the price of lithium. If you\u2019re not in the habit of obsessively tracking commodity markets, I certainly don\u2019t blame you. (Though the news lately definitely makes the case that minerals can have major implications for global politics and the economy.) But lithium is worthy of a close&#8230;"
-      },
-      {
-        "id": "cb98210cc9b8b1e9",
-        "title": "Yann LeCun\u2019s new venture is a contrarian bet against large language models",
-        "url": "https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 22 Jan 2026 10:00:00 +0000",
-        "published_dt": "2026-01-22T10:00:00+00:00",
-        "summary": "Yann LeCun is a Turing Award recipient and a top AI researcher, but he has long been a contrarian figure in the tech world. He believes that the industry\u2019s current obsession with large language models is wrong-headed and will ultimately fail to solve many pressing problems.&#160; Instead, he thinks we should be betting on world&#8230;"
-      },
-      {
-        "id": "6c2d5718c049c649",
-        "title": "Rethinking AI\u2019s future in an augmented workplace",
-        "url": "https://www.technologyreview.com/2026/01/21/1131366/rethinking-ais-future-in-an-augmented-workplace/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 21 Jan 2026 15:00:00 +0000",
-        "published_dt": "2026-01-21T15:00:00+00:00",
-        "summary": "There are many paths AI evolution could take. On one end of the spectrum, AI is dismissed as a marginal fad, another bubble fueled by notoriety and misallocated capital. On the other end, it\u2019s cast as a dystopian force, destined to eliminate jobs on a large scale and destabilize economies. Markets oscillate between skepticism and&#8230;"
-      },
-      {
-        "id": "4c5442f17d7edc62",
-        "title": "Everyone wants AI sovereignty. No one can truly have it.",
-        "url": "https://www.technologyreview.com/2026/01/21/1131513/everyone-wants-ai-sovereignty-no-one-can-truly-have-it/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 21 Jan 2026 14:00:00 +0000",
-        "published_dt": "2026-01-21T14:00:00+00:00",
-        "summary": "Governments plan to pour $1.3 trillion into AI infrastructure by 2030 to invest in \u201csovereign AI,\u201d with the premise being that countries should be in control of their own AI capabilities. The funds include financing for domestic data centers, locally trained models, independent supply chains, and national talent pipelines. This is a response to real&#8230;"
       }
     ]
   }
