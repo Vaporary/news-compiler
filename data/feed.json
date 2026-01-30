@@ -1,24 +1,69 @@
 {
-  "generated_at": "2026-01-29T13:11:59.170024+00:00",
+  "generated_at": "2026-01-30T13:10:20.994328+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "ba2fef7c22f3dd34",
-        "title": "A new approach to challenging state abortion bans",
-        "url": "https://www.statnews.com/2026/01/29/health-news-new-approach-to-challenging-state-abortion-bans/?utm_campaign=rss",
+        "id": "e980e576e9737427",
+        "title": "NIH announces first strategic plan for disability health research",
+        "url": "https://www.statnews.com/2026/01/30/health-news-nih-disability-health-research-strategy/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Thu, 29 Jan 2026 12:49:44 +0000",
-        "published_dt": "2026-01-29T12:49:44+00:00",
-        "summary": "And more health news from the Morning Rounds newsletter"
+        "published": "Fri, 30 Jan 2026 12:50:11 +0000",
+        "published_dt": "2026-01-30T12:50:11+00:00",
+        "summary": "And other health news from the Morning Rounds newsletter"
       },
       {
-        "id": "a5e2d62b6adb4cdc",
-        "title": "U.S. life expectancy hit an all-time high in 2024, CDC says",
-        "url": "https://www.statnews.com/2026/01/29/life-expectancy-new-high-cdc-data/?utm_campaign=rss",
+        "id": "343266e061196ff3",
+        "title": "How the sometimes-weird world of lifespan extension is gaining influence",
+        "url": "https://www.technologyreview.com/2026/01/30/1131933/weird-world-lifespan-extension-gaining-influence-oneill-arpa-h/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 30 Jan 2026 10:00:00 +0000",
+        "published_dt": "2026-01-30T10:00:00+00:00",
+        "summary": "For the last couple of years, I\u2019ve been following the progress of a group of individuals who believe death is humanity\u2019s \u201ccore problem.\u201d Put simply, they say death is wrong\u2014for everyone. They\u2019ve even said it\u2019s morally wrong. They established what they consider a new philosophy, and\u00a0they called it Vitalism. Vitalism is more than a philosophy,&#8230;"
+      },
+      {
+        "id": "bd734d48dbd2127b",
+        "title": "Opinion: 7 pediatric bioethicists: Proposed ban on Medicaid funding for hospitals providing gender-affirming care for minors is deeply unethical",
+        "url": "https://www.statnews.com/2026/01/30/gender-affirming-care-why-experts-oppose-proposed-ban/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Thu, 29 Jan 2026 12:39:18 +0000",
-        "published_dt": "2026-01-29T12:39:18+00:00",
-        "summary": "U.S. life expectancy rose to 79 years in 2024 \u2014 the highest mark in American history."
+        "published": "Fri, 30 Jan 2026 09:30:00 +0000",
+        "published_dt": "2026-01-30T09:30:00+00:00",
+        "summary": "7 pediatric bioethicists on what\u2019s wrong with the proposed ban on Medicaid funding for hospitals providing gender-affirming care for minors."
+      },
+      {
+        "id": "0b3a6da8500127e3",
+        "title": "Opinion: The food nationalism of the new dietary guidelines",
+        "url": "https://www.statnews.com/2026/01/30/new-food-pyramid-american-diet-immigrants/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 30 Jan 2026 09:30:00 +0000",
+        "published_dt": "2026-01-30T09:30:00+00:00",
+        "summary": "The new food pyramid quietly reasserts what kinds of food count as real."
+      },
+      {
+        "id": "4ab187f54c6dffc3",
+        "title": "Tenuous biomedical funding has put first-year Ph.D. students in a bind",
+        "url": "https://www.statnews.com/2026/01/30/first-year-phd-students-squeezed-tighter-research-funding/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 30 Jan 2026 09:30:00 +0000",
+        "published_dt": "2026-01-30T09:30:00+00:00",
+        "summary": "First-year biomedical graduate students across the country said labs have been hesitant to take them in due to a tenuous funding environment"
+      },
+      {
+        "id": "80f4439879ec29c3",
+        "title": "How direct-to-consumer health tests could impact insurance, mortgages, and employment",
+        "url": "https://www.statnews.com/2026/01/30/direct-to-consumer-health-tests-face-patient-privacy-questions/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 30 Jan 2026 09:30:00 +0000",
+        "published_dt": "2026-01-30T09:30:00+00:00",
+        "summary": "As more consumers order up lab tests and genetic screenings, experts say it could impact insurance, loans, and employment decisions."
+      },
+      {
+        "id": "9384f4e2059b6392",
+        "title": "The high stakes for Huntington\u2019s patients",
+        "url": "https://www.statnews.com/2026/01/29/readout-loud-podcast-huntingtons-patients-uniqure-gene-therapy/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 29 Jan 2026 21:26:45 +0000",
+        "published_dt": "2026-01-29T21:26:45+00:00",
+        "summary": "This week on \"The Readout LOUD\": an in-depth discussion of UniQure's gene therapy for Huntington's disease and the high stakes for patients."
       },
       {
         "id": "c6589c51f23fcc2b",
@@ -30,94 +75,40 @@
         "summary": "ImmunityBio Chairman Patrick Soon-Shiong mischaracterized talks with the FDA over the company's cancer drug, sources say."
       },
       {
-        "id": "a88df732babb08a4",
-        "title": "How the grid can ride out winter storms",
-        "url": "https://www.technologyreview.com/2026/01/29/1131863/grid-winter-storms/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 29 Jan 2026 11:00:00 +0000",
-        "published_dt": "2026-01-29T11:00:00+00:00",
-        "summary": "The eastern half of the US saw a monster snowstorm over the weekend. The good news is the grid has largely been able to keep up with the freezing temperatures and increased demand. But there were some signs of strain, particularly for fossil-fuel plants. One analysis found that PJM, the nation\u2019s largest grid operator, saw&#8230;"
-      },
-      {
-        "id": "98381b5b1c46e883",
-        "title": "Meet the Vitalists: the hardcore longevity enthusiasts who believe death is \u201cwrong\u201d",
-        "url": "https://www.technologyreview.com/2026/01/29/1131815/vitalism-longevity-enthusiasts-influence/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 29 Jan 2026 10:00:00 +0000",
-        "published_dt": "2026-01-29T10:00:00+00:00",
-        "summary": "\u201cWho here believes involuntary death is a good thing?\u201d&#160; Nathan Cheng has been delivering similar versions of this speech over the last couple of years, so I knew what was coming. He was about to try to convince the 80 or so people in the audience that death is bad. And that defeating it should&#8230;"
-      },
-      {
-        "id": "ad3f215cdfb153ef",
-        "title": "STAT+: FDA halts gene therapy trials after brain tumor found in patient",
-        "url": "https://www.statnews.com/2026/01/28/fda-halts-regenxbio-gene-therapy-trials/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 28 Jan 2026 12:30:00 +0000",
-        "published_dt": "2026-01-28T12:30:00+00:00",
-        "summary": "FDA paused trials for two experimental gene therapies from Regenxbio after one child developed a brain tumor."
-      },
-      {
-        "id": "5a1df588ece28443",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/after-patient-death-fda-lifts-hold-one-2-late-stage-trials-testing-intellias-crispr-therapy\" hreflang=\"en\">After patient death, FDA lifts hold on 1 of 2 late-stage trials testing Intellia's CRISPR therapy</a>",
-        "url": "https://www.fiercebiotech.com/biotech/after-patient-death-fda-lifts-hold-one-2-late-stage-trials-testing-intellias-crispr-therapy",
+        "id": "44997562408b32d9",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/belgium-biotech-agomab-outlines-212m-nasdaq-debut\" hreflang=\"en\">Belgium biotech Agomab outlines up to $212M Nasdaq debut to fund immunology trials</a>",
+        "url": "https://www.fiercebiotech.com/biotech/belgium-biotech-agomab-outlines-212m-nasdaq-debut",
         "source": "Fierce Biotech",
-        "published": "Jan 27, 2026 10:23am",
-        "published_dt": "2026-01-27T10:23:00+00:00",
-        "summary": "The FDA is freeing Intellia\u2019s CRISPR therapy from one of two clinical holds, allowing a phase 3 study to resume after a grade 4 liver event and subsequent patient death was reported in the sister study."
+        "published": "Jan 29, 2026 10:14am",
+        "published_dt": "2026-01-29T10:14:00+00:00",
+        "summary": "Immunology biotech Agomab Therapeutics&nbsp;is seeking to raise up to $212.5 million in its Nasdaq debut, joining a series of biotechs chipping away at 2025\u2019s iced-over IPO market."
       },
       {
-        "id": "66b5ab80341b94c2",
-        "title": "STAT+: How Opvee, Indivior\u2019s powerful overdose antidote, went bust",
-        "url": "https://www.statnews.com/2026/01/29/why-opvee-overdose-antidote-failed-harm-reduction-community-opposition/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 29 Jan 2026 09:30:00 +0000",
-        "published_dt": "2026-01-29T09:30:00+00:00",
-        "summary": "Opvee reverses opioid overdose more quickly than Narcan. It also can cause withdrawal symptoms. Harm reduction advocates fought it, and won."
-      },
-      {
-        "id": "67f28cac2a0df3ad",
-        "title": "With new vaccine schedule secured, RFK Jr. allies head to statehouses",
-        "url": "https://www.statnews.com/2026/01/29/vaccine-requirements-state-challenges/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 29 Jan 2026 09:30:00 +0000",
-        "published_dt": "2026-01-29T09:30:00+00:00",
-        "summary": "The overhaul of the federal vaccine schedule sent shockwaves through American health care. Now battles over vaccine laws are moving to statehouses across the country."
-      },
-      {
-        "id": "db00f8bcc14ef7a5",
-        "title": "Opinion: Why I decided to share all my health information with ChatGPT Health",
-        "url": "https://www.statnews.com/2026/01/29/chatgpt-health-review-privacy-trust/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 29 Jan 2026 09:30:00 +0000",
-        "published_dt": "2026-01-29T09:30:00+00:00",
-        "summary": "\u201cI don\u2019t think people should have to go through 18 years of brain cancer to understand their own health records,\u201d writes Liz Salmi."
-      },
-      {
-        "id": "adb59fbf54ba9149",
-        "title": "Opinion: Do pediatricians make large profits from vaccines?",
-        "url": "https://www.statnews.com/2026/01/29/pediatricians-vaccines-profits-incentives-costs/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 29 Jan 2026 09:30:00 +0000",
-        "published_dt": "2026-01-29T09:30:00+00:00",
-        "summary": "Vaccine critics like to say that pediatricians profit from vaccines. This report found something very different."
-      },
-      {
-        "id": "c036aa5669770649",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-drops-100m-fibrosis-drug-phase-2-pipeline-part-clearout\" hreflang=\"en\">Roche drops $100M Kiniksa fibrosis drug from phase 2 pipeline as part of quarterly clearout</a>",
-        "url": "https://www.fiercebiotech.com/biotech/roche-drops-100m-fibrosis-drug-phase-2-pipeline-part-clearout",
+        "id": "a975e75802007d82",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sanofi-scraps-attempt-develop-next-gen-mrna-seasonal-flu-vaccine\" hreflang=\"en\">Sanofi abandons attempt to develop next-gen mRNA seasonal flu vaccine</a>",
+        "url": "https://www.fiercebiotech.com/biotech/sanofi-scraps-attempt-develop-next-gen-mrna-seasonal-flu-vaccine",
         "source": "Fierce Biotech",
-        "published": "Jan 29, 2026 6:31am",
-        "published_dt": "2026-01-29T06:31:00+00:00",
-        "summary": "Roche has waved goodbye to a inflammation drug from Kiniksa\u2014as well as the $100 million the pharma paid for the therapy.<br />"
+        "published": "Jan 29, 2026 9:38am",
+        "published_dt": "2026-01-29T09:38:00+00:00",
+        "summary": "Two and a half years after Sanofi unveiled to investors a revamped strategy to create an mRNA seasonal flu vaccine, Fierce Biotech has learned that the French pharma has put this pipeline on ice."
       },
       {
-        "id": "d021b3e42b40ec9b",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-vows-15b-china-investment-boost-cell-therapy-and-radioconjugate-capabilities\" hreflang=\"en\">AstraZeneca vows $15B China investment to boost cell therapy and radioconjugate capabilities</a>",
-        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-vows-15b-china-investment-boost-cell-therapy-and-radioconjugate-capabilities",
+        "id": "9ac24a3fe321707f",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-returns-chinas-cspc-47b-obesity-deal\" hreflang=\"en\">AstraZeneca returns to China's CSPC for $18.5B obesity deal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-returns-chinas-cspc-47b-obesity-deal",
         "source": "Fierce Biotech",
-        "published": "Jan 29, 2026 5:51am",
-        "published_dt": "2026-01-29T05:51:00+00:00",
-        "summary": "AstraZeneca has outlined plans to invest $15 billion in China through 2030, making a broad commitment to the country to enhance its capabilities in areas including cell therapies and radioconjugates."
+        "published": "Jan 30, 2026 4:51am",
+        "published_dt": "2026-01-30T04:51:00+00:00",
+        "summary": "The ink was barely dry on AstraZeneca\u2019s announcement of a landmark investment in its Chinese capabilities before the U.K.-based pharma agreed to pay more than $1 billion to one of its regional partners."
+      },
+      {
+        "id": "58f695cd918bd60c",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/moderna-offloads-late-stage-rare-disease-drug-recordati-50m-upfront\" hreflang=\"en\">Moderna offloads late-stage rare disease drug to Recordati for $50M upfront</a>",
+        "url": "https://www.fiercebiotech.com/biotech/moderna-offloads-late-stage-rare-disease-drug-recordati-50m-upfront",
+        "source": "Fierce Biotech",
+        "published": "Jan 30, 2026 4:15am",
+        "published_dt": "2026-01-30T04:15:00+00:00",
+        "summary": "Moderna has out-licensed a rare disease drug candidate to Recordati, accepting $50 million upfront for an asset that could deliver registrational data this year."
       },
       {
         "id": "5fe8e3a306f38ead",
@@ -127,15 +118,6 @@
         "published": "Wed, 28 Jan 2026 13:10:00 +0000",
         "published_dt": "2026-01-28T13:10:00+00:00",
         "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The first human test of a rejuvenation method will begin \u201cshortly\u201d Life Biosciences, a small Boston startup founded by Harvard professor and life-extension evangelist David Sinclair, has won FDA approval to proceed with&#8230;"
-      },
-      {
-        "id": "632f6e49c2991bcc",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sanofi-keeps-mum-future-denali-pact-after-scrapping-final-ripk1-inhibitor\" hreflang=\"en\">Sanofi keeps mum on future of disappointing Denali pact after scrapping final RIPK1 inhibitor</a>",
-        "url": "https://www.fiercebiotech.com/biotech/sanofi-keeps-mum-future-denali-pact-after-scrapping-final-ripk1-inhibitor",
-        "source": "Fierce Biotech",
-        "published": "Jan 29, 2026 5:17am",
-        "published_dt": "2026-01-29T05:17:00+00:00",
-        "summary": "Sanofi is tight-lipped about the future of its underwhelming pact with Denali Therapeutics after the French pharma scrapped what appeared to be the final RIPK1 inhibitor from the deal."
       },
       {
         "id": "76681d8858aff4bf",
@@ -174,61 +156,196 @@
         "summary": "Since launching one year ago with a hearty $300 million series A, Kardigan has been on a biotech speedrun."
       },
       {
-        "id": "a55d5be6fac81cea",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/united-therapeutics-bioengineered-temporary-liver-shows-promise-phase-1-trial\" hreflang=\"en\">United Therapeutics' bioengineered temporary liver shows promise in phase 1 trial</a>",
-        "url": "https://www.fiercebiotech.com/medtech/united-therapeutics-bioengineered-temporary-liver-shows-promise-phase-1-trial",
-        "source": "Fierce Biotech",
-        "published": "Jan 27, 2026 8:31am",
-        "published_dt": "2026-01-27T08:31:00+00:00",
-        "summary": "United Therapeutics\u2019 bioengineered external liver assist system developed to treat patients with acute forms of chronic liver failure proved promising based on early phase 1 trial results.<br />"
-      },
-      {
-        "id": "dcaeb320a9ca1d79",
-        "title": "HHS appoints 21 new members to federal autism advisory committee",
-        "url": "https://www.statnews.com/2026/01/28/kennedy-names-new-autism-advisors-advocates-alarmed-vaccine-skeptics/?utm_campaign=rss",
+        "id": "2eb4ad7ea131d8a0",
+        "title": "Trump\u2019s addiction initiative brings bold rhetoric but few details",
+        "url": "https://www.statnews.com/2026/01/29/new-trump-addiction-initiative-light-on-details/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 28 Jan 2026 21:38:12 +0000",
-        "published_dt": "2026-01-28T21:38:12+00:00",
-        "summary": "HHS appointed 21 new members to a federal committee that advises health secretary RFK Jr. on autism."
+        "published": "Fri, 30 Jan 2026 00:15:10 +0000",
+        "published_dt": "2026-01-30T00:15:10+00:00",
+        "summary": "The White House unveiled a new effort to streamline the country\u2019s response to its drug and alcohol epidemic.\u00a0But the announcement was light on details."
       },
       {
-        "id": "2e9caa2f1e8f055d",
-        "title": "STAT+: AI biotech founded by ex-Google CEO Eric Schmidt is raising $150 million",
-        "url": "https://www.statnews.com/2026/01/28/hologen-ai-biotech-startup-series-a-fundraise/?utm_campaign=rss",
+        "id": "52c805ecc519f224",
+        "title": "STAT+: Trump\u2019s latest deal: $600 million of tech company discounts to help implement Medicaid work requirements",
+        "url": "https://www.statnews.com/2026/01/29/medicaid-work-requirements-tech-firms-offer-discounted-help/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 28 Jan 2026 19:41:46 +0000",
-        "published_dt": "2026-01-28T19:41:46+00:00",
-        "summary": "Hologen, a secretive AI startup co-founded by former Google CEO, is looking to raise $150 million."
+        "published": "Thu, 29 Jan 2026 22:00:54 +0000",
+        "published_dt": "2026-01-29T22:00:54+00:00",
+        "summary": "States must have their work requirements systems running by Jan 1., a tight timeline for many."
       },
       {
-        "id": "531f5b274d05c4c0",
-        "title": "Medicare proposes new transplant system rules that might spur use of less-than-perfect organs",
-        "url": "https://www.statnews.com/2026/01/28/medicare-proposes-new-transplant-system-rules-organs/?utm_campaign=rss",
+        "id": "f6b1dfa8d721a697",
+        "title": "STAT+: Senators raise concerns about TrumpRx in letter to HHS watchdog",
+        "url": "https://www.statnews.com/2026/01/29/trumprx-concerns-in-senators-letter-to-hhs-watchdog/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 28 Jan 2026 19:12:43 +0000",
-        "published_dt": "2026-01-28T19:12:43+00:00",
-        "summary": "The government proposed new rules for the\u00a0nation\u2019s transplant system\u00a0Wednesday that aim to increase use of\u00a0less-than-perfect organs\u00a0and set additional safety standards for donor groups."
+        "published": "Thu, 29 Jan 2026 21:06:31 +0000",
+        "published_dt": "2026-01-29T21:06:31+00:00",
+        "summary": "Senators call for a review of TrumpRx by the Office of Inspector General at the Department of Health and Human Services."
       },
       {
-        "id": "27223319945004e0",
-        "title": "STAT+: Trump administration signals there\u2019s widespread desire to curb Medicare Advantage",
-        "url": "https://www.statnews.com/2026/01/28/medicare-advantage-insurer-pay-new-rules-target-upcoding/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 28 Jan 2026 17:17:28 +0000",
-        "published_dt": "2026-01-28T17:17:28+00:00",
-        "summary": "A tiny pay raise and new restrictions for Medicare Advantage plans show the administration won't go easy on the industry."
-      },
-      {
-        "id": "36726f4b0037f5d0",
-        "title": "Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear",
-        "url": "https://www.technologyreview.com/2026/01/28/1131340/roundtables-why-ai-companies-are-betting-on-next-gen-nuclear/",
+        "id": "604bf9a81c5b6fbb",
+        "title": "The AI Hype Index: Grok makes porn, and Claude Code nails your job",
+        "url": "https://www.technologyreview.com/2026/01/29/1131787/the-ai-hype-index-grok-makes-porn-claude-code-nails-your-job/",
         "source": "MIT Technology Review",
-        "published": "Wed, 28 Jan 2026 16:23:00 +0000",
-        "published_dt": "2026-01-28T16:23:00+00:00",
-        "summary": "AI is driving unprecedented investment for massive data centers and an energy supply that can support its huge computational appetite. One potential source of electricity for these facilities is next-generation nuclear power plants, which could be cheaper to construct and safer to operate than their predecessors. Watch a discussion with our editors and reporters on&#8230;"
+        "published": "Thu, 29 Jan 2026 20:56:23 +0000",
+        "published_dt": "2026-01-29T20:56:23+00:00",
+        "summary": "Everyone is panicking because AI is very bad; everyone is panicking because AI is very good. It\u2019s just that you never know which one you\u2019re going to get. Grok is a pornography machine. Claude Code can do anything from building websites to reading your MRI. So of course Gen Z is spooked by what this&#8230;"
+      },
+      {
+        "id": "8f66214dc63a5af5",
+        "title": "Genes influence human lifespan far more than thought, new study suggests",
+        "url": "https://www.statnews.com/2026/01/29/human-longevity-inherited-new-study-published-in-science/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 29 Jan 2026 19:00:00 +0000",
+        "published_dt": "2026-01-29T19:00:00+00:00",
+        "summary": "How big of a role do our genes play in our lifespan? Quite a bit more than previously thought, a new study suggests."
+      },
+      {
+        "id": "af96303a30e03aaf",
+        "title": "DHS is using Google and Adobe AI to make videos",
+        "url": "https://www.technologyreview.com/2026/01/29/1131938/dhs-is-using-google-and-adobe-ai-to-make-videos/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 29 Jan 2026 18:57:11 +0000",
+        "published_dt": "2026-01-29T18:57:11+00:00",
+        "summary": "The US Department of Homeland Security is using AI video generators from Google and Adobe to make and edit content shared with the public, a new document reveals. It comes as immigration agencies have flooded social media with content to support President Trump&#8217;s mass deportation agenda\u2014some of which appears to be made with AI\u2014and as&#8230;"
+      },
+      {
+        "id": "d2613a46fa0cd753",
+        "title": "STAT+: States are the next vaccine battleground",
+        "url": "https://www.statnews.com/2026/01/29/state-vaccine-mandates-health-care-ice-minnesota-dc-diagnosis-newsletter/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 29 Jan 2026 17:07:32 +0000",
+        "published_dt": "2026-01-29T17:07:32+00:00",
+        "summary": "This is the web edition of STAT's D.C. Diagnosis newsletter."
+      },
+      {
+        "id": "3f7e5b3ede261364",
+        "title": "Nine states challenge federal mandate that disabled people receive care in community",
+        "url": "https://www.statnews.com/2026/01/29/states-lawsuit-challenge-section-504-rehabilitation-act/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 29 Jan 2026 16:42:35 +0000",
+        "published_dt": "2026-01-29T16:42:35+00:00",
+        "summary": "A lawsuit from nine states seeks to undercut a federal mandate that people with disabilities receive care in their communities."
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "66b5fd90390fa496",
+        "title": "Making the unprecedented EU Space Act effective for all",
+        "url": "https://spacenews.com/making-the-unprecedented-eu-space-act-effective-for-all/",
+        "source": "SpaceNews",
+        "published": "Fri, 30 Jan 2026 12:00:00 +0000",
+        "published_dt": "2026-01-30T12:00:00+00:00",
+        "summary": "<figure><img alt=\"Ariane 6 liftoff\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/07/a6-firstliftoff.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The EU Space Act was\u00a0formally proposed by the European Commission (EC) on June 25, 2025. While it doesn\u2019t aim to codify all European Union (EU) space activities, it does address several key issues that EU officials have determined are increasingly important to the continent\u2019s concerns: safety, through tracking space objects and mitigating space debris; resilience, [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/making-the-unprecedented-eu-space-act-effective-for-all/\">Making the unprecedented EU Space Act effective for all</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "ea2107e3996de37e",
+        "title": "Rohm releases BD9xxN5 500 mA LDO regulators for 12/24 V rails",
+        "url": "https://www.engineering.com/rohm-releases-bd9xxn5-500-ma-ldo-regulators-for-12-24-v-rails/",
+        "source": "Engineering.com",
+        "published": "Fri, 30 Jan 2026 11:46:44 +0000",
+        "published_dt": "2026-01-30T11:46:44+00:00",
+        "summary": "<p>Nano Cap control targets stable operation with small output capacitors; Rohm cites ~250 mV ripple with 470 nF (typ.) output.</p>\n<p>The post <a href=\"https://www.engineering.com/rohm-releases-bd9xxn5-500-ma-ldo-regulators-for-12-24-v-rails/\">Rohm releases BD9xxN5 500 mA LDO regulators for 12/24 V rails</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "bc11b779837f1b39",
+        "title": "Rocket Lab launches South Korean satellite",
+        "url": "https://spacenews.com/rocket-lab-launches-south-korean-satellite/",
+        "source": "SpaceNews",
+        "published": "Fri, 30 Jan 2026 11:01:41 +0000",
+        "published_dt": "2026-01-30T11:01:41+00:00",
+        "summary": "<figure><img alt=\"Electron launch of NEONSAT-1A\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/55068437005_72371a65c6_k.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A Rocket Lab Electron launched a South Korean imaging satellite Jan. 29 on the rocket\u2019s second flight of the year.</p>\n<p>The post <a href=\"https://spacenews.com/rocket-lab-launches-south-korean-satellite/\">Rocket Lab launches South Korean satellite</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "d342d9ede16b7c6b",
+        "title": "Cognizant and Kohler extend strategic digital services partnership",
+        "url": "https://www.engineering.com/cognizant-and-kohler-extend-strategic-digital-services-partnership/",
+        "source": "Engineering.com",
+        "published": "Fri, 30 Jan 2026 09:28:00 +0000",
+        "published_dt": "2026-01-30T09:28:00+00:00",
+        "summary": "<p>Multi\u2011year expansion accelerates Kohler's digital transformation, strengthening operational agility.</p>\n<p>The post <a href=\"https://www.engineering.com/cognizant-and-kohler-extend-strategic-digital-services-partnership/\">Cognizant and Kohler extend strategic digital services partnership</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "4df8c6fbc15e0f27",
+        "title": "I-care joins AVEVA Partner Ecosystem as managed provider",
+        "url": "https://www.engineering.com/i-care-joins-aveva-partner-ecosystem-as-managed-provider/",
+        "source": "Engineering.com",
+        "published": "Fri, 30 Jan 2026 08:35:00 +0000",
+        "published_dt": "2026-01-30T08:35:00+00:00",
+        "summary": "<p>Integration connects I-see analytics with AVEVA PI System data to support asset health monitoring and predictive maintenance use cases.</p>\n<p>The post <a href=\"https://www.engineering.com/i-care-joins-aveva-partner-ecosystem-as-managed-provider/\">I-care joins AVEVA Partner Ecosystem as managed provider</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "8b24cfb7c57dfa20",
+        "title": "Alabama National Guard general to manage Space Command headquarters transition",
+        "url": "https://spacenews.com/alabama-national-guard-general-to-manage-space-command-headquarters-transition/",
+        "source": "SpaceNews",
+        "published": "Thu, 29 Jan 2026 22:35:48 +0000",
+        "published_dt": "2026-01-29T22:35:48+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/9440573-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Maj. Gen. Terry Grisham will oversee the move from Colorado Springs to Redstone Arsenal.</p>\n<p>The post <a href=\"https://spacenews.com/alabama-national-guard-general-to-manage-space-command-headquarters-transition/\">Alabama National Guard general to manage Space Command headquarters transition</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "4f290cf388747ce1",
+        "title": "NASA considering alternatives for Gateway logistics",
+        "url": "https://spacenews.com/nasa-considering-alternatives-for-gateway-logistics/",
+        "source": "SpaceNews",
+        "published": "Thu, 29 Jan 2026 22:23:35 +0000",
+        "published_dt": "2026-01-29T22:23:35+00:00",
+        "summary": "<figure><img alt=\"Dragon XL at Gateway\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"494\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2021/04/dragonxl-gateway.jpg?fit=879%2C494&amp;ssl=1\" width=\"879\" /></figure>\n<p>NASA is at a \u201ccrossroads\u201d in deciding how to handle logistics for the lunar Gateway as it considers alternative approaches.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-considering-alternatives-for-gateway-logistics/\">NASA considering alternatives for Gateway logistics</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "ea7332fdaec7e227",
+        "title": "York Space goes public, riding Pentagon demand",
+        "url": "https://spacenews.com/york-space-goes-public-riding-pentagon-demand/",
+        "source": "SpaceNews",
+        "published": "Thu, 29 Jan 2026 22:02:25 +0000",
+        "published_dt": "2026-01-29T22:02:25+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/G_2Z0WPWsAA6HWk-scaled.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The Denver-based satellite manufacturer raises $629 million, aims to expand output amid rising U.S. defense budgets</p>\n<p>The post <a href=\"https://spacenews.com/york-space-goes-public-riding-pentagon-demand/\">York Space goes public, riding Pentagon demand</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "8b0b81dd4e59a3dd",
+        "title": "Global Space Economy Reaches $626\u202fBillion, Marking a New Phase of Growth",
+        "url": "https://spacenews.com/global-space-economy-reaches-626-billion-marking-a-new-phase-of-growth/",
+        "source": "SpaceNews",
+        "published": "Thu, 29 Jan 2026 20:35:26 +0000",
+        "published_dt": "2026-01-29T20:35:26+00:00",
+        "summary": "<figure><img alt=\"Novaspace logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Paris, France [January 29, 2026] \u2013 The 12th edition of Novaspace\u2019s Space Economy Report notes the global space economy is now on a significant growth trajectory, positioned to expand from [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/global-space-economy-reaches-626-billion-marking-a-new-phase-of-growth/\">Global Space Economy Reaches $626\u202fBillion, Marking a New Phase of Growth</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "7d62fd4415b9ad74",
+        "title": "Eutelsat\u2019s ground infrastructure sale falls through",
+        "url": "https://spacenews.com/eutelsats-ground-infrastructure-sale-falls-through/",
+        "source": "SpaceNews",
+        "published": "Thu, 29 Jan 2026 18:52:00 +0000",
+        "published_dt": "2026-01-29T18:52:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"666\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2022/09/Eutelsat_Paris-Rambouillet_teleport_in_France_-_credit_Eutelsat_Adrien_Daste_2018_credit_.jpeg?fit=1000%2C666&amp;ssl=1\" width=\"1000\" /></figure>\n<p>Eutelsat said a planned sale of its passive ground infrastructure to a private equity firm announced in August 2024 will not proceed, eliminating roughly $658 million in expected proceeds.</p>\n<p>The post <a href=\"https://spacenews.com/eutelsats-ground-infrastructure-sale-falls-through/\">Eutelsat\u2019s ground infrastructure sale falls through</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "373c425a44342edf",
+        "title": "Oxford Space Systems Wrapped Rib Antenna Successfully Deployed In-Orbit on CarbSAR Mission",
+        "url": "https://spacenews.com/oxford-space-systems-wrapped-rib-antenna-successfully-deployed-in-orbit-on-carbsar-mission/",
+        "source": "SpaceNews",
+        "published": "Thu, 29 Jan 2026 17:00:00 +0000",
+        "published_dt": "2026-01-29T17:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"821\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/OSSLogo-RGB.jpg?fit=900%2C821&amp;ssl=1\" width=\"900\" /></figure>\n<p>Harwell and Guildford, UK &#8211; Oxford Space Systems and Surrey Satellite Technology Limited (SSTL) today announced the successful in-orbit deployment of Oxford Space Systems\u2019 Wrapped Rib Antenna on SSTL\u2019s CarbSAR [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/oxford-space-systems-wrapped-rib-antenna-successfully-deployed-in-orbit-on-carbsar-mission/\">Oxford Space Systems Wrapped Rib Antenna Successfully Deployed In-Orbit on CarbSAR Mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "68a7c98e835a4dc2",
+        "title": "A fun new video series: Travel for Engineers",
+        "url": "https://www.engineering.com/a-fun-new-video-series-travel-for-engineers/",
+        "source": "Engineering.com",
+        "published": "Thu, 29 Jan 2026 16:08:33 +0000",
+        "published_dt": "2026-01-29T16:08:33+00:00",
+        "summary": "<p>Exploring the world the an engineer's lens, uncovering the fascinating design, infrastructure, and technology behind the places we visit.</p>\n<p>The post <a href=\"https://www.engineering.com/a-fun-new-video-series-travel-for-engineers/\">A fun new video series: Travel for Engineers</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "5fad898e00ed95d9",
+        "title": "China eyes space resources, space tourism and on-orbit digital infrastructure",
+        "url": "https://spacenews.com/china-eyes-space-resources-space-tourism-and-on-orbit-digital-infrastructure/",
+        "source": "SpaceNews",
+        "published": "Thu, 29 Jan 2026 13:33:35 +0000",
+        "published_dt": "2026-01-29T13:33:35+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"575\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/09/jielong-3-Y4-8sats-sealaunch-24sept2024-chinarocket-1.jpg?fit=1024%2C575&amp;ssl=1\" width=\"1024\" /></figure>\n<p>China\u2019s main space contractor says it will push into new commercial space domains in the coming years as the country formulates its latest Five-year plan.</p>\n<p>The post <a href=\"https://spacenews.com/china-eyes-space-resources-space-tourism-and-on-orbit-digital-infrastructure/\">China eyes space resources, space tourism and on-orbit digital infrastructure</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
       {
         "id": "ff5ff48fc7773687",
         "title": "What would Artemis participation mean for T\u00fcrkiye\u2019s space industry and space diplomacy?",
@@ -248,6 +365,33 @@
         "summary": "<figure><img alt=\"Space Grove Ventures logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"500\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/Final_space-grove-logo.jpg?fit=500%2C500&amp;ssl=1\" width=\"500\" /></figure>\n<p>January 29, 2026 &#124; 6:00 AM ET Orlando, Florida &#8211; Space Grove Ventures publicly launches at SpaceCom &#124; Space Congress today, taking place January 28\u201330 at the Orange County Convention [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/space-grove-ventures-announces-public-launch-at-spacecom-space-congress-signaling-a-new-commercial-model-for-space-and-defense-ecosystem-development/\">Space Grove Ventures Announces Public Launch at SpaceCom | Space Congress, Signaling a New Commercial Model for Space and Defense Ecosystem Development</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
+        "id": "4cb854f144d6f506",
+        "title": "West Side Tractor joins Trimble Technology Outlet network",
+        "url": "https://www.engineering.com/west-side-tractor-joins-trimble-technology-outlet-network/",
+        "source": "Engineering.com",
+        "published": "Thu, 29 Jan 2026 10:29:00 +0000",
+        "published_dt": "2026-01-29T10:29:00+00:00",
+        "summary": "<p>Authorized dealer will sell grade control and positioning for John Deere machines across northern Illinois, Indiana and SW Michigan.</p>\n<p>The post <a href=\"https://www.engineering.com/west-side-tractor-joins-trimble-technology-outlet-network/\">West Side Tractor joins Trimble Technology Outlet network</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "d617a56dd4fd6119",
+        "title": "Precision Additive launches PA-300 metal LPBF system",
+        "url": "https://www.engineering.com/precision-additive-launches-pa-300-metal-lpbf-system/",
+        "source": "Engineering.com",
+        "published": "Thu, 29 Jan 2026 10:25:00 +0000",
+        "published_dt": "2026-01-29T10:25:00+00:00",
+        "summary": "<p>System targets qualified U.S.-based production and includes SSLM lasers, embedded AI monitoring and support for difficult alloys such as magnesium.</p>\n<p>The post <a href=\"https://www.engineering.com/precision-additive-launches-pa-300-metal-lpbf-system/\">Precision Additive launches PA-300 metal LPBF system</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "acee78e3fc4d3ff6",
+        "title": "GIGABYTE releases X870E AORUS XTREME X3D AI TOP motherboard",
+        "url": "https://www.engineering.com/gigabyte-releases-x870e-aorus-xtreme-x3d-ai-top-motherboard/",
+        "source": "Engineering.com",
+        "published": "Thu, 29 Jan 2026 10:15:00 +0000",
+        "published_dt": "2026-01-29T10:15:00+00:00",
+        "summary": "<p>The board adds AI-driven overclocking, DDR5 optimization, advanced thermal management and tool-free installation features for AMD Ryzen X3D systems.</p>\n<p>The post <a href=\"https://www.engineering.com/gigabyte-releases-x870e-aorus-xtreme-x3d-ai-top-motherboard/\">GIGABYTE releases X870E AORUS XTREME X3D AI TOP motherboard</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
         "id": "eef40d2c6edf5fe4",
         "title": "SpaceX plans next Starship test flight in March",
         "url": "https://spacenews.com/spacex-plans-next-starship-test-flight-in-march/",
@@ -257,31 +401,31 @@
         "summary": "<figure><img alt=\"Starship Flight 11\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"542\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/flt11-liftoff.jpeg?fit=1024%2C542&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The first Starship test flight of 2026 is scheduled for as soon as early March as SpaceX enters a critical year in the vehicle\u2019s development.</p>\n<p>The post <a href=\"https://spacenews.com/spacex-plans-next-starship-test-flight-in-march/\">SpaceX plans next Starship test flight in March</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "ca0ebf9bf0f58c55",
-        "title": "Architecting scalable data pipelines in manufacturing \u2013 Part 1",
-        "url": "https://www.engineering.com/architecting-scalable-data-pipelines-in-manufacturing-part-1/",
+        "id": "6f6532569c6b2a8c",
+        "title": "LG to showcase next-generation compressors and motors at AHR Expo 2026",
+        "url": "https://www.engineering.com/lg-to-showcase-next-generation-compressors-and-motors-at-ahr-expo-2026/",
         "source": "Engineering.com",
-        "published": "Wed, 28 Jan 2026 20:06:48 +0000",
-        "published_dt": "2026-01-28T20:06:48+00:00",
-        "summary": "<p>Building operationally successful, scalable data pipelines is mostly science, but with a touch of art.</p>\n<p>The post <a href=\"https://www.engineering.com/architecting-scalable-data-pipelines-in-manufacturing-part-1/\">Architecting scalable data pipelines in manufacturing \u2013 Part 1</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Thu, 29 Jan 2026 10:04:00 +0000",
+        "published_dt": "2026-01-29T10:04:00+00:00",
+        "summary": "<p>The company will highlight DualJet compressor and CurvedSpoke motor designs focused on efficiency, reliability and compact system integration.</p>\n<p>The post <a href=\"https://www.engineering.com/lg-to-showcase-next-generation-compressors-and-motors-at-ahr-expo-2026/\">LG to showcase next-generation compressors and motors at AHR Expo 2026</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "ec6e0da0cc6caebe",
-        "title": "AI Make Machining Suggestion now in Siemens NX X Manufacturing",
-        "url": "https://www.engineering.com/make-machining-suggestion-now-in-siemens-nx-x-manufacturing/",
+        "id": "2a0f60def9eb16a7",
+        "title": "AON3D raises new funding led by Cycle Capital",
+        "url": "https://www.engineering.com/aon3d-raises-new-funding-led-by-cycle-capital/",
         "source": "Engineering.com",
-        "published": "Tue, 27 Jan 2026 20:58:45 +0000",
-        "published_dt": "2026-01-27T20:58:45+00:00",
-        "summary": "<p>New AI-based tool suggests machining strategies and can learn from past data. That and more design and simulation news.</p>\n<p>The post <a href=\"https://www.engineering.com/make-machining-suggestion-now-in-siemens-nx-x-manufacturing/\">AI Make Machining Suggestion now in Siemens NX X Manufacturing</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Thu, 29 Jan 2026 09:22:00 +0000",
+        "published_dt": "2026-01-29T09:22:00+00:00",
+        "summary": "<p>Round supports capacity expansion and rollout of Hylo printer plus Basis ML software for qualifying parts with open-market polymers.</p>\n<p>The post <a href=\"https://www.engineering.com/aon3d-raises-new-funding-led-by-cycle-capital/\">AON3D raises new funding led by Cycle Capital</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "6a83ebbeb8dbb847",
-        "title": "EBAD PRM Payload Release Module Family Demonstrates Scalable, Low-Shock Separation Capability on Falcon 9 Twilight Rideshare Mission",
-        "url": "https://spacenews.com/ebad-prm-payload-release-module-family-demonstrates-scalable-low-shock-separation-capability-on-falcon-9-twilight-rideshare-mission/",
-        "source": "SpaceNews",
-        "published": "Tue, 27 Jan 2026 19:29:10 +0000",
-        "published_dt": "2026-01-27T19:29:10+00:00",
-        "summary": "<figure><img alt=\"Ensign-Bickford Aerospace and Defense Company (EBAD) logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/Ensign-Bickford-Aerospace-and-Defense-Company-EBAD.png?fit=1019%2C1024&amp;ssl=1\" width=\"1019\" /></figure>\n<p>SIMSBURY, Conn., January 26, 2026 &#8211; Ensign-Bickford Aerospace and Defense Company (EBAD) announced the successful flight and actuation of its Payload Release Module, PRM9103, during SpaceX\u2019s Falcon 9 Twilight rideshare [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/ebad-prm-payload-release-module-family-demonstrates-scalable-low-shock-separation-capability-on-falcon-9-twilight-rideshare-mission/\">EBAD PRM Payload Release Module Family Demonstrates Scalable, Low-Shock Separation Capability on Falcon 9 Twilight Rideshare Mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "id": "38bf4be35aac58d1",
+        "title": "Cassava Technologies partners with AXON Networks",
+        "url": "https://www.engineering.com/cassava-technologies-partners-with-axon-networks/",
+        "source": "Engineering.com",
+        "published": "Thu, 29 Jan 2026 08:12:00 +0000",
+        "published_dt": "2026-01-29T08:12:00+00:00",
+        "summary": "<p>The collaboration will use an AI-managed, programmable network to deliver secure, high-speed connectivity for service providers across the continent.</p>\n<p>The post <a href=\"https://www.engineering.com/cassava-technologies-partners-with-axon-networks/\">Cassava Technologies partners with AXON Networks</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "35cbd074f9e8cfa8",
@@ -309,180 +453,9 @@
         "published": "Wed, 28 Jan 2026 21:32:31 +0000",
         "published_dt": "2026-01-28T21:32:31+00:00",
         "summary": "<figure><img alt=\"ZY-3 seen by NewSat-34\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"842\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/heo-newsdat34.jpeg?fit=1000%2C842&amp;ssl=1\" width=\"1000\" /></figure>\n<p>HEO, the Australian company that performs in-space imaging of spacecraft, has acquired its own satellite though a deal with Satellogic.</p>\n<p>The post <a href=\"https://spacenews.com/heo-acquires-in-orbit-satellite-from-satellogic/\">HEO acquires in-orbit satellite from Satellogic</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "41aabd2226d083d0",
-        "title": "Space-focused SPAC goes public after pricing $200 million IPO",
-        "url": "https://spacenews.com/space-focused-spac-goes-public-after-pricing-200-million-ipo/",
-        "source": "SpaceNews",
-        "published": "Wed, 28 Jan 2026 21:26:18 +0000",
-        "published_dt": "2026-01-28T21:26:18+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"674\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/NASDAQ.webp?fit=1024%2C674&amp;ssl=1\" width=\"1024\" /></figure>\n<p>TAMPA, Fla. \u2014 A shell company chaired by venture capitalist Raphael Roettgen began trading on the Nasdaq stock exchange Jan. 28 after raising $200 million to pursue a merger with a space-related business. Space Asset Acquisition Corp., a special purpose acquisition company (SPAC) that offers a fast-track to the public markets for firms seeking capital, [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/space-focused-spac-goes-public-after-pricing-200-million-ipo/\">Space-focused SPAC goes public after pricing $200 million IPO</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "97890309023eb0dc",
-        "title": "U.S. Space Command to bring commercial firms into classified wargame on nuclear threats in space",
-        "url": "https://spacenews.com/u-s-space-command-to-bring-commercial-firms-into-classified-wargame-on-nuclear-threats-in-space/",
-        "source": "SpaceNews",
-        "published": "Wed, 28 Jan 2026 19:41:19 +0000",
-        "published_dt": "2026-01-28T19:41:19+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/GwkLjQ1XMAEc28O-scaled.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Upcoming tabletop exercise will examine response to weapons of mass destruction in orbit</p>\n<p>The post <a href=\"https://spacenews.com/u-s-space-command-to-bring-commercial-firms-into-classified-wargame-on-nuclear-threats-in-space/\">U.S. Space Command to bring commercial firms into classified wargame on nuclear threats in space</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "8b3810dc64882095",
-        "title": "Space Command\u2019s case for orbital logistics: Why the Pentagon is being urged to think beyond launch",
-        "url": "https://spacenews.com/space-commands-case-for-orbital-logistics-why-the-pentagon-is-being-urged-to-think-beyond-launch/",
-        "source": "SpaceNews",
-        "published": "Wed, 28 Jan 2026 18:51:32 +0000",
-        "published_dt": "2026-01-28T18:51:32+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"519\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/250609-N-MM501-1042-e1769625955740.jpg?fit=1024%2C519&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Gen. Stephen Whiting: A space becomes a contested military domain, the Pentagon needs not just rockets but also a sustainment and mobility infrastructure to support satellites</p>\n<p>The post <a href=\"https://spacenews.com/space-commands-case-for-orbital-logistics-why-the-pentagon-is-being-urged-to-think-beyond-launch/\">Space Command\u2019s case for orbital logistics: Why the Pentagon is being urged to think beyond launch</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "ca87b2c523c463d5",
-        "title": "Space Futures Centre, World Economic Forum Launch Space Debris Insights Report",
-        "url": "https://spacenews.com/space-futures-centre-world-economic-forum-launch-space-debris-insights-report/",
-        "source": "SpaceNews",
-        "published": "Wed, 28 Jan 2026 15:58:37 +0000",
-        "published_dt": "2026-01-28T15:58:37+00:00",
-        "summary": "<figure><img alt=\"Saudi Space Agency logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"348\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/saudi-space-agency-logo-1.png?fit=348%2C348&amp;ssl=1\" width=\"348\" /></figure>\n<p>The Space Futures Centre a global independent center established in partnership with the World Economic Forum and the Saudi Space Agency to support the growth of the global space economy [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/space-futures-centre-world-economic-forum-launch-space-debris-insights-report/\">Space Futures Centre, World Economic Forum Launch Space Debris Insights Report</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "09b2586f22c5355c",
-        "title": "OQ Technology plots smartphone test amid SpaceX\u2019s C-band D2D push",
-        "url": "https://spacenews.com/oq-technology-plots-smartphone-test-amid-spacexs-c-band-d2d-push/",
-        "source": "SpaceNews",
-        "published": "Wed, 28 Jan 2026 15:05:03 +0000",
-        "published_dt": "2026-01-28T15:05:03+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"646\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/OQTechD2D-2.jpg?fit=1024%2C646&amp;ssl=1\" width=\"1024\" /></figure>\n<p>OQ Technology is preparing to deploy a small satellite to test using C-band to connect smartphones from LEO, joining SpaceX in a push to repurpose part of the spectrum for direct-to-device services.</p>\n<p>The post <a href=\"https://spacenews.com/oq-technology-plots-smartphone-test-amid-spacexs-c-band-d2d-push/\">OQ Technology plots smartphone test amid SpaceX\u2019s C-band D2D push</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "999eb7f1a851c90d",
-        "title": "China set for crewed lunar tests, record launches, moon mission and reusable rockets in 2026",
-        "url": "https://spacenews.com/china-set-for-crewed-lunar-tests-record-launches-moon-mission-and-reusable-rockets-in-2026/",
-        "source": "SpaceNews",
-        "published": "Wed, 28 Jan 2026 14:36:14 +0000",
-        "published_dt": "2026-01-28T14:36:14+00:00",
-        "summary": "<figure><img alt=\"A Long March rocket stands on a launch pad in a desert setting during a static fire test, with engines firing and producing a large plume of white and gray exhaust and dust spreading outward across the ground, framed by lightning towers under a clear sky.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/LongMarch12B-static-fire-Dongfeng-JSLC-16jan2026-CASC.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>China appears set to accelerate its launch rate this year while also conducting tests key to its crewed lunar ambitions and launching major missions.</p>\n<p>The post <a href=\"https://spacenews.com/china-set-for-crewed-lunar-tests-record-launches-moon-mission-and-reusable-rockets-in-2026/\">China set for crewed lunar tests, record launches, moon mission and reusable rockets in 2026</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "e12bd43b4111f5c7",
-        "title": "Earth observation\u2019s adoption gap is a supply design problem",
-        "url": "https://spacenews.com/earth-observations-adoption-gap-is-a-supply-design-problem/",
-        "source": "SpaceNews",
-        "published": "Wed, 28 Jan 2026 14:00:00 +0000",
-        "published_dt": "2026-01-28T14:00:00+00:00",
-        "summary": "<figure><img alt=\"Artist\u2019s rendering of EarthDaily\u2019s first satellite, currently in orbit. Credit: EarthDaily\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/Spacenews-Hero.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>For more than a decade, the Earth observation industry has insisted that commercial adoption is just around the corner. Yet adoption outside defense remains limited, uneven, and difficult to sustain. The question is no longer whether EO is valuable, but whether the industry is delivering it in a form commercial users can actually use. The [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/earth-observations-adoption-gap-is-a-supply-design-problem/\">Earth observation\u2019s adoption gap is a supply design problem</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "5c4a199b7c7ffbc8",
-        "title": "Battery placement in electric aircraft may impact handling, comfort, paper says",
-        "url": "https://aerospaceamerica.aiaa.org/battery-placement-in-electric-aircraft-may-impact-handling-comfort-paper-says/",
-        "source": "Aerospace America",
-        "published": "Wed, 28 Jan 2026 14:00:00 +0000",
-        "published_dt": "2026-01-28T14:00:00+00:00",
-        "summary": ""
-      },
-      {
-        "id": "bd5037bff7ce34d6",
-        "title": "PTC adds AI parts rationalization tool to Windchill PLM",
-        "url": "https://www.engineering.com/ptc-adds-ai-parts-rationalization-tool-to-windchill-plm/",
-        "source": "Engineering.com",
-        "published": "Wed, 28 Jan 2026 13:59:26 +0000",
-        "published_dt": "2026-01-28T13:59:26+00:00",
-        "summary": "<p>The plug-in flags similar and redundant parts to support consolidation workflows and improve part data for engineering and supply chain teams.</p>\n<p>The post <a href=\"https://www.engineering.com/ptc-adds-ai-parts-rationalization-tool-to-windchill-plm/\">PTC adds AI parts rationalization tool to Windchill PLM</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "81b6a1c27c29649c",
-        "title": "Stratasys launches post-processing partner program for 3D prints",
-        "url": "https://www.engineering.com/stratasys-launches-post-processing-partner-program-for-3d-prints/",
-        "source": "Engineering.com",
-        "published": "Wed, 28 Jan 2026 13:38:40 +0000",
-        "published_dt": "2026-01-28T13:38:40+00:00",
-        "summary": "<p>PostProcess Technologies is the first partner, with validated equipment sold through Stratasys channels and serviced by PostProcess.</p>\n<p>The post <a href=\"https://www.engineering.com/stratasys-launches-post-processing-partner-program-for-3d-prints/\">Stratasys launches post-processing partner program for 3D prints</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "169cb923c207bb25",
-        "title": "FAA projects continuing growth in commercial space transportation",
-        "url": "https://spacenews.com/faa-projects-continuing-growth-in-commercial-space-transportation/",
-        "source": "SpaceNews",
-        "published": "Wed, 28 Jan 2026 12:09:07 +0000",
-        "published_dt": "2026-01-28T12:09:07+00:00",
-        "summary": "<figure><img alt=\"F9 launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"602\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/f9-20260125.jpeg?fit=1024%2C602&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The Federal Aviation Administration office that regulates commercial spaceflight expects continued growth in launches, despite industry concerns about whether the office can keep pace.</p>\n<p>The post <a href=\"https://spacenews.com/faa-projects-continuing-growth-in-commercial-space-transportation/\">FAA projects continuing growth in commercial space transportation</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "13527b8b02e43d8c",
-        "title": "Terran Orbital to Deliver Nebula Bus for Mitsubishi Electric LEO Demo Mission",
-        "url": "https://spacenews.com/terran-orbital-to-deliver-nebula-bus-for-mitsubishi-electric-leo-demo-mission/",
-        "source": "SpaceNews",
-        "published": "Wed, 28 Jan 2026 11:00:00 +0000",
-        "published_dt": "2026-01-28T11:00:00+00:00",
-        "summary": "<figure><img alt=\"Terran Orbital logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/Terran_Orbital_Standard_RGB_4k-square-scaled.png?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>IRVINE, CA \u2013 January 28, 2026 \u2013 Terran Orbital proudly announces the Mitsubishi Electric LEO Demo Mission, a state-of-the-art project in collaboration with Mitsubishi Electric Corporation and Mitsubishi Electric US. [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/terran-orbital-to-deliver-nebula-bus-for-mitsubishi-electric-leo-demo-mission/\">Terran Orbital to Deliver Nebula Bus for Mitsubishi Electric LEO Demo Mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "702493e55c1ccec5",
-        "title": "Innoviz launches InnovizSMART LiDAR for smart infrastructure applications",
-        "url": "https://www.engineering.com/innoviz-launches-innovizsmart-lidar-for-smart-infrastructure-applications/",
-        "source": "Engineering.com",
-        "published": "Wed, 28 Jan 2026 10:22:46 +0000",
-        "published_dt": "2026-01-28T10:22:46+00:00",
-        "summary": "<p>InnovizSMART sensor supports long-range detection, PoE connectivity and rapid deployment with short lead times.</p>\n<p>The post <a href=\"https://www.engineering.com/innoviz-launches-innovizsmart-lidar-for-smart-infrastructure-applications/\">Innoviz launches InnovizSMART LiDAR for smart infrastructure applications</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "1e387922e5ce6ccc",
-        "title": "What \u2018commercial space\u2019 really means depends on who\u2019s buying \u2014 and why",
-        "url": "https://spacenews.com/what-commercial-space-really-means-depends-on-whos-buying-and-why/",
-        "source": "SpaceNews",
-        "published": "Wed, 28 Jan 2026 09:25:33 +0000",
-        "published_dt": "2026-01-28T09:25:33+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"556\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2021/06/Cygnus.jpg?fit=1000%2C556&amp;ssl=1\" width=\"1000\" /></figure>\n<p>New  study finds the label \u201ccommercial\u201d masks sharp differences in risk, ownership and policy goals</p>\n<p>The post <a href=\"https://spacenews.com/what-commercial-space-really-means-depends-on-whos-buying-and-why/\">What &#8216;commercial space&#8217; really means depends on who\u2019s buying \u2014 and why</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "ffcb24dee43d5974",
-        "title": "Cadonix launches smartBuild platform for wire harness production",
-        "url": "https://www.engineering.com/cadonix-launches-smartbuild-platform-for-wire-harness-production/",
-        "source": "Engineering.com",
-        "published": "Wed, 28 Jan 2026 09:22:00 +0000",
-        "published_dt": "2026-01-28T09:22:00+00:00",
-        "summary": "<p>The AI-first system turns Arcadia designs into step-by-step digital instructions and auto-generated test programs with cloud traceability.</p>\n<p>The post <a href=\"https://www.engineering.com/cadonix-launches-smartbuild-platform-for-wire-harness-production/\">Cadonix launches smartBuild platform for wire harness production</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "6e0697475cbd4e1c",
-        "title": "SpaceX launches GPS satellite for U.S. Space Force",
-        "url": "https://spacenews.com/spacex-launches-gps-satellite-for-u-s-space-force/",
-        "source": "SpaceNews",
-        "published": "Wed, 28 Jan 2026 08:47:20 +0000",
-        "published_dt": "2026-01-28T08:47:20+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"685\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/image009.jpg.jpeg?fit=1024%2C685&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Mission marks third consecutive GPS launch reassigned from ULA to SpaceX</p>\n<p>The post <a href=\"https://spacenews.com/spacex-launches-gps-satellite-for-u-s-space-force/\">SpaceX launches GPS satellite for U.S. Space Force</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
-      {
-        "id": "e1dc0e2bc8c845af",
-        "title": "The fate of Japan\u2019s $6trn foreign portfolio rattles global markets",
-        "url": "https://www.economist.com/finance-and-economics/2026/01/29/the-fate-of-japans-6trn-foreign-portfolio-rattles-global-markets",
-        "source": "Finance & economics",
-        "published": "Thu, 29 Jan 2026 10:00:58 +0000",
-        "published_dt": "2026-01-29T10:00:58+00:00",
-        "summary": "The knock-on effects of a sell-off in Japanese-held foreign investments would be far-reaching"
-      },
-      {
-        "id": "41580dca6aba45da",
-        "title": "Why is the yen still so weak?",
-        "url": "https://www.economist.com/finance-and-economics/2026/01/29/why-is-the-yen-still-so-weak",
-        "source": "Finance & economics",
-        "published": "Thu, 29 Jan 2026 10:00:51 +0000",
-        "published_dt": "2026-01-29T10:00:51+00:00",
-        "summary": "Newly alluring yields on Japanese bonds have not propped up the currency"
-      },
-      {
-        "id": "bb56418e3e196c96",
-        "title": "It isn\u2019t just Japan: Asia\u2019s other big currencies also look cheap",
-        "url": "https://www.economist.com/finance-and-economics/2026/01/29/it-isnt-just-japan-asias-other-big-currencies-also-look-cheap",
-        "source": "Finance & economics",
-        "published": "Thu, 29 Jan 2026 10:00:43 +0000",
-        "published_dt": "2026-01-29T10:00:43+00:00",
-        "summary": "Our latest quarterly order of burgernomics"
-      },
       {
         "id": "d68c913af775eeb1",
         "title": "Technology and Economic Development -- by Daron Acemoglu, Ufuk Akcigit, Simon Johnson",
@@ -680,26 +653,44 @@
         "published": "Wed, 26 Nov 2025 16:30:42 +0000",
         "published_dt": "2025-11-26T16:30:42+00:00",
         "summary": "Recent surveys point to flatlining business adoption"
+      },
+      {
+        "id": "40efde73b3b49b32",
+        "title": "How AI is breaking cover letters",
+        "url": "https://www.economist.com/finance-and-economics/2025/11/13/how-ai-is-breaking-cover-letters",
+        "source": "Finance & economics",
+        "published": "Thu, 13 Nov 2025 11:03:43 +0000",
+        "published_dt": "2025-11-13T11:03:43+00:00",
+        "summary": "And leading to lower pay"
+      },
+      {
+        "id": "779384d88eee776b",
+        "title": "What explains India\u2019s peculiar stability?",
+        "url": "https://www.economist.com/finance-and-economics/2025/11/06/what-explains-indias-peculiar-stability",
+        "source": "Finance & economics",
+        "published": "Thu, 06 Nov 2025 11:01:03 +0000",
+        "published_dt": "2025-11-06T11:01:03+00:00",
+        "summary": "In a tricky neighbourhood the country remains calm"
+      },
+      {
+        "id": "c9b65b0ffc7494fc",
+        "title": "Don\u2019t blame AI for your job woes",
+        "url": "https://www.economist.com/finance-and-economics/2025/11/06/dont-blame-ai-for-your-job-woes",
+        "source": "Finance & economics",
+        "published": "Thu, 06 Nov 2025 10:51:00 +0000",
+        "published_dt": "2025-11-06T10:51:00+00:00",
+        "summary": "The white-collar chill has more to do with the economy than with tech"
       }
     ],
     "Cross-Disciplinary": [
       {
-        "id": "a88df732babb08a4",
-        "title": "How the grid can ride out winter storms",
-        "url": "https://www.technologyreview.com/2026/01/29/1131863/grid-winter-storms/",
+        "id": "343266e061196ff3",
+        "title": "How the sometimes-weird world of lifespan extension is gaining influence",
+        "url": "https://www.technologyreview.com/2026/01/30/1131933/weird-world-lifespan-extension-gaining-influence-oneill-arpa-h/",
         "source": "MIT Technology Review",
-        "published": "Thu, 29 Jan 2026 11:00:00 +0000",
-        "published_dt": "2026-01-29T11:00:00+00:00",
-        "summary": "The eastern half of the US saw a monster snowstorm over the weekend. The good news is the grid has largely been able to keep up with the freezing temperatures and increased demand. But there were some signs of strain, particularly for fossil-fuel plants. One analysis found that PJM, the nation\u2019s largest grid operator, saw&#8230;"
-      },
-      {
-        "id": "98381b5b1c46e883",
-        "title": "Meet the Vitalists: the hardcore longevity enthusiasts who believe death is \u201cwrong\u201d",
-        "url": "https://www.technologyreview.com/2026/01/29/1131815/vitalism-longevity-enthusiasts-influence/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 29 Jan 2026 10:00:00 +0000",
-        "published_dt": "2026-01-29T10:00:00+00:00",
-        "summary": "\u201cWho here believes involuntary death is a good thing?\u201d&#160; Nathan Cheng has been delivering similar versions of this speech over the last couple of years, so I knew what was coming. He was about to try to convince the 80 or so people in the audience that death is bad. And that defeating it should&#8230;"
+        "published": "Fri, 30 Jan 2026 10:00:00 +0000",
+        "published_dt": "2026-01-30T10:00:00+00:00",
+        "summary": "For the last couple of years, I\u2019ve been following the progress of a group of individuals who believe death is humanity\u2019s \u201ccore problem.\u201d Put simply, they say death is wrong\u2014for everyone. They\u2019ve even said it\u2019s morally wrong. They established what they consider a new philosophy, and\u00a0they called it Vitalism. Vitalism is more than a philosophy,&#8230;"
       },
       {
         "id": "9a364639bedd3462",
@@ -837,6 +828,51 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-man-wearing-a-head-to-toe-suit-posing-for-a-photo-and-displaying-the-strapping-system-that-connects-his-cloves-to-his-jacket.jpg?id=62695027&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p><strong>In 2018, Justin Kropp</strong> was working on a transmission circuit in Southern California when disaster struck. Grid operators had earlier shut down the 115-kilovolt circuit, but six high-voltage lines that shared the corridor were still operating, and some of their power snuck onto the deenergized wires he was working on. That rogue current shot to the ground through Kropp\u2019s body and his elevated work platform, killing the 32-year-old father of two.</p><p>\u201cIt went in both of his hands and came out his stomach, where he was leaning against the platform rail,\u201d says Justin\u2019s father, <a href=\"https://www.linkedin.com/in/barry-kropp-65140676/\" target=\"_blank\">Barry Kropp</a>, who is himself a retired line worker. \u201cJustin got hung up on the wire. When they finally got him on the ground, it was too late.\u201d</p><p class=\"shortcode-media shortcode-media-youtube\"> <span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span><small class=\"image-media media-caption\">Budapest-based Electrostatics makes conductive suits that protect line workers from unexpected current. </small><small class=\"image-media media-photo-credit\">Electrostatics </small></p><p>Justin\u2019s accident was caused by induction: a hazard that occurs when an electric or magnetic field causes current to flow through equipment whose intended power supply has been cut off. Safety practices seek to prevent such induction shocks by grounding all conductive objects in a work zone, giving electricity alternative paths. But accidents happen. In Justin\u2019s case, his platform unexpectedly swung into the line before it could be grounded.</p><h2>Conductive Suits Protect Line Workers</h2><p>Adding a layer of defense against induction injuries is the motivation behind Budapest-based <a href=\"https://www.linkedin.com/company/electrostatics/?originalSubdomain=hu\" target=\"_blank\">Electrostatics\u2019</a> specialized conductive jumpsuits, which are designed to protect against burns, cardiac fibrillation, and other ills. \u201cIf my boy had been wearing one, I know he\u2019d be alive today,\u201d says the elder Kropp, who purchased a line-worker safety training business after Justin\u2019s death. The Mesa, Ariz.\u2013based company, Electrical Safety Consulting International (<a href=\"https://esci.net/\" target=\"_blank\">ESCI</a>), now distributes those suits.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"The lower half of a man\\u2019s legs clothed in pants and socks that are connected by straps \" class=\"rm-shortcode\" id=\"17b47\" src=\"https://spectrum.ieee.org/media-library/the-lower-half-of-a-man-u2019s-legs-clothed-in-pants-and-socks-that-are-connected-by-straps.jpg?id=62695049&amp;width=980\" /><small class=\"image-media media-caption\">Conductive socks that are connected to the trousers complete the protective suit. </small><small class=\"image-media media-photo-credit\">BME HVL </small></p><p><a href=\"https://www.linkedin.com/in/eduardo-ramirez-bettoni-2070a345/\" target=\"_blank\">Eduardo Ramirez Bettoni</a>, one of the developers of the suits, dug into induction risk after a series of major accidents in the United States in 2017 and 2018, including Justin Kropp\u2019s. At the time, he was principal engineer for transmission and substation standards at Minneapolis-based <a href=\"https://corporate.my.xcelenergy.com/s/\" target=\"_blank\">Xcel Energy</a>. In talking to Xcel line workers and fellow safety engineers, he sensed that the accident cluster might be the tip of an iceberg. And when he and two industry colleagues scoured data from the U.S. Bureau of Labor Statistics, they found 81 induction accidents between 1985 and 2021 and 60 deaths, which they documented in <a href=\"https://ieeexplore.ieee.org/document/9925039\" target=\"_blank\">a 2022 report</a>.</p><p>\u201cUnfortunately, it is really common. I would say there are hundreds of induction contacts every year in the United States alone,\u201d says Ramirez Bettoni, who is now technical director of R&amp;D for the Houston-based power-distribution equipment firm <a href=\"https://www.powellind.com/\" target=\"_blank\">Powell Industries</a>. He bets that such \u201ccontacts\u201d\u2014exposures to dangerous levels of induction\u2014are increasing as grid operators <a href=\"https://spectrum.ieee.org/grid-congestion-uk\" target=\"_self\">boost grid capacity</a> by <a href=\"https://spectrum.ieee.org/dynamic-line-rating-grid-congestion\" target=\"_self\">squeezing additional circuits</a> into transmission corridors.</p><h3></h3><br /><div class=\"rblad-ieee_in_content\"></div><p>Electrostatics\u2019 suits are an enhancement of the standard protective gear that line workers wear when their tasks involve working close to or even touching energized live lines, or \u201cbare-hands\u201d work. Both are interwoven with conductive materials such as stainless steel threads, which form a Faraday cage that shields the wearer against the lines\u2019 electric fields. But the standard suits have limited capacity to shunt current because usually they don\u2019t need to. Like a bird on a wire, bare-hands workers are electrically floating, rather than grounded, so current largely bypasses them via the line itself.</p><h2>Induction Safety Suit Design</h2><p>Backed by a US $250,000 investment from Xcel in 2019, Electrostatics adapted its standard suits by adding low-resistance conductive straps that pass current around a worker\u2019s body. \u201cWhen I\u2019m touching a conductor with one hand and the other hand is grounded, the current will flow through the straps to get out,\u201d says <a href=\"http://linkedin.com/in/n%25C3%25A9meth-b%25C3%25A1lint-1a366586?originalSubdomain=hu\" target=\"_blank\">B\u00e1lint N\u00e9meth</a>, Electrostatics\u2019 CEO and director of the <a href=\"https://nfl.vet.bme.hu/en/\" target=\"_blank\">High Voltage Laboratory</a> at Budapest University of Technology and Economics.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"A man holds one side of his jacket open revealing conductive straps inside.  \" class=\"rm-shortcode\" id=\"c7b7c\" src=\"https://spectrum.ieee.org/media-library/a-man-holds-one-side-of-his-jacket-open-revealing-conductive-straps-inside.jpg?id=62695052&amp;width=980\" /><small class=\"image-media media-caption\">A strapping system links all the elements of the suit\u2014the jacket, trousers, gloves, and socks\u2014and guides current through a controlled path outside the body. </small><small class=\"image-media media-photo-credit\">BME HVL </small></p><p>The company began selling the suits in 2023, and they have since been adopted by over a dozen transmission operators in the United States and Europe, as well as other countries including Canada, Indonesia, and Turkey. They cost about $5,200 in the United States.</p><p>Electrostatics\u2019 suits had to meet a crucial design threshold: keeping body exposure below the 6-milliampere \u201clet-go\u201d threshold, beyond which electrocuted workers become unable to remove themselves from a circuit. \u201cIf you lose control of your muscles, you\u2019re going to hold onto the conductor until you pass out or possibly die,\u201d says Ramirez Bettoni.</p><p>The gear, which includes the suit, gloves, and socks, protects against 100 amperes for 10 seconds and 50 A for 30 seconds. It also has insulation to protect against heat created by high current and flame retardants to protect against electric arcs.</p><p>Kropp, N\u00e9meth, and Ramirez Bettoni are hoping that developing industry standards for induction safety gear, including <a href=\"https://knowledge.bsigroup.com/products/standard-performance-specification-for-conductive-clothing-for-industry-applications\" target=\"_blank\">ones published in October</a>, will broaden their use. Meanwhile, the recently enacted <a href=\"https://autl.assembly.ca.gov/system/files/2025-03/ab-365-schiavo.pdf\" target=\"_blank\">Justin Kropp Safety Act</a> in California, for which the elder Kropp lobbied, mandates automated defibrillators at power-line work sites. <span class=\"ieee-end-mark\"></span></p><p><span><em>This article was updated on 14 January 2026.</em></span></p>"
       },
       {
+        "id": "604bf9a81c5b6fbb",
+        "title": "The AI Hype Index: Grok makes porn, and Claude Code nails your job",
+        "url": "https://www.technologyreview.com/2026/01/29/1131787/the-ai-hype-index-grok-makes-porn-claude-code-nails-your-job/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 29 Jan 2026 20:56:23 +0000",
+        "published_dt": "2026-01-29T20:56:23+00:00",
+        "summary": "Everyone is panicking because AI is very bad; everyone is panicking because AI is very good. It\u2019s just that you never know which one you\u2019re going to get. Grok is a pornography machine. Claude Code can do anything from building websites to reading your MRI. So of course Gen Z is spooked by what this&#8230;"
+      },
+      {
+        "id": "af96303a30e03aaf",
+        "title": "DHS is using Google and Adobe AI to make videos",
+        "url": "https://www.technologyreview.com/2026/01/29/1131938/dhs-is-using-google-and-adobe-ai-to-make-videos/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 29 Jan 2026 18:57:11 +0000",
+        "published_dt": "2026-01-29T18:57:11+00:00",
+        "summary": "The US Department of Homeland Security is using AI video generators from Google and Adobe to make and edit content shared with the public, a new document reveals. It comes as immigration agencies have flooded social media with content to support President Trump&#8217;s mass deportation agenda\u2014some of which appears to be made with AI\u2014and as&#8230;"
+      },
+      {
+        "id": "6bb40bc4d264a9a4",
+        "title": "The Download: inside the Vitalism movement, and why AI\u2019s \u201cmemory\u201d is a privacy problem",
+        "url": "https://www.technologyreview.com/2026/01/29/1131925/the-download-inside-the-vitalism-movement-and-why-ais-memory-is-a-privacy-problem/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 29 Jan 2026 13:10:00 +0000",
+        "published_dt": "2026-01-29T13:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the Vitalists: the hardcore longevity enthusiasts who believe death is \u201cwrong\u201d Last April, an excited crowd gathered at a compound in Berkeley, California, for a three-day event called the Vitalist Bay Summit.&#8230;"
+      },
+      {
+        "id": "a88df732babb08a4",
+        "title": "How the grid can ride out winter storms",
+        "url": "https://www.technologyreview.com/2026/01/29/1131863/grid-winter-storms/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 29 Jan 2026 11:00:00 +0000",
+        "published_dt": "2026-01-29T11:00:00+00:00",
+        "summary": "The eastern half of the US saw a monster snowstorm over the weekend. The good news is the grid has largely been able to keep up with the freezing temperatures and increased demand. But there were some signs of strain, particularly for fossil-fuel plants. One analysis found that PJM, the nation\u2019s largest grid operator, saw&#8230;"
+      },
+      {
+        "id": "98381b5b1c46e883",
+        "title": "Meet the Vitalists: the hardcore longevity enthusiasts who believe death is \u201cwrong\u201d",
+        "url": "https://www.technologyreview.com/2026/01/29/1131815/vitalism-longevity-enthusiasts-influence/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 29 Jan 2026 10:00:00 +0000",
+        "published_dt": "2026-01-29T10:00:00+00:00",
+        "summary": "\u201cWho here believes involuntary death is a good thing?\u201d&#160; Nathan Cheng has been delivering similar versions of this speech over the last couple of years, so I knew what was coming. He was about to try to convince the 80 or so people in the audience that death is bad. And that defeating it should&#8230;"
+      },
+      {
         "id": "36726f4b0037f5d0",
         "title": "Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear",
         "url": "https://www.technologyreview.com/2026/01/28/1131340/roundtables-why-ai-companies-are-betting-on-next-gen-nuclear/",
@@ -871,42 +907,6 @@
         "published": "Wed, 28 Jan 2026 14:57:37 +0000",
         "published_dt": "2026-01-28T14:57:37+00:00",
         "summary": "The ability to remember you and your preferences is rapidly becoming a big selling point for AI chatbots and agents.&#160; Earlier this month, Google announced Personal Intelligence, a new way for people to interact with the company\u2019s Gemini chatbot that draws on their Gmail, photos, search, and YouTube histories to make Gemini \u201cmore personal, proactive,&#8230;"
-      },
-      {
-        "id": "6fabdffb1cc6afe3",
-        "title": "Rules fail at the prompt, succeed at the boundary",
-        "url": "https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 28 Jan 2026 14:00:00 +0000",
-        "published_dt": "2026-01-28T14:00:00+00:00",
-        "summary": "From the Gemini Calendar prompt-injection attack of 2026 to the September 2025 state-sponsored hack using Anthropic\u2019s Claude code as an automated intrusion engine, the coercion of human-in-the-loop agentic actions and fully autonomous agentic workflows are the new attack vector for hackers. In the Anthropic case, roughly 30 organizations across tech, finance, manufacturing, and government were&#8230;"
-      },
-      {
-        "id": "5fe8e3a306f38ead",
-        "title": "The Download: A bid to treat blindness, and bridging the internet divide",
-        "url": "https://www.technologyreview.com/2026/01/28/1131830/the-download-a-bid-to-treat-blindness-and-bridging-the-internet-divide/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 28 Jan 2026 13:10:00 +0000",
-        "published_dt": "2026-01-28T13:10:00+00:00",
-        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The first human test of a rejuvenation method will begin \u201cshortly\u201d Life Biosciences, a small Boston startup founded by Harvard professor and life-extension evangelist David Sinclair, has won FDA approval to proceed with&#8230;"
-      },
-      {
-        "id": "475cdc68845dfe3a",
-        "title": "The first human test of a rejuvenation method will begin \u201cshortly\u201d",
-        "url": "https://www.technologyreview.com/2026/01/27/1131796/the-first-human-test-of-a-rejuvenation-method-will-begin-shortly/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 27 Jan 2026 18:08:19 +0000",
-        "published_dt": "2026-01-27T18:08:19+00:00",
-        "summary": "When Elon Musk was at Davos last week, an interviewer asked him if he thought aging could be reversed. Musk said he hasn\u2019t put much time into the problem but suspects it is \u201cvery solvable\u201d and that when scientists discover why we age, it\u2019s going to be something \u201cobvious.\u201d Not long after, the Harvard professor&#8230;"
-      },
-      {
-        "id": "a83064ed7b499cd7",
-        "title": "OpenAI\u2019s latest product lets you vibe code science",
-        "url": "https://www.technologyreview.com/2026/01/27/1131793/openais-latest-product-lets-you-vibe-code-science/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 27 Jan 2026 18:00:43 +0000",
-        "published_dt": "2026-01-27T18:00:43+00:00",
-        "summary": "OpenAI just revealed what its new in-house team, OpenAI for Science, has been up to. The firm has released a free LLM-powered tool for scientists called Prism, which embeds ChatGPT in a text editor for writing scientific papers. The idea is to put ChatGPT front and center inside software that scientists use to write up&#8230;"
       }
     ]
   }
