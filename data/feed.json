@@ -1,7 +1,97 @@
 {
-  "generated_at": "2026-02-08T13:03:53.177937+00:00",
+  "generated_at": "2026-02-09T13:23:54.572883+00:00",
   "categories": {
     "Biotech": [
+      {
+        "id": "8a3234bdd7616228",
+        "title": "STAT+: Biotech doubles financing in quest to silence genes behind neurological diseases",
+        "url": "https://www.statnews.com/2026/02/09/aerska-therapeutics-biotech-financing/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 09 Feb 2026 13:00:00 +0000",
+        "published_dt": "2026-02-09T13:00:00+00:00",
+        "summary": "Aerska Therapeutics, a startup developing treatments to silence the problematic genes that cause various brain diseases, has raised $39 million in financing."
+      },
+      {
+        "id": "9caf7789bc8d5cc9",
+        "title": "The Download: what Moltbook tells us about AI hype, and the rise and rise of AI therapy",
+        "url": "https://www.technologyreview.com/2026/02/09/1132498/the-download-what-moltbook-tells-us-about-ai-hype-and-the-rise-and-rise-of-ai-therapy/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 09 Feb 2026 13:10:00 +0000",
+        "published_dt": "2026-02-09T13:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Moltbook was peak AI theater For a few days recently, the hottest new hangout on the internet was a vibe-coded Reddit clone called Moltbook, which billed itself as a social network for bots.&#8230;"
+      },
+      {
+        "id": "e5251030bb4d7ec0",
+        "title": "STAT+: Eli Lilly to buy Orna Therapeutics for $2.4 billion",
+        "url": "https://www.statnews.com/2026/02/09/eli-lilly-buys-orna-therapeutics-in-vivo-car-t/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 09 Feb 2026 12:00:00 +0000",
+        "published_dt": "2026-02-09T12:00:00+00:00",
+        "summary": "Eli Lilly to buy Orna Therapeutics, which focuses on \u2018in vivo\u2019 CAR-T for autoimmune diseases, for $2.4 billion"
+      },
+      {
+        "id": "c29fcd4719441969",
+        "title": "STAT+: Novo Nordisk sues Hims & Hers for infringing on a key Wegovy patent",
+        "url": "https://www.statnews.com/pharmalot/2026/02/09/novo-sues-hims-infringing-wegovy-patent-obesity/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 09 Feb 2026 12:00:00 +0000",
+        "published_dt": "2026-02-09T12:00:00+00:00",
+        "summary": "Novo Nordisk sues Hims &#38; Hers for infringing on a key Wegovy patent."
+      },
+      {
+        "id": "97bac1128228e2c1",
+        "title": "Making AI Work, MIT Technology Review\u2019s new AI newsletter, is here",
+        "url": "https://www.technologyreview.com/2026/02/09/1132462/ai-newsletter-professional-applications/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 09 Feb 2026 11:30:00 +0000",
+        "published_dt": "2026-02-09T11:30:00+00:00",
+        "summary": "For years, our newsroom has explored AI\u2019s limitations and potential dangers, as well as its growing energy needs. And our reporters have looked closely at how generative tools are being used for tasks such as coding and running scientific experiments.&#160; But how is AI actually being used in fields like health care, climate tech, education,&#8230;"
+      },
+      {
+        "id": "8d9e0c538d0e193f",
+        "title": "Opinion: How the Centers for Medicare and Medicaid Services became the shining light of Trump\u2019s second term",
+        "url": "https://www.statnews.com/2026/02/09/cms-medicare-medicaid-second-trump-administration/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 09 Feb 2026 09:30:00 +0000",
+        "published_dt": "2026-02-09T09:30:00+00:00",
+        "summary": "There is plenty of bad coming out of the federal government on health care. CMS is the exception, write Ezekiel J. Emanuel and Merjan L. Ozisik."
+      },
+      {
+        "id": "af369d182408a59a",
+        "title": "STAT+: Federal government turns to fresher data to rein in Medicare Advantage upcoding",
+        "url": "https://www.statnews.com/2026/02/09/medicare-advantage-new-cms-risk-scores-target-insurer-upcoding/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 09 Feb 2026 09:30:00 +0000",
+        "published_dt": "2026-02-09T09:30:00+00:00",
+        "summary": "CMS is taking a new approach to limit one of the ways insurers are boosting profits in Medicare Advantage."
+      },
+      {
+        "id": "b2b55df57bab5b0f",
+        "title": "Opinion: STAT+: If you have Alzheimer\u2019s disease, who will take part in your care?",
+        "url": "https://www.statnews.com/2026/02/09/dementia-who-will-take-part-in-care/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 09 Feb 2026 09:30:00 +0000",
+        "published_dt": "2026-02-09T09:30:00+00:00",
+        "summary": "Doctors working with patients with Alzheimer\u2019s and other causes of dementia must ask: Who will take part in your care?"
+      },
+      {
+        "id": "e824a06582dfeead",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-unveils-data-behind-btk-inhibitors-phase-3-multiple-sclerosis-win\" hreflang=\"en\">Roche unveils data behind BTK inhibitor's phase 3 multiple sclerosis win in Ocrevus trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-unveils-data-behind-btk-inhibitors-phase-3-multiple-sclerosis-win",
+        "source": "Fierce Biotech",
+        "published": "Feb 9, 2026 5:17am",
+        "published_dt": "2026-02-09T05:17:00+00:00",
+        "summary": "Roche has shared the numbers behind its phase 3 win in primary progressive multiple sclerosis, linking its BTK inhibitor to a 12% reduction in the risk of disability progression compared to Ocrevus."
+      },
+      {
+        "id": "a38dd500c7a76f07",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-innovent-pen-88b-collab-moves-beyond-traditional-licensing\" hreflang=\"en\">Lilly, Innovent pen $8.8B oncology, immunology collab that 'moves beyond traditional licensing'</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-innovent-pen-88b-collab-moves-beyond-traditional-licensing",
+        "source": "Fierce Biotech",
+        "published": "Feb 9, 2026 4:15am",
+        "published_dt": "2026-02-09T04:15:00+00:00",
+        "summary": "Eli Lilly is heading back to its regular Chinese collaborator Innovent with $350 million in upfront cash to collaborate on new meds for patients with cancer or immune disorders."
+      },
       {
         "id": "146a9da8246b2f78",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/uniqure-pauses-fabry-gene-therapy-dosing-2-groups-after-toxicities-emerge\" hreflang=\"en\">UniQure pauses Fabry gene therapy dosing in 2 groups after toxicities emerge </a>",
@@ -10,15 +100,6 @@
         "published": "Feb 6, 2026 10:56am",
         "published_dt": "2026-02-06T10:56:00+00:00",
         "summary": "Two dose-limiting toxicities have been recorded in uniQure\u2019s trial evaluating an investigational AAV gene therapy designed to treat the rare condition Fabry disease."
-      },
-      {
-        "id": "be0f1c98856c3f8a",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-drops-3-pipeline-drugs-including-gene-therapy-1b-prevail-buyout\" hreflang=\"en\">Lilly drops 3 pipeline drugs, including gene therapy from $1B Prevail buyout</a>",
-        "url": "https://www.fiercebiotech.com/biotech/lilly-drops-3-pipeline-drugs-including-gene-therapy-1b-prevail-buyout",
-        "source": "Fierce Biotech",
-        "published": "Feb 4, 2026 11:40am",
-        "published_dt": "2026-02-04T11:40:00+00:00",
-        "summary": "As Eli Lilly awaits an FDA approval decision for its oral GLP-1 orforglipron, the pharma has discarded three clinical-stage drugs, including a gene therapy from its $1 billion acquisition of Prevail Therapeutics."
       },
       {
         "id": "255a23ffa656fb4c",
@@ -37,24 +118,6 @@
         "published": "Fri, 06 Feb 2026 14:19:12 +0000",
         "published_dt": "2026-02-06T14:19:12+00:00",
         "summary": "And other biotech news brought to you by The Readout"
-      },
-      {
-        "id": "238fa112a9d58028",
-        "title": "STAT+: Roivant immune drug significantly outperformed placebo in treating rare skin disease",
-        "url": "https://www.statnews.com/2026/02/06/roivant-immune-drug-significantly-outperformed-placebo-in-treating-rare-skin-disease/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 06 Feb 2026 12:00:00 +0000",
-        "published_dt": "2026-02-06T12:00:00+00:00",
-        "summary": "In a small trial, Roivant's immune drug significantly outperformed placebo in clearing lesions caused by a rare skin disease."
-      },
-      {
-        "id": "507a11fbb2251d5c",
-        "title": "Opinion: Former FDA commissioner: HHS leadership is focused on policy-based evidence, not evidence-based policy",
-        "url": "https://www.statnews.com/2026/02/06/acip-vaccines-show-hhs-leadership-failures-robert-califf-says/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 06 Feb 2026 09:30:00 +0000",
-        "published_dt": "2026-02-06T09:30:00+00:00",
-        "summary": "\u201cDoctors are not a flock of free-range chickens wandering about offices and hospitals and making up best practices, one clinician at the time,\u201d writes Robert Califf."
       },
       {
         "id": "b909c1fb7650c4cf",
@@ -93,13 +156,22 @@
         "summary": "By signing a government funding bill that ended a partial shutdown, President Donald Trump has also reauthorized a beloved program meant to speed the development of new drugs for rare childhood diseases."
       },
       {
-        "id": "6bc1d3a6247a2863",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-hit-quality-violations-fda-over-freestyle-libre-cgm-products\" hreflang=\"en\">FDA demands better response from Abbott over Libre inspection violations </a>",
-        "url": "https://www.fiercebiotech.com/medtech/abbott-hit-quality-violations-fda-over-freestyle-libre-cgm-products",
+        "id": "1e876988078110a2",
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/data-multiplier-effect-when-expertise-monitoring-systems-and-ai-align\" hreflang=\"en\">The Data Multiplier Effect: When Expertise, Monitoring, Systems, and AI Align</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/data-multiplier-effect-when-expertise-monitoring-systems-and-ai-align",
         "source": "Fierce Biotech",
-        "published": "Feb 4, 2026 3:14am",
-        "published_dt": "2026-02-04T03:14:00+00:00",
-        "summary": "Abbott has been hit with a slew of complaints from the FDA in a warning letter related to its continuous glucose monitor franchise, FreeStyle Libre."
+        "published": "Feb 3, 2026 1:36pm",
+        "published_dt": "2026-02-03T13:36:00+00:00",
+        "summary": "Trial oversight is shifting from reactive checks to continuous signal detection. Here\u2019s the framework sponsors are adopting now."
+      },
+      {
+        "id": "803244720cdf5d0d",
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/how-ai-reshaping-clinical-trials-and-market-access\" hreflang=\"en\">How AI Is reshaping clinical trials and market access</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/how-ai-reshaping-clinical-trials-and-market-access",
+        "source": "Fierce Biotech",
+        "published": "Feb 2, 2026 11:59am",
+        "published_dt": "2026-02-02T11:59:00+00:00",
+        "summary": "H1 CEO Ariel Katz shares how AI, regulation and pricing shifts are changing clinical trials and commercialization."
       },
       {
         "id": "9c36efe568328e33",
@@ -129,8 +201,8 @@
         "summary": "\u201cAs a scientist, I am disgusted. As an NFL widow who witnessed unimaginable suffering, I am furious,\u201d writes Eleanor M. Perfetto."
       },
       {
-        "id": "5ce4d812dd1a0bb0",
-        "title": "STAT+: TrumpRx claims to offer the lowest prices. But many drugs have cheaper generics",
+        "id": "bb6d9390e5850693",
+        "title": "TrumpRx claims to offer the lowest prices. But many drugs have cheaper generics",
         "url": "https://www.statnews.com/2026/02/06/trumprx-discount-drug-website-undercut-by-cheaper-generics/?utm_campaign=rss",
         "source": "STAT",
         "published": "Fri, 06 Feb 2026 22:59:52 +0000",
@@ -154,81 +226,36 @@
         "published": "Fri, 06 Feb 2026 19:27:48 +0000",
         "published_dt": "2026-02-06T19:27:48+00:00",
         "summary": "As the new director of ARPA-H, Alicia Jackson, takes over the DARPA-inspired agency, layoffs are made."
-      },
-      {
-        "id": "88a061a947c3610b",
-        "title": "China criticizes U.S. for WHO pullout, accusing it of sidestepping international law",
-        "url": "https://www.statnews.com/2026/02/06/china-criticizes-us-withdrawal-from-who/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 06 Feb 2026 18:44:30 +0000",
-        "published_dt": "2026-02-06T18:44:30+00:00",
-        "summary": "China criticized the United States for withdrawing from the WHO, saying countries should not place domestic politics ahead of international law."
-      },
-      {
-        "id": "25f9c30936e1f2f5",
-        "title": "STAT+: White House looks for more drug pricing deals to add to TrumpRx",
-        "url": "https://www.statnews.com/2026/02/06/white-house-wants-more-pharma-companies-on-trumprx/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 06 Feb 2026 18:36:05 +0000",
-        "published_dt": "2026-02-06T18:36:05+00:00",
-        "summary": "The Trump administration wants more companies to offer prescription drugs at discounted cash prices on TrumpRx."
-      },
-      {
-        "id": "673515df08b0911c",
-        "title": "STAT+: A sign biotech is back? Four drugmakers go public, raising nearly $1 billion in all",
-        "url": "https://www.statnews.com/2026/02/06/biotech-ipos-public-offerings-eikon/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 06 Feb 2026 17:20:54 +0000",
-        "published_dt": "2026-02-06T17:20:54+00:00",
-        "summary": "The biotech IPO, a nearly forgotten vestige of the startup playbook, has returned in full force."
-      },
-      {
-        "id": "9e83e9aa63cb3723",
-        "title": "Moltbook was peak AI theater",
-        "url": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 06 Feb 2026 16:38:11 +0000",
-        "published_dt": "2026-02-06T16:38:11+00:00",
-        "summary": "For a few days this week the hottest new hangout on the internet was a vibe-coded Reddit clone called Moltbook, which billed itself as a social network for bots. As the website\u2019s tagline puts it: \u201cWhere AI agents share, discuss, and upvote. Humans welcome to observe.\u201d We observed! Launched on January 28 by Matt Schlicht,&#8230;"
-      },
-      {
-        "id": "663951d4cb3a1dac",
-        "title": "STAT+: Up and down the ladder: The latest comings and goings",
-        "url": "https://www.statnews.com/pharmalot/2026/02/06/pharma-biotech-jobs-astrazeneca-novo/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 06 Feb 2026 16:11:36 +0000",
-        "published_dt": "2026-02-06T16:11:36+00:00",
-        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-      },
-      {
-        "id": "4e693e187626ef77",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about TrumpRx, Hims & Hers selling compounded Wegovy pill, and more",
-        "url": "https://www.statnews.com/pharmalot/2026/02/06/trump-hims-wegovy-novo-obesity-cvs-340b-fda/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 06 Feb 2026 14:21:32 +0000",
-        "published_dt": "2026-02-06T14:21:32+00:00",
-        "summary": "President Trump on Thursday night launched TrumpRx, the website he and his aides have touted as a platform aimed at lowering drug prices"
-      },
-      {
-        "id": "e8afd80b00f8f014",
-        "title": "What is a \u2018natural\u2019 dye, anyway?",
-        "url": "https://www.statnews.com/2026/02/06/health-news-what-even-is-a-natural-dye/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 06 Feb 2026 13:56:28 +0000",
-        "published_dt": "2026-02-06T13:56:28+00:00",
-        "summary": "And other health news from today's Morning Rounds newsletter"
-      },
-      {
-        "id": "947783d6220da7f0",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/genentech-cut-least-489-jobs-last-year-new-disclosure-reveals\" hreflang=\"en\">Roche\u2019s Genentech cut at least 489 jobs last year, new disclosure reveals</a>",
-        "url": "https://www.fiercebiotech.com/biotech/genentech-cut-least-489-jobs-last-year-new-disclosure-reveals",
-        "source": "Fierce Biotech",
-        "published": "Feb 6, 2026 1:23pm",
-        "published_dt": "2026-02-06T13:23:00+00:00",
-        "summary": "On top of 348 known job cuts across the organization last year, Genentech laid off an additional 141 staffers last August that are just now being disclosed."
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "8b65207ddd64a532",
+        "title": "Aras adds new engineering and product leaders to executive team",
+        "url": "https://www.engineering.com/aras-adds-new-engineering-and-product-leaders-to-executive-team/",
+        "source": "Engineering.com",
+        "published": "Mon, 09 Feb 2026 09:39:00 +0000",
+        "published_dt": "2026-02-09T09:39:00+00:00",
+        "summary": "<p>The appointments focus on scaling SaaS delivery and advancing AI-driven PLM development as Aras expands its product and cloud strategy.</p>\n<p>The post <a href=\"https://www.engineering.com/aras-adds-new-engineering-and-product-leaders-to-executive-team/\">Aras adds new engineering and product leaders to executive team</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "f4ea3177f74165c9",
+        "title": "U.S. electric aircraft makers hope eIPP program will help \u2018demystify\u2019 their tech",
+        "url": "https://aerospaceamerica.aiaa.org/u-s-electric-aircraft-makers-hope-eipp-program-will-help-demystify-their-tech/",
+        "source": "Aerospace America",
+        "published": "Mon, 09 Feb 2026 09:06:00 +0000",
+        "published_dt": "2026-02-09T09:06:00+00:00",
+        "summary": ""
+      },
+      {
+        "id": "0abca987a18bd47f",
+        "title": "STMicroelectronics expands strategic semiconductor partnership with AWS",
+        "url": "https://www.engineering.com/stmicroelectronics-expands-strategic-semiconductor-partnership-with-aws/",
+        "source": "Engineering.com",
+        "published": "Mon, 09 Feb 2026 08:47:00 +0000",
+        "published_dt": "2026-02-09T08:47:00+00:00",
+        "summary": "<p>The multi-year agreement positions ST as a key supplier for AWS data center infrastructure, supporting high-bandwidth connectivity, power efficiency and cloud-based EDA workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/stmicroelectronics-expands-strategic-semiconductor-partnership-with-aws/\">STMicroelectronics expands strategic semiconductor partnership with AWS</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
       {
         "id": "bbb4f2bd252d6fac",
         "title": "Stratasys launches SAF PA12 qualification program for aerospace use",
@@ -426,71 +453,17 @@
         "published": "Fri, 06 Feb 2026 12:00:00 +0000",
         "published_dt": "2026-02-06T12:00:00+00:00",
         "summary": "<figure><img alt=\"SLS/Orion 2026 Feb 2\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/art2-20260202.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Depending on when you read this, NASA will be weeks \u2014 perhaps days \u2014 from one of its biggest missions in years. On Jan. 17, NASA rolled out the Space Launch System rocket, with Orion spacecraft mounted on top, to the launch pad for the Artemis 2 mission. The launch will be the first time [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/over-the-moon-and-under-the-radar/\">Over the moon and under the radar</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "4f7a9c3b92551a96",
-        "title": "China set for in-flight abort test of Mengzhou crew spacecraft",
-        "url": "https://spacenews.com/china-set-for-in-flight-abort-test-of-mengzhou-crew-spacecraft/",
-        "source": "SpaceNews",
-        "published": "Fri, 06 Feb 2026 10:12:21 +0000",
-        "published_dt": "2026-02-06T10:12:21+00:00",
-        "summary": "<figure><img alt=\"China\u2019s Mengzhou crew spacecraft launches away from the pad during a successful pad abort test at Jiuquan Satellite Launch Center on June 17, 2025, with plumes of smoke and dust rising from the desert launch site.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"677\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/Mengzhou-pad-abort-test-17june2025-CMSEO.jpg?fit=1024%2C677&amp;ssl=1\" width=\"1024\" /></figure>\n<p>China appears set for an in-flight abort test of its new-generation Mengzhou spacecraft next week in a key step for the country\u2019s human spaceflight plans.</p>\n<p>The post <a href=\"https://spacenews.com/china-set-for-in-flight-abort-test-of-mengzhou-crew-spacecraft/\">China set for in-flight abort test of Mengzhou crew spacecraft</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "b39efa4b7cd546ae",
-        "title": "CoreWeave introduces ARENA for production-scale AI workload testing",
-        "url": "https://www.engineering.com/coreweave-introduces-arena-for-production-scale-ai-workload-testing/",
-        "source": "Engineering.com",
-        "published": "Fri, 06 Feb 2026 09:41:00 +0000",
-        "published_dt": "2026-02-06T09:41:00+00:00",
-        "summary": "<p>The platform lets teams benchmark AI workloads on production-grade infrastructure to assess performance and cost before deployment.</p>\n<p>The post <a href=\"https://www.engineering.com/coreweave-introduces-arena-for-production-scale-ai-workload-testing/\">CoreWeave introduces ARENA for production-scale AI workload testing</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "0e613e896e2b8e02",
-        "title": "Opentrons partners with NVIDIA to advance physical AI in labs",
-        "url": "https://www.engineering.com/opentrons-partners-with-nvidia-to-advance-physical-ai-in-labs/",
-        "source": "Engineering.com",
-        "published": "Fri, 06 Feb 2026 09:21:00 +0000",
-        "published_dt": "2026-02-06T09:21:00+00:00",
-        "summary": "<p>The collaboration uses NVIDIA Isaac and Cosmos to train AI models that connect simulation with real-world robotic lab execution.</p>\n<p>The post <a href=\"https://www.engineering.com/opentrons-partners-with-nvidia-to-advance-physical-ai-in-labs/\">Opentrons partners with NVIDIA to advance physical AI in labs</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       }
     ],
     "Economics": [
       {
-        "id": "e7ab72f11ce670c5",
-        "title": "Learning to Quit? A Multi-Year, Multi-Site Field Experiment with Innovation-Driven Entrepreneurs -- by Esther Bailey, Daniel Fehder, Eric Floyd, Yael Hochberg, Daniel J. Lee",
-        "url": "https://www.nber.org/papers/w34755#fromrss",
+        "id": "8bdb71bed85ab958",
+        "title": "The H-1B Wage Gap, Visa Fees, and Employer Demand -- by George J. Borjas",
+        "url": "https://www.nber.org/papers/w34793#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We use a randomized experiment with 553 science- and technology-based startups in 12 co-working spaces across the US to evaluate the effects of intensive, short-term entrepreneurial training programs on survival and performance for innovation-driven startups. Treated startups are more likely to shut down their businesses and do so sooner than control startups. Conditional on survival, however, treated startups are more likely to raise external funding for their ventures, raise funding faster, and raise more funding than the control group; they also exhibit higher employment and revenue. Treated founders are less likely to found a new startup after shutdown. Our findings are consistent with practitioner arguments that early entrepreneurship training interventions can help entrepreneurs with less viable ventures \u201crationally quit\u201d (\u201cfail fast\u201d). We use machine learning techniques (causal random forest) to provide exploratory insights on the most impacted subgroups."
-      },
-      {
-        "id": "ae0a66950fbe7530",
-        "title": "Mapping Technological Trajectories: Evidence from Two Centuries of Patent Data -- by Antonin Bergeaud, Ruveyda Nur Gozen, John Van Reenen",
-        "url": "https://www.nber.org/papers/w34760#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "We introduce a methodology to measure cross-country trends in innovation capability - \u201ctechnological trajectories\u201d and implement this on a new rich dataset covering patents between 1836 and 2016 across multiple countries. Intuitively, trajectories are revealed by a country\u2019s sustained increases in patenting across multiple patent offices. We first describe the data patterns, showing the relative decline of the UK, and the rise first of the US and Germany, and then later of Japan and China. We then econometrically estimate trajectories on (i) the post-1902 period for France, Germany, Japan, the UK and US, and (ii) the post-1960 period for a wider sample of 40 countries. Our trajectories are strongly positively correlated with Total Factor Productivity growth, and also (but less strongly) associated with the growth of labour productivity and capital intensity. We show that future trajectories are predicted by a country\u2019s initial levels of R&amp;D, education and defence spending, classic drivers of innovation in modern growth theory."
-      },
-      {
-        "id": "4674b4c253aeaa82",
-        "title": "The Life-cycle of Concentrated Industries -- by Martin Beraja, Francisco J. Buera",
-        "url": "https://www.nber.org/papers/w34770#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "Are competition policies designed for static industries suitable for innovative industries where dynamic competition for the market is key? If not, how should policies differ? We develop a model of the life-cycle of an oligopolistic industry: a version of Jovanovic and MacDonald (1994) with a finite number of firms. The equilibrium features a period of intense entry, followed by a shakeout and eventual industry concentration as some firms scale through innovation while most exit. We analyze the second-best problem of a government subsidizing small firms to promote competition. Innovation and dynamic competition do not necessarily justify intervention, as the equilibrium can still be second best. In general, the optimal policy depends on the nature of competition. Firms primarily compete for the market when innovation leads to large differences in scale. The government can wait to intervene in this case; committing to do whatever it takes to promote competition if and when the industry concentrates excessively. Subsidies early in the life-cycle are unnecessary. These results contrast with calls for aggressive ex-ante regulation in highly innovative industries, suggesting a wait-and-see approach may be preferable. We apply these insights to digital and AI industries in the U.S. using data on venture-backed firms."
-      },
-      {
-        "id": "ca54892018d6b126",
-        "title": "Enhancing Worker Productivity Without Automating Tasks: A Different Approach to AI and the Task-Based Model -- by Ajay K. Agrawal, John McHale, Alexander Oettl",
-        "url": "https://www.nber.org/papers/w34781#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "The task-based approach has become the dominant framework for studying the labor-market effects of artificial intelligence (AI), typically emphasizing the replacement of human workers by machines. Motivated by growing empirical evidence that contemporary AI is more often used as a tool that augments workers, this paper develops two related task-based models in which AI enhances worker productivity without automating tasks. Abstracting from capital, we develop a pair of related task-based models that examine how technological progress in AI that provides new tools to augment workers affects aggregate productivity and wage inequality. Both models emphasize the role of human capital in intermediating the effects of AI-related technological shocks. In the first model, AI use requires specialized expertise, and technological progress expands the set of tasks for which such expertise is effective. We show that a larger supply of AI expertise amplifies the productivity gains from improvements in AI technology while attenuating its adverse effects on wage inequality. The second model focuses on non-AI skills, allowing AI tools to alter the set of tasks that workers can perform given their skills. In equilibrium, workers allocate across tasks in response to wages, generating an endogenous distribution of skills across the task space. A central result is that aggregate productivity and wage inequality depend on different global properties of this equilibrium distribution: productivity is particularly sensitive to thinly staffed tasks that create bottlenecks, while wage inequality is driven by the concentration of workers in a narrow set of tasks. As a result, improvements in AI tools can induce non-monotonic co-movement between productivity and inequality. By linking these mechanisms to multidimensional human capital---including AI expertise and higher-order non-AI skills---the paper highlights the role of education and training policies in shaping the economic consequences of AI-driven technological change."
+        "summary": "The H-1B program lets firms hire high-skill foreign workers for a six-year term. The annual number of visas allocated to for-profit firms is capped at 85,000 and there is excess demand for those visas. The analysis merges data from the Labor Condition Application where firms attest that H-1B hires do not adversely impact natives, the I-129 Petition for a Nonimmigrant Worker where firms request to hire a specific person, and the American Community Surveys. On average, H-1B workers earn 16 percent less than comparable natives. The payroll savings suggest that firms may be willing to pay a one-time fee to obtain an H-1B visa. The data are examined using a labor demand model to simulate how a fee alters the hiring decision. Depending on the level of excess demand, the unobserved productivity gains or costs from an H-1B hire, and the rate of job separations, the revenue-maximizing fee is between $118,000 and $264,000, has little or no impact on the number of H-1Bs hired, and generates between $6.2 and $22.4 billion in revenues. The fee would also change the skill composition of the H-1B workforce, making it more skilled."
       },
       {
         "id": "8bd66e558ada2539",
@@ -502,49 +475,85 @@
         "summary": "Just consider what happens if inflation starts to rise again"
       },
       {
-        "id": "896fb56307051006",
-        "title": "Driving Innovation: The Policy Tools Powering Electric Vehicle Technological Inventions -- by Jingni Zhang, David Popp",
-        "url": "https://www.nber.org/papers/w34763#fromrss",
+        "id": "b9471e16b99a2e1d",
+        "title": "Geopolitics in the Evaluation of International Scientific Collaboration -- by Alexander C. Furnas, Ruixue Jia, Margaret E. Roberts, Dashun Wang",
+        "url": "https://www.nber.org/papers/w34789#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "Electric vehicles (EVs) are crucial for cutting transportation emissions, yet the policy drivers of EV innovation remain underexplored. This study analyzes firm-level panel data on EV and battery patents, covering more than 4,000 firms across 19 countries from 2010 to 2021, to assess how these policy tools and their interactions in different time horizons influence innovative activity. We test the effects of individual policy instruments that either raise demand for EVs or support the development of EV technologies.  Stringent fuel-economy standards, financial incentives, adoption targets, and public R&amp;D investments each significantly increase patenting in EV and battery technologies. Moreover, long-term EV targets amplify the innovative impact of public R&amp;D and standards while diminishing the marginal effect of short-term price signals. The results suggest that governments can accelerate clean automotive innovation by combining long-term adoption commitments with sustained R&amp;D investment or strong performance standards, and by managing these instruments as a coordinated policy portfolio rather than as separate tools. The study contributes cross-country, firm-level evidence that links policy design to the direction of clean technology innovation."
+        "summary": "This study provides evidence that geopolitical considerations systematically shape funding evaluations of international collaboration proposals. We examine this dynamic in the consequential context of U.S.\u2013China collaboration. Across two large-scale randomized experiments with U.S. policymakers and U.S.-based scientists, we find substantial and consistent penalties for proposals involving China-based collaborators. Policymakers express much greater unconditional support for proposals with Germany-based collaborators than for otherwise identical proposals with China-based collaborators (68% vs. 28%). Crucially, this penalty is not confined to policymakers: scientists themselves exhibit a sizeable 18 percentage-point gap (48% vs. 30%), despite professional expectations of merit-based evaluation. Much of the difference reflects a shift from unconditional to conditional approval rather than outright rejection. These penalties are remarkably consistent across scientific fields and respondent characteristics, with little evidence of heterogeneity, indicating that they reflect geopolitical rather than domain-specific concerns. Overall, the findings suggest that geopolitics influences gatekeeping judgments in government funding, with broad implications for peer review, scientific norms, and the future of international collaboration in an era of intensifying geopolitical competition."
       },
       {
-        "id": "99625abb78eda741",
-        "title": "The Future of Monetarism after Milton Friedman -- by Michael D. Bordo",
-        "url": "https://www.nber.org/papers/w34765#fromrss",
+        "id": "eb5956a4737f3450",
+        "title": "The Economic Impact of Mass Deportations -- by Javier Cravino, Andrei A. Levchenko, Francesc Ortega, Nitya Pandalai-Nayar",
+        "url": "https://www.nber.org/papers/w34790#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "On the fiftieth anniversary of Milton Friedman receiving the Nobel Prize in economics, I reflect on the legacy of monetarism \u2013 his revolutionary idea. Friedman developed the modern quantity of money in 1956 as a challenge to the prevailing Keynesian view that \u201cmoney did not matter.\u201d Friedman\u2019s empirical and historical research made a strong case that changes in the money supply, largely instituted by the monetary authorities, account for much of the macro instability in the twentieth century including the Great Recession 1929-1933 and the Great Inflation 1965 -1982. Friedman\u2019s ideas were at the base of the creation of modern macroeconomics, and of the adoption by many central banks of rules based monetary policy as a guidepost to maintain credibility for low inflation. His emphasis on monetary aggregates as the key monetary policy tool has been superseded by the use of policy interest rates, but the monetary aggregates are still useful as a crosscheck against incipient high inflation."
+        "summary": "This paper quantifies the effects of large-scale deportations on wages, prices, and real incomes in the United States. We impute the legal status for each worker in the American Community Survey by combining detailed individual information with group-level visa records. In 2024, 3.2% of US workers were unauthorized, but some regions and sectors were heavily dependent on unauthorized immigrant labor. We develop a dynamic quantitative framework with multiple regions, sectors and occupations, heterogeneous workers, and endogenous capital accumulation to study the economic impacts of removing unauthorized workers. We derive analytical expressions relating region- and occupation-specific real wages and sectoral relative prices to changes in the supply of immigrant workers, observable factor shares, and combinations of structural elasticities. Following the removal of 50% of unauthorized immigrants, in the short run average native real wages rise 0.15% nationally, driven by an increase in the capital-labor ratio. In the long run, however, native real wages fall in every state, and by 0.33% nationally, as capital gets decumulated in response to a lower population. Consumer prices in the sectors intensive in unauthorized workers \u2013 such as Farming \u2013 rise by about 1% relative to the price of the average consumption basket, while most other sectors experience negligible relative price changes."
       },
       {
-        "id": "53ef1dbdc1f0fae8",
-        "title": "Stress Relief? Externalities from Specialty Hospital Entry -- by Daniel R. Arnold, Michael R. Richards, Christopher M. Whaley",
-        "url": "https://www.nber.org/papers/w34772#fromrss",
+        "id": "b6147184fad75fce",
+        "title": "Indebted Supply and Monetary Policy: A Theory of Financial Dominance -- by Viral V. Acharya, Guillaume Plantin, Olivier Wang",
+        "url": "https://www.nber.org/papers/w34798#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "Mental illness exacts a heavy toll on the US healthcare system and strains general hospitals and their emergency departments. We study how psychiatric inpatient facility entry impacts the local hospital industry. We find that referrals, including from the legal system, are redirected to the specialized facilities\u2013\u2013leaving general hospitals with approximately 60% fewer psychiatric admissions. General hospitals also discharge 50% more patients to psychiatric facilities and substitute away from high-skill psychiatric labor\u2013\u2013consistent with specialization and market segmentation. Emergency department volumes do not change but care does. However, community-based crime, overdose deaths, and suicides do not decline in the short-run."
+        "summary": "We develop a New Keynesian model with financial frictions to study how corporate capital structure shapes static and dynamic monetary policy tradeoffs through the supply side. Ex post, when corporate leverage is high, monetary tightening contracts both demand and supply. As a result, the Phillips curve is highly non-linear and state-dependent, and the \u201cnatural rate\u201d R\u207f ensuring price stability increases with corporate leverage. Yet the tradeoff between inflation targeting and tightening supply constraints implies that the optimal ex-post policy is to set a rate R\u1d52\u1d56\u1d57 < R\u207f that can decrease with leverage. Ex ante, firms\u2019 market-timing incentives lead them to increase leverage when rates are low, which creates an intertemporal tradeoff: monetary easing supports current demand but hurts future supply, which makes easing partially self-defeating. The optimal ex-ante monetary policy features a prudential motive for leaning against leverage even when the divine coincidence holds in the current period."
       },
       {
-        "id": "f0ba01662a238266",
-        "title": "Immigration Restrictions and Natives' Intergenerational Mobility: Evidence from the 1920s US Quota Acts -- by James J. Feigenbaum, Yi-Ju Hung, Marco Tabellini, Monia Tomasella",
-        "url": "https://www.nber.org/papers/w34775#fromrss",
+        "id": "f4154d80a7cb7bcf",
+        "title": "Inferring Prices from Quantities -- by David Argente, Chang-Tai Hsieh, Munseob Lee",
+        "url": "https://www.nber.org/papers/w34803#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We study the effects of immigration restrictions on the intergenerational mobility of US-born men in the United States. We link US-born sons observed in 1900, 1920, and 1940 full-count Censuses to their fathers, and construct a measure of county-level exposure to the 1920s immigration acts, which sharply curtailed immigration from Southern and Eastern Europe. Exploiting this policy-induced variation, we find that the quotas reduced intergenerational mobility among US-born white men, but had no adverse effect for Black men. Among whites, losses were smaller for sons of richer fathers, who were more likely to migrate away from highly exposed areas. Evidence from the 1940 Census indicates that exposed white men were less likely to be employed and earned lower wages in adulthood, consistent with both occupational downgrading and reduced productivity within occupations. We show that these effects operated through both reduced immigrant\u2013native complementarities and incomplete substitution from unrestricted migration, while human capital investment can  explain at most only a modest part of the total effect."
+        "summary": "Measuring aggregate inflation is subject to two opposing biases: unobserved quality and variety growth, and the use of incorrect weights when new varieties are misclassified. We show that it is possible to measure an aggregate price index free of these biases when we have a subset of products where these two errors average to zero. This procedure does not require us to distinguish new from existing goods, measure quality attributes directly, or classify new varieties into the appropriate category. We implement this approach using BEA data from 1959 to 2019, approximating the official PCE price index with a CES aggregate of BEA prices at the product level. Our estimate of the inflation rate exceeds the CES aggregate of BEA prices by 0.3 to 1.0 percentage points per year on average. The aggregate bias was close to zero prior to the BLS introducing hedonic adjustments, which suggests that only adjusting for quality bias can lead to an underestimation of overall inflation, particularly in quality-adjusted categories."
       },
       {
-        "id": "79db774314c709f4",
-        "title": "Changing Culture and Norms in Developing Countries -- by Eliana La Ferrara, David H. Yanagizawa-Drott",
-        "url": "https://www.nber.org/papers/w34784#fromrss",
+        "id": "0dc45ff57e3675d9",
+        "title": "Aggregate Employment and the Rise of Services across Time and Countries -- by Margarida Duarte, Diego Restuccia",
+        "url": "https://www.nber.org/papers/w34804#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We survey recent research on changing culture and social norms in developing countries and propose a simple framework to interpret these changes. We conceptualize individual utility from a given action as a function of three components: intrinsic valuations, material payoffs, and social interactions. Using this lens, we review evidence on interventions that target each component and their interactions.\nFirst, we discuss efforts to shift intrinsic values through schooling and curricula, information campaigns, mass media, and empowerment programs, with particular attention to gender norms, intimate partner violence, and harmful practices such as female genital cutting. Second, we examine social determinants of behavior, including misperceptions about others\u2019 beliefs, coordination failures, and the role of intermediate \u201cstepping-stone\u201d actions in facilitating or hindering norm transitions. Third, we analyze how changes in material incentives, via labor market opportunities, transfers, and legal reforms, affect behavior and underlying norms.\nThroughout, we highlight methodological challenges in measuring norms and identifying mechanisms, and we emphasize that policy effects depend critically on existing social structures and belief distributions. We conclude by outlining open questions from a positive and normative perspective."
+        "summary": "We study the sectoral reallocation of employment over time and across countries, with a focus on the rise of services. We document substantial changes in the ratio of aggregate employment to working-age population across countries that are not systematically related to productivity growth or income levels, yet tightly linked to the rise in services employment. We assess the quantitative contribution of changes in aggregate employment to the rise of services using an otherwise standard model of sectoral reallocation calibrated to time-series for the United States. The calibrated model implies a high elasticity of changes in aggregate employment to services: a one percentage point change in aggregate employment generates on average a 0.7 percentage point change in services employment. The implication is that actual changes in aggregate employment account for one-third of the rise in services, on average across countries, and up to one-half in countries with sustained employment increases."
+      },
+      {
+        "id": "eddf822560bea2b4",
+        "title": "AI Personality Extraction from Faces: Labor Market Implications -- by Marius Guenzel, Shimon Kogan, Marina Niessner, Kelly Shue",
+        "url": "https://www.nber.org/papers/w34808#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "Human capital\u2014encompassing cognitive skills and personality traits\u2014is central for labor-market success, yet personality remains difficult to measure at scale. Leveraging advances in AI and comprehensive LinkedIn microdata, we extract the Big 5 personality traits from facial images of 96,000 MBA graduates, and demonstrate that this novel \u201cPhoto Big 5\u201d predicts school rank, job matching, compensation, job transitions, and career advancement. The Photo Big 5 provides predictive power comparable to race, attractiveness, and educational background, and is only weakly correlated with cognitive measures such as test scores. We show that individuals systematically sort into occupations where their personality traits are valued and earn higher wages when traits align with occupational demands. While the scalability of the Photo Big 5 enables new academic insights into the role of personality in labor markets, its growing use in industry screening raises important ethical concerns regarding statistical discrimination and individual autonomy."
+      },
+      {
+        "id": "818ee558c34adb47",
+        "title": "Progress or Backsliding? Changes in the Gender Wage Gap for Business Professionals -- by Ann Harrison, Laura J. Kray, Noor Sethi",
+        "url": "https://www.nber.org/papers/w34809#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "In the United States, much of the gap in earnings between men and women is due to the persistent gap for high wage earners. This paper explores changes in the gender wage gap for MBAs graduating from a large public university over 30 years. We document large gender wage gaps on average, which grow in the course of men\u2019s and women\u2019s careers. Comparing graduates at identical career stages across time periods to address composition concerns, we show that the raw gender wage gap has shrunk by 33 to 50 percent over the last two decades. Additionally, the temporal pattern of the gap has fundamentally shifted: while gaps only emerged over time in earlier decades, significant gaps now emerge immediately. Convergence in labor supply factors, particularly hours worked, explains much of the narrowing gap, alongside shifts in industry composition. However, unexplained wage gaps persist for recent graduates from the very start of their careers, suggesting different underlying mechanisms across cohorts. These findings highlight both progress in gender wage equity among business professionals and concerning patterns that emerge earlier in careers than in previous decades."
+      },
+      {
+        "id": "b112ccee75eb8db3",
+        "title": "Field Experiments in the Science of Science: Lessons from Peer Review and the Evaluation of New Knowledge -- by Kevin Boudreau",
+        "url": "https://www.nber.org/papers/w34811#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "Scientific evaluation and peer review govern the allocation of resources and certification of knowledge in science, yet have been subjected to limited causal investigation. This chapter synthesizes randomized experiments embedded in live peer-evaluation systems at journals, conferences, and funding agencies, restricting attention to published studies. I organize this evidence using a Q\u2013A\u2013R\u2013S framework that decomposes peer review into attributes of submissions (Q), authors (A), reviewers (R), and evaluation systems (S), and interpret outcomes through a view of the core problem of scientific evaluation as assessing new knowledge using the existing stock of knowledge.\nThe chapter treats experimental design choices as objects of analysis, assessing what existing interventions can\u2014and cannot\u2014identify given their designs and settings, the institutional constraints they face, and opportunities for higher-leverage experimentation. I show that randomized experimentation embedded in peer review spans the full Q\u2013A\u2013R\u2013S space, albeit sparsely, and yields uneven but informative insights across different margins.\nBased on the full body of evidence, I advance several novel claims: (1) system interventions often affect participant behavior with little impact on core evaluative judgments; (2) core evaluations are most clearly shaped by who reviews and their expertise; and (3) peer review functions more reliably as a \u201cfilter\u201d of poor submissions than as a fine-grained \u201cranker\u201d of acceptable submissions. Overall, the evidence points to a functioning institution operating under binding epistemic and organizational constraints, rather than to systemic failure. I identify channels for improving the speed, cost, and reliability of scientific evaluation institutions.\nSubstantial scope remains to redesign embedded experiments to increase inferential power, generalizability, and cumulative insight, while reducing disruption and more tightly linking to institutional innovation and policy changes."
+      },
+      {
+        "id": "4d9ef6fc3207b015",
+        "title": "How to hedge a bubble, AI edition",
+        "url": "https://www.economist.com/finance-and-economics/2026/02/08/how-to-hedge-a-bubble-ai-edition",
+        "source": "Finance & economics",
+        "published": "Sun, 08 Feb 2026 14:23:50 +0000",
+        "published_dt": "2026-02-08T14:23:50+00:00",
+        "summary": "Protecting your portfolio from a crash looks harder than ever"
       },
       {
         "id": "bb8cc16cfa85cbac",
@@ -671,18 +680,36 @@
         "published": "Thu, 11 Dec 2025 11:12:31 +0000",
         "published_dt": "2025-12-11T11:12:31+00:00",
         "summary": "The baijiu business is the latest to be struck by \u201cinvolution\u201d"
-      },
-      {
-        "id": "233484b8ab536f6a",
-        "title": "Asia\u2019s inexpensive AI stocks should worry American investors",
-        "url": "https://www.economist.com/finance-and-economics/2025/12/10/asias-inexpensive-ai-stocks-should-worry-american-investors",
-        "source": "Finance & economics",
-        "published": "Wed, 10 Dec 2025 19:18:39 +0000",
-        "published_dt": "2025-12-10T19:18:39+00:00",
-        "summary": "Tech mania looks very different in Japan, South Korea and Taiwan"
       }
     ],
     "Cross-Disciplinary": [
+      {
+        "id": "7bb25ffbb7f6eb76",
+        "title": "New Devices Might Scale the Memory Wall",
+        "url": "https://spectrum.ieee.org/ai-and-memory-wall",
+        "source": "IEEE Spectrum",
+        "published": "Mon, 09 Feb 2026 13:00:02 +0000",
+        "published_dt": "2026-02-09T13:00:02+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/scanning-electron-microscope-image-of-the-top-of-a-three-dimensional-bulk-resistive-ram.jpg?id=63929015&amp;width=1245&amp;height=700&amp;coordinates=0%2C97%2C0%2C98\" /><br /><br /><p><span>The hunt is on for anything that can surmount AI\u2019s </span><a href=\"https://spectrum.ieee.org/to-speed-up-ai-mix-memory-and-processing\" target=\"_self\">perennial memory wall</a><span>\u2013even quick models are bogged down by the time and energy needed to carry data between processor and memory. </span><a href=\"https://spectrum.ieee.org/system-creates-the-illusion-of-an-ideal-ai-chip\" target=\"_self\">Resistive RAM</a><span> (RRAM)could circumvent the wall by allowing computation to happen in the memory itself. Unfortunately, most types of this nonvolatile memory are too unstable and unwieldy for that purpose.</span></p><p>Fortunately, a potential solution may be at hand. At December\u2019s IEEE<a href=\"https://www.ieee-iedm.org/\" target=\"_blank\"> International Electron Device Meeting</a> (IEDM), researchers from the University of California, San Diego showed they could run a learning algorithm on an entirely new type of RRAM.</p><p>\u201cWe actually redesigned RRAM, completely rethinking the way it switches,\u201d says<a href=\"https://jacobsschool.ucsd.edu/people/profile/duygu-kuzum\" rel=\"noopener noreferrer\" target=\"_blank\"> Duygu Kuzum</a>, an electrical engineer at the University of California, San Diego, who led the work.</p><p>RRAM stores data as a level of resistance to the flow of current. The key digital operation in a neural network\u2014multiplying arrays of numbers and then summing the results\u2014can be done in analog simply by running current through an array of RRAM cells, connecting their outputs, and measuring the resulting current.</p><p>Traditionally, RRAM stores data by creating low-resistance filaments in the higher-resistance surrounds of a dielectric material. Forming these filaments often needs voltages too high for standard CMOS, hindering its integration inside processors. Worse, forming the filaments is a noisy and random process, not ideal for storing data. (Imagine a neural network\u2019s weights randomly drifting. Answers to the same question would change from one day to the next.) </p><p>Moreover, most filament-based RRAM cells\u2019 noisy nature means they must be isolated from their surrounding circuits, usually with a selector transistor, which makes <a href=\"https://spectrum.ieee.org/3d-cmos\" target=\"_self\">3D stacking</a> difficult.</p><p>Limitations like these mean that traditional RRAM isn\u2019t great for computing. In particular, Kuzum says, it\u2019s difficult to use filamentary RRAM for the sort of parallel<a href=\"https://spectrum.ieee.org/matrix-multiplication-deepmind\" target=\"_self\"> matrix operations</a> that are crucial for today\u2019s neural networks.</p><p>So, the San Diego researchers decided to dispense with the filaments entirely. Instead they developed devices that switch an entire layer from high to low resistance and back again. This format, called \u201cbulk RRAM\u201d, can do away with both the annoying high-voltage filament-forming step and the geometry-limiting selector transistor.</p><h2>3D memory for machine learning</h2><p>The San Diego group wasn\u2019t the first to build bulk RRAM devices, but it made breakthroughs both in shrinking them and forming 3D circuits with them. Kuzum and her colleagues shrank RRAM into the nanoscale; their device was just 40 nm across. They also managed to stack bulk RRAM into as many as eight layers.</p><p>With a single pulse of identical voltage, an eight-layer stack of cells each of which can take any of 64 resistance values, a number that\u2019s very difficult to achieve with traditional filamentous RRAM. And whereas the resistance of most filament-based cells are limited to kiloohms, the San Diego stack is in the megaohm range, which Kuzum says is better for parallel operations. e </p><p>\u201cWe can actually tune it to anywhere we want, but we think that from an integration and system-level simulations perspective, megaohm is the desirable range,\u201d Kuzum says.</p><p>These two benefits\u2013a greater number of resistance levels and a higher resistance\u2013could allow this bulk RRAM stack to perform more complex operations than traditional RRAM\u2019s can manage. </p><p>Kuzum and colleagues assembled multiple eight-layer stacks into a 1-kilobyte array that required no selectors. Then, they tested the array with a continual learning algorithm: making the chip classify data from <a href=\"https://spectrum.ieee.org/wearable-health-device-skin-gases\" target=\"_self\">wearable sensors\u2014</a>for example, reading data from a waist-mounted smartphone to determine if its wearer was sitting, walking, climbing stairs, or taking another action\u2014while constantly adding new data. Tests showed an accuracy of 90 percent, which the researchers say is comparable to the performance of a digitally-implemented neural network.</p><p><br /><br /></p><p>This test exemplifies what Kuzum thinks can especially benefit from bulk RRAM: neural network models on edge devices, which may need to learn from their environment without accessing the cloud. </p><p>\u201cWe are doing a lot of characterization and material optimization to design a device specifically engineered for AI applications,\u201d Kuzum says. </p><p>The ability to integrate RRAM into an array like this is a significant advance, says <a href=\"https://mse.umd.edu/clark/faculty/980/A-Alec-Talin\" rel=\"noopener noreferrer\" target=\"_blank\">Albert Talin</a>, materials scientist at Sandia National Laboratories in Livermore, California, and a bulk RRAM researcher who wasn\u2019t involved in the San Diego group\u2019s work. \u201cI think that any step in terms of integration is very useful,\u201d he says.</p><p>But Talin highlights a potential obstacle: the ability to retain data for an extended period of time. While the San Diego group showed their RRAM could retain data at room temperature for several years (on par with flash memory), Talin says that its retention at the higher temperatures where computers actually operate is less certain. \u201cThat\u2019s one of the major challenges of this technology,\u201d he says, especially when it comes to edge applications.</p><p>If engineers can prove the technology, then all types of models may benefit. This memory wall has only grown higher this decade, as traditional memory hasn\u2019t been able to keep up with the ballooning demands of large models. Anything that allows models to operate on the memory itself could be a welcome shortcut. </p>"
+      },
+      {
+        "id": "9caf7789bc8d5cc9",
+        "title": "The Download: what Moltbook tells us about AI hype, and the rise and rise of AI therapy",
+        "url": "https://www.technologyreview.com/2026/02/09/1132498/the-download-what-moltbook-tells-us-about-ai-hype-and-the-rise-and-rise-of-ai-therapy/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 09 Feb 2026 13:10:00 +0000",
+        "published_dt": "2026-02-09T13:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Moltbook was peak AI theater For a few days recently, the hottest new hangout on the internet was a vibe-coded Reddit clone called Moltbook, which billed itself as a social network for bots.&#8230;"
+      },
+      {
+        "id": "97bac1128228e2c1",
+        "title": "Making AI Work, MIT Technology Review\u2019s new AI newsletter, is here",
+        "url": "https://www.technologyreview.com/2026/02/09/1132462/ai-newsletter-professional-applications/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 09 Feb 2026 11:30:00 +0000",
+        "published_dt": "2026-02-09T11:30:00+00:00",
+        "summary": "For years, our newsroom has explored AI\u2019s limitations and potential dangers, as well as its growing energy needs. And our reporters have looked closely at how generative tools are being used for tasks such as coding and running scientific experiments.&#160; But how is AI actually being used in fields like health care, climate tech, education,&#8230;"
+      },
       {
         "id": "97c3e7656b926af6",
         "title": "IEEE Considers Safety Guidelines for Neurotech Consumer Products",
@@ -810,15 +837,6 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/color-photo-of-a-stereo-system-from-above-with-two-black-spheres-at-either-end-and-a-rectangular-wood-cabinet-containing-a-tune.jpg?id=62978356&amp;width=1245&amp;height=700&amp;coordinates=0%2C62%2C0%2C63\" /><br /><br /><p>Dizzy Gillespie was a fan. Frank Sinatra bought one for himself and gave them to his Rat Pack friends. Hugh Hefner acquired one for the Playboy Mansion. Clairtone Sound Corp.\u2019s <a href=\"https://www.clairtone.ca/projectg/\" rel=\"noopener noreferrer\" target=\"_blank\">Project G</a> high-fidelity stereo system, which debuted in 1964 at the National Furniture Show in Chicago, was squarely aimed at trendsetters. The intent was to make the sleek, modern stereo an object of desire.</p><p>By the time the Project G was introduced, the Toronto-based Clairtone was already well respected for its beautiful, high-end stereos. \u201cEveryone knew about Clairtone,\u201d Peter Munk, president and cofounder of the company, boasted to a newspaper columnist. \u201cThe prime minister had one, and if the local truck driver didn\u2019t have one, he wanted one.\u201d Alas, with a price tag of CA $1,850\u2014about the price of a small car\u2014it\u2019s unlikely that the local truck driver would have actually bought a Project G. But he could still dream.</p><p>The design of the Project G seemed to come from a dream.</p><p>\u201cI want you to imagine that you are visitors from Mars and that you have never seen a Canadian living room, let alone a hi-fi set,\u201d is how designer Hugh Spencer challenged Clairtone\u2019s engineers when they first started working on the Project G. \u201cWhat are the features that, regardless of design considerations, you would like to see incorporated in a new hi-fi set?\u201d</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Black and white photo of a young woman sitting on the floor in front of a stereo system and looking toward the floor.\" class=\"rm-shortcode\" id=\"5848e\" src=\"https://spectrum.ieee.org/media-library/black-and-white-photo-of-a-young-woman-sitting-on-the-floor-in-front-of-a-stereo-system-and-looking-toward-the-floor.jpg?id=62979218&amp;width=980\" /> <small class=\"image-media media-caption\">The film \u201cI\u2019ll Take Sweden\u201d featured a Project G, shown here with co-star Tuesday Weld.</small><small class=\"image-media media-photo-credit\">Nina Munk/The Peter Munk Estate</small></p><p>The result was a stereo system like no other. Instead of speakers, the Project G had sound globes. Instead of the heavy cabinetry typical of <a href=\"https://spectrum.ieee.org/vintage-audio-repair\" target=\"_self\">1960s entertainment consoles</a>, it had sleek, angled rosewood panels balanced on an aluminum stand. At over 2 meters long, it was too big for the average living room but perfect for Hollywood movies\u2014Dean Martin had one in his swinging Malibu bachelor pad in the 1965 film <a href=\"https://www.imdb.com/title/tt0059431/\" target=\"_blank\"><em><em>Marriage on the Rocks</em></em></a>. According to the 1964 press release announcing the Project G, it was nothing less than \u201ca new sculptured representation of modern sound.\u201d</p><p>The first-generation Project G had a high-end Elac Miracord 10H turntable, while later models used a Garrard Lab Series turntable. The transistorized chassis and control panel provided AM, FM, and FM-stereo reception. There was space for storing LPs or for an optional Ampex 1250 reel-to-reel tape recorder. </p><p>The \u201cG\u201d in Project G stood for \u201cglobe.\u201d The hermetically sealed 46-centimeter-diameter sound globes were made of spun aluminum and mounted at the ends of the cantilevered base; inside were Wharfedale speakers. The sound globes rotated 340 degrees to project a cone of sound and could be tuned to re-create the environment in which the music was originally recorded\u2014a concert hall, cathedral, nightclub, or opera house.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Between 1965 and 1967, Clairtone sponsored the Miss Canada beauty pageant. Miss Canada 1963 was Diane Landry, seen here with a Project G2 at Clairtone\\u2019s factory showroom in Rexdale, Ontario.\" class=\"rm-shortcode\" id=\"66613\" src=\"https://spectrum.ieee.org/media-library/between-1965-and-1967-clairtone-sponsored-the-miss-canada-beauty-pageant-miss-canada-1963-was-diane-landry-seen-here-with-a-p.jpg?id=62979401&amp;width=980\" /> <small class=\"image-media media-caption\">Diane Landry, winner of the 1963 Miss Canada beauty pageant, poses with a Project G2. </small><small class=\"image-media media-photo-credit\">Nina Munk/The Peter Munk Estate</small></p><p>Initially, Clairtone intended to produce only a handful of the stereos. As one writer later put it, it was more like a concept car \u201cintended to give Clairtone an aura of futuristic cool.\u201d Eventually fewer than 500 were made. But the Project G still became an icon of mod \u201960s Canadian design, winning a silver medal at the 13th Milan Triennale, the international design exhibition.</p><p>And then it was over; the dream had ended. Eleven years after its founding, Clairtone collapsed, and Munk and cofounder David Gilmour lost control of the company.</p><h2>The birth of Clairtone Sound Corp.</h2><p>Clairtone\u2019s Peter Munk lived a colorful life, with a nightmarish start and many fantastic and dreamlike parts too. He was born in 1927 in Budapest to a prosperous Jewish family. In the spring of 1944, Munk and 13 members of his family boarded a train with more than 1,600 Jews bound for the Bergen-Belsen concentration camp. They arrived, but after some weeks the train moved on, eventually reaching neutral Switzerland. It later emerged that the Nazis had extorted large sums of cash and valuables from the occupants in exchange for letting the train proceed.</p><p>As a teenager in Switzerland, Munk was a self-described party animal. He enjoyed dancing and dating and going on long ski trips with friends. Schoolwork was not a top priority, and he didn\u2019t have the grades to attend a Swiss university. His mother, an Auschwitz survivor, encouraged him to study in Canada, where he had an uncle.</p><p>Before he could enroll, though, Munk blew his tuition money entertaining a young woman during a trip to New York. He then found work picking tobacco, earned enough for tuition, and graduated from the University of Toronto in 1952 with a degree in electrical engineering.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Color photo of two men in office attire. \" class=\"rm-shortcode\" id=\"1c5ae\" src=\"https://spectrum.ieee.org/media-library/color-photo-of-two-men-in-office-attire.jpg?id=62980489&amp;width=980\" /> <small class=\"image-media media-caption\">Clairtone cofounders Peter Munk [left] and David Gilmour envisioned the company as a luxury brand.</small><small class=\"image-media media-photo-credit\">Nina Munk/The Peter Munk Estate</small></p><p>At the age of 30, Munk was making custom hi-fi sets for wealthy clients when he and David Gilmour, who owned a small business importing Scandinavian goods, decided to join forces. Their idea was to create high-fidelity equipment with a contemporary Scandinavian design. Munk\u2019s father-in-law, William Jay Gutterson, invested $3,000. Gilmour mortgaged his house. In 1958, Clairtone Sound Corp. was born. </p><p>From the beginning, Munk and Gilmour sought a high-end clientele. They positioned Clairtone as a luxury brand, part of an elegant lifestyle. If you were the type of woman who listened to music while wearing pearls and a strapless gown and lounging on a shag rug, your music would be playing on a Clairtone. If you were a man who dressed smartly and owned an <a href=\"https://arnejacobsen.com/works/the-egg-2/\" target=\"_blank\">Arne Jacobsen Egg chair</a>, you would also be listening on a Clairtone. That was the modern lifestyle captured in the company\u2019s advertisements. </p><p>In 1958, Clairtone produced its first prototype: the monophonic 100-M, which had a long, low cabinet made from oiled teak, with a Dual 1004 turntable, a Granco tube chassis, and a pair of Coral speakers. It never went into production, but the next model, the stereophonic 100-S, won a Design Award from Canada\u2019s National Industrial Design Council in 1959. By 1963, Clairtone was selling 25,000 units a year.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Black and white photo of a line of stereo components under assembly, with a man in a lab coat at one end and a man in a suit at the other.  \" class=\"rm-shortcode\" id=\"90768\" src=\"https://spectrum.ieee.org/media-library/black-and-white-photo-of-a-line-of-stereo-components-under-assembly-with-a-man-in-a-lab-coat-at-one-end-and-a-man-in-a-suit-at.jpg?id=62981917&amp;width=980\" /> <small class=\"image-media media-caption\">Peter Munk visits the Project G assembly line in 1965. </small><small class=\"image-media media-photo-credit\">Nina Munk/The Peter Munk Estate</small></p><p>Design was always front and center at Clairtone, not just for the products but also for the typography, advertisements, and even the annual reports. Yet nothing in the early designs signaled the dramatic turn it would take with the Project G. That came about because of Hugh Spencer.</p><p>Spencer was not an engineer, nor did he have experience designing consumer electronics. His day job was designing sets for the <a href=\"https://www.cbc.ca/\" target=\"_blank\">Canadian Broadcast Corp.</a> He consulted regularly with Clairtone on the company\u2019s graphics and signage. The only stereo he ever designed for Clairtone was the Project G, which he first modeled as a wooden box with tennis balls stuck to the sides. </p><p>From both design and quality perspectives, Clairtone was successful. But the company was almost always hemorrhaging cash. In 1966, with great fanfare and large government incentives, the company opened a state-of-the-art production facility in Nova Scotia. It was a mismatch. The local workforce didn\u2019t have the necessary skills, and the surrounding infrastructure couldn\u2019t handle the production. On 27 August 1967, Munk and Gilmour were forced out of Clairtone, which became the property of the government of Nova Scotia.</p><p>Despite the demise of their first company (and the government inquiry that followed), Munk and Gilmour remained friends and went on to become serial entrepreneurs. Their next venture? A resort in Fiji, which became part of a large hotel chain in that country, Australia, and New Zealand. (Gilmour later founded <a href=\"https://www.fijiwater.com/\" target=\"_blank\">Fiji Water</a>.) Then Munk and Gilmour bought a gold mine and cofounded Barrick Gold (now <a href=\"https://www.barrick.com/English/home/default.aspx\" target=\"_blank\">Barrick Mining Corp.</a>, one of the largest gold mining operations in the world). Their businesses all had ups and downs, but both men became extremely wealthy and noted philanthropists.</p><h2>Preserving Canadian design</h2><p>As an example of iconic design, the Project G seems like an ideal specimen for museum collections. And in 1991, Frank Davies, one of the designers who worked for Clairtone, donated a Project G to the recently launched Design Exchange in Toronto. It would be the first object in the DX\u2019s permanent collection, which sought to preserve examples of Canadian design. The museum quickly became Canada\u2019s center for the promotion of design, hosting more than 50 programs each year to teach people about how design influences every aspect of our lives. </p><p>In 2008, the museum opened <em><em>The Art of Clairtone: The Making of a Design Icon, 1958\u20131971, </em></em>an exhibition showcasing the company\u2019s distinctive graphic design, industrial design, engineering, and photography.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Color photo of a modern stereo system in the foreground and a woman sitting in a modern arm chair in the back. \" class=\"rm-shortcode\" id=\"24fd8\" src=\"https://spectrum.ieee.org/media-library/color-photo-of-a-modern-stereo-system-in-the-foreground-and-a-woman-sitting-in-a-modern-arm-chair-in-the-back.jpg?id=62988475&amp;width=980\" /> <small class=\"image-media media-caption\">David Gilmour\u2019s wife, Anna Gilmour, was the company\u2019s first in-house model.</small><small class=\"image-media media-photo-credit\">Nina Munk/The Peter Munk Estate</small></p><p>But what happened to the DX itself is a reminder that any museum, however worthy, shouldn\u2019t be taken for granted. In 2019, the DX abruptly closed its permanent collection, and curators were charged with deaccessioning its objects. Fortunately, the <a href=\"https://www.rom.on.ca/\" target=\"_blank\">Royal Ontario Museum</a>, <a href=\"https://carleton.ca/\" target=\"_blank\">Carleton</a> and <a href=\"https://www.yorku.ca/\" target=\"_blank\">York</a> Universities, and the <a href=\"https://www.archives.gov.on.ca/\" target=\"_blank\">Archives of Ontario</a>, among others, were able to accept the artifacts and companion archives. (The <a href=\"https://collections.rom.on.ca/objects/2476799/project-g-stereo\" target=\"_blank\">Project G</a> pictured at top is now at the Royal Ontario Museum.) </p><p>Researchers at York and Carleton have been working to digitize and virtually reconstitute the DX collection, through the <a href=\"https://rs.lincsproject.ca/resource/search:xdx\" rel=\"noopener noreferrer\" target=\"_blank\">xDX Project</a>. They\u2019re using the Linked Infrastructure for Networked Cultural Scholarship (LINCS) to turn interlinked and contextualized data about the collection into a searchable database. It\u2019s a worthy goal, even if it\u2019s not quite the same as having all of the artifacts and supporting papers physically together in one place. I admit to feeling both pleased about this virtual workaround, and also a little sad that a unified collection that once spoke to the historical significance of Canadian design no longer exists.</p><p><em><em>Part of a </em></em><a href=\"https://spectrum.ieee.org/collections/past-forward/\" target=\"_self\"><em><em>continuing series</em></em></a><em> </em><em><em>looking at historical artifacts that embrace the boundless potential of technology.</em></em></p><p><em><em>An abridged version of this article appears in the February 2026 print issue as \u201cThe Project G Stereo Defined 1960s Cool.\u201d</em></em></p><h3>References\u00a0</h3><br /><p>I first learned about Clairtone\u2019s Project G from a panel on Canada\u2019s design heritage organized by York University historian Jan Hadlaw at the 2025 annual meeting of the Society for the History of Technology.</p><p><a href=\"https://ninamunk.com/books-cpt/the-art-of-clairtone/\" target=\"_blank\"><em>The Art of Clairtone: The Making of a Design Icon, 1958\u20131971</em></a> by Nina Munk (Peter Munk\u2019s daughter) and Rachel Gotlieb (McClelland & Stewart, 2008) was the companion book to the <a href=\"https://hamblywoolley.com/work/the-design-exchange-clairtone-exhibit/\" rel=\"noopener noreferrer\" target=\"_blank\">exhibition</a> of the same name hosted by the Design Exchange in Toronto. It was an invaluable resource for this column.</p><p>Journalist Garth Hopkins\u2019s <em>Clairtone: The Rise and Fall of a Business Empire </em>(McClelland & Stewart, 1978)<em> </em>includes many interviews with people associated with the company.</p><p><a href=\"https://www.sphinxproductions.com/films/clairtone\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Clairtone</em></a> is a new documentary by Ron Mann that came out while I was writing this piece. I haven\u2019t been able to view it yet, but I hope to do so soon. </p>"
       },
       {
-        "id": "7162dba29efc39d2",
-        "title": "CRASH Clock Measures Dangerous Overcrowding in Low Earth Orbit",
-        "url": "https://spectrum.ieee.org/kessler-syndrome-crash-clock",
-        "source": "IEEE Spectrum",
-        "published": "Wed, 21 Jan 2026 23:04:38 +0000",
-        "published_dt": "2026-01-21T23:04:38+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-map-of-planet-earth-thoroughly-covered-in-small-scattered-dots.jpg?id=62874598&amp;width=1245&amp;height=700&amp;coordinates=0%2C62%2C0%2C63\" /><br /><br /><p>Thousands of satellites are tightly packed into low Earth orbit, and the overcrowding is only growing. </p><p>Scientists have created a simple warning system called the <a href=\"https://outerspaceinstitute.ca/crashclock/\" target=\"_blank\">CRASH Clock</a> that answers a basic question: If satellites suddenly couldn\u2019t steer around one another, how much time would elapse before there was a crash in orbit? Their current answer: 5.5 days. </p><p>The CRASH Clock metric was introduced in a <a href=\"https://arxiv.org/abs/2512.09643\" target=\"_blank\">paper originally published on the Arxiv physics preprint server</a> in December and is currently under consideration for publication. The team\u2019s research measures how quickly a catastrophic collision could occur if satellite operators lost the ability to maneuver\u2014whether due to a solar storm, a software failure, or some other catastrophic failure.</p><p>To be clear, say the CRASH Clock scientists, low Earth orbit is not about to become a new unstable realm of collisions. But what the researchers have shown, consistent with <a href=\"https://spectrum.ieee.org/kessler-syndrome-space-debris\" target=\"_blank\">recent research and public outcry</a>, is that low Earth orbit\u2019s current stability demands perfect decisions on the part of a range of satellite operators around the globe every day. A few mistakes at the wrong time and place in orbit could set a lot of chaos in motion.</p><p>But the biggest hidden threat isn\u2019t always debris that can be seen from the ground or via radar imaging systems. <span>Rather, thousands of small pieces of junk that are still big enough to disrupt a satellite\u2019s operations are what satellite operators have nightmares about these days</span><span>. Making matters worse is SpaceX essentially locking up one of the most valuable altitudes with their <a href=\"https://spectrum.ieee.org/satellite-cellphone-starlink\" target=\"_blank\">Starlink</a> satellite megaconstellation, forcing <a href=\"https://www.semafor.com/article/12/23/2025/chinese-and-starlink-satellites-nearly-collide-in-space\" target=\"_blank\">Chinese competitors to fly higher through clouds of old collision debris</a> left over from earlier accidents.</span></p><p><span><em>IEEE Spectrum</em> spoke with astrophysicists <a href=\"https://web.astro.princeton.edu/people/sarah-thiele\" target=\"_blank\">Sarah Thiele</a> (graduate student at <a href=\"https://web.astro.princeton.edu/\" target=\"_blank\">Princeton University</a>), <a href=\"https://phas.ubc.ca/users/aaron-boley\" target=\"_blank\">Aaron Boley</a> (professor of physics and astronomy at the <a href=\"https://phas.ubc.ca/\" target=\"_blank\">University of British Columbia</a>, in Vancouver, Canada), and <a href=\"https://campioncollege.ca/resources/dr-samantha-lawler/\" target=\"_blank\">Samantha Lawler</a> (associate professor of astronomy at the <a href=\"https://www.uregina.ca/\" target=\"_blank\">University of Regina</a>, in Saskatchewan, Canada) about their new paper, and about how close satellites actually are to one another, why you can\u2019t see most space junk, and what happens to the power grid when everything in orbit fails at once.</span></p><p><strong>Does the CRASH Clock measure Kessler syndrome, or something different?</strong></p><p><strong>Sarah Thiele:</strong> A lot of people are claiming we\u2019re saying Kessler syndrome is days away, and that\u2019s not what our work is saying. We\u2019re not making any claim about this being a runaway collisional cascade. We only look at the timescale to the first collision\u2014we don\u2019t simulate secondary or tertiary collisions. The CRASH Clock reflects how reliant we are on errorless operations and is an indicator for stress on the orbital environment.</p><p><strong>Aaron Boley:</strong> A lot of people\u2019s mental vision of Kessler syndrome is this very rapid runaway, and in reality this is something that can take decades to truly build.</p><p><strong>Thiele:</strong> <a href=\"https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/305/SDC9-paper305.pdf\" target=\"_blank\">Recent papers</a> found that altitudes between 520 and 1,000 kilometers have already reached this potential runaway threshold. Even in that case, the timescales for how slowly this happens are very long. It\u2019s more about whether you have a significant number of objects at a given altitude such that controlling the proliferation of debris becomes difficult.</p><h2>Understanding the CRASH Clock\u2019s Implications</h2><p><strong>What does the CRASH Clock approaching zero actually mean?</strong></p><p><strong>Thiele:</strong> The CRASH Clock assumes no maneuvers can happen\u2014a worst-case scenario where some catastrophic event like a solar storm has occurred. A zero value would mean if you lose maneuvering capabilities, you\u2019re likely to have a collision right away. It\u2019s possible to reach saturation where any maneuver triggers another maneuver, and you have this endless swarm of maneuvers where dodging doesn\u2019t mean anything anymore.</p><p><strong>Boley:</strong> I think about the CRASH Clock as an evaluation of stress on orbit. As you approach zero, there\u2019s very little tolerance for error. If you have an accidental explosion\u2014whether a battery exploded or debris slammed into a satellite\u2014the risk of knock-on effects is amplified. It doesn\u2019t mean a runaway, but you can have consequences that are still operationally bad. It means much higher costs\u2014both economic and environmental\u2014because companies have to replace satellites more often. Greater launches, more satellites going up and coming down. The orbital congestion, the atmospheric pollution, all of that gets amplified.</p><p><strong>Are working satellites becoming a bigger danger to each other than debris?</strong></p><p><strong>Boley:</strong> The biggest risk on orbit is the lethal non-trackable debris\u2014this middle region where you can\u2019t track it, it won\u2019t cause an explosion, but it can disable the spacecraft if hit. This population is very large compared with what we actually track. We often talk about Kessler syndrome in terms of number density, but really what\u2019s also important is the collisional area on orbit. As you increase the area through the number of active satellites, you increase the probability of interacting with smaller debris.</p><p><strong>Samantha Lawler:</strong> <a href=\"https://starlink.com/public-files/starlinkProgressReport_2025.pdf\" target=\"_blank\">Starlink just released a conjunction report</a>\u2014they\u2019re doing one collision avoidance maneuver every two minutes on average in their megaconstellation. </p><p><strong>The orbit at 550 km altitude, in particular, is densely packed with Starlink satellites. Is that right?</strong></p><p><strong>Lawler:</strong> The way Starlink has occupied 550 km and filled it to very high density means anybody who wants to use a higher-altitude orbit has to get through that really dense shell. <a href=\"https://spectrum.ieee.org/satellite-internet\" target=\"_blank\">China\u2019s megaconstellations</a> are all at higher altitudes, so they have to go through Starlink. A couple of weeks ago, there was a <a href=\"https://www.space.com/space-exploration/satellites/spacecraft-from-chinese-launch-nearly-slammed-into-starlink-satellite-spacex-says\" target=\"_blank\">headline</a> about a Starlink satellite almost hitting a Chinese rocket. These problems are happening now. Starlink <a href=\"https://www.reuters.com/business/aerospace-defense/starlink-plans-lower-satellite-orbit-enhance-safety-2026-2026-01-01/\" target=\"_blank\">recently announced</a> they\u2019re moving down to 350 km, shifting satellites to even lower orbits. Really, everybody has to go through them\u2014including ISS, including astronauts.</p><p><strong>Thiele:</strong> 550 km has the highest density of active payloads. There are other orbits of concern around 800 km\u2014the altitude of the [2007] <a href=\"https://en.wikipedia.org/wiki/2007_Chinese_anti-satellite_missile_test\" target=\"_blank\">Chinese anti-satellite missile test</a> and the [2009] <a href=\"https://ntrs.nasa.gov/citations/20100002023\" target=\"_blank\">Cosmos-Iridium collision</a>. Above 600 km, atmospheric drag takes a very long time to bring objects down. Below 600 km, drag acts as a natural cleaning mechanism. In that 800 km to 900 km band, there\u2019s a lot of debris that\u2019s going to be there for centuries.</p><h2>Impact of Collisions at 550 Kilometers</h2><p><strong>What happens if there\u2019s a collision at 550 km? Would that orbit become unusable?</strong></p><p><strong>Thiele:</strong> No, it would not become unusable\u2014not a <a href=\"https://en.wikipedia.org/wiki/Gravity_(2013_film)#Technical_observations\" target=\"_blank\"><em>Gravity</em> movie scenario</a>. Any catastrophic collision is an acute injection of debris. You would still be able to use that altitude, but your operating conditions change. You\u2019re going to do a lot more collision-avoidance maneuvers. Because it\u2019s below 600 km, that debris will come down within a handful of years. But in the meantime, you\u2019re dealing with a lot more danger, especially because that\u2019s the altitude with the highest density of Starlink satellites.</p><p><strong>Lawler:</strong> I don\u2019t know how quickly Starlink can respond to new debris injections. It takes days or weeks for debris to be tracked, cataloged, and made public. I hope Starlink has access to faster services, because in the meantime that\u2019s an awful lot of risk.</p><p><strong>How do solar storms affect orbital safety?</strong></p><p><strong>Lawler:</strong> Solar storms make the atmosphere puff up\u2014high-energy particles smashing into the atmosphere. Drag can change very quickly. During the <a href=\"https://en.wikipedia.org/wiki/May_2024_solar_storms\" target=\"_blank\">May 2024 solar storm</a>, orbital uncertainties were kilometers. With things traveling 7 kilometers per second, that\u2019s terrifying. Everything is maneuvering at the same time, which adds uncertainty. You want to have margin for error, time to recover after an event that changes many orbits. <a href=\"https://science.nasa.gov/science-research/heliophysics/nasa-noaa-sun-reaches-maximum-phase-in-11-year-solar-cycle/\" target=\"_blank\">We\u2019ve come off solar maximum</a>, but over the next couple of years it\u2019s very likely we\u2019ll have more really powerful solar storms.</p><p><strong>Thiele:</strong> The risk for collision within the first few days of a solar storm is a lot higher than under normal operating conditions. Even if you can still communicate with your satellite, there\u2019s so much uncertainty in your positions when everything is moving because of atmospheric drag. When you have high density of objects, it makes the likelihood of collision a lot more prominent.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Graph: collision chance vs. days. Danger, caution, safe zones. Red dashed line at June 2025.\" class=\"rm-shortcode\" id=\"eb99e\" src=\"https://spectrum.ieee.org/media-library/graph-collision-chance-vs-days-danger-caution-safe-zones-red-dashed-line-at-june-2025.jpg?id=62876235&amp;width=980\" /> <small class=\"image-media media-caption\">Canadian and American researchers simulated satellite orbits in low Earth orbit and generated a metric, the CRASH Clock, that measures the number of days before collisions start happening if collision-avoidance maneuvers stop. </small><small class=\"image-media media-photo-credit\"><a href=\"https://arxiv.org/pdf/2512.09643\" target=\"_blank\">Sarah Thiele, Skye R. Heiland, et al.</a></small></p><p><strong>Between the first and second drafts of your paper that were uploaded to the preprint server, your key metric, the CRASH Clock finding, was updated from 2.8 days to 5.5 days. Can you explain the revision?</strong></p><p><strong>Thiele:</strong> We updated based on community feedback, which was excellent. The newer numbers are 164 days for 2018 and 5.5 days for 2025. The paper is submitted and will hopefully go through peer review.</p><p><strong>Lawler:</strong> It\u2019s been a very interesting process putting this on Arxiv and receiving community feedback. I feel like it\u2019s been peer-reviewed almost\u2014we got really good feedback from top-tier experts that improved the paper. Sarah put a note, \u201cfeedback welcome,\u201d and we got very helpful feedback. Sometimes the internet works well. If you think 5.5 days is okay when 2.8 days was not, you missed the point of the paper.</p><p><strong>Thiele:</strong> The paper is quite interdisciplinary. My hope was to bridge astrophysicists, industry operators, and policymakers\u2014give people a structure to assess space safety. All these different stakeholders use space for different reasons, so work that has an interdisciplinary connection can get conversations started between these different domains.</p>"
-      },
-      {
         "id": "b5f87034805f9611",
         "title": "Low-Vision Programmers Can Now Design 3D Models Independently",
         "url": "https://spectrum.ieee.org/3d-modeling-blind-programmers",
@@ -889,24 +907,6 @@
         "published": "Thu, 05 Feb 2026 13:10:00 +0000",
         "published_dt": "2026-02-05T13:10:00+00:00",
         "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This is the most misunderstood graph in AI Every time OpenAI, Google, or Anthropic drops a new frontier large language model, the AI community holds its breath. It doesn\u2019t exhale until METR, an&#8230;"
-      },
-      {
-        "id": "290ca56f9b3fcb66",
-        "title": "Three questions about next-generation nuclear power, answered",
-        "url": "https://www.technologyreview.com/2026/02/05/1132197/nuclear-questions/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 05 Feb 2026 11:00:00 +0000",
-        "published_dt": "2026-02-05T11:00:00+00:00",
-        "summary": "Nuclear power continues to be one of the hottest topics in energy today, and in our recent online Roundtables discussion about next-generation nuclear power, hyperscale AI data centers, and the grid, we got dozens of great audience questions. These ran the gamut, and while we answered quite a few (and I\u2019m keeping some in mind&#8230;"
-      },
-      {
-        "id": "ad4c290de42f0f0a",
-        "title": "This is the most misunderstood graph in AI",
-        "url": "https://www.technologyreview.com/2026/02/05/1132254/this-is-the-most-misunderstood-graph-in-ai/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 05 Feb 2026 10:00:00 +0000",
-        "published_dt": "2026-02-05T10:00:00+00:00",
-        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. Every time OpenAI, Google, or Anthropic drops a new frontier large language model, the AI community holds its breath. It doesn\u2019t exhale until METR, an AI&#8230;"
       }
     ]
   }
