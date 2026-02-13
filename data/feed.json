@@ -1,96 +1,60 @@
 {
-  "generated_at": "2026-02-12T13:23:38.895979+00:00",
+  "generated_at": "2026-02-13T13:15:41.054708+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "7b1f22dcc2ce4423",
-        "title": "STAT+: BridgeBio drug for genetic cause of dwarfism succeeds in key study",
-        "url": "https://www.statnews.com/2026/02/12/bridgebio-dwarfism-achondroplasia-infigratinib/?utm_campaign=rss",
+        "id": "374394a296b2d5f2",
+        "title": "HHS shakes ups key advisers",
+        "url": "https://www.statnews.com/2026/02/13/health-news-hhs-shakes-up-key-advisors/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Thu, 12 Feb 2026 12:30:00 +0000",
-        "published_dt": "2026-02-12T12:30:00+00:00",
-        "summary": "BridgeBio Pharma\u2019s experimental drug for the most common cause of dwarfism accelerated children\u2019s growth in a pivotal clinical trial."
-      },
-      {
-        "id": "34755dad1210039d",
-        "title": "STAT+: Big Health raises funding as investors see glimmer of hope for digital therapeutics",
-        "url": "https://www.statnews.com/2026/02/12/big-health-fundraise-investors-bet-dtx-promise/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 12 Feb 2026 13:00:00 +0000",
-        "published_dt": "2026-02-12T13:00:00+00:00",
-        "summary": "Big Health raises $24 million as investors bet that digital therapeutics' time has finally arrived."
-      },
-      {
-        "id": "959b7110c44d4ee7",
-        "title": "STAT+: Talkiatry raises $210 million, eyeing opportunity to use AI for engaging with patients",
-        "url": "https://www.statnews.com/2026/02/12/talkiatry-raises-210-million-eyes-ai-opportunity/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 12 Feb 2026 13:00:00 +0000",
-        "published_dt": "2026-02-12T13:00:00+00:00",
-        "summary": "Talkiatry, a virtual psychiatry company, announced Thursday it raised $210 million as it looks to build on its insurance-covered services."
-      },
-      {
-        "id": "f3b2d3fb1e7e5a33",
-        "title": "What happens when pregnant people discontinue antidepressants?",
-        "url": "https://www.statnews.com/2026/02/12/health-news-getting-off-antidepressants-during-surgery/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 12 Feb 2026 12:49:57 +0000",
-        "published_dt": "2026-02-12T12:49:57+00:00",
+        "published": "Fri, 13 Feb 2026 12:54:24 +0000",
+        "published_dt": "2026-02-13T12:54:24+00:00",
         "summary": "And other health news from the Morning Rounds newsletter"
       },
       {
-        "id": "2b8b4f4c59eb410b",
-        "title": "The Download: AI-enhanced cybercrime, and secure AI assistants",
-        "url": "https://www.technologyreview.com/2026/02/12/1132819/the-download-ai-enhanced-cybercrime-and-secure-ai-assistants/",
+        "id": "3e13525b728d302b",
+        "title": "The Download: an exclusive chat with Jim O\u2019Neill, and the surprising truth about heists",
+        "url": "https://www.technologyreview.com/2026/02/13/1132896/the-download-an-exclusive-chat-with-jim-oneill-and-the-surprising-truth-about-heists/",
         "source": "MIT Technology Review",
-        "published": "Thu, 12 Feb 2026 13:10:00 +0000",
-        "published_dt": "2026-02-12T13:10:00+00:00",
-        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is already making online crimes easier. It could get much worse. Just as software engineers are using artificial intelligence to help write code and check for bugs, hackers are using these tools&#8230;"
+        "published": "Fri, 13 Feb 2026 13:10:00 +0000",
+        "published_dt": "2026-02-13T13:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. US deputy health secretary: Vaccine guidelines are still subject to change Over the past year, Jim O\u2019Neill has become one of the most powerful people in public health. As the US deputy health&#8230;"
       },
       {
-        "id": "61725f03bc60e041",
-        "title": "STAT+: The old Vinay Prasad never left. He just changed jobs",
-        "url": "https://www.statnews.com/2026/02/12/prasad-takes-conservative-approach-rare-disease-drugs-adams-biotech-scorecard/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 12 Feb 2026 11:30:00 +0000",
-        "published_dt": "2026-02-12T11:30:00+00:00",
-        "summary": "Prasad changed jobs but his conservative regulatory doctrine remains the same, particularly for cell and gene therapies. The approval bar is much higher now."
-      },
-      {
-        "id": "440817e6f4f8a1e8",
-        "title": "AI is already making online crimes easier. It could get much worse.",
-        "url": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
+        "id": "c5ddc53afd2ce334",
+        "title": "The myth of the high-tech heist",
+        "url": "https://www.technologyreview.com/2026/02/13/1132397/myth-of-high-tech-heist/",
         "source": "MIT Technology Review",
-        "published": "Thu, 12 Feb 2026 11:00:00 +0000",
-        "published_dt": "2026-02-12T11:00:00+00:00",
-        "summary": "Anton Cherepanov is always on the lookout for something interesting. And in late August last year, he spotted just that. It was a file uploaded to VirusTotal, a site cybersecurity researchers like him use to analyze submissions for potential viruses and other types of malicious software, often known as malware. On the surface it seemed&#8230;"
+        "published": "Fri, 13 Feb 2026 11:00:00 +0000",
+        "published_dt": "2026-02-13T11:00:00+00:00",
+        "summary": "Making a movie is a lot like pulling off a heist. That\u2019s what Steven Soderbergh\u2014director of the Ocean\u2019s franchise, among other heist-y classics\u2014said a few years ago. You come up with a creative angle, put together a team of specialists, figure out how to beat the technological challenges, rehearse, move with Swiss-watch precision, and\u2014if you&#8230;"
       },
       {
-        "id": "704f226b9e8f7e86",
-        "title": "Why EVs are gaining ground in Africa",
-        "url": "https://www.technologyreview.com/2026/02/12/1132790/evs-progress-africa/",
+        "id": "9b28ae871db2183f",
+        "title": "US deputy health secretary: Vaccine guidelines are still subject to change",
+        "url": "https://www.technologyreview.com/2026/02/13/1132889/us-deputy-health-secretary-vaccine-guidelines-longevity-arpa-h-cdc-nih/",
         "source": "MIT Technology Review",
-        "published": "Thu, 12 Feb 2026 11:00:00 +0000",
-        "published_dt": "2026-02-12T11:00:00+00:00",
-        "summary": "EVs are getting cheaper and more common all over the world. But the technology still faces major challenges in some markets, including many countries in Africa. Some regions across the continent still have limited grid and charging infrastructure, and those that do have widespread electricity access sometimes face reliability issues\u2014a problem for EV owners, who&#8230;"
+        "published": "Fri, 13 Feb 2026 10:37:40 +0000",
+        "published_dt": "2026-02-13T10:37:40+00:00",
+        "summary": "Over the past year, Jim O\u2019Neill has become one of the most powerful people in public health. As the US deputy health secretary, he holds two roles at the top of the country\u2019s federal health and science agencies. He oversees a department with a budget of over a trillion dollars. And he signed the decision&#8230;"
       },
       {
-        "id": "bd02abf9bb9afc50",
-        "title": "STAT+: European VCs band together to improve the landscape for biotech startups",
-        "url": "https://www.statnews.com/2026/02/12/europe-biotech-startup-funding-venture-investment-coalition/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 12 Feb 2026 10:00:00 +0000",
-        "published_dt": "2026-02-12T10:00:00+00:00",
-        "summary": "A group of European venture capital firms is banding together to try to improve the funding landscape for biotech startups."
+        "id": "99f7b55e14b4ae10",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ultragenyx-lays-10-workforce-wake-phase-3-brittle-bone-trial-fails\" hreflang=\"en\">Ultragenyx lays off 10% of workforce as FDA continues to stall gene therapy approval plans</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ultragenyx-lays-10-workforce-wake-phase-3-brittle-bone-trial-fails",
+        "source": "Fierce Biotech",
+        "published": "Feb 13, 2026 3:03am",
+        "published_dt": "2026-02-13T03:03:00+00:00",
+        "summary": "Ultragenyx's employees were already braced for changes as the biopharma considered how to rebound from a pair of failed late-stage brittle bone disease trials."
       },
       {
-        "id": "17dcbcc74ae3276b",
-        "title": "What\u2019s next for Chinese open-source AI",
-        "url": "https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/",
+        "id": "68254539346252d6",
+        "title": "RFK Jr. follows a carnivore diet. That doesn\u2019t mean you should.",
+        "url": "https://www.technologyreview.com/2026/02/13/1132848/rfk-jr-carnivore-diet-maha-social-media/",
         "source": "MIT Technology Review",
-        "published": "Thu, 12 Feb 2026 10:00:00 +0000",
-        "published_dt": "2026-02-12T10:00:00+00:00",
-        "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. The past year has marked a turning point for Chinese AI. Since DeepSeek released its R1 reasoning model in January 2025, Chinese companies have repeatedly delivered AI&#8230;"
+        "published": "Fri, 13 Feb 2026 10:00:00 +0000",
+        "published_dt": "2026-02-13T10:00:00+00:00",
+        "summary": "Americans have a new set of diet guidelines. Robert F. Kennedy Jr. has taken an old-fashioned food pyramid, turned it upside down, and plonked a steak and a stick of butter in prime positions. Kennedy and his Make America Healthy Again mates have long been extolling the virtues of meat and whole-fat dairy, so it&#8230;"
       },
       {
         "id": "b2b845809c233436",
@@ -102,40 +66,49 @@
         "summary": "The FDA specifically took issue with the trial's control arm, which incorporated a \"licensed standard-dose seasonal influenza vaccine,\" per Moderna's press release."
       },
       {
-        "id": "7f6c3776dc2de78f",
-        "title": "Why a change in fentanyl use has helped drive fewer overdose deaths",
-        "url": "https://www.statnews.com/2026/02/12/fentanyl-switch-injections-smoking-harm-reduction-outreach/?utm_campaign=rss",
+        "id": "3621665310bc381f",
+        "title": "STAT+: How pediatricians found themselves at war with RFK Jr.",
+        "url": "https://www.statnews.com/2026/02/13/american-academy-pediatrics-becomes-maha-vaccine-foil/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Thu, 12 Feb 2026 09:30:00 +0000",
-        "published_dt": "2026-02-12T09:30:00+00:00",
-        "summary": "This week on STATus Report, host Alex Hogan explains why a change in fentanyl use has helped drive fewer overdose deaths."
+        "published": "Fri, 13 Feb 2026 09:30:00 +0000",
+        "published_dt": "2026-02-13T09:30:00+00:00",
+        "summary": "The AAP has become a leading opponent of MAHA and RFK Jr.'s vaccine agenda."
       },
       {
-        "id": "afb7f2f6001a37e2",
-        "title": "Drug injection fades as smoking grows more common, marking sea change in U.S. fentanyl epidemic",
-        "url": "https://www.statnews.com/2026/02/12/fentanyl-harm-reduction-smoking-not-injecting/?utm_campaign=rss",
+        "id": "9a60da8b1baf8158",
+        "title": "Opinion: America\u2019s disease surveillance system is going dark. Here\u2019s what we can build to replace it",
+        "url": "https://www.statnews.com/2026/02/13/cdc-surveillance-dismantled-rebuild-early-warning-systems/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Thu, 12 Feb 2026 09:30:00 +0000",
-        "published_dt": "2026-02-12T09:30:00+00:00",
-        "summary": "Experts view a shift from injecting fentanyl to smoking it as a promising development that could cut overdose deaths and reduce needle-related harms."
+        "published": "Fri, 13 Feb 2026 09:30:00 +0000",
+        "published_dt": "2026-02-13T09:30:00+00:00",
+        "summary": "America\u2019s disease surveillance system is broken. Here\u2019s how to replace it."
       },
       {
-        "id": "6d99414a56e2dd8d",
-        "title": "Opinion: Medicaid work requirements will particularly hurt unpaid caregivers",
-        "url": "https://www.statnews.com/2026/02/12/medicaid-work-requirements-unpaid-caregivers/?utm_campaign=rss",
+        "id": "a1362b2a3bc6dc90",
+        "title": "Opinion: Pharmacist oversight must be built into prescription kiosks",
+        "url": "https://www.statnews.com/2026/02/13/pharmacy-kiosks-automated-medication-dispensing-safety/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Thu, 12 Feb 2026 09:30:00 +0000",
-        "published_dt": "2026-02-12T09:30:00+00:00",
-        "summary": "Big, impending changes to Medicaid will quietly but profoundly decimate the unpaid workforce that already props up our long-term care system."
+        "published": "Fri, 13 Feb 2026 09:30:00 +0000",
+        "published_dt": "2026-02-13T09:30:00+00:00",
+        "summary": "Pharmacy kiosks can expand access and convenience, but only when paired with pharmacist-led safeguards that ensure safe and coordinated medication use."
       },
       {
-        "id": "50f611e0b4bff779",
-        "title": "Opinion: A Greek myth explains the biggest challenge facing oncologists like me",
-        "url": "https://www.statnews.com/2026/02/12/longevity-cancer-attia-topol-sinclair-tithonus/?utm_campaign=rss",
+        "id": "ab82ad011f9b0ea5",
+        "title": "STAT+: Moderna\u2019s president weighs in on FDA\u2019s decision not to review its flu vaccine",
+        "url": "https://www.statnews.com/2026/02/12/moderna-stephen-hoge-interview-flu-vaccine/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Thu, 12 Feb 2026 09:30:00 +0000",
-        "published_dt": "2026-02-12T09:30:00+00:00",
-        "summary": "Oncologists could learn from the Greek myth of Tithonus."
+        "published": "Thu, 12 Feb 2026 23:23:20 +0000",
+        "published_dt": "2026-02-12T23:23:20+00:00",
+        "summary": "In an interview, Moderna President Stephen Hoge took questions on an FDA decision on the biotech's mRNA flu vaccine, as well as the impact on the company and others in&#8230;"
+      },
+      {
+        "id": "8dda8bb5e454a3d1",
+        "title": "The FDA\u2019s refusal to review Moderna\u2019s mRNA flu vaccine",
+        "url": "https://www.statnews.com/2026/02/12/readout-loud-podcast-moderna-fda-vinay-prasad-vaccine/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 12 Feb 2026 23:13:15 +0000",
+        "published_dt": "2026-02-12T23:13:15+00:00",
+        "summary": "This week on \"The Readout LOUD,\" everything you need to know about the FDA's controversial decision to block the review of Moderna\u2019s mRNA flu shot."
       },
       {
         "id": "0e0ed9430d90ca48",
@@ -147,6 +120,42 @@
         "summary": "After the FDA's surprise refusal to take up a review of Moderna's next-gen flu vaccine, the public disagreement between U.S. regulators and the mRNA specialist took another turn Wednesday."
       },
       {
+        "id": "84a567fc8b6ce7f2",
+        "title": "STAT+: FDA\u2019s rejection of Moderna threatens to stifle broader vaccine industry",
+        "url": "https://www.statnews.com/2026/02/12/fda-moderna-rejection-upends-vaccine-industry/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 12 Feb 2026 17:49:04 +0000",
+        "published_dt": "2026-02-12T17:49:04+00:00",
+        "summary": "Experts say the FDA \"moved the goalposts\" on Moderna, creating \"a destructive precedent that will undermine the future of vaccine development\" in the U.S."
+      },
+      {
+        "id": "382f1171fdbbea5a",
+        "title": "STAT+: NIH redefines \u2018clinical trials,\u2019 dividing researchers",
+        "url": "https://www.statnews.com/pharmalot/2026/02/12/nih-clinical-trial-definition-research-transparency/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 12 Feb 2026 15:59:47 +0000",
+        "published_dt": "2026-02-12T15:59:47+00:00",
+        "summary": "In a long-debated move, the NIH will no longer characterize basic experimental studies involving humans as clinical trials."
+      },
+      {
+        "id": "ebb4a0412bc53ded",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lundbecks-migraine-prevention-treatment-sees-success-after-trials-earlier-setback\" hreflang=\"en\">Lundbeck\u2019s migraine prevention treatment sees ph. 2 success after trial\u2019s earlier setback </a>",
+        "url": "https://www.fiercebiotech.com/biotech/lundbecks-migraine-prevention-treatment-sees-success-after-trials-earlier-setback",
+        "source": "Fierce Biotech",
+        "published": "Feb 12, 2026 12:45pm",
+        "published_dt": "2026-02-12T12:45:00+00:00",
+        "summary": "After scrapping one portion of the trial, Lundbeck\u2019s intravenous monoclonal antibody has met the main goal of a phase 2b migraine prevention study, with multiple doses of the experimental treatment tied to a change in monthly migraine days."
+      },
+      {
+        "id": "7b1f22dcc2ce4423",
+        "title": "STAT+: BridgeBio drug for genetic cause of dwarfism succeeds in key study",
+        "url": "https://www.statnews.com/2026/02/12/bridgebio-dwarfism-achondroplasia-infigratinib/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 12 Feb 2026 12:30:00 +0000",
+        "published_dt": "2026-02-12T12:30:00+00:00",
+        "summary": "BridgeBio Pharma\u2019s experimental drug for the most common cause of dwarfism accelerated children\u2019s growth in a pivotal clinical trial."
+      },
+      {
         "id": "5e3cea576cdc0111",
         "title": "<a href=\"https://www.fiercebiotech.com/medtech/labcorp-launches-roches-fda-cleared-alzheimers-blood-test\" hreflang=\"en\">Labcorp launches Roche's FDA-cleared Alzheimer's blood test </a>",
         "url": "https://www.fiercebiotech.com/medtech/labcorp-launches-roches-fda-cleared-alzheimers-blood-test",
@@ -156,79 +165,232 @@
         "summary": "Labcorp is now offering Roche Diagnostics' recently FDA-cleared Alzheimer\u2019s disease blood test to help primary care doctors rule out the disease in people 55 and older with symptoms of cognitive decline, the company announced Feb. 11."
       },
       {
-        "id": "26580c5354bdffd5",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-rejects-regenxbio-hunter-syndrome-gene-therapy-recently-hit-hold-unrelated-brain-tumor\" hreflang=\"en\">FDA rejects Regenxbio's gene therapy in Hunter syndrome, leaving CEO 'concerned'</a>",
-        "url": "https://www.fiercebiotech.com/biotech/fda-rejects-regenxbio-hunter-syndrome-gene-therapy-recently-hit-hold-unrelated-brain-tumor",
+        "id": "131c55c2b6037f36",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/agilent-lands-fda-nod-companion-diagnostic-keytrudas-latest-cancer-approval\" hreflang=\"en\">Agilent companion diagnostic lands FDA nod alongside Keytruda's latest cancer approval</a>",
+        "url": "https://www.fiercebiotech.com/medtech/agilent-lands-fda-nod-companion-diagnostic-keytrudas-latest-cancer-approval",
         "source": "Fierce Biotech",
-        "published": "Feb 9, 2026 3:09pm",
-        "published_dt": "2026-02-09T15:09:00+00:00",
-        "summary": "After facing a delayed decision deadline and a clinical hold, Regenxbio\u2019s Hunter syndrome gene therapy has been rejected by the FDA."
+        "published": "Feb 12, 2026 3:36am",
+        "published_dt": "2026-02-12T03:36:00+00:00",
+        "summary": "As Merck received its latest FDA nod for Keytruda in ovarian cancer, Agilent gained the green light for its accompanying test to identify patients who can best benefit from the drug."
       },
       {
-        "id": "905c21aaa6f1cc23",
-        "title": "STAT+: Paul Hudson out as Sanofi CEO",
-        "url": "https://www.statnews.com/2026/02/12/sanofi-ceo-replaced-paul-hudson-belen-garijo/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 12 Feb 2026 07:21:43 +0000",
-        "published_dt": "2026-02-12T07:21:43+00:00",
-        "summary": "Sanofi is replacing Paul Hudson as CEO, amid questions about which medicines will drive the company's growth in the future."
-      },
-      {
-        "id": "811cdce4a8992e97",
-        "title": "STAT+: Merck is urged by patient groups to ensure widespread access to an HIV prevention pill being tested",
-        "url": "https://www.statnews.com/pharmalot/2026/02/11/merck-aids-hiv-access-gilead-pricing/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 11 Feb 2026 21:21:53 +0000",
-        "published_dt": "2026-02-11T21:21:53+00:00",
-        "summary": "Advocacy groups from 30 countries are urging Merck to create a global access strategy for its once-a-month HIV prevention pill that is still in clinical trials."
-      },
-      {
-        "id": "fc68a1125ae97e7c",
-        "title": "WHO director-general calls plans for U.S.-funded vaccine trial \u2018unethical\u2019",
-        "url": "https://www.statnews.com/2026/02/11/hepatitis-b-vaccine-trial-guinea-bissau-ethics-questioned/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 11 Feb 2026 18:31:02 +0000",
-        "published_dt": "2026-02-11T18:31:02+00:00",
-        "summary": "The director-general of the WHO said a U.S.-funded study of the hepatitis B vaccine in Guinea-Bissau would be \u201cunethical\u201d if it proceeds as planned."
-      },
-      {
-        "id": "47d917a5068b816b",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bridgebio-preps-approval-push-after-dwarfism-drug-increases-height-children-phase-3\" hreflang=\"en\">BridgeBio preps approval push after dwarfism drug increases children's height in phase 3</a>",
-        "url": "https://www.fiercebiotech.com/biotech/bridgebio-preps-approval-push-after-dwarfism-drug-increases-height-children-phase-3",
+        "id": "a56a1b8631817442",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kailera-hengrui-tout-promising-mid-stage-results-obesity-pill\" hreflang=\"en\">Kailera, Hengrui tout up to 12% weight loss in midstage study for obesity pill</a>",
+        "url": "https://www.fiercebiotech.com/biotech/kailera-hengrui-tout-promising-mid-stage-results-obesity-pill",
         "source": "Fierce Biotech",
-        "published": "Feb 12, 2026 6:04am",
-        "published_dt": "2026-02-12T06:04:00+00:00",
-        "summary": "BridgeBio is hoping that infigratinib will get another shot at approval after the medicine hit the key goals of a phase 3 study in a form of dwarfism in children."
+        "published": "Feb 9, 2026 6:45pm",
+        "published_dt": "2026-02-09T18:45:00+00:00",
+        "summary": "Kailera Therapeutics and its China partner Hengrui have released top-line results from a phase 2 trial of their oral version of ribupatide that indicate it has a \u201cpotentially game-changing&nbsp;clinical profile,\u201d according to Kailera\u2019s chief medical officer Scott Wasserman, M.D."
       },
       {
-        "id": "f667fe3d231919c3",
-        "title": "STAT+: Prasad overruled FDA staff to reject Moderna\u2019s flu vaccine application",
-        "url": "https://www.statnews.com/2026/02/11/moderna-flu-vaccine-application-rejected-by-prasad-overruling-fda-staff/?utm_campaign=rss",
+        "id": "a1f62b030e1735d3",
+        "title": "STAT+: Trump administration is urged to use a federal law to authorize generic versions of GLP-1 drugs",
+        "url": "https://www.statnews.com/pharmalot/2026/02/12/patents-obesity-novo-lilly-generics-wegovy-zepbound/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 11 Feb 2026 15:30:40 +0000",
-        "published_dt": "2026-02-11T15:30:40+00:00",
-        "summary": "The rejection is the latest instance of Vinay Prasad overruling career FDA scientists to place vaccines under harsher scrutiny."
+        "published": "Thu, 12 Feb 2026 22:00:46 +0000",
+        "published_dt": "2026-02-12T22:00:46+00:00",
+        "summary": "Public Citizen contends that Novo Nordisk and Eli Lilly's obesity drugs are straining budgets so much that generics should be authorized."
       },
       {
-        "id": "836e2db1002da239",
-        "title": "<a href=\"https://www.fiercebiotech.com/pharma/sanofi-ousts-paul-hudson-after-bumpy-ride-poaches-merck-kgaa-ceo-lead-company\" hreflang=\"en\">Sanofi ousts Paul Hudson after 'bumpy ride,' poaches Merck KGaA CEO to lead the French pharma</a>",
-        "url": "https://www.fiercebiotech.com/pharma/sanofi-ousts-paul-hudson-after-bumpy-ride-poaches-merck-kgaa-ceo-lead-company",
-        "source": "Fierce Biotech",
-        "published": "Feb 12, 2026 4:27am",
-        "published_dt": "2026-02-12T04:27:00+00:00",
-        "summary": "Bel\u00e9n Garijo\u2019s appointment restores a single female CEO to the ranks of the top 10 Big Pharma companies."
+        "id": "d2ec0f102f7501dd",
+        "title": "STAT+: The messaging war over Medicaid cuts",
+        "url": "https://www.statnews.com/2026/02/12/messaging-war-over-medicaid-cuts-moderna-rejection-dc-diagnosis-newsletter/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 12 Feb 2026 16:55:50 +0000",
+        "published_dt": "2026-02-12T16:55:50+00:00",
+        "summary": "This is the web edition of STAT's D.C. Diagnosis newsletter."
       },
       {
-        "id": "442835dd3a5cd933",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-drops-heart-failure-asset-over-phase-2-efficacy-data\" hreflang=\"en\">AstraZeneca relaxed about relaxin drug's poor efficacy in phase 2 heart failure trial</a>",
-        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-drops-heart-failure-asset-over-phase-2-efficacy-data",
-        "source": "Fierce Biotech",
-        "published": "Feb 10, 2026 4:55am",
-        "published_dt": "2026-02-10T04:55:00+00:00",
-        "summary": "AstraZeneca executives have told Fierce Biotech they still see potential in harnessing the relaxin hormone to treat heart failure despite abandoning work on one of two clinical-stage candidates."
+        "id": "62b661963689b61f",
+        "title": "STAT+: A change at the top of Sanofi",
+        "url": "https://www.statnews.com/2026/02/12/biotech-news-sanofi-ceo-paul-hudson-out/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 12 Feb 2026 14:31:59 +0000",
+        "published_dt": "2026-02-12T14:31:59+00:00",
+        "summary": "And other biotech news brought to you by The Readout newsletter"
+      },
+      {
+        "id": "735afb4ece8cb6e8",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about Sanofi replacing its CEO, MFN drug pricing opposed by conservatives, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/02/12/trump-sanofi-abbvie-novo-lilly-gsk-teva-merck-bristol/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 12 Feb 2026 14:25:06 +0000",
+        "published_dt": "2026-02-12T14:25:06+00:00",
+        "summary": "And other pharma news from the Pharmalot campus via the Pharmalittle newsletter"
+      },
+      {
+        "id": "6eea2fa85ca45ce9",
+        "title": "STAT+: Researchers take another look at Apple\u2019s hypertension feature",
+        "url": "https://www.statnews.com/2026/02/12/talkiatry-big-health-funding-bonanza-apple-health-tech/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 12 Feb 2026 13:42:51 +0000",
+        "published_dt": "2026-02-12T13:42:51+00:00",
+        "summary": "In this edition of STAT Health Tech: Fundraises by Talkiatry, Big Health, and the accuracy of Apple Watch hypertension feature."
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "369f1ae04130d189",
+        "title": "Crew-12 launches to ISS",
+        "url": "https://spacenews.com/crew-12-launches-to-iss/",
+        "source": "SpaceNews",
+        "published": "Fri, 13 Feb 2026 12:53:38 +0000",
+        "published_dt": "2026-02-13T12:53:38+00:00",
+        "summary": "<figure><img alt=\"Crew-12 launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"566\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/crew12-liftoff.jpeg?fit=1024%2C566&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A Falcon 9 launched a new crew to the International Space Station Feb. 13 to start a busy schedule of arriving and departing vehicles at the station.</p>\n<p>The post <a href=\"https://spacenews.com/crew-12-launches-to-iss/\">Crew-12 launches to ISS</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "a061f5d017d918d0",
+        "title": "Vast wins ISS private astronaut mission",
+        "url": "https://spacenews.com/vast-wins-iss-private-astronaut-mission/",
+        "source": "SpaceNews",
+        "published": "Fri, 13 Feb 2026 12:39:14 +0000",
+        "published_dt": "2026-02-13T12:39:14+00:00",
+        "summary": "<figure><img alt=\"Photo of the ISS.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"626\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/05/iss.jpg?fit=1024%2C626&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA has selected commercial space station company Vast to fly a private astronaut mission to the International Space Station in 2027.</p>\n<p>The post <a href=\"https://spacenews.com/vast-wins-iss-private-astronaut-mission/\">Vast wins ISS private astronaut mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "8e63a28e3af26d2b",
+        "title": "Dassault names winners of 2026 AAKRUTI contest",
+        "url": "https://www.engineering.com/dassault-names-winners-of-2026-aakruti-contest/",
+        "source": "Engineering.com",
+        "published": "Fri, 13 Feb 2026 12:07:45 +0000",
+        "published_dt": "2026-02-13T12:07:45+00:00",
+        "summary": "<p>Team UJ Wom+n in Tech won for a pedal-powered breast pump; finalists shared $10,000 in prizes at 3DEXPERIENCE World.</p>\n<p>The post <a href=\"https://www.engineering.com/dassault-names-winners-of-2026-aakruti-contest/\">Dassault names winners of 2026 AAKRUTI contest</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "f37382029a34075e",
+        "title": "Starlab partners with Auxilium on orbital bioprinting",
+        "url": "https://www.engineering.com/starlab-partners-with-auxilium-on-orbital-bioprinting/",
+        "source": "Engineering.com",
+        "published": "Fri, 13 Feb 2026 12:02:24 +0000",
+        "published_dt": "2026-02-13T12:02:24+00:00",
+        "summary": "<p>Auxilium\u2019s AMP-1 printer will support regenerative medicine and implantable device R&#038;D in microgravity aboard the commercial station.</p>\n<p>The post <a href=\"https://www.engineering.com/starlab-partners-with-auxilium-on-orbital-bioprinting/\">Starlab partners with Auxilium on orbital bioprinting</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "5854eff6024a9a96",
+        "title": "RoboDK launches RoboDK CAM for robotic machining cells",
+        "url": "https://www.engineering.com/robodk-launches-robodk-cam-for-robotic-machining-cells/",
+        "source": "Engineering.com",
+        "published": "Fri, 13 Feb 2026 11:17:24 +0000",
+        "published_dt": "2026-02-13T11:17:24+00:00",
+        "summary": "<p>New software offers toolpath generation, collision detection, and material-removal simulation, with standalone and CAD/CAM add-in options.</p>\n<p>The post <a href=\"https://www.engineering.com/robodk-launches-robodk-cam-for-robotic-machining-cells/\">RoboDK launches RoboDK CAM for robotic machining cells</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "3532e359baa5e25a",
+        "title": "CONTACT Software partners with TJ Digital in UK",
+        "url": "https://www.engineering.com/contact-software-partners-with-tj-digital-in-uk/",
+        "source": "Engineering.com",
+        "published": "Fri, 13 Feb 2026 11:10:34 +0000",
+        "published_dt": "2026-02-13T11:10:34+00:00",
+        "summary": "<p>The agreement brings PLM, MES and IIoT offerings to UK manufacturers, with TJ Digital Systems providing consulting, integration and support.</p>\n<p>The post <a href=\"https://www.engineering.com/contact-software-partners-with-tj-digital-in-uk/\">CONTACT Software partners with TJ Digital in UK</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "370af12aaa55c393",
+        "title": "Ally Services completes three HVAC acquisitions",
+        "url": "https://www.engineering.com/ally-services-completes-three-hvac-acquisitions/",
+        "source": "Engineering.com",
+        "published": "Fri, 13 Feb 2026 11:10:05 +0000",
+        "published_dt": "2026-02-13T11:10:05+00:00",
+        "summary": "<p>Deals in Virginia, Maryland and Delaware more than doubled revenue and expanded the company\u2019s Mid-Atlantic footprint.</p>\n<p>The post <a href=\"https://www.engineering.com/ally-services-completes-three-hvac-acquisitions/\">Ally Services completes three HVAC acquisitions</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "4d8875cca97eb8f3",
+        "title": "China\u2019s iSpace launch firm raises record $729 million for reusable rockets",
+        "url": "https://spacenews.com/chinas-ispace-launch-firm-raises-record-729-million-for-reusable-rockets/",
+        "source": "SpaceNews",
+        "published": "Fri, 13 Feb 2026 10:58:22 +0000",
+        "published_dt": "2026-02-13T10:58:22+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"542\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Interstellar-Return-recovery-drone-feb2026-ispace-rotated.jpg?fit=867%2C542&amp;ssl=1\" width=\"867\" /></figure>\n<p>Chinese launch firm iSpace has secured a record D++ funding round to accelerate its reusable rocket development efforts and expand its industrial footprint.</p>\n<p>The post <a href=\"https://spacenews.com/chinas-ispace-launch-firm-raises-record-729-million-for-reusable-rockets/\">China\u2019s iSpace launch firm raises record $729 million for reusable rockets</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "9a409a04ca6f4a8a",
+        "title": "Oxide raises $200 million in Series C funding",
+        "url": "https://www.engineering.com/oxide-raises-200-million-in-series-c-funding/",
+        "source": "Engineering.com",
+        "published": "Thu, 12 Feb 2026 10:17:00 +0000",
+        "published_dt": "2026-02-12T10:17:00+00:00",
+        "summary": "<p>Capital will support manufacturing and roadmap for its rack-scale on-prem cloud computing system.</p>\n<p>The post <a href=\"https://www.engineering.com/oxide-raises-200-million-in-series-c-funding/\">Oxide raises $200 million in Series C funding</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "4ffd64ea146f7be9",
+        "title": "The Exploration Company completes water-impact tests for its Nyx space capsule",
+        "url": "https://spacenews.com/the-exploration-company-completes-water-impact-tests-for-its-nyx-space-capsule/",
+        "source": "SpaceNews",
+        "published": "Wed, 11 Feb 2026 19:46:28 +0000",
+        "published_dt": "2026-02-11T19:46:28+00:00",
+        "summary": "<figure><img alt=\"The Exploration Company conducted water-impact tests on a 1:4-scale model of its Nyx space capsule in January. Credit: The Exploration Company\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"661\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/69846d1b73d6b6b771d104ec_Screenshot-2026-02-05-111020.png?fit=1024%2C661&amp;ssl=1\" width=\"1024\" /></figure>\n<p>MILAN \u2014 The French-German aerospace company The Exploration Company completed mock splashdown tests for its Nyx space capsule, a modular, reusable spacecraft designed to transport cargo and eventually crew to low Earth orbit and beyond. The company conducted water-impact tests on a mock capsule from Jan. 13 through 28. The testing campaign was not a [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/the-exploration-company-completes-water-impact-tests-for-its-nyx-space-capsule/\">The Exploration Company completes water-impact tests for its Nyx space capsule</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "6b99b0f6c87e2c01",
+        "title": "Motiv Space Systems and PickNik Robotics Collaborate on Software for NASA\u2019s Fly Foundational Robotics (FFR) Mission",
+        "url": "https://spacenews.com/motiv-space-systems-and-picknik-robotics-collaborate-on-software-for-nasas-fly-foundational-robotics-ffr-mission/",
+        "source": "SpaceNews",
+        "published": "Wed, 11 Feb 2026 16:00:00 +0000",
+        "published_dt": "2026-02-11T16:00:00+00:00",
+        "summary": "<figure><img alt=\"Picknik robotics logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"420\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/picknik-robotics.png?fit=420%2C420&amp;ssl=1\" width=\"420\" /></figure>\n<p>Boulder, CO and Pasadena, CA \u2014 February 11, 2026 \u2014 Motiv Space Systems announced a contractual agreement with PickNik Robotics to support software development for NASA\u2019s Fly Foundational Robotics (FFR) [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/motiv-space-systems-and-picknik-robotics-collaborate-on-software-for-nasas-fly-foundational-robotics-ffr-mission/\">Motiv Space Systems and PickNik Robotics Collaborate on Software for NASA\u2019s Fly Foundational Robotics (FFR) Mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "a58d8ffc9fa2f844",
+        "title": "Space startups find more paths to liquidity as investors warm to maturing sector",
+        "url": "https://spacenews.com/space-startups-find-more-paths-to-liquidity-as-investors-warm-to-maturing-sector/",
+        "source": "SpaceNews",
+        "published": "Thu, 12 Feb 2026 22:27:20 +0000",
+        "published_dt": "2026-02-12T22:27:20+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"566\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Mike-SmallSat-2026-scaled.jpg?fit=1024%2C566&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Young space companies are gaining more ways to cash out or raise larger pools of capital as the industry matures and investors grow more comfortable with the sector.</p>\n<p>The post <a href=\"https://spacenews.com/space-startups-find-more-paths-to-liquidity-as-investors-warm-to-maturing-sector/\">Space startups find more paths to liquidity as investors warm to maturing sector</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "9f38f00c59af3f51",
+        "title": "First Ariane 64 launches Amazon Leo satellites",
+        "url": "https://spacenews.com/first-ariane-64-launches-amazon-leo-satellites/",
+        "source": "SpaceNews",
+        "published": "Thu, 12 Feb 2026 21:53:42 +0000",
+        "published_dt": "2026-02-12T21:53:42+00:00",
+        "summary": "<figure><img alt=\"Ariane 64 launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/ariane64-va267.jpeg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The more powerful version of Europe\u2019s Ariane 6 rocket successfully placed a group of Amazon Leo broadband satellites into orbit on the vehicle\u2019s inaugural launch Feb. 12.</p>\n<p>The post <a href=\"https://spacenews.com/first-ariane-64-launches-amazon-leo-satellites/\">First Ariane 64 launches Amazon Leo satellites</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "2d891e262e693ae1",
+        "title": "Axiom Space raises additional $350 million",
+        "url": "https://spacenews.com/axiom-space-raises-additional-350-million/",
+        "source": "SpaceNews",
+        "published": "Thu, 12 Feb 2026 21:00:00 +0000",
+        "published_dt": "2026-02-12T21:00:00+00:00",
+        "summary": "<figure><img alt=\"Illustration of Axiom Space\u2019s proposed space station. Credit: Axiom\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"513\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/axiom-scaled.jpg?fit=1024%2C513&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Axiom Space has raised $350 million to advance development of a commercial space station and new spacesuits for NASA.</p>\n<p>The post <a href=\"https://spacenews.com/axiom-space-raises-additional-350-million/\">Axiom Space raises additional $350 million</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "f3257b31eded023c",
+        "title": "Europe joins the constellation-launching game with debut of Ariane 64",
+        "url": "https://aerospaceamerica.aiaa.org/europe-joins-the-constellation-launching-game-with-debut-of-ariane-64/",
+        "source": "Aerospace America",
+        "published": "Thu, 12 Feb 2026 20:36:37 +0000",
+        "published_dt": "2026-02-12T20:36:37+00:00",
+        "summary": ""
+      },
+      {
+        "id": "8720002e772f5a62",
+        "title": "ThinKom gets military contract to supply portable ground stations for satellite communications",
+        "url": "https://spacenews.com/thinkom-gets-military-contract-to-supply-portable-ground-stations-for-satellite-communications/",
+        "source": "SpaceNews",
+        "published": "Thu, 12 Feb 2026 19:07:16 +0000",
+        "published_dt": "2026-02-12T19:07:16+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/ThinKom.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The contract will examine the performance of ThinKom\u2019s \u201cportable gateway\u201d for use by dismounted forces </p>\n<p>The post <a href=\"https://spacenews.com/thinkom-gets-military-contract-to-supply-portable-ground-stations-for-satellite-communications/\">ThinKom gets military contract to supply portable ground stations for satellite communications</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "c365e9d4afd7e088",
+        "title": "It is time to take astronomy off Earth",
+        "url": "https://spacenews.com/it-is-time-to-take-astronomy-off-earth/",
+        "source": "SpaceNews",
+        "published": "Thu, 12 Feb 2026 14:00:00 +0000",
+        "published_dt": "2026-02-12T14:00:00+00:00",
+        "summary": "<figure><img alt=\"Illustration of the Chandra X-ray Observatory. Credit: NASA\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/chandra.webp?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Astronomy and commercial space are often portrayed as being on a collision course, yet their futures are deeply intertwined. As satellite constellations expand, astronomers raise concerns about trails across images, interference with radio telescopes and the loss of dark skies. At the same time, commercial operators point to the enormous economic, scientific and national security [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/it-is-time-to-take-astronomy-off-earth/\">It is time to take astronomy off Earth</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "6ae9f9c5e385916a",
+        "title": "Software startup Integrate makes push into defense market following Space Force award",
+        "url": "https://spacenews.com/software-startup-integrate-makes-push-into-defense-market-following-space-force-award/",
+        "source": "SpaceNews",
+        "published": "Thu, 12 Feb 2026 13:47:46 +0000",
+        "published_dt": "2026-02-12T13:47:46+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"606\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/iTKJl8ZyPh090l6cEUlLImKzic.png.webp?fit=1024%2C606&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The company developed a collaborative project management platform designed to operate in classified environments</p>\n<p>The post <a href=\"https://spacenews.com/software-startup-integrate-makes-push-into-defense-market-following-space-force-award/\">Software startup Integrate makes push into defense market following Space Force award</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
       {
         "id": "b47344652c8ba4d7",
         "title": "3D_Evolution 4.9 adds semantic PMI verification",
@@ -266,24 +428,6 @@
         "summary": "<figure><img alt=\"Electron launch of NEONSAT-1A\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/55068437005_72371a65c6_k.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Launch companies are divided on how to compete with SpaceX in a market where demand outstrips supply, yet customers remain price sensitive.</p>\n<p>The post <a href=\"https://spacenews.com/launch-companies-debate-how-to-compete-against-spacex/\">Launch companies debate how to compete against SpaceX</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "9a409a04ca6f4a8a",
-        "title": "Oxide raises $200 million in Series C funding",
-        "url": "https://www.engineering.com/oxide-raises-200-million-in-series-c-funding/",
-        "source": "Engineering.com",
-        "published": "Thu, 12 Feb 2026 10:17:00 +0000",
-        "published_dt": "2026-02-12T10:17:00+00:00",
-        "summary": "<p>Capital will support manufacturing and roadmap for its rack-scale on-prem cloud computing system.</p>\n<p>The post <a href=\"https://www.engineering.com/oxide-raises-200-million-in-series-c-funding/\">Oxide raises $200 million in Series C funding</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "3bda321eacb589ed",
-        "title": "Flexxbotics extends SAP with autonomous process control",
-        "url": "https://www.engineering.com/flexxbotics-extends-sap-with-autonomous-process-control/",
-        "source": "Engineering.com",
-        "published": "Thu, 12 Feb 2026 09:44:00 +0000",
-        "published_dt": "2026-02-12T09:44:00+00:00",
-        "summary": "<p>APC supports SAP S/4HANA, Digital Manufacturing and ECC, using inspection and sensor feedback for closed-loop adjustments.</p>\n<p>The post <a href=\"https://www.engineering.com/flexxbotics-extends-sap-with-autonomous-process-control/\">Flexxbotics extends SAP with autonomous process control</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
         "id": "5b861ff2bf4d522d",
         "title": "Monogoto and Nordic Semiconductor collaborate on nuSIM for IoT",
         "url": "https://www.engineering.com/monogoto-and-nordic-semiconductor-collaborate-on-nusim-for-iot/",
@@ -293,49 +437,13 @@
         "summary": "<p>Partnership supports iSIM in Nordic\u2019s nRF9151 module, with Monogoto connectivity included on the nRF9151-SMA-DK kit.</p>\n<p>The post <a href=\"https://www.engineering.com/monogoto-and-nordic-semiconductor-collaborate-on-nusim-for-iot/\">Monogoto and Nordic Semiconductor collaborate on nuSIM for IoT</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "7c9b46135ac14bcc",
-        "title": "ULA\u2019s Vulcan launches U.S. Space Force mission to geosynchronous orbit",
+        "id": "93b013bf616613da",
+        "title": "ULA\u2019s Vulcan launches Space Force mission; solid booster anomaly under investigation",
         "url": "https://spacenews.com/ulas-vulcan-launches-u-s-space-force-mission-to-geosynchronous-orbit/",
         "source": "SpaceNews",
         "published": "Thu, 12 Feb 2026 10:02:57 +0000",
         "published_dt": "2026-02-12T10:02:57+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"945\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-at-4.58.55-AM.png?fit=1024%2C945&amp;ssl=1\" width=\"1024\" /></figure>\n<p>USSF-87 sends GSSAP payloads and propulsive ESPA ring on fourth Vulcan flight</p>\n<p>The post <a href=\"https://spacenews.com/ulas-vulcan-launches-u-s-space-force-mission-to-geosynchronous-orbit/\">ULA\u2019s Vulcan launches U.S. Space Force mission to geosynchronous orbit</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "c07bb02bdbf65e17",
-        "title": "Revizto joins buildingSMART chapters across the DACH region",
-        "url": "https://www.engineering.com/revizto-joins-buildingsmart-chapters-across-the-dach-region/",
-        "source": "Engineering.com",
-        "published": "Thu, 12 Feb 2026 10:01:00 +0000",
-        "published_dt": "2026-02-12T10:01:00+00:00",
-        "summary": "<p>Membership supports openBIM work in Germany, Austria, and Switzerland, where Revizto is used on hospital and airport projects.</p>\n<p>The post <a href=\"https://www.engineering.com/revizto-joins-buildingsmart-chapters-across-the-dach-region/\">Revizto joins buildingSMART chapters across the DACH region</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "d600442d2162e409",
-        "title": "Apacer adds power protection and efficiency to SSDs",
-        "url": "https://www.engineering.com/apacer-adds-power-protection-and-efficiency-to-ssds/",
-        "source": "Engineering.com",
-        "published": "Thu, 12 Feb 2026 09:12:00 +0000",
-        "published_dt": "2026-02-12T09:12:00+00:00",
-        "summary": "<p>CoreVolt 2 stabilizes voltage with capacitor backup, while CoreEnergy offers selectable modes cutting SSD power use by up to 67%.</p>\n<p>The post <a href=\"https://www.engineering.com/apacer-adds-power-protection-and-efficiency-to-ssds/\">Apacer adds power protection and efficiency to SSDs</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "4ffd64ea146f7be9",
-        "title": "The Exploration Company completes water-impact tests for its Nyx space capsule",
-        "url": "https://spacenews.com/the-exploration-company-completes-water-impact-tests-for-its-nyx-space-capsule/",
-        "source": "SpaceNews",
-        "published": "Wed, 11 Feb 2026 19:46:28 +0000",
-        "published_dt": "2026-02-11T19:46:28+00:00",
-        "summary": "<figure><img alt=\"The Exploration Company conducted water-impact tests on a 1:4-scale model of its Nyx space capsule in January. Credit: The Exploration Company\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"661\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/69846d1b73d6b6b771d104ec_Screenshot-2026-02-05-111020.png?fit=1024%2C661&amp;ssl=1\" width=\"1024\" /></figure>\n<p>MILAN \u2014 The French-German aerospace company The Exploration Company completed mock splashdown tests for its Nyx space capsule, a modular, reusable spacecraft designed to transport cargo and eventually crew to low Earth orbit and beyond. The company conducted water-impact tests on a mock capsule from Jan. 13 through 28. The testing campaign was not a [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/the-exploration-company-completes-water-impact-tests-for-its-nyx-space-capsule/\">The Exploration Company completes water-impact tests for its Nyx space capsule</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "6b99b0f6c87e2c01",
-        "title": "Motiv Space Systems and PickNik Robotics Collaborate on Software for NASA\u2019s Fly Foundational Robotics (FFR) Mission",
-        "url": "https://spacenews.com/motiv-space-systems-and-picknik-robotics-collaborate-on-software-for-nasas-fly-foundational-robotics-ffr-mission/",
-        "source": "SpaceNews",
-        "published": "Wed, 11 Feb 2026 16:00:00 +0000",
-        "published_dt": "2026-02-11T16:00:00+00:00",
-        "summary": "<figure><img alt=\"Picknik robotics logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"420\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/picknik-robotics.png?fit=420%2C420&amp;ssl=1\" width=\"420\" /></figure>\n<p>Boulder, CO and Pasadena, CA \u2014 February 11, 2026 \u2014 Motiv Space Systems announced a contractual agreement with PickNik Robotics to support software development for NASA\u2019s Fly Foundational Robotics (FFR) [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/motiv-space-systems-and-picknik-robotics-collaborate-on-software-for-nasas-fly-foundational-robotics-ffr-mission/\">Motiv Space Systems and PickNik Robotics Collaborate on Software for NASA\u2019s Fly Foundational Robotics (FFR) Mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"945\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-at-4.58.55-AM.png?fit=1024%2C945&amp;ssl=1\" width=\"1024\" /></figure>\n<p>USSF-87 sends GSSAP payloads and propulsive ESPA ring on fourth Vulcan flight</p>\n<p>The post <a href=\"https://spacenews.com/ulas-vulcan-launches-u-s-space-force-mission-to-geosynchronous-orbit/\">ULA\u2019s Vulcan launches Space Force mission; solid booster anomaly under investigation</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "bad0c1427ea871ed",
@@ -345,153 +453,9 @@
         "published": "Thu, 12 Feb 2026 05:05:00 +0000",
         "published_dt": "2026-02-12T05:05:00+00:00",
         "summary": "<figure><img alt=\"Schwarz at SmallSat Symposium 2026\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"711\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/schwarz-smallsat2026.jpeg?fit=1024%2C711&amp;ssl=1\" width=\"1024\" /></figure>\n<p>MOUNTAIN VIEW, Calif. &#8212; The U.S. Federal Communications Commission\u2019s Space Bureau is pursuing an ambitious agenda for regulatory reform. The space plank of the FCC\u2019s Build America Agenda would allocate additional spectrum for space activities, streamline the satellite licensing process and give spacecraft operators more flexibility to modernize operations. \u201cWe&#8217;re seeking to extend the reach [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/fcc-space-bureau-chief-shares-agenda-for-regulatory-reform/\">FCC Space Bureau chief shares agenda for regulatory reform</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "da2c7d64dcbe6f98",
-        "title": "Germany funds 78 million euro human exploration control center",
-        "url": "https://spacenews.com/germany-funds-78-million-euro-human-exploration-control-center/",
-        "source": "SpaceNews",
-        "published": "Tue, 10 Feb 2026 19:57:39 +0000",
-        "published_dt": "2026-02-10T19:57:39+00:00",
-        "summary": "<figure><img alt=\"Officials signed a Declaration of Intent for a moon mission control center at the German Aerospace Center (DLR) site in Oberpfaffenhofen. From left to right are ESA Director General Josef Aschbacher, Minister-President of Bavaria Markus S\u00f6der, DLR Divisional Board Member for Space Anke Pagels-Kerp and Director of DLR&#039;s Space Operations and Astronaut Training Felix Huber. Credit: DLR/Bayerische Staatskanzlei\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/image-2000-fd221d34f992c0156db19b3d347375cc.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>MILAN \u2014 Bavarian Minister-President Markus S\u00f6der announced Feb. 4 that the German Aerospace Center (DLR) will receive 58 million euros ($69 million) to build a Human Exploration Control Center to support future robotic and human exploration missions. The total cost of the facility is 78 million euros and in addition to the Bavarian funding, DLR [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/germany-funds-78-million-euro-human-exploration-control-center/\">Germany funds 78 million euro human exploration control center</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "a3f3dbbd140312d5",
-        "title": "SpaceX IPO may suck oxygen from market before unleashing broad capital surge",
-        "url": "https://spacenews.com/spacex-ipo-may-suck-oxygen-from-market-before-unleashing-broad-capital-surge/",
-        "source": "SpaceNews",
-        "published": "Wed, 11 Feb 2026 22:49:50 +0000",
-        "published_dt": "2026-02-11T22:49:50+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"566\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Tyler-Smallsat-2026-scaled.jpg?fit=1024%2C566&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Space investors and dealmakers anticipate SpaceX\u2019s planned IPO this year will trigger a surge of capital across the industry, but not without the risk of pulling investor attention away from other companies in the run-up.</p>\n<p>The post <a href=\"https://spacenews.com/spacex-ipo-may-suck-oxygen-from-market-before-unleashing-broad-capital-surge/\">SpaceX IPO may suck oxygen from market before unleashing broad capital surge</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "f9b1a43f50273eeb",
-        "title": "UK launcher Orbex files for administration after failed funding efforts",
-        "url": "https://spacenews.com/uk-launcher-orbex-files-for-administration-after-failed-funding-efforts/",
-        "source": "SpaceNews",
-        "published": "Wed, 11 Feb 2026 21:50:49 +0000",
-        "published_dt": "2026-02-11T21:50:49+00:00",
-        "summary": "<figure><img alt=\"Orbex Prime\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/orbexprime-nov2025.jpeg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>\n<p>MILAN \u2014 United Kingdom-based launch company Orbex announced that its business is folding after multiple attempts to stay solvent fell through.\u00a0 The company announced Feb. 11 that it has filed a notice of intention to appoint administrators \u2014 a process in the U.K. that\u2019s similar to declaring bankruptcy \u2014 after fundraising, merger and acquisition efforts [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/uk-launcher-orbex-files-for-administration-after-failed-funding-efforts/\">UK launcher Orbex files for administration after failed funding efforts</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "06a91130a106455b",
-        "title": "Space companies bet on Golden Dome as questions persist over scope and funding",
-        "url": "https://spacenews.com/space-companies-bet-on-golden-dome-as-questions-persist-over-scope-and-funding/",
-        "source": "SpaceNews",
-        "published": "Wed, 11 Feb 2026 21:35:31 +0000",
-        "published_dt": "2026-02-11T21:35:31+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/8792519-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>At SmallSat Symposium, executives cite enduring missile threat as rationale for continued investment</p>\n<p>The post <a href=\"https://spacenews.com/space-companies-bet-on-golden-dome-as-questions-persist-over-scope-and-funding/\">Space companies bet on Golden Dome as questions persist over scope and funding</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "989f4210b597f830",
-        "title": "Integrate Raises $17M to Commercialize the World\u2019s First Ultra-Secure Project Management Platform for Classified Programs",
-        "url": "https://spacenews.com/integrate-raises-17m-to-commercialize-the-worlds-first-ultra-secure-project-management-platform-for-classified-programs/",
-        "source": "SpaceNews",
-        "published": "Wed, 11 Feb 2026 20:40:09 +0000",
-        "published_dt": "2026-02-11T20:40:09+00:00",
-        "summary": "<figure><img alt=\"Integrate logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"200\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/integrate-logo.png?fit=200%2C200&amp;ssl=1\" width=\"200\" /></figure>\n<p>SEATTLE,\u00a0Feb. 11, 2026\u00a0&#8212;\u00a0Integrate, the developer of the world&#8217;s first ultra-secure project management platform for dynamic multi-entity execution, today announced a $17 million Series A raise led by\u00a0FPV Ventures\u00a0with participation from\u00a0Fuse [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/integrate-raises-17m-to-commercialize-the-worlds-first-ultra-secure-project-management-platform-for-classified-programs/\">Integrate Raises $17M to Commercialize the World&#8217;s First Ultra-Secure Project Management Platform for Classified Programs</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "12a0658cc646253f",
-        "title": "Demand for sovereign systems extends to the Earth-observation stack",
-        "url": "https://spacenews.com/demand-for-sovereign-systems-extends-to-the-earth-observation-stack/",
-        "source": "SpaceNews",
-        "published": "Wed, 11 Feb 2026 20:14:49 +0000",
-        "published_dt": "2026-02-11T20:14:49+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"494\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_metaspectral_.png?fit=879%2C494&amp;ssl=1\" width=\"879\" /></figure>\n<p>MOUNTAIN VIEW, Calif. \u2013 At the recent World Economic Forum in Switzerland, much of the conversation revolved around the concerns of middle powers, nations with the wherewithal to influence international events that are not among the great powers. At the SmallSat Symposium in Mountain View, representatives of Earth-observation companies said middle powers that previously relied [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/demand-for-sovereign-systems-extends-to-the-earth-observation-stack/\">Demand for sovereign systems extends to the Earth-observation stack</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "14a14073a4bdc64b",
-        "title": "Register Now: New Approaches to Collapse Space Kill Chains",
-        "url": "https://spacenews.com/new-approaches-to-collapse-space-kill-chains-event/",
-        "source": "SpaceNews",
-        "published": "Wed, 11 Feb 2026 19:30:53 +0000",
-        "published_dt": "2026-02-11T19:30:53+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/space-kill-chains-spaceneews-leidos-2000x1500-1.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Join Leidos and SpaceNews on Thursday, Feb. 19 at 2 p.m. ET to hear how the U.S. Space Force is partnering with industry to accelerate new approaches for collapsing space kill chains through rapid commercial integration and unclassified technology cohorts. </p>\n<p>The post <a href=\"https://spacenews.com/new-approaches-to-collapse-space-kill-chains-event/\">Register Now: New Approaches to Collapse Space Kill Chains</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "372ded53b33fc661",
-        "title": "How much is vertical integration squeezing the smallsat opportunity?",
-        "url": "https://spacenews.com/how-much-is-vertical-integration-squeezing-the-smallsat-opportunity/",
-        "source": "SpaceNews",
-        "published": "Wed, 11 Feb 2026 16:36:22 +0000",
-        "published_dt": "2026-02-11T16:36:22+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"570\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Armand-M-Symposium-2026-scaled.jpg?fit=1024%2C570&amp;ssl=1\" width=\"1024\" /></figure>\n<p>As SpaceX and other vertically integrated space giants expand their reach, questions are growing over just how much room other small satellite companies have to build scalable businesses.</p>\n<p>The post <a href=\"https://spacenews.com/how-much-is-vertical-integration-squeezing-the-smallsat-opportunity/\">How much is vertical integration squeezing the smallsat opportunity?</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "31264ef9d0fa3dd5",
-        "title": "Nine innovative companies selected for fourth cohort of SDA TAP Lab \u2013 Catalyst Campus Mini Accelerator",
-        "url": "https://spacenews.com/nine-innovative-companies-selected-for-fourth-cohort-of-sda-tap-lab-catalyst-campus-mini-accelerator/",
-        "source": "SpaceNews",
-        "published": "Wed, 11 Feb 2026 15:59:50 +0000",
-        "published_dt": "2026-02-11T15:59:50+00:00",
-        "summary": "<figure><img alt=\"Catalyst Campus logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/catalyst-campus.png?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Catalyst Campus is proud to welcome the fourth cohort of small businesses to the SDA TAP Lab \u2013 Catalyst Campus Mini Accelerator, a dynamic two-month program designed to prepare innovative [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/nine-innovative-companies-selected-for-fourth-cohort-of-sda-tap-lab-catalyst-campus-mini-accelerator/\">Nine innovative companies selected for fourth cohort of SDA TAP Lab \u2013 Catalyst Campus Mini Accelerator</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "6878dd231b4b4d19",
-        "title": "Space Force is moving to acquire by mission area, service official says",
-        "url": "https://aerospaceamerica.aiaa.org/space-force-is-moving-to-acquire-by-mission-area-service-official-says/",
-        "source": "Aerospace America",
-        "published": "Wed, 11 Feb 2026 14:10:00 +0000",
-        "published_dt": "2026-02-11T14:10:00+00:00",
-        "summary": ""
-      },
-      {
-        "id": "c2e0a9d1eee6d23c",
-        "title": "Reusable launch vehicles will change everything in space, and on Earth",
-        "url": "https://spacenews.com/reusable-launch-vehicles-will-change-everything-in-space-and-on-earth/",
-        "source": "SpaceNews",
-        "published": "Wed, 11 Feb 2026 14:00:00 +0000",
-        "published_dt": "2026-02-11T14:00:00+00:00",
-        "summary": "<figure><img alt=\"Flight 11 preview\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/flight11preview.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>\u201cWhen you have a fully reusable vehicle \u2026 you can send it anywhere \u2026 to the moon \u2026 past Mars\u201d\u00a0 \u2014Jared Isaacman, NASA Administrator. Imagine a future where thousands of people travel to space every year. Some stay a week. Some a month. Some never come back \u2014 they stay, build and live. Space is [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/reusable-launch-vehicles-will-change-everything-in-space-and-on-earth/\">Reusable launch vehicles will change everything in space, and on Earth</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "a7da82c45f4daea8",
-        "title": "Eutelsat gets nearly 1 billion euros in French-backed ECA financing",
-        "url": "https://spacenews.com/eutelsat-gets-nearly-1-billion-euros-in-french-backed-eca-financing/",
-        "source": "SpaceNews",
-        "published": "Wed, 11 Feb 2026 13:30:31 +0000",
-        "published_dt": "2026-02-11T13:30:31+00:00",
-        "summary": "<figure><img alt=\"OneWeb satellite\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/onewebsat-2026.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Eutelsat has signed a 975 million euro ($1.2 billion) France-backed export credit agency financing package to help fund 440 replacement satellites for its OneWeb LEO broadband constellation.</p>\n<p>The post <a href=\"https://spacenews.com/eutelsat-gets-nearly-1-billion-euros-in-french-backed-eca-financing/\">Eutelsat gets nearly 1 billion euros in French-backed ECA financing</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
-      {
-        "id": "ff5c7ed249742f24",
-        "title": "Ethnic minorities are driving America\u2019s startup boom",
-        "url": "https://www.economist.com/finance-and-economics/2026/02/12/ethnic-minorities-are-driving-americas-startup-boom",
-        "source": "Finance & economics",
-        "published": "Thu, 12 Feb 2026 10:37:30 +0000",
-        "published_dt": "2026-02-12T10:37:30+00:00",
-        "summary": "The covid-19 pandemic set entrepreneurial spirits surging\u2014for some"
-      },
-      {
-        "id": "2b5720593ceda47f",
-        "title": "Why China\u2019s central bank won\u2019t save the country from deflation",
-        "url": "https://www.economist.com/finance-and-economics/2026/02/12/why-chinas-central-bank-wont-save-the-country-from-deflation",
-        "source": "Finance & economics",
-        "published": "Thu, 12 Feb 2026 10:34:11 +0000",
-        "published_dt": "2026-02-12T10:34:11+00:00",
-        "summary": "It\u2019s not about the exchange rate any more"
-      },
-      {
-        "id": "a2dc35d0db34a68f",
-        "title": "Chinese homebuyers are enraged by shoddy building standards",
-        "url": "https://www.economist.com/finance-and-economics/2026/02/12/chinese-homebuyers-are-enraged-by-shoddy-building-standards",
-        "source": "Finance & economics",
-        "published": "Thu, 12 Feb 2026 10:33:19 +0000",
-        "published_dt": "2026-02-12T10:33:19+00:00",
-        "summary": "Crooked walls and broken promises are harming China\u2019s property market"
-      },
-      {
-        "id": "8ca391c1fda22e61",
-        "title": "How to put a price on a human life",
-        "url": "https://www.economist.com/finance-and-economics/2026/02/12/how-to-put-a-price-on-a-human-life",
-        "source": "Finance & economics",
-        "published": "Thu, 12 Feb 2026 10:32:07 +0000",
-        "published_dt": "2026-02-12T10:32:07+00:00",
-        "summary": "As ghoulish as it sounds, it is far better than the alternative"
-      },
       {
         "id": "8bdb71bed85ab958",
         "title": "The H-1B Wage Gap, Visa Fees, and Employer Demand -- by George J. Borjas",
@@ -680,17 +644,71 @@
         "published": "Tue, 06 Jan 2026 17:10:37 +0000",
         "published_dt": "2026-01-06T17:10:37+00:00",
         "summary": "Donald Trump\u2019s tariffs have hurt the factories they were meant to protect"
+      },
+      {
+        "id": "a8cff5f173dab9f5",
+        "title": "Forget affordability. Europe has an availability crisis",
+        "url": "https://www.economist.com/finance-and-economics/2025/12/30/forget-affordability-europe-has-an-availability-crisis",
+        "source": "Finance & economics",
+        "published": "Tue, 30 Dec 2025 11:42:29 +0000",
+        "published_dt": "2025-12-30T11:42:29+00:00",
+        "summary": "Tight regulation is largely to blame"
+      },
+      {
+        "id": "5655671e45b01e30",
+        "title": "How to interpret the pain at the edge of America\u2019s labour market",
+        "url": "https://www.economist.com/finance-and-economics/2025/12/21/how-to-interpret-the-pain-at-the-edge-of-americas-labour-market",
+        "source": "Finance & economics",
+        "published": "Sun, 21 Dec 2025 13:03:31 +0000",
+        "published_dt": "2025-12-21T13:03:31+00:00",
+        "summary": "In the past it has foretold wider weakness. This time may be different"
+      },
+      {
+        "id": "1254b9aaf41c1210",
+        "title": "This Christmas, raise a glass to concentrated market returns",
+        "url": "https://www.economist.com/finance-and-economics/2025/12/17/this-christmas-raise-a-glass-to-concentrated-market-returns",
+        "source": "Finance & economics",
+        "published": "Wed, 17 Dec 2025 19:14:48 +0000",
+        "published_dt": "2025-12-17T19:14:48+00:00",
+        "summary": "A surprisingly large share of companies lag far behind their former greatness"
+      },
+      {
+        "id": "c21d3e7b45dae29a",
+        "title": "What a stiff drink says about China\u2019s economy",
+        "url": "https://www.economist.com/finance-and-economics/2025/12/11/what-a-stiff-drink-says-about-chinas-economy",
+        "source": "Finance & economics",
+        "published": "Thu, 11 Dec 2025 11:12:31 +0000",
+        "published_dt": "2025-12-11T11:12:31+00:00",
+        "summary": "The baijiu business is the latest to be struck by \u201cinvolution\u201d"
       }
     ],
     "Cross-Disciplinary": [
       {
-        "id": "2b8b4f4c59eb410b",
-        "title": "The Download: AI-enhanced cybercrime, and secure AI assistants",
-        "url": "https://www.technologyreview.com/2026/02/12/1132819/the-download-ai-enhanced-cybercrime-and-secure-ai-assistants/",
+        "id": "3e13525b728d302b",
+        "title": "The Download: an exclusive chat with Jim O\u2019Neill, and the surprising truth about heists",
+        "url": "https://www.technologyreview.com/2026/02/13/1132896/the-download-an-exclusive-chat-with-jim-oneill-and-the-surprising-truth-about-heists/",
         "source": "MIT Technology Review",
-        "published": "Thu, 12 Feb 2026 13:10:00 +0000",
-        "published_dt": "2026-02-12T13:10:00+00:00",
-        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is already making online crimes easier. It could get much worse. Just as software engineers are using artificial intelligence to help write code and check for bugs, hackers are using these tools&#8230;"
+        "published": "Fri, 13 Feb 2026 13:10:00 +0000",
+        "published_dt": "2026-02-13T13:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. US deputy health secretary: Vaccine guidelines are still subject to change Over the past year, Jim O\u2019Neill has become one of the most powerful people in public health. As the US deputy health&#8230;"
+      },
+      {
+        "id": "903f5d1a64534a81",
+        "title": "What the FDA\u2019s 2026 Update Means for Wearables",
+        "url": "https://spectrum.ieee.org/fda-medical-device-rules",
+        "source": "IEEE Spectrum",
+        "published": "Thu, 12 Feb 2026 14:00:02 +0000",
+        "published_dt": "2026-02-12T14:00:02+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/illustration-of-a-smart-watch-with-an-eye-ball-displayed-on-the-screen.jpg?id=64099717&amp;width=1245&amp;height=700&amp;coordinates=0%2C49%2C0%2C50\" /><br /><br /><p>As new consumer hardware and software capabilities have bumped up against medicine over the last few years, consumers and manufacturers alike have struggled with identifying the line between \u201cwellness\u201d products such as earbuds that can also amplify and clarify surrounding speakers\u2019 voices and regulated medical devices such as conventional hearing aids. On January 6, 2026, the U.S. Food and Drug Administration issued new guidance documents clarifying how it interprets existing law for the review of wearable and AI-assisted devices. </p><p>The first document, for <a href=\"https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-wellness-policy-low-risk-devices\" rel=\"noopener noreferrer\" target=\"_blank\">general wellness</a>, specifies that the FDA will interpret noninvasive sensors such as sleep trackers or heart rate monitors as low-risk wellness devices while treating invasive devices under conventional regulations. The other document defines how the FDA will exempt <a href=\"https://www.fda.gov/regulatory-information/search-fda-guidance-documents/clinical-decision-support-software\" rel=\"noopener noreferrer\" target=\"_blank\">clinical decision support tools</a> from medical device regulations, limiting such software to analyzing existing data rather than extracting data from sensors, and requiring them to enable independent review of their recommendations. The documents do not rewrite any statutes, but they refine interpretation of existing law, compared to the 2019 and 2022 documents they replace. They offer a fresh lens on how regulators see technology that sits at the intersection of consumer electronics, software, and medicine\u2014a category many other countries are choosing to regulate more strictly rather than less.</p><h2>What the 2026 update changed</h2><p>The 2026 FDA update clarifies how it distinguishes between \u201cmedical information\u201d and systems that measure physiological \u201csignals\u201d or \u201cpatterns.\u201d Earlier guidance discussed these concepts more generally, but the new version defines signal-measuring systems as those that collect continuous, near-continuous, or streaming data from the body for medical purposes, such as home devices transmitting blood pressure, <a href=\"https://spectrum.ieee.org/should-you-trust-apples-new-blood-oxygen-sensor\" target=\"_blank\">oxygen saturation</a>, or <a href=\"https://spectrum.ieee.org/smartphone-camera-senses-patients-pulse-breathing-rate\" target=\"_blank\">heart rate</a> to clinicians. It gives more concrete examples, like a blood glucose lab result as medical information versus continuous glucose monitor readings as signals or patterns.</p><p>The updated guidance also sharpens examples of what counts as medical information that software may display, analyze, or print. These include radiology reports or summaries from legally marketed software, ECG reports annotated by clinicians, blood pressure results from cleared devices, and lab results stored in electronic health records. </p><p>In addition, the 2026 update softens FDA\u2019s earlier stance on clinical decision tools that offer only one recommendation. While prior guidance suggested tools needed to present multiple options to avoid regulation, FDA now indicates that a single recommendation may be acceptable if only one option is clinically appropriate, though it does not define how that determination will be made. </p><p>Separately, updates to the general wellness guidance clarify that some non-invasive wearables\u2014such as optical sensors estimating blood glucose for wellness or nutrition awareness\u2014may qualify as general wellness products, while more invasive technologies would not.</p><h2>Wellness still requires accuracy</h2><p>For designers of wearable health devices, the practical implications go well beyond what label you choose. \u201cCalling something \u2018wellness\u2019 doesn\u2019t reduce the need for rigorous validation,\u201d says <a href=\"https://ece.gatech.edu/directory/omer-t-inan\" rel=\"noopener noreferrer\" target=\"_blank\">Omer Inan</a>, a medical device technology researcher at the Georgia Tech School of Electrical and Computer Engineering. A wearable that reports blood pressure inaccurately could lead a user to conclude that their values are normal when they are not\u2014potentially influencing decisions about seeking clinical care.</p><p>\u201cIn my opinion, engineers designing devices to deliver health and wellness information to consumers should not change their approach based on this new guidance,\u201d says Inan. Certain measurements\u2014such as blood pressure or glucose\u2014carry real medical consequences regardless of how they\u2019re branded, Inan notes.</p><p>Unless engineers follow robust validation protocols for technology delivering health and wellness information, Inan says, consumers and clinicians alike face the risk of faulty information.</p><p>To address that, Inan advocates for transparency: companies should publish their validation results in peer-reviewed journals, and independent third parties without financial ties to the manufacturer should evaluate these systems. That approach, he says, helps the engineering community and the broader public assess the accuracy and reliability of wearable devices.</p><h2>When wellness meets medicine</h2><p>The societal and clinical impacts of wearables are already visible, regardless of regulatory labels, says Sharona Hoffman, JD, a law and bioethics professor at Case Western Reserve University.</p><p>Medical metrics from devices like the Apple Watch or Fitbit may be framed as \u201cwellness,\u201d but in practice many users treat them like medical data, influencing their behavior or decisions about care, Hoffman points out.</p><p>\u201cIt could cause anxiety for patients who constantly check their metrics,\u201d she notes. Alternatively, \u201cA person may enter a doctor\u2019s office confident that their wearable has diagnosed their condition, complicating clinical conversations and decision-making.\u201d</p><p>Moreover, privacy issues remain unresolved, unmentioned in previous or updated guidance documents. Many companies that design wellness devices fall outside protections like the Health Insurance Portability and Accountability Act (HIPAA), meaning data about health metrics could be collected, shared, or sold without the same constraints as traditional medical data. \u201cWe don\u2019t know what they\u2019re collecting information about or whether marketers will get hold of it,\u201d Hoffman says. </p><h2>International approaches</h2><p>The European Union\u2019s Artificial Intelligence Act designates systems that process health-related data or influence clinical decisions as \u201chigh risk,\u201d subjecting them to stringent requirements around data governance, transparency, and human oversight. China and South Korea have also implemented rules that tighten controls on algorithmic systems that intersect with healthcare or public-facing use cases. South Korea provides very specific categories for regulation for technology makers, such as <a href=\"https://www.mfds.go.kr/eng/brd/m_40/list.do\" rel=\"noopener noreferrer\" target=\"_blank\">standards on labeling and description on medical devices and good manufacturing practices</a>. </p><p>Across these regions, regulators are not only classifying technology by its intended use but also by its potential impact on individuals and society at large.</p><p>\u201cOther countries that emphasize technology are still worrying about data privacy and patients,\u201d Hoffman says. \u201cWe\u2019re going in the opposite direction.\u201d</p><h2>Post-market oversight </h2><p>\u201cRegardless of whether something is FDA approved, these technologies will need to be monitored in the sites where they\u2019re used,\u201d says Todd R. Johnson, a professor of biomedical informatics at McWilliams School of Biomedical Informatics at UTHealth Houston, who has worked on FDA-regulated products and informatics in clinical settings. \u201cThere\u2019s no way the makers can ensure ahead of time that all of the recommendations will be sound.\u201d</p><p>Large health systems may have the capacity to audit and monitor tools, but smaller clinics often do not. Monitoring and auditing are not emphasized in the current guidance, raising questions about how reliability and safety will be maintained once devices and software are deployed widely.</p><h2>Balancing innovation and safety</h2><p>For engineers and developers, the FDA\u2019s 2026 guidance presents both opportunities and responsibilities. By clarifying what counts as a regulated device, the agency may reduce upfront barriers for some categories of technology. But that shift also places greater weight on design rigor, validation transparency, and post-market scrutiny. </p><p>\u201cDevice makers do care about safety,\u201d Johnson says. \u201cBut regulation can increase barriers to entry while also increasing safety and accuracy. There\u2019s a trade-off.\u201d</p>"
+      },
+      {
+        "id": "c5ddc53afd2ce334",
+        "title": "The myth of the high-tech heist",
+        "url": "https://www.technologyreview.com/2026/02/13/1132397/myth-of-high-tech-heist/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 13 Feb 2026 11:00:00 +0000",
+        "published_dt": "2026-02-13T11:00:00+00:00",
+        "summary": "Making a movie is a lot like pulling off a heist. That\u2019s what Steven Soderbergh\u2014director of the Ocean\u2019s franchise, among other heist-y classics\u2014said a few years ago. You come up with a creative angle, put together a team of specialists, figure out how to beat the technological challenges, rehearse, move with Swiss-watch precision, and\u2014if you&#8230;"
       },
       {
         "id": "97c3e7656b926af6",
@@ -702,31 +720,22 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/ramses-alcaide-wearing-over-ear-headphones-while-concentrating-on-a-laptop-computer-screen.jpg?id=63707527&amp;width=1245&amp;height=700&amp;coordinates=0%2C156%2C0%2C157\" /><br /><br /><p>Nonmedical devices that read brainwaves, such as smart <a href=\"https://spectrum.ieee.org/muse-headband\" target=\"_self\">headbands</a>, <a href=\"https://www.neurable.com/about\" rel=\"noopener noreferrer\" target=\"_blank\">headphones</a>, and <a href=\"https://www.narbis.shop/collections/frontpage/products/narbis-system-1\" rel=\"noopener noreferrer\" target=\"_blank\">glasses</a>, are becoming more popular among consumers. The products claim to make users more productive, creative, and healthier. <a href=\"https://spectrum.ieee.org/\" target=\"_self\"><em><em>IEEE Spectrum</em></em></a> previewed several of these <a href=\"https://spectrum.ieee.org/ces-2026-preview?utm_source=homepage&amp;utm_medium=hero&amp;utm_campaign=hero-2026-01-05&amp;utm_content=hero1\" target=\"_self\">smart wearables</a> that were introduced at this year\u2019s <a href=\"https://www.ces.tech/\" rel=\"noopener noreferrer\" target=\"_blank\">Consumer Electronics Show</a> (CES) in Las Vegas.</p><p>Since the wearable, noninvasive neurotech products aren\u2019t medical devices, they are <a href=\"https://www.sciencedirect.com/science/chapter/bookseries/abs/pii/S2589295920300199\" rel=\"noopener noreferrer\" target=\"_blank\">not subject to the same forms of regulation</a>\u2014which can lead to gaps in their safety and <a href=\"https://spectrum.ieee.org/privacy-health-tech-seniors\" target=\"_self\">data privacy</a>, as well as their effect on users\u2019 brains.</p><p><a href=\"https://www.unesco.org/en\" rel=\"noopener noreferrer\" target=\"_blank\">UNESCO</a> in November adopted the first global <a href=\"https://www.unesco.org/en/articles/ethics-neurotechnology-unesco-adopts-first-global-standard-cutting-edge-technology\" rel=\"noopener noreferrer\" target=\"_blank\">ethical standard</a> for neurotechnologies, establishing guidelines to protect users\u2019 mental privacy, freedom of thought, and human rights. In 2019 the <a href=\"https://www.oecd.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Organisation for Economic Co-operation and Development</a> issued responsible-neurotechnology <a href=\"https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0457\" rel=\"noopener noreferrer\" target=\"_blank\">recommendations</a>. But there are no socio-technical standards for manufacturers to follow.</p><p>In response, the <a href=\"https://brain.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Brain technical community</a> is developing the IEEE P7700 standard: \u201c<a href=\"https://standards.ieee.org/ieee/7700/11038/\" rel=\"noopener noreferrer\" target=\"_blank\">Recommended Practice for the Responsible Design and Development of Neurotechnologies</a>.\u201d</p><p>The proposed standard is being designed to provide a uniform set of definitions and a methodology to assess the ethical and socio-technical considerations and practices regarding the design, development, and use of neurotechnologies including wearable neurodevices for the brain, says <a href=\"https://sites.psu.edu/neuroethicslab/\" rel=\"noopener noreferrer\" target=\"_blank\">Laura Y. Cabrera</a>, the standard\u2019s working group chair. Cabrera, an IEEE senior member, is an associate professor in the engineering science and mechanics department at <a href=\"https://www.psu.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">Pennsylvania State University</a> in University Park. Her research focuses on the ethical and societal implications of neurotechnologies.</p><p>\u201cIEEE P7700 addresses the unique characteristics of the technology and its impact on individuals and society, in particular, as it moves from therapeutic users to a wide variety of consumers,\u201d she says.</p><p>The standard is sponsored by the <a href=\"https://technologyandsociety.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Society on Social Implications of Technology</a>.</p><h2>Concern over long-term effects</h2><p>The multilayered complexity of technologies that interface with the brain and nervous system presents considerations to those developing them, Cabrera says.</p><p>\u201cThere may be long-term consequences in our brains with these types of technologies,\u201d she says. \u201cMaybe if they were used for a short period of time, there might not be significant consequences. But what are the effects over time?\u201d</p><p>Patients using approved brain-stimulation technology, for example, are told of its risks and benefits, but the long-term effects of headbands to improve students\u2019 attention span aren\u2019t known.</p><p class=\"pull-quote\">\u201cIEEE P7700 addresses the unique characteristics of the technology and its impact on individuals and society, in particular, as it moves from therapeutic users to a wide variety of consumers.\u201d</p><p>IEEE P7700 will address potential risks to individuals and possible negative impacts on society, Cabrera says. That includes creating guardrails to prevent harm, she adds.</p><p>The cultural implications of using neurotechnologies that interface with the brain also need to be considered, she says, because people have different views.</p><p>\u201cThe brain is considered the seed of the self and the organ that orchestrates all our thoughts, behaviors, feelings, and emotions,\u201d she says. \u201cThe brain is really central to who we are.\u201d</p><h2>Developing an ethical framework</h2><p>For the past five years, the <a href=\"https://brain.ieee.org/\" target=\"_blank\">IEEE Brain community</a>\u2019s neuroethics committee has been developing a <a href=\"https://spectrum.ieee.org/ethical-guidelines-in-the-works-for-developers-of-brain-technologies\" target=\"_self\">framework</a> to evaluate the ethical, legal, social, and cultural issues that could emerge from use of the technology. The document covers nine types of applications, including those used for wellness.</p><p>Because more devices kept entering the market, IEEE Brain decided in 2023 that it was time to begin drafting a standard.</p><p>Members of its working group come from Argentina, China, Japan, Italy, Switzerland, and the United States. Participants include developers, engineers, ethicists, lawyers, and social science researchers.</p><p>The standard, Cabrera says, will be the first socio-technical standard aimed at fostering the ethical and responsible innovation of neurotechnology that meets societal and community values at an international level. P7700 will include a how-to guide, criteria for evaluating each suggested process, and case studies to help with the interpretation and practical use of the standard, she says.</p><p>\u201cOur applied ethical approach uses a responsible research and innovation method to enable developers, researchers, users, and regulators to anticipate and address ethical and sociocultural implications of neurotechnologies, mitigating negative unintended consequences while increasing community support and engagement with innovators,\u201d Cabrera says.</p><p>The working group is seeking additional participants to help refine the process, tools, and recommendations.</p><p>\u201cThere are a variety of people who can contribute their expertise,\u201d she says, \u201cincluding academics, data scientists, government program leaders, policymakers, lawyers, social scientists, and users.\u201d</p><p>Cabrera says she anticipates the standard will be published early next year.</p><p>You can register to <a href=\"https://development.standards.ieee.org/myproject-web/public/view.html#/interest/9521\" rel=\"noopener noreferrer\" target=\"_blank\">participate in the standard\u2019s development here</a>.</p>"
       },
       {
-        "id": "440817e6f4f8a1e8",
-        "title": "AI is already making online crimes easier. It could get much worse.",
-        "url": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
+        "id": "9b28ae871db2183f",
+        "title": "US deputy health secretary: Vaccine guidelines are still subject to change",
+        "url": "https://www.technologyreview.com/2026/02/13/1132889/us-deputy-health-secretary-vaccine-guidelines-longevity-arpa-h-cdc-nih/",
         "source": "MIT Technology Review",
-        "published": "Thu, 12 Feb 2026 11:00:00 +0000",
-        "published_dt": "2026-02-12T11:00:00+00:00",
-        "summary": "Anton Cherepanov is always on the lookout for something interesting. And in late August last year, he spotted just that. It was a file uploaded to VirusTotal, a site cybersecurity researchers like him use to analyze submissions for potential viruses and other types of malicious software, often known as malware. On the surface it seemed&#8230;"
+        "published": "Fri, 13 Feb 2026 10:37:40 +0000",
+        "published_dt": "2026-02-13T10:37:40+00:00",
+        "summary": "Over the past year, Jim O\u2019Neill has become one of the most powerful people in public health. As the US deputy health secretary, he holds two roles at the top of the country\u2019s federal health and science agencies. He oversees a department with a budget of over a trillion dollars. And he signed the decision&#8230;"
       },
       {
-        "id": "704f226b9e8f7e86",
-        "title": "Why EVs are gaining ground in Africa",
-        "url": "https://www.technologyreview.com/2026/02/12/1132790/evs-progress-africa/",
+        "id": "68254539346252d6",
+        "title": "RFK Jr. follows a carnivore diet. That doesn\u2019t mean you should.",
+        "url": "https://www.technologyreview.com/2026/02/13/1132848/rfk-jr-carnivore-diet-maha-social-media/",
         "source": "MIT Technology Review",
-        "published": "Thu, 12 Feb 2026 11:00:00 +0000",
-        "published_dt": "2026-02-12T11:00:00+00:00",
-        "summary": "EVs are getting cheaper and more common all over the world. But the technology still faces major challenges in some markets, including many countries in Africa. Some regions across the continent still have limited grid and charging infrastructure, and those that do have widespread electricity access sometimes face reliability issues\u2014a problem for EV owners, who&#8230;"
-      },
-      {
-        "id": "17dcbcc74ae3276b",
-        "title": "What\u2019s next for Chinese open-source AI",
-        "url": "https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 12 Feb 2026 10:00:00 +0000",
-        "published_dt": "2026-02-12T10:00:00+00:00",
-        "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. The past year has marked a turning point for Chinese AI. Since DeepSeek released its R1 reasoning model in January 2025, Chinese companies have repeatedly delivered AI&#8230;"
+        "published": "Fri, 13 Feb 2026 10:00:00 +0000",
+        "published_dt": "2026-02-13T10:00:00+00:00",
+        "summary": "Americans have a new set of diet guidelines. Robert F. Kennedy Jr. has taken an old-fashioned food pyramid, turned it upside down, and plonked a steak and a stick of butter in prime positions. Kennedy and his Make America Healthy Again mates have long been extolling the virtues of meat and whole-fat dairy, so it&#8230;"
       },
       {
         "id": "5f35f066492d5c39",
@@ -846,6 +855,51 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/bird-s-eye-view-of-a-geothermal-drilling-plant.jpg?id=63340009&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p><span>As the Trump administration doubles down on its energy and AI dominance agenda, U.S. energy companies have found themselves navigating tricky communication strategies. Touting the clean, carbon-free nature of renewable energy no longer carries the clout it did under the Biden administration</span><strong>, </strong>and policy has shifted against certain forms of renewables<span>. At the same time, energy companies </span>are being called upon to meet <a href=\"https://spectrum.ieee.org/nuclear-powered-data-center\" target=\"_self\">rising power demands of data-center developers</a><span>, many of which are prioritizing carbon-free options.</span></p><p>This has forced energy companies to shift the way they communicate: They must garner political favor while also positioning themselves as an answer to the coming onslaught of electricity demand.</p><p>The wind and solar industries are focusing on electricity affordability and the fact that wind farms and photovoltaics are the cheapest and fastest way to add new energy generation. Battery storage developers are aligning themselves with Trump\u2019s domestic manufacturing push, <a href=\"https://www.latitudemedia.com/news/the-unexpected-clean-energy-winner-of-2025-energy-storage/\" target=\"_blank\"><span>scaling up efforts</span></a> to shift supply chains to the United States as they <a href=\"https://www.canarymedia.com/articles/politics/the-great-climate-vibe-shift-of-2025\" target=\"_blank\"><span>battle uncertainty</span></a> over tariffs.</p><p>Nuclear power companies are touting their ability to go small and modular\u2014<a href=\"https://spectrum.ieee.org/nuclear-powered-data-center\" target=\"_blank\">theoretically a faster way to get reactors running</a>. Next-generation geothermal developers are staying the course but playing up the industry\u2019s crossovers with oil and gas. Hydrogen, too, is being highlighted as similar to fossil fuels. And the offshore wind industry is mostly preoccupied with <span><a href=\"https://www.politico.com/news/2026/01/18/trump-offshore-wind-problems-00734850\" target=\"_blank\">using the courts</a></span> to fight the Trump administration\u2019s repeated attempts to ban development.</p><p>It\u2019s not that the renewable technologies themselves have changed, says <a href=\"https://www.linkedin.com/in/samuelefurfari/?originalSubdomain=be\" target=\"_blank\"><span>Samuel Furfari</span></a>, former European Commission senior energy official and current energy geopolitics professor at ESCP Business School in London. \u201cMr. Trump has made a communication revolution, not an energy revolution,\u201d he says about the state of the industry in the United States and abroad.</p><h2>Trump Declares His Energy Darlings <em></em></h2><p>Trump\u2019s affinity for fossil fuels and his disdain for certain renewables, such as wind, have constructed a new federal hierarchy of energy sources. On day one of his second term as U.S. president, Trump issued an <a href=\"https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency/\" target=\"_blank\"><span>executive order</span></a> listing which energy resources his country should promote. The list mentions fossil fuels, geothermal, and nuclear but excludes solar, wind, and hydrogen.</p><p>Then, in July, the One Big Beautiful Bill Act slashed renewable energy incentives for wind and solar while <a href=\"https://spectrum.ieee.org/geothermal-energy-big-beautiful-bill\" target=\"_blank\">extending the tax credits for geothermal</a> through 2033. On 1 December, Trump\u2019s Department of Energy <a href=\"https://www.nrel.gov/news/detail/press/2025/news-release-energy-department-renames-nrel-'national-lab-of-the-rockies'\" target=\"_blank\"><span>renamed</span></a> the National Renewable Energy Laboratory to the National Laboratory of the Rockies\u2014a moniker to demote renewables and reflect the lab\u2019s \u201cexpanding mission\u201d under Trump. And in an eleventh-hour move, the Department of the Interior at the end of 2025 <a href=\"https://www.politico.com/news/2025/12/22/interior-pauses-construction-of-all-offshore-wind-projects-citing-national-security-concerns-00702593\" target=\"_blank\"><span>halted</span></a> all offshore wind projects under construction, citing national security risks.</p><p>At first, the wind and solar industries attempted to fit into the Trump administration\u2019s agenda by leaning into his energy dominance rhetoric, says clean energy consultant  <a href=\"https://greencapitol.net/team\" target=\"_blank\"><span>Lloyd Ritter in Washington D.C.</span></a> But after the government gutted tax incentives for wind and solar, and concerns over high electricity bills became a top election issue, industry players <span>prioritized </span> messaging <span>about </span> affordability for consumers, Ritter says.</p><p>\u201cElectricity costs are now a thing in politics, and I don\u2019t think that\u2019s going to change anytime soon,\u201d Ritter says. The cost concerns stem from estimates that electricity use in the United States is projected to increase 32 percent by 2030,  mostly from data centers, according to the latest <a href=\"https://gridstrategiesllc.com/wp-content/uploads/Grid-Strategies-National-Load-Growth-Report-2025.pdf\" target=\"_blank\"><span>forecast</span></a> from Grid Strategies.</p><p>The solar and storage industries are welcoming these demand projections. That\u2019s because solar is still the \u201cfastest and cheapest form of electronics to get onto the grid,\u201d says <a href=\"https://cleantx.org/raina-hornaday\" target=\"_blank\"><span>Raina Hornaday</span></a>, cofounder of Austin, Texas\u2013based <a href=\"https://caprockrenewables.com/\" target=\"_blank\"><span>Caprock Renewables</span></a>, a solar and storage developer. In her view, meeting the load demands of data centers is going to take care of the political backlash that solar and storage have endured under the Trump administration.</p><p>Hornaday sees a particular opening for batteries. \u201cThe R&amp;D for battery storage is really the winner across the board, and we don\u2019t consider battery storage renewable. It can utilize renewable energy electrons, but it doesn\u2019t have to,\u201d she says. \u201cIt can be power from the grid.\u201d</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Storage pond at a geothermal power plant.\" class=\"rm-shortcode\" id=\"7c045\" src=\"https://spectrum.ieee.org/media-library/storage-pond-at-a-geothermal-power-plant.jpg?id=63340114&amp;width=980\" /> <small class=\"image-media media-caption\">Sage Geosystems harvests heat from underground water reservoirs. The company has recently shifted from talking about geothermal energy as clean to its ability to get electricity to the grid faster to accommodate data-center growth. </small><small class=\"image-media media-photo-credit\">Sage Geosystems</small></p><h2>Geothermal Inherits Fortuitous Position </h2><p>The communications framing for next-generation geothermal power has shifted too, despite it being a political favorite. Companies in this sector say they are continuing to emphasize geothermal as a baseload power source\u2014something that can crank out electricity 24/7, like fossil fuels can. But projected increases in power demand have shifted other elements of the conversation.</p><p>The leading communication strategies now are less about geothermal\u2019s carbon-free benefits and more about getting energy to the grid faster to address data-center growth, says <a href=\"https://www.linkedin.com/in/cindy-d-taff-53b77a57/\" target=\"_blank\"><span>Cindy Taff</span></a>, CEO of Houston-based startup <a href=\"https://www.sagegeosystems.com/\" target=\"_blank\"><span>Sage Geosystems</span></a>. Geothermal companies are <span>also </span>talking about <span>how </span>their use of drilling technology, know-how, and other synergies borrowed from the oil and gas industries can fast-track development.</p><p>\u201cWhen we first started Sage four and a half years ago, we were talking about it being clean and renewable, but if you think about it, there\u2019s now a little bit more allergic connotation with clean and renewable,\u201d says Taff, who spent more than 35 years in well construction and project management at Shell before founding Sage.</p><p>Lessening the use of climate-focused language is something \u201cthe whole industry\u201d is doing, adds  <a href=\"https://www.linkedin.com/in/geoffgarrison/\" target=\"_blank\"><span>Geoffrey Garrison</span></a>, vice president of operations at  <a href=\"https://www.quaise.com/\" target=\"_blank\"><span>Quaise Energy</span></a>, headquartered in Houston. \u201cI think you have to be cognizant of who\u2019s listening and who has got their hands on the lever.\u2026 You tailor your message,\u201d he says.</p><p>Other Trump administration priorities, like <span>moving industry and manufacturing back to U.S. soil, </span>are top of mind for geothermal companies, says <a href=\"https://www.linkedin.com/in/sarah-jewett-10b0732a/\" target=\"_blank\"><span>Sarah Jewett</span></a>, senior vice president of strategy at  <a href=\"https://fervoenergy.com/\" target=\"_blank\"><span>Fervo Energy</span></a>, also in Houston. \u201cWe are thinking a lot more about localization of [the] supply chain, in large part due to this administration\u2019s focus,\u201d Jewett says.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"A geothermal drilling rig in a snowy prairie, with a large mountain range in the background.\" class=\"rm-shortcode\" id=\"d5e4e\" src=\"https://spectrum.ieee.org/media-library/a-geothermal-drilling-rig-in-a-snowy-prairie-with-a-large-mountain-range-in-the-background.jpg?id=63340089&amp;width=980\" /> <small class=\"image-media media-caption\">In its pitches to investors, Fervo Energy includes talking points about how geothermal energy drilling uses technology from the oil and gas industry.  </small><small class=\"image-media media-photo-credit\">Fervo Energy</small></p><p>Overall, Fervo\u2019s messaging has remained \u201cpretty consistent\u201d between U.S. presidential administrations, Jewett says. In its pitch to investors, Fervo includes talking points about how next-generation geothermal uses drilling technology from the oil and gas industry. But clean energy isn\u2019t completely missing from Fervo\u2019s communications. \u201cSome sides of the aisle like parts of it, and other parts of the aisle like other parts of it,\u201d Jewett says.</p><p>Like geothermal, nuclear power has enjoyed support from both political parties in the United States. It too is now focusing on touting its ability to meet rising electricity demand, albeit through the <a href=\"https://spectrum.ieee.org/three-mile-island\" target=\"_self\"><span>restarting of decommissioned reactors</span></a>, the <a href=\"https://spectrum.ieee.org/80-billion-us-nuclear-power\" target=\"_self\"><span>building of massive new plants</span></a>, and experimentation with advanced solutions such as <a href=\"https://spectrum.ieee.org/small-modular-reactor-united-states\" target=\"_self\"><span>small modular reactors</span></a> and <a href=\"https://spectrum.ieee.org/microreactor\" target=\"_self\"><span>microreactors</span></a>.</p><h2> Countries Adopt \u2018Energy Addition\u2019 Tack</h2><p>It\u2019s not just U.S. companies that are shifting the message. In November at ADIPEC, the world\u2019s largest annual energy conference, held in Abu Dhabi, widely adopted buzzwords such as \u201cenergy transition\u201d\u2014a term referring to the shift away from fossil fuels\u2014were being swapped with \u201cenergy addition.\u201d</p><p>That\u2019s not solely a result in shifting political tides. The surge in energy demand may indeed necessitate more of an addition<span>, rather than a complete transition</span>. It\u2019s a reasonable shift, given the \u201chockey stick\u201d demand increase the industry is facing, says Taff at Sage. \u201cEnergy transition was, in my opinion, when [demand] uptick was very steady. But now that you\u2019ve got the hockey stick, the use of \u2018addition\u2019\u2026is much more applicable,\u201d she says.</p><p>Abroad, <span>Trump\u2019s impact reverberates,  </span> Furfari says. \u201cWe were shy to mention fossil fuel. Mr. Trump does not care, and says, \u2018No, we need fossil fuel.\u2019 This is changing the world.\u201d</p>"
       },
       {
+        "id": "741d87206db04bd1",
+        "title": "LEDs Enter the Nanoscale",
+        "url": "https://spectrum.ieee.org/nanoled-research-approaches",
+        "source": "IEEE Spectrum",
+        "published": "Thu, 12 Feb 2026 15:00:03 +0000",
+        "published_dt": "2026-02-12T15:00:03+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/close-up-of-an-illuminated-plus-sign-made-out-of-nano-scale-led-lights.jpg?id=64100009&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p><a href=\"https://spectrum.ieee.org/virtual-reality-head-set-8k\" target=\"_self\">MicroLEDs</a>, with pixels just micrometers across, have long been a byword in the display world. Now, microLED-makers have begun shrinking their creations into the uncharted nano realm. In January, a startup named Polar Light Technologies unveiled <a href=\"https://www.semiconductor-today.com/news_items/2026/jan/polarlight2-210126.shtml\" rel=\"noopener noreferrer\" target=\"_blank\">prototype blue LEDs</a> less than 500 nanometers across. This raises a tempting question: How far can LEDs shrink?</p><p>We know the answer is, at least, considerably smaller. In the past year, two different research groups have demonstrated LED pixels at sizes of 100 nm or less.</p><p>These are some of the smallest LEDs ever created. They leave much to be desired in their efficiency\u2014but one day, nanoLEDs could power ultra-high-resolution virtual reality displays and high-bandwidth on-chip photonics. And the key to making even tinier LEDs, if these early attempts are any precedents, may be to make more unusual LEDs.</p><h2>New Approaches to LED</h2><p>Take Polar Light\u2019s example. Like many LEDs, the Sweden-based startup\u2019s diodes are fashioned from III-V semiconductors like gallium nitride (GaN) and indium gallium nitride (InGaN). Unlike many LEDs, which are etched into their semiconductor from the top down, Polar Light\u2019s are instead fabricated by building peculiarly shaped <a href=\"https://www.polar-light-technologies.com/technology-2/\" rel=\"noopener noreferrer\" target=\"_blank\">hexagonal pyramids</a> from the bottom up. </p><p>Polar Light designed its pyramids for the larger microLED market, and plans to start commercial production in late 2026. But they also wanted to test how small their pyramids could shrink. So far, they\u2019ve made pyramids 300 nm across. \u201cWe haven\u2019t reached the limit, yet,\u201d says<a href=\"https://www.polar-light-technologies.com/about-us/\" rel=\"noopener noreferrer\" target=\"_blank\"> Oskar Fajerson</a>, Polar Light\u2019s CEO. \u201cDo we know the limit? No, we don\u2019t, but we can [make] them smaller.\u201d</p><p>Elsewhere, researchers have already done that. Some of the world\u2019s tiniest LEDs come from groups who have foregone the standard III-V semiconductors in favor of other types of LEDs\u2014like <a href=\"https://spectrum.ieee.org/stretchable-oleds-wearable-display-drexel\" target=\"_self\">OLEDs</a>. </p><p>\u201cWe are thinking of a different pathway for organic semiconductors,\u201d says<a href=\"https://shihlab.ethz.ch/\" rel=\"noopener noreferrer\" target=\"_blank\"> Chih-Jen Shih</a>, a chemical engineer at ETH Zurich in Switzerland. Shih and his colleagues were interested in finding a way to fabricate small OLEDs at scale. Using an <a href=\"https://spectrum.ieee.org/lithographic-feature-sizes-reduced-down-to-one-nanometer\" target=\"_self\">electron-beam lithography</a>-based technique, they crafted arrays of green OLEDs with pixels as small as 100 nm across.</p><p>Where today\u2019s best displays have <a href=\"https://spectrum.ieee.org/virtual-reality-head-set-8k\" target=\"_self\">14,000 pixels per inch</a>, these nanoLEDs\u2014presented in an <a href=\"https://www.nature.com/articles/s41566-025-01785-z\" rel=\"noopener noreferrer\" target=\"_blank\">October 2025 <em><em>Nature Photonics </em></em>paper</a>\u2014can reach 100,000 pixels per inch.</p><p>Another group tried their hands with <a href=\"https://spectrum.ieee.org/led-display-perovskite-charger\" target=\"_self\">perovskites</a>, cage-shaped materials best-known for their prowess in <a href=\"https://spectrum.ieee.org/perovskite-2667580324\" target=\"_self\">high-efficiency solar panels</a>. Perovskites have recently gained traction in LEDs too. \u201cWe wanted to see what would happen if we make perovskite LEDs smaller, all the way down to the micrometer and nanometer length-scale,\u201d says<a href=\"https://person.zju.edu.cn/en/daweidi\" rel=\"noopener noreferrer\" target=\"_blank\"> Dawei Di</a>, engineer at Zhejiang University in Hangzhou, China. </p><p>Di\u2019s group started with comparatively colossal perovskite LED pixels, measuring hundreds of micrometers. Then, they fabricated sequences of smaller and smaller pixels, each tinier than the last. Even after the 1 \u03bcm mark, they did not stop: 890 nm, then 440 nm, only bottoming out at 90 nm. These 90 nm red and green pixels, presented in a <a href=\"https://www.nature.com/articles/s41586-025-08685-w#Abs1\" rel=\"noopener noreferrer\" target=\"_blank\">March 2025 <em><em>Nature </em></em>paper</a>, likely represent the smallest LEDs reported to date.</p><h2>Efficiency Challenges</h2><p>Unfortunately, small size comes at a cost: Shrinking LEDs also shrinks their efficiency. Di\u2019s group\u2019s perovskite nanoLEDs have external quantum efficiencies\u2014a measure of how many injected electrons are converted into photons\u2014around 5 to 10 percent; Shih\u2019s group\u2019s nano-OLED arrays performed slightly better, topping 13 percent. For comparison, a typical millimeter-sized III-V LED can reach <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC5706270/\" rel=\"noopener noreferrer\" target=\"_blank\">50 to 70 percent</a>, depending on its color.</p><p>Shih, however, is optimistic that modifying how nano-OLEDs are made can boost their efficiency. \u201cIn principle, you can achieve 30 percent, 40 percent external quantum efficiency with OLEDs, even with a smaller pixel, but it takes time to optimize the process,\u201d Shih says.<br /><br />Di thinks that researchers could take perovskite nanoLEDs to less dire efficiencies by tinkering with the material. Although his group is now focusing on the larger perovskite microLEDs, Di expects researchers will eventually reckon with nanoLEDs\u2019 efficiency gap. If applications of smaller LEDs become appealing, \u201cthis issue could become increasingly important,\u201d Di says. </p><h2>What Can NanoLEDs Be Used For?</h2><p><span>What can you actually do with LEDs this small? Today, the push for tinier pixels largely comes from devices like smart glasses and virtual reality headsets. Makers of these displays are hungry for smaller and smaller pixels in a chase for bleeding-edge picture quality with low power consumption (one reason that efficiency is important). Polar Light\u2019s Fajerson says that smart-glass manufacturers today are already seeking 3 \u03bcm pixels.</span></p><p><span></span><span>But researchers are skeptical that VR displays will ever need pixels smaller than around 1 \u03bcm. Shrink pixels too far beyond that, and they\u2019ll cross their light\u2019s</span><a href=\"https://svi.nl/DiffractionLimit\" target=\"_blank\"> diffraction limit</a><span>\u2014that means they\u2019ll become too small for the human eye to resolve. Shih\u2019s and Di\u2019s groups have already crossed the limit with their 100-nm and 90-nm pixels.</span></p><p><span></span><span>Very tiny LEDs may instead find use in on-chip photonics systems, allowing the likes of AI data centers to communicate with greater bandwidths than they can today. Chip manufacturing giant TSMC is </span><a href=\"https://spectrum.ieee.org/tsmc-microled-optical-interconnects\" target=\"_self\">already trying out microLED interconnects</a><span>, and it\u2019s easy to imagine chipmakers turning to even smaller LEDs in the future.</span></p><p>But the tiniest nanoLEDs may have even more exotic applications, because they\u2019re smaller than the wavelengths of their light. \u201cFrom a process point of view, you are making a new component that was not possible in the past,\u201d Shih says.</p><p>For example, Shih\u2019s group showed their nano-OLEDs could form a <a href=\"https://spectrum.ieee.org/lifi-lidar-metasurface-applications\" target=\"_self\">metasurface</a>\u2014a structure that uses its pixels\u2019 nano-sizes to control how each pixel interacts with its neighbors. One day, similar devices could focus nanoLED light into laser-like beams or create holographic 3D nanoLED displays.</p>"
+      },
+      {
+        "id": "2b8b4f4c59eb410b",
+        "title": "The Download: AI-enhanced cybercrime, and secure AI assistants",
+        "url": "https://www.technologyreview.com/2026/02/12/1132819/the-download-ai-enhanced-cybercrime-and-secure-ai-assistants/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 12 Feb 2026 13:10:00 +0000",
+        "published_dt": "2026-02-12T13:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is already making online crimes easier. It could get much worse. Just as software engineers are using artificial intelligence to help write code and check for bugs, hackers are using these tools&#8230;"
+      },
+      {
+        "id": "440817e6f4f8a1e8",
+        "title": "AI is already making online crimes easier. It could get much worse.",
+        "url": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 12 Feb 2026 11:00:00 +0000",
+        "published_dt": "2026-02-12T11:00:00+00:00",
+        "summary": "Anton Cherepanov is always on the lookout for something interesting. And in late August last year, he spotted just that. It was a file uploaded to VirusTotal, a site cybersecurity researchers like him use to analyze submissions for potential viruses and other types of malicious software, often known as malware. On the surface it seemed&#8230;"
+      },
+      {
+        "id": "704f226b9e8f7e86",
+        "title": "Why EVs are gaining ground in Africa",
+        "url": "https://www.technologyreview.com/2026/02/12/1132790/evs-progress-africa/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 12 Feb 2026 11:00:00 +0000",
+        "published_dt": "2026-02-12T11:00:00+00:00",
+        "summary": "EVs are getting cheaper and more common all over the world. But the technology still faces major challenges in some markets, including many countries in Africa. Some regions across the continent still have limited grid and charging infrastructure, and those that do have widespread electricity access sometimes face reliability issues\u2014a problem for EV owners, who&#8230;"
+      },
+      {
+        "id": "17dcbcc74ae3276b",
+        "title": "What\u2019s next for Chinese open-source AI",
+        "url": "https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 12 Feb 2026 10:00:00 +0000",
+        "published_dt": "2026-02-12T10:00:00+00:00",
+        "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. The past year has marked a turning point for Chinese AI. Since DeepSeek released its R1 reasoning model in January 2025, Chinese companies have repeatedly delivered AI&#8230;"
+      },
+      {
         "id": "b9096338bb6e583e",
         "title": "Is a secure AI assistant possible?",
         "url": "https://www.technologyreview.com/2026/02/11/1132768/is-a-secure-ai-assistant-possible/",
@@ -853,60 +907,6 @@
         "published": "Wed, 11 Feb 2026 20:08:35 +0000",
         "published_dt": "2026-02-11T20:08:35+00:00",
         "summary": "AI agents are a risky business. Even when stuck inside the chatbox window, LLMs will make mistakes and behave badly. Once they have tools that they can use to interact with the outside world, such as web browsers and email addresses, the consequences of those mistakes become far more serious. That might explain why the&#8230;"
-      },
-      {
-        "id": "a389ece12a576ccb",
-        "title": "Tips for Using AI Tools in Technical Interviews",
-        "url": "https://spectrum.ieee.org/ai-tools-interviews",
-        "source": "IEEE Spectrum",
-        "published": "Wed, 11 Feb 2026 18:15:02 +0000",
-        "published_dt": "2026-02-11T18:15:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=61876810&amp;width=1245&amp;height=700&amp;coordinates=0%2C112%2C0%2C113\" /><br /><br /><p><em>This article is crossposted from </em>IEEE Spectrum<em>\u2019s careers newsletter. <a href=\"https://engage.ieee.org/Career-Alert-Sign-Up.html\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Sign up now</em></a><em> to get insider tips, expert advice, and practical strategies, <em><em>written i<em>n partnership with tech career development company <a href=\"https://www.parsity.io/\" target=\"_blank\">Parsity</a> and </em></em></em>delivered to your inbox for free!</em></em></p><p><em><em></em></em><span>We\u2019d like to introduce Brian Jenney, a senior software engineer and owner of Parsity, an online education platform that helps people break into AI and modern software roles through hands-on training. Brian will be sharing his advice on engineering careers with you in the coming weeks of Career Alert.</span></p><p>Here\u2019s a note from Brian: </p><p>\u201c12 years ago, I learned to code at the age of 30. Since then I\u2019ve led engineering teams, worked at organizations ranging from five-person startups to Fortune 500 companies, and taught hundreds of others who want to break into tech. I write for engineers who want practical ways to get better at what they do and advance in their careers. I hope you find what I write helpful.\u201d</p><h1>Technical Interviews in the Age of AI Tools</h1><p>Last year, I was conducting interviews for an AI startup position. We allowed unlimited AI usage during the technical challenge round. Candidates could use Cursor, Claude Code, ChatGPT, or any assistant they normally worked with. We wanted to see how they used modern tools.</p><p>During one interview, we asked a candidate a simple question: \u201cCan you explain what the first line of your solution is doing?\u201d</p><p>Silence.</p><p>After a long pause, he admitted he had no idea. His solution was correct. The code worked. But he couldn\u2019t explain how or why. This wasn\u2019t an isolated incident. Around 20 percent of the candidates we interviewed were unable to explain how their solutions worked, only that they did.</p><h2>When AI Makes Interviews Harder</h2><p>A few months earlier, I was on the other side of the table at this same company. During a live interview, I instinctively switched from my AI-enabled code editor to my regular one. The CTO stopped me.</p><p>\u201cJust use whatever you normally would. We want to see how you work with AI.\u201d</p><p>I thought the interview would be easy. But I was wrong.</p><p>Instead of only evaluating correctness, the interviewer focused on my decision-making process:</p><ul><li>Why did I accept certain suggestions?</li><li>Why did I reject others?</li><li>How did I decide when AI helped versus when it created more work?</li></ul><p>I wasn\u2019t just solving a problem in front of strangers. I was explaining my judgment and defending my decisions in real time, and AI created more surface area for judgment. Counterintuitively, the interview was harder.</p><h2>The Shift in Interview Evaluation</h2><p>Most engineers now use AI tools in some form, whether they write code, analyze data, design systems, or automate workflows. AI can generate output quickly, but it can\u2019t explain intent, constraints, or tradeoffs. </p><p>More importantly, it can\u2019t take responsibility when something breaks.</p><p>As a result, major companies and startups alike are now adapting to this reality by shifting to interviews with AI. Meta, Rippling, and Google, for instance, have all begun allowing candidates to use AI assistants in technical sessions. And the goal has evolved: interviewers want to understand how you evaluate, modify, and trust AI-generated answers. </p><p>So, how can you succeed in these interviews?</p><h2>What Actually Matters in AI-Enabled Interviews</h2><p><strong>Refusing to use AI out of principle doesn\u2019t help.</strong> Some candidates avoid AI to prove they can think independently. This can backfire. If the organization uses AI internally\u2014and most do\u2014then refusing to use it signals rigidity, not strength.</p><p><strong>Silence is a red flag.</strong> Interviews aren\u2019t natural working environments. We don\u2019t usually think aloud when deep in a complex problem, but silence can raise concerns. If you\u2019re using AI, explain what you\u2019re doing and why:</p><ul><li>\u201cI\u2019m using AI to sketch an approach, then validating assumptions.\u201d</li><li>\u201cThis suggestion works, but it ignores a constraint we care about.\u201d</li><li>\u201cI\u2019ll accept this part, but I want to simplify it.\u201d</li></ul><p>Your decision-making process is what separates effective engineers from prompt jockeys.</p><p><strong>Treat AI output as a first draft.</strong> Blind acceptance is the fastest way to fail. Strong candidates immediately evaluate the output: Does this meet the requirements? Is it unnecessarily complex? Would I stand behind this in production?</p><p>Small changes like renaming variables, removing abstractions, or tightening logic signal ownership and critical thinking.</p><p><strong>Optimize for trust, not completion.</strong> Most AI tools can complete a coding challenge faster than any human. Interviews that allow AI are testing something different. They\u2019re answering: \u201cWould I trust this person to make good decisions when things get messy?\u201d</p><h2>Adapting to a Shifting Landscape</h2><p>Interviews are changing faster than most candidates realize. Here\u2019s how to prepare:</p><p><strong>Start using AI tools daily.</strong> If you\u2019re not already working with Cursor, Claude Code, ChatGPT, or CoPilot, start now. Build muscle memory for prompting, evaluating output, and catching errors.</p><p><strong>Develop your rejection instincts.</strong> The skill isn\u2019t using AI. It\u2019s knowing when AI output is wrong, incomplete, or unnecessarily complex. Practice spotting these issues and learning known pitfalls.</p><p>Your next interview might test these skills. The candidates who\u2019ve been practicing will have a clear advantage.</p><p>\u2014Brian</p><h2><a href=\"https://spectrum.ieee.org/2025-year-of-ai-agents\" target=\"_self\">Was 2025 Really the Year of AI Agents?</a></h2><p>Around this time last year, CEOs like Sam Altman promised that 2025 would be the year AI agents would join the workforce as your own personal assistant. But in hindsight, did that really happen? It depends on who you ask. Some programmers and software engineers have embraced agents like Cursor and Claude Code in their daily work. But others are still wary of the risks these tools bring, such as a lack of accountability. </p><p><a href=\"https://spectrum.ieee.org/2025-year-of-ai-agents\" target=\"_blank\">Read more here. </a></p><h2><a href=\"https://www.naceweb.org/job-market/compensation/class-of-2026-salary-projections-are-promising\" rel=\"noopener noreferrer\" target=\"_blank\">Class of 2026 Salary Projections Are Promising</a></h2><p>In the United States, starting salaries for students graduating this spring are expected to increase, according to the latest data from the National Association of Colleges and Employers. Computer science and engineering majors are expected to be the highest paying graduates, with a 6.9 percent and 3.1 percent salary increase from last year, respectively. The full report breaks down salary projections by academic major, degree level, industry, and geographic region.</p><p><a href=\"https://www.naceweb.org/job-market/compensation/class-of-2026-salary-projections-are-promising\" target=\"_blank\">Read more here. </a></p><h2><a href=\"https://spectrum.ieee.org/global-projects-career-benefits\" target=\"_self\">Go Global to Make Your Career Go Further</a></h2>If given the opportunity, are international projects worth taking on? As part of a career advice series by <em><em>IEEE Spectrum</em></em>\u2019s sister publication, <em><em>The Institute</em></em>, the chief engineer for Honeywell lays out the advantages of working with teams from around the world. Participating in global product development, the author says, could lead to both personal and professional enrichment. <a href=\"https://spectrum.ieee.org/global-projects-career-benefits\" target=\"_blank\">Read more here. </a>"
-      },
-      {
-        "id": "21e4cfb85837ceac",
-        "title": "The Download: inside the QuitGPT movement, and EVs in Africa",
-        "url": "https://www.technologyreview.com/2026/02/11/1132724/the-download-inside-the-quitgpt-movement-and-evs-in-africa/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 11 Feb 2026 13:10:00 +0000",
-        "published_dt": "2026-02-11T13:10:00+00:00",
-        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A \u201cQuitGPT\u201d campaign is urging people to cancel their ChatGPT subscriptions In September, Alfred Stephen, a freelance software developer in Singapore, purchased a ChatGPT Plus subscription, which costs $20 a month and offers&#8230;"
-      },
-      {
-        "id": "84d67c022e53f8d5",
-        "title": "EVs could be cheaper to own than gas cars in Africa by 2040",
-        "url": "https://www.technologyreview.com/2026/02/11/1132714/evs-africa-cost/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 11 Feb 2026 10:00:00 +0000",
-        "published_dt": "2026-02-11T10:00:00+00:00",
-        "summary": "Electric vehicles could be economically competitive in Africa sooner than expected. Just 1% of new cars sold across the continent in 2025 were electric, but a new analysis finds that with solar off-grid charging, EVs could be cheaper to own than gas vehicles by 2040. There are major barriers to higher EV uptake in many&#8230;"
-      },
-      {
-        "id": "f36796ed834ae498",
-        "title": "A \u201cQuitGPT\u201d campaign is urging people to cancel their ChatGPT subscriptions",
-        "url": "https://www.technologyreview.com/2026/02/10/1132577/a-quitgpt-campaign-is-urging-people-to-cancel-chatgpt-subscriptions/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 10 Feb 2026 17:00:24 +0000",
-        "published_dt": "2026-02-10T17:00:24+00:00",
-        "summary": "In September, Alfred Stephen, a freelance software developer in Singapore, purchased a ChatGPT Plus subscription, which costs $20 a month and offers more access to advanced models, to speed up his work. But he grew frustrated with the chatbot\u2019s coding abilities and its gushing, meandering replies. Then he came across a post on Reddit about&#8230;"
-      },
-      {
-        "id": "e0da44379b90b88c",
-        "title": "How and When the Memory Chip Shortage Will End",
-        "url": "https://spectrum.ieee.org/dram-shortage",
-        "source": "IEEE Spectrum",
-        "published": "Tue, 10 Feb 2026 14:00:02 +0000",
-        "published_dt": "2026-02-10T14:00:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/sk-hynix-inc-s-12-layer-hbm4-memory-chips-on-display.jpg?id=63918122&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p><span>If it feels these days as if everything in technology is about AI, that\u2019s because it is. And nowhere is that more true than in the market for computer memory. Demand, and profitability, for the type of DRAM used to feed GPUs and other accelerators in AI data centers is so huge that it\u2019s diverting away supply of memory for other uses and causing prices to skyrocket. According to <a href=\"https://counterpointresearch.com/en/insights/Memory-Prices-Surge-Up-to-90-From-Q4-2025\" target=\"_blank\">Counterpoint Research</a>, DRAM prices have risen 80-90 precent so far this quarter.</span></p><p>The largest AI hardware companies say they have secured their chips out as far as 2028, but that leaves everybody else\u2014makers of PCs, consumer gizmos, and everything else that needs to temporarily store a billion bits\u2014scrambling to deal with scarce supply and inflated prices.</p><p>How did the electronics industry get into this mess, and more importantly, how will it get out? <em><em>IEEE Spectrum</em></em> asked economists and memory experts to explain. They say today\u2019s situation is the result of a collision between the DRAM industry\u2019s historic boom and bust cycle and an AI hardware infrastructure build-out that\u2019s without precedent in its scale. And, barring some major collapse in the AI sector, it will take years for new capacity and new technology to bring supply in line with demand. Prices might stay high even then.</p><p>To understand both ends of the tale, you need to know the main culprit in the supply and demand swing, high-bandwidth memory, or HBM.</p><h2>What is HBM?</h2><p>HBM is the DRAM industry\u2019s attempt to short-circuit the slowing pace of Moore\u2019s Law by using 3D chip packaging technology. Each HBM chip is made up of as many as 12 thinned-down DRAM chips called dies. Each die contains a number of vertical connections called through silicon vias (TSVs). The dies are piled atop each other and connected by arrays of microscopic solder balls aligned to the TSVs. This DRAM tower\u2014well, at about 750 micrometers thick, it\u2019s more of a brutalist office-block than a tower\u2014is then stacked atop what\u2019s called the base die, which shuttles bits between the memory dies and the processor.</p><p>This complex piece of technology is then set within a millimeter of a GPU or other AI accelerator, to which it is linked by as many as 2,048 micrometer-scale connections. HBMs are attached on two sides of the processor, and the GPU and memory are packaged together as a single unit.</p><p>The idea behind such a tight, highly-connected squeeze with the GPU is to knock down what\u2019s called <a href=\"https://spectrum.ieee.org/ai-and-memory-wall\" target=\"_self\">the memory wall</a>. That\u2019s the barrier in energy and time of bringing the terabytes per second of data needed to run large language models into the GPU. <a href=\"https://spectrum.ieee.org/ai-models-locally\" target=\"_self\">Memory bandwidth</a> is a key limiter to how fast LLMs can run.</p><p>As a technology, HBM has been around for <a href=\"https://spectrum.ieee.org/chipmakers-push-memory-into-the-third-dimension\" target=\"_self\">more than 10 years</a>, and DRAM makers have been busy boosting its capability.</p><div class=\"flourish-embed flourish-chart\"><noscript><img alt=\"chart visualization\" src=\"https://public.flourish.studio/visualisation/27466742/thumbnail\" width=\"100%\" /></noscript></div><p>As the size of AI models has grown, so has HBM\u2019s importance to the GPU. But that\u2019s come at a cost. <a href=\"https://newsletter.semianalysis.com/p/scaling-the-memory-wall-the-rise-and-roadmap-of-hbm\" target=\"_blank\">SemiAnalysis estimates</a><strong> </strong>that HBM generally costs three times as much as other types of memory and constitutes 50 percent or more of the cost of the packaged GPU.</p><h2>Origins of the memory chip shortage</h2><p>Memory and storage industry watchers agree that DRAM is a highly cyclical industry with huge booms and devastating busts. With new fabs costing US $15 billion or more, firms are extremely reluctant to expand and may only have the cash to do so during boom times, explains <a href=\"https://www.linkedin.com/in/thomas-coughlin-41a65/\" target=\"_blank\">Thomas Coughlin</a>, a storage and memory expert and president of <a href=\"https://tomcoughlin.com/\" target=\"_blank\">Coughlin Associates</a>. But building such a fab and getting it up and running can take 18 months or more, practically ensuring that new capacity arrives well past the initial surge in demand, flooding the market and depressing prices.</p><p>The origins of today\u2019s cycle, says Coughlin, go all the way back to the <a href=\"https://spectrum.ieee.org/chip-shortage\" target=\"_self\">chip supply panic surrounding the COVID-19 pandemic</a> . To avoid supply-chain stumbles and support the rapid shift to remote work, hyperscalers\u2014data center giants like Amazon, Google, and Microsoft\u2014bought up huge inventories of memory and storage, boosting prices, he notes.</p><p>But then supply became more regular and data center expansion fell off in 2022, causing memory and storage prices to plummet. This recession continued into 2023, and even resulted in big memory and storage companies such as Samsung cutting production by 50 percent to try and keep prices from going below the costs of manufacturing, says Coughlin. It was a rare and fairly desperate move, because companies typically have to run plants at full capacity just to earn back their value.<span></span></p><p>After a recovery began in late 2023, \u201call the memory and storage companies were very wary of increasing their production capacity again,\u201d says Coughlin. \u201cThus there was little or no investment in new production capacity in 2024 and through most of 2025.\u201d</p><div class=\"flourish-embed flourish-chart\"><noscript><img alt=\"chart visualization\" src=\"https://public.flourish.studio/visualisation/27468004/thumbnail\" width=\"100%\" /></noscript></div><h2>The AI data center boom</h2><p>That lack of new investment is colliding headlong with a huge boost in demand from new data centers. Globally, there are <a href=\"https://spectrum.ieee.org/data-center-growth\" target=\"_self\">nearly 2,000 new data centers</a> either planned or under construction right now, according to Data Center Map. If they\u2019re all built, it would represent a 20 percent jump in the global supply, which stands at around 9,000 facilities now.</p><p>If the current build-out continues at pace, McKinsey predicts companies will spend <a href=\"https://programs.com/resources/data-center-statistics/\" target=\"_blank\">$7 trillion by 2030</a>, with the bulk of that\u2014$5.2 trillion\u2014going to AI-focused data centers. Of that chunk, $3.3 billion will go toward servers, data storage, and network equipment, the firm predicts.</p><p>The biggest beneficiary so far of the AI data center boom is unquestionably GPU-maker Nvidia. Revenue for its data center business went from <a href=\"https://ycharts.com/indicators/nvidia_corp_nvda_data_center_revenue_quarterly\" target=\"_blank\">barely a billion in the final quarter of 2019 to $51 billion in the quarter that ended in October 2025</a>. Over this period, its server GPUs have demanded not just more and more gigabytes of DRAM but an increasing number of DRAM chips. The recently released B300 uses eight HBM chips, each of which is a stack of 12 DRAM dies. Competitors\u2019 use of HBM has largely mirrored Nvidia\u2019s. AMD\u2019s MI350 GPU, for example, also uses eight, 12-die chips.</p><div class=\"flourish-embed flourish-chart\"><noscript><img alt=\"chart visualization\" src=\"https://public.flourish.studio/visualisation/27459660/thumbnail\" width=\"100%\" /></noscript></div><p>With so much demand, an increasing fraction of the revenue for DRAM makers comes from HBM. Micron\u2014the number three producer behind SK Hynix and Samsung\u2014reported that <a href=\"https://investors.micron.com/static-files/8791eb80-8263-4c6f-aa74-fdd03fbbb027\" target=\"_blank\">HBM and other cloud-related memory</a> went from being 17 percent of its DRAM revenue in 2023 to nearly 50 percent in 2025.</p><p>Micron predicts the total market for HBM will grow from $35 billion in 2025 to $100 billion by 2028\u2014a figure larger than the entire DRAM market in 2024, CEO <a href=\"https://www.linkedin.com/in/sanjay-mehrotra/\" target=\"_blank\">Sanjay Mehrotra</a> <a href=\"https://investors.micron.com/static-files/088991c5-a249-4f66-a0a6-258d9b66f3f9\" target=\"_blank\">told analysts in December</a>. It\u2019s reaching that figure two years earlier than Micron had previously expected. Across the industry, demand will outstrip supply \u201csubstantially\u2026 for the foreseeable future,\u201d he said.</p><div class=\"flourish-embed flourish-chart\"><noscript><img alt=\"chart visualization\" src=\"https://public.flourish.studio/visualisation/27481588/thumbnail\" width=\"100%\" /></noscript></div><h2>Future DRAM supply and technology</h2><p>\u201cThere are two ways to address supply issues with DRAM: with innovation or with building more fabs,\u201d explains <a href=\"https://www.linkedin.com/in/mina-kim-37449b/\" target=\"_blank\">Mina Kim</a>, an economist with the Mkecon Insights. \u201cAs <a href=\"https://spectrum.ieee.org/micron-dram\" target=\"_self\">DRAM scaling</a> has become more difficult, the industry has turned to advanced packaging\u2026 which is just using more DRAM.\u201d</p><p>Micron, Samsung, and SK Hynix combined make up the vast majority of the memory and storage markets, and all three have new fabs and facilities in the works. However, these are unlikely to contribute meaningfully to bringing down prices.</p><p><strong>Micron</strong> is in the process of <a href=\"https://investors.micron.com/news-releases/news-release-details/micron-breaks-ground-advanced-wafer-fabrication-facility\" target=\"_blank\">building an HBM fab</a> in Singapore that should be in production in 2027. And it is <a href=\"https://investors.micron.com/news-releases/news-release-details/micron-signs-letter-intent-purchase-tongluo-site-begin-0\" target=\"_blank\">retooling a fab</a> it purchased from PSMC in Taiwan that will begin production in the second half of 2027. Last month, Micron <a href=\"https://investors.micron.com/news-releases/news-release-details/micron-celebrates-official-groundbreaking-new-york-megafab-site\" target=\"_blank\">broke ground</a> on what will be a DRAM fab complex in Onondaga County, N.Y. It will not be in full production until 2030.</p><p><strong>Samsung</strong> plans to <a href=\"https://www.chosun.com/english/industry-en/2025/11/16/U5VKNZCSYBCONMRCXDZ45MCIXQ/\" target=\"_blank\">start producing</a> at a new plant in Pyeongtaek, South Korea in 2028.</p><p><strong>SK Hynix</strong> is building <a href=\"https://www.skhynix.com/westlafayette.IN/\" rel=\"noopener noreferrer\" target=\"_blank\">HBM and packaging</a> facilities in West Lafayette, Indiana set to begin production by the end of 2028, and an HBM fab it\u2019s <a href=\"https://www.cnbc.com/2026/01/13/sk-hynix-invest-13-billion-new-fab-memory-chip-shortage-advanced-packaging-ai-memory.html\" rel=\"noopener noreferrer\" target=\"_blank\">building in Cheongju</a> should be complete in 2027.</p><p>Speaking of his sense of the DRAM market, <a href=\"https://newsroom.intel.com/biography/lip-bu-tan\" rel=\"noopener noreferrer\" target=\"_blank\">Intel CEO Lip-Bu Tan</a><strong> </strong>told attendees at the <a href=\"https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m02/ai-summit.html\" rel=\"noopener noreferrer\" target=\"_blank\">Cisco AI Summit</a> last week: \u201cThere\u2019s no relief until 2028.\u201d</p><p>With these expansions unable to contribute for several years, other factors will be needed to increase supply. \u201cRelief will come from a combination of incremental capacity expansions by existing DRAM leaders, yield improvements in advanced packaging, and a broader diversification of supply chains,\u201d says <a href=\"https://www.electronics.org/meet-shawn-dubravac-ipcs-chief-economist\" rel=\"noopener noreferrer\" target=\"_blank\">Shawn DuBravac</a> , chief economist for the <a href=\"https://www.electronics.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Global Electronics Association</a> (formerly the IPC). \u201cNew fabs will help at the margin, but the faster gains will come from process learning, better [DRAM] stacking efficiency, and tighter coordination between memory suppliers and AI chip designers.\u201d</p><p>So, will prices come down once some of these new plants come on line? Don\u2019t bet on it. \u201cIn general, economists find that prices come down much more slowly and reluctantly than they go up. DRAM today is unlikely to be an exception to this general observation, especially given the insatiable demand for compute,\u201d says Kim.</p><p>In the meantime, technologies are in the works that could make HBM an even bigger consumer of silicon. The standard for HBM4 can accommodate 16 stacked DRAM dies, even though today\u2019s chips only use 12 dies. Getting to 16 has a lot to do with the chip stacking technology. Conducting heat through the HBM \u201clayer cake\u201d of silicon, solder, and support material is a key limiter to going higher and in <a href=\"https://spectrum.ieee.org/hbm-on-gpu-imec-iedm\" target=\"_self\">repositioning HBM inside the package</a> to get even more bandwidth.</p><p>SK Hynix claims a heat conduction advantage through a manufacturing process called advanced <a href=\"https://news.skhynix.com/rulebreaker-revolutions-mr-muf-unlocks-hbm-heat-control/\" rel=\"noopener noreferrer\" target=\"_blank\">MR-MUF (mass reflow molded underfill)</a>. Further out, an alternative chip stacking technology called <a href=\"https://spectrum.ieee.org/hybrid-bonding\" target=\"_self\">hybrid bonding</a> could help heat conduction by reducing the die-to-die vertical distance essentially to zero. In 2024, researchers at Samsung proved they could produce a 16-high stack with hybrid bonding, and they suggested that <a href=\"https://spectrum.ieee.org/hybrid-bonding\" target=\"_self\">20 dies was not out of reach</a>.</p>"
-      },
-      {
-        "id": "9354bf9e2656be34",
-        "title": "The Download: Making AI Work, and why the Moltbook hype is similar to Pok\u00e9mon",
-        "url": "https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 10 Feb 2026 13:10:00 +0000",
-        "published_dt": "2026-02-10T13:10:00+00:00",
-        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A first look at Making AI Work, MIT Technology Review\u2019s new AI newsletter Are you interested in learning more about the ways in which AI is actually being used? We\u2019ve launched a new&#8230;"
       }
     ]
   }
