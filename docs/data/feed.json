@@ -1,52 +1,7 @@
 {
-  "generated_at": "2026-02-27T13:13:06.356950+00:00",
+  "generated_at": "2026-02-28T12:59:04.632293+00:00",
   "categories": {
     "Biotech": [
-      {
-        "id": "5b636ebb6a89fedd",
-        "title": "AI is rewiring how the world\u2019s best Go players think",
-        "url": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 27 Feb 2026 10:00:00 +0000",
-        "published_dt": "2026-02-27T10:00:00+00:00",
-        "summary": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped \u201cKorea Baduk Association,\u201d the governing body for professional Go. The game is an ancient one, with sacred stature in South Korea.&#160; But inside the building, rooms once filled with the soft clatter of hands dipping into&#8230;"
-      },
-      {
-        "id": "a0d3a98e4a97acd2",
-        "title": "From ALS to dental floss: Here are the teams competing in STAT Madness 2026",
-        "url": "https://www.statnews.com/2026/02/27/stat-madness-2026-contestants-64-teams-from-50-labs/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 27 Feb 2026 09:30:00 +0000",
-        "published_dt": "2026-02-27T09:30:00+00:00",
-        "summary": "A genetic test to diagnose ALS. Dental floss that can track your cortisol levels.\u00a0Check out the 64 innovations and discoveries in our annual STAT Madness bracket."
-      },
-      {
-        "id": "c94899c6acacec47",
-        "title": "Can an RFK Jr. action figure help cement the MAHA-MAGA alliance?",
-        "url": "https://www.statnews.com/2026/02/27/rfk-jr-action-figure-video-hhs-policy-memes/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 27 Feb 2026 09:30:00 +0000",
-        "published_dt": "2026-02-27T09:30:00+00:00",
-        "summary": "He\u2019s an action figure. He\u2019s a milk-drinking rave-goer. He\u2019s America\u2019s health secretary."
-      },
-      {
-        "id": "5f3824b60996b20a",
-        "title": "Opinion: I\u2019m a rare disease mom, and I finally have new hope for my son\u2019s future",
-        "url": "https://www.statnews.com/2026/02/27/rare-diseases-plausible-mechanism-pathway-fda/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 27 Feb 2026 09:30:00 +0000",
-        "published_dt": "2026-02-27T09:30:00+00:00",
-        "summary": "For too long, the promise of personalized therapies has been tantalizingly close, yet frustratingly out of reach for rare-disease families."
-      },
-      {
-        "id": "745b208521797957",
-        "title": "Opinion: U.S. government must invest more in research around men\u2019s sexual and reproductive health",
-        "url": "https://www.statnews.com/2026/02/27/mens-sexual-reproductive-health-contraception-stis-research/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 27 Feb 2026 09:30:00 +0000",
-        "published_dt": "2026-02-27T09:30:00+00:00",
-        "summary": "It\u2019s high time to focus on sexual and reproductive health for men."
-      },
       {
         "id": "8c248adab21d242b",
         "title": "<a href=\"https://www.fiercebiotech.com/webinars/spatial-biomarker-panels-for-clinical-trials\" hreflang=\"en\">Spatial Biomarker Panels for Clinical Trials</a>",
@@ -57,13 +12,31 @@
         "summary": "This webinar covers how recent advances in multiplex immunofluorescence technology are enabling high-throughput analysis of high-plex biomarker panels for oncology trials."
       },
       {
-        "id": "d2c111675ba91c63",
-        "title": "STAT+: Brain implants: What\u2019s standing in the way of pivotal trials, FDA approval",
-        "url": "https://www.statnews.com/2026/02/26/brain-computer-interface-fda-regulatory-hurdles/?utm_campaign=rss",
+        "id": "c032d72f335f1904",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biontech-advances-dualitybio-adc-phase-3-half-patients-merck-daiichi-rival\" hreflang=\"en\">BioNTech advances DualityBio ADC into phase 3 with half the patients of Merck-Daiichi rival</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biontech-advances-dualitybio-adc-phase-3-half-patients-merck-daiichi-rival",
+        "source": "Fierce Biotech",
+        "published": "Feb 27, 2026 9:34pm",
+        "published_dt": "2026-02-27T21:34:00+00:00",
+        "summary": "BioNTech and partner DualityBio are accelerating the development of their B7-H3 ADC into a phase 3 trial for metastatic castration-resistant prostate cancer (mCRPC). With encouraging phase 1/2 data, the partners are aiming to achieve success with a trial roughly half the size of the competing program from Merck &amp; Co. and Daiichi Sankyo."
+      },
+      {
+        "id": "316c555c35fee8ac",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about FDA and a \u2018smear campaign,\u2019 Cigna buying a large pharmacy, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/02/27/fda-bonus-cigna-pharmacy-abbvie-novartis/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Thu, 26 Feb 2026 09:30:00 +0000",
-        "published_dt": "2026-02-26T09:30:00+00:00",
-        "summary": "Thirty years after scientists demonstrated how brain implants can help rhesus monkeys move robotic limbs using only their mind, the clinical pathway for the technology is still a little out&#8230;"
+        "published": "Fri, 27 Feb 2026 14:30:55 +0000",
+        "published_dt": "2026-02-27T14:30:55+00:00",
+        "summary": "FDA Commissioner Marty Makary defended the agency\u2019s recent rejections of rare disease drugs and top agency official Vinay Prasad"
+      },
+      {
+        "id": "6779883db7dd1bf3",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-slams-exthera-warning-letter-over-controversial-blood-filter-device\" hreflang=\"en\">FDA slams ExThera with warning letter over controversial blood filter device</a>",
+        "url": "https://www.fiercebiotech.com/medtech/fda-slams-exthera-warning-letter-over-controversial-blood-filter-device",
+        "source": "Fierce Biotech",
+        "published": "Feb 27, 2026 8:31am",
+        "published_dt": "2026-02-27T08:31:00+00:00",
+        "summary": "The FDA slammed ExThera with a warning letter for deviating from the regulatory agency\u2019s guidelines by promoting and selling its Seraph 100 blood filter device to treat cancer patients under specious conditions.<br />"
       },
       {
         "id": "ff46a9e3cfd0cb27",
@@ -82,6 +55,15 @@
         "published": "Thu, 26 Feb 2026 18:56:06 +0000",
         "published_dt": "2026-02-26T18:56:06+00:00",
         "summary": "On this week's Readout LOUD: Adam is joined by guest host Jared Holz to talk M&#038;A, FDA turmoil, election intrigue, and more."
+      },
+      {
+        "id": "9940142d75d0ae7f",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-sarepta-ceo-step-down-dm1-hits-close-home\" hreflang=\"en\">Chutes &amp; Ladders\u2014Sarepta CEO to step down as DM1 hits close to home </a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-sarepta-ceo-step-down-dm1-hits-close-home",
+        "source": "Fierce Biotech",
+        "published": "Feb 26, 2026 5:17pm",
+        "published_dt": "2026-02-26T17:17:00+00:00",
+        "summary": "A \u201cfairly shocking and certainly ironic twist of fate\u201d is ending Sarepta Therapeutics\u2019 CEO Doug Ingram\u2019s nearly decade-long tenure at the helm of the gene therapy maker, he said on an investor call. The executive will retire by the end of 2026 to spend time with his family in the wake of two close family members being diagnosed with myotonic dystrophy."
       },
       {
         "id": "6ee22063c672e40f",
@@ -120,24 +102,6 @@
         "summary": "Sarepta CEO steps down, an experimental cell therapy rejection, and more biotech news"
       },
       {
-        "id": "d7aee611f2a04e49",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/earendil-pens-885m-pact-use-wuxi-xdcs-linker-tech-next-gen-adcs\" hreflang=\"en\">Earendil pens $885M pact to use WuXi XDC's linker tech for next-gen ADCs</a>",
-        "url": "https://www.fiercebiotech.com/biotech/earendil-pens-885m-pact-use-wuxi-xdcs-linker-tech-next-gen-adcs",
-        "source": "Fierce Biotech",
-        "published": "Feb 27, 2026 5:31am",
-        "published_dt": "2026-02-27T05:31:00+00:00",
-        "summary": "AI research biotech Earendil Labs has penned an $885 million deal to use WuXi XDC\u2019s linker-payload technology to create next-gen antibody-drug conjugates."
-      },
-      {
-        "id": "bab833843c4279bb",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about a puzzling FDA rejection, a Lilly weight loss pill, and more",
-        "url": "https://www.statnews.com/pharmalot/2026/02/26/fda-lilly-obesity-gilead-hiv-sarepta/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 26 Feb 2026 14:07:15 +0000",
-        "published_dt": "2026-02-26T14:07:15+00:00",
-        "summary": "An experimental therapy for a rare blood cancer was rejected by the FDA though internal reviewers had recommended it be cleared"
-      },
-      {
         "id": "89f6409e99498dfa",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/analysts-high-future-mdma-after-ataibeckleys-positive-top-line-data\" hreflang=\"en\">Analysts see potential in MDMA drug after AtaiBeckley reports improvements in anxiety trial</a>",
         "url": "https://www.fiercebiotech.com/biotech/analysts-high-future-mdma-after-ataibeckleys-positive-top-line-data",
@@ -145,24 +109,6 @@
         "published": "Feb 26, 2026 11:29am",
         "published_dt": "2026-02-26T11:29:00+00:00",
         "summary": "The trial was the first to assess R-MDMA in patients with social anxiety disorder, AtaiBeckley CEO Srinivas Rao said in a statement."
-      },
-      {
-        "id": "b6623592e0ab7e71",
-        "title": "STAT+: Rare disease advocates fume over FDA\u2019s mixed signals",
-        "url": "https://www.statnews.com/2026/02/26/rare-disease-treatment-approval-fda-mixed-messages/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 26 Feb 2026 09:30:00 +0000",
-        "published_dt": "2026-02-26T09:30:00+00:00",
-        "summary": "Families facing rare diseases feel whiplash over shifting and contradictory decisions by the FDA."
-      },
-      {
-        "id": "e97799f3fd67e97d",
-        "title": "Opinion: I tried to design a clinical trial for a supplement. 5 things got in the way",
-        "url": "https://www.statnews.com/2026/02/26/nutraceutical-clinical-trials-5-barriers-nutritional-supplement-research/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 26 Feb 2026 09:30:00 +0000",
-        "published_dt": "2026-02-26T09:30:00+00:00",
-        "summary": "When Elise Felicione tried to design a clinical trial for a supplement, 5 things got in the way. It\u2019s a lesson for the industry."
       },
       {
         "id": "a58152c3ab7d9424",
@@ -201,34 +147,151 @@
         "summary": "After dumping its sole remaining gene therapy asset last year, Pfizer has decided to exercise its option for global rights to Beam Therapeutics\u2019 liver-targeted gene editing candidate."
       },
       {
-        "id": "881ed3fb302d7b8a",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/generate-scores-largest-biotech-ipo-2024-400m-nasdaq-listing\" hreflang=\"en\">Generate scores largest biotech IPO since 2024 with $400M Nasdaq listing</a>",
-        "url": "https://www.fiercebiotech.com/biotech/generate-scores-largest-biotech-ipo-2024-400m-nasdaq-listing",
-        "source": "Fierce Biotech",
-        "published": "Feb 27, 2026 3:38am",
-        "published_dt": "2026-02-27T03:38:00+00:00",
-        "summary": "Generate:Biomedicines is the latest biotech to benefit from a renewed appetite from investors for publicly listed drug developers."
-      },
-      {
-        "id": "d0569f0c02ad5876",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/werewolf-weighs-sale-or-merger-cash-reserves-whimper\" hreflang=\"en\">Werewolf weighs sale or merger as cash reserves whimper</a>",
-        "url": "https://www.fiercebiotech.com/biotech/werewolf-weighs-sale-or-merger-cash-reserves-whimper",
-        "source": "Fierce Biotech",
-        "published": "Feb 24, 2026 5:14pm",
-        "published_dt": "2026-02-24T17:14:00+00:00",
-        "summary": "With its cash cache set to run out by the fourth quarter of this year, Werewolf Therapeutics is prowling the biotech landscape for a deal to keep its pipeline afloat. The immuno-oncology outfit is weighing a full range of strategic options, including selling or merging the company, with the goal of giving shareholders the biggest bang for their buck."
-      },
-      {
-        "id": "0634484cf7ea2c44",
-        "title": "STAT+: Justice Department backs AbbVie in its bid to overturn a Colorado law guiding a drug discount program",
-        "url": "https://www.statnews.com/pharmalot/2026/02/26/justice-department-backs-abbvie-340b-hospitals-medicines-pharma/?utm_campaign=rss",
+        "id": "34af66e4572bfcce",
+        "title": "Kennedy announces new vaccine advisory committee members after meeting rescheduled",
+        "url": "https://www.statnews.com/2026/02/27/two-new-members-added-cdc-vaccine-advisory-committee-acip/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Thu, 26 Feb 2026 21:41:02 +0000",
-        "published_dt": "2026-02-26T21:41:02+00:00",
-        "summary": "DOJ is backing AbbVie in its battle to overturn a Colorado law that prohibits pharmaceutical companies from placing restrictions on the 340B drug discount program."
+        "published": "Sat, 28 Feb 2026 01:53:28 +0000",
+        "published_dt": "2026-02-28T01:53:28+00:00",
+        "summary": "Kennedy adds two new members to the CDC's vaccine advisory committee"
+      },
+      {
+        "id": "81c837b445b278dd",
+        "title": "STAT+: Minnesota report shows large hospitals continue to dominate the 340B drug discount program",
+        "url": "https://www.statnews.com/pharmalot/2026/02/27/pharma-medicines-hospitals-340b-minnesota-report/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 27 Feb 2026 21:53:28 +0000",
+        "published_dt": "2026-02-27T21:53:28+00:00",
+        "summary": "Minnesota hospitals and clinics participating in a controversial U.S. drug discount program reaped at least $1.34 billion in revenue in 2024."
+      },
+      {
+        "id": "1ef074f340cb8b5e",
+        "title": "MIT Technology Review is a 2026 ASME finalist in reporting",
+        "url": "https://www.technologyreview.com/2026/02/27/1133769/asme-finalist-reporting/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 27 Feb 2026 21:41:31 +0000",
+        "published_dt": "2026-02-27T21:41:31+00:00",
+        "summary": "The American Society of Magazine Editors has named MIT Technology Review as a finalist for a 2026 National Magazine Award in the reporting category.\u00a0 The shortlisted story\u2014\u201cWe did the math on AI\u2019s energy footprint. Here\u2019s the story you haven\u2019t heard\u201d\u2014is part of the publication&#8217;s Power Hungry package on AI\u2019s energy burden.\u00a0 AI is often described&#8230;"
+      },
+      {
+        "id": "efd097188cf99070",
+        "title": "STAT+: Trump most-favored nation drug pricing deals end after three years for some companies",
+        "url": "https://www.statnews.com/2026/02/27/trump-drug-prices-pharma-mfn-deals-3-year-terms/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 27 Feb 2026 20:58:14 +0000",
+        "published_dt": "2026-02-27T20:58:14+00:00",
+        "summary": "SEC filings show that, at least for some drugmakers, \"most-favored nation\" drug pricing deals with President Trump last three years."
+      },
+      {
+        "id": "804da62e66127708",
+        "title": "Kansas\u2019 new ID law could have health consequences for trans people",
+        "url": "https://www.statnews.com/2026/02/27/kansas-id-law-impact-health-trans-people-morning-rounds/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 27 Feb 2026 18:54:32 +0000",
+        "published_dt": "2026-02-27T18:54:32+00:00",
+        "summary": "Get your daily dose of health and medicine every weekday with STAT\u2019s free newsletter Morning Rounds.\u00a0Sign up here. Happy Friday. If I ever have kids, I want them to be&#8230;"
+      },
+      {
+        "id": "5a359a54425988f5",
+        "title": "STAT+: Up and down the ladder: The latest comings and goings",
+        "url": "https://www.statnews.com/pharmalot/2026/02/27/pharma-biotech-jobs-merck-roche-kymera/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 27 Feb 2026 16:22:01 +0000",
+        "published_dt": "2026-02-27T16:22:01+00:00",
+        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
+      },
+      {
+        "id": "12adf11e22b810d1",
+        "title": "Opinion: Former surgeon general: The Senate must not approve someone who can\u2019t practice medicine as the nation\u2019s top doctor",
+        "url": "https://www.statnews.com/2026/02/27/casey-means-surgeon-general-jerome-adams/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 27 Feb 2026 15:17:39 +0000",
+        "published_dt": "2026-02-27T15:17:39+00:00",
+        "summary": "\u201cThe surgeon general is not a wellness influencer,\u201d writes former Surgeon General Jerome Adams of Casey Means."
+      },
+      {
+        "id": "bb1732cdbf9ca643",
+        "title": "The Download: how AI is shaking up Go, and a cybersecurity mystery",
+        "url": "https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 27 Feb 2026 13:10:00 +0000",
+        "published_dt": "2026-02-27T13:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is rewiring how the world\u2019s best Go players think Ten years ago AlphaGo, Google DeepMind\u2019s AI program, stunned the world by defeating the South Korean Go player Lee Sedol. And in the&#8230;"
+      },
+      {
+        "id": "da9366d8276e8a29",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-debuts-nvidia-supercomputer-fanfare-and-focus-escaping-traditional-pharma-lifecycle\" hreflang=\"en\">Lilly debuts Nvidia supercomputer with fanfare and focus on escaping traditional pharma lifecycle</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-debuts-nvidia-supercomputer-fanfare-and-focus-escaping-traditional-pharma-lifecycle",
+        "source": "Fierce Biotech",
+        "published": "Feb 27, 2026 1:05pm",
+        "published_dt": "2026-02-27T13:05:00+00:00",
+        "summary": "On some level, Eli Lilly\u2019s partnership with computing giant Nvidia feels inevitable. The first pharma to reach a $1 trillion valuation teaming up with a tech firm that has ridden the AI wave to a record-setting $5 trillion valuation of its own\u2014a Wall Street supergroup, a la Cream, Audioslave or boygenius."
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "6155c7b4b2a26f8d",
+        "title": "How two AMUG scholars are finding their place in additive manufacturing",
+        "url": "https://www.engineering.com/how-two-amug-scholars-are-finding-their-place-in-additive-manufacturing/",
+        "source": "Engineering.com",
+        "published": "Thu, 26 Feb 2026 16:56:25 +0000",
+        "published_dt": "2026-02-26T16:56:25+00:00",
+        "summary": "<p>A year after their scholarship win, Justin Levy and Colleen Murray offer two different perspectives on where their work is headed next.</p>\n<p>The post <a href=\"https://www.engineering.com/how-two-amug-scholars-are-finding-their-place-in-additive-manufacturing/\">How two AMUG scholars are finding their place in additive manufacturing</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "56b102d9b957bfc8",
+        "title": "Raytheon selects iDirect Belgium MCC for ESSM Block II",
+        "url": "https://www.engineering.com/raytheon-selects-idirect-belgium-mcc-for-essm-block-ii/",
+        "source": "Engineering.com",
+        "published": "Thu, 26 Feb 2026 11:06:31 +0000",
+        "published_dt": "2026-02-26T11:06:31+00:00",
+        "summary": "<p>Erpe-Mere facility will support NATO Sea Sparrow production with AS/EN 9100-certified, high-mix electronics manufacturing.</p>\n<p>The post <a href=\"https://www.engineering.com/raytheon-selects-idirect-belgium-mcc-for-essm-block-ii/\">Raytheon selects iDirect Belgium MCC for ESSM Block II</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "9fea4b2d9194bf0b",
+        "title": "Engineering challenges in software-defined vehicles",
+        "url": "https://www.engineering.com/engineering-challenges-in-software-defined-vehicles/",
+        "source": "Engineering.com",
+        "published": "Fri, 27 Feb 2026 21:08:54 +0000",
+        "published_dt": "2026-02-27T21:08:54+00:00",
+        "summary": "<p>SDVs present many novel opportunities and obstacles for the auto industry, but not all of them are engineering problems.</p>\n<p>The post <a href=\"https://www.engineering.com/engineering-challenges-in-software-defined-vehicles/\">Engineering challenges in software-defined vehicles</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "262ec122629eefaf",
+        "title": "NASA rethinks Artemis path forward, accelerating launch cadence and adding 2027 mission",
+        "url": "https://aerospaceamerica.aiaa.org/nasa-rethinks-artemis-path-forward-accelerating-launch-cadence-and-adding-2027-mission/",
+        "source": "Aerospace America",
+        "published": "Fri, 27 Feb 2026 18:54:52 +0000",
+        "published_dt": "2026-02-27T18:54:52+00:00",
+        "summary": ""
+      },
+      {
+        "id": "cb2272f3184bc412",
+        "title": "NASA revises plans for future Artemis missions, cancels upgrades to SLS",
+        "url": "https://spacenews.com/nasa-revises-plans-for-future-artemis-missions-cancels-upgrades-to-sls/",
+        "source": "SpaceNews",
+        "published": "Fri, 27 Feb 2026 15:09:48 +0000",
+        "published_dt": "2026-02-27T15:09:48+00:00",
+        "summary": "<figure><img alt=\"SLS/Orion 2026 Feb 2\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/art2-20260202.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA announced major changes to its Artemis lunar architecture, adding a test flight of lunar landers in low Earth orbit while canceling planned upgrades to the Space Launch System.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-revises-plans-for-future-artemis-missions-cancels-upgrades-to-sls/\">NASA revises plans for future Artemis missions, cancels upgrades to SLS</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "0c896ab356c3c01a",
+        "title": "Toray develops spherical PA12 powder for PBF",
+        "url": "https://www.engineering.com/toray-develops-spherical-pa12-powder-for-pbf/",
+        "source": "Engineering.com",
+        "published": "Fri, 27 Feb 2026 14:58:03 +0000",
+        "published_dt": "2026-02-27T14:58:03+00:00",
+        "summary": "<p>Material targets Ra 7 \u03bcm surface roughness and 50 kJ/m\u00b2 Charpy impact strength in 3D-printed parts.</p>\n<p>The post <a href=\"https://www.engineering.com/toray-develops-spherical-pa12-powder-for-pbf/\">Toray develops spherical PA12 powder for PBF</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "06023dc6ec85a7ea",
+        "title": "Rocket Lab delays Neutron debut to late 2026",
+        "url": "https://spacenews.com/rocket-lab-delays-neutron-debut-to-late-2026/",
+        "source": "SpaceNews",
+        "published": "Fri, 27 Feb 2026 12:53:07 +0000",
+        "published_dt": "2026-02-27T12:53:07+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"666\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/11/Screenshot-2024-11-03-at-4.57.16%E2%80%AFPM.png?fit=1024%2C666&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The failure of a propellant tank during testing in January will delay the first launch of Rocket Lab\u2019s Neutron rocket to at least the fourth quarter of this year.</p>\n<p>The post <a href=\"https://spacenews.com/rocket-lab-delays-neutron-debut-to-late-2026/\">Rocket Lab delays Neutron debut to late 2026</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
       {
         "id": "a50a7a5b6ed28e79",
         "title": "Aras expands cloud strategy for Innovator PLM",
@@ -257,15 +320,6 @@
         "summary": "<p>Tool evaluates workflows, financial impact and workforce changes to guide AI investment decisions and roadmap planning.</p>\n<p>The post <a href=\"https://www.engineering.com/deloitte-launches-enterprise-ai-navigator-platform/\">Deloitte launches Enterprise AI Navigator platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "06023dc6ec85a7ea",
-        "title": "Rocket Lab delays Neutron debut to late 2026",
-        "url": "https://spacenews.com/rocket-lab-delays-neutron-debut-to-late-2026/",
-        "source": "SpaceNews",
-        "published": "Fri, 27 Feb 2026 12:53:07 +0000",
-        "published_dt": "2026-02-27T12:53:07+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"666\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/11/Screenshot-2024-11-03-at-4.57.16%E2%80%AFPM.png?fit=1024%2C666&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The failure of a propellant tank during testing in January will delay the first launch of Rocket Lab\u2019s Neutron rocket to at least the fourth quarter of this year.</p>\n<p>The post <a href=\"https://spacenews.com/rocket-lab-delays-neutron-debut-to-late-2026/\">Rocket Lab delays Neutron debut to late 2026</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
         "id": "6fc3069d2325a6d2",
         "title": "Supermicro launches MicroBlade system with AMD EPYC",
         "url": "https://www.engineering.com/supermicro-launches-microblade-system-with-amd-epyc/",
@@ -282,24 +336,6 @@
         "published": "Fri, 27 Feb 2026 10:09:46 +0000",
         "published_dt": "2026-02-27T10:09:46+00:00",
         "summary": "<figure><img alt=\"Chinese astronaut Zhang Lu in a white spacesuit with red markings works outside the Tiangong space station, attached to a robotic arm, with Earth\u2019s oceans and cloud-covered surface visible in the background.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"574\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Shenzhou21-EVA1-9dec2025-CMSEO.jpg?fit=1024%2C574&amp;ssl=1\" width=\"1024\" /></figure>\n<p>China will begin its first one-year duration astronaut mission this year, while the first international astronaut will make a short visit to Tiangong space station.</p>\n<p>The post <a href=\"https://spacenews.com/china-set-for-its-first-one-year-human-spaceflight-mission-confirms-pakistani-astronaut-flight/\">China set for its first one-year human spaceflight mission, confirms Pakistani astronaut flight</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "6155c7b4b2a26f8d",
-        "title": "How two AMUG scholars are finding their place in additive manufacturing",
-        "url": "https://www.engineering.com/how-two-amug-scholars-are-finding-their-place-in-additive-manufacturing/",
-        "source": "Engineering.com",
-        "published": "Thu, 26 Feb 2026 16:56:25 +0000",
-        "published_dt": "2026-02-26T16:56:25+00:00",
-        "summary": "<p>A year after their scholarship win, Justin Levy and Colleen Murray offer two different perspectives on where their work is headed next.</p>\n<p>The post <a href=\"https://www.engineering.com/how-two-amug-scholars-are-finding-their-place-in-additive-manufacturing/\">How two AMUG scholars are finding their place in additive manufacturing</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "56b102d9b957bfc8",
-        "title": "Raytheon selects iDirect Belgium MCC for ESSM Block II",
-        "url": "https://www.engineering.com/raytheon-selects-idirect-belgium-mcc-for-essm-block-ii/",
-        "source": "Engineering.com",
-        "published": "Thu, 26 Feb 2026 11:06:31 +0000",
-        "published_dt": "2026-02-26T11:06:31+00:00",
-        "summary": "<p>Erpe-Mere facility will support NATO Sea Sparrow production with AS/EN 9100-certified, high-mix electronics manufacturing.</p>\n<p>The post <a href=\"https://www.engineering.com/raytheon-selects-idirect-belgium-mcc-for-essm-block-ii/\">Raytheon selects iDirect Belgium MCC for ESSM Block II</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "7634547d8472a442",
@@ -410,24 +446,6 @@
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Tianwen2-spacecraft-earth-oct2025release-CNSA.jpg?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>China\u2019s Tianwen-2 spacecraft is operating normally on its way to a near-Earth asteroid ahead of sampling later this year, according to a rare official update.</p>\n<p>The post <a href=\"https://spacenews.com/chinas-tianwen-2-probe-operating-normally-on-approach-to-asteroid/\">China\u2019s Tianwen-2 probe operating normally on approach to asteroid</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "ef37099bd70a8b9c",
-        "title": "ElastixAI launches FPGA platform for GenAI inference",
-        "url": "https://www.engineering.com/elastixai-launches-fpga-platform-for-genai-inference/",
-        "source": "Engineering.com",
-        "published": "Thu, 26 Feb 2026 10:49:49 +0000",
-        "published_dt": "2026-02-26T10:49:49+00:00",
-        "summary": "<p>Backed by $18M seed funding, the startup says its software is a drop-in alternative to GPU inference workflows for data centers.</p>\n<p>The post <a href=\"https://www.engineering.com/elastixai-launches-fpga-platform-for-genai-inference/\">ElastixAI launches FPGA platform for GenAI inference</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "4e7f6815ac68023e",
-        "title": "ADLINK launches PXIe SMU and PXI Express chassis",
-        "url": "https://www.engineering.com/adlink-launches-pxie-smu-and-pxi-express-chassis/",
-        "source": "Engineering.com",
-        "published": "Thu, 26 Feb 2026 10:43:10 +0000",
-        "published_dt": "2026-02-26T10:43:10+00:00",
-        "summary": "<p>New 8-channel SMU and 9/12-slot chassis target semiconductor validation and scalable automated test systems.</p>\n<p>The post <a href=\"https://www.engineering.com/adlink-launches-pxie-smu-and-pxi-express-chassis/\">ADLINK launches PXIe SMU and PXI Express chassis</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
         "id": "52bb6a14583f7f60",
         "title": "Bowersox to retire from NASA",
         "url": "https://spacenews.com/bowersox-to-retire-from-nasa/",
@@ -435,24 +453,6 @@
         "published": "Thu, 26 Feb 2026 09:55:31 +0000",
         "published_dt": "2026-02-26T09:55:31+00:00",
         "summary": "<figure><img alt=\"Bowersox\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"579\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/bowersox-ascendx.jpeg?fit=1024%2C579&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Ken Bowersox, NASA\u2019s associate administrator for space operations, is retiring from the agency after the release of a report critical of NASA\u2019s handling of the Starliner crewed test flight.</p>\n<p>The post <a href=\"https://spacenews.com/bowersox-to-retire-from-nasa/\">Bowersox to retire from NASA</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "287f516688bd6026",
-        "title": "Space Force halts Vulcan missions pending investigation into solid rocket issue",
-        "url": "https://spacenews.com/space-force-halts-vulcan-missions-pending-investigation-into-solid-rocket-issue/",
-        "source": "SpaceNews",
-        "published": "Thu, 26 Feb 2026 07:14:56 +0000",
-        "published_dt": "2026-02-26T07:14:56+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"732\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/55091188472_c01b4e3cdc_k.jpg?fit=1024%2C732&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Delay complicates ULA\u2019s push to accelerate launch cadence</p>\n<p>The post <a href=\"https://spacenews.com/space-force-halts-vulcan-missions-pending-investigation-into-solid-rocket-issue/\">Space Force halts Vulcan missions pending investigation into solid rocket issue</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "d539bb0bac2d2dab",
-        "title": "Seraphim closes second early-stage space fund above $100 million target",
-        "url": "https://spacenews.com/seraphim-closes-second-early-stage-space-fund-above-100-million-target/",
-        "source": "SpaceNews",
-        "published": "Thu, 26 Feb 2026 00:01:00 +0000",
-        "published_dt": "2026-02-26T00:01:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"742\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Seraphim-pic.jpg?fit=1024%2C742&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Seraphim Space announced Feb. 25 it has completed fundraising for its second private early-stage venture fund, after exceeding its $100 million target to back young space technology startups.</p>\n<p>The post <a href=\"https://spacenews.com/seraphim-closes-second-early-stage-space-fund-above-100-million-target/\">Seraphim closes second early-stage space fund above $100 million target</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
@@ -684,24 +684,6 @@
     ],
     "Cross-Disciplinary": [
       {
-        "id": "44541bce1c51b3c1",
-        "title": "Bond Strength, Biocompatibility, and Beyond",
-        "url": "https://content.knowledgehub.wiley.com/a-guide-to-selecting-adhesives-for-medical-device-applications/",
-        "source": "IEEE Spectrum",
-        "published": "Fri, 27 Feb 2026 11:00:02 +0000",
-        "published_dt": "2026-02-27T11:00:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/master-bond-logo.png?id=28859628&amp;width=980\" /><br /><br /><p>Designing a medical device? This whitepaper helps you evaluate adhesive options for biocompatibility, sterilization resistance, and manufacturability \u2014 so you can make the right material decision early.</p><p><strong>What Attendees will Learn</strong></p><ol><li> How to select between epoxy, silicone, cyanoacrylate, and UV/LED curable adhesives based on your device requirements</li><li>Which adhesive systems meet USP Class VI and ISO 10993-5 biocompatibility standards</li><li>How different sterilization methods, such as autoclaving, EtO, gamma, chemical immersion affect adhesive performance over repeated cycles</li><li>Why integrating adhesive selection early in the design process reduces costly trade-offs between performance and manufacturability</li><li>Download this free whitepaper now!</li></ol><p><span><a href=\"https://content.knowledgehub.wiley.com/a-guide-to-selecting-adhesives-for-medical-device-applications/\" target=\"_blank\">Download this free whitepaper now!</a></span></p>"
-      },
-      {
-        "id": "5b636ebb6a89fedd",
-        "title": "AI is rewiring how the world\u2019s best Go players think",
-        "url": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 27 Feb 2026 10:00:00 +0000",
-        "published_dt": "2026-02-27T10:00:00+00:00",
-        "summary": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped \u201cKorea Baduk Association,\u201d the governing body for professional Go. The game is an ancient one, with sacred stature in South Korea.&#160; But inside the building, rooms once filled with the soft clatter of hands dipping into&#8230;"
-      },
-      {
         "id": "2dbe387340a58fc6",
         "title": "From Headsets to Hearing Aids",
         "url": "https://spectrum.ieee.org/bluetooth-low-energy-audio",
@@ -736,6 +718,24 @@
         "published": "Wed, 18 Feb 2026 19:00:03 +0000",
         "published_dt": "2026-02-18T19:00:03+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-collage-of-a-smiling-man-holding-a-laptop-on-a-backdrop-of-graph-paper-and-lines.jpg?id=64957405&amp;width=1245&amp;height=700&amp;coordinates=0%2C156%2C0%2C157\" /><br /><br /><p>In the rapidly evolving world of engineering technology, professionals devote enormous energy to such tasks as mastering the latest frameworks, optimizing architectures, and refining machine learning models. It\u2019s easy to let technical expertise become the sole measure of professional value. However, one of the most important skills an engineer can develop is the capacity to write and <a href=\"https://spectrum.ieee.org/5-tips-technical-presentations\" target=\"_blank\">communicate effectively</a>.</p><p>Whether you\u2019re conducting research at a university or leading systems development projects at a global firm, your expertise can become impactful only when you share it in a way that others can understand and act upon. Without a clear narrative, even groundbreaking data or innovative designs can fail to gain traction, limiting their reach among colleagues and stakeholders, and in <a href=\"https://spectrum.ieee.org/ai-peer-review\" target=\"_blank\">peer\u2011reviewed journals</a>.</p><h2>The cost of the \u201csoft skill\u201d misnomer</h2><p>Writing is often labeled a \u201csoft skill\u201d\u2014which can diminish its importance. In reality, communication is a core engineering competency. It lets us document methods, articulate research findings, and persuade decision-makers who determine whether projects move forward.</p><p>If your writing is dense, disorganized, or overloaded with technical jargon, the value of the underlying work can become obscured. A strong proposal might be dismissed not because the idea lacks merit but because the justification is difficult to follow.</p><p>Clear writing can strengthen the impact of your work. Poor writing can distract from the points you\u2019re trying to make, as readers might not understand what you\u2019re saying.</p><h2>The architecture of authority</h2><p>Technical writing differs from other forms of prose because readers expect information to follow predictable, logical patterns. Unclear writing can leave readers unsure of the author\u2019s intent.</p><p>One of the most enduring frameworks for writing about technology in an understandable manner is the <a href=\"https://link.springer.com/article/10.1007/s10980-011-9674-3\" rel=\"noopener noreferrer\" target=\"_blank\">IMRaD</a> structure: introduction, methods, results, and discussion.</p><ul><li><strong>Introduction:</strong> Define the problem and its relevance.</li><li><strong>Methods:</strong> Detail the approach and justify the choices.</li><li><strong>Results:</strong> Present the empirical findings.</li><li><strong>Discussion:</strong> Interpret the outcomes and their implications.</li></ul><p>More than just a template for academic papers, IMRaD is a road map for logical reasoning. Mastering the structure can help engineers communicate in a way that aligns with professional writing standards used in technical journals, so their work is better understood and more respected.</p><h2>Bridging the training gap</h2><p>Despite technical communication\u2019s importance, engineering curricula often limit or lack formal instruction in it.</p><p>Recognizing that gap, IEEE has expanded its role as a global knowledge leader by offering <a href=\"https://iln.ieee.org/Public/ContentDetails.aspx?id=D7A52928C69F4D9788D0709D499DDD12&amp;_gl=1*vca24v*_gcl_au*MTU3OTE4ODg1Ny4xNzY5NjMwMjQx*_ga*MTg3NTQ1NDYxNi4xNzY5NjE1MTgw*_ga_H0YHKP362D*czE3Njk4MDIyOTYkbzckZzEkdDE3Njk4MDI0OTMkajkkbDAkaDA.&amp;_ga=2.1702449.1451088539.1769615184-1875454616.1769615180\" rel=\"noopener noreferrer\" target=\"_blank\">From Research to Publication: A Step-by-Step Guide to Technical Writing</a>. The course is led by <a href=\"https://www.duffield.cornell.edu/people/traci-nathans-kelly/\" rel=\"noopener noreferrer\" target=\"_blank\">Traci Nathans-Kelly</a>, director of the engineering communications program at Cornell.</p><p>Developed by <a href=\"https://ea.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Educational Activities</a> and the <a href=\"https://procomm.ieee.org/?_gl=1*13pejq1*_gcl_au*MTU3OTE4ODg1Ny4xNzY5NjMwMjQx&amp;_ga=2.1702449.1451088539.1769615184-1875454616.1769615180\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Professional Communication Society</a>, the learning opportunity goes beyond foundational writing skills. It addresses today\u2019s challenges, such as the ethical use of generative AI in the writing workflow, the complexities of team-based authorship, and publishing strategies.</p><p>The program centers on core skill areas that can influence an engineer\u2019s ability to communicate. Participants learn to master the IMRaD structure and learn advanced editing techniques to help strip away jargon, making complex ideas more accessible. In addition, the course covers strategic approaches to publishing work in high\u2011impact journals and improving a writer\u2019s visibility within the technical community.</p><p>The course is available on the <a href=\"https://iln.ieee.org/Public/ContentDetails.aspx?id=D7A52928C69F4D9788D0709D499DDD12&amp;_gl=1*vca24v*_gcl_au*MTU3OTE4ODg1Ny4xNzY5NjMwMjQx*_ga*MTg3NTQ1NDYxNi4xNzY5NjE1MTgw*_ga_H0YHKP362D*czE3Njk4MDIyOTYkbzckZzEkdDE3Njk4MDI0OTMkajkkbDAkaDA.&amp;_ga=2.1702449.1451088539.1769615184-1875454616.1769615180\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Learning Network</a>. Participants earn professional development credit and a shareable digital badge. IEEE members receive a US $100 discount. Organizations can <a href=\"https://forms1.ieee.org/Guide-to-Technical-Writing.html?LT=LG_WB_Innovate_LM_eLearning_Library_Course_Program&amp;_gl=1*muuk62*_gcl_au*NjQ3Mzk3MDY5LjE3NjUzMDI5NzQ.\" rel=\"noopener noreferrer\" target=\"_blank\">connect with an IEEE content specialist</a> to offer the training to their teams.</p>"
+      },
+      {
+        "id": "1ef074f340cb8b5e",
+        "title": "MIT Technology Review is a 2026 ASME finalist in reporting",
+        "url": "https://www.technologyreview.com/2026/02/27/1133769/asme-finalist-reporting/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 27 Feb 2026 21:41:31 +0000",
+        "published_dt": "2026-02-27T21:41:31+00:00",
+        "summary": "The American Society of Magazine Editors has named MIT Technology Review as a finalist for a 2026 National Magazine Award in the reporting category.\u00a0 The shortlisted story\u2014\u201cWe did the math on AI\u2019s energy footprint. Here\u2019s the story you haven\u2019t heard\u201d\u2014is part of the publication&#8217;s Power Hungry package on AI\u2019s energy burden.\u00a0 AI is often described&#8230;"
+      },
+      {
+        "id": "44541bce1c51b3c1",
+        "title": "Bond Strength, Biocompatibility, and Beyond",
+        "url": "https://content.knowledgehub.wiley.com/a-guide-to-selecting-adhesives-for-medical-device-applications/",
+        "source": "IEEE Spectrum",
+        "published": "Fri, 27 Feb 2026 11:00:02 +0000",
+        "published_dt": "2026-02-27T11:00:02+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/master-bond-logo.png?id=28859628&amp;width=980\" /><br /><br /><p>Designing a medical device? This whitepaper helps you evaluate adhesive options for biocompatibility, sterilization resistance, and manufacturability \u2014 so you can make the right material decision early.</p><p><strong>What Attendees will Learn</strong></p><ol><li> How to select between epoxy, silicone, cyanoacrylate, and UV/LED curable adhesives based on your device requirements</li><li>Which adhesive systems meet USP Class VI and ISO 10993-5 biocompatibility standards</li><li>How different sterilization methods, such as autoclaving, EtO, gamma, chemical immersion affect adhesive performance over repeated cycles</li><li>Why integrating adhesive selection early in the design process reduces costly trade-offs between performance and manufacturability</li><li>Download this free whitepaper now!</li></ol><p><span><a href=\"https://content.knowledgehub.wiley.com/a-guide-to-selecting-adhesives-for-medical-device-applications/\" target=\"_blank\">Download this free whitepaper now!</a></span></p>"
       },
       {
         "id": "a393403f0a1ad58a",
@@ -810,6 +810,33 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/person-in-blue-suit-examines-illuminated-server-racks-in-a-dimly-lit-room.png?id=64440487&amp;width=1245&amp;height=700&amp;coordinates=0%2C104%2C0%2C105\" /><br /><br /><p>When <a href=\"https://www.linkedin.com/in/alandekok/\" rel=\"noopener noreferrer\" target=\"_blank\">Alan DeKok</a> began a side project in network security, he didn\u2019t expect to start a 27-year career. In fact, he didn\u2019t initially set out to work in computing at all.</p><p>DeKok studied nuclear physics before making the switch to a part of network computing that is foundational but\u2014like nuclear physics\u2014largely invisible to those not directly involved in the field. Eventually, a project he started as a hobby became a full-time job: maintaining one of the primary systems that helps keep the internet secure.</p><h3>Alan DeKok</h3><br /><p><strong>Employer</strong></p><p>InkBridge Networks</p><p><strong>Occupation</strong></p><p>CEO</p><p><strong>Education </strong></p><p>Bachelor\u2019s degree in physics, Carleton University; master\u2019s degree in physics, Carleton University</p><p>Today, he leads the <a href=\"https://www.freeradius.org/\" rel=\"noopener noreferrer\" target=\"_blank\">FreeRADIUS Project</a>, which he cofounded in the late 1990s to develop what is now the most widely used Remote Authentication Dial-In User Service (RADIUS) software. FreeRADIUS is an open-source server that provides back-end authentication for most major <a href=\"https://spectrum.ieee.org/tag/internet-service-providers\" target=\"_blank\">internet service providers</a>. It\u2019s used by global financial institutions, Wi-Fi services like <a href=\"https://eduroam.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Eduroam</a>, and Fortune 50 companies. DeKok is also CEO of <a href=\"https://www.inkbridgenetworks.com/\" rel=\"noopener noreferrer\" target=\"_blank\">InkBridge Networks</a>, which maintains the server and provides support for the companies that use it.</p><p>Reflecting on nearly three decades of experience leading FreeRADIUS, DeKok says he became an expert in remote authentication \u201calmost by accident,\u201d and the key to his career has largely been luck. \u201cI really believe that it\u2019s preparing yourself for luck, being open to it, and having the skills to capitalize on it.\u201d</p><h2>From Farming to Physics</h2><p>DeKok grew up on a farm outside of Ottawa growing strawberries and raspberries. \u201cSitting on a tractor in the heat is not particularly interesting,\u201d says DeKok, who was more interested in working with 8-bit computers than crops. As a student at <a href=\"https://carleton.ca/\" rel=\"noopener noreferrer\" target=\"_blank\">Carleton University</a>, in Ottawa, he found his way to physics because he was interested in math but preferred the practicality of science.</p><p>While pursuing a master\u2019s degree in physics, also at Carleton, he worked on a water-purification system for the Sudbury Neutrino Observatory, an underground observatory then being built at the bottom of a nickel mine. He would wake up at 4:30 in the morning to drive up to the site, descend 2 kilometers, then enter one of the world\u2019s <a href=\"https://www.snolab.ca/about/about-snolab/\" rel=\"noopener noreferrer\" target=\"_blank\">deepest clean-room facilities</a> to work on the project. The system managed to achieve one atom of impurity per cubic meter of water, \u201cwhich is pretty insane,\u201d DeKok says.</p><p>But after his master\u2019s degree, DeKok decided to take a different route. Although he found nuclear physics interesting, he says he didn\u2019t see it as his life\u2019s work. Meanwhile, the Ph.D. students he knew were \u201cfanatical about physics.\u201d He had kept up his computing skills through his education, which involved plenty of programming, and decided to look for jobs at computing companies. \u201cI was out of physics. That was it.\u201d</p><p>Still, physics taught him valuable lessons. For one, \u201cYou have to understand the big picture,\u201d DeKok says. \u201cThe ability to tell the big-picture story in standards, for example, is extremely important.\u201d This skill helps DeKok explain to standards bodies how a protocol acts as one link in the entire chain of events that needs to occur when a user wants to access the internet.</p><p>He also learned that \u201cmethods are more important than knowledge.\u201d It\u2019s easy to look up information, but physics taught DeKok how to break down a problem into manageable pieces to come up with a solution. \u201cWhen I was eventually working in the industry, the techniques that came naturally to me, coming out of physics, didn\u2019t seem to be taught as well to the people I knew in engineering,\u201d he says. \u201cI could catch up very quickly.\u201d</p><h2>Founding FreeRADIUS</h2><p>In 1996, DeKok was hired as a software developer at a company called Gandalf, which made equipment for ISDN, a precursor to broadband that enabled digital transmission of data over telephone lines. Gandalf went under about a year later, and he joined CryptoCard, a company providing hardware devices for two-factor authentication.</p><p>While at CryptoCard, DeKok began spending more time working with a RADIUS server. When users want to connect to a network, RADIUS acts as a gatekeeper and verifies their identity and password, determines what they can access, and tracks sessions. DeKok moved on to a new company in 1999, but he didn\u2019t want to lose the networking skills he had developed. No other open-source RADIUS servers were being actively developed at the time, and he saw a gap in the market.</p><p>The same year, he started FreeRADIUS in his free time and it \u201cgradually took over my life,\u201d DeKok says. He continued to work on the open-source software as a hobby for several years while bouncing around companies in California and France. \u201cAlmost by accident, I became one of the more senior people in the space. Then I doubled down on that and started the business.\u201d He founded NetworkRADIUS (now called InkBridge Networks) in 2008.</p><p>By that point, FreeRADIUS was already being used by <a href=\"https://www.freeradius.org/about/#usage_statistics\" rel=\"noopener noreferrer\" target=\"_blank\">100 million people daily</a>. The company now employs experts in Canada, France, and the United Kingdom who work together to support FreeRADIUS. \u201cI\u2019d say at least half of the people in the world get on the internet by being authenticated through my software,\u201d DeKok estimates. He attributes that growth largely to the software being open source. Initially a way to enter the market with little funding, going open source has allowed FreeRADIUS to compete with bigger companies as an industry-leading product.</p><p>Although the software is critical for maintaining secure networks, most people aren\u2019t aware of it because it works behind the scenes. DeKok is often met with surprise that it\u2019s still in use. He compares RADIUS to a building foundation: \u201cYou need it, but you never think about it until there\u2019s a crack in it.\u201d</p><h2>27 Years of Fixes</h2><p>Over the years, DeKok has maintained FreeRADIUS by continually making small fixes. Like using a ratcheting tool to make a change inch by inch, \u201cyou shouldn\u2019t underestimate that ratchet effect of tiny little fixes that add up over time,\u201d he says.</p><p>He\u2019s seen the project through minor patches and more significant fixes, like when researchers <a href=\"https://www.freeradius.org/vul_notifications/2024/07/09/blastradius.html\" rel=\"noopener noreferrer\" target=\"_blank\">exposed a widespread vulnerability</a> DeKok had been trying to fix since 1998. He also watched a would-be successor to the network protocol, <a href=\"https://www.sciencedirect.com/topics/engineering/diameter-protocol\" rel=\"noopener noreferrer\" target=\"_blank\">Diameter</a>, rise and fall in popularity in the 2000s and 2010s. (Diameter gained traction in mobile applications but has gradually been phased out in the <a href=\"https://spectrum.ieee.org/telecom-experts-plot-a-path-to-5g\" target=\"_self\">shift to 5G</a>.) Though Diameter offers improvements, RADIUS is far simpler and already widely implemented, giving it an edge, DeKok explains.</p><p>And he remains confident about its future. \u201cPeople ask me, \u2018What\u2019s next for RADIUS?\u2019 I don\u2019t see it dying.\u201d Estimating that billions of dollars of equipment run RADIUS, he says, \u201cIt\u2019s never going to go away.\u201d</p><p>About his own career, DeKok says he plans to keep working on FreeRADIUS, exploring new markets and products. \u201cI never expected to have a company and a lot of people working for me, my name on all kinds of standards, and customers all over the world. But it worked out that way.\u201d</p><p><em>This article appears in the March 2026 print issue as \u201c<span>Alan DeKok</span>.\u201d</em></p>"
       },
       {
+        "id": "d114c67e7ce509e8",
+        "title": "Video Friday: Robot Dogs Haul Produce From the Field",
+        "url": "https://spectrum.ieee.org/quadruped-farming-robots",
+        "source": "IEEE Spectrum",
+        "published": "Fri, 27 Feb 2026 18:00:55 +0000",
+        "published_dt": "2026-02-27T18:00:55+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/quadruped-robots-with-crates-on-their-backs-carry-produce-on-a-path-amidst-lush-leafy-green-crops.png?id=65095903&amp;width=1245&amp;height=700&amp;coordinates=0%2C54%2C0%2C55\" /><br /><br /><p><span>Video Friday is your weekly selection of awesome robotics videos, collected by your friends at </span><em>IEEE Spectrum</em><span> robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please </span><a href=\"mailto:automaton@ieee.org?subject=Robotics%20event%20suggestion%20for%20Video%20Friday\">send us your events</a><span> for inclusion.</span></p><h5><a href=\"https://2026.ieee-icra.org/\">ICRA 2026</a>: 1\u20135 June 2026, VIENNA</h5><p>Enjoy today\u2019s videos!</p><div class=\"horizontal-rule\"></div><div><span style=\"display: none;\"> </span></div><blockquote class=\"rm-anchors\" id=\"vzjcvzyi2wq\"><em>Our robots Lynx M20 help transport harvested crops in mountainous farmland\u2014tackling the rural \u201clast mile\u201d logistics challenge.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.deeprobotics.cn/en\">DEEP Robotics</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"eqpyvr-b7hc\">Once again, I would point out that now that we are reaching peak humanoid robots doing humanoid things, we are inevitably about to see humanoid robots doing non-humanoid things.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.unitree.com/\">Unitree</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"g9oyrplrig8\"><em>In a study, a team of researchers from the Max Planck Institute for Intelligent Systems, the University of Michigan, and Cornell University show that groups of <a href=\"https://spectrum.ieee.org/magnetic-microbots-to-fight-cancer\" target=\"_blank\">magnetic microrobots</a> can generate fluidic forces strong enough to rotate objects in different directions without touching them. These microrobot swarms can turn gear systems, rotate objects much larger than the robots themselves, assemble structures on their own, and even pull in or push away many small objects.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.science.org/doi/10.1126/sciadv.aea9947\">Science</a> ] via [ <a href=\"https://is.mpg.de/en/news/magnetic-microrobot-swarms-enable-contactless-manipulation-of-objects-through-fluidic-torque\">Max Planck Institute</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"klhx6qfrzes\"><em>Bipedal\u2014or two-legged\u2014autonomous robots can be quite agile. This makes them useful for performing tasks on uneven terrain, such as carrying equipment through outdoor environments or performing maintenance on an ocean-going ship. However, unstable or unpredictable conditions also increase the possibility of a robot wipeout. Until now, there\u2019s been a significant lack of research into how a robot recovers when its direction shifts\u2014for example, a robot losing balance when a truck makes a quick turn. The team aims to fix this research gap.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://news.gatech.edu/news/2026/02/18/humanoid-robots-make-confident-strides-toward-walking-stability\">Georgia Tech</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"u7tsdb4nuge\"><em>Robotics is about controlling energy, motion, and uncertainty in the real world.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.cs.cmu.edu/~16311/current/labs/lab01/index.html\">Carnegie Mellon University</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"fftskxohrxm\"><em>Delicious dinner cooked by our robot Robody. We\u2019ve asked our investors to speak about why they\u2019re along for the ride.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.devanthro.com/\">Devanthro</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"7oc55almc4u\"><em>Tilt-rotor aerial robots enable omnidirectional maneuvering through thrust vectoring, but introduce significant control challenges due to the strong coupling between joint and rotor dynamics. This work investigates reinforcement learning for omnidirectional aerial motion control on over-actuated tiltable quadrotors that prioritizes robustness and agility.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://zwt006.github.io/posts/BeetleOmni/\">DRAGON Lab</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"3fzhnaoajae\"><em>At the CMU Robotic Innovation Center\u2019s 75,000-gallon water tank, members of the TartanAUV student group worked to further develop their autonomous underwater vehicle (AUV) called Osprey. The team, which takes part in the annual <a href=\"https://spectrum.ieee.org/build-your-own-undersea-robot\" target=\"_blank\">RoboSub</a> competition sponsored by the U.S. Office of Naval Research, is comprised primarily of undergraduate engineering and robotics students.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.cmu.edu/news/stories/archives/2026/february/cmus-robotics-innovation-center-propels-research-from-deep-sea-to-space\">Carnegie Mellon University</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"1one4l_pghw\">Sure seems like the only person who would want a robot dog is a person who does not in fact want a dog.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><blockquote><em>Compact size, industrial capability. Maximum torque of 90N\u00b7m, over 4 hours of no-load runtime, IP54 rainproof design. With a 15 kg payload, range exceeds 13 km. Open secondary development, empowering industry applications.</em></blockquote><p>[ <a href=\"https://www.unitree.com/\">Unitree</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"flmtgad-snu\">If your robot video includes tasty baked goods it WILL be included in Video Friday.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://qbrobotics.com/\">QB Robotics</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"hdktpcuzwli\"><em>Astorino is a 6-axis educational robot created for practical and affordable teaching of robotics in schools and beyond. It has been created with 3D printing, so it allows for experimentation and the possible addition of parts. With its design and programming, it replicates the actions of industrial robots giving students the necessary skills for future work.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://astorino.com.pl/en/\">Astorino by Kawasaki</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"zdqvhaoagcu\">We need more <a href=\"https://spectrum.ieee.org/autonomous-vehicles-great-at-straights\" target=\"_blank\">autonomous driving datasets</a> that accurately reflect how sucky driving can be a lot of the time.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://asrl.utias.utoronto.ca/\">ASRL</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"g-g0wl_tqw4\">This Carnegie Mellon University Robotics Institute Seminar is by CMU\u2019s own Victoria Webster-Wood, on \u201cRobots as Models for Biology and Biology and Materials for Robots.\u201d</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><blockquote><em>In the last century, it was common to envision robots as shining metal structures with rigid and halting motion. This imagery is in contrast to the fluid and organic motion of living organisms that inhabit our natural world. The adaptability, complex control, and advanced learning capabilities observed in animals are not yet fully understood, and therefore have not been fully captured by current robotic systems. Furthermore, many of the mechanical properties and control capabilities seen in animals have yet to be achieved in robotic platforms. In this talk, I will share an interdisciplinary research vision for robots as models for neuroscience and biology as materials for robots.</em></blockquote><p>[ <a href=\"https://www.ri.cmu.edu/event/robots-as-models-for-biology-and-biology-and-materials-for-robots/\">CMU RI</a> ]</p><div class=\"horizontal-rule\"></div>"
+      },
+      {
+        "id": "bb1732cdbf9ca643",
+        "title": "The Download: how AI is shaking up Go, and a cybersecurity mystery",
+        "url": "https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 27 Feb 2026 13:10:00 +0000",
+        "published_dt": "2026-02-27T13:10:00+00:00",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is rewiring how the world\u2019s best Go players think Ten years ago AlphaGo, Google DeepMind\u2019s AI program, stunned the world by defeating the South Korean Go player Lee Sedol. And in the&#8230;"
+      },
+      {
+        "id": "5b636ebb6a89fedd",
+        "title": "AI is rewiring how the world\u2019s best Go players think",
+        "url": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 27 Feb 2026 10:00:00 +0000",
+        "published_dt": "2026-02-27T10:00:00+00:00",
+        "summary": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped \u201cKorea Baduk Association,\u201d the governing body for professional Go. The game is an ancient one, with sacred stature in South Korea.&#160; But inside the building, rooms once filled with the soft clatter of hands dipping into&#8230;"
+      },
+      {
         "id": "ac4996c2791ef957",
         "title": "New Path to Battery-Grade Lithium Uses Electrochemistry",
         "url": "https://spectrum.ieee.org/mangrove-lithium-refining-ev-bottleneck",
@@ -880,33 +907,6 @@
         "published": "Wed, 25 Feb 2026 21:15:27 +0000",
         "published_dt": "2026-02-25T21:15:27+00:00",
         "summary": "Listen to the session or watch below Sodium-based batteries could be a cheaper, safer alternative to lithium-ion, and the technology is finally making its way into cars\u2014and energy storage arrays on the grid. Sodium-ion batteries are one of MIT Technology Review&#8217;s 10 Breakthrough Technologies of 2026 list, and this subscriber-only discussion explains why. Watch a&#8230;"
-      },
-      {
-        "id": "b329e538ac48f394",
-        "title": "How to Thrive as a Remote Worker",
-        "url": "https://spectrum.ieee.org/remote-work",
-        "source": "IEEE Spectrum",
-        "published": "Wed, 25 Feb 2026 17:48:29 +0000",
-        "published_dt": "2026-02-25T17:48:29+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=61876810&amp;width=1245&amp;height=700&amp;coordinates=0%2C112%2C0%2C113\" /><br /><br /><p><em>This article is crossposted from </em>IEEE Spectrum<em>\u2019s careers newsletter. <a href=\"https://engage.ieee.org/Career-Alert-Sign-Up.html\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Sign up now</em></a><em> to get insider tips, expert advice, and practical strategies, <em><em>written i<em>n partnership with tech career development company <a href=\"https://www.parsity.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Parsity</a> and </em></em></em>delivered to your inbox for free!</em></em></p><h2>Standing Out as a Remote Worker Takes a Different Strategy</h2><p>My first experience as a remote worker was a disaster.</p><p>Before I joined a San Francisco-based team with a lead developer in Connecticut, I had worked in person, five days a week. I thought success was simple: write good code, solve hard problems, deliver results. So I put my head down and worked harder than ever.</p><p>Twelve-hour days became normal as the boundary between work and personal life disappeared. My kitchen table became my office.</p><p>I rarely asked for help because I didn\u2019t want to seem incompetent. I stayed quiet in team Slack channels because I wasn\u2019t sure what to say.</p><p>Despite working some of the longest hours of my career, I made the slowest progress. I felt disconnected from the team. I had no idea if my work mattered or if anyone noticed what I was doing. I was burning out.</p><p>Eventually, I realized the real problem: I was invisible.</p><h3>The Office Advantage You Lose When Remote</h3><p>In an office, visibility happens naturally. Colleagues see you arrive early or stay late. They notice when you are stuck on a problem. They hear about your work in hallway conversations and over lunch. Physical presence creates recognition with almost no effort.</p><p>Remote work removes those signals. Your manager cannot see you at your desk. Your teammates don\u2019t know you\u2019ve hit a roadblock unless you say so. You can work long days and still appear less engaged than someone in the office.</p><p>That is the shift many people miss: Remote work requires execution plus deliberate communication.</p><h3>What Actually Works</h3><p>By my second remote role, I knew I had to change to protect my sanity and still succeed.</p><p>Here are five things I did that made a real difference.</p><p><strong>1. Over-communicating</strong></p><p>I began sharing updates in team channels regularly, not just when asked. \u201cWorking on the payment integration today; ready for review tomorrow.\u201d \u201cHit a blocker with API rate limits; investigating options.\u201d These took seconds but made my work visible and invited help sooner.</p><p><strong>2. Setting limits</strong></p><p>When your home is also your office, overwork becomes the default. I started ending most days at 5 p.m. and transitioning out of work mode with a walk or gym session. That ritual helped prevent burnout.</p><p><strong>3. Volunteering for presentations</strong></p><p>Presenting remotely felt less intimidating than standing in front of a room. I started volunteering for demos and lunch-and-learns. This increased my visibility beyond my immediate team and improved my communication skills.</p><p><strong>4. Promoting others publicly</strong></p><p>When someone helped me, I thanked them in a public channel. When a teammate shipped something impressive, I called it out. This builds goodwill and signals collaboration. In remote environments, gratitude is visible and memorable.</p><p><strong>5. Building relationships deliberately</strong></p><p>In an office, relationships form naturally. Remotely, you have to create those moments. I started an engineering book club that met every other week to discuss a technical book. It became a low-pressure way to connect with people across the organization.</p><h3>The Counterintuitive Reality</h3><p>With these habits, I got promoted faster in this remote job than I ever did in an office. I moved from senior engineer to engineering manager in under two years, while maintaining a better work-life balance.</p><p>Remote work offers flexibility and freedom, but it comes with a tax. You are easier to overlook and more likely to burn out unless you are intentional in your actions.</p><p>So, succeeding remotely takes deliberate effort in communication, relationships, and boundaries. If you do that well, remote work can unlock more opportunities than you might expect.</p><p>\u2014Brian</p><h2><a href=\"https://spectrum.ieee.org/network-security-engineer-alan-dekok\" target=\"_self\">This Former Physicist Helps Keep the Internet Secure</a></h2><p>Despite its critical role in maintaining a secure network, authentication software often goes unnoticed by users. Alan DeKok now runs one of the most widely used remote authentication servers in the world\u2014but he didn\u2019t initially set out to work in cybersecurity. DeKok studied nuclear physics before starting the side project that eventually turned into a three-decade-long career. </p><p><a href=\"https://spectrum.ieee.org/network-security-engineer-alan-dekok\" target=\"_blank\">Read more here.</a></p><h2><a href=\"https://www.rationalfx.com/forex-brokers/tech-industry-layoffs/\" rel=\"noopener noreferrer\" target=\"_blank\">More Than 30,000 Tech Employees Laid Off in 2026</a></h2><p>We\u2019re just two months into 2026, and layoffs in the tech industry are already ramping up. According to data compiled by RationalFX, more than half of the 30,700 layoffs this year have come from Amazon, which announced that it would be cutting the roles of 16,000 employees in late January. Will the trend continue through 2026? </p><p><a href=\"https://www.rationalfx.com/forex-brokers/tech-industry-layoffs/\" target=\"_blank\">Read more here.</a></p><h2><a href=\"https://spectrum.ieee.org/ieee-online-mini-ai-mba\" target=\"_self\">IEEE Online Mini-MBA Aims to Fill Leadership Skills Gaps in AI</a></h2><p>Recent research suggests that a majority of organizations have a significant gap when it comes to AI skills among leadership. To help fill the gap, IEEE has partnered with the Rutgers Business School to offer an online \u201cmini-MBA\u201d program, combining business strategy and deep AI literacy. The program spans 12 weeks and 10 modules that teach students how to implement AI strategies in their own organizations. </p><p><a href=\"https://spectrum.ieee.org/ieee-online-mini-ai-mba\" target=\"_blank\">Read more here.</a></p>"
-      },
-      {
-        "id": "459aed479817c579",
-        "title": "AI Is Acing Math Exams Faster Than Scientists Write Them",
-        "url": "https://spectrum.ieee.org/ai-math-benchmarks",
-        "source": "IEEE Spectrum",
-        "published": "Wed, 25 Feb 2026 16:00:02 +0000",
-        "published_dt": "2026-02-25T16:00:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/line-graph-demonstrating-how-google-deep-mind-s-aletheia-ai-scores-at-least-5-higher-on-ph-d-math-exercises-than-the-latest-ver.jpg?id=65007034&amp;width=1245&amp;height=700&amp;coordinates=0%2C62%2C0%2C63\" /><br /><br /><p><span>Mathematics is often regarded as the ideal domain for measuring AI progress effectively. Math\u2019s step-by-step logic is easy to track, and its definitive automatically verifiable answers remove any human or subjective factors. But AI systems are improving at such a pace that math </span><a href=\"https://spectrum.ieee.org/melanie-mitchell\" target=\"_self\">benchmarks are struggling to keep up</a><span>.</span></p><p>Way back in November 2024, non-profit research organization Epoch AI quietly released <a href=\"https://doi.org/10.48550/arXiv.2411.04872\" target=\"_blank\">FrontierMath</a>. A standardized, rigorous benchmark, Frontier Math was designed to measure the mathematical reasoning capabilities of the latest AI tools.</p><p>\u201cIt\u2019s a bunch of really hard math problems,\u201d explains <a href=\"https://epoch.ai/team\" target=\"_blank\">Greg Burnham</a>, Epoch AI Senior Researcher. \u201cOriginally, it was 300 problems that we now call tiers 1\u20133, but having seen AI capabilities really speed up, there was a feeling that we had to run to stay ahead, so now there\u2019s a special challenge set of extra carefully constructed problems that we call tier 4.\u201d</p><p>To a rough approximation, tiers 1\u20134 go from advanced undergraduate through to early postdoc level mathematics. When introduced, state-of-the-art AI models were unable to solve more than 2% of the problems FrontierMath contained. <a href=\"https://epoch.ai/frontiermath/tiers-1-4\" target=\"_blank\">Fast forward to today</a> and the best publicly available AI models, such as GPT-5.2 and Claude Opus 4.6, are solving over 40% of FrontierMath\u2019s 300 tiers 1\u20133 problems, and over 30% of the 50 tier 4 problems.</p><h2>AI takes on PhD level mathematics</h2><p>And this dizzying pace of advancement is showing no signs of abating. For example, just recently <a href=\"https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/\" target=\"_blank\">Google DeepMind announced</a> that Aletheia, an experimental AI system derived from Gemini Deep Think, <a href=\"https://doi.org/10.48550/arXiv.2601.23245\" rel=\"noopener noreferrer\" target=\"_blank\">achieved publishable PhD level research results</a>. Though obscure mathematically\u2014calculating certain structure constants in arithmetic geometry called eigenweights\u2014the result is significant in terms of AI development.</p><p>\u201cThey\u2019re claiming it was essentially autonomous, meaning a human wasn\u2019t guiding the work, and it\u2019s publishable,\u201d Burnham says. \u201cIt\u2019s definitely at the lower end of the spectrum of work that would get a mathematician excited, but it\u2019s new\u2014it\u2019s something we truly haven\u2019t really seen before.\u201d</p><p>To place this achievement in context, every FrontierMath problem has a known answer that a human has derived. Though a human could probably have achieved Aletheia\u2019s result \u201cif they sat down and steeled themselves for a week,\u201d says Burnham, no human had ever done so.</p><p>Aletheia\u2019s results and other recent achievements by AI mathematicians point to new, tougher benchmarks being needed to understand AI capabilities, and fast, because existing ones will soon become irrelevant. \u201cThere are easier math benchmarks that are already obsolete, several generations of them,\u201d says Burnham. \u201cFrontierMath will probably saturate [meaning state-of-the-art AI models score 100%] within the next two years; could be faster.\u201d</p><h2>The First Proof challenge</h2><p>To begin to address this problem, on February 6, a group of 11 highly distinguished mathematicians <a href=\"https://doi.org/10.48550/arXiv.2602.05192\" rel=\"noopener noreferrer\" target=\"_blank\">proposed the First Proof challenge</a>, a set of 10 extremely difficult math questions which arose naturally in the authors\u2019 research processes, and whose proofs are roughly five pages or less and had not been shared with anyone. <a href=\"https://1stproof.org/\" rel=\"noopener noreferrer\" target=\"_blank\">The First Proof challenge</a> was a preliminary effort to assess the capabilities of AI systems in solving research-level math questions on their own.</p><p>Generating serious buzz in the math community, professional and amateur mathematicians, and teams including OpenAI, all stepped up to the challenge. But by the time the authors <a href=\"https://codeberg.org/tgkolda/1stproof/src/branch/main/2026-02-batch/FirstProofSolutionsComments.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">posted the proofs</a> on February 14, no one had submitted correct solutions to all 10 problems.</p><p>In fact, far from it. The authors themselves only solved two of the 10 problems using Gemini 3.0 Deep Think and ChatGPT 5.2 Pro. And most outside submissions fared little better, apart from OpenAI and a small Aletheia team at Google DeepMind. With \u201climited human supervision\u201d OpenAI\u2019s most advanced internal AI system <a href=\"https://openai.com/index/first-proof-submissions/\" rel=\"noopener noreferrer\" target=\"_blank\">solved five of the 10 problems</a>, with Aletheia achieving similar outcomes\u2014results met with a spectrum of emotions by different members of the mathematics community, from awe to disappointment. The team behind First Proof plans an even tougher <a href=\"https://1stproof.org/\" rel=\"noopener noreferrer\" target=\"_blank\">second round on March 14</a>.</p><h2>A new frontier for AI</h2><p>\u201cI think First Proof is terrific: it\u2019s as close as you could realistically get to putting an AI system in the shoes of a mathematician,\u201d says Burnham. Though he admires how First Proof tests AI\u2019s mathematical utility for a wide range of mathematics and mathematicians, Epoch AI has its own new approach to testing\u2014<a href=\"https://epoch.ai/frontiermath/open-problems\" rel=\"noopener noreferrer\" target=\"_blank\">FrontierMath: Open Problems</a>. Uniquely, the pilot benchmark consists of 16 open problems (with more to follow) from research mathematics that professional mathematicians have tried and failed to solve. Since Open Problems\u2019 <a href=\"https://epochai.substack.com/p/introducing-frontiermath-open-problems\" rel=\"noopener noreferrer\" target=\"_blank\">release on January 27</a>, none have been solved by an AI.</p><p>\u201cWith Open Problems, we\u2019ve tried to make it more challenging,\u201d says Burnham. \u201cThe baseline on its own would be publishable, at least in a specialty journal.\u201d What\u2019s more, each question is designed so that it can be automatically graded. \u201cThis is a bit counterintuitive,\u201d Burnham adds. \u201cNo one knows the answers, but we have a computer program that will be able to judge whether the answer is right or not.\u201d</p><p>Burnham sees First Proof and Open Problems as being complementary. \u201cI would say understanding AI capabilities is a more-the-merrier situation,\u201d he adds. \u201cAI has gotten to the point where it\u2019s, in some ways, better than most PhD students, so we need to pose problems where the answer would be at least moderately interesting to some human mathematicians, not because AI was doing it, but because it\u2019s mathematics that human mathematicians care about.\u201d</p>"
-      },
-      {
-        "id": "3ae265f58ba9f624",
-        "title": "Jimi Hendrix Was a Systems Engineer",
-        "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
-        "source": "IEEE Spectrum",
-        "published": "Wed, 25 Feb 2026 15:39:03 +0000",
-        "published_dt": "2026-02-25T15:39:03+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/an-electric-guitar-connected-to-a-number-of-effects-pedals-connect-to-an-amplifier-and-loudspeaker-stack.png?id=64983431&amp;width=1245&amp;height=700&amp;coordinates=0%2C283%2C0%2C283\" /><br /><br /><p>3 February 1967 is a day that belongs in the annals of music history. <a href=\"https://www.jimihendrix.com/\" rel=\"noopener noreferrer\" target=\"_blank\">It\u2019s the day that Jimi Hendrix</a> entered London\u2019s <a href=\"https://en.wikipedia.org/wiki/Olympic_Studios\" rel=\"noopener noreferrer\" target=\"_blank\">Olympic Studios</a> to record a song using a new component. The song was \u201c<a href=\"https://www.youtube.com/watch?v=WGoDaYjdfSg\" rel=\"noopener noreferrer\" target=\"_blank\">Purple Haze</a>,\u201d and the component was the Octavia guitar pedal, created for Hendrix by sound engineer <a href=\"https://www.roger-mayer.co.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Roger Mayer</a>. The pedal was a key element of a complex chain of analog elements responsible for the final sound, including the acoustics of the studio room itself. When they sent the tapes for remastering in the United States, the sounds on it were so novel that they included an accompanying note explaining that the distortion at the end was not malfunction but intention. A few months later, Hendrix would deliver his <a href=\"https://www.youtube.com/watch?v=P-IRA5UrZ7g\" rel=\"noopener noreferrer\" target=\"_blank\">legendary electric guitar </a>performance at the Monterey International Pop Festival.<a href=\"https://www.jimihendrix.com/\" rel=\"noopener noreferrer\" target=\"_blank\"> </a></p><p>\u201cPurple Haze\u201d firmly established that an electric guitar can be used not just as a stringed instrument with built-in pickups for convenient sound amplification, but also as a full-blown wave synthesizer whose output can be manipulated at will. Modern guitarists can reproduce Hendrix\u2019s chain using separate plug-ins in digital audio workstation software, but the magic often disappears when everything is buffered and quantized. I wanted to find out if a more systematic approach could do a better job and provide insights into how Hendrix created his groundbreaking sound.</p><p>My fascination with Hendrix\u2019s Olympic Studios\u2019 performance arose because there is a \u201cHendrix was an alien\u201d narrative surrounding his musical innovation\u2014that his music appeared more or less out of nowhere. I wanted to replace that narrative with an engineering-driven account that\u2019s inspectable and reproducible\u2014plots, models, and a signal chain from the guitar through the pedals that you can probe stage by stage.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Four plots showing magnitudes plotted against time and frequency.\" class=\"rm-shortcode\" id=\"f2cc6\" src=\"https://spectrum.ieee.org/media-library/four-plots-showing-magnitudes-plotted-against-time-and-frequency.png?id=64983773&amp;width=980\" /> <small class=\"image-media media-caption\">Each effects pedal in Hendrix\u2019s chain contributed to enhancing the electric guitar beyond its intrinsic limits. A selection of plots from the full-circuit analysis shows how the Fuzz Face turns a sinusoid signal from a string into an almost square wave; how the Octavia pedal inverts half the input waveform to double its frequency; how the wah-wah pedal acts as band-pass filter; and how the Uni-Vibe pedal introduces selective phase shifts to color the sound.</small><small class=\"image-media media-photo-credit\">James Provost/ Rohan S. Puranik</small></p><p>Although I work mostly in the digital domain as an edge-computing architect in my day job, I knew that analog circuit simulations would be the key to going deeper.</p><p>My first step was to look at the challenges Hendrix was trying to address. Before the 1930s, guitars were too quiet for large ensembles. Electromagnetic pickups\u2014coils of wire wrapped around magnets that detect the vibrations of metal strings\u2014fixed the loudness problem. But they left a new one: the <em><em>envelope</em></em>, which specifies how the amplitude of a note varies as it\u2019s played on an instrument, starting with a rising initial <em><em>attack</em></em>, followed by a falling <em><em>decay</em></em>, and then any <em><em>sustain</em></em> of the note after that. Electric guitars attack hard, decay fast, and don\u2019t sustain like bowed strings or organs. Early manufacturers tried to modify the electric guitar\u2019s characteristics by using hollow bodies fitted with magnetic pickups, but the instrument still barked more than it sang.</p><p>Hendrix\u2019s mission was to reshape both the electric guitar\u2019s envelope and its tone until it could feel like a human voice. He tackled the guitar\u2019s constraints by augmenting it. His solution was essentially a modular analog signal chain driven not by knobs but by hands, feet, gain staging, and physical movement in a feedback field.</p><p>Hendrix\u2019s setups are well documented: Set lists, studio logs, and interviews with Mayer and Eddie Kramer, then the lead engineer at Olympic Studios, fill in the details. The signal chain for \u201cPurple Haze\u201d consisted of a set of pedals\u2014a <a href=\"https://en.wikipedia.org/wiki/Fuzz_Face\" target=\"_blank\">Fuzz Face</a>, the Octavia, and a<a href=\"https://en.wikipedia.org/wiki/Wah-wah_pedal\" target=\"_blank\"> wah-wah</a>\u2014plus a <a href=\"https://mopop.emuseum.com/objects/100504/marshall-super-lead-amplifier-formerly-owned-by-jimi-hendrix\" target=\"_blank\">Marshall 100-watt amplifier</a> stack, with the guitar and room acoustics closing a feedback loop that Hendrix tuned with his own body. Later, Hendrix would also incorporate a <a href=\"https://en.wikipedia.org/wiki/Uni-Vibe\" rel=\"noopener noreferrer\" target=\"_blank\">Uni-Vibe</a> pedal for many of his tracks. All the pedals were commercial models except for the <a href=\"https://www.roger-mayer.co.uk/octavia.htm\" rel=\"noopener noreferrer\" target=\"_blank\">Octavia</a>, which Mayer built to produce a distorted signal an octave higher than its input.</p><p class=\"pull-quote\"><span>Hendrix didn\u2019t speak in decibels and ohm values, but he collaborated with engineers who did.</span></p><p>I obtained the schematics for each of these elements and their accepted parameter ranges, and converted them into <a href=\"https://en.wikipedia.org/wiki/Netlist\" target=\"_blank\">netlists</a> that <a href=\"https://ngspice.sourceforge.io/\" target=\"_blank\">ngspice</a> can process (ngpsice is an open source implementation of the Spice circuit analyzer). The Fuzz Face pedal came in two variants, using <a href=\"https://spectrum.ieee.org/germanium-can-take-transistors-where-silicon-cant\" target=\"_blank\">germanium</a> or silicon transistors, so I created models for both. In my models, Hendrix\u2019s guitar pickups had a resistance of 6 kiloohms and an inductance of 2.5 henrys with a realistic cable capacitance.</p><p>I chained the circuit simulations together using a script, and I produced data-plot and sample sound outputs with Python scripts. All of the ngspice files and other scripts are available in my GitHub repository at<a href=\"https://github.com/nahorov/Hendrix-Systems-Lab\" target=\"_blank\"> github.com/nahorov/Hendrix-Systems-Lab</a>, with instructions on how to reproduce my simulations.</p><h2>What Does The Analysis of Hendrix\u2019s Signal Chain Tell Us?</h2><p>Plotting the signal at different points in the chain with different parameters reveals how Hendrix configured and manipulated the nonlinear complexities of the system as a whole to reach his expressive goals.</p><p>A few highlights: First, the Fuzz Face is a two-transistor feedback amplifier that turns a gentle sinusoid signal into an almost binary \u201cfuzzy\u201d output. The interesting behavior emerges when the guitar\u2019s volume is reduced. Because the pedal\u2019s input impedance is very low (about 20 k\u03a9), the pickups interact directly with the pedal circuit. Reducing amplitude restores a sinusoidal shape\u2014producing the famous \u201c<a href=\"https://www.youtube.com/shorts/XJdw_KrUN2w\" target=\"_blank\">cleanup effect</a>\u201d that was a hallmark of Hendrix\u2019s sound, where the fuzz drops in and out as desired while he played.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"A photograph of three young men beside a recording studio mixing desk.\" class=\"rm-shortcode\" id=\"35a49\" src=\"https://spectrum.ieee.org/media-library/a-photograph-of-three-young-men-beside-a-recording-studio-mixing-desk.png?id=64983993&amp;width=980\" /> <small class=\"image-media media-caption\">The Jimi Hendrix Experience, (left to right) engineer Eddie Kramer, Jimi Hendrix, and studio manager Jim Marron </small><small class=\"image-media media-photo-credit\">Fred W. McDarrah/Getty Images</small></p><p>Second, the Octavio pedal used a rectifier, which normally converts alternating to direct current. Mayer realized that a rectifier effectively flips each trough of a waveform into a peak, doubling the number of peaks per second. The result is an apparent doubling of frequency\u2014a bloom of second-harmonic content that the ear hears a bright octave above the fundamental.</p><p>Third, the wah-wah pedal is a band-pass filter: Frequency plots show the center frequency sweeping from roughly 300 hertz to 2 kilohertz. Hendrix used it to make the guitar \u201ctalk\u201d with vowel sounds, most iconically on \u201c<a href=\"https://www.youtube.com/watch?v=C0XwPUFfFwE\" target=\"_blank\">Voodoo Child</a> (Slight Return).\u201d</p><p>Fourth, the Uni-Vibe cascades four phase-shift sections controlled by photoresistors. In circuit terms, it\u2019s a low-frequency oscillator modulating a variable-phase network; in musical terms it\u2019s motion and air.</p><p>Finally, the whole chain became a closed loop by driving the <a href=\"https://spectrum.ieee.org/the-cool-sound-of-tubes\" target=\"_blank\">Marshall amplifier near saturation</a>, which among other things extends the sustain. In a reflective room, the guitar strings couple acoustically to the speakers\u2014move a few centimeters and you shift from one stable feedback mode to another. To an engineer, this is a gain-controlled acoustic feedback system. To Hendrix, it was part of the instrument. He learned to tune oscillation with distance and angle, shaping sirens, bombs, and harmonics by walking the edge of instability.</p><p>Hendrix didn\u2019t speak in decibels and ohm values, but he collaborated with engineers who did\u2014Mayer and Kramer\u2014and iterated fast as a systems engineer. Reframing Hendrix as an engineer doesn\u2019t diminish the art. It explains how one person, in under four years as a bandleader, could pull the electric guitar toward its full potential by systematically augmenting the instrument\u2019s shortcomings for maximum expression.</p><p><em>This article appears in the March 2026 print issue as \u201c<span>Jimi Hendrix, Systems Engineer</span>.\u201d</em></p><p><em>A correction to this article was made on 27 Feb 2026 to correctly identify the men posing with Jimi Hendrix in the recording studio.</em></p>"
       }
     ]
   }
