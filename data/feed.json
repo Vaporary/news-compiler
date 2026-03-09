@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-03-08T13:02:27.583242+00:00",
+  "generated_at": "2026-03-09T13:19:06.282946+00:00",
   "categories": {
     "Biotech": [
+      {
+        "id": "c5bb9607c3d60454",
+        "title": "Fresh turmoil at the FDA with Prasad\u2019s exit",
+        "url": "https://www.statnews.com/2026/03/09/health-news-fresh-turmoil-at-the-fda-with-prasad-exit/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 09 Mar 2026 13:16:46 +0000",
+        "published_dt": "2026-03-09T13:16:46+00:00",
+        "summary": "Prasad out again, generic Ozempic on its way, and more health news from Morning Rounds"
+      },
+      {
+        "id": "434de18d802566a1",
+        "title": "STAT+: Pharmalot: We\u2019re reading about a lack of FDA adcomms, FDA loosening biosimilar rules, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/03/09/fda-biosimilars-prasad-novo-hims-weight-wegovy/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 09 Mar 2026 13:11:56 +0000",
+        "published_dt": "2026-03-09T13:11:56+00:00",
+        "summary": "There is growing concern that the FDA is shunning advisory committees that allow agency leaders, drugmakers, patients, and doctors to speak their minds in public"
+      },
+      {
+        "id": "14e9e3efea584113",
+        "title": "STAT+: Talkspace to be acquired for $835 million by mental health services giant",
+        "url": "https://www.statnews.com/2026/03/09/talkspace-to-be-acquired-for-835-million-by-mental-health-services-giant/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 09 Mar 2026 13:11:40 +0000",
+        "published_dt": "2026-03-09T13:11:40+00:00",
+        "summary": "United Health Services, a behavioral health provider that operates over 340 inpatient facilities across 40 states, announced Monday that it will acquire virtual care mental health company Talkspace for $835&#8230;"
+      },
+      {
+        "id": "5f700eb9ed3d290a",
+        "title": "STAT+: Xenon Pharmaceuticals\u2019 seizure drug shows strong efficacy in late-stage trial",
+        "url": "https://www.statnews.com/2026/03/09/xenon-pharmaceuticals-azetukalner-epilepsy-fos/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 09 Mar 2026 11:00:00 +0000",
+        "published_dt": "2026-03-09T11:00:00+00:00",
+        "summary": "Xenon Pharmaceuticals said its treatment for a common type of seizure disorder significantly reduced the frequency of those seizures compared to a placebo."
+      },
+      {
+        "id": "866a0b8135a7566f",
+        "title": "STAT+: As controversial decisions mount, FDA shuns public advisory meetings",
+        "url": "https://www.statnews.com/2026/03/09/fda-cuts-back-advisory-meetings-controversial-decisions-grow/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 09 Mar 2026 08:30:00 +0000",
+        "published_dt": "2026-03-09T08:30:00+00:00",
+        "summary": "The FDA is cutting back on public advisory committee meetings, even as the public and other stakeholders seek more transparency."
+      },
+      {
+        "id": "804e669aae890b2a",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/regenerons-obesity-drug-shows-zepbound-efficacy-phase-3\" hreflang=\"en\">Regeneron's obesity drug shows Zepbound-like efficacy in phase 3</a>",
+        "url": "https://www.fiercebiotech.com/biotech/regenerons-obesity-drug-shows-zepbound-efficacy-phase-3",
+        "source": "Fierce Biotech",
+        "published": "Mar 9, 2026 8:05am",
+        "published_dt": "2026-03-09T08:05:00+00:00",
+        "summary": "Regeneron\u2019s Chinese partner reported Zepbound-like efficacy in a phase 3 trial, de-risking one part of the Big Biotech\u2019s differentiated play for the obesity market."
+      },
       {
         "id": "0cd995097e4f747b",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/pressure-builds-back-and-forth-between-uniqure-and-fda-intensifies\" hreflang=\"en\">Pressure builds as back-and-forth between uniQure and FDA intensifies </a>",
@@ -10,6 +64,78 @@
         "published": "Mar 5, 2026 11:22am",
         "published_dt": "2026-03-05T11:22:00+00:00",
         "summary": "The back-and-forth between the FDA and gene therapy developer uniQure is getting messier, with an agency spokesperson now denying the biotech\u2019s claims about a sham trial request for the rare Huntington\u2019s disease."
+      },
+      {
+        "id": "960cbae29a96b784",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roches-oral-serd-flunks-phase-3-trial-first-line-breast-cancer\" hreflang=\"en\">Roche's oral SERD flunks phase 3 trial in 1st-line breast cancer, raising questions of mechanism's limits</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roches-oral-serd-flunks-phase-3-trial-first-line-breast-cancer",
+        "source": "Fierce Biotech",
+        "published": "Mar 9, 2026 6:06am",
+        "published_dt": "2026-03-09T06:06:00+00:00",
+        "summary": "A phase 3 trial of Roche\u2019s giredestrant in first-line breast cancer patients has missed its primary endpoint, tarnishing the record of a drug candidate that hit the mark in adjuvant and second-line settings.<br />"
+      },
+      {
+        "id": "a3a92dcc6a8a331a",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/alfasigma-pens-690m-deal-gsk-itching-drug-awaiting-fda-approval-decision\" hreflang=\"en\">Italy's Alfasigma pens $690M deal for GSK itching drug awaiting FDA approval decision</a>",
+        "url": "https://www.fiercebiotech.com/biotech/alfasigma-pens-690m-deal-gsk-itching-drug-awaiting-fda-approval-decision",
+        "source": "Fierce Biotech",
+        "published": "Mar 9, 2026 6:01am",
+        "published_dt": "2026-03-09T06:01:00+00:00",
+        "summary": "Italian pharma Alfasigma is handing $300 million to GSK for an itching treatment the FDA could approve in a couple of weeks."
+      },
+      {
+        "id": "e3ac302642efc61b",
+        "title": "STAT+: Health tech company says it will dive into Medicare\u2019s new chronic care experiment",
+        "url": "https://www.statnews.com/2026/03/09/remote-patient-monitoring-cadence-health-cmmi-access/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 09 Mar 2026 08:30:00 +0000",
+        "published_dt": "2026-03-09T08:30:00+00:00",
+        "summary": "How a remote patient monitoring company is reworking its tech to enroll in a Medicare program seeking to align payment with health care outcomes."
+      },
+      {
+        "id": "b95245d8ecefcfa6",
+        "title": "STAT+: Blue Cross Blue Shield says data back up claim that AI is driving up medical bills",
+        "url": "https://www.statnews.com/2026/03/09/bcbs-study-hospitals-use-ai-upcoding-drive-up-prices/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 09 Mar 2026 08:30:00 +0000",
+        "published_dt": "2026-03-09T08:30:00+00:00",
+        "summary": "A new data analysis from Blue Cross Blue Shield shows how AI coding may be driving up the cost of health care."
+      },
+      {
+        "id": "878e1e86413e567b",
+        "title": "STAT+: After UnitedHealth moved in, Oregon sought to rein in corporate health care. Now, it\u2019s facing an early test",
+        "url": "https://www.statnews.com/2026/03/09/peacehealth-er-doctors-replaced-apollomd-backlash/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 09 Mar 2026 08:30:00 +0000",
+        "published_dt": "2026-03-09T08:30:00+00:00",
+        "summary": "PeaceHealth's move to replace ER doctors with ApolloMD clinicians is testing a new state law limiting corporate medicine."
+      },
+      {
+        "id": "1850bb0e6d42a7b2",
+        "title": "Opinion: The financial reason why parents beg me to diagnose their kids with autism",
+        "url": "https://www.statnews.com/2026/03/09/aba-therapy-insurance-coverage-autism-diagnosis-rise/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 09 Mar 2026 08:30:00 +0000",
+        "published_dt": "2026-03-09T08:30:00+00:00",
+        "summary": "Parents often pressure Lawrence Diller, a behavioral/developmental pediatrician, to diagnose their children with autism. He thinks he knows why."
+      },
+      {
+        "id": "0a7e9d4d5722c87e",
+        "title": "Opinion: America must not learn to live with 72,000 overdose deaths a year",
+        "url": "https://www.statnews.com/2026/03/09/drug-overdose-deaths-opioids-decline-plateau/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 09 Mar 2026 08:30:00 +0000",
+        "published_dt": "2026-03-09T08:30:00+00:00",
+        "summary": "With the drop in overdose deaths, \u201cwe're celebrating: a death toll that exceeds total American combat fatalities in Vietnam, every single year,\u201d writes addiction researcher Wayne Kepner."
+      },
+      {
+        "id": "66fe27996247518b",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizer-ramps-plans-trispecific-after-phase-2-eczema-win\" hreflang=\"en\">Pfizer ramps up plans for trispecific after phase 2 eczema win  </a>",
+        "url": "https://www.fiercebiotech.com/biotech/pfizer-ramps-plans-trispecific-after-phase-2-eczema-win",
+        "source": "Fierce Biotech",
+        "published": "Mar 9, 2026 8:17am",
+        "published_dt": "2026-03-09T08:17:00+00:00",
+        "summary": "Pfizer is ramping up plans for tilrekimig after a phase 2 win raised hopes that the once-monthly trispecific antibody could hold its own against approved eczema drugs."
       },
       {
         "id": "548ebd14c049c55d",
@@ -57,6 +183,15 @@
         "summary": "This webinar covers how recent advances in multiplex immunofluorescence technology are enabling high-throughput analysis of high-plex biomarker panels for oncology trials."
       },
       {
+        "id": "c8e206c48ab8b191",
+        "title": "STAT+: 5 lessons from Vinay Prasad\u2019s turbulent tenure at the FDA",
+        "url": "https://www.statnews.com/2026/03/08/vinay-prasad-fda-lessons-from-tenure/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sun, 08 Mar 2026 15:10:03 +0000",
+        "published_dt": "2026-03-08T15:10:03+00:00",
+        "summary": "Vinay Prasad's unique ability to attract criticism \u2014 even when his bosses, including the president, wanted him to keep his head low \u2014 did him in at the FDA."
+      },
+      {
         "id": "1f8fe1a7646469c1",
         "title": "Vinay Prasad, key Makary ally and a focus of controversy at the FDA, is leaving the agency",
         "url": "https://www.statnews.com/2026/03/06/fda-vinay-prasad-controversial-cber-director-leaving/?utm_campaign=rss",
@@ -66,8 +201,8 @@
         "summary": "Prasad has been involved in several controversial decisions related to rare disease treatments."
       },
       {
-        "id": "f6942cc3f9a2b25d",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fdas-vinay-prasad-depart-agency-end-april\" hreflang=\"en\">FDA\u2019s Vinay Prasad to depart agency at the end of April</a>",
+        "id": "7b9a5ace3260454a",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fdas-vinay-prasad-depart-agency-end-april\" hreflang=\"en\">FDA's Vinay Prasad to depart agency at the end of April</a>",
         "url": "https://www.fiercebiotech.com/biotech/fdas-vinay-prasad-depart-agency-end-april",
         "source": "Fierce Biotech",
         "published": "Mar 6, 2026 5:21pm",
@@ -91,144 +226,81 @@
         "published": "Fri, 06 Mar 2026 14:25:38 +0000",
         "published_dt": "2026-03-06T14:25:38+00:00",
         "summary": "China has approved a new obesity treatment from Pfizer, heightening competition in a market poised to become even more crowded"
-      },
-      {
-        "id": "d784acd1773a3d78",
-        "title": "STAT+: Science Corp. raises $230 million to bring retinal implant to Americans",
-        "url": "https://www.statnews.com/2026/03/05/science-corp-raises-230-million-retinal-implant-fda-decision/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 05 Mar 2026 19:01:41 +0000",
-        "published_dt": "2026-03-05T19:01:41+00:00",
-        "summary": "Science Corp. raised $230 million as it awaits a decision from the FDA on PRIMA, its wireless retinal implant."
-      },
-      {
-        "id": "919ca2df82f758aa",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sets-new-bar-zealand-touts-placebo-tolerability-roche-partnered-weight-loss-drug\" hreflang=\"en\">Setting a new bar? Zealand touts 'placebo-like tolerability' for Roche-partnered weight loss drug</a>",
-        "url": "https://www.fiercebiotech.com/biotech/sets-new-bar-zealand-touts-placebo-tolerability-roche-partnered-weight-loss-drug",
-        "source": "Fierce Biotech",
-        "published": "Mar 5, 2026 4:10pm",
-        "published_dt": "2026-03-05T16:10:00+00:00",
-        "summary": "Zealand Pharma\u2019s Roche-partnered amylin analog demonstrated \u201cplacebo-like tolerability\u201d and up to 10.7% mean weight loss at 42 weeks in a phase 2 obesity trial."
-      },
-      {
-        "id": "0bd13d951e37733d",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizer-oncology-rd-strategy-jeff-legos-speed-breadth-and-novel-combinations\" hreflang=\"en\">Pfizer's oncology R&amp;D strategy: Jeff Legos on speed, breadth and novel combinations</a>",
-        "url": "https://www.fiercebiotech.com/biotech/pfizer-oncology-rd-strategy-jeff-legos-speed-breadth-and-novel-combinations",
-        "source": "Fierce Biotech",
-        "published": "Mar 4, 2026 11:47am",
-        "published_dt": "2026-03-04T11:47:00+00:00",
-        "summary": "After steering positive key pivotal readouts for a trio of Novartis\u2019 blockbusters, Jeff Legos is now tasked with fleshing out Pfizer\u2019s $43 billion Seagen acquisition into an antibody-drug conjugate empire while accelerating a PD-1xVEGF bispecific licensed from 3SBio toward 2028 readouts amid heated competition."
-      },
-      {
-        "id": "29e25d14e4112619",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-pumps-480-million-south-korea-biopharma-industry\" hreflang=\"en\">Roche pumps $480M into South Korea biopharma industry to establish global trial 'ecosystem'</a>",
-        "url": "https://www.fiercebiotech.com/biotech/roche-pumps-480-million-south-korea-biopharma-industry",
-        "source": "Fierce Biotech",
-        "published": "Mar 4, 2026 10:34am",
-        "published_dt": "2026-03-04T10:34:00+00:00",
-        "summary": "Roche is plugging 710 billion won (about $484 million) into South Korea\u2019s biopharma industry, with the goal of attracting global clinical trials to the East Asian nation."
-      },
-      {
-        "id": "8896795c007e4713",
-        "title": "<a href=\"https://www.fiercebiotech.com/cro/uk-invests-64m-expand-trial-access-underserved-communities\" hreflang=\"en\">UK invests $64M to expand clinical trial access to underserved communities</a>",
-        "url": "https://www.fiercebiotech.com/cro/uk-invests-64m-expand-trial-access-underserved-communities",
-        "source": "Fierce Biotech",
-        "published": "Mar 4, 2026 10:13am",
-        "published_dt": "2026-03-04T10:13:00+00:00",
-        "summary": "In an effort to boost global biopharma competitiveness, the U.K.\u2019s National Institute for Health and Care Research (NIHR) has awarded \u00a347.8 million ($64 million) to 51 National Health Service (NHS) healthcare providers and 79 primary care organizations to fund commercial research equipment."
-      },
-      {
-        "id": "dea3fbe0925bed2e",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bayer-ditches-one-aav-gene-therapy-pompe-disease-focus-rival-option\" hreflang=\"en\">Bayer tosses 1 Pompe gene therapy from $2B AskBio buyout to focus on alternative option</a>",
-        "url": "https://www.fiercebiotech.com/biotech/bayer-ditches-one-aav-gene-therapy-pompe-disease-focus-rival-option",
-        "source": "Fierce Biotech",
-        "published": "Mar 4, 2026 9:07am",
-        "published_dt": "2026-03-04T09:07:00+00:00",
-        "summary": "Bayer has discontinued an early-stage clinical gene therapy for a rare genetic disorder in favor of a similar candidate."
-      },
-      {
-        "id": "871b500e30dfd502",
-        "title": "Federal autism advisory board cancels first public meeting since overhaul",
-        "url": "https://www.statnews.com/2026/03/07/autism-committee-meeting-canceled/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 07 Mar 2026 17:47:17 +0000",
-        "published_dt": "2026-03-07T17:47:17+00:00",
-        "summary": "A federal advisory committee on autism issues has canceled plans for its first public meeting since new members were appointed earlier this year."
-      },
-      {
-        "id": "132f4ef93d4bbef4",
-        "title": "Is the Pentagon allowed to surveil Americans with AI?",
-        "url": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 06 Mar 2026 19:21:22 +0000",
-        "published_dt": "2026-03-06T19:21:22+00:00",
-        "summary": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after Edward Snowden exposed the NSA\u2019s collection of bulk&#8230;"
-      },
-      {
-        "id": "021e3e1a0c653a68",
-        "title": "STAT+: Novo Nordisk\u2019s Wegovy and Ozempic shots could be made for as little as $3 a month, analysis finds",
-        "url": "https://www.statnews.com/pharmalot/2026/03/06/novo-ozempic-wegovy-generics-patents-glp1/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 06 Mar 2026 19:20:26 +0000",
-        "published_dt": "2026-03-06T19:20:26+00:00",
-        "summary": "Generic versions of Novo Nordisk\u2019s Wegovy and Ozempic medications could be mass produced for about $3 per person a month, according to a new analysis."
-      },
-      {
-        "id": "2423f68256e953de",
-        "title": "STAT+: Up and down the ladder: The latest comings and goings",
-        "url": "https://www.statnews.com/pharmalot/2026/03/06/pharma-biotech-jobs-gsk-abbvie-takeda-astrazeneca-mckesson/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 06 Mar 2026 16:37:05 +0000",
-        "published_dt": "2026-03-06T16:37:05+00:00",
-        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-      },
-      {
-        "id": "0ba7ffc8de5733f1",
-        "title": "STAT+: Servier to acquire Day One, maker of pediatric cancer drug, for $2.5B",
-        "url": "https://www.statnews.com/2026/03/06/servier-dayone-pediatric-cancer/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 06 Mar 2026 14:31:59 +0000",
-        "published_dt": "2026-03-06T14:31:59+00:00",
-        "summary": "Servier said it would buy Day One Biopharmaceuticals, the maker of a drug for childhood brain tumors, in a deal worth roughly $2.5 billion."
-      },
-      {
-        "id": "1e8ca26f16309589",
-        "title": "The Download: 10 things that matter in AI, plus Anthropic\u2019s plan to sue the Pentagon",
-        "url": "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 06 Mar 2026 13:10:00 +0000",
-        "published_dt": "2026-03-06T13:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 10 Things That Matter in AI Right Now For years, MIT Technology Review&#8217;s newsroom has been ahead of the curve, tracking the developments in AI that matter and&#8230;"
-      },
-      {
-        "id": "1eb232adcd93d9cd",
-        "title": "Americans trust Fauci more than RFK Jr.",
-        "url": "https://www.statnews.com/2026/03/06/health-news-fauci-public-trust-over-rfk-jr/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 06 Mar 2026 12:54:38 +0000",
-        "published_dt": "2026-03-06T12:54:38+00:00",
-        "summary": "The DOJ's fight against gender-affirming care, the impact of Trump's 'Don't take Tylenol,' and more health news"
-      },
-      {
-        "id": "7e8d69b1edfefb1f",
-        "title": "<a href=\"https://www.fiercebiotech.com/pharma/servier-adopt-sibling-voranigo-25b-purchase-day-one-and-its-childhood-brain-tumor-med\" hreflang=\"en\">Servier to widen rare cancer offerings with $2.5B buyout of Day One and glioma drug Ojemda</a>",
-        "url": "https://www.fiercebiotech.com/pharma/servier-adopt-sibling-voranigo-25b-purchase-day-one-and-its-childhood-brain-tumor-med",
-        "source": "Fierce Biotech",
-        "published": "Mar 6, 2026 9:44am",
-        "published_dt": "2026-03-06T09:44:00+00:00",
-        "summary": "Servier on Friday unveiled a deal to acquire Day One Biopharmaceuticals\u2014a commercial-stage company developing targeted therapies for pediatric cancers and other diseases\u2014for $21.50 per share in cash. The total value of the deal, which is expected to close in the second quarter, comes to roughly $2.5 billion."
-      },
-      {
-        "id": "35fd761091a0a3b4",
-        "title": "How Stand Up For Science is trying to \u2018pull every lever\u2019 to win over the public",
-        "url": "https://www.statnews.com/2026/03/06/stand-up-for-science-organizer-colette-delawalla-interview/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 06 Mar 2026 09:30:00 +0000",
-        "published_dt": "2026-03-06T09:30:00+00:00",
-        "summary": "Stand Up For Science has become a formal organization and adopted a new strategy that's more confrontational with grassroots tactics"
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "bc2fce11bfd0b35b",
+        "title": "Trimble adds Earthworks 3D option for Vermeer surface miner",
+        "url": "https://www.engineering.com/trimble-adds-earthworks-3d-option-for-vermeer-surface-miner/",
+        "source": "Engineering.com",
+        "published": "Mon, 09 Mar 2026 13:11:26 +0000",
+        "published_dt": "2026-03-09T13:11:26+00:00",
+        "summary": "<p>The system supports remote operation and can automatically control cutting head lift and tilt to follow the project plan.</p>\n<p>The post <a href=\"https://www.engineering.com/trimble-adds-earthworks-3d-option-for-vermeer-surface-miner/\">Trimble adds Earthworks 3D option for Vermeer surface miner</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "f6f6f4c7b1b50ed0",
+        "title": "GNSS resilience is an economic and security priority",
+        "url": "https://spacenews.com/gnss-resilience-is-an-economic-and-security-priority/",
+        "source": "SpaceNews",
+        "published": "Mon, 09 Mar 2026 13:00:00 +0000",
+        "published_dt": "2026-03-09T13:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/GsORnFRXgAAAKKd-scaled.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Modern society has become profoundly reliant on Global Navigation Satellite Systems (GNSS). These systems support aviation safety, emergency services, finance, communications, energy networks and an expanding array of autonomous and industrial systems. Yet despite this reliance, GNSS remains inherently fragile: low\u2011power signals transmitted from medium Earth orbit are surprisingly easy to degrade, and the consequences [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/gnss-resilience-is-an-economic-and-security-priority/\">GNSS resilience is an economic and security priority</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "58bf1cba36347862",
+        "title": "Voyager Technologies invests in Max Space",
+        "url": "https://spacenews.com/voyager-technologies-invests-in-max-space/",
+        "source": "SpaceNews",
+        "published": "Mon, 09 Mar 2026 13:00:00 +0000",
+        "published_dt": "2026-03-09T13:00:00+00:00",
+        "summary": "<figure><img alt=\"Voyager/Max Space lander\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"575\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/voyager-maxspace-lander.jpeg?fit=1024%2C575&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Voyager Technologies is investing in Max Space to help accelerate a partnership between the two companies on developing lunar habitats.</p>\n<p>The post <a href=\"https://spacenews.com/voyager-technologies-invests-in-max-space/\">Voyager Technologies invests in Max Space</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "1d4817c7d9bebc01",
+        "title": "First Starship V3 launch slips",
+        "url": "https://spacenews.com/first-starship-v3-launch-slips/",
+        "source": "SpaceNews",
+        "published": "Mon, 09 Mar 2026 12:16:09 +0000",
+        "published_dt": "2026-03-09T12:16:09+00:00",
+        "summary": "<figure><img alt=\"Starship Ship 39\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/starship-ship39.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>SpaceX is pushing back the first launch of the latest version of Starship even as NASA is asking it to accelerate work on a lunar lander version of the vehicle.</p>\n<p>The post <a href=\"https://spacenews.com/first-starship-v3-launch-slips/\">First Starship V3 launch slips</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "3fd9fda89dc9ed5d",
+        "title": "Chinese official calls for prioritizing Neptune orbiter mission",
+        "url": "https://spacenews.com/chinese-official-calls-for-prioritizing-neptune-orbiter-mission/",
+        "source": "SpaceNews",
+        "published": "Mon, 09 Mar 2026 11:28:40 +0000",
+        "published_dt": "2026-03-09T11:28:40+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2022/08/Neptune-aug1989-NASA-JPL-1.jpg?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A senior Chinese space scientist and delegate to the country\u2019s national congress is proposing the prioritization of an unprecedented orbiter mission to ice giant Neptune.</p>\n<p>The post <a href=\"https://spacenews.com/chinese-official-calls-for-prioritizing-neptune-orbiter-mission/\">Chinese official calls for prioritizing Neptune orbiter mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "1bca581a14aeec86",
+        "title": "TI, NVIDIA collaborate on sensor fusion for humanoid robots",
+        "url": "https://www.engineering.com/ti-nvidia-collaborate-on-sensor-fusion-for-humanoid-robots/",
+        "source": "Engineering.com",
+        "published": "Mon, 09 Mar 2026 09:50:00 +0000",
+        "published_dt": "2026-03-09T09:50:00+00:00",
+        "summary": "<p>TI integrates mmWave radar with NVIDIA Jetson Thor to enable low-latency 3D perception and obstacle detection for robotics.</p>\n<p>The post <a href=\"https://www.engineering.com/ti-nvidia-collaborate-on-sensor-fusion-for-humanoid-robots/\">TI, NVIDIA collaborate on sensor fusion for humanoid robots</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "64d48e2c67d6c2e5",
+        "title": "Mastercam completes acquisition of In-House Solutions",
+        "url": "https://www.engineering.com/mastercam-completes-acquisition-of-in-house-solutions/",
+        "source": "Engineering.com",
+        "published": "Mon, 09 Mar 2026 09:05:00 +0000",
+        "published_dt": "2026-03-09T09:05:00+00:00",
+        "summary": "<p>The deal creates Mastercam Canada and expands direct sales, training and technical support for manufacturers across Canada.</p>\n<p>The post <a href=\"https://www.engineering.com/mastercam-completes-acquisition-of-in-house-solutions/\">Mastercam completes acquisition of In-House Solutions</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "ff298299827c1a63",
+        "title": "Tencent Cloud, Maxon partner to add AI to Cinema 4D",
+        "url": "https://www.engineering.com/tencent-cloud-maxon-partner-to-add-ai-to-cinema-4d/",
+        "source": "Engineering.com",
+        "published": "Mon, 09 Mar 2026 09:02:00 +0000",
+        "published_dt": "2026-03-09T09:02:00+00:00",
+        "summary": "<p>Integration of Tencent HY 3D Global will enable generative 3D model creation in Cinema 4D on iPad and desktop, expected in late 2026.</p>\n<p>The post <a href=\"https://www.engineering.com/tencent-cloud-maxon-partner-to-add-ai-to-cinema-4d/\">Tencent Cloud, Maxon partner to add AI to Cinema 4D</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
       {
         "id": "99ac937c03de42af",
         "title": "China designates space sector an \u201cemerging pillar industry,\u201d sets deep space ambitions in new economic blueprint",
@@ -381,108 +453,9 @@
         "published": "Fri, 06 Mar 2026 09:23:59 +0000",
         "published_dt": "2026-03-06T09:23:59+00:00",
         "summary": "<p>New York-based manufacturer operates a 60,000-square-foot facility with one of North America\u2019s largest fleets of metal 3D printers.</p>\n<p>The post <a href=\"https://www.engineering.com/afm-capital-acquires-majority-stake-in-incodema3d/\">AFM Capital acquires majority stake in Incodema3D</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "db89eea266cf6551",
-        "title": "AMUG awards 2026 scholarships to Li Yang and Abby Stamper",
-        "url": "https://www.engineering.com/amug-awards-2026-scholarships-to-li-yang-and-abby-stamper/",
-        "source": "Engineering.com",
-        "published": "Fri, 06 Mar 2026 09:14:00 +0000",
-        "published_dt": "2026-03-06T09:14:00+00:00",
-        "summary": "<p>Recipients will present their work at the AMUG Conference in Reno on March 17 during the March 15-19 event.</p>\n<p>The post <a href=\"https://www.engineering.com/amug-awards-2026-scholarships-to-li-yang-and-abby-stamper/\">AMUG awards 2026 scholarships to Li Yang and Abby Stamper</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "73bdc40b8deed4d7",
-        "title": "Nemetschek, Neilsoft form AEC/O strategic partnership",
-        "url": "https://www.engineering.com/nemetschek-neilsoft-form-aec-o-strategic-partnership/",
-        "source": "Engineering.com",
-        "published": "Fri, 06 Mar 2026 09:00:00 +0000",
-        "published_dt": "2026-03-06T09:00:00+00:00",
-        "summary": "<p>The companies will establish a Center of Excellence to support global customers and develop digital twin and design tools.</p>\n<p>The post <a href=\"https://www.engineering.com/nemetschek-neilsoft-form-aec-o-strategic-partnership/\">Nemetschek, Neilsoft form AEC/O strategic partnership</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "f32f481be89f9fe1",
-        "title": "EON Reality launches Genesis 3.0 training platform",
-        "url": "https://www.engineering.com/eon-reality-launches-genesis-3-0-training-platform/",
-        "source": "Engineering.com",
-        "published": "Fri, 06 Mar 2026 08:31:00 +0000",
-        "published_dt": "2026-03-06T08:31:00+00:00",
-        "summary": "<p>Platform adds simulation layers and multi-device publishing to support interactive workforce training on desktop, tablet and VR.</p>\n<p>The post <a href=\"https://www.engineering.com/eon-reality-launches-genesis-3-0-training-platform/\">EON Reality launches Genesis 3.0 training platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "bcf037de680eb322",
-        "title": "NASA deputy administrator nominee sails through confirmation hearing",
-        "url": "https://spacenews.com/nasa-deputy-administrator-nominee-sails-through-confirmation-hearing/",
-        "source": "SpaceNews",
-        "published": "Thu, 05 Mar 2026 23:14:15 +0000",
-        "published_dt": "2026-03-05T23:14:15+00:00",
-        "summary": "<figure><img alt=\"Anderson\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"731\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/NHQ202603050016-large.jpg?fit=1024%2C731&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The White House\u2019s nominee to be deputy administrator of NASA received bipartisan support at a Senate confirmation hearing March 5.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-deputy-administrator-nominee-sails-through-confirmation-hearing/\">NASA deputy administrator nominee sails through confirmation hearing</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "828fbb22371fa991",
-        "title": "Blended wing goes supersize as Natilus eyes twin-deck model",
-        "url": "https://aerospaceamerica.aiaa.org/blended-wing-goes-supersize-as-natilus-eyes-twin-deck-model/",
-        "source": "Aerospace America",
-        "published": "Thu, 05 Mar 2026 17:18:48 +0000",
-        "published_dt": "2026-03-05T17:18:48+00:00",
-        "summary": ""
-      },
-      {
-        "id": "a8fb821de19e2d77",
-        "title": "Texas as a strategic space hub",
-        "url": "https://spacenews.com/texas-as-a-strategic-space-hub/",
-        "source": "SpaceNews",
-        "published": "Thu, 05 Mar 2026 15:41:59 +0000",
-        "published_dt": "2026-03-05T15:41:59+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/space-minds-podcast-ascend-texas-1920-1080.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>In this episode of Space Minds, Jeff Foust moderates a panel at AIAA AscendxTexas on the role Texas is playing in the space economy.\u00a0With a series of industry leaders they [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/texas-as-a-strategic-space-hub/\">Texas as a strategic space hub</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "4e7ff5c2362fecdb",
-        "title": "Future Electronics adds SnapMagic CAD models to online catalog",
-        "url": "https://www.engineering.com/future-electronics-adds-snapmagic-cad-models-to-online-catalog/",
-        "source": "Engineering.com",
-        "published": "Thu, 05 Mar 2026 14:23:24 +0000",
-        "published_dt": "2026-03-05T14:23:24+00:00",
-        "summary": "<p>Engineers can download symbols, footprints and 3D models from product pages, with access to more than 10 million manufacturer-based assets.</p>\n<p>The post <a href=\"https://www.engineering.com/future-electronics-adds-snapmagic-cad-models-to-online-catalog/\">Future Electronics adds SnapMagic CAD models to online catalog</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "7241d4c2fc9f93ef",
-        "title": "Unlocking AI in space: the case for greater industry and space agency collaboration",
-        "url": "https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/",
-        "source": "SpaceNews",
-        "published": "Thu, 05 Mar 2026 14:00:00 +0000",
-        "published_dt": "2026-03-05T14:00:00+00:00",
-        "summary": "<figure><img alt=\"Earth Observation And Climate Information Consortium\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2023/06/TheNationalPhysical.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>For decades, space has served as humanity&#8217;s most demanding testing laboratory, where only the most resilient technologies survive the vacuum, radiation and temperature extremes beyond Earth&#8217;s protective embrace. Today, we stand at an inflection point where artificial intelligence is poised to fundamentally transform how we explore, understand and operate in space. But making AI-powered space [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/\">Unlocking AI in space: the case for greater industry and space agency collaboration</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
-      {
-        "id": "1b29d6e480f366b9",
-        "title": "Would America be in recession without the super-rich?",
-        "url": "https://www.economist.com/finance-and-economics/2026/03/08/would-america-be-in-recession-without-the-super-rich",
-        "source": "Finance & economics",
-        "published": "Sun, 08 Mar 2026 12:36:30 +0000",
-        "published_dt": "2026-03-08T12:36:30+00:00",
-        "summary": "American anxieties are K-shaped. The economy is more like a backslash"
-      },
-      {
-        "id": "c37c356fe84c69e4",
-        "title": "Ray of Hope? China and the Rise of Solar Energy -- by Ignacio Banares-Sanchez, Robin Burgess, D\u00e1vid L\u00e1szl\u00f3, Pol Simpson, John Van Reenen, Yifan Wang",
-        "url": "https://www.nber.org/papers/w34893#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "Do industrial policies that promote clean energy offer a \u201cray of hope\u201d, increasing a country\u2019s growth and welfare, whilst simultaneously reducing carbon emissions? We study the impact of Chinese solar subsidies whose implementation by city-regions went alongside massive expansion of the sector and a dramatic fall in global solar prices. We construct new city and firm panel data on solar policies, patenting and output. Using synthetic-difference-in-differences 2004-2020, we find production and innovation subsidies were more effective than demand-side (installation) subsidies in generating large and persistent increases in local innovation, net entry, production and exports. Demand policies did, however, reduce local pollution. To examine aggregate effects, we build and structurally estimate a quantitative spatial model with endogenous innovation and heterogeneous productivity across firms and cities, which accounts for business stealing and knowledge spillovers. Counterfactual analysis shows that: (i) local effects remain substantial at the macro level explaining 40%-50% of the aggregate changes in solar innovation, prices and revenues; (ii) social benefits to Chinese citizens exceed subsidy costs by 65% (and double this when environmental benefits are included); and (iii) although all subsidy types increase welfare, innovation subsidies are the most cost-effective."
-      },
-      {
-        "id": "27b1da5947cb518a",
-        "title": "Inflation vs Inclusion: Stabilization Policy in the Wake of the Pandemic -- by Felipe Alves, Giovanni L. Violante",
-        "url": "https://www.nber.org/papers/w34894#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "As the economy emerges from a crisis, macroeconomic policy confronts a dilemma: a protracted stimulus can foster a more inclusive labor market recovery, yet risks igniting inflation that ultimately undermines workers\u2019 welfare through real income erosion. This tension amplifies in the presence of the ZLB and aggregate capacity constraints. We embed this insight into a quantitative model of the US economy. We study how monetary and fiscal policies managed this inflation-inclusion trade-off after the pandemic, contrasting actual outcomes with counterfactual scenarios. Our experiments yield five findings: (i) the trade-off was unusually difficult because policy was squeezed between these two constraints; (ii) inflationary pressures arose from the joint deployment of prolonged monetary and fiscal stimulus; either policy alone would have produced milder price dynamics; (iii) either inclusive fiscal policy or inclusive monetary policy in isolation would have been sufficient to contain the negative labor market hysteresis at the bottom of the distribution; (iv) inclusive fiscal policy combined with a more traditionally inflation-focused central bank would have achieved higher welfare for the vast majority of households; (v) welfare effects reflect mostly corrections of incomplete-market inefficiencies rather than gains from aggregate stabilization."
-      },
       {
         "id": "5097101e94ba401d",
         "title": "The AI productivity boom is not here (yet)",
@@ -502,31 +475,49 @@
         "summary": "Just consider what happens if inflation starts to rise again"
       },
       {
-        "id": "c2046e2498ce513d",
-        "title": "Are Macro Shocks Second Order? -- by Michail Anthropelos, Jasmina Hasanhodzic, Laurence J. Kotlikoff",
-        "url": "https://www.nber.org/papers/w34896#fromrss",
+        "id": "c7c4002e14cf9efc",
+        "title": "The Labor Market Consequences of Rapid Sectoral Shifts -- by John R. Grigsby, Nathan Zorzi",
+        "url": "https://www.nber.org/papers/w34922#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "This paper addresses two fundamental macroeconomics questions. First, are macro shocks large enough to alter the course of the economy? Second, are they large enough to materially impact economic welfare? Lucas and many others have addressed these issues, but do so primarily in the context of representative agent models. We study these questions using a large-scale, general equilibrium, stochastic, overlapping generations model. We consider 80 generations overlapping in an economy buffeted by realistically calibrated total factor productivity and capital depreciation shocks. The model is solved using Marcet\u2019s projection method taking explicit account of the full state space, which comprises 81 variables. Our findings, some recapitulated from prior studies by Hasanhodzic and Kotlikoff, suggest macro shocks are second order both with respect to their impact on aggregate variables and individual welfare. Specifically, the probability that the stochastic economy\u2019s long-run aggregates materially deviate from their deterministic counterparts is less than one percent. Furthermore, the realized (simulated) lifetime utility of generations born in the long run rarely differs from deterministic long-run utility levels by more than 1 percent, measured as consumption-compensating differentials. These findings are supported by the model\u2019s small equity premium. Moreover, they are essentially indifferent to the presence of a bond market. Both results suggest agents are minimally concerned with precautionary savings against these shocks. Our RBC-in-OLG findings suggest that what really moves the macroeconomy and demands attention is policy, not shocks."
+        "summary": "Sectoral shifts require costly labor reallocation for workers, fueling concerns about how quickly they occur. We study how the pace of such sectoral shifts affects workers at risk of displacement. We develop a life-cycle model with skill heterogeneity and job ladders where labor demand gradually rises in one sector and declines in another. The model reveals three novel insights. First, workers\u2019 lifetime earnings are strongly non-linear and even nonmonotonic in the horizon over which the transition unfolds. Second, more and more workers benefit on the extensive margin as the transition accelerates, but the tail of losses becomes thicker on the intensive margin. Third, labor market frictions are important to quantify these non-linearities. We apply our model to the climate transition and find substantial earnings losses from a transition ending in 2060. Completing the transition ten years earlier reduces average losses, but raises losses in the tail by a fifth."
       },
       {
-        "id": "342a23537f39e045",
-        "title": "Capital Structure, Seniority, and Risk Premia: Evidence from the London Stock Exchange, 1870\u20131929 -- by William N. Goetzmann, K. Geert Rouwenhorst",
-        "url": "https://www.nber.org/papers/w34899#fromrss",
+        "id": "1b6ef5cbeb5c9a71",
+        "title": "The Effects of a Sudden Stop in Low-Skilled Immigration: Evidence from Korea\u2019s Guest Worker Program -- by Jongkwan Lee, Giovanni Peri, Hee-Seung Yang",
+        "url": "https://www.nber.org/papers/w34927#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We use security-level data from the Investors Monthly Manual (IMM) to construct capital-weighted return indexes for the London Stock Exchange over the period 1870\u20131929. We find a significant and persistent equity risk premium of 3.7% over commercial paper and 4.5% over long-term government bonds, with significant co-movement with GDP growth. Returns decline monotonically with claim seniority: common stocks earn more than preferred shares, which earn more than corporate bonds. Both equity risk premia are highly significant, and the rolling 10-year return spread for stocks minus bonds is positive for every interval in the 60-year sample period."
+        "summary": "As workforces in high-income countries age and shrink, immigrants increasingly fill entry-level, low-skilled jobs. We examine what happens when this labor supply is abruptly reduced, exploiting South Korea\u2019s sudden suspension of its low-skilled guest worker program following the 2020 COVID-19 border closure. Using policy-driven variation in firms\u2019 pre-pandemic reliance on immigrant labor, we show that the collapse in inflows led to a significant increase in firm exit. Among surviving firms, greater pre-pandemic dependence on immigrant workers resulted in production disruptions and operational delays. Firms did not respond by expanding domestic hiring to replace missing guest workers. Instead, they adjusted by reallocating incumbent Korean employees toward lower-skilled tasks, contributing to occupational downgrading and significant wage declines. These findings suggest that low-skilled immigrant workers were not easily substitutable in the short run and that tighter immigration constraints can impose substantial adjustment costs on both firms and native workers."
       },
       {
-        "id": "e580f43c92aecc6a",
-        "title": "Understanding High Schools\u2019 Effects on Longer-Term Outcomes -- by Preeya P. Mbekeani, John P. Papay, Ann Mantil, Richard J. Murnane",
-        "url": "https://www.nber.org/papers/w34913#fromrss",
+        "id": "492ee839498b7e88",
+        "title": "When Do Financial Frictions Matter for Misallocation? -- by Yan Bai, Dan Lu, Xu Tian, Yajie Wang",
+        "url": "https://www.nber.org/papers/w34930#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "Improving education and labor market outcomes for low-income students is critical for advancing socioeconomic mobility in the United States. We use longitudinal data on five cohorts of 9th grade students to explore how Massachusetts public high schools affect the longer-term outcomes of students, with a special focus on students from low-income families. Using detailed administrative and student survey data, we estimate school value-added impacts on college outcomes and earnings. Observationally similar students who attend a school at the 80th percentile of the value-added distribution instead of a school at the 20th percentile are 11% more likely to enroll in college, are 31% more likely to graduate from a four-year college, and earn 25% (or $10,500) more annually at age 30. On average, schools that improve students\u2019 longer-run outcomes the most are those that improve their 10th grade test scores and increase their college plans the most."
+        "summary": "This paper reassesses the role of financial frictions in capital misallocation through a model disciplined by both firm-level borrowing costs and the average revenue product of capital (ARPK). Using Chinese manufacturing data, we document substantial dispersion in ARPK, alongside a strong positive relationship between ARPK and the borrowing costs firms face---patterns absent in U.S. data. We develop a heterogeneous-firm model with endogenous firm-specific borrowing costs and additional capital distortions modeled as exogenous wedges. In this model, eliminating financial frictions raises total factor productivity (TFP) by 25 percentage points. In contrast, without other capital distortions, removing financial frictions increases TFP by less than 2 percentage points. The stark difference arises from the interaction between financial frictions and permanent firm-level distortions, which generate endogenous financial heterogeneity and selection, making productive firms the most constrained. Our findings suggest that financial frictions can be highly distortionary when other sources of misallocation are present."
+      },
+      {
+        "id": "abbe3d47cd8fc2e4",
+        "title": "Tariffs, Automation, and Business Dynamism -- by St\u00e9phane Auray, Michael B. Devereux, Aur\u00e9lien Eyquem",
+        "url": "https://www.nber.org/papers/w34935#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "Can protectionism revive domestic production, slow automation, and help routine workers? We address this question in a dynamic open-economy model with heterogeneous firms, endogenous entry, and task-based production in which routine tasks can be performed by workers or robots. Import tariffs reallocate demand toward domestic goods, reshape markups and entry incentives, and generate fiscal revenues rebated to households. As a result, tariffs raise GDP and consumption measured at market prices and temporarily slow automation, even though intermediate output at factor prices and trade volumes decline. The gains are unevenly distributed: routine workers benefit robustly through transfers and reduced training, non-routine workers face opposing wage and rebate effects, and firm owners gain in aggregate as higher domestic demand and entry expand total profits despite lower per-firm values. Aggregate welfare gains hinge critically on key assumptions (automation, training, endogenous entry) and on how tariff revenues are rebated. In the baseline with uniform transfers, the welfare-maximizing tariff lies below the classical monopoly formula, while alternative rebate schemes can shift it substantially. Overall, the results caution against viewing tariffs as a simple tool for reindustrialization and highlight the role of technology adoption and fiscal incidence in evaluating protectionist policies."
+      },
+      {
+        "id": "0aa78a3e5ec7e9a0",
+        "title": "The Heterogeneous Earnings Impact of Job Loss Across Workers, Establishments, and Markets -- by Susan Athey, Lisa K. Simon, Oskar Nordstr\u00f6m Skans, Johan Vikstr\u00f6m, Yaroslav Yakymovych",
+        "url": "https://www.nber.org/papers/w34946#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "Using rich Swedish administrative data, we apply causal machine learning methods to study how earnings losses after job displacement vary with observable characteristics that may be relevant for targeting policy interventions for workers. Heterogeneity in effects is as large within as across worker groups defined by age and schooling, and as large within as across establishments. A substantial portion of cross-establishment heterogeneity can be explained by industry and local labor market characteristics, suggesting a role for place- and industry-based targeting. The largest losses are concentrated among already vulnerable workers, indicating that well-designed targeting policies can improve both efficiency and equity."
       },
       {
         "id": "b06b76593491143e",
@@ -680,18 +671,18 @@
         "published": "Tue, 06 Jan 2026 17:10:37 +0000",
         "published_dt": "2026-01-06T17:10:37+00:00",
         "summary": "Donald Trump\u2019s tariffs have hurt the factories they were meant to protect"
+      },
+      {
+        "id": "a8cff5f173dab9f5",
+        "title": "Forget affordability. Europe has an availability crisis",
+        "url": "https://www.economist.com/finance-and-economics/2025/12/30/forget-affordability-europe-has-an-availability-crisis",
+        "source": "Finance & economics",
+        "published": "Tue, 30 Dec 2025 11:42:29 +0000",
+        "published_dt": "2025-12-30T11:42:29+00:00",
+        "summary": "Tight regulation is largely to blame"
       }
     ],
     "Cross-Disciplinary": [
-      {
-        "id": "06b5614a38bae8db",
-        "title": "Military AI Policy Needs Democratic Oversight",
-        "url": "https://spectrum.ieee.org/military-ai-governance",
-        "source": "IEEE Spectrum",
-        "published": "Sun, 08 Mar 2026 10:00:03 +0000",
-        "published_dt": "2026-03-08T10:00:03+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-white-man-in-his-40s-speaking-into-a-microphone-he-is-wearing-glasses-a-suit-jacket-and-tie.jpg?id=65162768&amp;width=2000&amp;height=1500&amp;coordinates=0%2C0%2C0%2C0\" /><br /><br /><p>A <a href=\"https://www.nytimes.com/2026/02/23/us/politics/pentagon-anthropic-ai.html\" rel=\"noopener noreferrer\" target=\"_blank\">simmering dispute</a> between the United States Department of Defense (DOD) and Anthropic has now escalated into a <a href=\"https://www.techpolicy.press/a-timeline-of-the-anthropic-pentagon-dispute/\" rel=\"noopener noreferrer\" target=\"_blank\">full-blown confrontation</a>, raising an uncomfortable but important question: who gets to set the guardrails for military use of artificial intelligence \u2014 the executive branch, private companies or Congress and the broader democratic process?</p><p>The conflict began when Defense Secretary Pete Hegseth reportedly gave Anthropic CEO Dario Amodei a deadline to allow the DOD <a href=\"https://www.politico.com/news/2026/02/24/hegseth-sets-friday-deadline-for-anthropic-to-drop-its-ai-red-lines-00795641\" rel=\"noopener noreferrer\" target=\"_blank\">unrestricted use</a> of its AI systems. When the company refused, the administration moved to designate Anthropic a <a href=\"https://x.com/SecWar/status/2027507717469049070\" rel=\"noopener noreferrer\" target=\"_blank\">supply chain risk</a> and ordered federal agencies to phase out its technology, dramatically escalating the standoff.</p><p>Anthropic has refused to cross <a href=\"https://www.anthropic.com/news/statement-department-of-war\" rel=\"noopener noreferrer\" target=\"_blank\">two lines</a>: allowing its models to be used for domestic surveillance of United States citizens and enabling fully autonomous military targeting. Hegseth has objected to what he has described as \u201c<a href=\"https://www.war.gov/News/Transcripts/Transcript/Article/4377190/remarks-by-secretary-of-war-pete-hegseth-at-spacex/\" rel=\"noopener noreferrer\" target=\"_blank\">ideological constraints</a>\u201d embedded in commercial AI systems, arguing that determining lawful military use should be the government\u2019s responsibility \u2014 not the vendor\u2019s. As he put it in a <a href=\"https://www.war.gov/News/Transcripts/Transcript/Article/4377190/remarks-by-secretary-of-war-pete-hegseth-at-spacex/\" rel=\"noopener noreferrer\" target=\"_blank\">speech at Elon Musk\u2019s SpaceX</a> last month, \u201cWe will not employ AI models that won\u2019t allow you to fight wars.\u201d</p><p>Stripped of rhetoric, this dispute resembles something relatively straightforward: a procurement disagreement.</p><h2>Procurement policies</h2><p>In a market economy, the U.S. military decides what products and services it wants to buy. Companies decide what they are willing to sell and under what conditions. Neither side is inherently right or wrong for taking a position. If a product does not meet operational needs, the government can purchase from another vendor. If a company believes certain uses of its technology are unsafe, premature or inconsistent with its values or risk tolerance, it can <a href=\"https://www.anthropic.com/news/responsible-scaling-policy-v3\" rel=\"noopener noreferrer\" target=\"_blank\">decline to provide them</a>. For example, a coalition of companies have signed an open letter pledging <a href=\"https://bostondynamics.com/news/general-purpose-robots-should-not-be-weaponized/\" rel=\"noopener noreferrer\" target=\"_blank\">not to weaponize general-purpose robots</a>. That basic symmetry is a feature of the free market.</p><p>Where the situation becomes more complicated \u2014 and more troubling \u2014 is in the decision to designate Anthropic a \u201c<a href=\"https://x.com/SecWar/status/2027507717469049070\" rel=\"noopener noreferrer\" target=\"_blank\">supply chain risk</a>.\u201d That tool exists to address genuine national security vulnerabilities, such as foreign adversaries. It is not intended to blacklist an American company for rejecting the government\u2019s preferred contractual terms. </p><p>Using this authority in that manner marks a significant shift \u2014 from a procurement disagreement to the use of coercive leverage. <a href=\"https://x.com/SecWar/status/2027507717469049070\" rel=\"noopener noreferrer\" target=\"_blank\">Hegseth has declared</a> that \u201ceffective immediately, no contractor, supplier, or partner that does business with the U.S. military may conduct any commercial activity with Anthropic.\u201d This action will almost certainly face <a href=\"https://x.com/SecWar/status/2027507717469049070\" rel=\"noopener noreferrer\" target=\"_blank\">legal challenges</a>, but it raises the stakes well beyond the loss of a single DOD contract.</p><h2>AI governance</h2><p>It is also important to distinguish between the two substantive issues Anthropic has reportedly raised.</p><p>The first, opposition to domestic surveillance of U.S. citizens, touches on well-established civil liberties concerns. The U.S. government operates under constitutional constraints and statutory limits when it comes to monitoring Americans. A company stating that it does not want its tools used to facilitate domestic surveillance is not inventing a new principle; it is aligning itself with longstanding democratic guardrails.</p><p>To be clear, DOD is not affirmatively asserting that it intends to use the technology to surveil Americans unlawfully. Its position is that it does not want to procure models with built-in restrictions that preempt otherwise lawful government use. In other words, the Department of Defense argues that compliance with the law is the government\u2019s responsibility \u2014 not something that needs to be embedded in a vendor\u2019s code. </p><p>Anthropic, for its part, has invested heavily in training its systems to refuse certain categories of <a href=\"https://www-cdn.anthropic.com/78073f739564e986ff3e28522761a7a0b4484f84.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">harmful or high-risk tasks</a>, including assistance with surveillance. The disagreement is therefore less about current intent than about institutional control over constraints: whether they should be imposed by the state through law and oversight, or by the developer through technical design.</p><p>The second issue, opposition to fully autonomous military targeting, is more complex. </p><p>The DOD already maintains policies requiring <a href=\"https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/300009p.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">human judgment in the use of force</a>, and debates over autonomy in weapons systems are ongoing within both military and international forums. A private company may reasonably determine that its current technology is not sufficiently reliable or controllable for certain battlefield applications. At the same time, the military may conclude that such capabilities are necessary for deterrence and operational effectiveness.</p><p>Reasonable people can disagree about where those <a href=\"https://itif.org/publications/2026/02/26/survey-most-americans-say-tech-companies-should-allowed-set-ai-limits/\" rel=\"noopener noreferrer\" target=\"_blank\">lines should be drawn</a>.</p><p>But that disagreement underscores a deeper point: the boundaries of military AI use should not be settled through ad hoc negotiations between a Cabinet secretary and a CEO. Nor should they be determined by which side can exert greater contractual leverage.</p><p>If the U.S. government believes certain AI capabilities are essential to national defense, that position should be articulated openly. It should be debated in Congress, and reflected in doctrine, oversight mechanisms and statutory frameworks. The rules should be clear \u2014 not only to companies, but to the public.</p><p>The U.S. often distinguishes itself from authoritarian regimes by emphasizing that power operates within transparent democratic institutions and legal constraints. That distinction carries less weight if AI governance is determined primarily through executive ultimatums issued behind closed doors.</p><p>There is also a strategic dimension. If companies conclude that participation in federal markets requires surrendering all deployment conditions, some may exit those markets. Others may respond by weakening or removing model safeguards to remain eligible for government contracts. Neither outcome strengthens <a href=\"https://www.reuters.com/business/retail-consumer/big-tech-group-tells-pentagons-hegseth-they-are-concerned-about-declaring-2026-03-04/\" rel=\"noopener noreferrer\" target=\"_blank\">U.S. technological leadership</a>.</p><p>The DOD is correct that it cannot allow potential \u201cideological constraints\u201d to undermine lawful military operations. But there is a difference between rejecting arbitrary restrictions and rejecting any role for corporate risk management in shaping deployment conditions. In high-risk domains \u2014 from aerospace to cybersecurity \u2014 contractors routinely impose safety standards, testing requirements and operational limitations as part of responsible commercialization. AI should not be treated as uniquely exempt from that practice.</p><p>Moreover, built-in safeguards need not be seen as obstacles to military effectiveness. In many high-risk sectors, layered oversight is standard practice: internal controls, technical fail-safes, auditing mechanisms and legal review operate together. Technical constraints can serve as an additional backstop, reducing the risk of misuse, error or unintended escalation.</p><p><strong>Congress is AWOL</strong></p><p>The DOD should retain ultimate authority over lawful use. But it need not reject the possibility that certain guardrails embedded at the design level could complement its own oversight structures rather than undermine them. In some contexts, redundancy in safety systems strengthens, not weakens, operational integrity.</p><p>At the same time, a company\u2019s unilateral ethical commitments are no substitute for public policy. When technologies carry national security implications, private governance has inherent limits. Ultimately, decisions about surveillance authorities, autonomous weapons and rules of engagement belong in democratic institutions.</p><p>This episode illustrates a pivotal moment in AI governance. AI systems at the frontier of technology are now powerful enough to influence intelligence analysis, logistics, cyber operations and potentially battlefield decision-making. That makes them too consequential to be governed solely by corporate policy \u2014 and too consequential to be governed solely by executive discretion.</p><p>The solution is not to empower one side over the other. It is to strengthen the institutions that mediate between them.</p><p>Congress should clarify statutory boundaries for military AI use and investigate whether sufficient oversight exists. The DOD should articulate detailed doctrine for human control, auditing and accountability. Civil society and industry should participate in structured consultation processes rather than episodic standoffs and procurement policy should reflect those publicly established standards.</p><p>If AI guardrails can be removed through contract pressure, they will be treated as negotiable. However, if they are grounded in law, they can become stable expectations.</p><p>Democratic constraints on military AI belong in statute and doctrine \u2014 not in private contract negotiations.</p><p><em>This article is adapted by the author with permission from </em><a href=\"https://www.techpolicy.press/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Tech Policy Press</em></a><em>. Read the </em><a href=\"https://www.techpolicy.press/why-congress-should-step-into-the-anthropicpentagon-dispute/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>original article</em></a><em>.</em></p>"
-      },
       {
         "id": "a5ea35fb1be0adae",
         "title": "IEEE President\u2019s Note: Engineering a Modern Renaissance",
@@ -700,6 +691,15 @@
         "published": "Sun, 01 Mar 2026 19:00:02 +0000",
         "published_dt": "2026-03-01T19:00:02+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/person-wearing-a-scarf-over-a-dark-sweater-with-a-blue-background.png?id=65004859&amp;width=2000&amp;height=1500&amp;coordinates=5%2C0%2C5%2C0\" /><br /><br /><p>Consider a powerful parallel between the advancements made during the Renaissance and the developments made by today\u2019s engineers.</p><p>The Renaissance was a uniquely fertile era. Its ethos of curiosity and creativity fostered unprecedented <a href=\"https://spectrum.ieee.org/cinzia-davia-physics\" target=\"_blank\">collaboration across disciplines</a>. Artists, scientists, philosophers, and patrons engaged in a shared pursuit of human potential, beauty, and advancements in art, science, and literature.</p><p>But the Renaissance wasn\u2019t just a cultural awakening. It was a systems-level transformation: a convergence of disciplines, minds, and methods that redefined what humanity could achieve. And in many ways, it mirrors the collaborative spirit we strive for within our IEEE communities.</p><h2>Collaboration Is a Catalyst</h2><p>During the Renaissance, breakthroughs didn\u2019t happen in isolation. They emerged from intersections of different disciplines. Collaboration was the norm: Artists worked with mathematicians to perfect their creations\u2019 accuracy, and architects consulted astronomers to design buildings that reflected celestial order. It was interdisciplinary design thinking centuries before the concept was given a name.</p><h3>Who\u2019s up for a Challenge?</h3><br /><p>IEEE Impact Challenge, which launched in January, aims not only to address real-world problems through purpose-driven engineering but also to attract new members, foster cross\u2011disciplinary collaboration, and design a better world for all.</p><p>The <a href=\"https://www.ieee.org/ieee-future-tech-explorers-challenge\" target=\"_blank\">IEEE Future Tech Explorers program</a> invites IEEE members to partner with others to inspire tomorrow\u2019s engineers and technologists by creating interactive educational experiences that spark curiosity and open doors for young minds.</p><p>The IEEE Response Quest seeks to find solutions that enable near-real-time situational awareness for those providing emergency response and relief assistance.</p><p>We welcome educators, designers, engineers, and innovators from every technical discipline to come together, collaborate across communities, and demonstrate the power of IEEE when we unite around a shared purpose.<br /></p>Learn more at the <a href=\"https://ieee.org/impact-challenge\" target=\"_blank\">IEEE Impact Challenge website</a>.<p>It is at the intersections where disciplines and communities meet that the sparks of transformation ignite. The intersection of engineering and medicine gives us lifesaving devices. The intersection of computing and art produces immersive experiences from virtual, augmented, and mixed reality technology that expands human imagination. The intersection of policy and technology ensures ethical innovation. The outcomes of these crossroads remind us that progress is rarely linear. It is woven from the threads of various expertise, perspectives, and values.</p><p>When we collaborate across specialties, from electrical and biomedical to aerospace and software, we unlock new possibilities. And when we engage with industry, educators, policymakers, standard developers, and the public, we elevate those possibilities into solutions. We do it together, because no single engineer or technologist, and no one discipline can solve all the challenges we face.</p><p>The Renaissance teaches us that collaboration is a catalyst for advancing society. And so, I ask: What if we are living in a new, modern renaissance?</p><p>What if our members are today\u2019s da Vincis, designing systems that serve humanity? What if our volunteers are modern-day patrons, investing time, talent, and heart into building a better world? What if our students and young professionals are the architects of tomorrow\u2019s breakthroughs, fluent in computer code, ethics, and global impact, ready to collaborate across borders, sectors, and disciplines?</p><p>What if our conferences, technical standards, and humanitarian technologies are the printing presses of our time, disseminating knowledge, sparking dialogue, and scaling solutions? What if our collective imagination is the canvas upon which the next century of innovation will be painted?</p><p>And what if, like the Renaissance, our era is defined not only by invention but also by intersection, where many voices and perspectives converge to shape technologies that reflect humanity\u2019s full spectrum?</p><p>Imagine engineers working together with ethicists to ensure responsible AI; with environmental scientists to safeguard our planet; and with local communities to design solutions that solve their challenges. Also imagine engineers partnering with <a href=\"https://spectrum.ieee.org/ieee-move-hurricane-helene-milton\" target=\"_blank\">disaster relief agencies</a> to design real-time systems, restore communication networks, and deliver lifesaving technologies when survivors need them most.</p><p>So let us think like Renaissance creators. Let us design with empathy and collaborate across boundaries. Let us honor that legacy by not just preserving the past but also by building systems that empower the future for everyone.</p><p>When we unite technical excellence with human purpose, we don\u2019t just innovate; we elevate. And in doing so, we carry forward the timeless truth of the Renaissance: Humanity\u2019s greatest achievements are born not from isolation but from intersection and connection.</p><p>\u2014Mary Ellen Randall</p><p>IEEE president and CEO</p><p>Please share your thoughts with me: <a href=\"mailto:president@ieee.org\">president@ieee.org</a>.</p>"
+      },
+      {
+        "id": "06b5614a38bae8db",
+        "title": "Military AI Policy Needs Democratic Oversight",
+        "url": "https://spectrum.ieee.org/military-ai-governance",
+        "source": "IEEE Spectrum",
+        "published": "Sun, 08 Mar 2026 10:00:03 +0000",
+        "published_dt": "2026-03-08T10:00:03+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-white-man-in-his-40s-speaking-into-a-microphone-he-is-wearing-glasses-a-suit-jacket-and-tie.jpg?id=65162768&amp;width=2000&amp;height=1500&amp;coordinates=0%2C0%2C0%2C0\" /><br /><br /><p>A <a href=\"https://www.nytimes.com/2026/02/23/us/politics/pentagon-anthropic-ai.html\" rel=\"noopener noreferrer\" target=\"_blank\">simmering dispute</a> between the United States Department of Defense (DOD) and Anthropic has now escalated into a <a href=\"https://www.techpolicy.press/a-timeline-of-the-anthropic-pentagon-dispute/\" rel=\"noopener noreferrer\" target=\"_blank\">full-blown confrontation</a>, raising an uncomfortable but important question: who gets to set the guardrails for military use of artificial intelligence \u2014 the executive branch, private companies or Congress and the broader democratic process?</p><p>The conflict began when Defense Secretary Pete Hegseth reportedly gave Anthropic CEO Dario Amodei a deadline to allow the DOD <a href=\"https://www.politico.com/news/2026/02/24/hegseth-sets-friday-deadline-for-anthropic-to-drop-its-ai-red-lines-00795641\" rel=\"noopener noreferrer\" target=\"_blank\">unrestricted use</a> of its AI systems. When the company refused, the administration moved to designate Anthropic a <a href=\"https://x.com/SecWar/status/2027507717469049070\" rel=\"noopener noreferrer\" target=\"_blank\">supply chain risk</a> and ordered federal agencies to phase out its technology, dramatically escalating the standoff.</p><p>Anthropic has refused to cross <a href=\"https://www.anthropic.com/news/statement-department-of-war\" rel=\"noopener noreferrer\" target=\"_blank\">two lines</a>: allowing its models to be used for domestic surveillance of United States citizens and enabling fully autonomous military targeting. Hegseth has objected to what he has described as \u201c<a href=\"https://www.war.gov/News/Transcripts/Transcript/Article/4377190/remarks-by-secretary-of-war-pete-hegseth-at-spacex/\" rel=\"noopener noreferrer\" target=\"_blank\">ideological constraints</a>\u201d embedded in commercial AI systems, arguing that determining lawful military use should be the government\u2019s responsibility \u2014 not the vendor\u2019s. As he put it in a <a href=\"https://www.war.gov/News/Transcripts/Transcript/Article/4377190/remarks-by-secretary-of-war-pete-hegseth-at-spacex/\" rel=\"noopener noreferrer\" target=\"_blank\">speech at Elon Musk\u2019s SpaceX</a> last month, \u201cWe will not employ AI models that won\u2019t allow you to fight wars.\u201d</p><p>Stripped of rhetoric, this dispute resembles something relatively straightforward: a procurement disagreement.</p><h2>Procurement policies</h2><p>In a market economy, the U.S. military decides what products and services it wants to buy. Companies decide what they are willing to sell and under what conditions. Neither side is inherently right or wrong for taking a position. If a product does not meet operational needs, the government can purchase from another vendor. If a company believes certain uses of its technology are unsafe, premature or inconsistent with its values or risk tolerance, it can <a href=\"https://www.anthropic.com/news/responsible-scaling-policy-v3\" rel=\"noopener noreferrer\" target=\"_blank\">decline to provide them</a>. For example, a coalition of companies have signed an open letter pledging <a href=\"https://bostondynamics.com/news/general-purpose-robots-should-not-be-weaponized/\" rel=\"noopener noreferrer\" target=\"_blank\">not to weaponize general-purpose robots</a>. That basic symmetry is a feature of the free market.</p><p>Where the situation becomes more complicated \u2014 and more troubling \u2014 is in the decision to designate Anthropic a \u201c<a href=\"https://x.com/SecWar/status/2027507717469049070\" rel=\"noopener noreferrer\" target=\"_blank\">supply chain risk</a>.\u201d That tool exists to address genuine national security vulnerabilities, such as foreign adversaries. It is not intended to blacklist an American company for rejecting the government\u2019s preferred contractual terms. </p><p>Using this authority in that manner marks a significant shift \u2014 from a procurement disagreement to the use of coercive leverage. <a href=\"https://x.com/SecWar/status/2027507717469049070\" rel=\"noopener noreferrer\" target=\"_blank\">Hegseth has declared</a> that \u201ceffective immediately, no contractor, supplier, or partner that does business with the U.S. military may conduct any commercial activity with Anthropic.\u201d This action will almost certainly face <a href=\"https://x.com/SecWar/status/2027507717469049070\" rel=\"noopener noreferrer\" target=\"_blank\">legal challenges</a>, but it raises the stakes well beyond the loss of a single DOD contract.</p><h2>AI governance</h2><p>It is also important to distinguish between the two substantive issues Anthropic has reportedly raised.</p><p>The first, opposition to domestic surveillance of U.S. citizens, touches on well-established civil liberties concerns. The U.S. government operates under constitutional constraints and statutory limits when it comes to monitoring Americans. A company stating that it does not want its tools used to facilitate domestic surveillance is not inventing a new principle; it is aligning itself with longstanding democratic guardrails.</p><p>To be clear, DOD is not affirmatively asserting that it intends to use the technology to surveil Americans unlawfully. Its position is that it does not want to procure models with built-in restrictions that preempt otherwise lawful government use. In other words, the Department of Defense argues that compliance with the law is the government\u2019s responsibility \u2014 not something that needs to be embedded in a vendor\u2019s code. </p><p>Anthropic, for its part, has invested heavily in training its systems to refuse certain categories of <a href=\"https://www-cdn.anthropic.com/78073f739564e986ff3e28522761a7a0b4484f84.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">harmful or high-risk tasks</a>, including assistance with surveillance. The disagreement is therefore less about current intent than about institutional control over constraints: whether they should be imposed by the state through law and oversight, or by the developer through technical design.</p><p>The second issue, opposition to fully autonomous military targeting, is more complex. </p><p>The DOD already maintains policies requiring <a href=\"https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/300009p.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">human judgment in the use of force</a>, and debates over autonomy in weapons systems are ongoing within both military and international forums. A private company may reasonably determine that its current technology is not sufficiently reliable or controllable for certain battlefield applications. At the same time, the military may conclude that such capabilities are necessary for deterrence and operational effectiveness.</p><p>Reasonable people can disagree about where those <a href=\"https://itif.org/publications/2026/02/26/survey-most-americans-say-tech-companies-should-allowed-set-ai-limits/\" rel=\"noopener noreferrer\" target=\"_blank\">lines should be drawn</a>.</p><p>But that disagreement underscores a deeper point: the boundaries of military AI use should not be settled through ad hoc negotiations between a Cabinet secretary and a CEO. Nor should they be determined by which side can exert greater contractual leverage.</p><p>If the U.S. government believes certain AI capabilities are essential to national defense, that position should be articulated openly. It should be debated in Congress, and reflected in doctrine, oversight mechanisms and statutory frameworks. The rules should be clear \u2014 not only to companies, but to the public.</p><p>The U.S. often distinguishes itself from authoritarian regimes by emphasizing that power operates within transparent democratic institutions and legal constraints. That distinction carries less weight if AI governance is determined primarily through executive ultimatums issued behind closed doors.</p><p>There is also a strategic dimension. If companies conclude that participation in federal markets requires surrendering all deployment conditions, some may exit those markets. Others may respond by weakening or removing model safeguards to remain eligible for government contracts. Neither outcome strengthens <a href=\"https://www.reuters.com/business/retail-consumer/big-tech-group-tells-pentagons-hegseth-they-are-concerned-about-declaring-2026-03-04/\" rel=\"noopener noreferrer\" target=\"_blank\">U.S. technological leadership</a>.</p><p>The DOD is correct that it cannot allow potential \u201cideological constraints\u201d to undermine lawful military operations. But there is a difference between rejecting arbitrary restrictions and rejecting any role for corporate risk management in shaping deployment conditions. In high-risk domains \u2014 from aerospace to cybersecurity \u2014 contractors routinely impose safety standards, testing requirements and operational limitations as part of responsible commercialization. AI should not be treated as uniquely exempt from that practice.</p><p>Moreover, built-in safeguards need not be seen as obstacles to military effectiveness. In many high-risk sectors, layered oversight is standard practice: internal controls, technical fail-safes, auditing mechanisms and legal review operate together. Technical constraints can serve as an additional backstop, reducing the risk of misuse, error or unintended escalation.</p><p><strong>Congress is AWOL</strong></p><p>The DOD should retain ultimate authority over lawful use. But it need not reject the possibility that certain guardrails embedded at the design level could complement its own oversight structures rather than undermine them. In some contexts, redundancy in safety systems strengthens, not weakens, operational integrity.</p><p>At the same time, a company\u2019s unilateral ethical commitments are no substitute for public policy. When technologies carry national security implications, private governance has inherent limits. Ultimately, decisions about surveillance authorities, autonomous weapons and rules of engagement belong in democratic institutions.</p><p>This episode illustrates a pivotal moment in AI governance. AI systems at the frontier of technology are now powerful enough to influence intelligence analysis, logistics, cyber operations and potentially battlefield decision-making. That makes them too consequential to be governed solely by corporate policy \u2014 and too consequential to be governed solely by executive discretion.</p><p>The solution is not to empower one side over the other. It is to strengthen the institutions that mediate between them.</p><p>Congress should clarify statutory boundaries for military AI use and investigate whether sufficient oversight exists. The DOD should articulate detailed doctrine for human control, auditing and accountability. Civil society and industry should participate in structured consultation processes rather than episodic standoffs and procurement policy should reflect those publicly established standards.</p><p>If AI guardrails can be removed through contract pressure, they will be treated as negotiable. However, if they are grounded in law, they can become stable expectations.</p><p>Democratic constraints on military AI belong in statute and doctrine \u2014 not in private contract negotiations.</p><p><em>This article is adapted by the author with permission from </em><a href=\"https://www.techpolicy.press/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Tech Policy Press</em></a><em>. Read the </em><a href=\"https://www.techpolicy.press/why-congress-should-step-into-the-anthropicpentagon-dispute/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>original article</em></a><em>.</em></p>"
       },
       {
         "id": "e8c5ed304ec3bc07",
