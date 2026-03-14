@@ -1,87 +1,15 @@
 {
-  "generated_at": "2026-03-13T13:14:15.452097+00:00",
+  "generated_at": "2026-03-14T13:06:46.100275+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "1a9053b0848506b2",
-        "title": "The Download: how AI is used for military targeting, and the Pentagon\u2019s war on Claude",
-        "url": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 13 Mar 2026 12:16:56 +0000",
-        "published_dt": "2026-03-13T12:16:56+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Defense&#160;official reveals how AI chatbots could be used for targeting decisions&#160; The US military might use generative AI systems to rank targets and recommend which to strike first, according to a&#160;Defense&#160;Department&#8230;"
-      },
-      {
-        "id": "daef6931be2a3cee",
-        "title": "Make next year\u2019s flu shots, says FDA committee",
-        "url": "https://www.statnews.com/2026/03/13/health-news-flu-shots-for-next-year-fda-committee/?utm_campaign=rss",
+        "id": "d48326491f7500db",
+        "title": "STAT+: Grail CEO steps down after trial setback",
+        "url": "https://www.statnews.com/2026/03/13/biotech-news-grail-ceo-steps-down-after-trial-setback/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Fri, 13 Mar 2026 11:55:25 +0000",
-        "published_dt": "2026-03-13T11:55:25+00:00",
-        "summary": "Vaccine skepticism, FDA-authorized vape flavors, and more health news from Morning Rounds"
-      },
-      {
-        "id": "b268d6ee2c93c0c4",
-        "title": "FDA move on flavored vapes rattles public health experts",
-        "url": "https://www.statnews.com/2026/03/13/fda-guidance-flavored-vapes-teen-vaping-risks/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 13 Mar 2026 08:30:00 +0000",
-        "published_dt": "2026-03-13T08:30:00+00:00",
-        "summary": "New FDA guidance suggests mint, coffee, and spice vape flavors could be authorized, raising debate over toxic additives and youth vaping risks."
-      },
-      {
-        "id": "a4bef3237757d22c",
-        "title": "STAT+: Trump is getting more credit than Biden for efforts to lower drug prices",
-        "url": "https://www.statnews.com/2026/03/13/kff-survey-trump-gets-more-credit-than-biden-lower-drug-prices/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 13 Mar 2026 09:00:00 +0000",
-        "published_dt": "2026-03-13T09:00:00+00:00",
-        "summary": "Trump is drawing more attention to his efforts to lower drug prices, like TrumpRx."
-      },
-      {
-        "id": "2e5d80be6f57bef4",
-        "title": "Future AI chips could be built on glass",
-        "url": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 13 Mar 2026 09:00:00 +0000",
-        "published_dt": "2026-03-13T09:00:00+00:00",
-        "summary": "Human-made glass is thousands of years old. But it\u2019s now poised to find its way into the AI chips used in the world\u2019s newest and largest data centers. This year, a South Korean company called Absolics is planning to start commercial production of special glass panels designed to make next-generation computing hardware more powerful and&#8230;"
-      },
-      {
-        "id": "37809389df3be3de",
-        "title": "STAT+: White House says it\u2019s \u2018done\u2019 with vaccines. MAHA begs to differ",
-        "url": "https://www.statnews.com/2026/03/13/trump-rfk-jr-vaccines-growing-divide-maga-maha/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 13 Mar 2026 08:30:00 +0000",
-        "published_dt": "2026-03-13T08:30:00+00:00",
-        "summary": "As Trump political advisers try to move on from vaccine policy debates, MAHA movement insiders push back, calling RFK Jr. supporters vital to GOP's success."
-      },
-      {
-        "id": "2d5a58670b69d9bf",
-        "title": "STAT+: Leapfrog Group\u2019s legal defeat underscores challenges of rating hospital quality",
-        "url": "https://www.statnews.com/2026/03/13/leapfrog-group-hospital-quality-ratings-lawsuit/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 13 Mar 2026 08:30:00 +0000",
-        "published_dt": "2026-03-13T08:30:00+00:00",
-        "summary": "The legal battle underscores the complicated questions surrounding how best to evaluate hospital safety."
-      },
-      {
-        "id": "11d21aaee93a4fd4",
-        "title": "Opinion: America has health alarm fatigue. I know because I treat it",
-        "url": "https://www.statnews.com/2026/03/13/public-health-alarm-fatigue-icu/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 13 Mar 2026 08:30:00 +0000",
-        "published_dt": "2026-03-13T08:30:00+00:00",
-        "summary": "\u201cWe cannot let alarm fatigue silence the response to Kennedy\u2019s and Trump\u2019s destruction,\u201d writes Robert Shpiner."
-      },
-      {
-        "id": "33aa67bd8563b939",
-        "title": "Opinion: STAT+: How surrealism helps us make sense of and live with dementia",
-        "url": "https://www.statnews.com/2026/03/13/surrealism-dementia-uncanny-mental-map/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 13 Mar 2026 08:30:00 +0000",
-        "published_dt": "2026-03-13T08:30:00+00:00",
-        "summary": "\u201cSurrealism ought to be part of the care of people living with diseases that cause dementia,\u201d writes Jason Karlawish."
+        "published": "Fri, 13 Mar 2026 13:54:23 +0000",
+        "published_dt": "2026-03-13T13:54:23+00:00",
+        "summary": "Epstein's pal returns to biotech, Prasad's FDA exit part deux, and more news from The Readout"
       },
       {
         "id": "87f87c2f891b77ac",
@@ -93,15 +21,6 @@
         "summary": "An Ultragenyx gene therapy has scored a win at the midway point of its phase 3 trial, successfully reducing ammonia levels in patients with a rare urea cycle disorder."
       },
       {
-        "id": "9001d2a002bd85da",
-        "title": "STAT+: FDA approves leucovorin for rare disorder without trial data",
-        "url": "https://www.statnews.com/2026/03/11/biotech-news-fda-approves-leucovorin-for-rare-disorder/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 11 Mar 2026 14:16:55 +0000",
-        "published_dt": "2026-03-11T14:16:55+00:00",
-        "summary": "How Jeffrey Epstein's friend came back to biotech, probes into the FDA's drug rejections, and other biotech news"
-      },
-      {
         "id": "8c248adab21d242b",
         "title": "<a href=\"https://www.fiercebiotech.com/webinars/spatial-biomarker-panels-for-clinical-trials\" hreflang=\"en\">Spatial Biomarker Panels for Clinical Trials</a>",
         "url": "https://www.fiercebiotech.com/webinars/spatial-biomarker-panels-for-clinical-trials",
@@ -109,6 +28,33 @@
         "published": "Feb 26, 2026 8:07pm",
         "published_dt": "2026-02-26T20:07:00+00:00",
         "summary": "This webinar covers how recent advances in multiplex immunofluorescence technology are enabling high-throughput analysis of high-plex biomarker panels for oncology trials."
+      },
+      {
+        "id": "daef6931be2a3cee",
+        "title": "Make next year\u2019s flu shots, says FDA committee",
+        "url": "https://www.statnews.com/2026/03/13/health-news-flu-shots-for-next-year-fda-committee/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 13 Mar 2026 11:55:25 +0000",
+        "published_dt": "2026-03-13T11:55:25+00:00",
+        "summary": "Vaccine skepticism, FDA-authorized vape flavors, and more health news from Morning Rounds"
+      },
+      {
+        "id": "d0c18790bb59fdf8",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/inovio-trims-team-trouble-brews-fda-rare-disease-candidate\" hreflang=\"en\">Inovio trims team as trouble brews at FDA for rare disease candidate</a>",
+        "url": "https://www.fiercebiotech.com/biotech/inovio-trims-team-trouble-brews-fda-rare-disease-candidate",
+        "source": "Fierce Biotech",
+        "published": "Mar 13, 2026 10:07am",
+        "published_dt": "2026-03-13T10:07:00+00:00",
+        "summary": "Inovio Pharmaceuticals has laid off staff and prioritized programs to focus on its lead rare disease candidate, which is already facing some pushback from the FDA early in its approval review."
+      },
+      {
+        "id": "b268d6ee2c93c0c4",
+        "title": "FDA move on flavored vapes rattles public health experts",
+        "url": "https://www.statnews.com/2026/03/13/fda-guidance-flavored-vapes-teen-vaping-risks/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 13 Mar 2026 08:30:00 +0000",
+        "published_dt": "2026-03-13T08:30:00+00:00",
+        "summary": "New FDA guidance suggests mint, coffee, and spice vape flavors could be authorized, raising debate over toxic additives and youth vaping risks."
       },
       {
         "id": "e08e3b9d343bde3a",
@@ -156,15 +102,6 @@
         "summary": "BridgeBio Pharma has taken another step toward the potential approval of its muscle weakness drug candidate BBP-418, reporting statistically significant phase 3 efficacy data that analysts called impressive."
       },
       {
-        "id": "d156caa56e4e89b6",
-        "title": "STAT+: The FDA is targeting telehealth marketing of GLP-1 drugs. Who\u2019s prescribing them?",
-        "url": "https://www.statnews.com/2026/03/12/fda-telehealth-marketing-glp1-prescribers-behind-warning-letters/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 12 Mar 2026 08:30:00 +0000",
-        "published_dt": "2026-03-12T08:30:00+00:00",
-        "summary": "The FDA is targeting telehealth marketing of GLP-1 drugs. But those companies may not be the only ones under the microscope."
-      },
-      {
         "id": "beba8c4cff9bb62a",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/regenxbio-posts-clean-safety-profile-dmd-gene-therapy-pivotal-data-loom\" hreflang=\"en\">Regenxbio posts clean safety profile for DMD gene therapy as pivotal data loom</a>",
         "url": "https://www.fiercebiotech.com/biotech/regenxbio-posts-clean-safety-profile-dmd-gene-therapy-pivotal-data-loom",
@@ -183,52 +120,205 @@
         "summary": "With a fresh leadership team settling in, CNS Pharmaceuticals is wiping its pipeline clean as it hunts for a new lead asset in a strategic pivot."
       },
       {
-        "id": "153dfb040d44f25c",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kalaris-pauses-eye-drug-trial-stamp-out-cases-ocular-inflammation\" hreflang=\"en\">Kalaris pauses dosing in eye drug trial to stamp out cases of ocular inflammation</a>",
-        "url": "https://www.fiercebiotech.com/biotech/kalaris-pauses-eye-drug-trial-stamp-out-cases-ocular-inflammation",
-        "source": "Fierce Biotech",
-        "published": "Mar 10, 2026 7:23am",
-        "published_dt": "2026-03-10T07:23:00+00:00",
-        "summary": "Kalaris Therapeutics has paused a phase 1 study of its next-gen eye drug while it attempts to finally resolve cases of eye inflammation."
+        "id": "11ef4df539e7d6f1",
+        "title": "How STAT would cover \u2018The Fugitive\u2019 if its pharma scandal were real",
+        "url": "https://www.statnews.com/2026/03/13/fugitive-movie-pharma-scandal-explored-status-report-alex-hogan/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 13 Mar 2026 19:51:08 +0000",
+        "published_dt": "2026-03-13T19:51:08+00:00",
+        "summary": "It's Oscar season, so we're bringing you a special STATus report on how we'd cover the drug scandal in \"The Fugitive\" if it were real."
       },
       {
-        "id": "390650b252b1f3a3",
-        "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
-        "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+        "id": "0bad38631ee3aa2c",
+        "title": "Major changes to cardiovascular guidelines suggest taking statins as young as 30",
+        "url": "https://www.statnews.com/2026/03/13/heart-disease-prevention-new-statin-guideline-age-30/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 13 Mar 2026 18:00:00 +0000",
+        "published_dt": "2026-03-13T18:00:00+00:00",
+        "summary": "Cardiology groups say adults as young as 30 should assess cholesterol risk and consider treatment to prevent heart attacks and strokes."
+      },
+      {
+        "id": "25c78c25c67ccc08",
+        "title": "STAT+: Up and down the ladder: The latest comings and goings",
+        "url": "https://www.statnews.com/pharmalot/2026/03/13/pharma-biotech-jobs-sandoz-merck-abbvie-lundbeck/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 13 Mar 2026 15:58:50 +0000",
+        "published_dt": "2026-03-13T15:58:50+00:00",
+        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
+      },
+      {
+        "id": "2aa954ed03bd7a6a",
+        "title": "Why physical AI is becoming manufacturing\u2019s next advantage",
+        "url": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
         "source": "MIT Technology Review",
-        "published": "Thu, 12 Mar 2026 22:23:34 +0000",
-        "published_dt": "2026-03-12T22:23:34+00:00",
-        "summary": "The US military might use generative AI systems to rank lists of targets and make recommendations\u2014which would be vetted by humans\u2014about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes as the Pentagon faces scrutiny over a strike&#8230;"
+        "published": "Fri, 13 Mar 2026 15:16:55 +0000",
+        "published_dt": "2026-03-13T15:16:55+00:00",
+        "summary": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today\u2019s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and increasing pressure to innovate faster without sacrificing safety, quality, or trust. The next phase&#8230;"
       },
       {
-        "id": "83096601590cd329",
-        "title": "STAT+: Congressional advisers call to rein in Medicare Advantage spending amid industry pressure",
-        "url": "https://www.statnews.com/2026/03/12/medicare-advantage-overpayments-76-billion-dollars-medpac-says/?utm_campaign=rss",
+        "id": "8c316f5c3042bec3",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about Trump and drug prices, biotechs pushing back, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/03/13/trump-pharma-prices-biotechs-patents-lacks-viatris/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Thu, 12 Mar 2026 20:44:46 +0000",
-        "published_dt": "2026-03-12T20:44:46+00:00",
-        "summary": "Lobbying groups supported by insurance companies have criticized the research and promoted their own."
+        "published": "Fri, 13 Mar 2026 13:30:56 +0000",
+        "published_dt": "2026-03-13T13:30:56+00:00",
+        "summary": "Reining in drug prices has been a priority for both the Trump and Biden administrations, but Trump is getting more credit for his efforts, polls show"
       },
       {
-        "id": "5c9a2b775ce1e814",
-        "title": "STAT+: Cancer cells can \u2018barf\u2019 proteins onto their cell surface. That may create new targets for immunotherapies",
-        "url": "https://www.statnews.com/2026/03/12/cancer-researchers-new-immunology-target-oncogene-src/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 12 Mar 2026 18:00:00 +0000",
-        "published_dt": "2026-03-12T18:00:00+00:00",
-        "summary": "An unexpected discovery may bring scientists closer to a long-sought goal: finding an ideal immunotherapy target for solid tumors."
-      },
-      {
-        "id": "86a59786ec9c7698",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-biontech-founders-will-depart-pioneer-new-company\" hreflang=\"en\">Chutes &amp; Ladders\u2014BioNTech founders will depart to pioneer new company</a>",
-        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-biontech-founders-will-depart-pioneer-new-company",
+        "id": "c46dedb3d3a0c948",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/insulet-recalls-certain-omnipod-5-pumps-over-insulin-leak-risks\" hreflang=\"en\">Insulet recalls certain Omnipod 5 pumps over insulin leak risks</a>",
+        "url": "https://www.fiercebiotech.com/medtech/insulet-recalls-certain-omnipod-5-pumps-over-insulin-leak-risks",
         "source": "Fierce Biotech",
-        "published": "Mar 12, 2026 5:20pm",
-        "published_dt": "2026-03-12T17:20:00+00:00",
-        "summary": "Years after BioNTech\u2019s CEO U\u011fur \u015eahin, M.D. and chief medical officer \u00d6zlem T\u00fcreci, M.D., spearheaded the company through the roaring commercial success of Pfizer-partnered COVID-19 vaccine Comirnaty, the duo is preparing to take their hands off the wheel."
+        "published": "Mar 13, 2026 12:24pm",
+        "published_dt": "2026-03-13T12:24:00+00:00",
+        "summary": "The diabetes tech company said it is aware of 18 cases of serious complications related to the under-delivery of insulin to the body, including hospitalizations. No deaths have been reported."
+      },
+      {
+        "id": "1a9053b0848506b2",
+        "title": "The Download: how AI is used for military targeting, and the Pentagon\u2019s war on Claude",
+        "url": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 13 Mar 2026 12:16:56 +0000",
+        "published_dt": "2026-03-13T12:16:56+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Defense&#160;official reveals how AI chatbots could be used for targeting decisions&#160; The US military might use generative AI systems to rank targets and recommend which to strike first, according to a&#160;Defense&#160;Department&#8230;"
+      },
+      {
+        "id": "3bec3dd7d610ff41",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sana-sees-14-month-insulin-production-transplanted-islet-therapy-single-type-1-diabetes\" hreflang=\"en\">Sana sees 14-month insulin production for transplanted islet therapy in single Type 1 diabetes patient</a>",
+        "url": "https://www.fiercebiotech.com/biotech/sana-sees-14-month-insulin-production-transplanted-islet-therapy-single-type-1-diabetes",
+        "source": "Fierce Biotech",
+        "published": "Mar 13, 2026 10:56am",
+        "published_dt": "2026-03-13T10:56:00+00:00",
+        "summary": "In a 14-month follow-up, Sana Biotechnology has found that its investigational allogeneic cell therapy continued to produce insulin for one patient with Type 1 diabetes, with no safety concerns reported."
+      },
+      {
+        "id": "83f9de1cb5d60c3b",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/china-approves-first-brain-computer-interface-implant-paralyzed-patients-sector-heats\" hreflang=\"en\">China approves first brain-computer interface implant for paralyzed patients, as sector heats up</a>",
+        "url": "https://www.fiercebiotech.com/medtech/china-approves-first-brain-computer-interface-implant-paralyzed-patients-sector-heats",
+        "source": "Fierce Biotech",
+        "published": "Mar 13, 2026 10:29am",
+        "published_dt": "2026-03-13T10:29:00+00:00",
+        "summary": "Developed by the Shanghai-based Neuracle Technology, the system includes implanted EEG electrodes linked to a pneumatic, robotic glove that can grasp objects."
+      },
+      {
+        "id": "a4bef3237757d22c",
+        "title": "STAT+: Trump is getting more credit than Biden for efforts to lower drug prices",
+        "url": "https://www.statnews.com/2026/03/13/kff-survey-trump-gets-more-credit-than-biden-lower-drug-prices/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 13 Mar 2026 09:00:00 +0000",
+        "published_dt": "2026-03-13T09:00:00+00:00",
+        "summary": "Trump is drawing more attention to his efforts to lower drug prices, like TrumpRx."
+      },
+      {
+        "id": "2e5d80be6f57bef4",
+        "title": "Future AI chips could be built on glass",
+        "url": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 13 Mar 2026 09:00:00 +0000",
+        "published_dt": "2026-03-13T09:00:00+00:00",
+        "summary": "Human-made glass is thousands of years old. But it\u2019s now poised to find its way into the AI chips used in the world\u2019s newest and largest data centers. This year, a South Korean company called Absolics is planning to start commercial production of special glass panels designed to make next-generation computing hardware more powerful and&#8230;"
+      },
+      {
+        "id": "a8cb39c9b1a2873d",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/immuteps-phase-3-failure-immunotherapy-surprises-analysts-sinks-stock\" hreflang=\"en\">Immutep's phase 3 failure for immunotherapy surprises analysts, sinks stock</a>",
+        "url": "https://www.fiercebiotech.com/biotech/immuteps-phase-3-failure-immunotherapy-surprises-analysts-sinks-stock",
+        "source": "Fierce Biotech",
+        "published": "Mar 13, 2026 8:55am",
+        "published_dt": "2026-03-13T08:55:00+00:00",
+        "summary": "Immutep and the Australian biotech\u2019s investors have been caught off guard by the unexpected failure of its LAG-3 candidate in a phase 3 study."
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "ea62907a2a5b9500",
+        "title": "Astroscale selects Isar Aerospace to launch ELSA-M mission",
+        "url": "https://spacenews.com/astroscale-selects-isar-aerospace-to-launch-elsa-m-mission/",
+        "source": "SpaceNews",
+        "published": "Fri, 13 Mar 2026 21:20:24 +0000",
+        "published_dt": "2026-03-13T21:20:24+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"672\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/Astroscales-ELSA-M-Servicer_2025-1-scaled.png?fit=1024%2C672&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Japanese satellite servicing company Astroscale has selected Isar Aerospace to launch a deorbiting mission developed by its British subsidiary.</p>\n<p>The post <a href=\"https://spacenews.com/astroscale-selects-isar-aerospace-to-launch-elsa-m-mission/\">Astroscale selects Isar Aerospace to launch ELSA-M mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "3c8d6aba0a9d0e4f",
+        "title": "Zuken releases Harness Builder 2026 for harness manufacturing",
+        "url": "https://www.engineering.com/zuken-releases-harness-builder-2026-for-harness-manufacturing/",
+        "source": "Engineering.com",
+        "published": "Fri, 13 Mar 2026 13:49:29 +0000",
+        "published_dt": "2026-03-13T13:49:29+00:00",
+        "summary": "<p>New version adds TrustedParts pricing link, DS-E3 BOM integration and Komax MES connectivity for estimating, documentation and shop-floor workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/zuken-releases-harness-builder-2026-for-harness-manufacturing/\">Zuken releases Harness Builder 2026 for harness manufacturing</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "d938c307a78a32eb",
+        "title": "York Space acquires satellite propulsion manufacturer Orbion Space",
+        "url": "https://spacenews.com/york-space-acquires-satellite-propulsion-manufacturer-orbion-space/",
+        "source": "SpaceNews",
+        "published": "Thu, 12 Mar 2026 13:00:00 +0000",
+        "published_dt": "2026-03-12T13:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Orbion-Acquisition-Image.png?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The Denver-based satellite manufacturer says the acquisition supports its strategy of building an \u2018integrated space ecosystem\u2019</p>\n<p>The post <a href=\"https://spacenews.com/york-space-acquires-satellite-propulsion-manufacturer-orbion-space/\">York Space acquires satellite propulsion manufacturer Orbion Space</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "09f4e215aabbc298",
+        "title": "Firefly Alpha returns to flight",
+        "url": "https://spacenews.com/firefly-alpha-returns-to-flight/",
+        "source": "SpaceNews",
+        "published": "Thu, 12 Mar 2026 04:09:13 +0000",
+        "published_dt": "2026-03-12T04:09:13+00:00",
+        "summary": "<figure><img alt=\"Alpha Flight 7 liftoff\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55143071969_a1ed891f84_k.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Firefly Aerospace\u2019s Alpha rocket successfully returned to flight March 11, launching a technology demonstration mission more than 10 months after the rocket\u2019s previous launch failed.</p>\n<p>The post <a href=\"https://spacenews.com/firefly-alpha-returns-to-flight/\">Firefly Alpha returns to flight</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "c3e289cb77401905",
+        "title": "Enpulsion raises $26 million",
+        "url": "https://spacenews.com/enpulsion-raises-26-million/",
+        "source": "SpaceNews",
+        "published": "Thu, 12 Mar 2026 00:21:11 +0000",
+        "published_dt": "2026-03-12T00:21:11+00:00",
+        "summary": "<figure><img alt=\"Enpulsion thrusters\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"733\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/enpulsion.jpeg?fit=1024%2C733&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Enpulsion, an Austrian company that produces satellite electric propulsion systems, has raised its first significant outside funding to increase production and potentially acquire other companies.</p>\n<p>The post <a href=\"https://spacenews.com/enpulsion-raises-26-million/\">Enpulsion raises $26 million</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "3a01024dca8902cb",
+        "title": "iMetalX emerges from stealth with technology to model resident space objects",
+        "url": "https://spacenews.com/imetalx-emerges-from-stealth-with-technology-to-model-resident-space-objects/",
+        "source": "SpaceNews",
+        "published": "Fri, 13 Mar 2026 23:32:56 +0000",
+        "published_dt": "2026-03-13T23:32:56+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"628\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rsz_imetalx-p030126.png?fit=879%2C628&amp;ssl=1\" width=\"879\" /></figure>\n<p>SAN FRANCISCO \u2013 Northern California startup iMetalX Inc. emerged from stealth to announce a collaboration with Psionic, a Hampton, Virginia, company focused on autonomous navigation in GPS-denied environments. Pairing Psionic\u2019s Space Navigation Dopper Lidar with iMetalX\u2019s Asgard data and simulation platform offers customers the ability to create accurate 3D models of resident space objects (RSOs) [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/imetalx-emerges-from-stealth-with-technology-to-model-resident-space-objects/\">iMetalX emerges from stealth with technology to model resident space objects</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "0f67cca1bd04e055",
+        "title": "China is developing low-cost lunar cargo options for its expanding moon program",
+        "url": "https://spacenews.com/china-is-developing-low-cost-lunar-cargo-options-for-its-expanding-moon-program/",
+        "source": "SpaceNews",
+        "published": "Fri, 13 Mar 2026 20:03:51 +0000",
+        "published_dt": "2026-03-13T20:03:51+00:00",
+        "summary": "<figure><img alt=\"The Chang&#039;e-6 lander and ascender on the far side of the moon. Credit: CNSA\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"640\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/ChangE6-farside-mobile-camera-2024-CNSA.jpg?fit=1024%2C640&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A state-owned space contractor has unveiled a concept for an \u201ceconomical lunar cargo transport\u201d system as China prepares for construction of a lunar base.</p>\n<p>The post <a href=\"https://spacenews.com/china-is-developing-low-cost-lunar-cargo-options-for-its-expanding-moon-program/\">China is developing low-cost lunar cargo options for its expanding moon program</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "e080fff4dddff91b",
+        "title": "Ukraine will host first test for Leonardo\u2019s Michelangelo security dome",
+        "url": "https://spacenews.com/ukraine-will-host-first-test-for-leonardos-michelangelo-security-dome/",
+        "source": "SpaceNews",
+        "published": "Fri, 13 Mar 2026 18:20:56 +0000",
+        "published_dt": "2026-03-13T18:20:56+00:00",
+        "summary": "<figure><img alt=\"Illustration of Leonardo&#039;s Michelangelo dome. Credit: Leonardo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/visual_Michelangelo-dome_def-vista2-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>MILAN \u2014 The first field test of Leonardo\u2019s Michelangelo \u201csecurity dome\u201d architecture will take place in Ukraine by the end of 2026, CEO Roberto Cingolani announced March 12. Michelangelo, first announced in November 2025, is Leonardo\u2019s proposal for an integrated, multi-domain structure spanning air, land, maritime and space. The system is designed as an interoperable [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/ukraine-will-host-first-test-for-leonardos-michelangelo-security-dome/\">Ukraine will host first test for Leonardo\u2019s Michelangelo security dome</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "ac73328079e03968",
+        "title": "Eutelsat exits two Russian capacity leases after satellite failure",
+        "url": "https://spacenews.com/eutelsat-exits-two-russian-capacity-leases-after-satellite-failure/",
+        "source": "SpaceNews",
+        "published": "Fri, 13 Mar 2026 16:35:05 +0000",
+        "published_dt": "2026-03-13T16:35:05+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2020/06/6815642846_cb41bff9c2_k.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Eutelsat has ended capacity leases on two Russian spacecraft after one failed in orbit and the other is set to relocate, escaping contracts hit by Western sanctions and the structural decline in TV broadcasts from GEO.</p>\n<p>The post <a href=\"https://spacenews.com/eutelsat-exits-two-russian-capacity-leases-after-satellite-failure/\">Eutelsat exits two Russian capacity leases after satellite failure</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "90e57b80c4d722ec",
+        "title": "DCX launches ECDU liquid cooling systems up to 2.6 MW",
+        "url": "https://www.engineering.com/dcx-launches-ecdu-liquid-cooling-systems-up-to-2-6-mw/",
+        "source": "Engineering.com",
+        "published": "Fri, 13 Mar 2026 13:57:46 +0000",
+        "published_dt": "2026-03-13T13:57:46+00:00",
+        "summary": "<p>New CDU platform supports 600 kW\u20132.6 MW cooling for AI and HPC data centers with redundant pumps, AT3 heat exchangers and centralized monitoring.</p>\n<p>The post <a href=\"https://www.engineering.com/dcx-launches-ecdu-liquid-cooling-systems-up-to-2-6-mw/\">DCX launches ECDU liquid cooling systems up to 2.6 MW</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
       {
         "id": "093dfa8988ec20cb",
         "title": "Kazakhstan must choose: be Eurasia\u2019s tech broker or become a pawn in the new global space race",
@@ -329,33 +419,6 @@
         "summary": "<p>Fanless edge system runs on Intel Atom x6425RE and supports hazardous sites with ATEX, IECEx and UL C1D2 certifications.</p>\n<p>The post <a href=\"https://www.engineering.com/asrock-industrial-controller-wins-embedded-world-award/\">ASRock Industrial controller wins Embedded World award</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "d938c307a78a32eb",
-        "title": "York Space acquires satellite propulsion manufacturer Orbion Space",
-        "url": "https://spacenews.com/york-space-acquires-satellite-propulsion-manufacturer-orbion-space/",
-        "source": "SpaceNews",
-        "published": "Thu, 12 Mar 2026 13:00:00 +0000",
-        "published_dt": "2026-03-12T13:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Orbion-Acquisition-Image.png?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The Denver-based satellite manufacturer says the acquisition supports its strategy of building an \u2018integrated space ecosystem\u2019</p>\n<p>The post <a href=\"https://spacenews.com/york-space-acquires-satellite-propulsion-manufacturer-orbion-space/\">York Space acquires satellite propulsion manufacturer Orbion Space</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "09f4e215aabbc298",
-        "title": "Firefly Alpha returns to flight",
-        "url": "https://spacenews.com/firefly-alpha-returns-to-flight/",
-        "source": "SpaceNews",
-        "published": "Thu, 12 Mar 2026 04:09:13 +0000",
-        "published_dt": "2026-03-12T04:09:13+00:00",
-        "summary": "<figure><img alt=\"Alpha Flight 7 liftoff\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55143071969_a1ed891f84_k.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Firefly Aerospace\u2019s Alpha rocket successfully returned to flight March 11, launching a technology demonstration mission more than 10 months after the rocket\u2019s previous launch failed.</p>\n<p>The post <a href=\"https://spacenews.com/firefly-alpha-returns-to-flight/\">Firefly Alpha returns to flight</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "c3e289cb77401905",
-        "title": "Enpulsion raises $26 million",
-        "url": "https://spacenews.com/enpulsion-raises-26-million/",
-        "source": "SpaceNews",
-        "published": "Thu, 12 Mar 2026 00:21:11 +0000",
-        "published_dt": "2026-03-12T00:21:11+00:00",
-        "summary": "<figure><img alt=\"Enpulsion thrusters\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"733\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/enpulsion.jpeg?fit=1024%2C733&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Enpulsion, an Austrian company that produces satellite electric propulsion systems, has raised its first significant outside funding to increase production and potentially acquire other companies.</p>\n<p>The post <a href=\"https://spacenews.com/enpulsion-raises-26-million/\">Enpulsion raises $26 million</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
         "id": "5f5b5830d8236afe",
         "title": "China\u2019s Tianwen-3 Mars sample return mission moves into spacecraft construction phase",
         "url": "https://spacenews.com/chinas-tianwen-3-mars-sample-return-mission-moves-into-spacecraft-construction-phase/",
@@ -390,69 +453,6 @@
         "published": "Thu, 12 Mar 2026 18:52:22 +0000",
         "published_dt": "2026-03-12T18:52:22+00:00",
         "summary": "<p>Engineers at New Jersey Institute of Technology study dendrite formation in li-on batteries.</p>\n<p>The post <a href=\"https://www.engineering.com/new-insights-into-battery-failure/\">New insights into battery failure</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "2f3ed9f124604a48",
-        "title": "Voyager opens defense and space tech hub in Long Beach",
-        "url": "https://spacenews.com/voyager-opens-defense-and-space-tech-hub-in-long-beach/",
-        "source": "SpaceNews",
-        "published": "Thu, 12 Mar 2026 18:00:00 +0000",
-        "published_dt": "2026-03-12T18:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Voyager-Long-Beach-Exterior-Top-View-Courtesy-Voyager-Technologies-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>New facility to support electronics and software development for missile defense and space programs</p>\n<p>The post <a href=\"https://spacenews.com/voyager-opens-defense-and-space-tech-hub-in-long-beach/\">Voyager opens defense and space tech hub in Long Beach</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "355dcfee04bcab7f",
-        "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
-        "url": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
-        "source": "SpaceNews",
-        "published": "Thu, 12 Mar 2026 16:10:25 +0000",
-        "published_dt": "2026-03-12T16:10:25+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Another-Earth.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A Vienna-based startup has raised $4 million to scale a software platform that generates synthetic satellite data for training AI models to detect environmental and operational risks.</p>\n<p>The post <a href=\"https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/\">Another Earth raises $4 million to boost AI training with synthetic satellite data</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "e94322508fbdb7c4",
-        "title": "The new wave of industry coming for the LEO frontier",
-        "url": "https://spacenews.com/the-new-wave-of-industry-coming-for-the-leo-frontier/",
-        "source": "SpaceNews",
-        "published": "Thu, 12 Mar 2026 14:57:50 +0000",
-        "published_dt": "2026-03-12T14:57:50+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/space-minds-podcast-axiom-space-1920-1080-scaled.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>In this episode of the SpaceNews Space Minds podcast, host David Ariosto talks with Jonathan Cirtain, CEO and President of Axiom Space. They discuss the challenges \u2014 and wonders \u2014 [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/the-new-wave-of-industry-coming-for-the-leo-frontier/\">The new wave of industry coming for the LEO frontier</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "c0232ed0bfbd5781",
-        "title": "Astranis taps retired Gen. John Hyten to lead advisory board",
-        "url": "https://spacenews.com/astranis-taps-retired-gen-john-hyten-to-lead-advisory-board/",
-        "source": "SpaceNews",
-        "published": "Thu, 12 Mar 2026 13:00:00 +0000",
-        "published_dt": "2026-03-12T13:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"596\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/419A4719-scaled-e1773252632992.jpg?fit=1024%2C596&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Hyten has called for greater use of commercial technology and faster acquisition cycles</p>\n<p>The post <a href=\"https://spacenews.com/astranis-taps-retired-gen-john-hyten-to-lead-advisory-board/\">Astranis taps retired Gen. John Hyten to lead advisory board\u00a0</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "430b0b87f98c42b0",
-        "title": "Synopsys updates hardware-assisted verification portfolio",
-        "url": "https://www.engineering.com/synopsys-updates-hardware-assisted-verification-portfolio/",
-        "source": "Engineering.com",
-        "published": "Thu, 12 Mar 2026 12:35:38 +0000",
-        "published_dt": "2026-03-12T12:35:38+00:00",
-        "summary": "<p>New HAPS and ZeBu FPGA systems add capacity for AI chip validation, mixed-signal emulation and early software bring-up.</p>\n<p>The post <a href=\"https://www.engineering.com/synopsys-updates-hardware-assisted-verification-portfolio/\">Synopsys updates hardware-assisted verification portfolio</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "f184a0ea048c9970",
-        "title": "Synopsys releases Ansys 2026 R1 engineering platform",
-        "url": "https://www.engineering.com/synopsys-releases-ansys-2026-r1-engineering-platform/",
-        "source": "Engineering.com",
-        "published": "Thu, 12 Mar 2026 12:10:24 +0000",
-        "published_dt": "2026-03-12T12:10:24+00:00",
-        "summary": "<p>Update adds AI tools, digital twin modeling and integrations linking Synopsys and Ansys design and simulation workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/synopsys-releases-ansys-2026-r1-engineering-platform/\">Synopsys releases Ansys 2026 R1 engineering platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "c63740dc1a3b9bd1",
-        "title": "Mantis Space emerges from stealth with $10 million for solar-power constellation",
-        "url": "https://spacenews.com/mantis-space-emerges-from-stealth-with-10-million-for-solar-power-constellation/",
-        "source": "SpaceNews",
-        "published": "Thu, 12 Mar 2026 12:00:00 +0000",
-        "published_dt": "2026-03-12T12:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"494\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rsz_1im_mantis_webrender_wide_01_wbg_v02.png?fit=879%2C494&amp;ssl=1\" width=\"879\" /></figure>\n<p>SAN FRANCISCO \u2013 Mantis Space, a New Mexico startup planning a constellation to supply solar power to spacecraft, emerged from stealth March 12 with $10 million in seed funding. \u201cWe are building a constellation of satellites that deliver power directly to solar arrays that exist in the market today and bringing products to market that [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/mantis-space-emerges-from-stealth-with-10-million-for-solar-power-constellation/\">Mantis Space emerges from stealth with $10 million for solar-power constellation</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
@@ -684,33 +684,6 @@
     ],
     "Cross-Disciplinary": [
       {
-        "id": "31c35c83e9031e81",
-        "title": "Raquel Urtasun on Level-4 Autonomous Trucks",
-        "url": "https://spectrum.ieee.org/level-4-autonomous-trucks",
-        "source": "IEEE Spectrum",
-        "published": "Fri, 13 Mar 2026 13:01:02 +0000",
-        "published_dt": "2026-03-13T13:01:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/an-adult-white-woman-with-short-dark-hair-and-crossed-arms-leaning-her-back-against-the-door-of-a-semi-truck.jpg?id=65278377&amp;width=1200&amp;height=400&amp;coordinates=0%2C729%2C0%2C730\" /><br /><br /><p><a href=\"https://en.wikipedia.org/wiki/Raquel_Urtasun\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Raquel Urtasun</span></a> has spent 16 years in the <a href=\"https://spectrum.ieee.org/self-driving-cars-2662494269\" target=\"_self\"><span>self-driving space</span></a>, long enough to  <span>navigate</span> every <span>metaphorical  glorious </span>hill and plunging valley<span>. </span> <span>She took the trip from the </span>early \u201cpipe dream\u201d dismissals, to the \u201cwe\u2019re <em>this</em> close\u201d certainty, and back again.</p><p>The industry is <span>now </span>riding a new wave of optimism and investment, including at <a href=\"https://waabi.ai/\" target=\"_blank\"><span>Waabi Innovation Inc.</span></a>, the autonomous trucking company that Urtasun founded in 2001. The Spanish-Canadian professor at the <a href=\"https://www.utoronto.ca/\" target=\"_blank\"><span>University of Toronto</span></a>, and former chief scientist of Uber\u2019s Advanced Technologies Group, has helped make Waabi a key player. Beginning in fall 2023, theToronto-based startup has been running geofenced cargo routes from Dallas to Houston in a fleet of retrofitted Peterbilt semis, navigating even residential streets in loaded, <span>36,000-kilogram (</span>80,000-pound<span>)</span> behemoths with no human aboard.</p><p>In October, the company reached a milestone by integrating its <a href=\"https://waabi.ai/insights/introducing-the-waabi-driver\" target=\"_blank\"><span>\u201cWaabi Driver\u201d</span></a> physical-AI system in Volvo\u2019s new VNL Autonomous truck, which the Swedish automaker is building in Virginia. That self-driving solution uses Nvidia\u2019s <a href=\"https://www.nvidia.com/en-us/solutions/autonomous-vehicles/in-vehicle-computing/\" target=\"_blank\"><span>Drive AGX Thor</span></a>,  <span>an </span>AI-based platform for autonomous and software-defined vehicles. </p><p>In January, the Toronto-based startup raised $750 million in its latest funding round to expand its self-driving system into the fiercely competitive robotaxi space. Backers include <a href=\"https://www.khoslaventures.com/\" target=\"_blank\"><span>Khosla Ventures</span></a>, <a href=\"https://www.nvidia.com/en-us/\" target=\"_blank\"><span>Nvidia</span></a>, and <a href=\"https://www.volvo.com/en/\" target=\"_blank\"><span>Volvo</span></a>.</p><p>Urtasun says the <a href=\"https://waabi.ai/insights/introducing-the-waabi-driver\" target=\"_blank\"><span>Waabi Driver</span></a> can scale across a full range of vehicles, geographies and environments \u2014  <span>although</span> snowstorms <span>can </span>still create a no-go zone for now. It\u2019s powered by what Urtasun calls the industry\u2019s most advanced neural simulator, allowing a \u201cshared brain\u201d that partners can transplant into cars, trucks,  <span>and pretty much anything on wheels</span>. The idea is to grab a chunk of a global autonomous trucking business that McKinsey estimates could be worth more than <a href=\"https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/will-autonomy-usher-in-the-future-of-truck-freight-transportation\" target=\"_blank\"><span>$600 billion a year</span></a> by 2035; with autonomous haulers responsible for 15 percent of total U.S. trucking miles as early as 2030.</p><p>Backed by an additional <a href=\"https://www.forbes.com/sites/alanohnsman/2026/01/28/robot-trucker-waabi-wades-into-robotaxi-battle-with-billion-dollar-raise/\" target=\"_blank\"><span>$250 million from Uber</span></a>, Waabi plans to deploy at least 25,000 autonomous taxis through  <span>Uber\u2019s </span>ride-hailing service, whose world-dominating reach encompasses 70 countries, about 15,000 cities and more than 200 million monthly users.</p><p>Urtasun spoke with <em><span>IEEE Spectrum</span></em> about how Waabi is  <span>counting </span>on sensors and simulation to prove real-world safety; and why the move to autonomy is a moral imperative that outweighs the disruption for human drivers\u2014<span>whether they\u2019re driving trucks or family sedans</span>. Our conversation was edited for length and clarity.</p><h2>The Shift to Next-Gen Autonomous Vehicles</h2><p><strong><em><span>IEEE Spectrum</span></em></strong><strong>: Until quite recently, autonomous tech seemed to have hit a wall, at least in the public\u2019s mind. Now investors are flooding the zone again, and companies are all-in. What happened?</strong></p><p><strong>Raquel Urtasun:</strong> There were a lot of empty promises, or <span>[people] </span>not realizing the complexity of the problem. There was a realization that actually, this problem is harder than people anticipated. It\u2019s also because of the type of technology that was developed at the time, what we call \u201cAV 1.0\u201d. These are hand-engineered systems that need to be brute-forced by humans. You need lots of capital and a massive amount of miles on the road just to get to the first deployment.</p><p>What you see with the next generation\u2014<a href=\"https://medium.com/data-science-collective/the-local-optimum-of-autonomy-de1969b77769\" target=\"_blank\">AV 2.0</a> and systems that can reason\u2014is that you finally have a solution that scales. When we started the company, this was a very contrarian view. But today, the <a href=\"https://spectrum.ieee.org/topic/artificial-intelligence/\" target=\"_blank\">breakthroughs in AI</a> have made it clear that this is the next big revolution. It\u2019s not just about more compute; it\u2019s about building a brain that can generalize. That is the \u201caha moment\u201d the industry is having now.</p><p><strong>Even for someone who believes in the tech, seeing </strong> <strong><span>a driverless</span></strong><strong> semi-trailer in your rear-view mirror might be unsettling. Now you\u2019ve integrated your tech into the aerodynamic, diesel-powered Volvo VNL Autonomous truck. How do you convince regulators and the public that these trucks belong on the street? </strong></p><p><strong>Urtasun:</strong> Safety, when you think about carrying 80,000 pounds on this massive rig, is definitely top of mind. We believe the only way to do this safely is with a redundant platform that is fully developed and validated by the OEM, not with a retrofit. The OEM does a special type of truck that has all the redundant steering, power, and braking, so that no matter what happens, there is always a way we can interface and activate that truck in a safe manner. Then we are responsible for the sensors, the compute, and obviously the brain that drives those trucks.</p><h2>AI\u2019s Impact on Trucking Jobs</h2><p><strong>One of the biggest points of contention is the displacement of human drivers. As AI disrupts a range of workplaces, how do respond to people who say this will eliminate good-paying, blue-collar jobs?</strong></p><p><strong>Urtasun:</strong> The way we see this is that everybody who\u2019s a truck driver today, and wants to retire as a truck driver, will be able to do so. This is physical AI; this is not like the digital world where suddenly you can switch immediately to this technology. That adoption and scaling is going to take time. There will also be many jobs created with this technology; remote operations, terminal operations, and other things. You have time to change the form of labor of being on the road, which is for weeks at a time\u2014and it\u2019s a really difficult and dehumanized job, let\u2019s be honest\u2014to something you can do locally. There was an interesting <span>[U.S.] </span>Department of Transportation study that showed because of this gradual adoption, there will be more jobs created than actually removed.</p><p><strong>You\u2019ve spoken about a personal motivation behind this. Why do you believe the advantages of autonomy outweigh any growing pains, including the potential for unexpected accidents or even deaths?</strong></p><p><strong>Urtasun:</strong> There are 2 million deaths on the road globally per year, and nobody\u2019s questioning that. That\u2019s the status quo. If you think the machines have to be perfect to deploy, you are actually sacrificing many humans along the way that you could have saved. Human error in accidents is between <a href=\"https://www.cbmclaw.com/what-percentage-of-car-accidents-are-caused-by-human-error/\" target=\"_blank\">90 percent and 96 percent</a>. Those could be preventable accidents. Some accidents will always be unavoidable; a tire could blow for a machine the same as it could for a human. But the important comparison is how much safer we are. This technology is the answer to many, many things.</p><p><strong>Most of the industry is focused on \u201chub-to-hub\u201d highway driving. But you\u2019ve argued that Waabi\u2019s AI can handle the complexity of </strong> <strong><span>local </span></strong><strong>streets.</strong></p><p><strong>Urtasun:</strong> The rest of the industry has gone with this business model where you need hubs next to the highway. This adds a lot of friction and cost. Thanks to our verifiable end-to-end AI system, we can drive in surface <span>[local] </span>streets. We can do unprotected lefts, traffic lights, and tight turns. These core capabilities enable us to drive all the way to the end customer. We are already hauling commercial loads for customers like Samsung through our Uber Freight partnership.</p><p><strong>You\u2019ve mentioned that Waabi doesn\u2019t like to talk about \u201cnumber of miles\u201d driven as a metric. For an engineering audience, that sounds counterintuitive. How does your \u201csimulation-first\u201d approach replace the need for real-world road time?</strong></p><p><strong>Urtasun:</strong> In the industry, miles have been used as a proxy for advancement. How many miles does <a href=\"https://www.tesla.com/about\" target=\"_blank\">Tesla</a> need to drive to see any of these situations? But we are a simulation-first company. Waabi World can simulate all the sensors, the behaviors of humans, everything. It is the only simulator where you can mathematically prove that testing and driving in simulation is the same as driving in the real world. You can expose the system to billions of simulations in the cloud. This is what allows us to be so capital efficient and fast.</p><h2>Verifiable AI vs. Black Box Systems</h2><p><strong>What is the difference between your \u201cinterpretable\u201d AI and the \u201cblack box\u201d systems we see elsewhere?</strong></p><p><strong>Urtasun:</strong> We\u2019ve seen an evolution on passenger cars for level<span>- </span>2+ systems to end-to-end, black box architectures. But those are not verifiable. You cannot validate and verify those systems, which is a massive problem when you think about regulators and OEMs trusting that technology.</p><p>What Waabi has built is end-to-end, but fully verifiable. The system is forced to interpret what it is perceiving and use those interpretations for reasoning, so that it can understand the consequences of every action. It is much more akin to how our brain actually works; your \u201cType 2\u201d thinking, where you start thinking about cause and effect and consequences, and then you typically do a much better choice in your maneuver.</p><p><strong>Tesla is famously, and controversially, relying on camera data almost exclusively to run and improve its self-driving systems. You\u2019re not a fan of that approach?</strong></p><p><strong>Urtasun:</strong> We use multiple sensors: lidar, camera, and radar. That\u2019s very important because failure modes of those sensors are very different and they\u2019re very complementary. We don\u2019t compromise safety to reduce the  <span>bill- of- materials </span>cost today.</p><p>Those (passenger car) l<span>evel-</span>2+ systems are not architected for <a href=\"https://www.jdpower.com/cars/shopping-guides/levels-of-autonomous-driving-explained\" target=\"_blank\">level 4</a>, where there\u2019s no human on board. People don\u2019t necessarily realize there is a huge difference in terms of the bar when there is no human to rely on. It\u2019s not, \u201cWell, if I don\u2019t have a lot of system interventions, I\u2019m almost there.\u201d That\u2019s not a metric. We are native level 4. We decide which areas the system can drive in, and in what conditions. We are building technology that can drive different form factors\u2014trucks or robotaxis\u2014with the same brain.</p>"
-      },
-      {
-        "id": "1a9053b0848506b2",
-        "title": "The Download: how AI is used for military targeting, and the Pentagon\u2019s war on Claude",
-        "url": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 13 Mar 2026 12:16:56 +0000",
-        "published_dt": "2026-03-13T12:16:56+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Defense&#160;official reveals how AI chatbots could be used for targeting decisions&#160; The US military might use generative AI systems to rank targets and recommend which to strike first, according to a&#160;Defense&#160;Department&#8230;"
-      },
-      {
-        "id": "a5ea35fb1be0adae",
-        "title": "IEEE President\u2019s Note: Engineering a Modern Renaissance",
-        "url": "https://spectrum.ieee.org/ieee-presidents-note-engineering-renaissance",
-        "source": "IEEE Spectrum",
-        "published": "Sun, 01 Mar 2026 19:00:02 +0000",
-        "published_dt": "2026-03-01T19:00:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/person-wearing-a-scarf-over-a-dark-sweater-with-a-blue-background.png?id=65004859&amp;width=2000&amp;height=1500&amp;coordinates=5%2C0%2C5%2C0\" /><br /><br /><p>Consider a powerful parallel between the advancements made during the Renaissance and the developments made by today\u2019s engineers.</p><p>The Renaissance was a uniquely fertile era. Its ethos of curiosity and creativity fostered unprecedented <a href=\"https://spectrum.ieee.org/cinzia-davia-physics\" target=\"_blank\">collaboration across disciplines</a>. Artists, scientists, philosophers, and patrons engaged in a shared pursuit of human potential, beauty, and advancements in art, science, and literature.</p><p>But the Renaissance wasn\u2019t just a cultural awakening. It was a systems-level transformation: a convergence of disciplines, minds, and methods that redefined what humanity could achieve. And in many ways, it mirrors the collaborative spirit we strive for within our IEEE communities.</p><h2>Collaboration Is a Catalyst</h2><p>During the Renaissance, breakthroughs didn\u2019t happen in isolation. They emerged from intersections of different disciplines. Collaboration was the norm: Artists worked with mathematicians to perfect their creations\u2019 accuracy, and architects consulted astronomers to design buildings that reflected celestial order. It was interdisciplinary design thinking centuries before the concept was given a name.</p><h3>Who\u2019s up for a Challenge?</h3><br /><p>IEEE Impact Challenge, which launched in January, aims not only to address real-world problems through purpose-driven engineering but also to attract new members, foster cross\u2011disciplinary collaboration, and design a better world for all.</p><p>The <a href=\"https://www.ieee.org/ieee-future-tech-explorers-challenge\" target=\"_blank\">IEEE Future Tech Explorers program</a> invites IEEE members to partner with others to inspire tomorrow\u2019s engineers and technologists by creating interactive educational experiences that spark curiosity and open doors for young minds.</p><p>The IEEE Response Quest seeks to find solutions that enable near-real-time situational awareness for those providing emergency response and relief assistance.</p><p>We welcome educators, designers, engineers, and innovators from every technical discipline to come together, collaborate across communities, and demonstrate the power of IEEE when we unite around a shared purpose.<br /></p>Learn more at the <a href=\"https://ieee.org/impact-challenge\" target=\"_blank\">IEEE Impact Challenge website</a>.<p>It is at the intersections where disciplines and communities meet that the sparks of transformation ignite. The intersection of engineering and medicine gives us lifesaving devices. The intersection of computing and art produces immersive experiences from virtual, augmented, and mixed reality technology that expands human imagination. The intersection of policy and technology ensures ethical innovation. The outcomes of these crossroads remind us that progress is rarely linear. It is woven from the threads of various expertise, perspectives, and values.</p><p>When we collaborate across specialties, from electrical and biomedical to aerospace and software, we unlock new possibilities. And when we engage with industry, educators, policymakers, standard developers, and the public, we elevate those possibilities into solutions. We do it together, because no single engineer or technologist, and no one discipline can solve all the challenges we face.</p><p>The Renaissance teaches us that collaboration is a catalyst for advancing society. And so, I ask: What if we are living in a new, modern renaissance?</p><p>What if our members are today\u2019s da Vincis, designing systems that serve humanity? What if our volunteers are modern-day patrons, investing time, talent, and heart into building a better world? What if our students and young professionals are the architects of tomorrow\u2019s breakthroughs, fluent in computer code, ethics, and global impact, ready to collaborate across borders, sectors, and disciplines?</p><p>What if our conferences, technical standards, and humanitarian technologies are the printing presses of our time, disseminating knowledge, sparking dialogue, and scaling solutions? What if our collective imagination is the canvas upon which the next century of innovation will be painted?</p><p>And what if, like the Renaissance, our era is defined not only by invention but also by intersection, where many voices and perspectives converge to shape technologies that reflect humanity\u2019s full spectrum?</p><p>Imagine engineers working together with ethicists to ensure responsible AI; with environmental scientists to safeguard our planet; and with local communities to design solutions that solve their challenges. Also imagine engineers partnering with <a href=\"https://spectrum.ieee.org/ieee-move-hurricane-helene-milton\" target=\"_blank\">disaster relief agencies</a> to design real-time systems, restore communication networks, and deliver lifesaving technologies when survivors need them most.</p><p>So let us think like Renaissance creators. Let us design with empathy and collaborate across boundaries. Let us honor that legacy by not just preserving the past but also by building systems that empower the future for everyone.</p><p>When we unite technical excellence with human purpose, we don\u2019t just innovate; we elevate. And in doing so, we carry forward the timeless truth of the Renaissance: Humanity\u2019s greatest achievements are born not from isolation but from intersection and connection.</p><p>\u2014Mary Ellen Randall</p><p>IEEE president and CEO</p><p>Please share your thoughts with me: <a href=\"mailto:president@ieee.org\">president@ieee.org</a>.</p>"
-      },
-      {
         "id": "06b5614a38bae8db",
         "title": "Military AI Policy Needs Democratic Oversight",
         "url": "https://spectrum.ieee.org/military-ai-governance",
@@ -718,15 +691,6 @@
         "published": "Sun, 08 Mar 2026 10:00:03 +0000",
         "published_dt": "2026-03-08T10:00:03+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-white-man-in-his-40s-speaking-into-a-microphone-he-is-wearing-glasses-a-suit-jacket-and-tie.jpg?id=65162768&amp;width=1200&amp;height=400&amp;coordinates=0%2C1042%2C0%2C1042\" /><br /><br /><p>A <a href=\"https://www.nytimes.com/2026/02/23/us/politics/pentagon-anthropic-ai.html\" rel=\"noopener noreferrer\" target=\"_blank\">simmering dispute</a> between the United States Department of Defense (DOD) and Anthropic has now escalated into a <a href=\"https://www.techpolicy.press/a-timeline-of-the-anthropic-pentagon-dispute/\" rel=\"noopener noreferrer\" target=\"_blank\">full-blown confrontation</a>, raising an uncomfortable but important question: who gets to set the guardrails for military use of artificial intelligence \u2014 the executive branch, private companies or Congress and the broader democratic process?</p><p>The conflict began when Defense Secretary Pete Hegseth reportedly gave Anthropic CEO Dario Amodei a deadline to allow the DOD <a href=\"https://www.politico.com/news/2026/02/24/hegseth-sets-friday-deadline-for-anthropic-to-drop-its-ai-red-lines-00795641\" rel=\"noopener noreferrer\" target=\"_blank\">unrestricted use</a> of its AI systems. When the company refused, the administration moved to designate Anthropic a <a href=\"https://x.com/SecWar/status/2027507717469049070\" rel=\"noopener noreferrer\" target=\"_blank\">supply chain risk</a> and ordered federal agencies to phase out its technology, dramatically escalating the standoff.</p><p>Anthropic has refused to cross <a href=\"https://www.anthropic.com/news/statement-department-of-war\" rel=\"noopener noreferrer\" target=\"_blank\">two lines</a>: allowing its models to be used for domestic surveillance of United States citizens and enabling fully autonomous military targeting. Hegseth has objected to what he has described as \u201c<a href=\"https://www.war.gov/News/Transcripts/Transcript/Article/4377190/remarks-by-secretary-of-war-pete-hegseth-at-spacex/\" rel=\"noopener noreferrer\" target=\"_blank\">ideological constraints</a>\u201d embedded in commercial AI systems, arguing that determining lawful military use should be the government\u2019s responsibility \u2014 not the vendor\u2019s. As he put it in a <a href=\"https://www.war.gov/News/Transcripts/Transcript/Article/4377190/remarks-by-secretary-of-war-pete-hegseth-at-spacex/\" rel=\"noopener noreferrer\" target=\"_blank\">speech at Elon Musk\u2019s SpaceX</a> last month, \u201cWe will not employ AI models that won\u2019t allow you to fight wars.\u201d</p><p>Stripped of rhetoric, this dispute resembles something relatively straightforward: a procurement disagreement.</p><h2>Procurement policies</h2><p>In a market economy, the U.S. military decides what products and services it wants to buy. Companies decide what they are willing to sell and under what conditions. Neither side is inherently right or wrong for taking a position. If a product does not meet operational needs, the government can purchase from another vendor. If a company believes certain uses of its technology are unsafe, premature or inconsistent with its values or risk tolerance, it can <a href=\"https://www.anthropic.com/news/responsible-scaling-policy-v3\" rel=\"noopener noreferrer\" target=\"_blank\">decline to provide them</a>. For example, a coalition of companies have signed an open letter pledging <a href=\"https://bostondynamics.com/news/general-purpose-robots-should-not-be-weaponized/\" rel=\"noopener noreferrer\" target=\"_blank\">not to weaponize general-purpose robots</a>. That basic symmetry is a feature of the free market.</p><p>Where the situation becomes more complicated \u2014 and more troubling \u2014 is in the decision to designate Anthropic a \u201c<a href=\"https://x.com/SecWar/status/2027507717469049070\" rel=\"noopener noreferrer\" target=\"_blank\">supply chain risk</a>.\u201d That tool exists to address genuine national security vulnerabilities, such as foreign adversaries. It is not intended to blacklist an American company for rejecting the government\u2019s preferred contractual terms. </p><p>Using this authority in that manner marks a significant shift \u2014 from a procurement disagreement to the use of coercive leverage. <a href=\"https://x.com/SecWar/status/2027507717469049070\" rel=\"noopener noreferrer\" target=\"_blank\">Hegseth has declared</a> that \u201ceffective immediately, no contractor, supplier, or partner that does business with the U.S. military may conduct any commercial activity with Anthropic.\u201d This action will almost certainly face <a href=\"https://x.com/SecWar/status/2027507717469049070\" rel=\"noopener noreferrer\" target=\"_blank\">legal challenges</a>, but it raises the stakes well beyond the loss of a single DOD contract.</p><h2>AI governance</h2><p>It is also important to distinguish between the two substantive issues Anthropic has reportedly raised.</p><p>The first, opposition to domestic surveillance of U.S. citizens, touches on well-established civil liberties concerns. The U.S. government operates under constitutional constraints and statutory limits when it comes to monitoring Americans. A company stating that it does not want its tools used to facilitate domestic surveillance is not inventing a new principle; it is aligning itself with longstanding democratic guardrails.</p><p>To be clear, DOD is not affirmatively asserting that it intends to use the technology to surveil Americans unlawfully. Its position is that it does not want to procure models with built-in restrictions that preempt otherwise lawful government use. In other words, the Department of Defense argues that compliance with the law is the government\u2019s responsibility \u2014 not something that needs to be embedded in a vendor\u2019s code. </p><p>Anthropic, for its part, has invested heavily in training its systems to refuse certain categories of <a href=\"https://www-cdn.anthropic.com/78073f739564e986ff3e28522761a7a0b4484f84.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">harmful or high-risk tasks</a>, including assistance with surveillance. The disagreement is therefore less about current intent than about institutional control over constraints: whether they should be imposed by the state through law and oversight, or by the developer through technical design.</p><p>The second issue, opposition to fully autonomous military targeting, is more complex. </p><p>The DOD already maintains policies requiring <a href=\"https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/300009p.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">human judgment in the use of force</a>, and debates over autonomy in weapons systems are ongoing within both military and international forums. A private company may reasonably determine that its current technology is not sufficiently reliable or controllable for certain battlefield applications. At the same time, the military may conclude that such capabilities are necessary for deterrence and operational effectiveness.</p><p>Reasonable people can disagree about where those <a href=\"https://itif.org/publications/2026/02/26/survey-most-americans-say-tech-companies-should-allowed-set-ai-limits/\" rel=\"noopener noreferrer\" target=\"_blank\">lines should be drawn</a>.</p><p>But that disagreement underscores a deeper point: the boundaries of military AI use should not be settled through ad hoc negotiations between a Cabinet secretary and a CEO. Nor should they be determined by which side can exert greater contractual leverage.</p><p>If the U.S. government believes certain AI capabilities are essential to national defense, that position should be articulated openly. It should be debated in Congress, and reflected in doctrine, oversight mechanisms and statutory frameworks. The rules should be clear \u2014 not only to companies, but to the public.</p><p>The U.S. often distinguishes itself from authoritarian regimes by emphasizing that power operates within transparent democratic institutions and legal constraints. That distinction carries less weight if AI governance is determined primarily through executive ultimatums issued behind closed doors.</p><p>There is also a strategic dimension. If companies conclude that participation in federal markets requires surrendering all deployment conditions, some may exit those markets. Others may respond by weakening or removing model safeguards to remain eligible for government contracts. Neither outcome strengthens <a href=\"https://www.reuters.com/business/retail-consumer/big-tech-group-tells-pentagons-hegseth-they-are-concerned-about-declaring-2026-03-04/\" rel=\"noopener noreferrer\" target=\"_blank\">U.S. technological leadership</a>.</p><p>The DOD is correct that it cannot allow potential \u201cideological constraints\u201d to undermine lawful military operations. But there is a difference between rejecting arbitrary restrictions and rejecting any role for corporate risk management in shaping deployment conditions. In high-risk domains \u2014 from aerospace to cybersecurity \u2014 contractors routinely impose safety standards, testing requirements and operational limitations as part of responsible commercialization. AI should not be treated as uniquely exempt from that practice.</p><p>Moreover, built-in safeguards need not be seen as obstacles to military effectiveness. In many high-risk sectors, layered oversight is standard practice: internal controls, technical fail-safes, auditing mechanisms and legal review operate together. Technical constraints can serve as an additional backstop, reducing the risk of misuse, error or unintended escalation.</p><p><strong>Congress is AWOL</strong></p><p>The DOD should retain ultimate authority over lawful use. But it need not reject the possibility that certain guardrails embedded at the design level could complement its own oversight structures rather than undermine them. In some contexts, redundancy in safety systems strengthens, not weakens, operational integrity.</p><p>At the same time, a company\u2019s unilateral ethical commitments are no substitute for public policy. When technologies carry national security implications, private governance has inherent limits. Ultimately, decisions about surveillance authorities, autonomous weapons and rules of engagement belong in democratic institutions.</p><p>This episode illustrates a pivotal moment in AI governance. AI systems at the frontier of technology are now powerful enough to influence intelligence analysis, logistics, cyber operations and potentially battlefield decision-making. That makes them too consequential to be governed solely by corporate policy \u2014 and too consequential to be governed solely by executive discretion.</p><p>The solution is not to empower one side over the other. It is to strengthen the institutions that mediate between them.</p><p>Congress should clarify statutory boundaries for military AI use and investigate whether sufficient oversight exists. The DOD should articulate detailed doctrine for human control, auditing and accountability. Civil society and industry should participate in structured consultation processes rather than episodic standoffs and procurement policy should reflect those publicly established standards.</p><p>If AI guardrails can be removed through contract pressure, they will be treated as negotiable. However, if they are grounded in law, they can become stable expectations.</p><p>Democratic constraints on military AI belong in statute and doctrine \u2014 not in private contract negotiations.</p><p><em>This article is adapted by the author with permission from </em><a href=\"https://www.techpolicy.press/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Tech Policy Press</em></a><em>. Read the </em><a href=\"https://www.techpolicy.press/why-congress-should-step-into-the-anthropicpentagon-dispute/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>original article</em></a><em>.</em></p>"
-      },
-      {
-        "id": "2e5d80be6f57bef4",
-        "title": "Future AI chips could be built on glass",
-        "url": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 13 Mar 2026 09:00:00 +0000",
-        "published_dt": "2026-03-13T09:00:00+00:00",
-        "summary": "Human-made glass is thousands of years old. But it\u2019s now poised to find its way into the AI chips used in the world\u2019s newest and largest data centers. This year, a South Korean company called Absolics is planning to start commercial production of special glass panels designed to make next-generation computing hardware more powerful and&#8230;"
       },
       {
         "id": "15769016520e217a",
@@ -810,6 +774,51 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/hand-placing-a-ballot-in-a-green-box-against-a-blue-background.jpg?id=65111718&amp;width=1200&amp;height=400&amp;coordinates=0%2C417%2C0%2C417\" /><br /><br /><p>This year\u2019s annual election, which begins on 17 August, will include candidates for IEEE president-elect and other officer positions up for election.</p><p>To see who is running for 2027 <a href=\"https://spectrum.ieee.org/2027-ieee-president-elect-candidates\" target=\"_blank\">IEEE president-elect</a> and the <a href=\"https://spectrum.ieee.org/2027-petition-president-elect-candidates\" target=\"_blank\">petition candidates</a>, visit the <a href=\"https://www.ieee.org/pe27\" target=\"_blank\">election website</a>.</p><p>The ballot also includes nominees for delegate-elect/director-elect offices submitted by division and region nominating committees, as well as <a href=\"https://ta.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Technical Activities</a> vice president-elect; <a href=\"https://ieeeusa.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE-USA</a> president-elect; and <a href=\"https://standards.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Standards Association</a> board of governors members-at-large.</p><p>Those elected take office on 1 January 2027.</p><p> IEEE members who want to run for an office, except for IEEE president-elect, who have not been nominated, must submit their petition intention to the IEEE Board of Directors by 1 April. Petitions should be sent to the IEEE Corporate Governance staff at elections@ieee.org. The petition intention deadline for IEEE president-elect was 31 December.</p><h2>Election Updates</h2><p>Regional elections will also take place. Eligible voting members in IEEE <a href=\"https://ieeer1.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Region 1</a> (Northeastern U.S.) and <a href=\"https://r2.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Region 2</a> (Eastern U.S.) will elect the future IEEE Region 2 delegate-elect/director-elect (Eastern and Northeastern U.S.) for the 2027\u20142028 term. Members in the future IEEE Region 10 (North Asia) will elect the IEEE Region 10 delegate-elect/director-elect for the same term. These changes reflect IEEE\u2019s upcoming region realignment, as outlined in <em><em>The Institute\u2019s </em></em>September 2024 article, \u201c<a href=\"https://spectrum.ieee.org/region-realignment-2024-election\" target=\"_self\">How Region Realignment Will Impact IEEE Elections</a>.\u201d</p><p> Beginning this year, only professional members will be eligible to vote in IEEE\u2019s annual election or sign related petitions. Ballots will be created for eligible voting members on record as of 31 March. To ensure voting eligibility, all members should review and update their <a href=\"https://ieee.org/go/my_account\" rel=\"noopener noreferrer\" target=\"_blank\">contact information</a> and <a href=\"https://ieee.org/election-preferences\" rel=\"noopener noreferrer\" target=\"_blank\">communication preferences</a> by that date.</p><p>To support sustainability initiatives, the \u201cCandidate Biographies and Statements\u201d booklet will no longer be available in print. Members can access the candidate biographies and statements within their electronic ballot, view them on the <a href=\"https://ieee.org/about/corporate/election\" rel=\"noopener noreferrer\" target=\"_blank\">annual election website</a>, or download the digital booklet. Members are also encouraged to vote electronically.</p><p>For more information about the offices up for election, the process for getting on the annual ballot, and deadlines, visit the <a href=\"https://www.ieee.org/about/corporate/election\" target=\"_blank\">website</a> or email <a href=\"mailto:elections@ieee.org\">elections@ieee.org</a>.</p>"
       },
       {
+        "id": "634631ae11ccde4f",
+        "title": "Video Friday: These Robots Were Born to Run",
+        "url": "https://spectrum.ieee.org/legged-modular-robot",
+        "source": "IEEE Spectrum",
+        "published": "Fri, 13 Mar 2026 16:00:04 +0000",
+        "published_dt": "2026-03-13T16:00:04+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/rolling-cannon-distant-cityscape-trees-and-water.gif?id=65282014&amp;width=1200&amp;height=400&amp;coordinates=0%2C147%2C0%2C147\" /><br /><br /><p><span>Video Friday is your weekly selection of awesome robotics videos, collected by your friends at </span><em>IEEE Spectrum</em><span> robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please </span><a href=\"mailto:automaton@ieee.org?subject=Robotics%20event%20suggestion%20for%20Video%20Friday\">send us your events</a><span> for inclusion.</span></p><h5><a href=\"https://2026.ieee-icra.org/\">ICRA 2026</a>: 1\u20135 June 2026, VIENNA</h5><p>Enjoy today\u2019s videos!</p><div class=\"horizontal-rule\"></div><div><span style=\"display: none;\"> </span></div><blockquote class=\"rm-anchors\" id=\"8vksx1zsg7q\"><em>All legged robots deployed \u201cin the wild\u201d to date were given a body plan that was predefined by human designers and could not be redefined in situ. The manual and permanent nature of this process has resulted in very few species of agile terrestrial robots beyond familiar four-limbed forms. Here, we introduce highly athletic modular building blocks and show how they enable the automatic design and rapid assembly of novel agile robots that can \u201chit the ground running\u201d in unstructured outdoor environments.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://robotics.northwestern.edu/news-events/index.html\" target=\"_blank\">Northwestern UniversityCenter for Robotics and Biosystems</a> ] [ <a href=\"https://www.pnas.org/doi/10.1073/pnas.2519129123\">Paper</a> ] via [ <a href=\"https://gizmodo.com/these-self-configuring-modular-robots-may-one-day-rule-the-world-2000731381\">Gizmodo</a> ] </p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"l2q3kpl4mjq\">If you were going to develop the ideal urban delivery robot more or less from scratch, it would be this.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.rivr.ai/rivr-two\">RIVR</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"cadtjepdbfc\">Don\u2019t get me wrong, there are some clever things going on here, but I\u2019m still having a lot of trouble seeing where the unique, sustainable value is for a <a href=\"https://spectrum.ieee.org/humanoid-robots\" target=\"_blank\">humanoid robot</a> performing these sorts of tasks.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.figure.ai/news/helix-02-living-room-tidy\">Figure</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"xyhob9__qk0\">One of those things that you don\u2019t really think about as a human, but is actually pretty important.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://arxiv.org/abs/2602.05760\">Paper</a> ] via [ <a href=\"https://rsl.ethz.ch/\" target=\"_blank\">ETH Zurich</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"wi6u8bvofvc\"><em>We propose TRIP-Bag (Teleoperation, Recording, Intelligence in a Portable Bag), a portable, puppeteer-style teleoperation system fully contained within a commercial suitcase, as a practical solution for collecting high-fidelity manipulation data across varied settings.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://uiuckimlab.github.io/TRIP-Bag-pages/\">KIMLAB</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"nuouwhuzpwq\"><em>We propose an open-vocabulary semantic exploration system that enables robots to maintain consistent maps and efficiently locate (unseen) objects in semi-static real-world environments using LLM-guided reasoning.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.tum.de/en/news-and-events/all-news/press-releases/details/search-robot-thinks-for-itself\">TUM</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"vrxamllkjko\">That\u2019s it folks, we have no need for real pandas anymore\u2014if we ever did in the first place. Be honest, what has a <a href=\"https://spectrum.ieee.org/robot-martial-arts\" target=\"_blank\">panda</a> done for you lately?</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.magiclab.top/en/\">MagicLab</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"uhd6o6dem_o\"><em>RoboGuard is a general-purpose guardrail for ensuring the safety of LLM-enabled robots. RoboGuard is configured offline with high-level safety rules and a robot description, reasons about how these safety rules are best applied in robot\u2019s context, then synthesizes a plan that maximally follows user preferences while ensuring safety.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://robo-guard.github.io/\">RoboGuard</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"5ekki51q1sk\"><em>In this demonstration, a small team responds to a (simulated) radiation contamination leak at a real nuclear reactor facility. The team deploys their reconfigurable robot to accompany them through the facility. As the station is suddenly plunged into darkness, the robot\u2019s camera is hot-swapped to thermal so that it can continue on. Upon reaching the approximate location of the contamination, the team installs a Compton gamma-ray camera and pan-tilt illuminating device. The robot autonomously steps forward, locates the radiation source, and points it out with the illuminator.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://ieeexplore.ieee.org/document/11078050\">Paper</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"zcnmhsg5bpw\"><em>On March 6th, 2025, the Robomechanics Lab at CMU was flooded with 4 feet of black water (i.e. mixed with sewage). We lost most of the robots in the lab, and as a tribute my students put together this \u201cIn Memoriam\u201d video. It includes some previously unreleased robots and video clips.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.cmu.edu/me/robomechanicslab/\">Carnegie Mellon University Robomechanics Lab</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"i3goczr4ya0\">There haven\u2019t been a lot of successful <a href=\"https://spectrum.ieee.org/your-kid-wants-a-thymio-ii-education-robot\" target=\"_blank\">education robots</a>, but here\u2019s one of them.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://sphero.com/collections/all/products/rvr?variant=42004659142701\">Sphero</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"35i9m-jc0oc\">The opening keynote from the 2025 Silicon Valley Humanoids Summit: \u201cInsights Into Disney\u2019s Robotic Character Platform,\u201d by Moritz Baecher, Director, Zurich Lab, Disney Research.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://humanoidssummit.com/\">Humanoids Summit</a> ]</p><div class=\"horizontal-rule\"></div>"
+      },
+      {
+        "id": "2aa954ed03bd7a6a",
+        "title": "Why physical AI is becoming manufacturing\u2019s next advantage",
+        "url": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 13 Mar 2026 15:16:55 +0000",
+        "published_dt": "2026-03-13T15:16:55+00:00",
+        "summary": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today\u2019s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and increasing pressure to innovate faster without sacrificing safety, quality, or trust. The next phase&#8230;"
+      },
+      {
+        "id": "31c35c83e9031e81",
+        "title": "Raquel Urtasun on Level-4 Autonomous Trucks",
+        "url": "https://spectrum.ieee.org/level-4-autonomous-trucks",
+        "source": "IEEE Spectrum",
+        "published": "Fri, 13 Mar 2026 13:01:02 +0000",
+        "published_dt": "2026-03-13T13:01:02+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/an-adult-white-woman-with-short-dark-hair-and-crossed-arms-leaning-her-back-against-the-door-of-a-semi-truck.jpg?id=65278377&amp;width=1200&amp;height=400&amp;coordinates=0%2C729%2C0%2C730\" /><br /><br /><p><a href=\"https://en.wikipedia.org/wiki/Raquel_Urtasun\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Raquel Urtasun</span></a> has spent 16 years in the <a href=\"https://spectrum.ieee.org/self-driving-cars-2662494269\" target=\"_self\"><span>self-driving space</span></a>, long enough to  <span>navigate</span> every <span>metaphorical  glorious </span>hill and plunging valley<span>. </span> <span>She took the trip from the </span>early \u201cpipe dream\u201d dismissals, to the \u201cwe\u2019re <em>this</em> close\u201d certainty, and back again.</p><p>The industry is <span>now </span>riding a new wave of optimism and investment, including at <a href=\"https://waabi.ai/\" target=\"_blank\"><span>Waabi Innovation Inc.</span></a>, the autonomous trucking company that Urtasun founded in 2021. The Spanish-Canadian professor at the <a href=\"https://www.utoronto.ca/\" target=\"_blank\"><span>University of Toronto</span></a>, and former chief scientist of Uber\u2019s Advanced Technologies Group, has helped make Waabi a key player. Beginning in fall 2023, theToronto-based startup has been running geofenced cargo routes from Dallas to Houston in a fleet of retrofitted Peterbilt semis, navigating even residential streets in loaded, <span>36,000-kilogram (</span>80,000-pound<span>)</span> behemoths with a human \u201csafety observer\u201d on board.</p><p>In October, the company reached a milestone by integrating its <a href=\"https://waabi.ai/insights/introducing-the-waabi-driver\" target=\"_blank\"><span>\u201cWaabi Driver\u201d</span></a> physical-AI system in Volvo\u2019s new VNL Autonomous truck, which the Swedish automaker is building in Virginia. That self-driving solution uses Nvidia\u2019s <a href=\"https://www.nvidia.com/en-us/solutions/autonomous-vehicles/in-vehicle-computing/\" target=\"_blank\"><span>Drive AGX Thor</span></a>,  <span>an </span>AI-based platform for autonomous and software-defined vehicles. </p><p>In January, the Toronto-based startup raised $750 million in its latest funding round to accelerate commercial development in autonomous trucking, and expand its system into the fiercely competitive robotaxi space. Backers include <a href=\"https://www.khoslaventures.com/\" target=\"_blank\"><span>Khosla Ventures</span></a>, <a href=\"https://www.nvidia.com/en-us/\" target=\"_blank\"><span>Nvidia</span></a>, and <a href=\"https://www.volvo.com/en/\" target=\"_blank\"><span>Volvo</span></a>.</p><p>Urtasun says the <a href=\"https://waabi.ai/insights/introducing-the-waabi-driver\" target=\"_blank\"><span>Waabi Driver</span></a> can scale across a full range of vehicles, geographies and environments\u2014<span>although</span> snowstorms <span>can </span>still create a no-go zone for now. It\u2019s powered by what Urtasun calls the industry\u2019s most advanced neural simulator. The verifiable, end-to-end AI model will be a \u201cshared brain\u201d that partners can transplant into cars, trucks,  <span>and pretty much anything on wheels</span>. The idea is to grab a chunk of a global autonomous trucking business that McKinsey estimates could be worth more than <a href=\"https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/will-autonomy-usher-in-the-future-of-truck-freight-transportation\" target=\"_blank\"><span>$600 billion a year</span></a> by 2035; with autonomous haulers responsible for 15 percent of total U.S. trucking miles as early as 2030.</p><p>Backed by an additional <a href=\"https://www.forbes.com/sites/alanohnsman/2026/01/28/robot-trucker-waabi-wades-into-robotaxi-battle-with-billion-dollar-raise/\" target=\"_blank\"><span>$250 million from Uber</span></a>, Waabi plans to deploy at least 25,000 autonomous taxis through  <span>Uber\u2019s </span>ride-hailing service, whose world-dominating reach encompasses 70 countries, about 15,000 cities and more than 200 million monthly users.</p><p>Urtasun spoke with <em><span>IEEE Spectrum</span></em> about how Waabi is  <span>counting </span>on sensors and simulation to prove real-world safety; and why the move to autonomy is a moral imperative that outweighs the disruption for human drivers\u2014<span>whether they\u2019re driving trucks or family sedans</span>. Our conversation was edited for length and clarity.</p><h2>The Shift to Next-Gen Autonomous Vehicles</h2><p><strong><em><span>IEEE Spectrum</span></em></strong><strong>: Until quite recently, autonomous tech seemed to have hit a wall, at least in the public\u2019s mind. Now investors are flooding the zone again, and companies are all-in. What happened?</strong></p><p><strong>Raquel Urtasun:</strong> There were a lot of empty promises, or <span>[people] </span>not realizing the complexity of the problem. There was a realization that actually, this problem is harder than people anticipated. It\u2019s also because of the type of technology that was developed at the time, what we call \u201cAV 1.0\u201d. These are hand-engineered systems that need to be brute-forced by humans. You need lots of capital and a massive amount of miles on the road just to get to the first deployment.</p><p>What you see with the next generation\u2014<a href=\"https://medium.com/data-science-collective/the-local-optimum-of-autonomy-de1969b77769\" target=\"_blank\">AV 2.0</a> and systems that can reason\u2014is that you finally have a solution that scales. When we started the company, this was a very contrarian view. But today, the <a href=\"https://spectrum.ieee.org/topic/artificial-intelligence/\" target=\"_blank\">breakthroughs in AI</a> have made it clear that this is the next big revolution. It\u2019s not just about more compute; it\u2019s about building a brain that can generalize. That is the \u201caha moment\u201d the industry is having now.</p><p><strong>Even for someone who believes in the tech, seeing </strong> <strong><span>a driverless</span></strong><strong> semi-trailer in your rear-view mirror might be unsettling. Now you\u2019ve integrated your tech into the aerodynamic, diesel-powered Volvo VNL Autonomous truck. How do you convince regulators and the public that these trucks belong on the street? </strong></p><p><strong>Urtasun:</strong> Safety, when you think about carrying 80,000 pounds on this massive rig, is definitely top of mind. We believe the only way to do this safely is with a redundant platform that is fully developed and validated by the OEM, not with a retrofit. The OEM does a special type of truck that has all the redundant steering, power, and braking, so that no matter what happens, there is always a way we can interface and activate that truck in a safe manner. Then we are responsible for the sensors, the compute, and obviously the brain that drives those trucks.</p><h2>AI\u2019s Impact on Trucking Jobs</h2><p><strong>One of the biggest points of contention is the displacement of human drivers. As AI disrupts a range of workplaces, how do respond to people who say this will eliminate good-paying, blue-collar jobs?</strong></p><p><strong>Urtasun:</strong> The way we see this is that everybody who\u2019s a truck driver today, and wants to retire as a truck driver, will be able to do so. This is physical AI; this is not like the digital world where suddenly you can switch immediately to this technology. That adoption and scaling is going to take time. There will also be many jobs created with this technology; remote operations, terminal operations, and other things. You have time to change the form of labor of being on the road, which is for weeks at a time\u2014and it\u2019s a really difficult and dehumanized job, let\u2019s be honest\u2014to something you can do locally. There was an interesting <span>[U.S.] </span>Department of Transportation study that showed because of this gradual adoption, there will be more jobs created than actually removed.</p><p><strong>You\u2019ve spoken about a personal motivation behind this. Why do you believe the advantages of autonomy outweigh any growing pains, including the potential for unexpected accidents or even deaths?</strong></p><p><strong>Urtasun:</strong> There are 2 million deaths on the road globally per year, and nobody\u2019s questioning that. That\u2019s the status quo. If you think the machines have to be perfect to deploy, you are actually sacrificing many humans along the way that you could have saved. Human error in accidents is between <a href=\"https://www.cbmclaw.com/what-percentage-of-car-accidents-are-caused-by-human-error/\" target=\"_blank\">90 percent and 96 percent</a>. Those could be preventable accidents. Some accidents will always be unavoidable; a tire could blow for a machine the same as it could for a human. But the important comparison is how much safer we are. This technology is the answer to many, many things.</p><p><strong>Most of the industry is focused on \u201chub-to-hub\u201d highway driving. But you\u2019ve argued that Waabi\u2019s AI can handle the complexity of </strong> <strong><span>local </span></strong><strong>streets.</strong></p><p><strong>Urtasun:</strong> The rest of the industry has gone with this business model where you need hubs next to the highway. This adds a lot of friction and cost. Thanks to our verifiable end-to-end AI system, we can drive in surface <span>[local] </span>streets. We can do unprotected lefts, traffic lights, and tight turns. These core capabilities enable us to drive all the way to the end customer. We are already hauling commercial loads for customers like Samsung through our Uber Freight partnership.</p><p><strong>You\u2019ve mentioned that Waabi doesn\u2019t like to talk about \u201cnumber of miles\u201d driven as a metric. For an engineering audience, that sounds counterintuitive. How does your \u201csimulation-first\u201d approach replace the need for real-world road time?</strong></p><p><strong>Urtasun:</strong> In the industry, miles have been used as a proxy for advancement. How many miles does <a href=\"https://www.tesla.com/about\" target=\"_blank\">Tesla</a> need to drive to see any of these situations? But we are a simulation-first company. Waabi World can simulate all the sensors, the behaviors of humans, everything. It is the only simulator where you can mathematically prove that testing and driving in simulation is the same as driving in the real world. You can expose the system to billions of simulations in the cloud. This is what allows us to be so capital efficient and fast.</p><h2>Verifiable AI vs. Black Box Systems</h2><p><strong>What is the difference between your \u201cinterpretable\u201d AI and the \u201cblack box\u201d systems we see elsewhere?</strong></p><p><strong>Urtasun:</strong> We\u2019ve seen an evolution on passenger cars for level<span>- </span>2+ systems to end-to-end, black box architectures. But those are not verifiable. You cannot validate and verify those systems, which is a massive problem when you think about regulators and OEMs trusting that technology.</p><p>What Waabi has built is end-to-end, but fully verifiable. The system is forced to interpret what it is perceiving and use those interpretations for reasoning, so that it can understand the consequences of every action. It is much more akin to how our brain actually works; your \u201cType 2\u201d thinking, where you start thinking about cause and effect and consequences, and then you typically do a much better choice in your maneuver.</p><p><strong>Tesla is famously, and controversially, relying on camera data almost exclusively to run and improve its self-driving systems. You\u2019re not a fan of that approach?</strong></p><p><strong>Urtasun:</strong> We use multiple sensors: lidar, camera, and radar. That\u2019s very important because failure modes of those sensors are very different and they\u2019re very complementary. We don\u2019t compromise safety to reduce the  <span>bill- of- materials </span>cost today.</p><p>Those (passenger car) l<span>evel-</span>2+ systems are not architected for <a href=\"https://www.jdpower.com/cars/shopping-guides/levels-of-autonomous-driving-explained\" target=\"_blank\">level 4</a>, where there\u2019s no human on board. People don\u2019t necessarily realize there is a huge difference in terms of the bar when there is no human to rely on. It\u2019s not, \u201cWell, if I don\u2019t have a lot of system interventions, I\u2019m almost there.\u201d That\u2019s not a metric. We are native level 4. We decide which areas the system can drive in, and in what conditions. We are building technology that can drive different form factors\u2014trucks or robotaxis\u2014with the same brain.</p><p><em><strong>Editor\u2019s note: </strong>This article was updated on 13 March to correct an error in the original post. Contrary to what was stated in the original post, the trucks being driven from Dallas to Houston do have a human observer on board.</em></p>"
+      },
+      {
+        "id": "1a9053b0848506b2",
+        "title": "The Download: how AI is used for military targeting, and the Pentagon\u2019s war on Claude",
+        "url": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 13 Mar 2026 12:16:56 +0000",
+        "published_dt": "2026-03-13T12:16:56+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Defense&#160;official reveals how AI chatbots could be used for targeting decisions&#160; The US military might use generative AI systems to rank targets and recommend which to strike first, according to a&#160;Defense&#160;Department&#8230;"
+      },
+      {
+        "id": "2e5d80be6f57bef4",
+        "title": "Future AI chips could be built on glass",
+        "url": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 13 Mar 2026 09:00:00 +0000",
+        "published_dt": "2026-03-13T09:00:00+00:00",
+        "summary": "Human-made glass is thousands of years old. But it\u2019s now poised to find its way into the AI chips used in the world\u2019s newest and largest data centers. This year, a South Korean company called Absolics is planning to start commercial production of special glass panels designed to make next-generation computing hardware more powerful and&#8230;"
+      },
+      {
         "id": "390650b252b1f3a3",
         "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
         "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
@@ -889,15 +898,6 @@
         "published": "Tue, 10 Mar 2026 14:00:00 +0000",
         "published_dt": "2026-03-10T14:00:00+00:00",
         "summary": "In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of companies were experimenting with AI agents, while 88% were using AI in at least one business function, up from 78% in 2024, according&#8230;"
-      },
-      {
-        "id": "47872302b6a510e6",
-        "title": "How Pok\u00e9mon Go is giving delivery robots an inch-perfect view of the world",
-        "url": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 10 Mar 2026 13:47:26 +0000",
-        "published_dt": "2026-03-10T13:47:26+00:00",
-        "summary": "Pok\u00e9mon Go was the world\u2019s first augmented-reality megahit. Released in 2016 by the Google spinout Niantic, the AR twist on the juggernaut Pok\u00e9mon franchise fast became a global phenomenon. From Chicago to Oslo to Enoshima, players hit the streets in the urgent hope of catching a Jigglypuff or a Squirtle or (with a huge amount&#8230;"
       },
       {
         "id": "14e6d3855ea42bfa",
