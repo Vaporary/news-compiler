@@ -1,7 +1,151 @@
 {
-  "generated_at": "2026-03-18T13:40:46.525103+00:00",
+  "generated_at": "2026-03-19T13:20:58.271993+00:00",
   "categories": {
     "Biotech": [
+      {
+        "id": "15264efdf6935b25",
+        "title": "The Download: Quantum computing for health, and why the world doesn\u2019t recycle more nuclear waste",
+        "url": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 19 Mar 2026 12:17:02 +0000",
+        "published_dt": "2026-03-19T12:17:02+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems&#160; In a laboratory on the outskirts of Oxford, a quantum computer built from atoms and light awaits&#8230;"
+      },
+      {
+        "id": "19e246058ab2427e",
+        "title": "STAT+: Eli Lilly\u2019s \u2018triple-G\u2019 drug leads to significant blood sugar, weight reductions in diabetes trial",
+        "url": "https://www.statnews.com/2026/03/19/eli-lilly-triple-g-retatrutide-results/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 19 Mar 2026 10:45:00 +0000",
+        "published_dt": "2026-03-19T10:45:00+00:00",
+        "summary": "Diabetes patients taking an investigational drug from Eli Lilly saw significant reductions in their blood sugar and weight in a late-stage study."
+      },
+      {
+        "id": "28c2c5a80bbced1b",
+        "title": "STAT+: Six drugmakers, six months: Charting the FDA\u2019s course in the post-Prasad era",
+        "url": "https://www.statnews.com/2026/03/19/biotech-scorecard-rare-disease-drugs-fda-decisions/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 19 Mar 2026 10:30:00 +0000",
+        "published_dt": "2026-03-19T10:30:00+00:00",
+        "summary": "Will the FDA\u2019s regulatory policies, particularly for rare-disease drugs, shift in the wake of Vinay Prasad\u2019s imminent departure?"
+      },
+      {
+        "id": "b716b2d24d651c62",
+        "title": "A $5 million prize awaits proof that quantum computers can solve health care problems",
+        "url": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 19 Mar 2026 10:51:43 +0000",
+        "published_dt": "2026-03-19T10:51:43+00:00",
+        "summary": "I\u2019m standing in front of a quantum computer built out of atoms and light at the UK\u2019s National Quantum Computing Centre on the outskirts of Oxford. On a laboratory table, a complex matrix of mirrors and lenses surrounds a Rubik\u2019s Cube\u2013size cell where 100 cesium atoms are suspended in grid formation by a carefully manipulated&#8230;"
+      },
+      {
+        "id": "bc56541082b4497d",
+        "title": "Why the world doesn\u2019t recycle more nuclear waste",
+        "url": "https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 19 Mar 2026 10:00:00 +0000",
+        "published_dt": "2026-03-19T10:00:00+00:00",
+        "summary": "The prospect of making trash useful is always fascinating to me. Whether it\u2019s used batteries, solar panels, or spent nuclear fuel, getting use out of something destined for disposal sounds like a win all around. In nuclear energy, figuring out what to do with waste has always been a challenge, since the material needs to&#8230;"
+      },
+      {
+        "id": "c9de464aeb2a88d6",
+        "title": "STAT+: How ARPA-H is developing FDA-authorized AI agents, tested in clinical trials",
+        "url": "https://www.statnews.com/2026/03/18/how-arpah-developing-fda-authorized-ai-tools-ai-prognosis/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 18 Mar 2026 15:43:39 +0000",
+        "published_dt": "2026-03-18T15:43:39+00:00",
+        "summary": "STAT's AI Prognosis takes a closer look at how the U.S. moonshot agency for health research is developing AI agents for deployment in hospitals."
+      },
+      {
+        "id": "b143a0bd7728fb12",
+        "title": "STAT+: Senate Democrats lay out plans to overhaul health insurance after setbacks under Trump",
+        "url": "https://www.statnews.com/2026/03/19/democratic-senators-outline-health-insurance-reform-plan/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 19 Mar 2026 08:45:00 +0000",
+        "published_dt": "2026-03-19T08:45:00+00:00",
+        "summary": "Democrats are sharpening their health care message as the midterms loom."
+      },
+      {
+        "id": "81fad886c9406463",
+        "title": "Researchers surveyed by STAT detail the scientific and personal toll of grant cuts: \u2018This can\u2019t be how it ends\u2019",
+        "url": "https://www.statnews.com/2026/03/19/nih-funding-turmoil-young-researchers-detail-impact/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 19 Mar 2026 08:30:00 +0000",
+        "published_dt": "2026-03-19T08:30:00+00:00",
+        "summary": "STAT interviews with 30 respondents brought the unmistakably human impacts of federal science policy into sharp focus. Here are three of those stories."
+      },
+      {
+        "id": "51d5f63c1a0f5196",
+        "title": "The indirect \u2014 and sometimes surprising \u2014 benefits of vaccines",
+        "url": "https://www.statnews.com/2026/03/19/vaccine-success-widespread-hidden-benefits-make-skepticism-possible/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 19 Mar 2026 08:30:00 +0000",
+        "published_dt": "2026-03-19T08:30:00+00:00",
+        "summary": "Many vaccines confer surprising knock-on, or indirect, health benefits when they have been put into widespread use."
+      },
+      {
+        "id": "3d1db31ba52537e4",
+        "title": "National survey of NIH-funded researchers shows precarious state of U.S. science \u2014 \u2018This is like the Titanic\u2019",
+        "url": "https://www.statnews.com/2026/03/19/nih-funding-national-researcher-survey-finds-cutbacks-disruptions/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 19 Mar 2026 08:30:00 +0000",
+        "published_dt": "2026-03-19T08:30:00+00:00",
+        "summary": "A nationwide STAT survey of NIH-funded researchers reveals that, a year after Donald Trump's return to the White House, many scientists are reeling"
+      },
+      {
+        "id": "7f600183e4cc7a51",
+        "title": "Opinion: There is a successor to 340B lurking on the horizon",
+        "url": "https://www.statnews.com/2026/03/19/340b-reform-medicare-drug-price-negotitation-program/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 19 Mar 2026 08:30:00 +0000",
+        "published_dt": "2026-03-19T08:30:00+00:00",
+        "summary": "The closer we get to 2028, the more likely it is that the U.S. may settle for short-term solutions that do not meaningfully reform the health care system."
+      },
+      {
+        "id": "8c248adab21d242b",
+        "title": "<a href=\"https://www.fiercebiotech.com/webinars/spatial-biomarker-panels-for-clinical-trials\" hreflang=\"en\">Spatial Biomarker Panels for Clinical Trials</a>",
+        "url": "https://www.fiercebiotech.com/webinars/spatial-biomarker-panels-for-clinical-trials",
+        "source": "Fierce Biotech",
+        "published": "Feb 26, 2026 8:07pm",
+        "published_dt": "2026-02-26T20:07:00+00:00",
+        "summary": "This webinar covers how recent advances in multiplex immunofluorescence technology are enabling high-throughput analysis of high-plex biomarker panels for oncology trials."
+      },
+      {
+        "id": "3cba816cc39c2932",
+        "title": "STAT+: FDA\u2019s top infectious disease regulator to depart agency",
+        "url": "https://www.statnews.com/2026/03/18/fda-top-infectious-disease-regulator-depart-agency-adam-sherwat/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 18 Mar 2026 23:20:00 +0000",
+        "published_dt": "2026-03-18T23:20:00+00:00",
+        "summary": "Adam Sherwat, the director of the Office of Infectious Diseases in the FDA\u2019s Center for Drug Evaluation and Research, is leaving the agency."
+      },
+      {
+        "id": "f013a988e8ad214a",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/rare-disease-advocates-stage-funeral-fda-demand-4-actions-agency-and-congress\" hreflang=\"en\">Rare disease advocates stage 'funeral' at FDA, demand 4 actions of agency and Congress</a>",
+        "url": "https://www.fiercebiotech.com/biotech/rare-disease-advocates-stage-funeral-fda-demand-4-actions-agency-and-congress",
+        "source": "Fierce Biotech",
+        "published": "Mar 18, 2026 4:44pm",
+        "published_dt": "2026-03-18T16:44:00+00:00",
+        "summary": "More than 100 marchers took to Capitol Hill on Wednesday after carrying a coffin to the FDA in a symbolic protest highlighting lives they say could be lost to regulatory delays affecting a group of rare metabolic disorders."
+      },
+      {
+        "id": "3c1269d0d1aef5f1",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lilly-retatrutide-type-2-diabetes-weight-loss-ph-3-data\" hreflang=\"en\">Lilly's triple-G bet lowers blood sugar, prompts 16.8% weight loss in phase 3 diabetes trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/eli-lilly-retatrutide-type-2-diabetes-weight-loss-ph-3-data",
+        "source": "Fierce Biotech",
+        "published": "Mar 18, 2026 4:09pm",
+        "published_dt": "2026-03-18T16:09:00+00:00",
+        "summary": "With the obesity numbers for Eli Lilly\u2019s experimental triple agonist retatrutide already stacking up nicely, the company is rounding out its pitch for the drug with new top-line data on its ability to lower blood sugar levels in patients with Type 2 diabetes and help them lose weight."
+      },
+      {
+        "id": "a4dfc999fe86a3cd",
+        "title": "STAT+: A Huntington\u2019s researcher on the UniQure-FDA fray",
+        "url": "https://www.statnews.com/2026/03/18/huntingtons-uniqure-fda-jnj-psoriasis-icotyde-readout-newsletter/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 18 Mar 2026 15:03:28 +0000",
+        "published_dt": "2026-03-18T15:03:28+00:00",
+        "summary": "A Huntington's researcher treads lightly into the UniQure-FDA fray, J&#038;J wins approval for a first-of-its kind psoriasis pill, and more in today's Readout newsletter."
+      },
       {
         "id": "75479dd04789ba55",
         "title": "STAT+: FDA and NIH announce more initiatives to reduce animal testing in drug development",
@@ -12,85 +156,22 @@
         "summary": "The HHS has made reducing animal testing a priority over the past year."
       },
       {
-        "id": "8529535769c0dbd1",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about TrumpRx prices, a J&J psoriasis pill, and much more",
-        "url": "https://www.statnews.com/pharmalot/2026/03/18/trumprx-jnj-psoriasis-pill-icotyde-lilly-stock-downgraded/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 18 Mar 2026 13:23:21 +0000",
-        "published_dt": "2026-03-18T13:23:21+00:00",
-        "summary": "U.S. health officials claim TrumpRx offers Americans the world\u2019s lowest prices on prescription drugs, but a new analysis found that is not true"
-      },
-      {
-        "id": "c4b8f49255f5b563",
-        "title": "The Download: The Pentagon\u2019s new AI plans, and next-gen nuclear reactors",
-        "url": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 18 Mar 2026 12:38:00 +0000",
-        "published_dt": "2026-03-18T12:38:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon is planning for AI companies to train on classified data,&#160;defense&#160;official says&#160; The Pentagon plans to set up secure environments for generative AI companies to train military-specific versions of their&#8230;"
-      },
-      {
-        "id": "3edf1374f3cc4ba3",
-        "title": "STAT+: J&J wins approval for first-of-its-kind psoriasis pill",
-        "url": "https://www.statnews.com/2026/03/18/jj-wins-approval-for-first-of-its-kind-psoriasis-pill/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 18 Mar 2026 11:56:14 +0000",
-        "published_dt": "2026-03-18T11:56:14+00:00",
-        "summary": "Johnson &#38; Johnson won U.S. approval for a daily psoriasis pill that rivals the benefits of injectable medicines and could roil a multibillion-dollar market."
-      },
-      {
-        "id": "ee6e7feeaa3a1a2f",
-        "title": "What do new nuclear reactors mean for waste?",
-        "url": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 18 Mar 2026 09:00:00 +0000",
-        "published_dt": "2026-03-18T09:00:00+00:00",
-        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. The way the world currently deals with nuclear waste is as creative as it is varied: Drown it in water pools, encase it in steel, bury&#8230;"
-      },
-      {
-        "id": "4920c44ff89585c6",
-        "title": "Drug smoking can lead to severe burns, complicating harm reduction efforts",
-        "url": "https://www.statnews.com/2026/03/18/opioid-smoking-vs-injection-severe-burns-complicate-harm-reduction/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 18 Mar 2026 08:30:00 +0000",
-        "published_dt": "2026-03-18T08:30:00+00:00",
-        "summary": "Smoking instead of injecting drugs can reduce harm, but a new study shows opioid smokers are four times as likely to suffer severe burns."
-      },
-      {
-        "id": "b611677724b81f87",
-        "title": "Opinion: Exposed and invisible in an ER hallway bed",
-        "url": "https://www.statnews.com/2026/03/18/er-hallway-beds-boarding-harm/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 18 Mar 2026 08:30:00 +0000",
-        "published_dt": "2026-03-18T08:30:00+00:00",
-        "summary": "\u201cHallway beds cut into the bones that sustain emergency medicine, shaving away layers of the moral tenets and high standards, staff\u2019s meaning and purpose, and the comfort and dignity of&#8230;"
-      },
-      {
-        "id": "f1723d08b9cd3237",
-        "title": "Opinion: I was a surgeon. The hardest part of leaving medicine was believing that I could",
-        "url": "https://www.statnews.com/2026/03/18/leaving-medicine-physician-alternative-careers/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 18 Mar 2026 08:30:00 +0000",
-        "published_dt": "2026-03-18T08:30:00+00:00",
-        "summary": "Leaving her career as a surgeon, Frances Mei Hardin writes, \u201cwas the beginning of a life I actually wanted.\u201d"
-      },
-      {
-        "id": "07b1c0aea3f93fd4",
-        "title": "STAT+: How a Texas couple is getting rich off out-of-network medical bills",
-        "url": "https://www.statnews.com/2026/03/18/no-surprises-act-loophole-profits-scott-laroque-mpowerhealth-alla-laroque-halomd/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 18 Mar 2026 08:30:00 +0000",
-        "published_dt": "2026-03-18T08:30:00+00:00",
-        "summary": "STAT investigates how a Texas couple cashed in on a new law that's supposed to protect patients from surprise medical bills."
-      },
-      {
-        "id": "8c248adab21d242b",
-        "title": "<a href=\"https://www.fiercebiotech.com/webinars/spatial-biomarker-panels-for-clinical-trials\" hreflang=\"en\">Spatial Biomarker Panels for Clinical Trials</a>",
-        "url": "https://www.fiercebiotech.com/webinars/spatial-biomarker-panels-for-clinical-trials",
+        "id": "7b8648a0833902c0",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/crossbow-hits-77m-series-b-round-bankroll-quiver-t-bolts\" hreflang=\"en\">Crossbow hits $77M series B round to bankroll quiver of T-Bolts</a>",
+        "url": "https://www.fiercebiotech.com/biotech/crossbow-hits-77m-series-b-round-bankroll-quiver-t-bolts",
         "source": "Fierce Biotech",
-        "published": "Feb 26, 2026 8:07pm",
-        "published_dt": "2026-02-26T20:07:00+00:00",
-        "summary": "This webinar covers how recent advances in multiplex immunofluorescence technology are enabling high-throughput analysis of high-plex biomarker panels for oncology trials."
+        "published": "Mar 18, 2026 10:08am",
+        "published_dt": "2026-03-18T10:08:00+00:00",
+        "summary": "Crossbow Therapeutics has successfully hit a $77 million series B round, which the biotech will use to fund a trial of its lead T-cell engager (TCE) and fill its quiver with more T-Bolts."
+      },
+      {
+        "id": "63d4fc9d12c58969",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/jenavalves-trilogy-valve-secures-fdas-first-approval-aortic-regurgitation\" hreflang=\"en\">JenaValve's Trilogy valve secures FDA's 1st approval in aortic regurgitation</a>",
+        "url": "https://www.fiercebiotech.com/medtech/jenavalves-trilogy-valve-secures-fdas-first-approval-aortic-regurgitation",
+        "source": "Fierce Biotech",
+        "published": "Mar 18, 2026 9:47am",
+        "published_dt": "2026-03-18T09:47:00+00:00",
+        "summary": "JenaValve has secured the FDA\u2019s approval for its minimally invasive heart implant, making it the first to claim a U.S. green light to treat severe backflow through the aortic valve."
       },
       {
         "id": "022782d36d70568b",
@@ -111,6 +192,15 @@
         "summary": "Health authorities in the U.S. are continuing their move away from animal testing in drug development, with the FDA signaling an openness to new approaches that haven\u2019t been validated."
       },
       {
+        "id": "7133b8ca366ff56a",
+        "title": "STAT+: HHS watchdog slams nursing homes\u2019 antipsychotic drug use and schizophrenia diagnoses",
+        "url": "https://www.statnews.com/2026/03/19/antipsychotic-drug-misuse-nursing-homes-hhs-oig-reports/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 19 Mar 2026 04:01:00 +0000",
+        "published_dt": "2026-03-19T04:01:00+00:00",
+        "summary": "Nursing homes misuse antipsychotic drugs for dementia patients, disguise practice as schizophrenia treatment, watchdog finds."
+      },
+      {
         "id": "f500f7d6f9b8f3ce",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-rejects-aldeyra-dry-eye-disease-drug-citing-inconsistent-study-findings\" hreflang=\"en\">FDA rejects Aldeyra dry eye disease drug for 3rd time, citing inconsistent study findings</a>",
         "url": "https://www.fiercebiotech.com/biotech/fda-rejects-aldeyra-dry-eye-disease-drug-citing-inconsistent-study-findings",
@@ -120,115 +210,196 @@
         "summary": "After delaying its review, the FDA has rejected Aldeyra Therapeutics\u2019 experimental dry eye disease treatment for the third time."
       },
       {
-        "id": "d0c18790bb59fdf8",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/inovio-trims-team-trouble-brews-fda-rare-disease-candidate\" hreflang=\"en\">Inovio trims team as trouble brews at FDA for rare disease candidate</a>",
-        "url": "https://www.fiercebiotech.com/biotech/inovio-trims-team-trouble-brews-fda-rare-disease-candidate",
-        "source": "Fierce Biotech",
-        "published": "Mar 13, 2026 10:07am",
-        "published_dt": "2026-03-13T10:07:00+00:00",
-        "summary": "Inovio Pharmaceuticals has laid off staff and prioritized programs to focus on its lead rare disease candidate, which is already facing some pushback from the FDA early in its approval review."
-      },
-      {
-        "id": "4a52b9f8eba4a553",
-        "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
-        "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 17 Mar 2026 22:30:46 +0000",
-        "published_dt": "2026-03-17T22:30:46+00:00",
-        "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.&#160; AI models like Anthropic\u2019s Claude are already used to answer questions in classified settings; applications include analyzing targets in Iran. But allowing models to train on&#8230;"
-      },
-      {
-        "id": "bcb1548521b168e6",
-        "title": "STAT+: NIH will spend its full budget this year, agency director promises House appropriators",
-        "url": "https://www.statnews.com/2026/03/17/nih-director-jay-bhattacharya-reassures-congress-on-funding/?utm_campaign=rss",
+        "id": "18e78052482c8b59",
+        "title": "More than 150,000 uncounted Covid-19 deaths occurred early in the pandemic, a study finds",
+        "url": "https://www.statnews.com/2026/03/18/study-finds-150000-uncounted-covid-19-deaths-early-pandemic/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 17 Mar 2026 18:50:28 +0000",
-        "published_dt": "2026-03-17T18:50:28+00:00",
-        "summary": "NIH Director Jay Bhattacharya promised a House subcommittee on Tuesday that the agency will spend its full budget by the end of the 2026 fiscal year"
+        "published": "Wed, 18 Mar 2026 18:36:43 +0000",
+        "published_dt": "2026-03-18T18:36:43+00:00",
+        "summary": "The Covid-19 pandemic's early death toll was much higher than the official U.S. count, according to a new study that spotlights dramatic disparities in the uncounted deaths."
       },
       {
-        "id": "a84478379fa8b613",
-        "title": "STAT+: VC firm Dimension scouting out $700 million for new fund",
-        "url": "https://www.statnews.com/2026/03/17/dimension-vc-biotech-artificial-intelligence/?utm_campaign=rss",
+        "id": "095817c5413e8230",
+        "title": "STAT+: A Maryland legislator wants pharma and patient groups to disclose ties to disease awareness campaigns",
+        "url": "https://www.statnews.com/pharmalot/2026/03/18/maryland-legislator-pharma-patients-disclose-disease-advertising/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 17 Mar 2026 16:34:05 +0000",
-        "published_dt": "2026-03-17T16:34:05+00:00",
-        "summary": "A buzzy venture capital firm has started raising its third fund, hoping to amass around $700 million to invest in companies that meld AI and science."
-      },
-      {
-        "id": "99e01cd4bf84cffa",
-        "title": "STAT+: Judge deals blow to RFK Jr.\u2019s vaccine reforms",
-        "url": "https://www.statnews.com/2026/03/17/rfk-jr-maha-vaccine-policy-rejected-judge-acip-postponed-dc-diagnosis/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 17 Mar 2026 16:26:39 +0000",
-        "published_dt": "2026-03-17T16:26:39+00:00",
-        "summary": "The meeting of the Advisory Committee on Immunization Practices that was scheduled for this week has been postponed."
-      },
-      {
-        "id": "55237c998bf97865",
-        "title": "STAT+: Senator blasts GSK\u00a0inhaler practices, calls for reform",
-        "url": "https://www.statnews.com/2026/03/17/biotech-news-senator-blasts-gsk-inhaler-practices/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 17 Mar 2026 14:41:51 +0000",
-        "published_dt": "2026-03-17T14:41:51+00:00",
-        "summary": "Trump adds pressure to codify MFN, a judge stalls Kennedy's changes to vaccine policy, and more biotech news"
-      },
-      {
-        "id": "c25853c130346bd7",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/xaira-exec-divulges-rd-focus-how-ai-company-chasing-what-industry-hungriest\" hreflang=\"en\">Xaira exec divulges R&amp;D focus, how $1B fundraise fuels AI-driven hunt for what the 'industry is hungriest for'</a>",
-        "url": "https://www.fiercebiotech.com/biotech/xaira-exec-divulges-rd-focus-how-ai-company-chasing-what-industry-hungriest",
-        "source": "Fierce Biotech",
-        "published": "Mar 17, 2026 2:17pm",
-        "published_dt": "2026-03-17T14:17:00+00:00",
-        "summary": "Since raising a mind-boggling $1 billion in 2024, AI-driven Xaira Therapeutics has remained largely silent on where that money is being put to work. Last week, the company\u2019s Chief Operating Officer, Jeff Jonker, opened up to Fierce Biotech, divulging details about the secretive biotech\u2019s efforts in inflammatory and immunological science."
-      },
-      {
-        "id": "6cf94866b5ca690c",
-        "title": "Smoking rates are at a historic low. You\u2019re not hearing about it from the government",
-        "url": "https://www.statnews.com/2026/03/17/cigarette-smoking-rate-below-10-percent-cdc-data-says/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 17 Mar 2026 13:32:08 +0000",
-        "published_dt": "2026-03-17T13:32:08+00:00",
-        "summary": "The CDC had remarkable data on smoking rates last fall, but it no longer had smoking experts available to review it and disseminate it."
-      },
-      {
-        "id": "68837598ffb2c9c8",
-        "title": "STAT+: Epic notches a legal win, but the saga continues",
-        "url": "https://www.statnews.com/2026/03/17/epic-legal-win-but-saga-continues-health-tech/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 17 Mar 2026 13:17:02 +0000",
-        "published_dt": "2026-03-17T13:17:02+00:00",
-        "summary": "In this edition of STAT Health Tech: An update on Epic's lawsuit over alleged improper access to health records, Nvidia's new radiology AI partnership, and more."
-      },
-      {
-        "id": "a641637dc5d6a070",
-        "title": "NIH grant awards are lagging (again)",
-        "url": "https://www.statnews.com/2026/03/17/health-news-nih-grant-awards-lagging-again/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 17 Mar 2026 13:08:07 +0000",
-        "published_dt": "2026-03-17T13:08:07+00:00",
-        "summary": "How to type with your mind, who might not need to take blood pressure meds, and other health news"
-      },
-      {
-        "id": "596526892e5a3243",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about Trump\u2019s drug pricing moves, a GSK asthma drug, and more",
-        "url": "https://www.statnews.com/pharmalot/2026/03/17/trump-pharma-gsk-asthma-hiv-sanofi/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 17 Mar 2026 13:04:32 +0000",
-        "published_dt": "2026-03-17T13:04:32+00:00",
-        "summary": "The White House is looking to intensify its pressure campaign on Congress to pass legislation to codify a \u201cmost-favored nation\u201d drug pricing policy"
-      },
-      {
-        "id": "30cd9552096835f9",
-        "title": "The Download: OpenAI\u2019s US military deal, and Grok\u2019s CSAM lawsuit",
-        "url": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 17 Mar 2026 12:26:48 +0000",
-        "published_dt": "2026-03-17T12:26:48+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Where OpenAI\u2019s technology could show up in Iran&#160; OpenAI has controversially agreed to give the Pentagon access to its AI. But where exactly could its tech show up, and which applications&#8230;"
+        "published": "Wed, 18 Mar 2026 18:34:15 +0000",
+        "published_dt": "2026-03-18T18:34:15+00:00",
+        "summary": "A bill introduced in the Maryland legislature would require drugmakers to disclose ties to disease awareness campaigns."
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "ffa082bff5139155",
+        "title": "NASA considering sharp increase in robotic lunar landings",
+        "url": "https://spacenews.com/nasa-considering-sharp-increase-in-robotic-lunar-landings/",
+        "source": "SpaceNews",
+        "published": "Thu, 19 Mar 2026 12:10:34 +0000",
+        "published_dt": "2026-03-19T12:10:34+00:00",
+        "summary": "<figure><img alt=\"Blue Ghost 1 shadow\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/bgm1-landing-landershadow-scaled.jpeg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA is proposing a sharp increase in the rate of robotic lunar lander missions, a move that has excited but also puzzled the space community.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-considering-sharp-increase-in-robotic-lunar-landings/\">NASA considering sharp increase in robotic lunar landings</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "fab00208434e0175",
+        "title": "ReOrbit sells two small GEO satellites to SLI",
+        "url": "https://spacenews.com/reorbit-sells-two-small-geo-satellites-to-sli/",
+        "source": "SpaceNews",
+        "published": "Thu, 19 Mar 2026 12:00:00 +0000",
+        "published_dt": "2026-03-19T12:00:00+00:00",
+        "summary": "<figure><img alt=\"Silta\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"572\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/reorbit-silta.jpeg?fit=1024%2C572&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Finnish satellite manufacturer ReOrbit has signed a contract with asset-financing company SLI for two small geostationary orbit communications satellites.</p>\n<p>The post <a href=\"https://spacenews.com/reorbit-sells-two-small-geo-satellites-to-sli/\">ReOrbit sells two small GEO satellites to SLI</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "93bdb577b52e92a5",
+        "title": "Vertiv supports NVIDIA DSX AI factory infrastructure design",
+        "url": "https://www.engineering.com/vertiv-supports-nvidia-dsx-ai-factory-infrastructure-design/",
+        "source": "Engineering.com",
+        "published": "Thu, 19 Mar 2026 10:23:45 +0000",
+        "published_dt": "2026-03-19T10:23:45+00:00",
+        "summary": "<p>The approach uses simulation-ready power and cooling models to validate systems and reduce integration risk before deployment.</p>\n<p>The post <a href=\"https://www.engineering.com/vertiv-supports-nvidia-dsx-ai-factory-infrastructure-design/\">Vertiv supports NVIDIA DSX AI factory infrastructure design</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "f08faeb9e7e24cde",
+        "title": "Maxon releases Redshift plugins for Vectorworks and Revit",
+        "url": "https://www.engineering.com/maxon-releases-redshift-plugins-for-vectorworks-and-revit/",
+        "source": "Engineering.com",
+        "published": "Thu, 19 Mar 2026 10:06:44 +0000",
+        "published_dt": "2026-03-19T10:06:44+00:00",
+        "summary": "<p>The tools enable real-time visualization and rendering within CAD and BIM workflows, with support for Cinema 4D integration.</p>\n<p>The post <a href=\"https://www.engineering.com/maxon-releases-redshift-plugins-for-vectorworks-and-revit/\">Maxon releases Redshift plugins for Vectorworks and Revit</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "74a6ffb878dbfb4c",
+        "title": "Siemens and Rittal partner on data center power systems",
+        "url": "https://www.engineering.com/siemens-and-rittal-partner-on-data-center-power-systems/",
+        "source": "Engineering.com",
+        "published": "Thu, 19 Mar 2026 09:58:02 +0000",
+        "published_dt": "2026-03-19T09:58:02+00:00",
+        "summary": "<p>The companies are developing sidecar and low-voltage distribution systems for AI data centers with rising rack power densities.</p>\n<p>The post <a href=\"https://www.engineering.com/siemens-and-rittal-partner-on-data-center-power-systems/\">Siemens and Rittal partner on data center power systems</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "a0b90730274a67d7",
+        "title": "Supermicro expands AI systems with NVIDIA RTX PRO GPUs",
+        "url": "https://www.engineering.com/supermicro-expands-ai-systems-with-nvidia-rtx-pro-gpus/",
+        "source": "Engineering.com",
+        "published": "Thu, 19 Mar 2026 09:56:32 +0000",
+        "published_dt": "2026-03-19T09:56:32+00:00",
+        "summary": "<p>New 1U to 5U systems support up to 8 GPUs, enabling AI inference, VDI and analytics in data centers and edge environments.</p>\n<p>The post <a href=\"https://www.engineering.com/supermicro-expands-ai-systems-with-nvidia-rtx-pro-gpus/\">Supermicro expands AI systems with NVIDIA RTX PRO GPUs</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "42503dfce184c8ad",
+        "title": "Switch integrates NVIDIA Omniverse into AI factory platform",
+        "url": "https://www.engineering.com/switch-integrates-nvidia-omniverse-into-ai-factory-platform/",
+        "source": "Engineering.com",
+        "published": "Thu, 19 Mar 2026 09:51:00 +0000",
+        "published_dt": "2026-03-19T09:51:00+00:00",
+        "summary": "<p>The system uses digital twins and OpenUSD to simulate power, cooling and infrastructure performance before deployment.</p>\n<p>The post <a href=\"https://www.engineering.com/switch-integrates-nvidia-omniverse-into-ai-factory-platform/\">Switch integrates NVIDIA Omniverse into AI factory platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "6428af6db4fcd156",
+        "title": "K\u00f6rber collaborates with NVIDIA on logistics digital twins",
+        "url": "https://www.engineering.com/korber-collaborates-with-nvidia-on-logistics-digital-twins/",
+        "source": "Engineering.com",
+        "published": "Thu, 19 Mar 2026 08:06:00 +0000",
+        "published_dt": "2026-03-19T08:06:00+00:00",
+        "summary": "<p>The work uses Omniverse libraries to model warehouses for scenario testing, robotics training and facility design before deployment.</p>\n<p>The post <a href=\"https://www.engineering.com/korber-collaborates-with-nvidia-on-logistics-digital-twins/\">K\u00f6rber collaborates with NVIDIA on logistics digital twins</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "245a89c180a1a5c0",
+        "title": "TransAstra aims to move 100-ton asteroid to stable orbit for processing",
+        "url": "https://spacenews.com/transastra-aims-to-move-100-ton-asteroid-to-stable-orbit-for-processing/",
+        "source": "SpaceNews",
+        "published": "Wed, 18 Mar 2026 19:00:00 +0000",
+        "published_dt": "2026-03-18T19:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"568\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rsz_transastra_asteroid_capture.png?fit=879%2C568&amp;ssl=1\" width=\"879\" /></figure>\n<p>SAN FRANCISCO &#8212; TransAstra is performing a study, funded by investors and customers, to explore the technical feasibility of moving a 100-metric-ton asteroid to a stable near-Earth orbit. \u201cWe want to bring an asteroid to the Earth-moon system and turn it into a robotic research outpost for materials processing and manufacturing in space,\u201d Joel Sercel, [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/transastra-aims-to-move-100-ton-asteroid-to-stable-orbit-for-processing/\">TransAstra aims to move 100-ton asteroid to stable orbit for processing</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "ff8f6f9819f30c2d",
+        "title": "Keysight launches AI inference validation platform",
+        "url": "https://www.engineering.com/keysight-launches-ai-inference-validation-platform/",
+        "source": "Engineering.com",
+        "published": "Thu, 19 Mar 2026 08:31:43 +0000",
+        "published_dt": "2026-03-19T08:31:43+00:00",
+        "summary": "<p>The platform emulates real-world inference workloads to test compute, network, memory, storage and security performance at scale.</p>\n<p>The post <a href=\"https://www.engineering.com/keysight-launches-ai-inference-validation-platform/\">Keysight launches AI inference validation platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "7d7c3abc08559d95",
+        "title": "HPE launches AI Grid for distributed inference clusters",
+        "url": "https://www.engineering.com/hpe-launches-ai-grid-for-distributed-inference-clusters/",
+        "source": "Engineering.com",
+        "published": "Thu, 19 Mar 2026 08:22:02 +0000",
+        "published_dt": "2026-03-19T08:22:02+00:00",
+        "summary": "<p>The system combines HPE servers, routing and NVIDIA networking to connect regional and far-edge AI sites with low-latency operation.</p>\n<p>The post <a href=\"https://www.engineering.com/hpe-launches-ai-grid-for-distributed-inference-clusters/\">HPE launches AI Grid for distributed inference clusters</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "26a6defd87105d57",
+        "title": "Toshiba launches photocoupler for automotive SSRs",
+        "url": "https://www.engineering.com/toshiba-launches-photocoupler-for-automotive-ssrs/",
+        "source": "Engineering.com",
+        "published": "Thu, 19 Mar 2026 08:06:51 +0000",
+        "published_dt": "2026-03-19T08:06:51+00:00",
+        "summary": "<p>The TLX9920 uses an SO6L package with more than 8 mm creepage distance and 5000 Vrms isolation for high-voltage switching.</p>\n<p>The post <a href=\"https://www.engineering.com/toshiba-launches-photocoupler-for-automotive-ssrs/\">Toshiba launches photocoupler for automotive SSRs</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "2fc486c8c271513e",
+        "title": "Datacor acquires simulation software developer GoldSim",
+        "url": "https://www.engineering.com/datacor-acquires-simulation-software-developer-goldsim/",
+        "source": "Engineering.com",
+        "published": "Thu, 19 Mar 2026 08:01:00 +0000",
+        "published_dt": "2026-03-19T08:01:00+00:00",
+        "summary": "<p>GoldSim adds probabilistic risk assessment and system-level modeling for energy, environmental and mining applications.</p>\n<p>The post <a href=\"https://www.engineering.com/datacor-acquires-simulation-software-developer-goldsim/\">Datacor acquires simulation software developer GoldSim</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "e9fe6e2a55b7026f",
+        "title": "Apex sells satellite for Japanese technology demonstration mission",
+        "url": "https://spacenews.com/apex-sells-satellite-for-japanese-technology-demonstration-mission/",
+        "source": "SpaceNews",
+        "published": "Thu, 19 Mar 2026 07:00:00 +0000",
+        "published_dt": "2026-03-19T07:00:00+00:00",
+        "summary": "<figure><img alt=\"Apex assembly line\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"721\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/apex-aries-assemblyline.jpeg?fit=1024%2C721&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Satellite manufacturer Apex has won a contract from a Japanese company to provide a spacecraft bus for a technology demonstration mission.</p>\n<p>The post <a href=\"https://spacenews.com/apex-sells-satellite-for-japanese-technology-demonstration-mission/\">Apex sells satellite for Japanese technology demonstration mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "0ccd8718a6796aa9",
+        "title": "Rocket Lab wins $190 million Pentagon deal for hypersonic test flights",
+        "url": "https://spacenews.com/rocket-lab-wins-190-million-pentagon-deal-for-hypersonic-test-flights/",
+        "source": "SpaceNews",
+        "published": "Wed, 18 Mar 2026 21:56:59 +0000",
+        "published_dt": "2026-03-18T21:56:59+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55125753485_c81ceb4d34_k.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The contract is for 20 hypersonic flight missions over four years</p>\n<p>The post <a href=\"https://spacenews.com/rocket-lab-wins-190-million-pentagon-deal-for-hypersonic-test-flights/\">Rocket Lab wins $190 million Pentagon deal for hypersonic test flights</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "27e6eee70cea9976",
+        "title": "ISPTech Raises \u20ac5.5M Seed Round to Redefine How Spacecraft Manoeuvre in Orbit",
+        "url": "https://spacenews.com/isptech-raises-e5-5m-seed-round-to-redefine-how-spacecraft-manoeuvre-in-orbit/",
+        "source": "SpaceNews",
+        "published": "Tue, 17 Mar 2026 17:05:18 +0000",
+        "published_dt": "2026-03-17T17:05:18+00:00",
+        "summary": "<figure><img alt=\"ISPTech logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"416\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/ISPTech_Black-1-1.png?fit=416%2C416&amp;ssl=1\" width=\"416\" /></figure>\n<p>Stuttgart, Germany &#8211; Marc. 17, 2026 &#8211; ISPTech, a German space technology company developing propulsion systems for agile in-orbit maneuvering, announced it has raised \u20ac5.5 million in seed funding to [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/isptech-raises-e5-5m-seed-round-to-redefine-how-spacecraft-manoeuvre-in-orbit/\">ISPTech Raises \u20ac5.5M Seed Round to Redefine How Spacecraft Manoeuvre in Orbit</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "f236bef2fa9aba53",
+        "title": "Space Command classified wargame to include 25 commercial players",
+        "url": "https://spacenews.com/space-command-classified-wargame-to-include-25-commercial-players/",
+        "source": "SpaceNews",
+        "published": "Wed, 18 Mar 2026 21:14:13 +0000",
+        "published_dt": "2026-03-18T21:14:13+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/250428-X-VE588-1022-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Maj. Gen. Keener:  The exercise will help Space Command \u2018better understand commercial challenges, requirements, and how we can better work together\u2019</p>\n<p>The post <a href=\"https://spacenews.com/space-command-classified-wargame-to-include-25-commercial-players/\">Space Command classified wargame to include 25 commercial players</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "b68038774efa86fe",
+        "title": "\u2018We\u2019re all focused on the Golden Dome\u2019: Pentagon official looks to new technologies",
+        "url": "https://aerospaceamerica.aiaa.org/were-all-focused-on-the-golden-dome-pentagon-official-looks-to-new-technologies/",
+        "source": "Aerospace America",
+        "published": "Wed, 18 Mar 2026 17:36:31 +0000",
+        "published_dt": "2026-03-18T17:36:31+00:00",
+        "summary": ""
+      },
+      {
+        "id": "55d821ec924e0e9b",
+        "title": "Solar array deal sheds more light on South Korea\u2019s defense constellation",
+        "url": "https://spacenews.com/solar-array-deal-sheds-more-light-on-south-koreas-defense-constellation/",
+        "source": "SpaceNews",
+        "published": "Wed, 18 Mar 2026 14:57:51 +0000",
+        "published_dt": "2026-03-18T14:57:51+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Taehun-Tim-Ahn-Founder-CEO-of-Flexell-left-Atle-Woello-CEO-of-Kongsberg-NanoAvionics-right.-Credits-Kongsberg-NanoAvionics.jpg?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>South Korea\u2019s plans for a national security constellation are coming into sharper focus after a March 18 solar array supply deal set the stage for a first demonstrator as early as the second half of 2027.</p>\n<p>The post <a href=\"https://spacenews.com/solar-array-deal-sheds-more-light-on-south-koreas-defense-constellation/\">Solar array deal sheds more light on South Korea\u2019s defense constellation</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
       {
         "id": "52374acfd71a0456",
         "title": "Frontier justice: navigating the future legal landscape for private actors in space law",
@@ -257,69 +428,6 @@
         "summary": "<figure><img alt=\"MAVEN\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"622\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/maven.jpeg?fit=1024%2C622&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA\u2019s planetary science program, while spared steep cuts proposed last year, is still facing a funding shortfall that requires \u201cstrategic choices\u201d about which missions to continue.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-grappling-with-planetary-science-funding-shortfall/\">NASA grappling with planetary science funding shortfall</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "2b4d6fae4e3c7724",
-        "title": "IWT expands use of Aras Innovator PLM platform",
-        "url": "https://www.engineering.com/iwt-expands-use-of-aras-innovator-plm-platform/",
-        "source": "Engineering.com",
-        "published": "Wed, 18 Mar 2026 11:03:45 +0000",
-        "published_dt": "2026-03-18T11:03:45+00:00",
-        "summary": "<p>The system now supports workflows, BOMs, spare parts and quoting, with 80% of employees using it for product data access.</p>\n<p>The post <a href=\"https://www.engineering.com/iwt-expands-use-of-aras-innovator-plm-platform/\">IWT expands use of Aras Innovator PLM platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "4357e619a950e204",
-        "title": "Stratasys TrueDent resins receive CE Class IIa marking",
-        "url": "https://www.engineering.com/stratasys-truedent-resins-receive-ce-class-iia-marking/",
-        "source": "Engineering.com",
-        "published": "Wed, 18 Mar 2026 11:02:18 +0000",
-        "published_dt": "2026-03-18T11:02:18+00:00",
-        "summary": "<p>Certification expands indications to long-term intraoral use, crowns and bridges while supporting digital denture workflows on J5 DentaJet.</p>\n<p>The post <a href=\"https://www.engineering.com/stratasys-truedent-resins-receive-ce-class-iia-marking/\">Stratasys TrueDent resins receive CE Class IIa marking</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "2f0fa8c9f4c53577",
-        "title": "HyperLight releases 400G-per-lane TFLN photonic ICs",
-        "url": "https://www.engineering.com/hyperlight-releases-400g-per-lane-tfln-photonic-ics/",
-        "source": "Engineering.com",
-        "published": "Wed, 18 Mar 2026 10:59:15 +0000",
-        "published_dt": "2026-03-18T10:59:15+00:00",
-        "summary": "<p>The PICs offer low insertion loss, low drive voltage and high electro-optic bandwidth for AI data center interconnects.</p>\n<p>The post <a href=\"https://www.engineering.com/hyperlight-releases-400g-per-lane-tfln-photonic-ics/\">HyperLight releases 400G-per-lane TFLN photonic ICs</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "39eb39309f0568d3",
-        "title": "Hitachi unveils 800 VDC architecture for AI data centers",
-        "url": "https://www.engineering.com/hitachi-unveils-800-vdc-architecture-for-ai-data-centers/",
-        "source": "Engineering.com",
-        "published": "Wed, 18 Mar 2026 10:57:54 +0000",
-        "published_dt": "2026-03-18T10:57:54+00:00",
-        "summary": "<p>The design integrates with NVIDIA Omniverse to model grid-to-rack power, support simulation and manage high-density AI workloads.</p>\n<p>The post <a href=\"https://www.engineering.com/hitachi-unveils-800-vdc-architecture-for-ai-data-centers/\">Hitachi unveils 800 VDC architecture for AI data centers</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "3aa6d3336835f45f",
-        "title": "New SEC filing offers fresh glimpse into Honeywell aerospace spinoff",
-        "url": "https://www.engineering.com/new-sec-filing-offers-fresh-glimpse-into-honeywell-aerospace-spinoff/",
-        "source": "Engineering.com",
-        "published": "Tue, 17 Mar 2026 19:35:52 +0000",
-        "published_dt": "2026-03-17T19:35:52+00:00",
-        "summary": "<p>Several recent regulatory filings show progress as industrial giant Honeywell continues it's efforts to seperate into three distinct companies.</p>\n<p>The post <a href=\"https://www.engineering.com/new-sec-filing-offers-fresh-glimpse-into-honeywell-aerospace-spinoff/\">New SEC filing offers fresh glimpse into Honeywell aerospace spinoff</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "27e6eee70cea9976",
-        "title": "ISPTech Raises \u20ac5.5M Seed Round to Redefine How Spacecraft Manoeuvre in Orbit",
-        "url": "https://spacenews.com/isptech-raises-e5-5m-seed-round-to-redefine-how-spacecraft-manoeuvre-in-orbit/",
-        "source": "SpaceNews",
-        "published": "Tue, 17 Mar 2026 17:05:18 +0000",
-        "published_dt": "2026-03-17T17:05:18+00:00",
-        "summary": "<figure><img alt=\"ISPTech logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"416\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/ISPTech_Black-1-1.png?fit=416%2C416&amp;ssl=1\" width=\"416\" /></figure>\n<p>Stuttgart, Germany &#8211; Marc. 17, 2026 &#8211; ISPTech, a German space technology company developing propulsion systems for agile in-orbit maneuvering, announced it has raised \u20ac5.5 million in seed funding to [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/isptech-raises-e5-5m-seed-round-to-redefine-how-spacecraft-manoeuvre-in-orbit/\">ISPTech Raises \u20ac5.5M Seed Round to Redefine How Spacecraft Manoeuvre in Orbit</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "83d2c7bcbc62c960",
-        "title": "PTC links Onshape with NVIDIA Isaac Sim for robotics",
-        "url": "https://www.engineering.com/ptc-links-onshape-with-nvidia-isaac-sim-for-robotics/",
-        "source": "Engineering.com",
-        "published": "Tue, 17 Mar 2026 14:33:32 +0000",
-        "published_dt": "2026-03-17T14:33:32+00:00",
-        "summary": "<p>Cloud-based workflow keeps CAD and simulation synchronized to reduce manual model prep and support robot training workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/ptc-links-onshape-with-nvidia-isaac-sim-for-robotics/\">PTC links Onshape with NVIDIA Isaac Sim for robotics</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
         "id": "8c8c44eee1652e2e",
         "title": "Space Force overhauls buying structure with new mission portfolios",
         "url": "https://spacenews.com/space-force-overhauls-buying-structure-with-new-mission-portfolios/",
@@ -345,117 +453,36 @@
         "published": "Tue, 17 Mar 2026 20:48:46 +0000",
         "published_dt": "2026-03-17T20:48:46+00:00",
         "summary": "<figure><img alt=\"The TraCSS logo. Credit: NOAA\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/cropped-TraCSS_16x9-1024x683-1.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The Trump administration has not yet decided whether to charge for space safety data despite a change in space policy enabling the government to do so.</p>\n<p>The post <a href=\"https://spacenews.com/office-of-space-commerce-weighing-options-for-tracss-user-fees/\">Office of Space Commerce weighing options for TraCSS user fees</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "ce670d45a94767b9",
-        "title": "Nvidia is absolutely everywhere in engineering software",
-        "url": "https://www.engineering.com/nvidia-is-absolutely-everywhere-in-engineering-software/",
-        "source": "Engineering.com",
-        "published": "Tue, 17 Mar 2026 20:00:13 +0000",
-        "published_dt": "2026-03-17T20:00:13+00:00",
-        "summary": "<p>Nvidia\u2019s GTC 2026 conference isn\u2019t just about AI. It\u2019s also about the engineering software friends they made along the way.</p>\n<p>The post <a href=\"https://www.engineering.com/nvidia-is-absolutely-everywhere-in-engineering-software/\">Nvidia is absolutely everywhere in engineering software</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "8c5bbb043587c2e4",
-        "title": "Space boom strains supply chain, industry report warns",
-        "url": "https://spacenews.com/space-boom-strains-supply-chain-industry-report-warns/",
-        "source": "SpaceNews",
-        "published": "Tue, 17 Mar 2026 19:08:32 +0000",
-        "published_dt": "2026-03-17T19:08:32+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/07/Solar-Array-Assembly-Amazon-Image-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The industry\u2019s supply network, built for smaller volumes and slower production cycles, is struggling to keep pace.</p>\n<p>The post <a href=\"https://spacenews.com/space-boom-strains-supply-chain-industry-report-warns/\">Space boom strains supply chain, industry report warns</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "41a7e5356c8c0c05",
-        "title": "Golden Dome cost estimate rises to $185 billion as Pentagon expands space layer",
-        "url": "https://spacenews.com/golden-dome-cost-estimate-rises-to-185-billion-as-pentagon-expands-space-layer/",
-        "source": "SpaceNews",
-        "published": "Tue, 17 Mar 2026 18:37:01 +0000",
-        "published_dt": "2026-03-17T18:37:01+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"560\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/GmVvfBTWEAAH71U-e1742329268424.jpeg?fit=1024%2C560&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Guetlein: \u2018We were asked to procure some additional space capabilities\u2019</p>\n<p>The post <a href=\"https://spacenews.com/golden-dome-cost-estimate-rises-to-185-billion-as-pentagon-expands-space-layer/\">Golden Dome cost estimate rises to $185 billion as Pentagon expands space layer</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "0118a926a84f84f7",
-        "title": "Flex adds modular reference designs for AI factories",
-        "url": "https://www.engineering.com/flex-adds-modular-reference-designs-for-ai-factories/",
-        "source": "Engineering.com",
-        "published": "Tue, 17 Mar 2026 15:47:11 +0000",
-        "published_dt": "2026-03-17T15:47:11+00:00",
-        "summary": "<p>New designs support 800 VDC migration, liquid cooling and faster deployment of high-density AI infrastructure systems.</p>\n<p>The post <a href=\"https://www.engineering.com/flex-adds-modular-reference-designs-for-ai-factories/\">Flex adds modular reference designs for AI factories</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "03a3181edc552904",
-        "title": "Vectorworks 2026 Update 4 adds phasing and carbon tools",
-        "url": "https://www.engineering.com/vectorworks-2026-update-4-adds-phasing-and-carbon-tools/",
-        "source": "Engineering.com",
-        "published": "Tue, 17 Mar 2026 15:43:13 +0000",
-        "published_dt": "2026-03-17T15:43:13+00:00",
-        "summary": "<p>Update includes live Redshift rendering, demolition workflows and discipline-specific changes for AEC, landscape and entertainment.</p>\n<p>The post <a href=\"https://www.engineering.com/vectorworks-2026-update-4-adds-phasing-and-carbon-tools/\">Vectorworks 2026 Update 4 adds phasing and carbon tools</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "5de1062b04a9398e",
-        "title": "Hexagon updates Geomagic Freeform for organic design",
-        "url": "https://www.engineering.com/hexagon-updates-geomagic-freeform-for-organic-design/",
-        "source": "Engineering.com",
-        "published": "Tue, 17 Mar 2026 15:02:08 +0000",
-        "published_dt": "2026-03-17T15:02:08+00:00",
-        "summary": "<p>Release adds Python scripting, RTSTRUCT support and new haptic device options for healthcare, toy and mold design workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/hexagon-updates-geomagic-freeform-for-organic-design/\">Hexagon updates Geomagic Freeform for organic design</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "e8b3c7a9facc3c60",
-        "title": "Canadian military invests in sovereign launch",
-        "url": "https://spacenews.com/canadian-military-invests-in-sovereign-launch/",
-        "source": "SpaceNews",
-        "published": "Tue, 17 Mar 2026 11:44:29 +0000",
-        "published_dt": "2026-03-17T11:44:29+00:00",
-        "summary": "<figure><img alt=\"Spaceport Nova Scotia\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"486\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2023/01/Spaceport-Nova-Scotias-Launch-Control-Centre.png?fit=864%2C486&amp;ssl=1\" width=\"864\" /></figure>\n<p>The Canadian military announced March 16 a major investment in both launch facilities and companies in a bid to create a sovereign space access capability.</p>\n<p>The post <a href=\"https://spacenews.com/canadian-military-invests-in-sovereign-launch/\">Canadian military invests in sovereign launch</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "21d1d4416ab9e3b9",
-        "title": "An astronaut\u2019s tiny stand-in: tissue chips in space health",
-        "url": "https://spacenews.com/an-astronauts-tiny-stand-in-tissue-chips-in-space-health/",
-        "source": "SpaceNews",
-        "published": "Tue, 17 Mar 2026 11:00:00 +0000",
-        "published_dt": "2026-03-17T11:00:00+00:00",
-        "summary": "<figure><img alt=\"NASA astronaut Jessica Meir conducts cardiac research using tissue chip platforms in the Life Sciences Glovebox aboard space station in March of 2022. Credit: NASA\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/nasa-astronaut-jessica-meir-conducts-cardiac-research-49757396171-o.webp?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Before you ever set foot on a spacecraft bound for deep space, tiny replicas of your organs might make the journey first. Suspended in microgravity aboard a research mission, this organ-on-a-chip, or tissue chip, engineered from your own cells, could reveal how your body will respond to cosmic radiation and the weightlessness of space. As [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/an-astronauts-tiny-stand-in-tissue-chips-in-space-health/\">An astronaut\u2019s tiny stand-in: tissue chips in space health</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "6730c4e03d90c320",
-        "title": "Innospace completes investigation into Hanbit-Nano launch failure",
-        "url": "https://spacenews.com/innospace-completes-investigation-into-hanbit-nano-launch-failure/",
-        "source": "SpaceNews",
-        "published": "Tue, 17 Mar 2026 10:29:51 +0000",
-        "published_dt": "2026-03-17T10:29:51+00:00",
-        "summary": "<figure><img alt=\"Hanbit-Nano on pad\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"575\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/hanbitnano-onpad.jpeg?fit=1024%2C575&amp;ssl=1\" width=\"1024\" /></figure>\n<p>South Korean startup Innospace says its inaugural launch failed in December when exhaust leaked from a combustion chamber and caused the rocket to break up.</p>\n<p>The post <a href=\"https://spacenews.com/innospace-completes-investigation-into-hanbit-nano-launch-failure/\">Innospace completes investigation into Hanbit-Nano launch failure</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "0fa86bae2edbb87f",
-        "title": "Nvidia unveils AI computing module for space-based data centers",
-        "url": "https://spacenews.com/nvidia-unveils-ai-computing-module-for-space-based-data-centers/",
-        "source": "SpaceNews",
-        "published": "Mon, 16 Mar 2026 22:17:41 +0000",
-        "published_dt": "2026-03-16T22:17:41+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/space-computing.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Chipmaker says new system is designed for satellites and other power-constrained missions</p>\n<p>The post <a href=\"https://spacenews.com/nvidia-unveils-ai-computing-module-for-space-based-data-centers/\">Nvidia unveils AI computing module for space-based data centers</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "0756fb37968163a8",
-        "title": "Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis",
-        "url": "https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/",
-        "source": "SpaceNews",
-        "published": "Mon, 16 Mar 2026 21:47:33 +0000",
-        "published_dt": "2026-03-16T21:47:33+00:00",
-        "summary": "<figure><img alt=\"Satellite image of the Strait of Hormuz. Credit: Kuva Space\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"896\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Strait-of-Hormuz-Kuva-Space-HF-1.png?fit=882%2C896&amp;ssl=1\" width=\"882\" /></figure>\n<p>Tensions around the Strait of Hormuz have pushed interest in commercial geospatial intelligence services to unprecedented levels, an executive at Kayrros said after the satellite analytics provider agreed to be acquired by Energy Aspects.</p>\n<p>The post <a href=\"https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/\">Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "d29fce3d8a240bd6",
-        "title": "Melagen Labs and Satlyt Announce Joint ISS Mission to Demonstrate Radiation-Resilient In-Orbit Computing and Next-Gen Shielding",
-        "url": "https://spacenews.com/melagen-labs-and-satlyt-announce-joint-iss-mission-to-demonstrate-radiation-resilient-in-orbit-computing-and-next-gen-shielding/",
-        "source": "SpaceNews",
-        "published": "Mon, 16 Mar 2026 16:00:00 +0000",
-        "published_dt": "2026-03-16T16:00:00+00:00",
-        "summary": "<figure><img alt=\"melagen labs logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/ml-logo-square.png?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NEW YORK, March 2026 \u2014 Melagen Labs and Satlyt today announced a joint technology demonstration aboard the International Space Station (ISS) through the AEGIS MISSE platform. The mission will generate [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/melagen-labs-and-satlyt-announce-joint-iss-mission-to-demonstrate-radiation-resilient-in-orbit-computing-and-next-gen-shielding/\">Melagen Labs and Satlyt Announce Joint ISS Mission to Demonstrate Radiation-Resilient In-Orbit Computing and Next-Gen Shielding</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
+      {
+        "id": "07bba34f41b3a9f7",
+        "title": "America may be a petrostate. But the energy shock still hurts",
+        "url": "https://www.economist.com/finance-and-economics/2026/03/19/america-may-be-a-petrostate-but-the-energy-shock-still-hurts",
+        "source": "Finance & economics",
+        "published": "Thu, 19 Mar 2026 11:21:03 +0000",
+        "published_dt": "2026-03-19T11:21:03+00:00",
+        "summary": "And further angers economically frustrated citizens"
+      },
+      {
+        "id": "666088f4b31d2324",
+        "title": "Which country is the biggest loser from the energy shock?",
+        "url": "https://www.economist.com/finance-and-economics/2026/03/19/which-country-is-the-biggest-loser-from-the-energy-shock",
+        "source": "Finance & economics",
+        "published": "Thu, 19 Mar 2026 11:18:58 +0000",
+        "published_dt": "2026-03-19T11:18:58+00:00",
+        "summary": "We rank the poor world\u2019s exposure and buffers"
+      },
+      {
+        "id": "5103398173504474",
+        "title": "The new economics of sex work",
+        "url": "https://www.economist.com/finance-and-economics/2026/03/19/the-new-economics-of-sex-work",
+        "source": "Finance & economics",
+        "published": "Thu, 19 Mar 2026 11:16:43 +0000",
+        "published_dt": "2026-03-19T11:16:43+00:00",
+        "summary": "As the sex economy grows, it deserves serious analysis"
+      },
       {
         "id": "5097101e94ba401d",
         "title": "The AI productivity boom is not here (yet)",
@@ -653,44 +680,53 @@
         "published": "Tue, 27 Jan 2026 20:23:51 +0000",
         "published_dt": "2026-01-27T20:23:51+00:00",
         "summary": "And sinking its oil revenues in the process"
-      },
-      {
-        "id": "eb0aea4d3be77287",
-        "title": "Why AI won\u2019t wipe out white-collar jobs",
-        "url": "https://www.economist.com/finance-and-economics/2026/01/26/why-ai-wont-wipe-out-white-collar-jobs",
-        "source": "Finance & economics",
-        "published": "Mon, 26 Jan 2026 20:16:25 +0000",
-        "published_dt": "2026-01-26T20:16:25+00:00",
-        "summary": "The technology will expand their scope and raise their value"
-      },
-      {
-        "id": "b24fa6072172a64d",
-        "title": "China hits its GDP target\u2014in a weird way",
-        "url": "https://www.economist.com/finance-and-economics/2026/01/19/china-hits-its-gdp-target-in-a-weird-way",
-        "source": "Finance & economics",
-        "published": "Mon, 19 Jan 2026 15:02:41 +0000",
-        "published_dt": "2026-01-19T15:02:41+00:00",
-        "summary": "Strong exports make up for weak investment"
-      },
-      {
-        "id": "3349c373fe568dff",
-        "title": "Donald Trump\u2019s crusade against usury reaches Wall Street",
-        "url": "https://www.economist.com/finance-and-economics/2026/01/14/donald-trumps-crusade-against-usury-reaches-wall-street",
-        "source": "Finance & economics",
-        "published": "Wed, 14 Jan 2026 22:09:39 +0000",
-        "published_dt": "2026-01-14T22:09:39+00:00",
-        "summary": "His fight against high interest rates could get messy"
       }
     ],
     "Cross-Disciplinary": [
       {
-        "id": "c4b8f49255f5b563",
-        "title": "The Download: The Pentagon\u2019s new AI plans, and next-gen nuclear reactors",
-        "url": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/",
+        "id": "15264efdf6935b25",
+        "title": "The Download: Quantum computing for health, and why the world doesn\u2019t recycle more nuclear waste",
+        "url": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
         "source": "MIT Technology Review",
-        "published": "Wed, 18 Mar 2026 12:38:00 +0000",
-        "published_dt": "2026-03-18T12:38:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon is planning for AI companies to train on classified data,&#160;defense&#160;official says&#160; The Pentagon plans to set up secure environments for generative AI companies to train military-specific versions of their&#8230;"
+        "published": "Thu, 19 Mar 2026 12:17:02 +0000",
+        "published_dt": "2026-03-19T12:17:02+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems&#160; In a laboratory on the outskirts of Oxford, a quantum computer built from atoms and light awaits&#8230;"
+      },
+      {
+        "id": "c8a7881f4b484c5d",
+        "title": "How Your Virtual Twin Could One Day Save Your Life",
+        "url": "https://spectrum.ieee.org/living-heart-project-virtual-twins",
+        "source": "IEEE Spectrum",
+        "published": "Thu, 19 Mar 2026 12:00:05 +0000",
+        "published_dt": "2026-03-19T12:00:05+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/two-color-coded-computer-simulations-of-a-human-heart-the-simulation-on-the-left-shows-the-muscle-structure-and-the-simulation.png?id=65278129&amp;width=1245&amp;height=700&amp;coordinates=0%2C186%2C0%2C186\" /><br /><br /><p><strong>One morning in May </strong>2019, a cardiac surgeon stepped into the operating room at Boston Children\u2019s Hospital more prepared than ever before to perform a high-risk procedure to rebuild a child\u2019s heart. The surgeon was experienced, but he had an additional advantage: He had already performed the procedure on this child dozens of times\u2014virtually. He knew exactly what to do before the first cut was made. Even more important, he knew which strategies would provide the best possible outcome for the child whose life was in his hands.</p><p>How was this possible? Over the prior weeks, the hospital\u2019s surgical and cardio-engineering teams had come together to build a fully functioning model of the child\u2019s heart and surrounding vascular system from MRI and CT scans. They began by carefully converting the medical imaging into a 3D model, then used physics to bring the 3D heart to life, creating a dynamic <a href=\"https://spectrum.ieee.org/virtual-hearts-improve-cardiac-surgery\" target=\"_self\">digital replica</a> of the patient\u2019s physiology. The mock-up reproduced this particular heart\u2019s unique behavior, including details of blood flow, pressure differentials, and muscle-tissue stresses.</p><p>This type of model, known as a virtual twin, can do more than identify medical problems\u2014it can provide detailed diagnostic insights. In Boston, the team used the model to predict how the child\u2019s heart would respond to any cut or stitch, allowing the surgeon to test many strategies to find the best one for this patient\u2019s exact anatomy.</p><p>That day, the stakes were high. With the patient\u2019s unique condition\u2014a heart defect in which large holes between the atria and ventricles were causing blood to flow between all four chambers\u2014there was no manual or textbook to fully guide the doctors. The condition strains the lungs, so the doctors planned an open-heart surgery to reroute deoxygenated blood from the lower body directly to the lungs, bypassing the heart. Typically with this kind of surgery, decisions would be made on the fly, under demanding conditions, and with high uncertainty. But in this case, the plan had been tested in advance, and the entire team had rehearsed it before the first incision. The surgery was a complete success.</p><p>Such procedures have become routine at the Boston hospital. Since that first patient, nearly 2,000 procedures have been guided by virtual-twin modeling. This is the power of the technology behind the <a href=\"https://www.3ds.com/3dexperiencelab/portfolio/living-heart\" rel=\"noopener noreferrer\" target=\"_blank\">Living Heart Project</a>, which I launched in 2014, five years before that first procedure. The project started as an exploratory initiative to see if modeling the human heart was possible. Now with more than 150 member organizations across 28 countries, the project includes dozens of multidisciplinary teams that regularly use multiscale virtual twins of the heart and other vital organs.</p><p>This technology is reshaping how we understand and treat the human body. To reach this transformative moment, we had to solve a fundamental challenge: building a digital heart accurate enough\u2014and trustworthy enough\u2014to guide real clinical decisions.</p><h2>A father\u2019s concern</h2><p>Now entering its second decade, the Living Heart Project was born in part from a personal conviction. For many years, I had watched helplessly as my daughter Jesse faced endless diagnostic uncertainty due to a <a href=\"https://doi.org/10.1016/B978-1-4557-0599-3.00039-9\" rel=\"noopener noreferrer\" target=\"_blank\">rare congenital heart condition</a> in which the position of the ventricles is reversed, threatening her life as she grew. As an engineer, I understood that the heart was an array of pumping chambers, controlled by an electrical signal and its blood flow carefully regulated by valves. Yet I struggled to grasp the unique structure and behavior of my daughter\u2019s heart well enough to contribute meaningfully to her care. Her specialists knew the bleak forecast children like her faced if left untreated, but because every heart with her condition is anatomically unique, they had little more than their best guesses to guide their decisions about what to do and when to do it. With each specialist, a new guess.</p><p>Then my engineering curiosity sparked a question that has guided my career ever since: Why can\u2019t we simulate the human body the way we <a href=\"https://spectrum.ieee.org/selfdriving-cars-learn-about-road-hazards-through-augmented-reality\" target=\"_self\">simulate a car</a> or a plane?</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"woman facing away and looking at a wall where the simulated interior of a heart is projected\" class=\"rm-shortcode\" id=\"09f25\" src=\"https://spectrum.ieee.org/media-library/woman-facing-away-and-looking-at-a-wall-where-the-simulated-interior-of-a-heart-is-projected.png?id=65301974&amp;width=980\" /> <small class=\"image-media media-caption\">At a visualization center in Boston, VR imagery helps the mother of a young girl with a complex heart defect understand the inner workings of her child\u2019s heart. </small><small class=\"image-media media-photo-credit\">Dassault Syst\u00e8mes</small></p><p>I had spent my career developing powerful computational tools to help engineers build digital models of complex mechanical systems, using models that ranged from the interactions of individual atoms to the components of entire vehicles. What most of these models had in common was the use of physics to predict behavior and optimize performance. But in medicine today, those same physics-based approaches rarely inform decision-making. In most clinical settings, treatment decisions still hinge on judgments drawn from static 2D images, statistical guidelines, and retrospective studies.</p><p>This was not always the case. Historically, physics was central to medicine. The word \u201cphysician\u201d itself traces back to the Latin <em><em>physica</em></em>, which translates to \u201cnatural science.\u201d Early doctors were, in a sense, applied physicists. They understood the heart as a pump, the lungs as bellows, and the body as a dynamic system. To be a physician meant you were a master of physics as it applied to the human body.</p><p>As medicine matured, biology and chemistry grew to dominate the field, and the knowledge of physics got left behind. But for patients like my daughter, that child in Boston, and millions like them, outcomes are governed by mechanics. No pill or ointment\u2014no chemistry-based solution\u2014would help, only physics. While I did not realize it at the time, virtual twins can reunite modern physicians with their roots, using engineering principles, simulation science, and artificial intelligence.</p><h2>A decade of progress</h2><p>The LHP concept was simple: Could we combine what hundreds of experts across many specialties knew about the human heart to build a digital twin accurate enough to be trusted, flexible enough to personalize, and predictive enough to guide clinical care?</p><p>We invited researchers, clinicians, device and drug companies, and government regulators to share their data, tools, and knowledge toward a common goal that would lift the entire field of medicine. The Living Heart Project launched with a dozen or so institutions on board. Within a year, we had created the first fully functional virtual twin of the human heart.</p><p>The Living Heart was not an anatomical rendering, tuned to simply replicate what we observed. It was a first-principles model, coupling the network of fibers in the <a href=\"https://spectrum.ieee.org/medtronics-cardioinsight-electrode-vest-maps-hearts-electrical-system\" target=\"_self\">heart\u2019s electrical system</a>, the biological battery that keeps us alive, with the heart\u2019s mechanical response, the muscle contractions that we know as the heartbeat.</p><p class=\"shortcode-media shortcode-media-youtube\"> <span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span> <small class=\"image-media media-caption\">The Living Heart virtual twin simulates how the heart beats, offering different views to help scientists and doctors better predict how it will respond to disease or treatment. The center view shows the fine engineering mesh, the detailed framework that allows computers to model the heart\u2019s motion. The image on the right uses colors to show the electrical wave that drives the heartbeat as it conducts through the muscle, and the image on the left shows how much strain is on the tissue as it stretches and squeezes. </small> <small class=\"image-media media-photo-credit\">Dassault Syst\u00e8mes</small> </p><p>Academic researchers had long explored computational models of the heart, but those projects were typically limited by the technology they had access to. Our version was built on industrial-grade simulation software from <a href=\"https://www.3ds.com/\" target=\"_blank\">Dassault Syst\u00e8mes</a>, a company best known for modeling tools used in aerospace and automotive engineering, where I was working to develop the engineering simulation division. This platform gave teams the tools to personalize an individual heart model using the patient\u2019s MRI and CT data, blood-pressure readings, and echocardiogram measurements, directly linking scans to simulations.</p><p>Surgeons then began using the Living Heart to model procedures. Device makers used it to design and test implants. Pharmaceutical companies used it to evaluate drug effects such as toxicity. Hundreds of publications have emerged from the project, and because they all share the same foundation, the findings can be reproduced, reused, and built upon. With each application, the research community\u2019s understanding of the heart snowballed.</p><p>Early on, we also addressed an essential requirement for these innovations to make it to patients: regulatory acceptance. Within the project\u2019s first year, the U.S Food and Drug Administration <a href=\"https://www.3ds.com/newsroom/press-releases/dassault-systemes-signs-research-agreement-food-and-drug-administration-its-living-heart-project\" target=\"_blank\">agreed to join the project</a> as an observer. Over the next several years, methods for using virtual-heart models as scientific evidence began to take shape within regulatory research programs. In 2019, we formalized a second five-year collaboration with the FDA\u2019s Center for Devices and Radiological Health with a specific goal.</p><p>That goal was to use the heart model to create a virtual patient population and re-create a pivotal trial of a previously approved device for repairing the heart\u2019s mitral valve. This helped our team learn how to create such a population, and let the FDA experiment with evaluating virtual evidence as a replacement for evidence from flesh-and-blood patients. In August 2024, we <a href=\"https://pubmed.ncbi.nlm.nih.gov/39188879/\" target=\"_blank\">published the results</a>, creating the first FDA-led guidelines for in silico clinical trials and establishing a new paradigm for streamlining and reducing risk in the entire clinical-trial process.</p><p>In 10 years, we went from a concept that many people doubted could be achieved to regulatory reality. But building the heart was only the beginning. Following the template set by the heart team, we\u2019ve expanded the project to develop virtual twins of other organs, including the lungs, liver, brain, eyes, and gut. Each corresponds to a different medical domain, which has its own community, data types, and clinical use cases. Working independently, these teams are progressing toward a breakthrough in our understanding of the human body: a multiscale, modular twin platform where each organ twin could plug into a unified virtual human.</p><h2>How a digital twin of the heart is constructed</h2><p>A cardiac digital twin starts with medical imaging, typically MRI, CT, or both. The slices are reconstructed into the 3D geometry of the heart and connected vessels. The geometry of the whole organ must then be segmented into its constituent parts, so each substructure\u2014atria, ventricles, valves, and so on\u2014can be assigned their unique properties.</p><p>At this point, the object is converted to a functional, computational model that can represent how the various cardiac tissues deform under load\u2014the mechanics. The complete digital twin model becomes \u201cliving\u201d when we integrate the electrical fiber network that drives mechanical contractions in the muscle tissue.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"two computer simulations of a heart. The simulation on left shows the left ventricle with a triangular grid across the 3D surface. The simulation on right shows the exterior of a heart including vasculature and fat. \" class=\"rm-shortcode\" id=\"deda7\" src=\"https://spectrum.ieee.org/media-library/two-computer-simulations-of-a-heart-the-simulation-on-left-shows-the-left-ventricle-with-a-triangular-grid-across-the-3d-surfac.png?id=65301904&amp;width=980\" /> <small class=\"image-media media-caption\">Each part of the heart, such as the left ventricle [left], is superimposed with a detailed digital mesh to re-create its physiology. These pieces come together to form an anatomically accurate rendering of the whole organ [right].</small><small class=\"image-media media-photo-credit\">Dassault Syst\u00e8mes</small></p><p>To simulate circulation, the twin adds computational models of hemodynamics, the physics of blood flow and pressure. The model is constrained by boundary conditions of blood flow, valve behavior, and vascular resistance set to closely match human physiology. This lets the model predict blood flow patterns, pressure differentials, and tissue stresses.</p><p>Finally, the model is personalized and calibrated using available patient data, such as how much the volume of the heart chambers changes during the cardiac cycle, pressure measurements, and the timing of electrical pulses. This means the twin reflects not only the patient\u2019s anatomy but how their specific heart functions.</p><h2>Building bigger cohorts with generative AI</h2><p>When the <a href=\"https://discover.3ds.com/fda-enrichment-clinical-trial\" target=\"_blank\">FDA in silico clinical trial initiative</a> launched in 2019, the project\u2019s focus shifted from these handcrafted virtual twins of specific patients to cohorts large enough to stand in for entire trial populations. That scale is feasible today only because virtual twins have converged with generative AI. Modeling thousands of patients\u2019 responses to a treatment or projecting years of disease progression is prohibitively slow with conventional digital-twin simulations. Generative AI removes that bottleneck.</p><p>AI boosts the capability of virtual twins in two complementary ways. First, machine learning algorithms are unrivaled at integrating the patchwork of imaging, sensor, and clinical records needed to build a high-fidelity twin. The algorithms rapidly search thousands of model permutations, benchmark each against patient data, and converge on the most accurate representation. Workflows that once required months of manual tuning can now be completed in days, making it realistic to spin up population-scale cohorts or to personalize a single twin on the fly in the clinic.</p><p>Second, enriching AI models\u2019 training sets with data from validated virtual patients grounds the AI simulations in physics. By contrast, many conventional AI predictions for patient trajectories rely on statistical modeling trained on retrospective datasets. Such models can drift beyond physiological reality, but virtual twins anchor predictions in the laws of hemodynamics, electrophysiology, and tissue mechanics. This added rigor is indispensable for both research and clinical care\u2014especially in areas where real-world data are scarce, whether because a disease is rare or because certain patient populations, such as children, are underrepresented in existing datasets.</p><h2>Enabling in silico clinical trials</h2><p>On the research side, the FDA-sponsored In Silico Clinical Trial Project that we completed in 2024 opened a new world for medical innovations. A conventional clinical trial may take a decade, and 90 percent of new drug treatments fail in the process. Virtual twins, combined with AI methods, allow researchers to design and test treatments quickly in a simulated human environment. With a small library of virtual twins, AI models can rapidly create expansive virtual patient cohorts to cover any subset of the general population. As clinical data becomes available, it can be added into the training set to increase reliability and enable better predictions.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"3D simulations of the brain, foot, and lungs. A quadrant of the brain is cut out, showing a dense network of connections between color-coded sections of the brain. The foot shows a gray outline of bones and points of soft tissue strain in red at the ankle and heel. In the lung model, the trachea is colored green flowing into blue bronchi. \" class=\"rm-shortcode\" id=\"90af6\" src=\"https://spectrum.ieee.org/media-library/3d-simulations-of-the-brain-foot-and-lungs-a-quadrant-of-the-brain-is-cut-out-showing-a-dense-network-of-connections-between.png?id=65302220&amp;width=980\" /> <small class=\"image-media media-caption\">The Living Heart Project has expanded beyond the heart, modeling organs throughout the body. The 3D brain reconstruction [top] shows major pathways in the brain\u2019s white matter connecting color-coded regions of the brain. The lung virtual twin [middle] combines the organ\u2019s geometry with a physics-based simulation of air flowing down the trachea and into the bronchi. And the cross section of a patient\u2019s foot [bottom] shows points of strain in the soft tissue when bearing weight. </small><small class=\"image-media media-photo-credit\">Dassault Syst\u00e8mes</small></p><p>Virtual twin cohorts can represent a realistic population by building individual \u201cvirtual patients\u201d that vary by age, gender, race, weight, disease state, comorbidities, and lifestyle factors. These twins can be used as a rich training set for the AI model, which can expand the cohort from dozens to hundreds of thousands. Next the virtual cohort can be filtered to identify patients likely to respond to a treatment, increasing the chances of a successful trial for the target population.</p><p>The trial design can also include a sampling of patient types less likely to respond or with elevated risk factors, thus allowing regulators and clinicians to understand the risks to the broader population without jeopardizing overall trial success. This methodology enhances precision and efficiency in clinical research, providing population-level insights previously available only after many years of real-world evidence.</p><p>Of course, though today\u2019s heart digital twins are powerful, they\u2019re not perfect replicas. Their accuracy is bounded by three main factors: what we can measure (for example, image resolution or the uncertainty of how tissue behaves in real life), what we must assume about the physiology, and what we can validate against real outcomes. Many inputs, like scarring, microvascular function, or drug effects are difficult to capture clinically, so models often rely on population data or indirect estimation. That means predictions can be highly reliable for certain questions but remain less certain for others. Additionally, today\u2019s digital twins lack validation for predicting long-term outcomes years in the future, because the technology has been in use for only a few years.</p><p>Over time, each of these limitations will steadily shrink. Richer, more standardized data will tighten personalization of the models. AI tools will help automate labor-intensive steps. And the collection of longitudinal data will improve the model\u2019s ability to reliably predict how the body will evolve over time.</p><h2>How virtual twins will change health care</h2><p>Throughout modern medicine, new technologies have sharpened our ability to <a href=\"https://spectrum.ieee.org/ai-doctor\" target=\"_self\">diagnose</a>, providing ever-clearer images, lab data, and analytics that tell physicians what is presently happening inside a patient\u2019s body. Virtual twins shift that paradigm, giving clinicians a predictive tool.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" rel=\"float: left;\" style=\"float: left;\"> <img alt=\"gif of a lung simulation. The lungs are blue when deflated then grow and become green with points of red. \" class=\"rm-shortcode\" id=\"499fe\" src=\"https://spectrum.ieee.org/media-library/gif-of-a-lung-simulation-the-lungs-are-blue-when-deflated-then-grow-and-become-green-with-points-of-red.gif?id=65302107&amp;width=980\" /> <small class=\"image-media media-caption\">This \u201cLiving Lung\u201d virtual-twin simulation shows strain patterns during breathing. </small> <small class=\"image-media media-photo-credit\">            Mona Eskandari/UC Riverside        </small> </p><p>Early demonstrations are already appearing in many areas of medicine, including cardiology, orthopedics, and oncology. Soon, doctors will also be able to collaborate across specialties, using a patient-specific virtual twin as the common ground for discussing potential interactions or side effects they couldn\u2019t predict independently.</p><p>Although these applications will take some time to become the standard in clinical care, more changes are on the horizon. Real-time <a href=\"https://spectrum.ieee.org/wearable-health-data-standards\" target=\"_self\">data from wearables</a>, for example, could continuously update a patient\u2019s personalized virtual twin. This approach could empower patients to understand and engage more deeply in their care, as they could see the direct effects of medical and lifestyle changes. In parallel, their doctors could get comprehensive data feeds, using virtual twins to monitor progress.</p><p><span>Imagine a digital companion that shows how your particular heart will react to different amounts of salt intake, stress, or sleep deprivation. Or a visual explanation of how your upcoming surgery will affect your circulation or breathing. Virtual twins could demystify the body for patients, fostering trust and encouraging proactive health decisions.</span></p><h3>How are virtual twins being used in medicine?</h3><br /><ul><li>Virtual twins have guided <strong>cardiovascular surgeries</strong>, providing predictions and exposing hidden details that even expert clinicians might miss, such as subtle tissue responses and flow dynamics.<br /></li><li><strong>Oncologists</strong> are modeling tumor growth and the body\u2019s response to different therapies, reducing the uncertainty in choosing the best treatment path for both medical and quality-of-life metrics.<br /></li><li><strong>Orthopedic</strong> specialists are personalizing implants to deliver custom-made solutions, considering not only the local environment but also the overall body kinematics that will govern long-term outcomes.</li></ul><h2>A new era of healing</h2><p>With the Living Heart Project, we\u2019re bringing physics back to physicians. Modern physicians won\u2019t need to be physicists, any more than they need to be chemists to use pharmacology. However, to benefit from the new technology, they will need to adapt their approach to care.</p><p>This means no longer seeing the body as a collection of discrete organs and considering only symptoms, but instead viewing it as a dynamic system that can be understood, and in most cases, guided toward health. It means no longer guessing what might work but knowing\u2014because the simulation has already shown the result. By better integrating engineering principles into medicine, we can redefine it as a field of precision, rooted in the unchanging laws of nature. The modern physician will be a true physicist of the body and an engineer of health. <span class=\"ieee-end-mark\"></span></p>"
+      },
+      {
+        "id": "b716b2d24d651c62",
+        "title": "A $5 million prize awaits proof that quantum computers can solve health care problems",
+        "url": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 19 Mar 2026 10:51:43 +0000",
+        "published_dt": "2026-03-19T10:51:43+00:00",
+        "summary": "I\u2019m standing in front of a quantum computer built out of atoms and light at the UK\u2019s National Quantum Computing Centre on the outskirts of Oxford. On a laboratory table, a complex matrix of mirrors and lenses surrounds a Rubik\u2019s Cube\u2013size cell where 100 cesium atoms are suspended in grid formation by a carefully manipulated&#8230;"
+      },
+      {
+        "id": "230db57e8be050ce",
+        "title": "Overcoming Core Engineering Barriers in Humanoid Robotics Development",
+        "url": "https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/",
+        "source": "IEEE Spectrum",
+        "published": "Thu, 19 Mar 2026 10:00:05 +0000",
+        "published_dt": "2026-03-19T10:00:05+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/logo-of-murata-in-red-with-text-innovator-in-electronics-below.png?id=65106483&amp;width=980\" /><br /><br /><p><span>A technical examination of the sensing, motion control, power, and thermal challenges facing humanoid robotics engineers \u2014 with component-level design strategies for real-world deployment.</span></p><p><span>What Attendees will Learn</span></p><ol><li><span>Why motion control remains the hardest unsolved problem \u2014 Explore the modelling complexity, real-time feedback requirements, and sensor fusion demands of maintaining stable bipedal locomotion across dynamic environments.</span></li><li><span>How sensing architectures enable perception and safety \u2014 Understand the role of inertial measurement units, force/torque feedback, and tactile sensing in achieving reliable human-robot interaction and collision avoidance.</span></li><li><span>What power and thermal constraints mean for system design \u2014 Examine the trade-offs in battery chemistry selection (LFP vs. NCA), DC/DC converter topologies, and thermal protection strategies that determine operational endurance.</span></li><li><span>How the industry is transitioning from prototype to mass production \u2014 Learn about the shift toward modular architectures, cost-driven component selection, and supply chain readiness projected for the late 2020s.</span></li></ol><p><a href=\"https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/\" target=\"_blank\">Download this free whitepaper now!</a></p>"
+      },
+      {
+        "id": "bc56541082b4497d",
+        "title": "Why the world doesn\u2019t recycle more nuclear waste",
+        "url": "https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 19 Mar 2026 10:00:00 +0000",
+        "published_dt": "2026-03-19T10:00:00+00:00",
+        "summary": "The prospect of making trash useful is always fascinating to me. Whether it\u2019s used batteries, solar panels, or spent nuclear fuel, getting use out of something destined for disposal sounds like a win all around. In nuclear energy, figuring out what to do with waste has always been a challenge, since the material needs to&#8230;"
       },
       {
         "id": "06b5614a38bae8db",
@@ -702,13 +738,13 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-white-man-in-his-40s-speaking-into-a-microphone-he-is-wearing-glasses-a-suit-jacket-and-tie.jpg?id=65162768&amp;width=1245&amp;height=700&amp;coordinates=0%2C469%2C0%2C469\" /><br /><br /><p>A <a href=\"https://www.nytimes.com/2026/02/23/us/politics/pentagon-anthropic-ai.html\" rel=\"noopener noreferrer\" target=\"_blank\">simmering dispute</a> between the United States Department of Defense (DOD) and Anthropic has now escalated into a <a href=\"https://www.techpolicy.press/a-timeline-of-the-anthropic-pentagon-dispute/\" rel=\"noopener noreferrer\" target=\"_blank\">full-blown confrontation</a>, raising an uncomfortable but important question: who gets to set the guardrails for military use of artificial intelligence \u2014 the executive branch, private companies or Congress and the broader democratic process?</p><p>The conflict began when Defense Secretary Pete Hegseth reportedly gave Anthropic CEO Dario Amodei a deadline to allow the DOD <a href=\"https://www.politico.com/news/2026/02/24/hegseth-sets-friday-deadline-for-anthropic-to-drop-its-ai-red-lines-00795641\" rel=\"noopener noreferrer\" target=\"_blank\">unrestricted use</a> of its AI systems. When the company refused, the administration moved to designate Anthropic a <a href=\"https://x.com/SecWar/status/2027507717469049070\" rel=\"noopener noreferrer\" target=\"_blank\">supply chain risk</a> and ordered federal agencies to phase out its technology, dramatically escalating the standoff.</p><p>Anthropic has refused to cross <a href=\"https://www.anthropic.com/news/statement-department-of-war\" rel=\"noopener noreferrer\" target=\"_blank\">two lines</a>: allowing its models to be used for domestic surveillance of United States citizens and enabling fully autonomous military targeting. Hegseth has objected to what he has described as \u201c<a href=\"https://www.war.gov/News/Transcripts/Transcript/Article/4377190/remarks-by-secretary-of-war-pete-hegseth-at-spacex/\" rel=\"noopener noreferrer\" target=\"_blank\">ideological constraints</a>\u201d embedded in commercial AI systems, arguing that determining lawful military use should be the government\u2019s responsibility \u2014 not the vendor\u2019s. As he put it in a <a href=\"https://www.war.gov/News/Transcripts/Transcript/Article/4377190/remarks-by-secretary-of-war-pete-hegseth-at-spacex/\" rel=\"noopener noreferrer\" target=\"_blank\">speech at Elon Musk\u2019s SpaceX</a> last month, \u201cWe will not employ AI models that won\u2019t allow you to fight wars.\u201d</p><p>Stripped of rhetoric, this dispute resembles something relatively straightforward: a procurement disagreement.</p><h2>Procurement policies</h2><p>In a market economy, the U.S. military decides what products and services it wants to buy. Companies decide what they are willing to sell and under what conditions. Neither side is inherently right or wrong for taking a position. If a product does not meet operational needs, the government can purchase from another vendor. If a company believes certain uses of its technology are unsafe, premature or inconsistent with its values or risk tolerance, it can <a href=\"https://www.anthropic.com/news/responsible-scaling-policy-v3\" rel=\"noopener noreferrer\" target=\"_blank\">decline to provide them</a>. For example, a coalition of companies have signed an open letter pledging <a href=\"https://bostondynamics.com/news/general-purpose-robots-should-not-be-weaponized/\" rel=\"noopener noreferrer\" target=\"_blank\">not to weaponize general-purpose robots</a>. That basic symmetry is a feature of the free market.</p><p>Where the situation becomes more complicated \u2014 and more troubling \u2014 is in the decision to designate Anthropic a \u201c<a href=\"https://x.com/SecWar/status/2027507717469049070\" rel=\"noopener noreferrer\" target=\"_blank\">supply chain risk</a>.\u201d That tool exists to address genuine national security vulnerabilities, such as foreign adversaries. It is not intended to blacklist an American company for rejecting the government\u2019s preferred contractual terms. </p><p>Using this authority in that manner marks a significant shift \u2014 from a procurement disagreement to the use of coercive leverage. <a href=\"https://x.com/SecWar/status/2027507717469049070\" rel=\"noopener noreferrer\" target=\"_blank\">Hegseth has declared</a> that \u201ceffective immediately, no contractor, supplier, or partner that does business with the U.S. military may conduct any commercial activity with Anthropic.\u201d This action will almost certainly face <a href=\"https://x.com/SecWar/status/2027507717469049070\" rel=\"noopener noreferrer\" target=\"_blank\">legal challenges</a>, but it raises the stakes well beyond the loss of a single DOD contract.</p><h2>AI governance</h2><p>It is also important to distinguish between the two substantive issues Anthropic has reportedly raised.</p><p>The first, opposition to domestic surveillance of U.S. citizens, touches on well-established civil liberties concerns. The U.S. government operates under constitutional constraints and statutory limits when it comes to monitoring Americans. A company stating that it does not want its tools used to facilitate domestic surveillance is not inventing a new principle; it is aligning itself with longstanding democratic guardrails.</p><p>To be clear, DOD is not affirmatively asserting that it intends to use the technology to surveil Americans unlawfully. Its position is that it does not want to procure models with built-in restrictions that preempt otherwise lawful government use. In other words, the Department of Defense argues that compliance with the law is the government\u2019s responsibility \u2014 not something that needs to be embedded in a vendor\u2019s code. </p><p>Anthropic, for its part, has invested heavily in training its systems to refuse certain categories of <a href=\"https://www-cdn.anthropic.com/78073f739564e986ff3e28522761a7a0b4484f84.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">harmful or high-risk tasks</a>, including assistance with surveillance. The disagreement is therefore less about current intent than about institutional control over constraints: whether they should be imposed by the state through law and oversight, or by the developer through technical design.</p><p>The second issue, opposition to fully autonomous military targeting, is more complex. </p><p>The DOD already maintains policies requiring <a href=\"https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/300009p.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">human judgment in the use of force</a>, and debates over autonomy in weapons systems are ongoing within both military and international forums. A private company may reasonably determine that its current technology is not sufficiently reliable or controllable for certain battlefield applications. At the same time, the military may conclude that such capabilities are necessary for deterrence and operational effectiveness.</p><p>Reasonable people can disagree about where those <a href=\"https://itif.org/publications/2026/02/26/survey-most-americans-say-tech-companies-should-allowed-set-ai-limits/\" rel=\"noopener noreferrer\" target=\"_blank\">lines should be drawn</a>.</p><p>But that disagreement underscores a deeper point: the boundaries of military AI use should not be settled through ad hoc negotiations between a Cabinet secretary and a CEO. Nor should they be determined by which side can exert greater contractual leverage.</p><p>If the U.S. government believes certain AI capabilities are essential to national defense, that position should be articulated openly. It should be debated in Congress, and reflected in doctrine, oversight mechanisms and statutory frameworks. The rules should be clear \u2014 not only to companies, but to the public.</p><p>The U.S. often distinguishes itself from authoritarian regimes by emphasizing that power operates within transparent democratic institutions and legal constraints. That distinction carries less weight if AI governance is determined primarily through executive ultimatums issued behind closed doors.</p><p>There is also a strategic dimension. If companies conclude that participation in federal markets requires surrendering all deployment conditions, some may exit those markets. Others may respond by weakening or removing model safeguards to remain eligible for government contracts. Neither outcome strengthens <a href=\"https://www.reuters.com/business/retail-consumer/big-tech-group-tells-pentagons-hegseth-they-are-concerned-about-declaring-2026-03-04/\" rel=\"noopener noreferrer\" target=\"_blank\">U.S. technological leadership</a>.</p><p>The DOD is correct that it cannot allow potential \u201cideological constraints\u201d to undermine lawful military operations. But there is a difference between rejecting arbitrary restrictions and rejecting any role for corporate risk management in shaping deployment conditions. In high-risk domains \u2014 from aerospace to cybersecurity \u2014 contractors routinely impose safety standards, testing requirements and operational limitations as part of responsible commercialization. AI should not be treated as uniquely exempt from that practice.</p><p>Moreover, built-in safeguards need not be seen as obstacles to military effectiveness. In many high-risk sectors, layered oversight is standard practice: internal controls, technical fail-safes, auditing mechanisms and legal review operate together. Technical constraints can serve as an additional backstop, reducing the risk of misuse, error or unintended escalation.</p><p><strong>Congress is AWOL</strong></p><p>The DOD should retain ultimate authority over lawful use. But it need not reject the possibility that certain guardrails embedded at the design level could complement its own oversight structures rather than undermine them. In some contexts, redundancy in safety systems strengthens, not weakens, operational integrity.</p><p>At the same time, a company\u2019s unilateral ethical commitments are no substitute for public policy. When technologies carry national security implications, private governance has inherent limits. Ultimately, decisions about surveillance authorities, autonomous weapons and rules of engagement belong in democratic institutions.</p><p>This episode illustrates a pivotal moment in AI governance. AI systems at the frontier of technology are now powerful enough to influence intelligence analysis, logistics, cyber operations and potentially battlefield decision-making. That makes them too consequential to be governed solely by corporate policy \u2014 and too consequential to be governed solely by executive discretion.</p><p>The solution is not to empower one side over the other. It is to strengthen the institutions that mediate between them.</p><p>Congress should clarify statutory boundaries for military AI use and investigate whether sufficient oversight exists. The DOD should articulate detailed doctrine for human control, auditing and accountability. Civil society and industry should participate in structured consultation processes rather than episodic standoffs and procurement policy should reflect those publicly established standards.</p><p>If AI guardrails can be removed through contract pressure, they will be treated as negotiable. However, if they are grounded in law, they can become stable expectations.</p><p>Democratic constraints on military AI belong in statute and doctrine \u2014 not in private contract negotiations.</p><p><em>This article is adapted by the author with permission from </em><a href=\"https://www.techpolicy.press/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Tech Policy Press</em></a><em>. Read the </em><a href=\"https://www.techpolicy.press/why-congress-should-step-into-the-anthropicpentagon-dispute/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>original article</em></a><em>.</em></p>"
       },
       {
-        "id": "ee6e7feeaa3a1a2f",
-        "title": "What do new nuclear reactors mean for waste?",
-        "url": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 18 Mar 2026 09:00:00 +0000",
-        "published_dt": "2026-03-18T09:00:00+00:00",
-        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. The way the world currently deals with nuclear waste is as creative as it is varied: Drown it in water pools, encase it in steel, bury&#8230;"
+        "id": "54a29ca1d031833d",
+        "title": "ENIAC, the First General-Purpose Digital Computer, Turns 80",
+        "url": "https://spectrum.ieee.org/eniac-80-ieee-milestone",
+        "source": "IEEE Spectrum",
+        "published": "Wed, 18 Mar 2026 18:00:05 +0000",
+        "published_dt": "2026-03-18T18:00:05+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/wide-view-of-men-and-women-working-on-the-eniac-in-the-1940s-all-four-walls-from-floor-to-ceiling-host-different-pieces-of-t.jpg?id=65315846&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p>Happy 80th anniversary, ENIAC! The <a href=\"https://penntoday.upenn.edu/news/penns-eniac-worlds-first-electronic-computer-turns-80\" rel=\"noopener noreferrer\" target=\"_blank\">Electronic Numerical Integrator and Computer</a>, the first large-scale, general-purpose, programmable electronic digital computer, helped shape our world.</p><p>On 15 February 1946, ENIAC\u2014developed in the <a href=\"https://facilities.upenn.edu/maps/locations/moore-school-building\" rel=\"noopener noreferrer\" target=\"_blank\">Moore School of Electrical Engineering</a> at the <a href=\"https://www.upenn.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">University of Pennsylvania</a>, in Philadelphia\u2014was publicly demonstrated for the first time. Although primitive by today\u2019s standards, ENIAC\u2019s purely electronic design and programmability were breakthroughs in computing at the time. ENIAC made high-speed, general-purpose computing practicable and laid the foundation for today\u2019s machines.</p><p>On the eve of its unveiling, the <a href=\"https://www.war.gov/\" rel=\"noopener noreferrer\" target=\"_blank\">U.S. Department of War</a> issued a<a href=\"https://americanhistory.si.edu/comphist/pr1.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"> news release</a> hailing it as a new machine \u201cexpected to revolutionize the mathematics of engineering and change many of our industrial design methods.\u201d Without a doubt, electronic computers have transformed engineering and mathematics, as well as practically every other domain, including politics and spirituality.</p><p>ENIAC\u2019s success ushered the modern computing industry and laid the foundation for today\u2019s digital economy. During the past eight decades, computing has grown from a niche scientific endeavor into an engine of economic growth, the backbone of billion-dollar enterprises, and a catalyst for global innovation. Computing has led to a chain of innovations and developments such as stored programs, semiconductor electronics, integrated circuits, networking, software, the Internet, and distributed large-scale systems.</p><h2>Inside the ENIAC</h2><p>The motivation for developing ENIAC was the <a href=\"https://www.pbs.org/wgbh/aso/databank/entries/dt45en.html\" rel=\"noopener noreferrer\" target=\"_blank\">need for faster computation</a> during World War II. The U.S. military wanted to produce extensive artillery firing tables for field gunners to quickly determine settings for a specific weapon, a target, and conditions. Calculating the tables by hand took \u201c<a href=\"https://cacm.acm.org/blogcacm/computers-were-originally-humans/\" rel=\"noopener noreferrer\" target=\"_blank\">human computers</a>\u201d several days, and the available mechanical machines were far too slow to meet the demand.</p><h3>80 Years of Electronic Computer Milestones </h3><br /><h4>1946</h4><p><a href=\"https://www.britannica.com/technology/ENIAC\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>ENIAC operational</strong></a></p><p>Birth of electronic computing</p><h4>1951</h4><p><a href=\"https://www.britannica.com/technology/UNIVAC\" target=\"_blank\"><strong>UNIVAC I</strong></a></p><p><a href=\"https://www.britannica.com/technology/UNIVAC\" target=\"_blank\"></a>Start of commercial computing</p><h4>1958</h4><p><a href=\"https://www.synopsys.com/glossary/what-is-integrated-circuit.html\" target=\"_blank\"><strong>Integrated circuit</strong></a></p><p>Foundation for modern computer hardware</p><h4>1964</h4><p><a href=\"https://www.ibm.com/history/system-360\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>IBM System/360</strong></a></p><p>Popular mainframe computer</p><h4>1970</h4><p><a href=\"https://en.wikipedia.org/wiki/PDP-11\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Programmed Data Processor (PDP-11)</strong></a></p><p>Popular 16-bit minicomputer</p><h4>1971</h4><p><a href=\"https://computer.howstuffworks.com/microprocessor.htm\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Intel 4004</strong></a></p><p>Beginning of the microprocessor and microcomputer era</p><h4>1975</h4><p><a href=\"https://en.wikipedia.org/wiki/Cray-1\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Cray-1</strong></a></p><p>First supercomputer</p><h4>1977</h4><p><a href=\"https://www.stromasys.com/resources/vax-computer-systems-an-in-depth-guide/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>VAX</strong></a></p><p>Popular 32-bit minicomputer</p><h4>1981</h4><p><a href=\"https://en.wikipedia.org/wiki/IBM_Personal_Computer\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>IBM PC</strong></a></p><p>Personal and small-business computing</p><h4>1989</h4><p><a href=\"https://home.cern/science/computing/birth-web\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>World Wide Web</strong></a></p><p>Digital communication, interaction, and transaction (e-commerce)</p><h4>2002</h4><p><a href=\"https://en.wikipedia.org/wiki/Amazon_Web_Services\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Amazon Web Services</strong></a></p><p>Beginning of the cloud computing revolution</p><h4>2010</h4><p><a href=\"https://en.wikipedia.org/wiki/IPad\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Apple iPad</strong></a></p><p>Handheld computer/tablet</p><h4>2010</h4><p><a href=\"https://www.ibm.com/think/topics/industry-4-0\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Industry 4.0</strong></a></p><p>Delivered real-time decision-making, smart manufacturing, and logistics</p><h4>2016</h4><p><a href=\"https://www.livescience.com/55642-reprogrammable-quantum-computer-created.html\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>First reprogrammable quantum computer demonstrated</strong></a></p><p>Ignited interest in quantum computing</p><h4>2023</h4><p><a href=\"https://en.wikipedia.org/wiki/Generative_artificial_intelligence\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Generative AI boom</strong></a></p><p>Widespread use of GenAI by individuals, businesses, and academia</p><h4>2026</h4><p><a href=\"https://penntoday.upenn.edu/news/penns-eniac-worlds-first-electronic-computer-turns-80\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>ENIAC\u2019s 80th anniversary</strong></a></p><p>80 years of computing evolution</p><h3></h3><br /><p>In 1942 <a href=\"https://www.britannica.com/biography/John-Mauchly\" target=\"_blank\">John Mauchly</a>, an associate professor of electrical engineering at Penn\u2019s Moore School, suggested using vacuum tubes to speed up computer calculations. Following up on his theory, the U.S. Army <a href=\"https://en.wikipedia.org/wiki/Ballistic_Research_Laboratory\" target=\"_blank\">Ballistic Research Laboratory</a>, which was responsible for providing artillery settings to soldiers in the field, commissioned Mauchly and his colleagues<a href=\"https://www.britannica.com/biography/J-Presper-Eckert-Jr\" target=\"_blank\"> </a><a href=\"https://ethw.org/J._Presper_Eckert\" rel=\"noopener noreferrer\" target=\"_blank\">J. Presper Eckert</a> and <a href=\"https://ethw.org/Adele_Katz_Goldstine\" target=\"_blank\">Adele Katz Goldstine</a>, to work on a new high-speed computer. Eckert was a lab instructor at Moore, and Goldstine became one of ENIAC\u2019s programmers. It took them a year to design ENIAC and 18 months to build it.</p><p>The computer contained about 18,000 vacuum tubes, which were cooled by 80 air blowers. More than 30 meters long, it filled a 9 m by 15 m room and weighed about 30 kilograms. It consumed as much electricity as a small town.</p><p>Programming the machine was <a href=\"https://www.pbs.org/wgbh/aso/databank/entries/dt45en.html\" target=\"_blank\">difficult</a>. ENIAC did not have stored programs, so to reprogram the machine, operators manually reconfigured cables with switches and plugboards, a process that took several days.</p><p>By the 1950s, large universities either had acquired or built their own machines to rival ENIAC. The schools included <a href=\"https://www.cam.ac.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Cambridge</a> (EDSAC), <a href=\"https://www.mit.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">MIT</a> (Whirlwind), and <a href=\"https://www.princeton.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">Princeton</a> (IAS). Researchers used the computers to model physical phenomena, solve mathematical problems, and perform simulations.</p><p>After almost nine years of operation, ENIAC officially was decommissioned on 2 October 1955.</p><p><a href=\"https://mitpress.mit.edu/9780262535175/eniac-in-action/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>ENIAC in Action: Making and Remaking the Modern Computer</em></a>, a book by <a href=\"https://uwm.edu/history/about/directory/haigh-thomas/\" rel=\"noopener noreferrer\" target=\"_blank\">Thomas Haigh</a>, <a href=\"https://mitpress.mit.edu/author/mark-priestley-15374/\" rel=\"noopener noreferrer\" target=\"_blank\">Mark Priestley</a>, and <a href=\"https://www.researchgate.net/scientific-contributions/Crispin-Rope-2045495041\" rel=\"noopener noreferrer\" target=\"_blank\">Crispin Rope</a>,<em> </em>describes the design, construction, and testing processes and dives into its afterlife use. The book also outlines the complex relationship between ENIAC and its designers, as well as the revolutionary approaches to computer architecture.</p><p>In the early 1970s, there was a controversy over who invented the electronic computer and who would be assigned the patent. In 1973 <a href=\"https://en.wikipedia.org/wiki/Earl_R._Larson\" rel=\"noopener noreferrer\" target=\"_blank\">Judge Earl Richard Larson</a> of U.S. District Court in Minnesota ruled in the <a href=\"https://en.wikipedia.org/wiki/Honeywell,_Inc._v._Sperry_Rand_Corp.\" rel=\"noopener noreferrer\" target=\"_blank\">Honeywell <em><em>v.</em></em> Sperry Rand</a> case that Eckert and Mauchly did not invent the automatic electronic digital computer but instead had derived their subject matter from a <a href=\"https://jva.cs.iastate.edu/operation.php\" rel=\"noopener noreferrer\" target=\"_blank\">computer</a> prototyped in 1939 by <a href=\"https://history-computer.com/people/john-vincent-atanasoff-complete-biography/\" rel=\"noopener noreferrer\" target=\"_blank\">John Vincent Atanasoff</a> and Clifford Berry at Iowa State College (now <a href=\"https://www.iastate.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">Iowa State University</a>). The ruling granted Atanasoff legal recognition as the inventor of the first electronic digital computer.</p><h2>IEEE\u2019s ENIAC Milestone</h2><p>In 1987 IEEE<a href=\"https://ethw.org/Milestones:Electronic_Numerical_Integrator_and_Computer,_1946\" rel=\"noopener noreferrer\" target=\"_blank\"> designated ENIAC</a> as an IEEE Milestone, citing it as \u201ca major advance in the history of computing\u201d and saying the machine \u201cestablished the practicality of large-scale electronic digital computers and strongly influenced the development of the modern, stored-program, general-purpose computer.\u201d</p><p>The commemorative Milestone plaque is displayed at the Moore School, by the entrance to the classroom where ENIAC was built.</p><h3></h3><br /><p>\u201cThe ENIAC legacy heralded the computer age, transforming not only science and industry but also education, research, and human communication and interaction.\u201d</p><h3></h3><br /><p><br /></p><p>A <a href=\"https://ieeexplore.ieee.org/document/476557\" rel=\"noopener noreferrer\" target=\"_blank\">paper on the machine</a>, published in 1996 in <a href=\"https://ieeexplore.ieee.org/document/476557\" rel=\"noopener noreferrer\" target=\"_blank\"><em>IEEE Annals of the History of Computing</em></a> and available in the <a href=\"https://ieeexplore.ieee.org/document/6461145\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Xplore Digital Library</a>, is a valuable source of technical information.</p><p>\u201c<a href=\"https://www.computer.org/csdl/magazine/an/2006/02/man2006020004/13rRUB6Sq2p\" rel=\"noopener noreferrer\" target=\"_blank\">The Second Life of ENIAC</a><em>,\u201d</em> an article published in the annals in 2006, covers a lesser-known chapter in the machine\u2019s history, about how it evolved from a static system\u2014configured and reconfigured through laborious cable plugging\u2014into a precursor of today\u2019s stored-program computers.</p><p>A classic <a href=\"https://www2.seas.gwu.edu/~mfeldman/csci1030/summer08/eniac2.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">history paper on ENIAC</a> was published in the December 1995 <a href=\"https://technologyandsociety.org/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>IEEE Technology and Society Magazine</em></a>.</p><p>The IEEE <a href=\"https://spectrum.ieee.org/ebooks/ieee-anniversary-book/\" target=\"_self\"><em>Inspiring Technology: 34 Breakthroughs</em></a> book, published in 2023, features an ENIAC chapter.</p><h2>The women behind ENIAC</h2><p>One of the most remarkable aspects of the ENIAC story is the pivotal role women played, according to the book <a href=\"https://www.amazon.com/Proving-Ground-Untold-Programmed-Computer/dp/1538718286\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Proving Ground: The Untold Story of the Six Women Who Programmed the World\u2019s First Modern Computer</em></a><em>, </em>highlighted in an <a href=\"https://spectrum.ieee.org/the-women-behind-eniac\" target=\"_self\">article</a> in <a href=\"https://spectrum.ieee.org/the-institute/\" target=\"_self\"><em>The Institute</em></a>. There were no \u201cprogrammers\u201d at that time; only schematics existed for the computer. Six women, known as the ENIAC 6, became the machine\u2019s first programmers.</p><p>The ENIAC 6 were <a href=\"https://en.wikipedia.org/wiki/Kathleen_Antonelli\" rel=\"noopener noreferrer\" target=\"_blank\">Kathleen Antonelli</a>, <a href=\"https://en.wikipedia.org/wiki/Jean_Bartik\" rel=\"noopener noreferrer\" target=\"_blank\">Jean Bartik</a>, <a href=\"https://ethw.org/Betty_Holberton\" rel=\"noopener noreferrer\" target=\"_blank\">Betty Holberton</a>, <a href=\"https://ethw.org/Marlyn_Meltzer\" rel=\"noopener noreferrer\" target=\"_blank\">Marlyn Meltzer</a>, <a href=\"https://ethw.org/Frances_Spence\" rel=\"noopener noreferrer\" target=\"_blank\">Frances Spence</a>, and <a href=\"https://ethw.org/Ruth_Teitelbaum\" rel=\"noopener noreferrer\" target=\"_blank\">Ruth Teitelbaum</a>.</p><p>\u201cThese six women found out what it took to run this computer, and they really did incredible things,\u201d a Penn professor, <a href=\"https://www.cis.upenn.edu/~mitch/\" rel=\"noopener noreferrer\" target=\"_blank\">Mitch Marcus</a>, said in a <a href=\"https://www.phillyvoice.com/70-years-ago-six-philly-women-eniac-digital-computer-programmers/\" rel=\"noopener noreferrer\" target=\"_blank\">2006 PhillyVoice article</a>. Marcus teaches in Penn\u2019s computer and information science department.</p><p>In 1997 all six female programmers were<a href=\"https://www.witi.com/halloffame/298369/ENIAC-Programmers-Kathleen---/\" rel=\"noopener noreferrer\" target=\"_blank\"> inducted</a> into the <a href=\"https://www.witi.com/halloffame/\" rel=\"noopener noreferrer\" target=\"_blank\">Women in Technology International Hall of Fame</a>, in Los Angeles.</p><p>Two other women contributed to the programming. Goldstine wrote ENIAC\u2019s five-volume manual, and <a href=\"https://en.wikipedia.org/wiki/Kl%C3%A1ra_D%C3%A1n_von_Neumann\" rel=\"noopener noreferrer\" target=\"_blank\">Kl\u00e1ra D\u00e1n von Neumann</a>, wife of <a href=\"https://ethw.org/John_von_Neumann\" rel=\"noopener noreferrer\" target=\"_blank\">John von Neumann</a>, helped train the programmers and debug and verify their code.</p><p>To honor the<a href=\"https://www.computer.org/volunteering/awards/pioneer/about-women-of-eniac\" rel=\"noopener noreferrer\" target=\"_blank\"> women of ENIAC</a>, the <a href=\"https://www.computer.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Computer Society</a> established the annual<a href=\"https://www.computer.org/volunteering/awards/pioneer\" rel=\"noopener noreferrer\" target=\"_blank\"> Computer Pioneer Award</a> in 1981. Eckert and Mauchly were among the award\u2019s first recipients. In 2008 Bartik was honored with the award. Nominations are open to all professionals, regardless of gender.</p><h2>An ENIAC replica</h2><p>Last year a group of 80 autistic students, ages 12 to 16, from<a href=\"https://www.psacademyarizona.com/\" rel=\"noopener noreferrer\" target=\"_blank\"> PS Academy Arizona</a>, in Gilbert, <a href=\"https://www.msn.com/en-us/news/technology/how-80-autistic-students-built-an-amazing-replica-of-the-ginormous-eniac-computer/ar-AA1UMKKE\" rel=\"noopener noreferrer\" target=\"_blank\">recreated the ENIAC</a> using 22,000 custom parts. It took the students almost six months to assemble.</p><p>A ceremony was held in January to display their creation. The full-scale <a href=\"https://www.theregister.com/2026/01/21/eniac_model_build/\" rel=\"noopener noreferrer\" target=\"_blank\">replica features</a> actual-size panels made from layered cardboard and wood. Although all electronic components are simulated, they are not electrically active. The machine, illuminated by hundreds of LEDs, is accompanied by a soundtrack that simulates the deep hum of ENIAC\u2019s transformers and the rhythmic clicking of relays.</p><p><strong></strong></p><h3></h3><br /><img alt=\"A white woman using a computer-adding machine in the 1940\\u2019s. The device resembles a bulky typewriter and prints large stacks of paper with tabulated answers.\" class=\"rm-shortcode\" id=\"36a08\" src=\"https://spectrum.ieee.org/media-library/a-white-woman-using-a-computer-adding-machine-in-the-1940-u2019s-the-device-resembles-a-bulky-typewriter-and-prints-large-stack.jpg?id=65315890&amp;width=980\" /><h3></h3><br /><p>\u201cEvery major unit, accumulators, function tables, initiator, and master programmer is present and placed exactly where it was on the original machine,\u201d Tom Burick, the teacher who mentored the project, said at the ceremony.</p><p>The replica, still on display at the school, is expected to be moved to a more permanent spot in the near future.</p><h2>ENIAC\u2019s legacy</h2><p>ENIAC\u2019s significance is both technical and symbolic. Technically, it marks the beginning of the chain of innovations that created today\u2019s computational infrastructure. Symbolically, it made governments, militaries, universities, and industry view computation as a tool for improvement and for innovative applications that had previously been impossible. It marked a tectonic shift in the way humans approach problem-solving, modeling, and scientific reasoning.</p><p>The ENIAC legacy heralded the computer age, transforming not only science and industry but also education, research, and human communication and interaction.</p><p>As Eckert is reported to have said, \u201cThere are two epochs in computer history: Before ENIAC and After ENIAC.\u201d</p><h2>Coevolution of programming languages</h2><p>The remarkable evolution of computer hardware during the past 80 years has been sparked by advances in programming languages\u2014the essential drivers of computing.</p><p>From the manual rewiring of ENIAC to the orchestration of intelligent, distributed systems, programming languages have steadily evolved to make computers more powerful, expressive, and accessible.</p><h3>Lessons From Computing\u2019s Remarkable Journey</h3><br /><p>Computing history teaches us that flexibility, accessibility, collaboration, sound governance, and forward thinking are essential for sustained technological progress. In a <a href=\"https://cacm.acm.org/blogcacm/what-past-computing-breakthroughs-teach-us-about-ai/\" target=\"_blank\">recent <em><em>Communications of the ACM</em></em> article</a>, <a href=\"https://www.linkedin.com/in/richa28gupta/\" target=\"_blank\">Richa Gupta</a> identified four historic shifts that led to computing\u2019s rapid, transformative progress:</p><ol><li>Programmable machines taught us that flexibility is key; technologies that adapt and are repurposed scale better.</li><li>The Internet showed that connection and standard protocols drive explosive growth but also bring new risks such as data security issues, invasion of privacy, and misuse.</li><li>Personal computers illustrated that accessibility and usability matter more than raw power. When nonexperts can use a tool easily, adoption rises.</li><li>The open-source movement revealed that collaborative innovation accelerates growth and helps spot problems early.</li></ol><h2>Predictions for computing in the decades ahead</h2><p>The evolution of computing will continue along multiple trajectories, with the emphasis moving from generalization to specialization (for AI, graphics, security, and networking), from monolithic system design to modular integration, and from performance-centric metrics alone to energy efficiency and sustainability as primary objectives.</p><p>Increasingly, security will be built into hardware by design. Computing paradigms will expand beyond traditional deterministic models to embrace probabilistic, approximate, and hybrid approaches for certain tasks.</p><p>Those developments will usher in a new era of computing and a new class of applications.</p>"
       },
       {
         "id": "15769016520e217a",
@@ -783,22 +819,22 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/an-elderly-white-man-in-a-dress-shirt-and-glasses-smiling-in-his-at-home-workshop.jpg?id=65112143&amp;width=1245&amp;height=700&amp;coordinates=0%2C469%2C0%2C469\" /><br /><br /><p>No one had very high career aspirations for teenager <a href=\"https://ieeexplore.ieee.org/author/38227767000\" rel=\"noopener noreferrer\" target=\"_blank\">David A. Weston</a>\u2014except for Weston himself. Growing up in London, he scored low on the U.K. national assessment test given to students finishing primary school. The result meant that his next path was either to become a laborer or attend a vocational school to learn a trade.</p><p>What Weston really wanted to do was to work as a radio and TV repairman. He was fascinated by how the devices worked. He had taught himself to build an AM radio when he was 15. Even after showing it to his parents and teachers, though, they still didn\u2019t think he was smart enough to pursue his chosen career, he says.</p><h3>David A.\u00a0Weston</h3><br /><p><strong>Employer </strong></p><p><strong></strong>EMC Consulting, in in Arnprior, Ont., Canada</p><p><strong>Job title</strong></p><p>Retired consultant</p><p><strong>Member grade </strong></p><p>Life member</p><p><strong>Alma mater </strong></p><p><strong></strong>Croydon Technical College, London</p><h3></h3><br /><p>So, later that year, the underweight teen got a job on a construction site carrying heavy loads of building materials in a hod, a three-sided wooden trough. The experience convinced him he wasn\u2019t cut out for manual labor.</p><p>He eventually earned a certificate in radio and television, the only credential he holds. The lack of academic degrees did not hold him back, though. He went on to become an expert in electromagnetic interference (EMI) and electromagnetic compatibility (EMC).</p><p>An EMI field has unwanted energy that causes interference. EMC is the capacity for electronic devices to work correctly in a shared electromagnetic environment without causing interference or suffering from it in nearby devices or signals.</p><p>After working for a number of companies, he launched his own business more than 40 years ago: <a href=\"https://www.emcconsultinginc.com/\" target=\"_blank\">EMC Consulting</a>, in Arnprior, Ont., Canada. The company has helped clients meet EMI and EMC regulatory requirements.</p><p>Now 83 years old and retired, the IEEE life member recently self-published his memoir, <a href=\"https://www.barnesandnoble.com/w/from-a-hod-to-an-odd-em-wave-david-weston/1148995654\" rel=\"noopener noreferrer\" target=\"_blank\"><em>From a Hod to an Odd EM Wave</em></a>.</p><p>\u201cMy memoir is about engineering persistence and human and technical discoveries,\u201d he says. \u201cI wanted to interest a young person, or perhaps a person later in life, in a career in engineering. If I can show that engineering is a personal, human endeavor with exciting opportunities in different fields such as medical, scientific, and the arts, maybe more women would be attracted to it.\u201d</p><h2>From repairing radios to designing underwater devices</h2><p>In 1960 Weston enrolled in the radio and electronics program at London\u2019s Croydon Technical College (now <a href=\"https://croydon.ac.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">Croydon College</a>). The school covered topics from the <a href=\"https://www.cityandguilds.com/\" rel=\"noopener noreferrer\" target=\"_blank\">City and Guilds of London Institute</a>\u2019s radio and television certificate program. He attended classes one day a week for five years while working to put himself through school.</p><p>Although his parents and his teachers might not have recognized Weston\u2019s potential, employers did.</p><p>He got his first job in 1960, fixing televisions in a small repair shop. Then he helped repair tape recorders. In his spare time, he studied transistors and semiconductors.</p><p>Everything he knows, he says, he learned by reading books and research papers, and from on-the-job training.</p><p>Later in 1960, he worked as a mechanical examiner for the U.K. <a href=\"https://en.wikipedia.org/wiki/Ministry_of_Aviation\" rel=\"noopener noreferrer\" target=\"_blank\">Ministry of Aviation</a>, where he calibrated precision meters and potentiometers, which are variable resistors that monitor, control, and measure industrial equipment.</p><h3></h3><br /><p>\u201cEngineering is creative. To have a new idea or design accepted is rewarding, satisfying, pleasurable, and even exciting.\u201d</p><h3></h3><br /><p>He left the ministry in 1963 because he found the work boring, he says, and he was hired as a technician with the <a href=\"https://www.gov.uk/government/organisations/medical-research-council/about\" target=\"_blank\">Medical Research Council</a>\u2019s neuropsychiatric research unit in Carshalton. The institution researches the biological causes of mental illness. His manager was interested in learning about advances in medical electronics and eagerly shared his knowledge with Weston.</p><p>One of Weston\u2019s tasks was to build an electroencephalography (EEG) calibrator to measure responses from a patient\u2019s brain activity. The methods used at the time to detect a brain tumor\u2014before <a href=\"https://spectrum.ieee.org/mri-pioneer-to-receive-ieee-medal-for-innovations-in-healthcare-technology\" target=\"_self\">MRI machines</a> were developed\u2014involved monitoring the patient\u2019s speech and coordination, followed by taking a biopsy, which was not without danger, he says.</p><p>He used an ultrasonic transmitter and receiver to measure the time of transmission to the midline in the brain to determine whether the person had a tumor. If the midline had shifted, it would indicate the presence of a tumor, and a biopsy would be performed to confirm it. The measure of the evoked response in the brain was the only reliable indicator.</p><p>Weston earned his radio and TV certificate in 1965, leaving the research facility a year later to join Divcon (now part of <a href=\"https://www.oceaneering.com/\" target=\"_blank\">Oceaneering International</a>), a commercial diving company based in London that developed deep-sea helium diving helmets. Weston helped design a waterproof handheld communication device for divers that could withstand the high pressure in diving bells, the open-bottom pressurized chambers that transported them underwater.</p><p>Weston then moved to Hamburg, Germany, in 1969 to work for <a href=\"https://plath-corporation.de/en/\" rel=\"noopener noreferrer\" target=\"_blank\">Plath</a>, an electronics manufacturer. He was tasked, along with other engineers from England, to design a servo control loop.</p><p>\u201cUnfortunately it oscillated so badly when first being turned on that it shook itself to bits,\u201d he says.</p><p>He left to work as a senior engineer at <a href=\"https://www.kistler.com/INT/en/kistler-acquisitions-win-win-for-all-concerned/C00000494\" rel=\"noopener noreferrer\" target=\"_blank\">Dr. Staiger Mohilo and Co.</a> (now part of <a href=\"https://www.kistler.com/INT/en/\" rel=\"noopener noreferrer\" target=\"_blank\">Kistler</a>), in Schorndorf, Germany. It manufactured torque sensors, force transducers, and specialized test stand systems. Weston designed a process control computer. He says his boss told him that the controller had to work in close proximity to\u2014and from the same power source as\u2014a nearby machine without interfering with it or being interfered by it.</p><p>\u201cI was thus introduced to the idea of electromagnetic compatibility,\u201d he says.</p><p>After three years, he left to join the <a href=\"https://www.mobility.siemens.com/global/en.html\" rel=\"noopener noreferrer\" target=\"_blank\">Siemens Mobility</a> train group in Braunschweig, Germany, where he helped develop an electronic train-crossing light controller. The original warning lights on crossing gates used a mercury tube as a switch.</p><p>\u201cThe concern was the danger to personnel if the tube broke,\u201d he says. \u201cThe simple and inexpensive solution was to put the tube in a metal container.\u201d</p><p>Weston and his wife decided to leave Germany for Canada in 1975, after their young son began forgetting how to speak English.</p><h2>Working on the space shuttle and a particle accelerator</h2><p>His first job in the country was as an engineer for <a href=\"https://www.cae.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Canadian Aviation Electronics</a> in Montreal. CAE helped design the remote manipulator system in robotic hand controllers and simulation systems used to train astronauts for the space shuttle.</p><p>The robotic arm, known as <a href=\"https://en.wikipedia.org/wiki/Canadarm\" rel=\"noopener noreferrer\" target=\"_blank\">Canadarm</a>, was used to deploy, maneuver, and capture payloads for the astronauts. Weston\u2019s engineering team designed the display and control panel as well as the hand controllers located in the shuttle\u2019s flight deck.</p><p>\u201cI was attracted to the EMC aspects of the project and avidly studied everything I could on the topic,\u201d he says.</p><p>He also helped develop a system that would protect an aircraft\u2019s deployable black box from lightning strikes.</p><p>\u201cI used a computer program to analyze the EMI field at close proximity to the black box to predict the lightning current flowing into the aircraft structure,\u201d he says.</p><p>While enjoying the warm winter weather during a 1975 visit to a supplier on Long Island, N.Y., he decided he wanted to move his family there and asked whether any companies in the area were hiring. He was told that <a href=\"https://www.bnl.gov/world/\" rel=\"noopener noreferrer\" target=\"_blank\">Brookhaven National Laboratory</a>, in Upton, was, so he applied for a position working on the ring system for the <a href=\"https://en.wikipedia.org/wiki/ISABELLE\" rel=\"noopener noreferrer\" target=\"_blank\">Isabelle proton colliding-beam particle accelerator</a>.</p><p>The project, later known as the <a href=\"https://spectrum.ieee.org/supercolliders\" target=\"_self\">colliding beam accelerator</a>, was a collaboration between the lab and the <a href=\"https://www.energy.gov/\" rel=\"noopener noreferrer\" target=\"_blank\">U.S. Department of Energy</a>. The 200+200 giga-electron volt proton-proton collider was designed to use advanced superconducting magnets cooled by a massive helium refrigeration system to produce high-energy collisions. The GeV refers to the collision energy in a particle accelerator.</p><h3>Weston\u2019s Advice for Budding Engineers</h3><br /><ul><li>Follow the field in which you are most interested.</li><li>Don\u2019t be afraid to work in other countries; it can be a rewarding, enriching experience.</li><li>Question the results of measurements or analyses. If it doesn\u2019t seem right, it probably isn\u2019t. Look at a similar publication on the same topic for a good correlation. </li><li>Don\u2019t be too shy to ask simple questions. That\u2019s how we learn and grow.</li><li>Keep an open mind.</li></ul><p><span>The lab hired him in 1978, and the family moved to Long Island. After a few weeks of meeting with different departments, his boss asked him what kind of work he wanted to do. Weston told him about his idea for designing a device to detect a helium leak, should there ever be one. His machine would cover the entire 3,834-meter circumference area of the ring.</span></p><p>\u201cThe danger with increased helium-enriched air is that the oxygen level reduces until the person breathing becomes adversely affected,\u201d he wrote in his memoir. \u201cI found that the speed of the sound of helium increased enough to be detected, but not sufficient enough to cause a person trouble if they were in the tunnel.</p><p>\u201cBrookhaven was considering machines that only covered a small area of the ring, but these would be unrealistic because too many machines would be needed, and the cost would have been astronomical.\u201d</p><p>Weston\u2019s system included an ultrasonic transmitter, a receiver, a power amplifier, and a preamplifier. It would sound an alarm if the helium content went above a certain level. People in the tunnel would be directed to go to the nearest oxygen-breathing equipment, put on a mask, and immediately evacuate. It was successfully tested.</p><p>Weston wrote a report detailing the ultrasonic helium leak detector, but shortly after, he and his wife had to return to Canada in 1978 because they were unable to get additional work permits in the United States.</p><p>When he returned to Brookhaven for a visit, his former boss told him the report was well-received. And he shared some news that upset Weston.</p><p>\u201cMy boss told me he took my report, changed the name on the report to his, did not mention me, and published the report as his,\u201d Weston wrote in his memoir.</p><p>But the system was never built. The Isabelle project was canceled in July 1983 due to technical problems with fabricating the superconducting magnets.</p><p>Weston got a job working for <a href=\"https://satistar.com/portfolio/cal-corporation/\" target=\"_blank\">CAL Corp.</a>, an aerospace telecommunications company in Montreal. For the next 14 years, he fixed EMI problems for the company\u2019s products, including its charge-coupled device-based space-qualified cameras, which were designed to be carried aboard a satellite.</p><p>In 1992 he realized that nearly all his work involved consulting for the company\u2019s customers, so he decided to start his own agency. CAL generously let him take the clients he worked with, he says.</p><p>Weston then conducted EMI analysis and testing and designed EMC systems for companies around the world.</p><p>\u201cI always had enough customers and have never had to look for work,\u201d he says. \u201cFor me, having my own business was more secure than working for a company.\u201d</p><p>He retired in 2022.</p><h2>IEEE as an educator</h2><p>To broaden his education, he joined IEEE in 1976 to get access to its research papers and attend its conferences, he says. He is a member of the <a href=\"https://www.emcs.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Electromagnetic Compatibility Society</a>.</p><p>Because he is self-educated, he was \u201ckeen to learn as much as possible by reading practical papers published by IEEE,\u201d he says. \u201cI met people at IEEE symposiums and listened to the authors presenting their papers.\u201d</p><p>Those included EMC experts such as Life Fellows <a href=\"https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&amp;queryText=L.O.%20Hoeft\" rel=\"noopener noreferrer\" target=\"_blank\">Lothar O. \u201cBud\u201d Hoeft</a>, <a href=\"https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&amp;searchWithin=%22First%20Name%22:Richard&amp;searchWithin=%22Last%20Name%22:Mohr\" rel=\"noopener noreferrer\" target=\"_blank\">Richard J. Mohr</a>, and <a href=\"https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&amp;queryText=Clayton%20R.%20Paul\" rel=\"noopener noreferrer\" target=\"_blank\">Clayton R. Paul</a>, whose papers are published in the<a href=\"https://ieeexplore.ieee.org/Xplore/home.jsp\" rel=\"noopener noreferrer\" target=\"_blank\"> IEEE Xplore Digital Library</a>. <a href=\"https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=david%20weston&amp;highlight=true&amp;returnFacets=ALL&amp;returnType=SEARCH&amp;matchPubs=true&amp;refinements=Author:David%20Weston\" rel=\"noopener noreferrer\" target=\"_blank\">Several of Weston\u2019s papers</a> are in the library as well.</p><p>His book <a href=\"https://www.emcconsultinginc.com/publications/\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>Electromagnetic Compatibility: Methods, Analysis, Circuits, and Measurement</em></em></a> references many IEEE papers on data and analysis methods.</p><p>\u201cEngineering is creative,\u201d he says. \u201cTo have a new idea or design accepted is rewarding, satisfying, pleasurable, and even exciting.\u201d</p>"
       },
       {
-        "id": "7862a659d352c129",
-        "title": "This Offshore Wind Turbine Will House a Data Center",
-        "url": "https://spectrum.ieee.org/data-center-floating-wind-turbine",
-        "source": "IEEE Spectrum",
-        "published": "Tue, 03 Mar 2026 20:56:45 +0000",
-        "published_dt": "2026-03-03T20:56:45+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-floating-wind-turbine-at-sea-an-expanded-view-of-a-buoyant-cylinder-at-the-turbine-s-base-reveals-a-large-hollow-interior-whi.jpg?id=65106142&amp;width=1245&amp;height=700&amp;coordinates=0%2C62%2C0%2C63\" /><br /><br /><p>As data-center developers frantically seek to secure power for their operations, one startup is proposing a novel solution: Build them into floating offshore wind turbines. </p><p>San Francisco\u2013based offshore wind-power developer <a href=\"https://www.aikidotechnologies.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Aikido Technologies</a> today announced its plans to start housing data centers in the underwater tanks that keep its turbine platforms afloat. The turbines will supply the power for the servers, and onboard batteries and grid connection will provide backup. </p><p>The company\u2019s first prototype, a 100-kilowatt unit, is scheduled to launch in the North Sea off the coast of Norway by the end of this year. A 15-to-18-megawatt project off the coast of the United Kingdom may follow in 2028.</p><p>Aikido is one of several companies planning data centers in unusual places\u2014<a href=\"https://spectrum.ieee.org/underwater-data-centers\" target=\"_self\">underwater</a>, on floating buoys, in coal mines and now on offshore wind turbines. The creativity stems from the forces of several trends: rapidly rising energy demand from data centers, the need for domestic renewable power production, and limited real estate. </p><p>The North Sea serves as an ideal first spot for floating, wind-powered data centers because European policymakers and companies are looking to regain domestic control over energy production. They\u2019re also looking to host an AI economy on servers within the continent\u2019s boundaries. Floating wind platforms keep the compute out of sight while tapping the stronger, more consistent air streams that blow over deep waters, where traditional, seabed-mounted turbine monopiles can\u2019t go. </p><p>\u201cA lot of energy in the clean-energy space is focused on powering AI data centers quickly, reliably, and cleanly in a way that does not upset neighbors and remains safe, fast, and cheap,\u201d says Ramez Naam, an independent clean-energy investor who does not have a stake in Aikido. \u201cAikido has that, and a smart team,\u201d he says.</p><h2>Floating Wind-Power Designs Evolve</h2><p>Aikido\u2019s design builds on many iterations tested by the growing floating wind industry. When Norwegian energy giant Equinor finished construction on the <a href=\"https://www.equinor.com/energy/hywind-scotland\" target=\"_blank\">world\u2019s first floating wind farm </a>in 2017, it kept the turbines upright with ballasted steel columns extending 78 meters into the water\u2014a design called a spar platform. This gave it a dense mass like the keel of a boat. Since then, the floating wind industry has largely <a href=\"https://spectrum.ieee.org/floating-offshore-wind-turbine\" target=\"_self\">coalesced around a semisubmersible design</a> based on oil and gas platforms. Semisubmersibles don\u2019t go as deep as spar platforms; instead, they extend buoyancy horizontally. Anchors, chains, and ropes keep the platform floating within a certain radius.</p><p>Aikido is taking the semisubmersible approach. Its football-field-size platform holds the turbine in the center, and three legs extend tripod-like outward, like a Christmas-tree stand. At the end of each leg is a ballast that reaches 20 meters deep. This holds tanks largely filled with fresh water to maintain the platform\u2019s buoyancy in the salty ocean.</p><p>The data centers will go in the upper part of each ballast tank. There\u2019s room for a 3- to 4-MW data hall in each tank, giving the platform a combined compute of 10 to 12 MW. Below the data halls is an open chamber used as a safety barrier, and below that sit the freshwater tanks. The water is piped up to the data center for liquid cooling of the servers. The warmed water is then funneled back down the ballast into the tank. There, proximity to the cold ocean water cools it again as the heat is conducted out through the tank\u2019s steel walls. </p><p>\u201cWe have this power from the wind. We have free cooling. We think we can be quite cost competitive compared to conventional data-center solutions,\u201d says Aikido CEO <a href=\"https://www.linkedin.com/in/sam-kanner/\" rel=\"noopener noreferrer\" target=\"_blank\">Sam Kanner</a>. \u201cThis crunch in the next five years is an opportunity for us to prove this out and supply AI compute where it\u2019s needed.\u201d</p><p>One challenge, he says, is that liquid cooling can\u2019t cover all the data center\u2019s needs. For example, heat generated from Ethernet switches that connect the GPUs can\u2019t be liquid-cooled with commercially available technology. So Aikido installed an air-conditioning method for that.</p><p>Another challenge is the marine environment, which is \u201cpretty brutal to engineer around because there\u2019s the increased salinity, there\u2019s debris, and there\u2019s various kinds of corrosion and fouling of metal piping that you wouldn\u2019t have in a freshwater environment,\u201d says <a href=\"https://www.thefai.org/profile/daniel-king\" rel=\"noopener noreferrer\" target=\"_blank\">Daniel King</a>, a research fellow at the Foundation for American Innovation in Washington who focuses on AI infrastructure. </p><h2>Offshore Data Centers Face Challenges</h2><p><span>Aikido\u2019s plan avoids the prickly not-in-my-backyard complaints that are dogging both onshore wind and data-center projects. It might also circumvent some inquiries into water usage and power demand too, or so Aikido\u2019s thinking goes. </span></p><p>But it might not be that easy. \u201cInstinctively many people reach for offshore or even orbital outer-space data centers as a way to circumvent the typical burdens of environmental reviews,\u201d says King. \u201cBut there could be more or additional requirements around discharging heat and the effects that has on marine life that are different from the considerations of a terrestrial data center. It\u2019s unclear to me whether this actually makes life easier or harder for a developer.\u201d </p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"3D rendering of a crane lowering a pre-fabricated data center into a hollow semi-submersible platform for a floating wind turbine.\" class=\"rm-shortcode\" id=\"6f350\" src=\"https://spectrum.ieee.org/media-library/3d-rendering-of-a-crane-lowering-a-pre-fabricated-data-center-into-a-hollow-semi-submersible-platform-for-a-floating-wind-turbin.jpg?id=65111639&amp;width=980\" /> <small class=\"image-media media-caption\">Prefabricated data halls could be installed quayside, followed by final electrical and plumbing connections to commission the data center.</small><small class=\"image-media media-photo-credit\">Aikido</small></p><p>Aikido\u2019s \u201cdesign choice to use the fresh water in the ballast as a working fluid is a novel one\u201d that, thanks to the closed-loop system, may \u201calleviate some of the engineering problems you see when a really high temperature fluid is pumping its heat directly into a marine environment,\u201d King says.</p><p>Offshore sites are also vulnerable to sabotage, King notes. Since Russia\u2019s invasion of Ukraine, fleets of vessels directed by the Kremlin have <a href=\"https://www.bbc.com/news/world-europe-65309687\" target=\"_blank\">reportedly</a> started messing with offshore wind and communications infrastructure in northern Europe. Russian and Chinese boats have allegedly <a href=\"https://spectrum.ieee.org/black-sea-energy-link\" target=\"_self\">cut subsea cables in recent years</a>.</p><p>But vandalism is a risk anywhere, including at conventional data centers, Aikido CEO Kanner notes. Unlike those on land, where the local police have jurisdiction, Aikido\u2019s data centers would enjoy protection from national coast guards, which he suggests gives an added degree of security. </p><h2>North Sea Hosts Clean Energy</h2><p>Kanner first began thinking about offshore wind turbines as a place to build data centers after a chance phone call with a cryptocurrency billionaire. The financier wanted to know whether turbines in international waters could power servers generating digital tokens at a moment when crypto-mining faced increased scrutiny from regulators. The talks fizzled. But that encounter sparked Kanner\u2019s curiosity about how to use power generated onboard floating turbines. </p><p>When ChatGPT emerged in 2022 and sparked a heated debate over how to power and cool such technology, the idea to put the data center in the floating turbine clicked for Kanner. The idea really congealed after he met with the chief executive of Portland, Ore.\u2013based <a href=\"https://panthalassa.com/\" target=\"_blank\">Panthalassa</a>. The wave-energy company was proposing to enclose small, remote data centers in buoys attached to equipment that generates power from the surf. Panthalassa <a href=\"https://www.youtube.com/watch?v=Q7Pmgq2JKbI\" target=\"_blank\">just completed</a> its full-scale prototype tests off the coast of Washington state last summer. </p><p>At that point, Aikido had already designed a modular platform for floating wind turbines. Each platform consists of 13 major steel components that are snapped together with pin joints\u2014like IKEA furniture. The platforms fold up in a flat configuration that takes up roughly half the space of other designs, allowing it to be transported by a wider range of ships, according to Aikido. From there, it was a matter of figuring out how to accommodate a data center in the unused space. </p><p>Aikido\u2019s prototype will use a refurbished<a href=\"https://en.wind-turbine-models.com/turbines/141-vestas-v17-75\" target=\"_blank\"> Vesta V-17 turbine</a>. It will need onboard batteries for backup power and will also be connected to the grid for additional power during seasons with less wind. Aikido envisions eventually sprinkling its data centers among large arrays of offshore turbines to tap into that larger power infrastructure. </p><p><span>Between Russia\u2019s threat to expand its war in Ukraine to EU countries and the Trump administration\u2019s bid to pressure Denmark into ceding sovereignty of Greenland to Washington, Europe is scrambling to build up its own energy production and AI capabilities. The North Sea, increasingly, looks like a primary theater of that effort. In January, nearly a dozen European nations banded together in a pact to transform the North Sea into a \u201c</span><a href=\"https://www.canarymedia.com/articles/offshore-wind/european-nations-are-jointly-plotting-a-massive-offshore-wind-buildout\" target=\"_blank\">reservoir</a><span>\u201d of clean power from offshore wind.</span></p>"
+        "id": "c4b8f49255f5b563",
+        "title": "The Download: The Pentagon\u2019s new AI plans, and next-gen nuclear reactors",
+        "url": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 18 Mar 2026 12:38:00 +0000",
+        "published_dt": "2026-03-18T12:38:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon is planning for AI companies to train on classified data,&#160;defense&#160;official says&#160; The Pentagon plans to set up secure environments for generative AI companies to train military-specific versions of their&#8230;"
       },
       {
-        "id": "04cbb74f313fb3b9",
-        "title": "Countdown to IEEE\u2019s Annual Election",
-        "url": "https://spectrum.ieee.org/ieee-annual-election-2026",
-        "source": "IEEE Spectrum",
-        "published": "Tue, 03 Mar 2026 19:00:04 +0000",
-        "published_dt": "2026-03-03T19:00:04+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/hand-placing-a-ballot-in-a-green-box-against-a-blue-background.jpg?id=65111718&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p>This year\u2019s annual election, which begins on 17 August, will include candidates for IEEE president-elect and other officer positions up for election.</p><p>To see who is running for 2027 <a href=\"https://spectrum.ieee.org/2027-ieee-president-elect-candidates\" target=\"_blank\">IEEE president-elect</a> and the <a href=\"https://spectrum.ieee.org/2027-petition-president-elect-candidates\" target=\"_blank\">petition candidates</a>, visit the <a href=\"https://www.ieee.org/pe27\" target=\"_blank\">election website</a>.</p><p>The ballot also includes nominees for delegate-elect/director-elect offices submitted by division and region nominating committees, as well as <a href=\"https://ta.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Technical Activities</a> vice president-elect; <a href=\"https://ieeeusa.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE-USA</a> president-elect; and <a href=\"https://standards.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Standards Association</a> board of governors members-at-large.</p><p>Those elected take office on 1 January 2027.</p><p> IEEE members who want to run for an office, except for IEEE president-elect, who have not been nominated, must submit their petition intention to the IEEE Board of Directors by 1 April. Petitions should be sent to the IEEE Corporate Governance staff at elections@ieee.org. The petition intention deadline for IEEE president-elect was 31 December.</p><h2>Election Updates</h2><p>Regional elections will also take place. Eligible voting members in IEEE <a href=\"https://ieeer1.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Region 1</a> (Northeastern U.S.) and <a href=\"https://r2.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Region 2</a> (Eastern U.S.) will elect the future IEEE Region 2 delegate-elect/director-elect (Eastern and Northeastern U.S.) for the 2027\u20142028 term. Members in the future IEEE Region 10 (North Asia) will elect the IEEE Region 10 delegate-elect/director-elect for the same term. These changes reflect IEEE\u2019s upcoming region realignment, as outlined in <em><em>The Institute\u2019s </em></em>September 2024 article, \u201c<a href=\"https://spectrum.ieee.org/region-realignment-2024-election\" target=\"_self\">How Region Realignment Will Impact IEEE Elections</a>.\u201d</p><p> Beginning this year, only professional members will be eligible to vote in IEEE\u2019s annual election or sign related petitions. Ballots will be created for eligible voting members on record as of 31 March. To ensure voting eligibility, all members should review and update their <a href=\"https://ieee.org/go/my_account\" rel=\"noopener noreferrer\" target=\"_blank\">contact information</a> and <a href=\"https://ieee.org/election-preferences\" rel=\"noopener noreferrer\" target=\"_blank\">communication preferences</a> by that date.</p><p>To support sustainability initiatives, the \u201cCandidate Biographies and Statements\u201d booklet will no longer be available in print. Members can access the candidate biographies and statements within their electronic ballot, view them on the <a href=\"https://ieee.org/about/corporate/election\" rel=\"noopener noreferrer\" target=\"_blank\">annual election website</a>, or download the digital booklet. Members are also encouraged to vote electronically.</p><p>For more information about the offices up for election, the process for getting on the annual ballot, and deadlines, visit the <a href=\"https://www.ieee.org/about/corporate/election\" target=\"_blank\">website</a> or email <a href=\"mailto:elections@ieee.org\">elections@ieee.org</a>.</p>"
+        "id": "ee6e7feeaa3a1a2f",
+        "title": "What do new nuclear reactors mean for waste?",
+        "url": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 18 Mar 2026 09:00:00 +0000",
+        "published_dt": "2026-03-18T09:00:00+00:00",
+        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. The way the world currently deals with nuclear waste is as creative as it is varied: Drown it in water pools, encase it in steel, bury&#8230;"
       },
       {
         "id": "4a52b9f8eba4a553",
@@ -871,42 +907,6 @@
         "published": "Mon, 16 Mar 2026 12:35:00 +0000",
         "published_dt": "2026-03-16T12:35:00+00:00",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Future AI chips could be built on glass&#160; Human-made glass is thousands of years old. But&#160;it\u2019s&#160;now poised to find its way into the AI chips used in the world\u2019s newest and&#8230;"
-      },
-      {
-        "id": "3f5e229a39d1be42",
-        "title": "Securing digital assets against future\u00a0threats",
-        "url": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 16 Mar 2026 11:00:00 +0000",
-        "published_dt": "2026-03-16T11:00:00+00:00",
-        "summary": ""
-      },
-      {
-        "id": "634631ae11ccde4f",
-        "title": "Video Friday: These Robots Were Born to Run",
-        "url": "https://spectrum.ieee.org/legged-modular-robot",
-        "source": "IEEE Spectrum",
-        "published": "Fri, 13 Mar 2026 16:00:04 +0000",
-        "published_dt": "2026-03-13T16:00:04+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/rolling-cannon-distant-cityscape-trees-and-water.gif?id=65282014&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0\" /><br /><br /><p><span>Video Friday is your weekly selection of awesome robotics videos, collected by your friends at </span><em>IEEE Spectrum</em><span> robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please </span><a href=\"mailto:automaton@ieee.org?subject=Robotics%20event%20suggestion%20for%20Video%20Friday\">send us your events</a><span> for inclusion.</span></p><h5><a href=\"https://2026.ieee-icra.org/\">ICRA 2026</a>: 1\u20135 June 2026, VIENNA</h5><p>Enjoy today\u2019s videos!</p><div class=\"horizontal-rule\"></div><div><span style=\"display: none;\"> </span></div><blockquote class=\"rm-anchors\" id=\"8vksx1zsg7q\"><em>All legged robots deployed \u201cin the wild\u201d to date were given a body plan that was predefined by human designers and could not be redefined in situ. The manual and permanent nature of this process has resulted in very few species of agile terrestrial robots beyond familiar four-limbed forms. Here, we introduce highly athletic modular building blocks and show how they enable the automatic design and rapid assembly of novel agile robots that can \u201chit the ground running\u201d in unstructured outdoor environments.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://robotics.northwestern.edu/news-events/index.html\" target=\"_blank\">Northwestern UniversityCenter for Robotics and Biosystems</a> ] [ <a href=\"https://www.pnas.org/doi/10.1073/pnas.2519129123\">Paper</a> ] via [ <a href=\"https://gizmodo.com/these-self-configuring-modular-robots-may-one-day-rule-the-world-2000731381\">Gizmodo</a> ] </p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"l2q3kpl4mjq\">If you were going to develop the ideal urban delivery robot more or less from scratch, it would be this.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.rivr.ai/rivr-two\">RIVR</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"cadtjepdbfc\">Don\u2019t get me wrong, there are some clever things going on here, but I\u2019m still having a lot of trouble seeing where the unique, sustainable value is for a <a href=\"https://spectrum.ieee.org/humanoid-robots\" target=\"_blank\">humanoid robot</a> performing these sorts of tasks.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.figure.ai/news/helix-02-living-room-tidy\">Figure</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"xyhob9__qk0\">One of those things that you don\u2019t really think about as a human, but is actually pretty important.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://arxiv.org/abs/2602.05760\">Paper</a> ] via [ <a href=\"https://rsl.ethz.ch/\" target=\"_blank\">ETH Zurich</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"wi6u8bvofvc\"><em>We propose TRIP-Bag (Teleoperation, Recording, Intelligence in a Portable Bag), a portable, puppeteer-style teleoperation system fully contained within a commercial suitcase, as a practical solution for collecting high-fidelity manipulation data across varied settings.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://uiuckimlab.github.io/TRIP-Bag-pages/\">KIMLAB</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"nuouwhuzpwq\"><em>We propose an open-vocabulary semantic exploration system that enables robots to maintain consistent maps and efficiently locate (unseen) objects in semi-static real-world environments using LLM-guided reasoning.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.tum.de/en/news-and-events/all-news/press-releases/details/search-robot-thinks-for-itself\">TUM</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"vrxamllkjko\">That\u2019s it folks, we have no need for real pandas anymore\u2014if we ever did in the first place. Be honest, what has a <a href=\"https://spectrum.ieee.org/robot-martial-arts\" target=\"_blank\">panda</a> done for you lately?</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.magiclab.top/en/\">MagicLab</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"uhd6o6dem_o\"><em>RoboGuard is a general-purpose guardrail for ensuring the safety of LLM-enabled robots. RoboGuard is configured offline with high-level safety rules and a robot description, reasons about how these safety rules are best applied in robot\u2019s context, then synthesizes a plan that maximally follows user preferences while ensuring safety.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://robo-guard.github.io/\">RoboGuard</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"5ekki51q1sk\"><em>In this demonstration, a small team responds to a (simulated) radiation contamination leak at a real nuclear reactor facility. The team deploys their reconfigurable robot to accompany them through the facility. As the station is suddenly plunged into darkness, the robot\u2019s camera is hot-swapped to thermal so that it can continue on. Upon reaching the approximate location of the contamination, the team installs a Compton gamma-ray camera and pan-tilt illuminating device. The robot autonomously steps forward, locates the radiation source, and points it out with the illuminator.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://ieeexplore.ieee.org/document/11078050\">Paper</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"zcnmhsg5bpw\"><em>On March 6th, 2025, the Robomechanics Lab at CMU was flooded with 4 feet of black water (i.e. mixed with sewage). We lost most of the robots in the lab, and as a tribute my students put together this \u201cIn Memoriam\u201d video. It includes some previously unreleased robots and video clips.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.cmu.edu/me/robomechanicslab/\">Carnegie Mellon University Robomechanics Lab</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"i3goczr4ya0\">There haven\u2019t been a lot of successful <a href=\"https://spectrum.ieee.org/your-kid-wants-a-thymio-ii-education-robot\" target=\"_blank\">education robots</a>, but here\u2019s one of them.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://sphero.com/collections/all/products/rvr?variant=42004659142701\">Sphero</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"35i9m-jc0oc\">The opening keynote from the 2025 Silicon Valley Humanoids Summit: \u201cInsights Into Disney\u2019s Robotic Character Platform,\u201d by Moritz Baecher, Director, Zurich Lab, Disney Research.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://humanoidssummit.com/\">Humanoids Summit</a> ]</p><div class=\"horizontal-rule\"></div>"
-      },
-      {
-        "id": "2aa954ed03bd7a6a",
-        "title": "Why physical AI is becoming manufacturing\u2019s next advantage",
-        "url": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 13 Mar 2026 15:16:55 +0000",
-        "published_dt": "2026-03-13T15:16:55+00:00",
-        "summary": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today\u2019s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and increasing pressure to innovate faster without sacrificing safety, quality, or trust. The next phase&#8230;"
-      },
-      {
-        "id": "c743cbeabe5b4482",
-        "title": "Waabi's Raquel Urtasun on Level-4 Autonomous Trucks",
-        "url": "https://spectrum.ieee.org/level-4-autonomous-trucks",
-        "source": "IEEE Spectrum",
-        "published": "Fri, 13 Mar 2026 13:01:02 +0000",
-        "published_dt": "2026-03-13T13:01:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/an-adult-white-woman-with-short-dark-hair-and-crossed-arms-leaning-her-back-against-the-door-of-a-semi-truck.jpg?id=65278377&amp;width=1245&amp;height=700&amp;coordinates=0%2C156%2C0%2C157\" /><br /><br /><p><a href=\"https://en.wikipedia.org/wiki/Raquel_Urtasun\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Raquel Urtasun</span></a> has spent 16 years in the <a href=\"https://spectrum.ieee.org/self-driving-cars-2662494269\" target=\"_self\"><span>self-driving space</span></a>, long enough to  <span>navigate</span> every <span>metaphorical  glorious </span>hill and plunging valley<span>. </span> <span>She took the trip from the </span>early \u201cpipe dream\u201d dismissals, to the \u201cwe\u2019re <em>this</em> close\u201d certainty, and back again.</p><p>The industry is <span>now </span>riding a new wave of optimism and investment, including at <a href=\"https://waabi.ai/\" target=\"_blank\"><span>Waabi Innovation Inc.</span></a>, the autonomous trucking company that Urtasun founded in 2021. The Spanish-Canadian professor at the <a href=\"https://www.utoronto.ca/\" target=\"_blank\"><span>University of Toronto</span></a>, and former chief scientist of Uber\u2019s Advanced Technologies Group, has helped make Waabi a key player. Beginning in fall 2023, theToronto-based startup has been running geofenced cargo routes from Dallas to Houston in a fleet of retrofitted Peterbilt semis, navigating even residential streets in loaded, <span>36,000-kilogram (</span>80,000-pound<span>)</span> behemoths with a human \u201csafety observer\u201d on board.</p><p>In October, the company reached a milestone by integrating its <a href=\"https://waabi.ai/insights/introducing-the-waabi-driver\" target=\"_blank\"><span>\u201cWaabi Driver\u201d</span></a> physical-AI system in Volvo\u2019s new VNL Autonomous truck, which the Swedish automaker is building in Virginia. That self-driving solution uses Nvidia\u2019s <a href=\"https://www.nvidia.com/en-us/solutions/autonomous-vehicles/in-vehicle-computing/\" target=\"_blank\"><span>Drive AGX Thor</span></a>,  <span>an </span>AI-based platform for autonomous and software-defined vehicles. </p><p>In January, the Toronto-based startup raised $750 million in its latest funding round to accelerate commercial development in autonomous trucking, and expand its system into the fiercely competitive robotaxi space. Backers include <a href=\"https://www.khoslaventures.com/\" target=\"_blank\"><span>Khosla Ventures</span></a>, <a href=\"https://www.nvidia.com/en-us/\" target=\"_blank\"><span>Nvidia</span></a>, and <a href=\"https://www.volvo.com/en/\" target=\"_blank\"><span>Volvo</span></a>.</p><p>Urtasun says the <a href=\"https://waabi.ai/insights/introducing-the-waabi-driver\" target=\"_blank\"><span>Waabi Driver</span></a> can scale across a full range of vehicles, geographies and environments\u2014<span>although</span> snowstorms <span>can </span>still create a no-go zone for now. It\u2019s powered by what Urtasun calls the industry\u2019s most advanced neural simulator. The verifiable, end-to-end AI model will be a \u201cshared brain\u201d that partners can transplant into cars, trucks,  <span>and pretty much anything on wheels</span>. The idea is to grab a chunk of a global autonomous trucking business that McKinsey estimates could be worth more than <a href=\"https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/will-autonomy-usher-in-the-future-of-truck-freight-transportation\" target=\"_blank\"><span>$600 billion a year</span></a> by 2035; with autonomous haulers responsible for 15 percent of total U.S. trucking miles as early as 2030.</p><p>Backed by an additional <a href=\"https://www.forbes.com/sites/alanohnsman/2026/01/28/robot-trucker-waabi-wades-into-robotaxi-battle-with-billion-dollar-raise/\" target=\"_blank\"><span>$250 million from Uber</span></a>, Waabi plans to deploy at least 25,000 autonomous taxis through  <span>Uber\u2019s </span>ride-hailing service, whose world-dominating reach encompasses 70 countries, about 15,000 cities and more than 200 million monthly users.</p><p>Urtasun spoke with <em><span>IEEE Spectrum</span></em> about how Waabi is  <span>counting </span>on sensors and simulation to prove real-world safety; and why the move to autonomy is a moral imperative that outweighs the disruption for human drivers\u2014<span>whether they\u2019re driving trucks or family sedans</span>. Our conversation was edited for length and clarity.</p><h2>The Shift to Next-Gen Autonomous Vehicles</h2><p><strong><em><span>IEEE Spectrum</span></em></strong><strong>: Until quite recently, autonomous tech seemed to have hit a wall, at least in the public\u2019s mind. Now investors are flooding the zone again, and companies are all-in. What happened?</strong></p><p><strong>Raquel Urtasun:</strong> There were a lot of empty promises, or <span>[people] </span>not realizing the complexity of the problem. There was a realization that actually, this problem is harder than people anticipated. It\u2019s also because of the type of technology that was developed at the time, what we call \u201cAV 1.0\u201d. These are hand-engineered systems that need to be brute-forced by humans. You need lots of capital and a massive amount of miles on the road just to get to the first deployment.</p><p>What you see with the next generation\u2014<a href=\"https://medium.com/data-science-collective/the-local-optimum-of-autonomy-de1969b77769\" target=\"_blank\">AV 2.0</a> and systems that can reason\u2014is that you finally have a solution that scales. When we started the company, this was a very contrarian view. But today, the <a href=\"https://spectrum.ieee.org/topic/artificial-intelligence/\" target=\"_blank\">breakthroughs in AI</a> have made it clear that this is the next big revolution. It\u2019s not just about more compute; it\u2019s about building a brain that can generalize. That is the \u201caha moment\u201d the industry is having now.</p><p><strong>Even for someone who believes in the tech, seeing </strong> <strong><span>a driverless</span></strong><strong> semi-trailer in your rear-view mirror might be unsettling. Now you\u2019ve integrated your tech into the aerodynamic, diesel-powered Volvo VNL Autonomous truck. How do you convince regulators and the public that these trucks belong on the street? </strong></p><p><strong>Urtasun:</strong> Safety, when you think about carrying 80,000 pounds on this massive rig, is definitely top of mind. We believe the only way to do this safely is with a redundant platform that is fully developed and validated by the OEM, not with a retrofit. The OEM does a special type of truck that has all the redundant steering, power, and braking, so that no matter what happens, there is always a way we can interface and activate that truck in a safe manner. Then we are responsible for the sensors, the compute, and obviously the brain that drives those trucks.</p><h2>AI\u2019s Impact on Trucking Jobs</h2><p><strong>One of the biggest points of contention is the displacement of human drivers. As AI disrupts a range of workplaces, how do respond to people who say this will eliminate good-paying, blue-collar jobs?</strong></p><p><strong>Urtasun:</strong> The way we see this is that everybody who\u2019s a truck driver today, and wants to retire as a truck driver, will be able to do so. This is physical AI; this is not like the digital world where suddenly you can switch immediately to this technology. That adoption and scaling is going to take time. There will also be many jobs created with this technology; remote operations, terminal operations, and other things. You have time to change the form of labor of being on the road, which is for weeks at a time\u2014and it\u2019s a really difficult and dehumanized job, let\u2019s be honest\u2014to something you can do locally. There was an interesting <span>[U.S.] </span>Department of Transportation study that showed because of this gradual adoption, there will be more jobs created than actually removed.</p><p><strong>You\u2019ve spoken about a personal motivation behind this. Why do you believe the advantages of autonomy outweigh any growing pains, including the potential for unexpected accidents or even deaths?</strong></p><p><strong>Urtasun:</strong> There are 2 million deaths on the road globally per year, and nobody\u2019s questioning that. That\u2019s the status quo. If you think the machines have to be perfect to deploy, you are actually sacrificing many humans along the way that you could have saved. Human error in accidents is between <a href=\"https://www.cbmclaw.com/what-percentage-of-car-accidents-are-caused-by-human-error/\" target=\"_blank\">90 percent and 96 percent</a>. Those could be preventable accidents. Some accidents will always be unavoidable; a tire could blow for a machine the same as it could for a human. But the important comparison is how much safer we are. This technology is the answer to many, many things.</p><p><strong>Most of the industry is focused on \u201chub-to-hub\u201d highway driving. But you\u2019ve argued that Waabi\u2019s AI can handle the complexity of </strong> <strong><span>local </span></strong><strong>streets.</strong></p><p><strong>Urtasun:</strong> The rest of the industry has gone with this business model where you need hubs next to the highway. This adds a lot of friction and cost. Thanks to our verifiable end-to-end AI system, we can drive in surface <span>[local] </span>streets. We can do unprotected lefts, traffic lights, and tight turns. These core capabilities enable us to drive all the way to the end customer. We are already hauling commercial loads for customers like Samsung through our Uber Freight partnership.</p><p><strong>You\u2019ve mentioned that Waabi doesn\u2019t like to talk about \u201cnumber of miles\u201d driven as a metric. For an engineering audience, that sounds counterintuitive. How does your \u201csimulation-first\u201d approach replace the need for real-world road time?</strong></p><p><strong>Urtasun:</strong> In the industry, miles have been used as a proxy for advancement. How many miles does <a href=\"https://www.tesla.com/about\" target=\"_blank\">Tesla</a> need to drive to see any of these situations? But we are a simulation-first company. Waabi World can simulate all the sensors, the behaviors of humans, everything. It is the only simulator where you can mathematically prove that testing and driving in simulation is the same as driving in the real world. You can expose the system to billions of simulations in the cloud. This is what allows us to be so capital efficient and fast.</p><h2>Verifiable AI vs. Black Box Systems</h2><p><strong>What is the difference between your \u201cinterpretable\u201d AI and the \u201cblack box\u201d systems we see elsewhere?</strong></p><p><strong>Urtasun:</strong> We\u2019ve seen an evolution on passenger cars for level<span>- </span>2+ systems to end-to-end, black box architectures. But those are not verifiable. You cannot validate and verify those systems, which is a massive problem when you think about regulators and OEMs trusting that technology.</p><p>What Waabi has built is end-to-end, but fully verifiable. The system is forced to interpret what it is perceiving and use those interpretations for reasoning, so that it can understand the consequences of every action. It is much more akin to how our brain actually works; your \u201cType 2\u201d thinking, where you start thinking about cause and effect and consequences, and then you typically do a much better choice in your maneuver.</p><p><strong>Tesla is famously, and controversially, relying on camera data almost exclusively to run and improve its self-driving systems. You\u2019re not a fan of that approach?</strong></p><p><strong>Urtasun:</strong> We use multiple sensors: lidar, camera, and radar. That\u2019s very important because failure modes of those sensors are very different and they\u2019re very complementary. We don\u2019t compromise safety to reduce the  <span>bill- of- materials </span>cost today.</p><p>Those (passenger car) l<span>evel-</span>2+ systems are not architected for <a href=\"https://www.jdpower.com/cars/shopping-guides/levels-of-autonomous-driving-explained\" target=\"_blank\">level 4</a>, where there\u2019s no human on board. People don\u2019t necessarily realize there is a huge difference in terms of the bar when there is no human to rely on. It\u2019s not, \u201cWell, if I don\u2019t have a lot of system interventions, I\u2019m almost there.\u201d That\u2019s not a metric. We are native level 4. We decide which areas the system can drive in, and in what conditions. We are building technology that can drive different form factors\u2014trucks or robotaxis\u2014with the same brain.</p><p><em><strong>Editor\u2019s note: </strong>This article was updated on 13 March to correct an error in the original post. Contrary to what was stated in the original post, the trucks being driven from Dallas to Houston do have a human observer on board.</em></p>"
       }
     ]
   }
