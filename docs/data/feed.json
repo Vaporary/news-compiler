@@ -1,7 +1,88 @@
 {
-  "generated_at": "2026-04-05T13:12:03.245853+00:00",
+  "generated_at": "2026-04-06T13:24:03.695953+00:00",
   "categories": {
     "Biotech": [
+      {
+        "id": "dbe2b0751a958ddd",
+        "title": "UnitedHealth makes a bet on AI. What does it mean for us?",
+        "url": "https://www.statnews.com/2026/04/06/health-news-unitedhealth-big-bet-on-ai/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 06 Apr 2026 12:57:02 +0000",
+        "published_dt": "2026-04-06T12:57:02+00:00",
+        "summary": "A hep B trial raises ethical questions, the peptide hype, and more Morning Rounds news"
+      },
+      {
+        "id": "00f5e2326d626377",
+        "title": "STAT+: Stealth biotech Stipple bets on secretive ADCs",
+        "url": "https://www.statnews.com/2026/04/06/biotech-news-stealth-biotech-stipple-bets-on-adcs/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 06 Apr 2026 13:13:42 +0000",
+        "published_dt": "2026-04-06T13:13:42+00:00",
+        "summary": "How thin science fuels peptide hype, blowback to proposed NIH cuts, and more biotech news from The Readout"
+      },
+      {
+        "id": "2d12e9980b5c053b",
+        "title": "STAT+: Neurocrine Biosciences to buy Soleno Therapeutics in $2.9B deal",
+        "url": "https://www.statnews.com/2026/04/06/neurocrine-biosciences-soleno-therapeutics-acquisition-prader-willi-vykat/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 06 Apr 2026 11:58:02 +0000",
+        "published_dt": "2026-04-06T11:58:02+00:00",
+        "summary": "Neurocrine Biosciences is buying Soleno Therapeutics for $2.9 billion, picking up an approved medicine for a rare disease that causes insatiable hunger."
+      },
+      {
+        "id": "70a7a691aff29be5",
+        "title": "AI is changing how small online sellers decide what to make",
+        "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 06 Apr 2026 11:00:00 +0000",
+        "published_dt": "2026-04-06T11:00:00+00:00",
+        "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever. Even after he stopped offering it around 2017, customers kept sending him emails asking where they could buy it.&#160; When McClary&#8230;"
+      },
+      {
+        "id": "c96e2f2d5eaf97e5",
+        "title": "STAT+: How a four-month FDA delay forced a small biotech company to close its doors",
+        "url": "https://www.statnews.com/2026/04/06/fda-delay-cited-in-closure-kezar-life-sciences-biotech-startup/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 06 Apr 2026 08:30:00 +0000",
+        "published_dt": "2026-04-06T08:30:00+00:00",
+        "summary": "In February, a small biotech company reached a breakthrough with the FDA, agreeing to a clinical trial plan. The problem: The agreement came four months too late."
+      },
+      {
+        "id": "e82eaf629c3bedc6",
+        "title": "What the peptide craze reveals about Americans\u2019 relationship with risk",
+        "url": "https://www.statnews.com/2026/04/06/rfk-jr-apparent-contradiction-peptides-vaccines-medical-libertarianism/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 06 Apr 2026 08:30:00 +0000",
+        "published_dt": "2026-04-06T08:30:00+00:00",
+        "summary": "Why do RFK Jr. and other health influencers embrace unproven peptides while calling for more research into well-studied vaccines?"
+      },
+      {
+        "id": "2c0c2741b1df14e0",
+        "title": "Opinion: When my child is in psychosis, the pediatric health care system can\u2019t help us",
+        "url": "https://www.statnews.com/2026/04/06/children-psychosis-pediatric-mental-health-emergency-system/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 06 Apr 2026 08:30:00 +0000",
+        "published_dt": "2026-04-06T08:30:00+00:00",
+        "summary": "\u201cThere is no off switch when the crisis is your child,\u201d writes Liz Koch."
+      },
+      {
+        "id": "dc22441b71eb1b77",
+        "title": "Opinion: \u2018Medical nutrition\u2019 helps keep my son, and many others, healthy. But insurance won\u2019t cover it",
+        "url": "https://www.statnews.com/2026/04/06/medical-nutrition-mitochondrial-disease-insurance-coverage/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 06 Apr 2026 08:30:00 +0000",
+        "published_dt": "2026-04-06T08:30:00+00:00",
+        "summary": "Lifelong disorders require lifelong treatments."
+      },
+      {
+        "id": "e528e876c330c312",
+        "title": "STAT+: UnitedHealth Group is making a $3 billion bet on AI. What does it mean for patients?",
+        "url": "https://www.statnews.com/2026/04/06/unitedhealth-group-massive-artificial-intelligence-push-patient-implications/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 06 Apr 2026 08:30:00 +0000",
+        "published_dt": "2026-04-06T08:30:00+00:00",
+        "summary": "UnitedHealth Group is rapidly deploying artificial intelligence tools across its operations. What does it mean for patients?"
+      },
       {
         "id": "3939a03f89af814e",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/gilead-cancels-midstage-hiv-trial-fdas-clinical-hold-remains-intact\" hreflang=\"en\">Gilead cancels midstage HIV trial as FDA\u2019s clinical hold remains intact</a>",
@@ -10,33 +91,6 @@
         "published": "Apr 1, 2026 4:52pm",
         "published_dt": "2026-04-01T16:52:00+00:00",
         "summary": "After the FDA placed two of its next-gen HIV drugs on clinical hold last June, Gilead Sciences has now terminated one of the affected trials."
-      },
-      {
-        "id": "63e7a677a17c5f22",
-        "title": "Biotech investors\u2019 plea to Trump, and a busy M&A week",
-        "url": "https://www.statnews.com/2026/04/02/readout-loud-podcast-biotech-investors-fda-trump-eli-lilly-psychedelics/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 02 Apr 2026 19:27:20 +0000",
-        "published_dt": "2026-04-02T19:27:20+00:00",
-        "summary": "How has the FDA's recent decisions on rare disease drugs affected investment trends? Why is Eli Lilly getting into sleep medicine? Find out on this week's episode of \"The Readout&#8230;"
-      },
-      {
-        "id": "1df6e7c2e431313f",
-        "title": "STAT+: FDA\u2019s evolving view of what makes a \u2018breakthrough\u2019 device",
-        "url": "https://www.statnews.com/2026/04/02/fda-ai-breakthrough-medical-device-stat-health-tech/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 02 Apr 2026 17:53:01 +0000",
-        "published_dt": "2026-04-02T17:53:01+00:00",
-        "summary": "In this edition of STAT Health Tech: Another study of AI scribes, and an analysis of AI-powered devices that got FDA's 'breakthrough' label."
-      },
-      {
-        "id": "846fea010175394c",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about Trump tariff plans, FDA\u2019s OK for a Lilly obesity pill, and more",
-        "url": "https://www.statnews.com/pharmalot/2026/04/02/trump-tariff-plans-lilly-obesity-pill-layoffs/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 02 Apr 2026 13:29:17 +0000",
-        "published_dt": "2026-04-02T13:29:17+00:00",
-        "summary": "The Trump administration has prepared an order to impose a 100% tariff on imports of some patented medicines and their active ingredients"
       },
       {
         "id": "5b5f7839ea77e8ad",
@@ -57,6 +111,15 @@
         "summary": "Immunovant\u2019s first-generation FcRn inhibitor flunked a pair of phase 3 eye disease trials, appearing to end the last hopes of commercializing the drug."
       },
       {
+        "id": "211b9f74bd830fa6",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/buoyed-100m-series-stipple-bio-debuts-advance-lead-oncology-asset-clinic\" hreflang=\"en\">Buoyed by $100M Series A, Stipple Bio debuts to advance lead oncology asset into clinic</a>",
+        "url": "https://www.fiercebiotech.com/biotech/buoyed-100m-series-stipple-bio-debuts-advance-lead-oncology-asset-clinic",
+        "source": "Fierce Biotech",
+        "published": "Apr 1, 2026 2:49pm",
+        "published_dt": "2026-04-01T14:49:00+00:00",
+        "summary": "Stipple Bio is connecting the dots toward multiple early-stage clinical studies for its lead precision oncology asset as it emerges from stealth with a $100 million series A financing round."
+      },
+      {
         "id": "9e2c89f710f897cd",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/valneva-ceo-pfizer-partnered-lyme-vaccine-why-phase-3-miss-doesnt-tell-whole-story\" hreflang=\"en\">Valneva CEO on Pfizer-partnered Lyme vaccine: Why a phase 3 miss doesn\u2019t tell the whole story</a>",
         "url": "https://www.fiercebiotech.com/biotech/valneva-ceo-pfizer-partnered-lyme-vaccine-why-phase-3-miss-doesnt-tell-whole-story",
@@ -75,13 +138,13 @@
         "summary": "Nearly 8,000 clinical trial sites have been affected by the joint strikes on Iran by the U.S. and Israel and Iran\u2019s subsequent retaliation, according to a report from clinical data science company Phesi."
       },
       {
-        "id": "6ee508f1c08de3de",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/after-reeling-fda-refusal-io-biotech-surrenders-bankruptcy\" hreflang=\"en\">Still reeling from FDA refusal, IO Biotech surrenders to bankruptcy</a>",
-        "url": "https://www.fiercebiotech.com/biotech/after-reeling-fda-refusal-io-biotech-surrenders-bankruptcy",
+        "id": "3a1dc435f4296e05",
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/how-ctdna-redefining-mrd-monitoring-hematologic-cancers\" hreflang=\"en\">How ctDNA is redefining MRD monitoring in hematologic cancers</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/how-ctdna-redefining-mrd-monitoring-hematologic-cancers",
         "source": "Fierce Biotech",
-        "published": "Mar 31, 2026 10:18am",
-        "published_dt": "2026-03-31T10:18:00+00:00",
-        "summary": "Half a year after being spurned by the FDA and following several rounds of deep layoffs, IO Biotech has decided to close its doors for good."
+        "published": "Mar 31, 2026 2:02pm",
+        "published_dt": "2026-03-31T14:02:00+00:00",
+        "summary": "ctDNA assays are changing how hematologic cancers are monitored, from MRD detection to clinical trial design."
       },
       {
         "id": "97c04d47bfaf0ee5",
@@ -138,6 +201,15 @@
         "summary": "Smaller biotechs move to negotiate with White House, medicine's trust gap, and other biotech news from The Readout"
       },
       {
+        "id": "881a0a3e25dcf048",
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/march-ma-surge-triggers-high-expectations-2026\" hreflang=\"en\">March M&amp;A surge triggers high expectations for 2026 </a>",
+        "url": "https://www.fiercebiotech.com/pharma/march-ma-surge-triggers-high-expectations-2026",
+        "source": "Fierce Biotech",
+        "published": "Apr 3, 2026 1:28pm",
+        "published_dt": "2026-04-03T13:28:00+00:00",
+        "summary": "In a flurry of activity, biopharma companies pulled off seven transactions in the last two weeks of March worth a combined $29 billion. The blitz indicates that 2026 will be a prime year for M&amp;A and that the surge seen in the fourth quarter of 2025 was not a false alarm.&nbsp;"
+      },
+      {
         "id": "60264cac3a48436f",
         "title": "<a href=\"https://www.fiercebiotech.com/providers/white-house-floats-125-budget-cut-hhs-fy2027-reiterates-reorganization-plan\" hreflang=\"en\">White House floats 12.5% budget cut for HHS in FY2027, reiterates reorganization plan</a>",
         "url": "https://www.fiercebiotech.com/providers/white-house-floats-125-budget-cut-hhs-fy2027-reiterates-reorganization-plan",
@@ -154,81 +226,99 @@
         "published": "Fri, 03 Apr 2026 13:26:56 +0000",
         "published_dt": "2026-04-03T13:26:56+00:00",
         "summary": "The Trump administration announced 100% tariffs on imported brand-name drugs, but with significant caveats"
-      },
-      {
-        "id": "3878e25d3800845d",
-        "title": "Thursday was World Autism Awareness Day. HHS celebrated with\u2026a workout?",
-        "url": "https://www.statnews.com/2026/04/03/health-news-hhs-works-it-for-autism-awareness-day/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 03 Apr 2026 13:15:36 +0000",
-        "published_dt": "2026-04-03T13:15:36+00:00",
-        "summary": "Implications of SCOTUS' conversion therapy ruling, Trump hikes drug tariffs, and more Morning Rounds updates"
-      },
-      {
-        "id": "73bbf90bf884ccea",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/four-months-after-100m-series-syneron-closes-150m-round-support-peptide-platform\" hreflang=\"en\">Months after $100M series A, Syneron closes $150M round to support peptide platform</a>",
-        "url": "https://www.fiercebiotech.com/biotech/four-months-after-100m-series-syneron-closes-150m-round-support-peptide-platform",
-        "source": "Fierce Biotech",
-        "published": "Apr 3, 2026 9:11am",
-        "published_dt": "2026-04-03T09:11:00+00:00",
-        "summary": "After securing a multibillion-dollar biobucks deal with AstraZeneca and raising nearly $100 million last year, peptide drug discovery company Syneron Bio has announced the closing of a $150 million series B round to support its macrocyclic peptide development platform."
-      },
-      {
-        "id": "a446e59483817c77",
-        "title": "Supreme Court conversion therapy decision could ripple through medicine",
-        "url": "https://www.statnews.com/2026/04/03/conversion-therapy-ruling-scotus-impact-state-medical-boards/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 03 Apr 2026 08:30:00 +0000",
-        "published_dt": "2026-04-03T08:30:00+00:00",
-        "summary": "A Supreme Court ruling this week on gender and sexuality \u201cconversion therapy\u201d could narrow the authority of state medical boards over care involving speech"
-      },
-      {
-        "id": "33d17e4f9b380335",
-        "title": "Opinion: My patient would rather take a peptide than a statin. That reveals an uncomfortable truth in medicine",
-        "url": "https://www.statnews.com/2026/04/03/peptides-statins-research-trust-bpc-157/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 03 Apr 2026 08:30:00 +0000",
-        "published_dt": "2026-04-03T08:30:00+00:00",
-        "summary": "\u201cThe volume of evidence behind a therapy has become inversely correlated with public trust in it,\u201d writes Vikas Patel."
-      },
-      {
-        "id": "0aa06c7fcebaef5a",
-        "title": "Opinion: Subscription pricing could expand access to HIV prevention breakthrough while controlling costs",
-        "url": "https://www.statnews.com/2026/04/03/lenacapavir-subscription-pricing-model-hiv-prevention/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 03 Apr 2026 08:30:00 +0000",
-        "published_dt": "2026-04-03T08:30:00+00:00",
-        "summary": "Lenacapavir could put the end of the HIV epidemic in reach \u2014 if the people who need it can access it. Here\u2019s one way to make that happen."
-      },
-      {
-        "id": "e0ac72efbb8a049a",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biopharma-rd-pipeline-shrinks-1st-time-30-years-report\" hreflang=\"en\">Biopharma R&amp;D pipeline shrinks for 1st time in 30 years: report</a>",
-        "url": "https://www.fiercebiotech.com/biotech/biopharma-rd-pipeline-shrinks-1st-time-30-years-report",
-        "source": "Fierce Biotech",
-        "published": "Apr 3, 2026 3:44am",
-        "published_dt": "2026-04-03T03:44:00+00:00",
-        "summary": "The number of drugs in development has fallen for the first time since the mid-1990s, according to a Citeline report. While methodological changes may have affected the result, the dip highlights a period when drugmakers have trimmed their pipelines and cut the number of new projects starting development."
-      },
-      {
-        "id": "9e64e5971aa0facc",
-        "title": "STAT+: Medicare Advantage plans win extra $18.6 billion as feds cut star ratings measures",
-        "url": "https://www.statnews.com/2026/04/02/medicare-advantage-star-ratings-changes-18-billion-windfall-health-insurers/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 02 Apr 2026 22:08:29 +0000",
-        "published_dt": "2026-04-02T22:08:29+00:00",
-        "summary": "CMS is scaling back the number of measures it uses to grade health insurers."
-      },
-      {
-        "id": "c16b31e96815966f",
-        "title": "EPA to put microplastics on study list of contaminants in drinking water",
-        "url": "https://www.statnews.com/2026/04/02/microplastics-in-water-epa-contaminant-list/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 02 Apr 2026 20:48:04 +0000",
-        "published_dt": "2026-04-02T20:48:04+00:00",
-        "summary": "The EPA names microplastics as a potential drinking water contaminant, a move that is seen as an appeal to Kennedy's MAHA movement."
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "0b752846e0be3495",
+        "title": "Opinion: The cultural gap facing aerospace R&D testing",
+        "url": "https://aerospaceamerica.aiaa.org/opinion-the-cultural-gap-facing-aerospace-rd-testing/",
+        "source": "Aerospace America",
+        "published": "Mon, 06 Apr 2026 13:00:08 +0000",
+        "published_dt": "2026-04-06T13:00:08+00:00",
+        "summary": ""
+      },
+      {
+        "id": "be59ec785fc1aa89",
+        "title": "The\u00a0moon\u00a0base\u00a0has\u00a0a\u00a0hardware\u00a0plan. It\u00a0needs\u00a0a\u00a0software\u00a0strategy,\u00a0too.",
+        "url": "https://spacenews.com/the-moon-base-has-a-hardware-plan-it-needs-a-software-strategy-too/",
+        "source": "SpaceNews",
+        "published": "Mon, 06 Apr 2026 13:00:00 +0000",
+        "published_dt": "2026-04-06T13:00:00+00:00",
+        "summary": "<figure><img alt=\"NASA lunar base\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"450\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/moon-base1.webp?fit=800%2C450&amp;ssl=1\" width=\"800\" /></figure>\n<p>Early in my career at SpaceX, I was the only person dedicated to training the mission control team for Dragon. For three years, I built the training for the operations team. The documentation came second, always the thing I&#8217;d get to later, always the thing that felt like overhead against the actual work of getting [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/the-moon-base-has-a-hardware-plan-it-needs-a-software-strategy-too/\">The\u00a0moon\u00a0base\u00a0has\u00a0a\u00a0hardware\u00a0plan. It\u00a0needs\u00a0a\u00a0software\u00a0strategy,\u00a0too.</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "18228e381254fb57",
+        "title": "Seagate Space Signs MOU with Firefly Aerospace to Collaborate on Offshore Launch Infrastructure for Alpha",
+        "url": "https://spacenews.com/seagate-space-signs-mou-with-firefly-aerospace-to-collaborate-on-offshore-launch-infrastructure-for-alpha/",
+        "source": "SpaceNews",
+        "published": "Mon, 06 Apr 2026 12:15:00 +0000",
+        "published_dt": "2026-04-06T12:15:00+00:00",
+        "summary": "<figure><img alt=\"Seagate Space logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"972\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/seagate.png?fit=976%2C972&amp;ssl=1\" width=\"976\" /></figure>\n<p>St. Petersburg, FL \u2014 April 6, 2026&#160;\u2014 Seagate Space Corporation announced today a Memorandum of Understanding (MOU) with Firefly Aerospace to collaborate on the development of an offshore launch platform [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/seagate-space-signs-mou-with-firefly-aerospace-to-collaborate-on-offshore-launch-infrastructure-for-alpha/\">Seagate Space Signs MOU with Firefly Aerospace to Collaborate on Offshore Launch Infrastructure for Alpha</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "cc0c484b3e502f24",
+        "title": "Keysight introduces virtual assembly simulation software",
+        "url": "https://www.engineering.com/keysight-introduces-virtual-assembly-simulation-software/",
+        "source": "Engineering.com",
+        "published": "Mon, 06 Apr 2026 11:44:10 +0000",
+        "published_dt": "2026-04-06T11:44:10+00:00",
+        "summary": "<p>The tool helps engineers spot distortion and dimensional risks early using guided workflows without FEM expertise.</p>\n<p>The post <a href=\"https://www.engineering.com/keysight-introduces-virtual-assembly-simulation-software/\">Keysight introduces virtual assembly simulation software</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "79845a6d85486d73",
+        "title": "Military space programs confront hidden supply constraints",
+        "url": "https://spacenews.com/military-space-confronts-hidden-supplier-constraints/",
+        "source": "SpaceNews",
+        "published": "Mon, 06 Apr 2026 11:30:00 +0000",
+        "published_dt": "2026-04-06T11:30:00+00:00",
+        "summary": "<figure><img alt=\"Lockheed Martin manufactures satellites for the Space Development Agency\u2019s Transport Layer program. These satellites enable data-relay communications.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/T-0_Pics-4-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Industry report warns components \u2013 from optical links to valves \u2013 may become chokepoints</p>\n<p>The post <a href=\"https://spacenews.com/military-space-confronts-hidden-supplier-constraints/\">Military space programs confront hidden supply constraints</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "4990d55845511729",
+        "title": "Artemis 2 ready to fly around the moon",
+        "url": "https://spacenews.com/artemis-2-ready-to-fly-around-the-moon/",
+        "source": "SpaceNews",
+        "published": "Mon, 06 Apr 2026 11:21:26 +0000",
+        "published_dt": "2026-04-06T11:21:26+00:00",
+        "summary": "<figure><img alt=\"Moon from Artemis 2\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/art2-moonwindow.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The Artemis 2 mission will swing around the moon April 6, setting a distance record as astronauts study part of the lunar farside.</p>\n<p>The post <a href=\"https://spacenews.com/artemis-2-ready-to-fly-around-the-moon/\">Artemis 2 ready to fly around the moon</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "4c2cc8a7000e44e1",
+        "title": "Molex completes acquisition of Smiths Interconnect",
+        "url": "https://www.engineering.com/molex-completes-acquisition-of-smiths-interconnect/",
+        "source": "Engineering.com",
+        "published": "Mon, 06 Apr 2026 11:19:40 +0000",
+        "published_dt": "2026-04-06T11:19:40+00:00",
+        "summary": "<p>The deal adds rugged connectors, RF and optical products and semiconductor test capabilities across multiple industries.</p>\n<p>The post <a href=\"https://www.engineering.com/molex-completes-acquisition-of-smiths-interconnect/\">Molex completes acquisition of Smiths Interconnect</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "d3fe5a3043f511b6",
+        "title": "ROHM adds TLRx728 and BD728x CMOS op amp series",
+        "url": "https://www.engineering.com/rohm-adds-tlrx728-and-bd728x-cmos-op-amp-series/",
+        "source": "Engineering.com",
+        "published": "Mon, 06 Apr 2026 09:35:54 +0000",
+        "published_dt": "2026-04-06T09:35:54+00:00",
+        "summary": "<p>The lineup includes 1-, 2- and 4-channel options with rail-to-rail input/output for sensor and power monitoring uses.</p>\n<p>The post <a href=\"https://www.engineering.com/rohm-adds-tlrx728-and-bd728x-cmos-op-amp-series/\">ROHM adds TLRx728 and BD728x CMOS op amp series</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "7a0ac8f007a7caca",
+        "title": "VIAVI, Ground Control integrate Secure \u00b5PNT STL-1000",
+        "url": "https://www.engineering.com/viavi-ground-control-integrate-secure-%c2%b5pnt-stl-1000/",
+        "source": "Engineering.com",
+        "published": "Mon, 06 Apr 2026 09:03:02 +0000",
+        "published_dt": "2026-04-06T09:03:02+00:00",
+        "summary": "<p>The system supports marine tracking and navigation when GPS or GNSS signals are denied, disrupted, or unreliable.</p>\n<p>The post <a href=\"https://www.engineering.com/viavi-ground-control-integrate-secure-%c2%b5pnt-stl-1000/\">VIAVI, Ground Control integrate Secure \u00b5PNT STL-1000</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "4d17b8e2a1eb0395",
+        "title": "Arclin completes acquisition of DuPont Aramids business",
+        "url": "https://www.engineering.com/arclin-completes-acquisition-of-dupont-aramids-business/",
+        "source": "Engineering.com",
+        "published": "Mon, 06 Apr 2026 09:00:00 +0000",
+        "published_dt": "2026-04-06T09:00:00+00:00",
+        "summary": "<p>The $1.8 billion deal adds the Kevlar and Nomex brands and expands Arclin\u2019s presence in multiple end markets.</p>\n<p>The post <a href=\"https://www.engineering.com/arclin-completes-acquisition-of-dupont-aramids-business/\">Arclin completes acquisition of DuPont Aramids business</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
       {
         "id": "f22ea411133c4d93",
         "title": "Roland DGA launches 64-inch UV flatbed printer",
@@ -237,15 +327,6 @@
         "published": "Fri, 03 Apr 2026 13:20:36 +0000",
         "published_dt": "2026-04-03T13:20:36+00:00",
         "summary": "<p>The LO-640-F3 prints on materials up to 9.5 inches thick and supports glass, metal, plastic, wood and leather.</p>\n<p>The post <a href=\"https://www.engineering.com/roland-dga-launches-64-inch-uv-flatbed-printer/\">Roland DGA launches 64-inch UV flatbed printer</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "c041e5ac752da164",
-        "title": "NASA finalizes science plans for Artemis 2 lunar flyby",
-        "url": "https://spacenews.com/nasa-finalizes-science-plans-for-artemis-2-lunar-flyby/",
-        "source": "SpaceNews",
-        "published": "Sun, 05 Apr 2026 03:29:58 +0000",
-        "published_dt": "2026-04-05T03:29:58+00:00",
-        "summary": "<figure><img alt=\"Orion Artemis 2\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/art002e004357-large.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>As Artemis 2 approaches the moon, a NASA science team is finalizing plans for the observations they want the astronauts to perform during their flyby.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-finalizes-science-plans-for-artemis-2-lunar-flyby/\">NASA finalizes science plans for Artemis 2 lunar flyby</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "040912c948921c73",
@@ -257,22 +338,31 @@
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"586\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/rsz_josh_jetter_headshot_2.png?fit=879%2C586&amp;ssl=1\" width=\"879\" /></figure>\n<p>SAN FRANCISCO \u2013 Los Angeles startup Fortastra\u00a0has hired veterans from Relativity Space, Hermeus, Astrion and Divergent Technologies to design and operate maneuverable spacecraft for on-orbit security. Josh Jetter, former Relativity senior director of avionics engineering and manufacturing, will be Fortastra\u2019s chief technology officer. Sahil Desai, Fortastra\u2019s vice president of product, was Divergent Technologies\u2019 vice president [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/relativity-hermeus-astrion-and-divergent-executives-join-fortastra-c-suite/\">Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "930ffe700b7c6ba1",
-        "title": "Teledyne forms dedicated space unit to capture rising demand",
-        "url": "https://spacenews.com/teledyne-forms-dedicated-space-unit-to-capture-rising-demand/",
+        "id": "03038c15e407a8fd",
+        "title": "Isaacman defends NASA budget proposal despite steep cuts",
+        "url": "https://spacenews.com/isaacman-defends-nasa-budget-proposal-despite-steep-cuts/",
         "source": "SpaceNews",
-        "published": "Wed, 01 Apr 2026 17:29:14 +0000",
-        "published_dt": "2026-04-01T17:29:14+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/news-generic-tdy-office-2-2782x1855-50-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The aerospace supplier is combining imaging, electronics and component lines under Teledyne Space</p>\n<p>The post <a href=\"https://spacenews.com/teledyne-forms-dedicated-space-unit-to-capture-rising-demand/\">Teledyne forms dedicated space unit to capture rising demand</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Sun, 05 Apr 2026 22:20:09 +0000",
+        "published_dt": "2026-04-05T22:20:09+00:00",
+        "summary": "<figure><img alt=\"Isaacman\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"727\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/55165945281_2a9ea0fb1e_k.jpg?fit=1024%2C727&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA Administrator Jared Isaacman defended a fiscal year 2027 budget proposal that would cut the agency\u2019s budget by nearly 25%.</p>\n<p>The post <a href=\"https://spacenews.com/isaacman-defends-nasa-budget-proposal-despite-steep-cuts/\">Isaacman defends NASA budget proposal despite steep cuts</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "4dc85ba408ce0099",
-        "title": "Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites",
-        "url": "https://spacenews.com/aspect-aerospace-secures-early-funding-to-advance-swarm-deployable-vleo-satellites/",
+        "id": "6f58a8cbe33e697d",
+        "title": "NASA stops work on SLS Mobile Launcher 2",
+        "url": "https://spacenews.com/nasa-stops-work-on-sls-mobile-launcher-2/",
         "source": "SpaceNews",
-        "published": "Wed, 01 Apr 2026 14:45:13 +0000",
-        "published_dt": "2026-04-01T14:45:13+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/IMG_9309.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Aspect Aerospace, a University of South Alabama spin-off, has secured $2.4 million to develop circuit-board-sized spacecraft that could be deployed from space into very low Earth orbit in swarms to monitor the space environment.</p>\n<p>The post <a href=\"https://spacenews.com/aspect-aerospace-secures-early-funding-to-advance-swarm-deployable-vleo-satellites/\">Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Sun, 05 Apr 2026 20:29:48 +0000",
+        "published_dt": "2026-04-05T20:29:48+00:00",
+        "summary": "<figure><img alt=\"ML-2\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/ml2-march2026.jpeg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA has stopped work on a second mobile launch platform intended for an upgraded version of the Space Launch System the agency no longer plans to develop.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-stops-work-on-sls-mobile-launcher-2/\">NASA stops work on SLS Mobile Launcher 2</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "c041e5ac752da164",
+        "title": "NASA finalizes science plans for Artemis 2 lunar flyby",
+        "url": "https://spacenews.com/nasa-finalizes-science-plans-for-artemis-2-lunar-flyby/",
+        "source": "SpaceNews",
+        "published": "Sun, 05 Apr 2026 03:29:58 +0000",
+        "published_dt": "2026-04-05T03:29:58+00:00",
+        "summary": "<figure><img alt=\"Orion Artemis 2\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/art002e004357-large.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>As Artemis 2 approaches the moon, a NASA science team is finalizing plans for the observations they want the astronauts to perform during their flyby.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-finalizes-science-plans-for-artemis-2-lunar-flyby/\">NASA finalizes science plans for Artemis 2 lunar flyby</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "8f6e0bfd6a98b3ef",
@@ -363,134 +453,17 @@
         "published": "Fri, 03 Apr 2026 12:52:34 +0000",
         "published_dt": "2026-04-03T12:52:34+00:00",
         "summary": "<p>The release includes SOLIDWORKS configuration reading, glTF metadata support and ARM support for the Solid Edge reader.</p>\n<p>The post <a href=\"https://www.engineering.com/datakit-2026-2-adds-format-and-interoperability-updates/\">Datakit 2026.2 adds format and interoperability updates</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "00146d59e51a8246",
-        "title": "Trimble signs agreement to acquire Document Crunch",
-        "url": "https://www.engineering.com/trimble-signs-agreement-to-acquire-document-crunch/",
-        "source": "Engineering.com",
-        "published": "Fri, 03 Apr 2026 12:43:42 +0000",
-        "published_dt": "2026-04-03T12:43:42+00:00",
-        "summary": "<p>The software analyzes construction contracts, payment terms, compliance issues and project risks and already integrates with ProjectSight.</p>\n<p>The post <a href=\"https://www.engineering.com/trimble-signs-agreement-to-acquire-document-crunch/\">Trimble signs agreement to acquire Document Crunch</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "f3df71cbc2641a85",
-        "title": "Siemens expands private 5G infrastructure to more countries",
-        "url": "https://www.engineering.com/siemens-expands-private-5g-infrastructure-to-more-countries/",
-        "source": "Engineering.com",
-        "published": "Fri, 03 Apr 2026 12:34:58 +0000",
-        "published_dt": "2026-04-03T12:34:58+00:00",
-        "summary": "<p>New CBRS radio units and edge-enabled routers target on-premises industrial networking and shop-floor data processing.</p>\n<p>The post <a href=\"https://www.engineering.com/siemens-expands-private-5g-infrastructure-to-more-countries/\">Siemens expands private 5G infrastructure to more countries</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "f64db4464e893dcd",
-        "title": "Computer Guidance eCMS v4.2 named Constructech Top Product",
-        "url": "https://www.engineering.com/computer-guidance-ecms-v4-2-named-constructech-top-product/",
-        "source": "Engineering.com",
-        "published": "Fri, 03 Apr 2026 11:46:54 +0000",
-        "published_dt": "2026-04-03T11:46:54+00:00",
-        "summary": "<p>The cloud ERP platform combines financials, project management and reporting tools for construction workflows in field and office use.</p>\n<p>The post <a href=\"https://www.engineering.com/computer-guidance-ecms-v4-2-named-constructech-top-product/\">Computer Guidance eCMS v4.2 named Constructech Top Product</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "cd04ef568884852a",
-        "title": "ELEGOO to show 3D printing lineup at RAPID + TCT",
-        "url": "https://www.engineering.com/elegoo-to-show-3d-printing-lineup-at-rapid-tct/",
-        "source": "Engineering.com",
-        "published": "Fri, 03 Apr 2026 11:42:15 +0000",
-        "published_dt": "2026-04-03T11:42:15+00:00",
-        "summary": "<p>The booth will feature the Jupiter 2, model platform tools and printed examples ranging from dental models to robotic builds.</p>\n<p>The post <a href=\"https://www.engineering.com/elegoo-to-show-3d-printing-lineup-at-rapid-tct/\">ELEGOO to show 3D printing lineup at RAPID + TCT</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "84bd4054c404cccf",
-        "title": "SpaceX and Amazon spar over satellite deployments",
-        "url": "https://spacenews.com/spacex-and-amazon-spar-over-satellite-deployments/",
-        "source": "SpaceNews",
-        "published": "Fri, 03 Apr 2026 11:41:46 +0000",
-        "published_dt": "2026-04-03T11:41:46+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Amazon-Leo-scaled.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Amazon says it will revise deployment plans for its broadband satellite constellation while denying claims from SpaceX that its current approach represents a space safety risk.</p>\n<p>The post <a href=\"https://spacenews.com/spacex-and-amazon-spar-over-satellite-deployments/\">SpaceX and Amazon spar over satellite deployments</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "84635ffb8cfdfa43",
-        "title": "Europe\u2019s strategic autonomy in space will define its role in the \u2018second space age\u2019",
-        "url": "https://spacenews.com/europes-strategic-autonomy-in-space-will-define-its-role-in-the-second-space-age/",
-        "source": "SpaceNews",
-        "published": "Fri, 03 Apr 2026 11:00:00 +0000",
-        "published_dt": "2026-04-03T11:00:00+00:00",
-        "summary": "<figure><img alt=\"Ariane 64 launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/ariane64-va267.jpeg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Europe\u2019s future in space really boils down to one question: can it stay ahead without relying on technology made somewhere else? As we step into what experts call the \u201csecond space age,\u201d strategic autonomy is suddenly front and center for the European Union. And it is increasingly essential that Europe can get to, control and [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/europes-strategic-autonomy-in-space-will-define-its-role-in-the-second-space-age/\">Europe\u2019s strategic autonomy in space will define its role in the \u2018second space age\u2019</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "04436c39c2e75a14",
-        "title": "China\u2019s commercial Tianlong-3 rocket fails on debut launch",
-        "url": "https://spacenews.com/chinas-commercial-tianlong-3-rocket-fails-on-debut-launch/",
-        "source": "SpaceNews",
-        "published": "Fri, 03 Apr 2026 09:55:37 +0000",
-        "published_dt": "2026-04-03T09:55:37+00:00",
-        "summary": "<figure><img alt=\"Full-scale mockup of Space Pioneer&#039;s Tianlong-3 rocket stands vertically on a newly completed launch pad at the Dongfeng Commercial Space Innovation Test Zone, located in the desert landscape of Jiuquan Satellite Launch Center. The launch pad is equipped with support towers, fueling infrastructure, and ground facilities visible under clear blue skies.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"573\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/tianlong3-mockup-dongfeng-JSLC-july2025-SpacePioneer.jpg?fit=1024%2C573&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The first launch of the Tianlong-3 rocket from Chinese commercial firm Space Pioneer failed Friday after suffering an anomaly in its ascent phase.</p>\n<p>The post <a href=\"https://spacenews.com/chinas-commercial-tianlong-3-rocket-fails-on-debut-launch/\">China\u2019s commercial Tianlong-3 rocket fails on debut launch</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "09dc8a75594e4f1e",
-        "title": "Artemis 2 heads to the moon",
-        "url": "https://spacenews.com/artemis-2-heads-to-the-moon/",
-        "source": "SpaceNews",
-        "published": "Fri, 03 Apr 2026 02:30:13 +0000",
-        "published_dt": "2026-04-03T02:30:13+00:00",
-        "summary": "<figure><img alt=\"Orion and crescent earth\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/art2-cresentearth.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA\u2019s Artemis 2 mission is on its way to the moon after a successful maneuver April 2.</p>\n<p>The post <a href=\"https://spacenews.com/artemis-2-heads-to-the-moon/\">Artemis 2 heads to the moon</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "d50a7ffc373016e2",
-        "title": "Swift spacecraft reorientation buys time for reboost mission",
-        "url": "https://spacenews.com/swift-spacecraft-reorientation-buys-time-for-reboost-mission/",
-        "source": "SpaceNews",
-        "published": "Thu, 02 Apr 2026 23:35:06 +0000",
-        "published_dt": "2026-04-02T23:35:06+00:00",
-        "summary": "<figure><img alt=\"LINK and Swift\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"410\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/katalyst-swift.jpeg?fit=1024%2C410&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA modified operations of an astrophysics spacecraft in a decaying orbit to buy more time for a mission later this year that will attempt to raise its orbit.</p>\n<p>The post <a href=\"https://spacenews.com/swift-spacecraft-reorientation-buys-time-for-reboost-mission/\">Swift spacecraft reorientation buys time for reboost mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "f4e77ea14aedae83",
-        "title": "Former Sierra Space CEO Tom Vice to lead Astrion",
-        "url": "https://spacenews.com/former-sierra-space-ceo-tom-vice-to-lead-astrion/",
-        "source": "SpaceNews",
-        "published": "Thu, 02 Apr 2026 20:44:39 +0000",
-        "published_dt": "2026-04-02T20:44:39+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/GoqkLFEXwAEuwcD-scaled.jpeg?fit=768%2C1024&amp;ssl=1\" width=\"768\" /></figure>\n<p>Huntsville-based defense contractor focuses on systems engineering and integration, and space mission assurance</p>\n<p>The post <a href=\"https://spacenews.com/former-sierra-space-ceo-tom-vice-to-lead-astrion/\">Former Sierra Space CEO Tom Vice to lead Astrion\u00a0</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
       {
-        "id": "bba617c66425d90f",
-        "title": "Steering Technological Progress -- by Anton Korinek, Joseph E. Stiglitz",
-        "url": "https://www.nber.org/papers/w34994#fromrss",
+        "id": "b4f84bb947c81d69",
+        "title": "Which U.S. States Suffered a Greater Great Depression and Why? -- by Dong Cheng, Mario J. Crucini, Hanjo T. Kim",
+        "url": "https://www.nber.org/papers/w35028#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "Rapid progress in new technologies such as AI has led to widespread anxiety about adverse labor market impacts. This paper asks how to guide innovative efforts so as to increase labor demand and create better-paying jobs while also evaluating the limitations of such an approach. We develop a theoretical framework to identify the properties that make an innovation desirable from the perspective of workers, including its technological complementarity to labor, the relative income of the affected workers, and the factor share of labor in producing the goods involved. Applications include robot taxation, factor-augmenting progress, and task automation. In our framework, the welfare benefits of steering technology are greater the less efficient social safety nets are. As technological progress devalues labor, the welfare benefits of steering are at first increased but, but beyond a critical threshold, decline and optimal policy shifts toward greater redistribution. Moreover, as labor's economic value diminishes, steering progress focuses increasingly on enhancing human well-being rather than labor productivity."
-      },
-      {
-        "id": "05e690d456114e4c",
-        "title": "Inflation or recession? The tug of war in bond markets",
-        "url": "https://www.economist.com/finance-and-economics/2026/04/05/inflation-or-recession-the-tug-of-war-in-bond-markets",
-        "source": "Finance & economics",
-        "published": "Sun, 05 Apr 2026 08:17:54 +0000",
-        "published_dt": "2026-04-05T08:17:54+00:00",
-        "summary": "Governments\u2019 borrowing costs are being pulled in opposite directions"
-      },
-      {
-        "id": "43cbded760c60f18",
-        "title": "Mind the Gap: AI Adoption in Europe and the U.S. -- by Alexander Bick, Adam Blandin, David J. Deming, Nicola Fuchs-Sch\u00fcndeln, Jonas Jessen",
-        "url": "https://www.nber.org/papers/w34995#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "This paper combines international evidence from worker and firm surveys conducted in 2025 and 2026 to document large gaps in AI adoption, both between the US and Europe and across European countries. Cross-country differences in worker demographics and firm composition account for an important share of these gaps. AI adoption, within and across countries, is also closely linked to firm personnel management practices and whether firms actively encourage AI use by workers. Micro-level evidence suggests that AI generates meaningful time savings for many workers. At the macro level, in recent years industries with higher AI adoption rates have experienced faster productivity growth. While we do not establish causality, this relationship is statistically significant and similar in magnitude in Europe and the US. We do not find clear evidence that industry-level AI adoption is associated with employment changes. We discuss limitations of existing data and outline priorities for future data collection to better assess the productivity and labor market effects of AI."
-      },
-      {
-        "id": "07b8b8dd53a3e398",
-        "title": "Cash Transfers and Productive Inclusion: Evidence from Bolsa Familia -- by Michael C. Best, Felipe Lobel, Valdemar Pinho Neto",
-        "url": "https://www.nber.org/papers/w35006#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "We study how cash transfers affect work and health. Exploiting an increase in the generosity of the world's largest cash-transfer program for the extremely poor, we show that the reform raised employment by 5 percent while sharply improving health: hospitalization fell 8 percent and mortality 14 percent, saving roughly 1,000 lives. These findings challenge the view that transfers reduce work. Instead, transfers can relax binding subsistence and health constraints, raise productivity, and expand labor supply. We formalize this mechanism in a model of productive inclusion and use it to evaluate welfare, yielding lessons for antipoverty policy design in low-income settings."
+        "summary": "Aggregate real U.S. GDP fell by roughly 26 percent between 1929 and 1932, yet the severity of the Great Depression varied dramatically across states: CPI-deflated income per capita declined by 15 percent in Maryland but by 48 percent in South Dakota. To analyze this heterogeneity, we digitize Slaughter\u2019s (1937) panel of state-by-sector production income for all 48 U.S. states and construct a novel set of sector- and state-specific deflators, allowing us to separate movements in physical quantities produced from the large relative price changes that occurred during the Great Depression. We then discipline a three-sector, 48-region dynamic spatial stochastic general equilibrium model and recover sequences of sector-state productivity shocks that exactly reproduce the observed sector-state quantity paths. The choice of deflators proves central, as correct deflation shifts the aggregate contraction away from agriculture and toward manufacturing while preserving idiosyncratic income variation across agricultural-dependent states. We further show that narratives based on common or even sector-specific shocks are inconsistent with the observed evolutions of state-level quantities and relative prices. Explaining the geography of the Great Depression therefore requires a high-dimensional sector-state shock structure."
       },
       {
         "id": "5097101e94ba401d",
@@ -511,85 +484,58 @@
         "summary": "Just consider what happens if inflation starts to rise again"
       },
       {
-        "id": "b2cd08e78ab3129e",
-        "title": "Preferences for Warning Signal Quality: Experimental Evidence -- by Alexander Ugarov, Arya Gaduh, Peter McGee",
-        "url": "https://www.nber.org/papers/w34992#fromrss",
+        "id": "a78a5824d9330334",
+        "title": "Why Do Americans No Longer Work So Much More Than Non-Americans? -- by Serdar Birinci, Loukas Karabarbounis, Kurt See",
+        "url": "https://www.nber.org/papers/w35020#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We use a laboratory experiment to study preferences over false-positive and false-negative rates of warning signals for an adverse event with a known prior. We find that subjects decrease their demand with signal quality, but less than predicted by our theory. There is asymmetric under-responsiveness by prior: for a low (high) prior, their willingness-to-pay does not fully adjust for the increase in the false-positive (false-negative) costs. We show that neither risk preference nor Bayesian updating skills can fully explain our results. Our results are most consistent with a decision-making heuristic in which subjects do not distinguish between false-positive and false-negative errors."
+        "summary": "In the 1990s, Americans used to work much more than non-Americans. Nowadays, about half of the gap in hours worked has reversed. To evaluate the convergence of working hours, we develop a tractable  model of labor supply enriched with multiple sources of heterogeneity across individuals, an extensive margin of participation, multi-member households, and an elaborate system of taxes and benefits upon non-employment. Using detailed measurements from micro-level and aggregate datasets, we identify model parameters and sources of heterogeneity across individuals for various countries. We run a horse race between competing explanations and find that U.S. hours per person declined after 2000 owing mainly to the rise of government health benefits provided to the non-employed. Non-U.S. countries have generous benefits for the non-employed, but this generosity has not changed as much over time as in the United States, and public health coverage does not depend on employment status or income levels. For these countries, the rise of labor supply is generally accounted for by a mix of factors, such as the rise of wages and the falling disutility of work."
       },
       {
-        "id": "320859ac4510cb15",
-        "title": "Paid Caregiving Leave Policies and an Update on Paid Parental Leave -- by Priyanka Anand, Tamar Matiashvili, Maya Rossin-Slater",
-        "url": "https://www.nber.org/papers/w34997#fromrss",
+        "id": "b578aa1506da6512",
+        "title": "AI Patents in the United States and China: Measurement, Organization, and Knowledge Flows -- by Hanming Fang, Xian Gu, Hanyin Yan, Wu Zhu",
+        "url": "https://www.nber.org/papers/w35022#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "Paid leave policies are designed to help workers balance work with caregiving responsibilities, yet research has focused predominantly on parental leave while the literature on non-parental caregiving leave remains nascent. This chapter reviews the evidence on the impacts of paid family leave (PFL) and paid sick leave (PSL) policies, with a focus on non-childbirth-related caregiving. We begin with an overview of the prevalence and challenges of informal caregiving in the US and internationally, followed by a description of the current paid caregiving leave policy landscape. We then review evidence on the impact of these policies on leave take-up, labor market outcomes, caregiver health and well-being, employer outcomes, and utilization of formal care. We find that paid leave policies have successfully increased leave take-up and that PFL improves labor market outcomes for workers with caregiving responsibilities, without adversely affecting employers. There is also some suggestive evidence of improvements in caregivers\u2019 mental health. We additionally provide an update of the paid parental leave literature since it was last reviewed by Rossin-Slater (2018), describing the latest evidence on maternal health, child health and development, parental labor market outcomes, and employer outcomes. We conclude by identifying key gaps in the literature, including the lack of research on the outcomes of (non-child) care recipients, limited evidence on employer responses, and the underexplored role of PSL in supporting caregiving needs."
+        "summary": "We develop a high-precision classifier to measure artificial intelligence (AI) patents by fine-tuning PatentSBERTa on manually labeled data from the USPTO\u2019s AI Patent Dataset. Our classifier substantially improves the existing USPTO approach, achieving 97.0% precision, 91.3% recall, and a 94.0% F1 score, and it generalizes well to Chinese patents based on citation and lexical validation. Applying it to granted U.S. patents (1976\u20132023) and Chinese patents (2010\u20132023), we document rapid growth in AI patenting in both countries and broad convergence in AI patenting intensity and subfield composition, even as China surpasses the United States in recent annual patent counts. The organization of AI innovation nevertheless differs sharply: U.S. AI patenting is concentrated among large private incumbents and established hubs, whereas Chinese AI patenting is more geographically diffuse and institutionally diverse, with larger roles for universities and state-owned enterprises. For listed firms, AI patents command a robust market-value premium in both countries. Cross-border citations show continued technological interdependence rather than decoupling, with Chinese AI inventors relying more heavily on U.S. frontier knowledge than vice versa."
       },
       {
-        "id": "b52ed17bbf20c22e",
-        "title": "Special Education Substantially Improves Learning: Evidence from Three States -- by Stephanie G. Coffey, Joshua Goodman, Amy Ellen Schwartz, Leanna Stiefel, Marcus A. Winters, Yunee H. Yoon",
-        "url": "https://www.nber.org/papers/w34998#fromrss",
+        "id": "534c326e8eaf336b",
+        "title": "Climate Change, Deforestation, and the Expansion of the Global Agricultural Frontier -- by Allan Hsiao, Jacob Moscona, Benjamin A. Olken, Karthik A. Sastry",
+        "url": "https://www.nber.org/papers/w35029#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "Special education serves more than one in seven U.S. students yet its causal impact remains understudied. Using longitudinal data from Massachusetts, Indiana, and Connecticut, we estimate the effect of individualized supports with an event-study design that tracks achievement around initial classification. Students\u2019 scores decline prior to placement and rise sharply afterward, yielding a consistent V-shaped pattern. Within three years, achievement is 0.2\u20130.4\u03c3 higher than counterfactual trends imply. Gains are similar across disability categories and subgroups, are not driven by testing accommodations, and remain under conservative assumptions. Individualized supports substantially increase learning productivity."
+        "summary": "This paper studies how global warming affects deforestation and agricultural land use. Using high-resolution satellite data on global temperature, deforestation, and land cover from 2001 to 2019, we find that extreme heat shocks to agricultural productivity cause large and persistent forest loss on the world\u2019s agricultural frontier. This effect is strongest in the tropics, in areas growing the most temperature-sensitive crops, and in regions with the most inelastic demand for agricultural products, and it does not seem to be offset by international spillovers. Moreover, we show that deforestation in response to extreme heat can be explained almost entirely by cropland expansion. We corroborate these findings using agricultural census data from Brazil, where we find evidence for a mechanism whereby heat reduces yields and raises local agricultural prices, driving cropland expansion but little land use or input adjustment along other margins. Our estimates imply that extreme heat has driven substantial forest loss and that projected warming through 2100 could lead to an additional 28 million hectares of deforestation. Our findings challenge the view that reallocation will soften the environmental consequences of climate change, suggesting instead that farmers double down and expand cropland locally when productivity falls."
       },
       {
-        "id": "504c62889e7b0fd3",
-        "title": "The Cold War and the U.S. Labor Market -- by Ilyana Kuziemko, Donato A. Onorato, Suresh Naidu",
-        "url": "https://www.nber.org/papers/w35008#fromrss",
+        "id": "4e1aa874183b9576",
+        "title": "Skill Formation, Child Labor, and the Schooling Consequences of the World War I Agricultural Boom -- by Taylor Jaworski, Carl T. Kitchens, Luke P. Rodgers",
+        "url": "https://www.nber.org/papers/w35032#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We argue that the Cold War contributed to the inclusive growth of the post-war decades. On the labor-demand side, we isolate exogenous shifts in military procurement across states and firms. We show that military procurement increases manufacturing employment and reduces inequality. Overall, the 1950s-to-1990s decline in defense production explains roughly one-quarter of the decline in manufacturing employment and nearly one-tenth of the rise of top-ten income share. On the labor-supply side, the Cold-War-era draft removed millions of young men from the labor force, significantly reducing young male civilian unemployment. Military procurement also increased voter support for hawkish foreign policy."
+        "summary": "We examine how the World War I agricultural commodity price boom affected human capital accumulation during the early decades of the high school movement in the United States. First, based on newly collected county-level enrollment data, we show that enrollment and average daily attendance fell sharply at the peak of the boom. Second, using linked census data between 1910 and 1940, we find that greater exposure during teenage years reduced completed schooling by 0.27 to 0.47 years, with the largest effects concentrated in high school. For younger children, the net effect of increased household resources depends on local child labor intensity: the positive effect of higher parental income on completed schooling is offset in counties where child labor was prevalent. Our results are consistent with dynamic complementarities in skill formation whose effects on lifetime schooling are mediated by the opportunity cost of child labor."
       },
       {
-        "id": "189158fe60f25243",
-        "title": "The Effects of Fiscal News on Household Expectations and Spending: New Causal Evidence -- by Myungkyu Shim, Kwang Hwan Kim, Myunghwan Andrew Lee, Sangyup Choi, Siye Bae, Olivier Coibion, Yuriy Gorodnichenko",
-        "url": "https://www.nber.org/papers/w35009#fromrss",
+        "id": "37223f01d62b1034",
+        "title": "Real Effects of Nominal Interest Rates -- by Joshua K. Hausman, John V. Leahy, John Mondragon, Johannes Wieland",
+        "url": "https://www.nber.org/papers/w35033#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We provide experimental evidence on how fiscal news shapes households\u2019 expectations and spending behavior. Using a new survey of ~11,000 Korean individuals linked to automatically collected high-frequency spending data, we elicit respondents\u2019 fiscal and macroeconomic beliefs and randomly provide them with one of five pieces of information about current public debt levels, fiscal deficits, and the government\u2019s plans for deficit reduction. Exogenous increases in expected future public debt raise expected inflation and increase consumer spending. On the other hand, exogenous increases in expected fiscal balance raise expected output growth and have no significant effect on consumer spending."
+        "summary": "Nominal interest rates have real effects. Residential mortgages and other real world debt contracts require a sequence of constant nominal payments. Combined with payment-to-income constraints, these nominal payments force borrowers to take on less debt when nominal interest rates rise, regardless of the behavior of the real interest rate. Survey data shows that conditional on the real rate, higher nominal mortgage interest rates reduce home buying sentiment. And increases in nominal mortgage rates reduce mortgage origination more in cities where payment-to-income constraints are more likely to bind. We explore the macroeconomic implications of payment-to-income constraints in a new Keynesian model modified to include a credit good. The payment-to-income constraint amplifies the effect of current short-term nominal interest rates on output and inflation, making the model less forward-looking than the standard new Keynesian model."
       },
       {
-        "id": "e8478bea0b8cbf49",
-        "title": "Knowledge Spillovers and Local Outcomes: An Existence Proof from the Establishment of the National Labs -- by Susan Helper, Resem Makan, Daniel W. Shoag",
-        "url": "https://www.nber.org/papers/w35011#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "We study the establishment of U.S. National Laboratories in the 1940s\u20131950s to estimate local spillovers from public research infrastructure. This setting allows us to causally identify such spillovers, for two reasons: 1) Lab sites were chosen largely for security and political reasons, rather than existing or potential innovative capability and 2) We identify runner-up locations using archival sources. We find several types of knowledge spillovers: Compared to control counties, Lab counties experience large and persistent increases in patenting by non-lab inventors; non-lab patents in the same county shift toward laboratories\u2019 research fields and cite laboratory patents more frequently. Using newly digitized county data from 1936\u20131970, we find sustained increases in retail sales and household income. Linked 1940\u20131950 Census records show wage gains for pre-existing residents who remain in lab counties, with larger effects for college-educated workers. We find that cohorts exposed to laboratory establishment during school-age years attained more education, consistent with a human-capital channel. Spillovers arise despite extensive secrecy around early nuclear research, suggesting that co-location with public R&amp;D can generate sizable local benefits even under restricted information flows."
-      },
-      {
-        "id": "90d695a4ca5302ab",
-        "title": "In the Fed\u2019s Mind -- by Ali Kakhbod, Amir Kermani, Bernardo Maciel",
-        "url": "https://www.nber.org/papers/w35016#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "Does the Federal Reserve react to all inflation equally? We systematically analyze FOMC meeting records from 1937 to 2025 to construct meeting-level measures of the Fed\u2019s real-time attribution of inflation to demand and supply pressures. We document substantial variation in these narratives over time and show that, since Volcker, the Fed has responded more aggressively to perceived demand-driven inflation. Consistent with this asymmetry, supply pressures have more persistent effects on realized inflation, while demand pressures' impact dissipates quickly. Financial markets also reflect this distinction: demand imbalances primarily move risk-neutral yields, whereas supply imbalances raise term premia and equity risk premia."
-      },
-      {
-        "id": "064b5ae48f89cfa3",
-        "title": "Real Effects of Academic Research Revisited -- by Adam B. Jaffe, Laura B. Shupp, Valentina Tartari",
-        "url": "https://www.nber.org/papers/w35017#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "This Chapter surveys the findings of social science research on the contribution of universities to innovation and economic growth, both locally/regionally and globally. In the last several decades research has demonstrated universities\u2019 causal effects through the mechanisms of knowledge creation, education and training of students, and technology transfer/entrepreneurship. The Chapter summarizes how the literature has studied each of these mechanisms, and how the findings have probed variation across disciplines and economic sectors. The depth and breadth of understanding have been advanced by new microdata and new methods of linking data across inventions, scientists and institutions, and by application of methods from network science. We emphasize that research has proven the importance of these effects on average, but to date has less to say about the determinants of success or failure in different contexts. These findings have implications for public policy to foster innovation both regionally and globally."
-      },
-      {
-        "id": "3f7d8bfb99793fdd",
-        "title": "Trade, Labor Market Concentration, and Wages -- by Mayara Felix",
-        "url": "https://www.nber.org/papers/w35018#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "I estimate the effect of trade on local labor market concentration and its implications for wages using employer-employee linked data and tariff shocks from Brazil\u2019s trade liberalization. Trade increased concentration by 7%, an effect driven by firm exit and worker flows to surviving import-competing firms. Increased concentration reduced wage take-home shares\u2014estimated at 50 cents on the dollar pre-shock\u2014enough to offset small wage gains from reallocation, but did not meaningfully reduce wages on net. Most of the wage declines attributed to Brazil's trade liberalization resulted instead from reductions in the marginal revenue product of labor. Incorporating informality reveals substantial regional heterogeneity."
+        "id": "05e690d456114e4c",
+        "title": "Inflation or recession? The tug of war in bond markets",
+        "url": "https://www.economist.com/finance-and-economics/2026/04/05/inflation-or-recession-the-tug-of-war-in-bond-markets",
+        "source": "Finance & economics",
+        "published": "Sun, 05 Apr 2026 08:17:54 +0000",
+        "published_dt": "2026-04-05T08:17:54+00:00",
+        "summary": "Governments\u2019 borrowing costs are being pulled in opposite directions"
       },
       {
         "id": "219ee875565f72cb",
@@ -680,9 +626,72 @@
         "published": "Sun, 08 Feb 2026 14:23:50 +0000",
         "published_dt": "2026-02-08T14:23:50+00:00",
         "summary": "Protecting your portfolio from a crash looks harder than ever"
+      },
+      {
+        "id": "bb8cc16cfa85cbac",
+        "title": "America and India strike a long-awaited trade truce",
+        "url": "https://www.economist.com/finance-and-economics/2026/02/02/america-and-india-strike-a-long-awaited-trade-truce",
+        "source": "Finance & economics",
+        "published": "Mon, 02 Feb 2026 23:33:06 +0000",
+        "published_dt": "2026-02-02T23:33:06+00:00",
+        "summary": "Will it last?"
+      },
+      {
+        "id": "b16f9630bf1f61e7",
+        "title": "AI is not the only threat menacing big tech",
+        "url": "https://www.economist.com/finance-and-economics/2026/02/02/ai-is-not-the-only-threat-menacing-big-tech",
+        "source": "Finance & economics",
+        "published": "Mon, 02 Feb 2026 19:34:55 +0000",
+        "published_dt": "2026-02-02T19:34:55+00:00",
+        "summary": "Are Meta and Google ads really recession-proof?"
+      },
+      {
+        "id": "2534416289e2d637",
+        "title": "What will Kevin Warsh\u2019s Federal Reserve look like?",
+        "url": "https://www.economist.com/finance-and-economics/2026/01/30/what-will-kevin-warshs-federal-reserve-look-like",
+        "source": "Finance & economics",
+        "published": "Fri, 30 Jan 2026 17:17:34 +0000",
+        "published_dt": "2026-01-30T17:17:34+00:00",
+        "summary": "Donald Trump\u2019s nominee was an inflation hawk\u2014until he wasn\u2019t"
+      },
+      {
+        "id": "829d416d2d1591f2",
+        "title": "The West and Ukraine are capsizing Russia\u2019s shadow fleet",
+        "url": "https://www.economist.com/finance-and-economics/2026/01/27/the-west-and-ukraine-are-capsizing-russias-shadow-fleet",
+        "source": "Finance & economics",
+        "published": "Tue, 27 Jan 2026 20:23:51 +0000",
+        "published_dt": "2026-01-27T20:23:51+00:00",
+        "summary": "And sinking its oil revenues in the process"
+      },
+      {
+        "id": "eb0aea4d3be77287",
+        "title": "Why AI won\u2019t wipe out white-collar jobs",
+        "url": "https://www.economist.com/finance-and-economics/2026/01/26/why-ai-wont-wipe-out-white-collar-jobs",
+        "source": "Finance & economics",
+        "published": "Mon, 26 Jan 2026 20:16:25 +0000",
+        "published_dt": "2026-01-26T20:16:25+00:00",
+        "summary": "The technology will expand their scope and raise their value"
+      },
+      {
+        "id": "b24fa6072172a64d",
+        "title": "China hits its GDP target\u2014in a weird way",
+        "url": "https://www.economist.com/finance-and-economics/2026/01/19/china-hits-its-gdp-target-in-a-weird-way",
+        "source": "Finance & economics",
+        "published": "Mon, 19 Jan 2026 15:02:41 +0000",
+        "published_dt": "2026-01-19T15:02:41+00:00",
+        "summary": "Strong exports make up for weak investment"
       }
     ],
     "Cross-Disciplinary": [
+      {
+        "id": "70a7a691aff29be5",
+        "title": "AI is changing how small online sellers decide what to make",
+        "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 06 Apr 2026 11:00:00 +0000",
+        "published_dt": "2026-04-06T11:00:00+00:00",
+        "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever. Even after he stopped offering it around 2017, customers kept sending him emails asking where they could buy it.&#160; When McClary&#8230;"
+      },
       {
         "id": "71eff24fde81e364",
         "title": "What Happens When You Host an AI Caf\u00e9",
@@ -801,13 +810,13 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/person-holding-a-large-drone-outdoors-under-a-sunny-partly-cloudy-sky.jpg?id=65327386&amp;width=1245&amp;height=700&amp;coordinates=0%2C104%2C0%2C104\" /><br /><br /><p><strong>WHEN</strong><strong> </strong><strong>KYIV-BORN</strong><strong> </strong><strong>ENGINEER </strong><a href=\"https://www.instagram.com/yaroslavazhnyuk/?hl=en\" rel=\"noopener noreferrer\" target=\"_blank\">Yaroslav Azhnyuk</a> thinks about the future, his mind conjures up dystopian images. He talks about \u201cswarms of autonomous drones carrying other autonomous drones to protect them against autonomous drones, which are trying to intercept them, controlled by <a href=\"https://spectrum.ieee.org/ai-agents\" target=\"_self\">AI</a> <a href=\"https://spectrum.ieee.org/ai-agents\" target=\"_self\">agents</a> overseen by a human general somewhere.\u201d He also imagines flotillas of autonomous submarines, each carrying hundreds of drones, suddenly emerging off the coast of California or Great Britain and discharging their cargoes en masse to the sky.</p><p>\u201cHow do you protect from that?\u201d he asks as we speak in late December 2025; me at my quiet home office in London, he in Kyiv, which is bracing for another wave of <a href=\"https://spectrum.ieee.org/ukraine-air-defense\" target=\"_self\">missile attacks</a>.</p><p>Azhnyuk is not an alarmist. He cofounded and was formerly CEO of <a href=\"https://petcube.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Petcube</a>, a California-based company that uses smart cameras and an app to let pet owners keep an eye on their beloved creatures left alone at home. A self-described \u201cliberal guy who didn\u2019t even receive military training,\u201d Azhnyuk changed his mind about developing military tech in the months following the <a href=\"https://commonslibrary.parliament.uk/research-briefings/cbp-9847/\" rel=\"noopener noreferrer\" target=\"_blank\">Russian invasion of</a> <a href=\"https://commonslibrary.parliament.uk/research-briefings/cbp-9847/\" rel=\"noopener noreferrer\" target=\"_blank\">Ukraine</a> in February 2022. By 2023, he had relinquished his CEO role at Petcube to do what many Ukrainian technologists have done\u2014to help defend his country against a mightier aggressor.</p><p>It took a while for him to figure out what, exactly, he should be doing. He didn\u2019t join the military, but through friends on the front line, he witnessed how, out of desperation, Ukrainian troops turned to off-the-shelf consumer drones to make up for their country\u2019s lack of artillery.</p><p>Ukrainian troops first began using drones for battlefield surveillance, but within a few months they figured out how to strap explosives onto them and turn them into effective, <a href=\"https://spectrum.ieee.org/ukraine-hackers-war\" target=\"_self\">low-cost killing</a> <a href=\"https://spectrum.ieee.org/ukraine-hackers-war\" target=\"_self\">machines</a>. Little did they know they were fomenting a revolution in warfare.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Group observes a drone demonstration indoors, with a presenter explaining features.\" class=\"rm-shortcode\" id=\"cc3bb\" src=\"https://spectrum.ieee.org/media-library/group-observes-a-drone-demonstration-indoors-with-a-presenter-explaining-features.jpg?id=65341730&amp;width=980\" /></p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Compact black camera module with textured surface and orange ribbon cable on white background.\" class=\"rm-shortcode\" id=\"4d58e\" src=\"https://spectrum.ieee.org/media-library/compact-black-camera-module-with-textured-surface-and-orange-ribbon-cable-on-white-background.jpg?id=65341726&amp;width=980\" /><small class=\"image-media media-caption\">The Ukrainian robotics company The Fourth Law produces an autonomy module [above] that uses optics and AI to guide a drone to its target. Yaroslav Azhnyuk [top, in light shirt], founder and CEO of The Fourth Law, describes a developmental drone with autonomous capabilities to Ukrainian President Volodymyr Zelenskyy and German Chancellor Olaf Scholz.</small><small class=\"image-media media-photo-credit\">Top: THE PRESIDENTIAL OFFICE OF UKRAINE; Bottom: THE FOURTH LAW</small></p><p>That revolution was on display last month, as the U.S. and Israel went to war with Iran. It soon became clear that attack drones are being extensively used by both sides. Iran, for example, is relying heavily on the Shahed drones that the country invented and that are now also being manufactured in Russia and launched by the thousands every month against Ukraine.</p><p>A thorough analysis of the Middle East conflict <span>will take some time to emerge. And so to understand the direction of this new way of war, look to Ukraine, where its next phase\u2014autonomy\u2014is already starting to come into view. Outnumbered by the Russians and facing increasingly sophisticated jamming and spoofing aimed at causing the drones to veer off course or fall out of the sky, Ukrainian technologists realized as early as 2023 that what could really win the war was autonomy. Autonomous operation means a drone isn\u2019t being flown by a remote pilot, and therefore there\u2019s no communications link to that pilot that can be severed or spoofed, rendering the drone useless.</span></p><p>By late 2023, <a href=\"https://www.linkedin.com/in/yaroslavazhnyuk/?locale=uk\" target=\"_blank\">Azhnyuk</a> set out to help make that vision a reality. He founded two companies, <a href=\"https://thefourthlaw.ai/blog/funding-products-video\" target=\"_blank\">The</a> <a href=\"https://thefourthlaw.ai/blog/funding-products-video\" target=\"_blank\">Fourth Law</a> and <a href=\"https://oddsystems.io/en/\" target=\"_blank\">Odd Systems</a>, the first to develop AI algorithms to help drones overcome jamming during final approach, the second to build thermal cameras to help those drones better sense their <span>surroundings.</span></p><p>\u201cI moved from making devices that throw treats to dogs to making devices that throw explosives on Russian occupants,\u201d Azhnyuk quips.</p><p>Since then, The Fourth Law has dispatched \u201cmore than thousands\u201d of <a href=\"https://thefourthlaw.ai/#section3\" target=\"_blank\">autonomy modules</a> to troops in eastern Ukraine (it declines to give a more specific figure), which can be retrofitted on existing drones to take over navigation during the final <span>approach to the target. Azhnyuk says the autonomy modules, worth around US $50, increase the drone-strike success rate by up to four times that of purely operator-controlled drones.</span></p><p>And that is just the beginning. Azhnyuk is one of thousands of developers, including some <span>who </span>relocated from Western countries, who are applying their skills and other resources to advancing the drone technology that is the defining characteristic <span>of the war in Ukraine. This eclectic group of startups and founders includes </span><a href=\"https://en.wikipedia.org/wiki/Eric_Schmidt\" target=\"_blank\">Eric Schmidt</a>, the forme<a href=\"https://about.google/company-info/\" target=\"_blank\">r</a> <a href=\"https://about.google/company-info/\" target=\"_blank\">Google</a> CEO, whose company <a href=\"https://epravda.com.ua/oborona/milyarder-ta-ekskerivnik-google-robit-droni-dlya-ukrajini-shcho-nim-ruhaye-809495/\" target=\"_blank\">Swift Beat</a> is churning out autonomous <a href=\"https://www.nytimes.com/2025/12/31/magazine/ukraine-ai-drones-war-russia.html\" target=\"_blank\">drones and modules for Ukrainian</a> <a href=\"https://www.nytimes.com/2025/12/31/magazine/ukraine-ai-drones-war-russia.html\" target=\"_blank\">forces</a>. The frenetic pace of tech development is helping a scrappy, innovative underdog hold at bay a much larger and better-equipped foe.</p><p>All of this development is careening toward AI-based systems that enable drones to navigate by recognizing features in the terrain, lock on to and chase targets without an operator\u2019s guidance, and eventually exchange information with each other through mesh networks, forming self-organizing robotic kamikaze swarms. Such an attack swarm would be commanded by a single operator from a safe distance.</p><p><span>According to some reports, autonomous swarming technology is also being developed <a href=\"https://www.usni.org/magazines/proceedings/2025/may/step-step-ukraine-built-technological-navy\" target=\"_blank\">for</a> <a href=\"https://www.usni.org/magazines/proceedings/2025/may/step-step-ukraine-built-technological-navy\" target=\"_blank\">sea drones</a>. Ukraine has had some notable <span>successes with sea drones, which have reportedly</span> </span><span>destroyed or damaged </span><a href=\"https://en.usm.media/sbu-naval-drones-hit-11-russian-ships-and-vessels-details/\" target=\"_blank\">around a dozen</a><span> Russian vessels.</span></p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Hand holding a drone with six rotors, outdoors against a blue sky.\" class=\"rm-shortcode\" id=\"7cf11\" src=\"https://spectrum.ieee.org/media-library/hand-holding-a-drone-with-six-rotors-outdoors-against-a-blue-sky.jpg?id=65341722&amp;width=980\" /><small class=\"image-media media-caption\">The Skynode X system, from Auterion, provides a degree of autonomy to a drone.</small><small class=\"image-media media-photo-credit\">AUTERION</small></p><p>For Ukraine, swarming can solve a major problem that puts the nation at a disadvantage against Russia\u2014the lack of personnel. Autonomy is \u201cthe single most impactful defense technology of this century,\u201d says Azhnyuk. \u201cThe moment this happens, you <span>shift from a manpower challenge to a production challenge, which is much more manageable,\u201d he adds.</span></p><p>The autonomous warfare future envisioned by Azhnyuk and others is not yet a reality. But <a href=\"https://www.linkedin.com/in/marcclange/?skipRedirect=true\" target=\"_blank\">Marc Lange</a>, a German defense analyst and business strategist, believes that \u201can inflection point\u201d is already in view. Beyond it, \u201cthings will be so dramatically different,\u201d he says.</p><p>\u201cUkraine pretty rapidly realized that if the operator-to-drone ratio can be shifted from one-to-one to one-to-many, that creates great economies of scale and an amazing cost exchange ratio,\u201d Lange adds. \u201cThe moment one operator can launch 100, 50, or even just 20 drones at once, this completely changes the economics of the war.\u201d</p><h2>Drones With a View </h2><p>For a while, jammers that sever the radio links between drones and <span>operators or that spoof GPS receivers were able to provide fairly reliable defense against human-controlled first-person-view attack drones (FPVs). But as autonomous navigation progressed, those electronic shields have gradually become less effective. Defenders must now contend with unjammable drones\u2014ones that are attached to hair-thin optical fibers or that are capable of </span><a href=\"https://spectrum.ieee.org/ukraine-killer-drones\" target=\"_self\">finding</a> <a href=\"https://spectrum.ieee.org/ukraine-killer-drones\" target=\"_self\">their way to their targets</a> without external guidance. In this emerging struggle, the defenders\u2019 track records aren\u2019t very encouraging: The typical countermeasure is to try to shoot down the attacking drone with a service weapon. It\u2019s rarely successful.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Truck on rural road covered with camouflage netting, trees and fields in the background.\" class=\"rm-shortcode\" id=\"58155\" src=\"https://spectrum.ieee.org/media-library/truck-on-rural-road-covered-with-camouflage-netting-trees-and-fields-in-the-background.jpg?id=65341708&amp;width=980\" /><small class=\"image-media media-caption\">A truck outfitted with signal-jamming gear drives under antidrone nets near Oleksandriya, in eastern Ukraine, on 2 October 2025.</small><small class=\"image-media media-photo-credit\">ED JONES/AFP/GETTY IMAGES</small></p><p>\u201cThe attackers gain an immense advantage from unmanned systems,\u201d says Lange. \u201cYou can have a drone pop up from anywhere and it can wreak havoc. But from autonomy, they gain even more.\u201d</p><p>The self-navigating drones rely on image-recognition algorithms that have been around for over a decade, says Lange. And the mass deployments of drones on Ukrainian battlefields are enabling both Russian and Ukrainian technologists to create <a href=\"https://www.reuters.com/technology/ukraine-collects-vast-war-data-trove-train-ai-models-2024-12-20/\" target=\"_blank\">huge datasets</a> that improve the training and precision of those AI algorithms.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Six-wheeled robotic vehicle with mounted equipment in a grassy field.\" class=\"rm-shortcode\" id=\"1c591\" src=\"https://spectrum.ieee.org/media-library/six-wheeled-robotic-vehicle-with-mounted-equipment-in-a-grassy-field.jpg?id=65341706&amp;width=980\" /><small class=\"image-media media-caption\">A Ukrainian land robot, the Ravlyk, can be outfitted with a machine gun.</small></p><p>While uncrewed aerial vehicles (UAVs) have received the most attention, the Ukrainian military is also deploying dozens of different kinds of drones on land and sea. Ukraine, struggling with the shortage of infantry personnel, began working on replacing a portion of human soldiers with wheeled ground robots in 2024. As of early 2026, thousands of ground robots are crawling across the gray zone along the front line in Eastern Ukraine. Most are used to deliver supplies to the front line or to help evacuate the wounded, but some \u201ckiller\u201d ground robots fitted with turrets and remotely controlled machine guns have also been tested.</p><p>In mid-February, Ukrainian authorities released a video of a Ukrainian ground robot using its thermal camera to detect a Russian soldier in the dark of the night and then kill the invader with a round from a heavy machine gun. So far these robots are mostly controlled <span>by a human operator, but the makers of these uncrewed ground vehicles say their systems are capable of basic autonomous operations, such as returning to base when radio connection is lost. The goal is to enable them to swarm so that one operator controls not one, but a whole herd of mesh-connected killer robots.</span></p><p>But <a href=\"https://www.hudson.org/experts/1303-bryan-clark\" target=\"_blank\">Bryan <span>Clark</span></a>, senior fellow and <span>director of the Center for Defense Concepts and Technology at the </span><a href=\"https://www.hudson.org/\" target=\"_blank\">Hudson Institute</a>, questions how quickly ground robots\u2019 abilities can progress. \u201cGround environments are very difficult to navigate in because of the terrain you have to address,\u201d he says. \u201cThe line of sight for the sensors on the ground vehicles is really constrained because of terrain, whereas an air vehicle can see everything around it.\u201d</p><p>To achieve autonomy, <a href=\"https://spectrum.ieee.org/sea-drone\" target=\"_self\">maritime drones</a>, too, will require <span>naviga</span><span>tional approaches beyond AI-based image recognition, possibly based on star positions or electronic signals from radios and cell towers that are within reach, says Clark. Such technologies are still being developed or are in a relatively early operational stage.</span></p><h2>How the Shaheds Got Better</h2><p>Russia is not lagging behind. In fact, some analysts believe its autonomous systems may be slightly ahead of Ukraine\u2019s. For a good example of the Russian military\u2019s rapid <span>evolu</span><span>tion, they say, consider the long-range Iranian-designed Shahed drones. Since 2022, Russia has been using them to attack Ukrainian cities and other targets hundreds of kilometers from the front line. \u201cAt the beginning, Shaheds just had a frame, a </span><span>motor, and an inertial navigation system,\u201d </span><a href=\"https://www.linkedin.com/in/oleksii-solntsev-aa0b72189?originalSubdomain=ua\" target=\"_blank\">Oleksii</a><span> </span><a href=\"https://www.linkedin.com/in/oleksii-solntsev-aa0b72189?originalSubdomain=ua\" target=\"_blank\">Solntsev</a><span>, CEO of Ukrainian defense tech startup MaXon Systems, tells me. \u201cThey used to be imprecise and pretty stupid. But they are becoming more and more autonomous.\u201d Solntsev founded MaXon </span><span>Systems in late 2024 to help protect Ukrainian civil</span><span>ians from the growing threat of Shahed </span><span>raids.</span></p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Silhouette of a triangular drone flying in the sky.\" class=\"rm-shortcode\" id=\"72159\" src=\"https://spectrum.ieee.org/media-library/silhouette-of-a-triangular-drone-flying-in-the-sky.jpg?id=65341701&amp;width=980\" /><small class=\"image-media media-caption\">A Russian Geran-2 drone, based on the Iranian Shahed-136, flies over Kyiv during an attack on 27 December 2025.</small><small class=\"image-media media-photo-credit\">SERGEI SUPINSKY/AFP/GETTY IMAGES</small></p><p>First produced <a href=\"https://www.adaptinstitute.org/from-tehran-to-alabuga-the-evolution-of-shahed-drones-into-russias-strategic-asset/26/09/2025/\" target=\"_blank\">in Iran in the 2010s</a>, Shaheds can <span>carry 90-kilogram warheads </span><a href=\"https://isis-online.org/isis-reports/alabugas-shahed-136-geran-2-warheads-a-dangerous-escalation\" target=\"_blank\">up to 650 km</a> (50-kg warheads can go twice as far). <a href=\"https://www.csis.org/analysis/calculating-cost-effectiveness-russias-drone-strikes\" target=\"_blank\">They cost around $35,000 per unit</a><span>, compared to a couple of million dollars, at least, for a ballistic missile. The low cost </span><span>allows Russia to manufacture Shaheds in high quantities, unleashing entire fleets onto </span><a href=\"https://isis-online.org/isis-reports/a-comprehensive-analytical-review-of-russian-shahed-type-uavs-deployment-against-ukraine-in-2025\" target=\"_blank\">Ukrainian cities</a><span> </span><a href=\"https://isis-online.org/isis-reports/a-comprehensive-analytical-review-of-russian-shahed-type-uavs-deployment-against-ukraine-in-2025\" target=\"_blank\">and infrastructure almost every night</a><span>.</span></p><p>The early Shaheds were able to reach a prepro<span>grammed location based on satellite-navigation coordinates. Even one of these early models could frequently overcome the jamming of satellite-navigation signals with the help of an onboard inertial navigation unit. This was essentially a dead-reckoning system of accelerators and gyroscopes that estimate the drone\u2019s position from continual measurements of its motions.</span></p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Silhouette of person with large equipment under a starry night sky.\" class=\"rm-shortcode\" id=\"1aca7\" src=\"https://spectrum.ieee.org/media-library/silhouette-of-person-with-large-equipment-under-a-starry-night-sky.jpg?id=65341699&amp;width=980\" /><small class=\"image-media media-caption\">In the Donetsk Region, on 15 August 2025, a Ukrainian soldier hunts for Shaheds and other drones with a thermalimaging system attached to a ZU23 23-millimeter antiaircraft gun.</small><small class=\"image-media media-photo-credit\">KOSTYANTYN LIBEROV/LIBKOS/GETTY IMAGES</small></p><p>Ukrainian defense forces learned to down Shaheds with heavy machine guns, but as Russia continued to innovate, the daily onslaughts started to become <a href=\"https://euromaidanpress.com/2025/06/29/why-cant-ukraine-stop-russias-shahed-drones-anymore/\" target=\"_blank\">increasingly effective.</a></p><p>Today\u2019s Shaheds fly faster and higher, and therefore are more difficult to detect and take down. Between January 2024 and August 2025, the number of Shaheds and Shahed-type attack drones launched by Russia into Ukraine per month <a href=\"https://united24media.com/war-in-ukraine/why-russias-shahed-drones-are-now-deadlier-and-harder-than-ever-to-stop-11693\" target=\"_blank\">increased more than tenfold</a>, from 334 to more than 4,000. In 2025, Ukraine found <a href=\"https://www.unmannedairspace.info/counter-uas-systems-and-policies/recently-downed-russian-shahed-demonstrates-new-levels-of-autonomous-capability/\" target=\"_blank\">AI-enabling</a> <a href=\"https://www.unmannedairspace.info/counter-uas-systems-and-policies/recently-downed-russian-shahed-demonstrates-new-levels-of-autonomous-capability/\" target=\"_blank\">N</a><a href=\"https://www.unmannedairspace.info/counter-uas-systems-and-policies/recently-downed-russian-shahed-demonstrates-new-levels-of-autonomous-capability/\" target=\"_blank\">vidia</a> <a href=\"https://www.unmannedairspace.info/counter-uas-systems-and-policies/recently-downed-russian-shahed-demonstrates-new-levels-of-autonomous-capability/\" target=\"_blank\">chipsets in wreckages of Shaheds</a>, as well as thermal-vision modules capable of locking onto targets at night.</p><p>\u201cNow, they are interconnected, which allows them to exchange information with each other,\u201d Solntsev says. \u201cThey also have cameras that allow them to autonomously navigate to objects. Soon they will be able to tell each other to avoid a <span>jammed</span> <span>region or an area where one of them got </span><span>intercepted.\u201d</span></p><p>These Russian-manufactured Shaheds, which Russian forces call Geran-2s, are thought to be more capable than the garden variety Shahed-136s that Iran has lately been launching against targets throughout the Middle East. Even the relatively primitive Shahed-136s have done considerable damage, according to <a href=\"https://www.theguardian.com/world/2026/mar/02/iran-unleashes-hundreds-of-drones-aimed-at-targets-across-middle-east\" target=\"_blank\">press accounts</a>.</p><p>Those Shahed successes may accrue, at least in part, from the fact that the United States and Israel <span>lack Ukraine\u2019s long experience with fending them off. In just two days in early March, upward of a thousand drones, mostly Shaheds, were launched against U.S. and Israeli targets, with </span><a href=\"https://www.theguardian.com/world/2026/mar/02/iran-unleashes-hundreds-of-drones-aimed-at-targets-across-middle-east\" target=\"_blank\">hundreds of</a> <a href=\"https://www.theguardian.com/world/2026/mar/02/iran-unleashes-hundreds-of-drones-aimed-at-targets-across-middle-east\" target=\"_blank\">them reportedly finding their marks</a>.</p><p>One attack, caught on videotape, shows a Shahed destroying a radar dome at the U.S. navy base in <span>Manama, Bahrain. U.S. forces were understood to be </span><a href=\"https://carnegieendowment.org/emissary/2026/03/iran-drones-shahed-us-lessons\" target=\"_blank\">attempting to fend off the drones</a> by striking launch platforms, dispatching fighter aircraft to shoot them down, and by using some extremely costly air-defense interceptors, including ones meant to down ballistic missiles. On 4 March, <a href=\"https://www.cnn.com/2026/03/04/politics/us-air-defenses-iran-attack-drones-challenge\" target=\"_blank\">CNN</a> <a href=\"https://www.cnn.com/2026/03/04/politics/us-air-defenses-iran-attack-drones-challenge\" target=\"_blank\">reported</a> that in a congressional briefing the day before, top U.S. defense officials, including Secretary of Defense Pete Hegseth, acknowledged that U.S. air defenses weren\u2019t keeping up with the onslaught of Shahed drones.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Broken drone on soil, cylindrical container nearby.\" class=\"rm-shortcode\" id=\"c9d58\" src=\"https://spectrum.ieee.org/media-library/broken-drone-on-soil-cylindrical-container-nearby.jpg?id=65341692&amp;width=980\" /><small class=\"image-media media-caption\">Russian V2U attack drones are outfitted with Nvidia processors and run computer-vision software and AI algorithms to enable the drones to navigate autonomously.</small><small class=\"image-media media-photo-credit\">GUR OF THE MINISTRY OF DEFENSE OF UKRAINE</small></p><p>Russia is also starting to field a newer generation of attack drones. One of these, the V2U, has been used to strike targets in the Sumy region of northeastern Ukraine. <a href=\"https://euromaidanpress.com/2025/06/09/russias-v2u-drone-uses-ai-for-autonomous-strikes-in-ukraines-sumy-oblast/\" target=\"_blank\"><span>The V2U drones</span></a> are outfitted with Nvidia Jetson Orin processors and run <span>computer</span>-\u00ad<span>vision software and AI algorithms that allow the drones to navigate even where satellite navigation is jammed.</span></p><p>The sale of Nvidia chips to Russia is banned under U.S. sanctions against the country. However, press reports suggest that the chips are getting to Russia <a href=\"https://www.pravda.com.ua/eng/news/2024/10/28/7481703/\" target=\"_blank\">via intermediaries in India</a>.</p><h2>Antidrone Systems Step Up</h2><p>MaXon Systems is one of several companies working to fend off the nightly drone onslaught. Within one year, the company developed and battle-tested a Shahed interception system that hints at the sci-fi future envisioned by Azhnyuk. For a system to be capable of reliably defending against autonomous weaponry, it, too, needs to be autonomous.</p><p><span>MaXon\u2019s solution consists of ground turrets scanning the sky with infrared sensors, with additional input from a network of radars that </span><span>detects approaching Shahed drones at distances of, typically, </span><a href=\"https://en.defence-ua.com/weapon_and_tech/2025_systems_to_shield_kyiv_from_shaheds_new_air_defense_details_from_maxon_where_balloons_carry_interceptor_drones-15499.html\" target=\"_blank\">12 to 16</a><span> km. The turrets fire autonomous fixed-winged interceptor drones, fitted with explosive warheads, toward the approaching Shaheds at speeds of nearly 300 km/h. To boost the chances of successful interception, MaXon </span><a href=\"https://en.defence-ua.com/weapon_and_tech/2025_systems_to_shield_kyiv_from_shaheds_new_air_defense_details_from_maxon_where_balloons_carry_interceptor_drones-15499.html\" target=\"_blank\">is also fielding</a><span> an airborne anti-Shahed fortification </span><span>system</span><span> </span><span>consisting of helium-filled </span><a href=\"https://spectrum.ieee.org/airships-drones-ukraine\" target=\"_self\">aerostats</a><span> hovering above the city that dispatch the interceptors from a higher altitude.</span></p><p>\u201cWe are trying to increase the level of automation of the system compared to existing solutions,\u201d says Solntsev. \u201cWe need automatic <span>detection, automatic takeoff, and automatic mid-track guidance so that we can guide the interceptor before it can itself flock the target.\u201d</span></p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Gray drone on display stand, surrounded by military personnel in camouflage uniforms.\" class=\"rm-shortcode\" id=\"ab79b\" src=\"https://spectrum.ieee.org/media-library/gray-drone-on-display-stand-surrounded-by-military-personnel-in-camouflage-uniforms.jpg?id=65341687&amp;width=980\" /><small class=\"image-media media-caption\">An interceptor drone, part of the U.S. MEROPS defensive system, is tested in Poland on 18 November 2025.</small><small class=\"image-media media-photo-credit\">WOJTEK RADWANSKI/AFP/GETTY IMAGES</small></p><p>In November 2025, the Ukrainian military announced it had been conducting successful trials of the <a href=\"https://www.forcesnews.com/nato/bang-your-buck-200m-worth-russian-drones-taken-out-15m-merops-uavs\" target=\"_blank\">Merops Shahed drone interceptor</a> system developed by the U.S. startup <a href=\"https://themerge.co/p/project-eagle\" target=\"_blank\">Project Eagle</a>, another of former <span>Google CEO Eric Schmidt\u2019s Ukraine defense ventures. Like the MaXon gear, the system can operate largely autonomously and has so far downed over 1,000 Shaheds.</span></p><h2>What Works in the Lab Doesn\u2019t Necessarily Fly on the Battlefield </h2>Despite the progress on both sides, analysts say that <span>the kind of robotic warfare imagined by Azhnyuk won\u2019t be a reality for years.</span><p>\u201cThe software for drone collaboration is there,\u201d says <a href=\"https://www.csis.org/people/kateryna-bondar\" target=\"_blank\">Kate Bondar</a>, a former policy advisor for the Ukrainian <span>government and currently a research fellow at the U.S. </span><a href=\"https://www.csis.org/\" target=\"_blank\">Center for Stra</a><a href=\"https://www.csis.org/\" target=\"_blank\">tegic and International Studies</a><span>. \u201cDrones can fly in labs, but in real life, [the forces] are afraid to deploy them because the risk of a mistake is too high,\u201d she adds.</span></p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Two people launching a drone in an open field using a catapult system.\" class=\"rm-shortcode\" id=\"7c4e9\" src=\"https://spectrum.ieee.org/media-library/two-people-launching-a-drone-in-an-open-field-using-a-catapult-system.jpg?id=65341682&amp;width=980\" /><small class=\"image-media media-caption\">Ukrainian soldiers watch a GOR reconnaissance drone take to the sky near Pokrovsk in the Donetsk region, on 10 March 2025.</small><small class=\"image-media media-photo-credit\">ANDRIY DUBCHAK/FRONTLINER/GETTY IMAGES</small></p>In Bondar\u2019s view, powerful AI-equipped drones won\u2019t be deployed in large numbers given the current prices for high-end processors and <span>other advanced components. And, she adds, the more autonomous the system needs to be, the more expensive are the processors and sensors it must have. \u201cFor these cheap attack drones that fly only once, you don\u2019t install a high-resolution camera that [has] the resolution for AI to see properly,\u201d she says. \u201c[You install] the cheapest camera. You don\u2019t </span><span>want expensive chips that can run AI algorithms either. Until we can achieve this balance of technological sophistication, when a system can conduct a mission but at the lowest price possible, it won\u2019t be deployed en masse.\u201d</span><p>While existing AI systems are doing a good job recognizing and following large objects like Shaheds or tanks, experts question their ability to reliably distinguish and pursue smaller and more nimble or inconspicuous targets. \u201cWhen we\u2019re getting into more specific questions, like can it distinguish a Russian soldier from a Ukrainian soldier or at least a soldier from a civilian? The answer is no,\u201d says Bondar. \u201cAlso, it\u2019s one thing to track a tank, and it\u2019s another to track infantrymen riding buggies and motorcycles that are moving very fast. That\u2019s really challenging for AI to track and strike precisely.\u201d</p><p>Clark, at the Hudson Institute, says that although the AI algorithms used to guide the Russian and <span>Ukrainian drones are \u201cpretty good,\u201d they rely on information provided bysensors that \u201caren\u2019t good enough.\u201d \u201cYou need multiphenomenology sensors that are able to look at infrared and visual and, in some cases, different parts of the infrared spectrum to be able to figure out if something is a decoy or real target,\u201d </span><span>he </span><span>says.</span></p><p><span>German defense analyst Lange agrees that right now, battlefield AI image-recognition systems are too easily fooled. \u201cIf you compress reality into a </span><span>2D</span><span> image, a lot of things can be easily camouflaged\u2014like what Russia did recently, when they started drawing birds on the back of their drones,\u201d he <span>says.</span></span></p><h2>Autonomy Remains Elusive on the Ground and at Sea, Too</h2><p>To make Ukraine\u2019s <span>emerging uncrewed ground vehicles (UGVs) equally self-sufficient will be an even greater task, in Clark\u2019s view. Still, </span><span>Bondar expects major advances to materialize within the next several years, even if humans are still going to be part of the decision-making loop.</span></p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Military radar equipment in a grassy field.\" class=\"rm-shortcode\" id=\"d65ea\" src=\"https://spectrum.ieee.org/media-library/military-radar-equipment-in-a-grassy-field.jpg?id=65341671&amp;width=980\" /><small class=\"image-media media-caption\">A mobile electronic-warfare system built by PiranhaTech is demonstrated near Kyiv on 21 October 2025.</small><small class=\"image-media media-photo-credit\">DANYLO ANTONIUK/ANADOLU/GETTY IMAGES</small></p><p>\u201cI think in two or three years, we will have pretty good full autonomy, at least in good weather conditions,\u201d she says, referring to aerial drones in partic<span>ular. \u201cHumans will still be in the loop for some years, simply because there are so many unpredictable situations when you need an intervention. We won\u2019t be able to fully rely on the machine for at least another 10 or 15 years.\u201d</span></p><p>Ukrainian defenders are apprehensive about that autonomous future. The boom of drone inno<span>vation has come hand in hand with the development of sophisticated jamming and radio-frequency detection systems. But a lot of that innovation will become obsolete once the pendulum swings away from human control. Ukrainians got their first taste of dealing with unjammable drones in mid-2024, when Russia began rolling out fiber-optic tethered drones. Now they have to brace for a threat on a much larger scale.</span></p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Quadcopter drone flying with a fire extinguisher attached in a cloudy sky.\" class=\"rm-shortcode\" id=\"aa25d\" src=\"https://spectrum.ieee.org/media-library/quadcopter-drone-flying-with-a-fire-extinguisher-attached-in-a-cloudy-sky.jpg?id=65341673&amp;width=980\" /><small class=\"image-media media-caption\">An experimental drone is demonstrated at the Brave1 defense-tech incubator in Kyiv.</small><small class=\"image-media media-photo-credit\">DANYLO DUBCHAK/FRONTLINER/GETTY IMAGES</small></p><p>\u201cToday, we have a situation where we have lots of signals on the battlefield, but in the near future, <span>in maybe two to five years, UAVs are not going to be sending any signals,\u201d says Oleksandr Barabash, CTO of </span><a href=\"https://www.falcons.com.ua/en\" target=\"_blank\">Falcons</a>, a Ukrainian startup that has developed a smart radio-frequency detection system capable <span>of revealing precise locations of enemy radio sources such as drones, control stations, and jammers.</span></p><p>Last September, Falcons secured funding from the U.S.-based dual-use tech fund <a href=\"https://www.greenflag.vc/\" target=\"_blank\">Green Flag Ven</a><a href=\"https://www.greenflag.vc/\" target=\"_blank\">tures</a> to scale production of its technology and work toward NATO certification. But Barabash admits that its system, like all technologies fielded in <span>Ukrainian war zones, has an expiration date. Instead of radio-frequency detectors, Barabash thinks, the next R&amp;D push needs to focus on passive radar systems capable of identifying small and fast-moving targets based on the signal from sources like TV towers or radio transmitters that propagate through the environment and are reflected by those moving targets. Passive radars have a significant advantage in the war zone, according to Barabash. Since they don\u2019t emit their own signal, they can\u2019t be that easily discovered by the enemy.</span></p><p>\u201cActive radar is emitting signals, so if you are using active radars, you are target No. 1 on the front line,\u201d Barabash says.</p><p><span>Bondar, on the other hand, thinks that the increased onboard compute power needed </span><span>for</span> AI-controlled drones will, by itself, generate enough electromagnetic radiation to prevent autonomous drones from ever operating completely undetectably.</p><p><span>\u201cYou can have full autonomy, but you will still have systems onboard that emit electromagnetic radiation or heat that can be detected,\u201d says Bondar. \u201cBatteries emit electromagnetic radiation, motors emit heat, and [that heat can be] visible in infrared from far away. You just need to have the right sensors to be able to identify it in advance.\u201d She adds that that takeaway is \u201chow capable contemporary detection systems have become and how technically challenging it is to design drones that can reliably operate in the Ukrainian battlefield environment.\u201d</span></p><h2>There Will Be Nowhere to Hide from Autonomous Drones</h2><p>When autonomous drones become a standard weapon <span>of war, their threat will extend far beyond the battlefields of Ukraine. Autonomous turrets and drone-interceptor fortification might soon dot the perimeter of European cities, particularly in the eastern part of the continent.</span></p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Person holding gray drone against a blue sky, preparing to launch it.\" class=\"rm-shortcode\" id=\"f9032\" src=\"https://spectrum.ieee.org/media-library/person-holding-gray-drone-against-a-blue-sky-preparing-to-launch-it.jpg?id=65327903&amp;width=980\" /><small class=\"image-media media-caption\">A fixed-wing drone is tested in Ukraine in April 2025.</small><small class=\"image-media media-photo-credit\">ANDREWKRAVCHENKO/BLOOMBERG/GETTY IMAGES</small></p><p>Nefarious actors from all over the world have closely watched Ukraine and taken notes, warns Lange. Today, FPV drones are being used b<a href=\"https://gnet-research.org/2025/07/30/weaponised-skies-the-expansion-of-terrorist-drone-use-across-africa/\" target=\"_blank\">y</a> <a href=\"https://gnet-research.org/2025/07/30/weaponised-skies-the-expansion-of-terrorist-drone-use-across-africa/\" target=\"_blank\">Islamic terrorists in Africa</a> and <a href=\"https://www.atlanticcouncil.org/blogs/new-atlanticist/drug-cartels-are-adopting-cutting-edge-drone-technology-heres-how-the-us-must-adapt/#%3A~%3Atext%3DIf%20confirmed%2C%20this%20would%20suggest%2CUS%20homeland%20security%E2%80%94are%20profound\" target=\"_blank\">Mexican drug cartels</a> to fight against local authorities.</p><p>When autonomous killing machines become widely available, it\u2019s likely that no city will be safe. \u201cWe might see nets above city centers, protecting civilian streets,\u201d Lange says. \u201cIn every case, the West needs to start performing similar kinetic-defense development that we see in Ukraine. Very rapid iteration and testing cycles to find solutions.\u201d</p><p>Azhnyuk is concerned that the historic defenders of Europe\u2014the <span>United States and the European countries themselves\u2014are falling behind. \u201cWe are in danger,\u201d he says. While Russia and Ukraine made major strides in their drones and countermeasures over the past year, \u201cEurope and the United States have progressed, in the best-case scenario, from the winter-of-2022 technology to the summer-of-2022 technology.</span></p><p>\u201cThe gap is getting wider,\u201d he warns. \u201cI think the next few years are very dangerous for the security of Europe.\u201d <span class=\"ieee-end-mark\"></span></p><p><em>This article appears in the April 2026 print issue as \u201cRise of the <span>AUTONOMOUS </span>Attack Drones.\u201d</em></p>"
       },
       {
-        "id": "26b1c764a6e86202",
-        "title": "Video Friday: Humanoid Learns Tennis Skills Playing Humans",
-        "url": "https://spectrum.ieee.org/tennis-playing-robot",
+        "id": "aa236262c06c8b4a",
+        "title": "Studying Human Attitudes Towards Robots Through Experience",
+        "url": "https://spectrum.ieee.org/boston-dynamics-spot-interaction",
         "source": "IEEE Spectrum",
-        "published": "Sat, 21 Mar 2026 16:30:04 +0000",
-        "published_dt": "2026-03-21T16:30:04+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/robot-playing-tennis-holding-racket-on-green-court-inset-shows-human-opponent-hitting-ball.png?id=65325604&amp;width=1245&amp;height=700&amp;coordinates=19%2C0%2C20%2C0\" /><br /><br /><p>Video Friday is your weekly selection of awesome robotics videos, collected by your friends at <em>IEEE Spectrum</em> robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please <a href=\"mailto:automaton@ieee.org?subject=Robotics%20event%20suggestion%20for%20Video%20Friday\">send us your events</a> for inclusion.</p><h5><a href=\"https://2026.ieee-icra.org/\">ICRA 2026</a>: 1\u20135 June 2026, VIENNA</h5><h5><a href=\"https://mrs.fel.cvut.cz/summer-school-2026/\">Summer School on Multi-Robot Systems</a>: 29 July\u20134 August 2026, PRAGUE</h5><p>Enjoy today\u2019s videos!</p><div class=\"horizontal-rule\"></div><div><span style=\"display: none;\"> </span></div><blockquote class=\"rm-anchors\" id=\"23zsarayx6o\"><em>Human athletes demonstrate versatile and highly dynamic tennis skills to successfully conduct competitive rallies with a high-speed tennis ball. However, reproducing such behaviors on humanoid robots is difficult, partially due to the lack of perfect humanoid action data or human kinematic motion data in tennis scenarios as reference. In this work, we propose LATENT, a system that Learns Athletic humanoid TEnnis skills from imperfect human motioN daTa.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://zzk273.github.io/LATENT/\">LATENT</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"cwithpe4hna\">A beautifully designed robot inspired by Strandbeests.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.cranfield.ac.uk/press/news-2026/wind-powered-robot-could-enable-long-term-exploration-of-hostile-environments\">Cranfield University</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"uvqdqf8ppuw\"><em>We believe we\u2019re the first robotics company to demonstrate a robot peeling an apple with dual dexterous humanlike hands. This breakthrough closes a key gap in robotics, achieving bimanual, contact-rich manipulation and moving far beyond the limits of simple grippers.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><blockquote><em>Today\u2019s AI models (VLMs) are excellent at perception but struggle with action. Controlling high-degree-of-freedom hands for tasks like this is incredibly complex, and precise finger-level teleoperation is nearly impossible for humans.  Our first step was a shared-autonomy system: rather than controlling every finger, the operator triggers prelearned skills like a \u201crotate apple or tennis ball\u201d primitive via a keyboard press or pedal. This makes scalable data collection and RL training possible.</em><br /><em>How does the AI manage this? We created \u201c<a href=\"https://spectrum.ieee.org/video-friday-google-gemini-robotics\" target=\"_blank\">MoDE-VLA</a>\u201d (Mixture of Dexterous Experts). It fuses vision, language, force, and touch data by using a team of specialist \u201cexperts,\u201d making control in high-dimensional spaces stable and effective.  The combination of these two innovations allows for seamless, contact-rich manipulation. The human provides high-level guidance, and the robot executes the complex in-hand coordination required.</em></blockquote><p>[ <a href=\"https://www.sharpa.com/\">Sharpa</a> ]</p><p>Thanks, Alex!</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"pczsnnwxvia\"><em>It was great to see our name amongst the other \u201cAI Native\u201d companies during the <a href=\"https://spectrum.ieee.org/nvidia-groq-3\" target=\"_blank\">NVIDIA GTC</a> keynote. NVIDIA Isaac Lab helps us train reinforcement learning policies that enable the UMV to drive, jump, flip, and hop like a pro.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://rai-inst.com/\">Robotics and AI Institute</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"iojvnq-zhww\"><em>This Finger-Tip Changer technology was jointly researched and developed through a collaboration between Tesollo and RoCogMan LaB at Hanyang University ERICA. The project integrates Tesollo\u2019s practical robotic hand development experience with the lab\u2019s expertise in robotic manipulation and gripper design.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>I don\u2019t know why more robots don\u2019t do this. Also, those pointy fingertips are terrifying.</p><p>[ <a href=\"http://bmr.hanyang.ac.kr/\">RoCogMan LaB</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"z55m_um_7fq\">Here\u2019s an upcoming ICRA paper from the Fluent Robotics Lab at the University of Michigan featuring an operational <a href=\"https://spectrum.ieee.org/this-is-what-pr2s-do-for-fun\" target=\"_blank\">PR2</a>! With functional batteries!!!</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://fluentrobotics.com/\">Fluent Robotics Lab</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"9qzctmarvpk\"><em>This video showcases the field tests and interaction capabilities of KAIST Humanoid v0.7, developed at the DRCD Lab featuring in-house actuators. The control policy was trained through deep reinforcement learning leveraging human demonstrations.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://dynamicrobot.kaist.ac.kr/\">KAIST DRCD Lab</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"_wnckaf2gb8\">This needs to come in adult size.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.deeprobotics.cn/en\">Deep Robotics</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"k5wgpmenpcq\">I did not know this, but apparently shoeboxes are really annoying to manipulate because if you grab them by the lid, they just open, so specialized hardware is required.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://nomagic.ai/news/zalando-to-install-up-to-50-ai-powered-nomagic-robots/\">Nomagic</a> ]</p><p>Thanks, Gilmarie!</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"clfpxcpza14\"><em>This paper presents a method to recover quadrotor Unmanned Air Vehicles (UAVs) from a throw, when no control parameters are known before the throw.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://ieeexplore.ieee.org/document/10801514\">MAVLab</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"pmetcxgumhm\">Uh-oh, robots can see glass doors now. We\u2019re in trouble.</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.limxdynamics.com/en/products/oli\">LimX Dynamics</a> ]</p><div class=\"horizontal-rule\"></div><p class=\"rm-anchors\" id=\"pshyocgoc5u\">This drone hugs trees <3</p><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://slap-perching.github.io/\">Stanford BDML</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"afviggntkm8\"><em>Electronic waste is one of the fastest-growing environmental problems in the world. As robotics and electronic systems become more widespread, their environmental footprint continues to increase. In this research, scientists developed a fully biodegradable soft robotic system that integrates electronic devices, sensors, and actuators yet completely decomposes after use.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.nature.com/articles/s41893-026-01780-4\">Nature</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"yhyvrk9wce8\"><em>We developed a distributed algorithm that enables multiple aerial robots to flock together safely in complex environments, without explicit communication or prior knowledge of the surroundings, using only onboard sensors and computation. Our approach ensures collision avoidance, maintains proximity between robots, and handles uncertainties (tracking errors and sensor noise). Tested in simulations and real-world experiments with up to four drones in a dense forest, it proved robust and reliable.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://mrs.fel.cvut.cz/rbl\">RBL</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"b3v-ylwcaee\"><em>The University of Pennsylvania\u2019s 2025 President\u2019s Sustainability Prize winner Piotr Lazarek has developed a system that uses satellite data to pinpoint inefficiencies in farmers\u2019 fields, conducts real-time soil analysis with autonomous drones to understand why they occur, and generates precise fertilizer application maps. His startup Nirby aims to increase productivity in farm areas that are underperforming and reduce fertilizer in high-performing ones.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://penntoday.upenn.edu/news/2025-penn-presidents-sustainability-prize-recipient-nirby\">University of Pennsylvania</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"wl0-pu_8f0u\"><em>The production version of Atlas is a departure from the typical humanoid form factor, favoring industrial utility over human likeness. Intended for purposeful work in an industrial setting, Atlas has a form factor that signals its role as a machine rather than a companion or friendly assistant. Join two lead hardware engineers and our head of industrial design for a technical discussion of how key product requirements, ranging from passive thermal management to a modular architecture, dictated a bold new vision for a humanoid.</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://bostondynamics.com/blog/atlas-evolution-from-research-robot-to-industrial-humanoid/\">Boston Dynamics</a> ]</p><div class=\"horizontal-rule\"></div><blockquote class=\"rm-anchors\" id=\"cmbbkd46z48\"><em>Dr. Christian Hubicki gives a talk exploring the common themes of modern robotics research and his time on the reality competition show, \u201cSurvivor.\u201d</em></blockquote><p class=\"shortcode-media shortcode-media-youtube\"><span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>[ <a href=\"https://www.optimalroboticslab.com/\">Optimal Robotics Lab</a> ]</p><div class=\"horizontal-rule\"></div>"
+        "published": "Sun, 05 Apr 2026 13:00:01 +0000",
+        "published_dt": "2026-04-05T13:00:01+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/families-watch-a-colorful-robotic-dog-demo-at-a-robotics-and-ai-institute-exhibit.jpg?id=65453180&amp;width=1245&amp;height=700&amp;coordinates=0%2C62%2C0%2C63\" /><br /><br /><p>Building the next generation of robots for successful integration into our homes, offices, and factories is more than just solving the hardware and software problems \u2013 we also need to understand how they will be perceived and how they can work effectively with people in those spaces.</p> <p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <a href=\"https://rai-inst.com/\"></a><a class=\"shortcode-media-lightbox__toggle shortcode-media-controls__button material-icons\" style=\"background: gray;\" title=\"Select for lightbox\">aspect_ratio</a><a href=\"https://rai-inst.com/\" target=\"_blank\"><img alt=\"Robotics and AI Institute logo with text about post originally appearing there\" class=\"rm-shortcode\" id=\"89ff0\" src=\"https://spectrum.ieee.org/media-library/robotics-and-ai-institute-logo-with-text-about-post-originally-appearing-there.png?id=65453513&amp;width=980\" /></a> </p><p>In summer 2025, <a href=\"https://spectrum.ieee.org/boston-dynamics-ai-institute-hyundai\" target=\"_blank\">RAI Institute</a> set up a free popup robot experience in the CambridgeSide mall, designed to let people experience state-of-the-art robotics first hand. While news stories about robots and AI are common, with some being overly critical and some overly optimistic, most people have not encountered robots in the flesh (or metal) as it were. With no direct experience, their opinions are largely shaped by pop culture and social media, both of which are more focused on sensational stories instead of accurate information about how the robots might be used effectively and where the technology still falls short. Our goal with the popup was two-fold: first, to give people an opportunity to see robots that they would otherwise not have a chance to experience and second, to better understand how the public feels about interacting with these robots.</p><h2>Designing a Robot Experience for the General Public</h2><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Three experimental robotic prototypes displayed behind barriers in a bright gallery.\" class=\"rm-shortcode\" id=\"c9163\" src=\"https://spectrum.ieee.org/media-library/three-experimental-robotic-prototypes-displayed-behind-barriers-in-a-bright-gallery.webp?id=65453673&amp;width=980\" /> <small class=\"image-media media-caption\">Some earlier versions legged robots, built by the RAI Institute\u2019s Executive Director, Marc Raibert</small><small class=\"image-media media-photo-credit\">RAI Institute</small></p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Red robot dog and electric bike displayed in glass cases inside a modern mall.\" class=\"rm-shortcode\" id=\"6b96a\" src=\"https://spectrum.ieee.org/media-library/red-robot-dog-and-electric-bike-displayed-in-glass-cases-inside-a-modern-mall.webp?id=65453671&amp;width=980\" /> <small class=\"image-media media-caption\">The ANYmal by ANYrobotics (left) and a previous model of the RAI Institute\u2019s UMV (right)</small><small class=\"image-media media-photo-credit\">RAI Institute</small></p><p><span>The pop-up space had two areas: a museum area where people could see historical and modern robots, including some <a href=\"https://spectrum.ieee.org/marc-raibert-boston-dynamics-instutute\" target=\"_blank\">RAI Institute</a> builds like the </span><a href=\"https://rai-inst.com/resources/blog/designing-wheeled-robotic-systems/\" target=\"_blank\">UMV</a><span> and an interactive experience called \u201cDrive-a-Spot\u201d. This area was a driving arena where anyone who came by could take the controls of a Spot quadruped, one of the more recognizable, commercially available robots available today.</span></p><p>The guest robot drivers used a custom controller built on an adaptive video game controller that was designed so that anyone of any age could use it. It featured basic controls: move forward, back, left, right, adjust height, sit, stand, and tilt. The buttons were large so that tiny or elderly hands could use the controller and the people who drove Spot ranged in age from two to over 90.<br /></p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Adaptive gaming controller with large programmable buttons on a black table.\" class=\"rm-shortcode\" id=\"2545f\" src=\"https://spectrum.ieee.org/media-library/adaptive-gaming-controller-with-large-programmable-buttons-on-a-black-table.jpg?id=65453210&amp;width=980\" /> <small class=\"image-media media-caption\">The guest robot drivers used a custom controller built on an adaptive video game controller that was designed so that anyone of any age could use it.</small><small class=\"image-media media-photo-credit\">RAI Institute</small></p><p>The demo area was designed to be a bit challenging for the Spot robot to maneuver in \u2013 it contained tight passages, low obstacles to step over, a barrier to crouch under, and taller objects the robot had to avoid. Much to the surprise of many of our guests, Spot is able to autonomously adjust itself to traverse and avoid those obstacles when being supervised by the joystick.<br /></p><p class=\"shortcode-media shortcode-media-youtube\"> <span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span> <small class=\"image-media media-photo-credit\">RAI Institute</small> </p><p><span>The driving arena\u2019s theme rotated every few weeks across four scenarios: a factory, a home, a hospital, and an outdoor/disaster environment. These were chosen to contrast settings where robots are broadly accepted (industrial, emergency response) with settings where public ambivalence is well-documented (domestic, healthcare).</span></p><h3></h3><br /><div class=\"rblad-ieee_in_content\"></div><p>The visitors who chose to drive the Spot robot could also participate in a short survey before and after their driving experience. The survey focused on two core dimensions:</p><ul><li><strong>Comfort: how comfortable would you feel if you encountered a robot in a factory, home, hospital, office, or outdoor/disaster scenario?</strong></li><li><strong>Suitability: how well would this robot work in each of those contexts?</strong> </li></ul><p>The survey also recorded emotional reactions immediately after driving, likelihood to recommend the experience, and open-ended responses about what they found memorable or surprising. The researchers were careful to separate the environment participants drove through from the scenarios they were asked to evaluate in the survey). This distinction is important for interpreting the results given below.</p><h2>Did Interacting with the Robot Change People\u2019s Feelings about Robots?</h2><p><span></span><span>Out of approximately 10,000 guests that visited the Robot Lab, 10 percent of those drove the Spot and opted-in to our surveys. Of those surveyed, more than 65% of people had seen images or videos of Spot robots online, but most had never seen one of the robots in person.</span></p><h3>Increased Comfort Through Experience</h3><p>Across all five contexts presented in the survey (factory, home, hospital, office, and outdoor/disaster scenarios), comfort scores increased significantly after the driving session. The effects were small to moderate in magnitude, but they were consistent and statistically robust after correcting for multiple comparisons across all participants spanning children to older adults.</p><p>The largest gain appeared in the outdoor/disaster context, which started with low comfort despite high-perceived suitability. People already thought Spot would be useful in search-and-rescue scenarios; they just weren\u2019t comfortable with it performing in that scenario. This discomfort may stem from media portrayals of quadruped robots in military contexts. A few minutes of hands-on control appears to partially dissolve that apprehension.</p><p>Participants who drove through the factory-themed arena showed no significant increase in comfort, but this scenario already had the highest rating of any rated context at baseline, leaving little room for improvement.</p><p>No matter their previous experience, most people were neutral about having a Spot robot in their home before their driving experience. However, after the experience of controlling the Spot robot, people had a statistically significant increase in their comfort at having a Spot in their home and also felt that a Spot robot was more suitable for work in any environment, not just the one they had driven it in.</p><h3>Better Understanding of Where Robots Can Fit into Daily Life</h3><p>Perceived suitability for Spot to operate in each context also increased. However, the pattern in the data is different. The largest gains weren\u2019t in the high-baseline industrial and outdoor contexts. They were in home, office, and hospital \u2013 the very environments where people started out most skeptical.</p><p>Participants who drove the Spot robot in a home-themed environment didn\u2019t just consider homes more suitable for robots; they also rated hospitals and offices as more suitable. This result suggests that hands-on control alters something more fundamental than just context-specific familiarity. It may change a person\u2019s underlying understanding of a robot\u2019s capabilities and, consequently, where they believe robots are appropriate.</p><h3>Results by Demographic</h3><p>The hands-on experience seems to be similarly effective across genders, although it does not completely eliminate existing disparities. For example, men reported higher baseline comfort than women across all five contexts. However, all genders improved at similar rates after interaction. The gap didn\u2019t significantly widen or close in most contexts, though it did narrow in factory and office settings.</p><p>Age effects were more context dependent. Children (aged 8\u201317) rated factory environments as less comfortable and less suitable before the study. However, this could be because most children do not have experience with factory settings or industrial environments. After interaction, this gap largely persisted. By contrast, children showed stronger gains in office comfort than older adults and entered the study rating home contexts more favorably than adults did.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Stacked bar chart of survey participants by age group and gender categories.\" class=\"rm-shortcode\" id=\"313e6\" src=\"https://spectrum.ieee.org/media-library/stacked-bar-chart-of-survey-participants-by-age-group-and-gender-categories.jpg?id=65453246&amp;width=980\" /> <small class=\"image-media media-caption\">Participants ranged from age 8 to over age 75.</small><small class=\"image-media media-photo-credit\">RAI Institute</small></p><p><span>Participants who had previously driven Spot (mainly robotics professionals) began with higher comfort across the board. But after the hands-on session, people with no prior exposure caught up to experienced drivers. This level of familiarity would be difficult to replicate with images and videos alone.</span></p><h3>Post-Interaction Results</h3><p>Post-interaction emotional data was overwhelmingly positive. \u201cExcitement\u201d was reported by 74% of participants, \u201chappiness\u201d by 50%, and only 12% reported \u201cnervousness.\u201d Over 55% rated the experience as \u201cbrilliant\u201d and 62% said they were very likely to recommend it to a friend.</p><p>The open-ended responses added a lot more color. The most commonly mentioned moments were locomotion and terrain adaptation (22%). This included the way Spot navigated steps, tight spaces, and uneven ground and expressive tilt movements (22%), which people found surprisingly dog-like or dance-like. A smaller set of responses (3%) described anthropomorphic reactions: worrying about \u201churting\u201d the robot or finding its behavior \u201csilly\u201d in a way that prompted genuine emotional response.</p><p>When asked what tasks they\u2019d want a robot to perform, responses shifted meaningfully. Before driving, answers clustered around domestic assistance and heavy or hazardous labor. After driving, domestic help remained prominent, but entertainment and play jumped from 7.5% to 19.4%. Companionship also appeared at 5%. References to hazardous or industrial tasks declined as people who had operated the robot began imagining it as a companion and playmate, not just a labor-replacement tool.</p><h2>Key Takeaways from The Robot Lab</h2><p>In the not-so-distant future, robots will become more common in public and private spaces. But whether that integration into daily life will be accepted by the general public remains to be seen. The standard approach to building acceptance has been passive exposure such as videos, exhibits, and articles. This study suggests giving people agency and letting them actually operate a robot is a qualitatively different intervention.</p><p>Short, well-designed, hands-on encounters can raise comfort in precisely the social domains where ambivalence is highest and where future robotics deployment will likely take place. This hands-on experience shouldn\u2019t be limited to tech conferences and museums, as it may be more valuable than just entertaining.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Children control a robot car at a tech booth with staff and jungle-themed backdrop\" class=\"rm-shortcode\" id=\"a32d5\" src=\"https://spectrum.ieee.org/media-library/children-control-a-robot-car-at-a-tech-booth-with-staff-and-jungle-themed-backdrop.jpg?id=65453264&amp;width=980\" /> <small class=\"image-media media-caption\">Fun for all ages!</small><small class=\"image-media media-photo-credit\">RAI Institute</small></p><p><span>We consider the popup a success, but as with all experiments, we also learned a lot along the way. For our takeaways, in addition to the increased comfort with robots, we also found that the guests to our space really enjoyed talking to the robotics experts that staffed the location. For many people, the opportunity to talk to a roboticist was as unique as the opportunity to drive a robot, and in the future, we are excited to continue to share our technical work as well as the experiences of our humans in addition to our humanoids.</span></p><p>Does building a space where folks can experience robots firsthand have the potential to create meaningful, long-term attitude shifts? That remains an open question. But the effect\u2019s direction and consistency across different situations, ages, and genders are hard to ignore.</p><div class=\"horizontal-rule\"></div><p><a href=\"https://rai-inst.com/wp-content/uploads/2026/03/HRI26-Pop-Up_Encounters_with_Spot.pdf\" target=\"_blank\">Pop-Up Encounters with Spot: Shaping Public Perceptions of Robots Through Hands-On Experience</a>, by Hae Won Park, Georgia Van de Zande, Xiajie Zhang, Dawn Wendell, and Jessica Hodgins from the RAI Institute and the MIT Media Lab, was presented last month at the <a href=\"https://humanrobotinteraction.org/2026/\" target=\"_blank\">2026 ACM/IEEE International Conference on Human-Robot Interaction</a> in Edinburgh, Scotland.</p>"
       },
       {
         "id": "7cc66fadf8ea024b",
@@ -898,15 +907,6 @@
         "published": "Tue, 31 Mar 2026 12:10:00 +0000",
         "published_dt": "2026-03-31T12:10:00+00:00",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There are more AI health tools than ever\u2014but how well do they work?&#160; In the last few months alone, Microsoft, Amazon, and OpenAI have all launched medical chatbots.&#160; There\u2019s&#160;a clear demand&#8230;"
-      },
-      {
-        "id": "879cad4f9cd74b6b",
-        "title": "AI benchmarks are broken. Here\u2019s what we need instead.",
-        "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 31 Mar 2026 12:01:08 +0000",
-        "published_dt": "2026-03-31T12:01:08+00:00",
-        "summary": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI models and applications is tested against that of individual humans completing tasks.&#160; This framing is seductive: An AI vs. human comparison on isolated problems with clear&#8230;"
       }
     ]
   }
