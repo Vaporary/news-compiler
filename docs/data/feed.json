@@ -1,78 +1,105 @@
 {
-  "generated_at": "2026-04-13T13:55:50.198825+00:00",
+  "generated_at": "2026-04-14T14:00:05.498537+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "0194aba71d369828",
-        "title": "STAT+: GSK advancing ovarian cancer drug mo-rez",
-        "url": "https://www.statnews.com/2026/04/13/biotech-news-gsk-advacing-ovarian-cancer-drug-mo-rez/?utm_campaign=rss",
+        "id": "da81f7ec5da32917",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about an FDA push for trial transparency, a Novo-OpenAI deal, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/04/14/fda-push-clinical-trial-transparency-novo-nordisk-openai-deal/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Mon, 13 Apr 2026 13:25:46 +0000",
-        "published_dt": "2026-04-13T13:25:46+00:00",
-        "summary": "Revolution Medicines 'unprecedented' cancer trial data, Allogene's off-the-shelf CAR-T, and other biotech news"
+        "published": "Tue, 14 Apr 2026 13:12:36 +0000",
+        "published_dt": "2026-04-14T13:12:36+00:00",
+        "summary": "The FDA told more than 2,200 companies and researchers that they are required to report clinical trial results, or they may face fines"
       },
       {
-        "id": "5dab051ad28cc7b4",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about a pancreatic cancer pill, FDA rejecting a Replimune drug again, and more",
-        "url": "https://www.statnews.com/pharmalot/2026/04/13/revolution-pancreatic-cancer-pill-fda-rejects-replimune-cancer-drug/?utm_campaign=rss",
+        "id": "e310c3a68f2fab0c",
+        "title": "STAT+: Hospitals offer chatbots to fight off ChatGPT",
+        "url": "https://www.statnews.com/2026/04/14/hospitals-offer-chatbots-chatgpt-health-tech/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Mon, 13 Apr 2026 13:02:52 +0000",
-        "published_dt": "2026-04-13T13:02:52+00:00",
-        "summary": "Metastatic pancreatic cancer patients who received a targeted pill from Revolution Medicines lived nearly twice as long as patients who got chemotherapy"
+        "published": "Tue, 14 Apr 2026 13:26:27 +0000",
+        "published_dt": "2026-04-14T13:26:27+00:00",
+        "summary": "In this edition of STAT Health Tech: Hospitals offer their own chatbots, Medicare's ACCESS pilot, and an update Utah's 'AI doctor' experiment."
       },
       {
-        "id": "3e5aa00ec3636390",
-        "title": "On positioning nurses as health experts",
-        "url": "https://www.statnews.com/2026/04/13/health-news-nurses-public-trust-in-health-care-workers/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 13 Apr 2026 13:05:39 +0000",
-        "published_dt": "2026-04-13T13:05:39+00:00",
-        "summary": "Landmines ahead for Vinay Prasad\u2019s successor, hospitals and chatbots, and more health news from Morning Rounds"
-      },
-      {
-        "id": "77a987f5e0a528ed",
-        "title": "Want to understand the current state of AI? Check out these charts.",
-        "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
+        "id": "725e9e50bc91dbad",
+        "title": "The Download: the state of AI, and protecting bears with drones",
+        "url": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/",
         "source": "MIT Technology Review",
-        "published": "Mon, 13 Apr 2026 13:00:00 +0000",
-        "published_dt": "2026-04-13T13:00:00+00:00",
-        "summary": "If you\u2019re following AI news, you\u2019re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can\u2019t even read a clock. The 2026 AI Index from Stanford University\u2019s Institute for Human-Centered Artificial Intelligence, AI\u2019s annual report card, comes out today and cuts through some of that noise.&#160;&#8230;"
+        "published": "Tue, 14 Apr 2026 12:10:00 +0000",
+        "published_dt": "2026-04-14T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Want to understand the current state of AI? Check out these charts.\u00a0 If&#160;you\u2019re&#160;following AI news,&#160;you\u2019re&#160;probably getting&#160;whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI&#160;can\u2019t&#160;even&#8230;"
       },
       {
-        "id": "ba3dd14fd87cf402",
-        "title": "STAT+: Revolution Medicines touts \u2018unprecedented\u2019 data for pancreatic cancer pill",
-        "url": "https://www.statnews.com/2026/04/13/revolution-medicines-successful-treatment-pancreatic-cancer-daily-pill/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 13 Apr 2026 12:00:00 +0000",
-        "published_dt": "2026-04-13T12:00:00+00:00",
-        "summary": "In a trial, metastatic pancreatic cancer patients on the medicine lived twice as long as those on chemotherapy."
-      },
-      {
-        "id": "dee4e318b7db8f3d",
-        "title": "The Download: how humans make decisions, and Moderna\u2019s \u201cvaccine\u201d word games",
-        "url": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/",
+        "id": "c74c20b759a3473a",
+        "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
+        "url": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/",
         "source": "MIT Technology Review",
-        "published": "Mon, 13 Apr 2026 12:10:00 +0000",
-        "published_dt": "2026-04-13T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. You have no choice in reading this article\u2014maybe How do humans make decisions? The question has been on Uri Maoz\u2019s mind since he read an article in his early twenties suggesting&#8230;"
+        "published": "Tue, 14 Apr 2026 12:04:47 +0000",
+        "published_dt": "2026-04-14T12:04:47+00:00",
+        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next.\u00a0You can read more from the series here. Just before Artemis II began its historic slingshot around the moon, Jared Isaacman, the recently confirmed NASA administrator, made a flurry of announcements from the agency\u2019s headquarters&#8230;"
       },
       {
-        "id": "439289cd3a0edfb9",
-        "title": "STAT+: Spyre Therapeutics IBD drug shows promise in early trial",
-        "url": "https://www.statnews.com/2026/04/13/spyre-ibd-drug-success-early-trial/?utm_campaign=rss",
+        "id": "cb4365461de92608",
+        "title": "A fluoride shortage for some U.S. water systems",
+        "url": "https://www.statnews.com/2026/04/14/health-news-fluoride-shortage-for-some-us-water-systems/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Mon, 13 Apr 2026 11:00:00 +0000",
-        "published_dt": "2026-04-13T11:00:00+00:00",
-        "summary": "The inflammatory bowel disease therapy succeeded in its first major testing, setting up a competition with several large drugmakers."
+        "published": "Tue, 14 Apr 2026 11:48:07 +0000",
+        "published_dt": "2026-04-14T11:48:07+00:00",
+        "summary": "An experimental Medicare program, how family dynamics affect brain recovery, and other health news from Morning Rounds"
       },
       {
-        "id": "ff443c1fcd96c935",
-        "title": "STAT+: Allogene Therapeutics\u2019 CAR-T treatment eliminates residual cancer cells in B-cell lymphoma patients",
-        "url": "https://www.statnews.com/2026/04/13/allogene-therapeutics-car-t-treatment-eliminates-cancer-cells-b-cell-lymphoma/?utm_campaign=rss",
+        "id": "1f20ae2391d1eae8",
+        "title": "Coming soon: 10 Things That Matter in AI Right Now",
+        "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 14 Apr 2026 11:00:00 +0000",
+        "published_dt": "2026-04-14T11:00:00+00:00",
+        "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our core coverage areas (energy, AI, and biotech, plus a few more), our 2026 list&#8230;"
+      },
+      {
+        "id": "e60e87fa2dc666bb",
+        "title": "For Ben Sasse, Revolution Medicines\u2019 pancreatic cancer trial felt like his best, only option",
+        "url": "https://www.statnews.com/2026/04/14/ben-sasse-revolution-medicines-daraxonrasib-clinical-trial/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Mon, 13 Apr 2026 11:30:00 +0000",
-        "published_dt": "2026-04-13T11:30:00+00:00",
-        "summary": "The new data bolster Allogene\u2019s efforts to develop a new, easily administered cell therapy that could delay or prevent cancer recurrence."
+        "published": "Tue, 14 Apr 2026 08:30:00 +0000",
+        "published_dt": "2026-04-14T08:30:00+00:00",
+        "summary": "Former Sen. Ben Sasse gives a glimpse of what it's like to be a participant in an tough but promising new drug for pancreatic cancer."
+      },
+      {
+        "id": "da5909d535b864ff",
+        "title": "Opinion: My brother can\u2019t access a just-approved breakthrough drug for his rare disease",
+        "url": "https://www.statnews.com/2026/04/14/hunter-syndrome-avlayah-age-based-approvals/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 14 Apr 2026 08:30:00 +0000",
+        "published_dt": "2026-04-14T08:30:00+00:00",
+        "summary": "Rare disease clinical trials, policy discussions, and advocacy initiatives often leave adults behind."
+      },
+      {
+        "id": "34049eb3d72d2b34",
+        "title": "The problem with thinking you\u2019re part Neanderthal",
+        "url": "https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 14 Apr 2026 10:00:00 +0000",
+        "published_dt": "2026-04-14T10:00:00+00:00",
+        "summary": "You\u2019ve probably heard some version of this idea before: that many of us have an \u201cinner Neanderthal.\u201d That is to say, around 45,000 years ago, when Homo sapiens first arrived in Europe, they met members of a cousin species\u2014the broad-browed, heavier-set Neanderthals\u2014and, well, one thing led to another, which is why some people now carry&#8230;"
+      },
+      {
+        "id": "e6d2bcb6182cb605",
+        "title": "STAT+: FDA pushes drugmakers to report missing clinical trial results",
+        "url": "https://www.statnews.com/pharmalot/2026/04/13/fda-nudges-drugmakers-report-missing-clinical-trial-data/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 13 Apr 2026 22:51:29 +0000",
+        "published_dt": "2026-04-13T22:51:29+00:00",
+        "summary": "FDA officials said an internal analysis found results were not submitted for nearly 30% of studies \u201chighly likely\u201d to fall under mandatory reporting requirements."
+      },
+      {
+        "id": "b491074ac6df8ff8",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-urges-clinical-trial-sponsors-report-results-their-studies\" hreflang=\"en\">FDA urges clinical trial sponsors to report the results of their studies</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-urges-clinical-trial-sponsors-report-results-their-studies",
+        "source": "Fierce Biotech",
+        "published": "Apr 13, 2026 2:32pm",
+        "published_dt": "2026-04-13T14:32:00+00:00",
+        "summary": "An FDA review of records found that results have not been reported for 30% of registered clinical studies. To remedy this shortfall, the U.S. regulator has sent reminders to 2,200 drug companies, medical device manufacturers and researchers urging them to report their results.&nbsp;&nbsp;"
       },
       {
         "id": "0719614475d9810d",
@@ -102,49 +129,22 @@
         "summary": "The fight for two tumor types is poised to intensify, with BioNTech lining up a challenge to AstraZeneca and SynOx Therapeutics planning to enter a market served by companies including Daiichi Sankyo on the back of newly published data."
       },
       {
-        "id": "8ce155f1937d3b6d",
-        "title": "Job titles of the future: Wildlife first responder",
-        "url": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 13 Apr 2026 10:00:00 +0000",
-        "published_dt": "2026-04-13T10:00:00+00:00",
-        "summary": "Grizzly bears have made such a comeback across eastern Montana that in 2017, the state hired its first-ever prairie-based grizzly manager: wildlife biologist Wesley Sarmento.&#160; For some seven years, Sarmento worked to keep both the bears, which are still listed as threatened under the Endangered Species Act, and the humans, who are sprawling into once-wild&#8230;"
-      },
-      {
-        "id": "9807efeba73a3989",
-        "title": "You have no choice in reading this article\u2014maybe",
-        "url": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 13 Apr 2026 10:00:00 +0000",
-        "published_dt": "2026-04-13T10:00:00+00:00",
-        "summary": "Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gray matter in turn perceives that motion.&#160; Then his professor asked him to deliver an undergrad lecture. Maoz assumed his&#8230;"
-      },
-      {
-        "id": "1fc5c207c5045a99",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/revolutions-much-hyped-ras-inhibitor-hits-key-survival-goals-phase-3-pancreatic-cancer\" hreflang=\"en\">Revolution\u2019s much-hyped RAS inhibitor hits key survival goals in phase 3 pancreatic cancer trial</a>",
-        "url": "https://www.fiercebiotech.com/biotech/revolutions-much-hyped-ras-inhibitor-hits-key-survival-goals-phase-3-pancreatic-cancer",
-        "source": "Fierce Biotech",
-        "published": "Apr 13, 2026 6:41am",
-        "published_dt": "2026-04-13T06:41:00+00:00",
-        "summary": "Revolution Medicines\u2019 pan-RAS inhibitor helped patients with a highly aggressive form of pancreatic cancer live an average of six months longer than chemotherapy, hitting a goal of the phase 3 study."
-      },
-      {
-        "id": "ca54c277f6bae9c8",
-        "title": "STAT+: Hospitals roll out chatbots, looking to reclaim their role in patients\u2019 health conversations",
-        "url": "https://www.statnews.com/2026/04/13/hospitals-launch-chatbots-creating-new-funnel-for-patients/?utm_campaign=rss",
+        "id": "b619157ba1f23c5f",
+        "title": "A top WHO official confronts Iran war fallout, and weighs bid for an even bigger role",
+        "url": "https://www.statnews.com/2026/04/14/next-who-director-general-candidate-qa-with-hanan-balkhy/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Mon, 13 Apr 2026 08:30:00 +0000",
-        "published_dt": "2026-04-13T08:30:00+00:00",
-        "summary": "A handful of hospitals are launching their own chatbots, a risky bet aimed at better serving current patients and gaining new ones."
+        "published": "Tue, 14 Apr 2026 08:30:00 +0000",
+        "published_dt": "2026-04-14T08:30:00+00:00",
+        "summary": "The director of WHO's Eastern Mediterranean region is weighing whether to run to be the next director-general at a time of tumult over Iran and beyond."
       },
       {
-        "id": "cb09e58bbeec3875",
-        "title": "Opinion: Erectile dysfunction is more than a sexual issue",
-        "url": "https://www.statnews.com/2026/04/13/erectile-dysfunction-cardiovascular-disease-dementia-risk/?utm_campaign=rss",
+        "id": "37be3a069d3d09ae",
+        "title": "STAT+: Dana-Farber CEO talks untangling from Mass General Brigham and building new cancer hospital",
+        "url": "https://www.statnews.com/2026/04/14/dana-farber-cancer-hospital-benjamin-ebert-mass-general-brigham/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Mon, 13 Apr 2026 08:30:00 +0000",
-        "published_dt": "2026-04-13T08:30:00+00:00",
-        "summary": "Erectile dysfunction is more than a sexual issue."
+        "published": "Tue, 14 Apr 2026 08:30:00 +0000",
+        "published_dt": "2026-04-14T08:30:00+00:00",
+        "summary": "Dana-Farber CEO Benjamin Ebert has no shortage of ideas and vision for the cancer institute as it untangles from Mass General Brigham and builds a new hospital."
       },
       {
         "id": "4af71727bd5ec397",
@@ -156,22 +156,67 @@
         "summary": "When Fierce last caught up with GSK\u2019s head of oncology R&amp;D back in November, we were told to \u201cstay tuned\u201d for the pharma to publish its own hotly anticipated data on a pair of antibody-drug conjugates (ADCs)."
       },
       {
-        "id": "86210ae2f0f885d1",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/regeneron-rides-radiopharma-21b-biobucks-pact-australias-telix\" hreflang=\"en\">Regeneron rides into radiopharma via $2.1B biobucks pact with Australia\u2019s Telix</a>",
-        "url": "https://www.fiercebiotech.com/biotech/regeneron-rides-radiopharma-21b-biobucks-pact-australias-telix",
+        "id": "b39c125239e83382",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/stryker-makes-buy-avalon-go-private-spate-medtech-ma-deals\" hreflang=\"en\">Stryker makes a buy as Avalon to go private in a spate of medtech M&amp;A deals</a>",
+        "url": "https://www.fiercebiotech.com/medtech/stryker-makes-buy-avalon-go-private-spate-medtech-ma-deals",
         "source": "Fierce Biotech",
-        "published": "Apr 13, 2026 4:23am",
-        "published_dt": "2026-04-13T04:23:00+00:00",
-        "summary": "With its latest obesity play appearing to pay off, Regeneron has turned its attention to radiopharmaceuticals."
+        "published": "Apr 14, 2026 8:18am",
+        "published_dt": "2026-04-14T08:18:00+00:00",
+        "summary": "Stryker picked up vascular devices maker Amplitude Vascular Systems and Avanos Medical is being taken private in a spate of medtech M&amp;A deals.<br />"
       },
       {
-        "id": "38951c41d2edaab3",
-        "title": "STAT+: Replimune skin cancer drug that became FDA flashpoint is rejected again",
-        "url": "https://www.statnews.com/2026/04/10/skin-cancer-replimune-fda-approval/?utm_campaign=rss",
+        "id": "0194aba71d369828",
+        "title": "STAT+: GSK advancing ovarian cancer drug mo-rez",
+        "url": "https://www.statnews.com/2026/04/13/biotech-news-gsk-advacing-ovarian-cancer-drug-mo-rez/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Fri, 10 Apr 2026 15:23:00 +0000",
-        "published_dt": "2026-04-10T15:23:00+00:00",
-        "summary": "A cancer drug candidate that, rightly or wrongly, became a flashpoint at FDA, fails on a second try at approval."
+        "published": "Mon, 13 Apr 2026 13:25:46 +0000",
+        "published_dt": "2026-04-13T13:25:46+00:00",
+        "summary": "Revolution Medicines 'unprecedented' cancer trial data, Allogene's off-the-shelf CAR-T, and other biotech news"
+      },
+      {
+        "id": "5dab051ad28cc7b4",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about a pancreatic cancer pill, FDA rejecting a Replimune drug again, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/04/13/revolution-pancreatic-cancer-pill-fda-rejects-replimune-cancer-drug/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 13 Apr 2026 13:02:52 +0000",
+        "published_dt": "2026-04-13T13:02:52+00:00",
+        "summary": "Metastatic pancreatic cancer patients who received a targeted pill from Revolution Medicines lived nearly twice as long as patients who got chemotherapy"
+      },
+      {
+        "id": "ba3dd14fd87cf402",
+        "title": "STAT+: Revolution Medicines touts \u2018unprecedented\u2019 data for pancreatic cancer pill",
+        "url": "https://www.statnews.com/2026/04/13/revolution-medicines-successful-treatment-pancreatic-cancer-daily-pill/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 13 Apr 2026 12:00:00 +0000",
+        "published_dt": "2026-04-13T12:00:00+00:00",
+        "summary": "In a trial, metastatic pancreatic cancer patients on the medicine lived twice as long as those on chemotherapy."
+      },
+      {
+        "id": "439289cd3a0edfb9",
+        "title": "STAT+: Spyre Therapeutics IBD drug shows promise in early trial",
+        "url": "https://www.statnews.com/2026/04/13/spyre-ibd-drug-success-early-trial/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 13 Apr 2026 11:00:00 +0000",
+        "published_dt": "2026-04-13T11:00:00+00:00",
+        "summary": "The inflammatory bowel disease therapy succeeded in its first major testing, setting up a competition with several large drugmakers."
+      },
+      {
+        "id": "1fc5c207c5045a99",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/revolutions-much-hyped-ras-inhibitor-hits-key-survival-goals-phase-3-pancreatic-cancer\" hreflang=\"en\">Revolution\u2019s much-hyped RAS inhibitor hits key survival goals in phase 3 pancreatic cancer trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/revolutions-much-hyped-ras-inhibitor-hits-key-survival-goals-phase-3-pancreatic-cancer",
+        "source": "Fierce Biotech",
+        "published": "Apr 13, 2026 6:41am",
+        "published_dt": "2026-04-13T06:41:00+00:00",
+        "summary": "Revolution Medicines\u2019 pan-RAS inhibitor helped patients with a highly aggressive form of pancreatic cancer live an average of six months longer than chemotherapy, hitting a goal of the phase 3 study."
+      },
+      {
+        "id": "65f4519c2e825251",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/alamar-biosciences-files-ipo-amid-opening-life-sciences-funding-window\" hreflang=\"en\">Alamar Biosciences files for IPO amid opening life sciences funding window </a>",
+        "url": "https://www.fiercebiotech.com/medtech/alamar-biosciences-files-ipo-amid-opening-life-sciences-funding-window",
+        "source": "Fierce Biotech",
+        "published": "Apr 14, 2026 4:23am",
+        "published_dt": "2026-04-14T04:23:00+00:00",
+        "summary": "Californian protein sequencing company Alamar Biosciences is seeking an IPO worth up to $159 million amid a growing boom in life sciences public offerings."
       },
       {
         "id": "40a9ab9b585af46d",
@@ -181,89 +226,161 @@
         "published": "Fri, 10 Apr 2026 14:04:20 +0000",
         "published_dt": "2026-04-10T14:04:20+00:00",
         "summary": "Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America? A vaccine\u2014or an \u201cindividualized neoantigen treatment\u201d? That\u2019s the Trump-era vocabulary paradox facing Moderna, the covid-19 shot maker whose plans for next-generation mRNA vaccines against flus and emerging pathogens have been dashed by vaccine skeptics in&#8230;"
-      },
-      {
-        "id": "9b2ee1f4cfb4ed45",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-refuses-replimunes-melanoma-prospect-second-time\" hreflang=\"en\">FDA rejects Replimune\u2019s melanoma prospect for second time</a>",
-        "url": "https://www.fiercebiotech.com/biotech/fda-refuses-replimunes-melanoma-prospect-second-time",
-        "source": "Fierce Biotech",
-        "published": "Apr 10, 2026 1:36pm",
-        "published_dt": "2026-04-10T13:36:00+00:00",
-        "summary": "The second time is not the charm for Replimune\u2019s melanoma candidate RP1. After spurning the immunotherapy last July, the FDA has now rejected the biotech\u2019s resubmitted application."
-      },
-      {
-        "id": "5bb5ae38a3c13633",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-ex-treefrog-ceo-leaps-orano-med\" hreflang=\"en\">Chutes &amp; Ladders\u2014Former TreeFrog CEO leaps to Orano Med</a>",
-        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-ex-treefrog-ceo-leaps-orano-med",
-        "source": "Fierce Biotech",
-        "published": "Apr 9, 2026 4:33pm",
-        "published_dt": "2026-04-09T16:33:00+00:00",
-        "summary": "The Orano group has selected a new leader for its oncology-focused Orano Med subsidiary in Frederic Desdouits, who has sat on the governance board of the company since 2022. Desdouits\u2019 appointment was attributed to his extensive experience across the biopharma industry and his \u201cdeep understanding\u201d of Orano Med\u2019s \u201cactivities and challenges,\u201d given his board experience over the past four years, Orano group\u2019s CEO Nicolas Maes said."
-      },
-      {
-        "id": "e7f919da56572cbb",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gilead-pays-kymera-45m-glue-preclinical-protein-degrader-burgeoning-oncology-pipeline\" hreflang=\"en\">Gilead pays Kymera $45M to glue preclinical protein degrader onto burgeoning oncology pipeline </a>",
-        "url": "https://www.fiercebiotech.com/biotech/gilead-pays-kymera-45m-glue-preclinical-protein-degrader-burgeoning-oncology-pipeline",
-        "source": "Fierce Biotech",
-        "published": "Apr 9, 2026 8:18am",
-        "published_dt": "2026-04-09T08:18:00+00:00",
-        "summary": "Gilead has tucked another drug candidate into a pipeline bulging from a recent deal flurry, paying $45 million to exercise its option on Kymera Therapeutics\u2019 preclinical anticancer molecular glue degrader."
-      },
-      {
-        "id": "15713acfd09a48ee",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/avalyn-plans-ipo-fund-phase-3-trials-inhaled-versions-approved-respiratory-drugs\" hreflang=\"en\">Avalyn plans IPO to fund phase 3 trials of inhaled versions of approved respiratory drugs</a>",
-        "url": "https://www.fiercebiotech.com/biotech/avalyn-plans-ipo-fund-phase-3-trials-inhaled-versions-approved-respiratory-drugs",
-        "source": "Fierce Biotech",
-        "published": "Apr 9, 2026 4:14am",
-        "published_dt": "2026-04-09T04:14:00+00:00",
-        "summary": "Avalyn Pharma is eyeing an IPO as the biotech seeks more funds to take its inhaled versions of approved drugs for lung conditions into phase 3 trials."
-      },
-      {
-        "id": "d131244230929af7",
-        "title": "<a href=\"https://www.fiercebiotech.com/cro/akari-locks-arms-wuxi-develop-and-manufacture-novel-adc-treatment\" hreflang=\"en\">Akari locks arms with WuXi XDC to develop and manufacture novel ADC treatment</a>",
-        "url": "https://www.fiercebiotech.com/cro/akari-locks-arms-wuxi-develop-and-manufacture-novel-adc-treatment",
-        "source": "Fierce Biotech",
-        "published": "Apr 8, 2026 11:06am",
-        "published_dt": "2026-04-08T11:06:00+00:00",
-        "summary": "Oncology biotech Akari Therapeutics has announced a partnership with WuXi XDC, an antibody-drug conjugate (ADC) development and manufacturing company, to accelerate Akari\u2019s drug development and manufacturing."
       }
     ],
     "Engineering & Aerospace": [
       {
-        "id": "539a7d766eec5773",
-        "title": "Citra Space raises $15 million Series A to expand platform for identifying objects in orbit",
-        "url": "https://spacenews.com/citra-space-raises-15-million-series-a-to-expand-platform-for-identifying-objects-in-orbit/",
+        "id": "cb004e8f74efb447",
+        "title": "Eutelsat\u2019s U.S. arm pitches hosted payloads deals on OneWeb satellites",
+        "url": "https://spacenews.com/eutelsats-u-s-arm-pitches-hosted-payloads-deals-on-oneweb-satellites/",
         "source": "SpaceNews",
-        "published": "Mon, 13 Apr 2026 13:30:00 +0000",
-        "published_dt": "2026-04-13T13:30:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/b466279cef85ce2fac6cc7de14812b278964a952afc997cffd46342511a72fea.jpg?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Washington Harbour Partners leads round, with participation from other investment firms</p>\n<p>The post <a href=\"https://spacenews.com/citra-space-raises-15-million-series-a-to-expand-platform-for-identifying-objects-in-orbit/\">Citra Space raises $15 million Series A to expand platform for identifying objects in orbit</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Tue, 14 Apr 2026 13:00:00 +0000",
+        "published_dt": "2026-04-14T13:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/55081187218_b92dbc7da6_b.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The company is in talks with Pentagon and intelligence agencies interested in flying payloads on OneWeb\u2019s next-gen constellation</p>\n<p>The post <a href=\"https://spacenews.com/eutelsats-u-s-arm-pitches-hosted-payloads-deals-on-oneweb-satellites/\">Eutelsat\u2019s U.S. arm pitches hosted payloads deals on OneWeb satellites</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "984d3d404f62c20b",
-        "title": "Atomic-6 unveils online marketplace for orbital data centers",
-        "url": "https://spacenews.com/atomic-6-unveils-online-marketplace-for-orbital-data-centers/",
+        "id": "7b463f499e386fa4",
+        "title": "Is COPUOS at a turning point? Governing space in a new era",
+        "url": "https://spacenews.com/is-copuos-at-a-turning-point-governing-space-in-a-new-era/",
         "source": "SpaceNews",
-        "published": "Mon, 13 Apr 2026 13:00:00 +0000",
-        "published_dt": "2026-04-13T13:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"436\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/ODC-Logo-Black.png?fit=583%2C436&amp;ssl=1\" width=\"583\" /></figure>\n<p>ODC.space aims to streamline procurement of satellites for on-orbit computing</p>\n<p>The post <a href=\"https://spacenews.com/atomic-6-unveils-online-marketplace-for-orbital-data-centers/\">Atomic-6 unveils online marketplace for orbital data centers</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Tue, 14 Apr 2026 13:00:00 +0000",
+        "published_dt": "2026-04-14T13:00:00+00:00",
+        "summary": "<figure><img alt=\"A meeting of the Committee on the Peaceful Uses of Outer Space (COPUOS). Credit: United Nations Office of Outer Space Affairs\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"819\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/copuos.jpg?fit=1024%2C819&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The 63rd Session of the Scientific and Technical Subcommittee (STSC) of the United Nations Committee on the Peaceful Uses of Outer Space (COPUOS), held in Vienna in February, highlighted a reality that is becoming increasingly clear to those working in the international space community: The space environment has changed dramatically, and the institutions created at [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/is-copuos-at-a-turning-point-governing-space-in-a-new-era/\">Is COPUOS at a turning point? Governing space in a new era</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "e78aba80e736dac7",
-        "title": "Orbit is filling up fast. Now comes the awkward bit: pre-empting and handling a crisis.",
-        "url": "https://spacenews.com/orbit-is-filling-up-fast-now-comes-the-awkward-bit-pre-empting-and-handling-a-crisis/",
-        "source": "SpaceNews",
-        "published": "Mon, 13 Apr 2026 13:00:00 +0000",
-        "published_dt": "2026-04-13T13:00:00+00:00",
-        "summary": "<figure><img alt=\"Illustration of orbital debris. Credit: IARPA\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"556\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2023/10/Screenshot-2023-10-04-at-9.53.41%E2%80%AFAM.png?fit=1024%2C556&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Earth\u2019s orbit is \u201con track for a catastrophe.\u201d That was the rather alarming prediction of the authors of a recent piece published in The Conversation. As the argument goes, orbit is filling up fast, and both nation-states and private companies plan to add tens of thousands of spacecraft to the thousands already there. This has [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/orbit-is-filling-up-fast-now-comes-the-awkward-bit-pre-empting-and-handling-a-crisis/\">Orbit is filling up fast. Now comes the awkward bit: pre-empting and handling a crisis.</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "1d800b564319ca55",
-        "title": "Bosch and Qualcomm expand partnership into ADAS",
-        "url": "https://www.engineering.com/bosch-and-qualcomm-expand-partnership-into-adas/",
+        "id": "f7ce062e42690866",
+        "title": "ModuleWorks 2026.04 adds GPU machine simulation",
+        "url": "https://www.engineering.com/moduleworks-2026-04-adds-gpu-machine-simulation/",
         "source": "Engineering.com",
-        "published": "Mon, 13 Apr 2026 12:02:24 +0000",
-        "published_dt": "2026-04-13T12:02:24+00:00",
-        "summary": "<p>Bosch has delivered more than 10 million cockpit vehicle computers based on Snapdragon platforms.</p>\n<p>The post <a href=\"https://www.engineering.com/bosch-and-qualcomm-expand-partnership-into-adas/\">Bosch and Qualcomm expand partnership into ADAS</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Tue, 14 Apr 2026 12:56:06 +0000",
+        "published_dt": "2026-04-14T12:56:06+00:00",
+        "summary": "<p>The release also extends VoluMill and SmartRoughing to multi-axis roughing, 3+2 machining and turning applications.</p>\n<p>The post <a href=\"https://www.engineering.com/moduleworks-2026-04-adds-gpu-machine-simulation/\">ModuleWorks 2026.04 adds GPU machine simulation</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "976db8fffae59c93",
+        "title": "Rapidus opens analysis center and chiplet solutions hub",
+        "url": "https://www.engineering.com/rapidus-opens-analysis-center-and-chiplet-solutions-hub/",
+        "source": "Engineering.com",
+        "published": "Tue, 14 Apr 2026 12:52:56 +0000",
+        "published_dt": "2026-04-14T12:52:56+00:00",
+        "summary": "<p>The new facilities near IIM-1 support semiconductor testing, reliability work and advanced packaging R&#038;D ahead of 2027 production.</p>\n<p>The post <a href=\"https://www.engineering.com/rapidus-opens-analysis-center-and-chiplet-solutions-hub/\">Rapidus opens analysis center and chiplet solutions hub</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "8ef714c71043f900",
+        "title": "Nemetschek to acquire HCSS for heavy civil software",
+        "url": "https://www.engineering.com/nemetschek-to-acquire-hcss-for-heavy-civil-software/",
+        "source": "Engineering.com",
+        "published": "Tue, 14 Apr 2026 12:46:44 +0000",
+        "published_dt": "2026-04-14T12:46:44+00:00",
+        "summary": "<p>HCSS serves more than 4,000 construction companies and will join Nemetschek\u2019s Build &#038; Construct segment.</p>\n<p>The post <a href=\"https://www.engineering.com/nemetschek-to-acquire-hcss-for-heavy-civil-software/\">Nemetschek to acquire HCSS for heavy civil software</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "5b9358b99d15b12c",
+        "title": "Supermicro adds compact AMD EPYC 4005 edge systems",
+        "url": "https://www.engineering.com/supermicro-adds-compact-amd-epyc-4005-edge-systems/",
+        "source": "Engineering.com",
+        "published": "Tue, 14 Apr 2026 12:35:40 +0000",
+        "published_dt": "2026-04-14T12:35:40+00:00",
+        "summary": "<p>The lineup includes box, 1U and tower platforms for AI inferencing, analytics and branch workloads in tight spaces.</p>\n<p>The post <a href=\"https://www.engineering.com/supermicro-adds-compact-amd-epyc-4005-edge-systems/\">Supermicro adds compact AMD EPYC 4005 edge systems</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "ef5a1208ced69b6e",
+        "title": "Ecliptic Enterprises and The Extraterrestrial Investment Company Announce Strategic Agreement",
+        "url": "https://spacenews.com/ecliptic-enterprises-and-the-extraterrestrial-investment-company-extraterrestrial-announce-strategic-agreement/",
+        "source": "SpaceNews",
+        "published": "Tue, 14 Apr 2026 12:00:00 +0000",
+        "published_dt": "2026-04-14T12:00:00+00:00",
+        "summary": "<figure><img alt=\"ecliptic logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/ecliptic.png?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Colorado Springs, Colorado, April 14, 2026&#160;\u2014 Ecliptic Enterprises, a pioneer in space avionics and imaging systems with more than 220 missions flown over 25 years, announced a strategic development agreement [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/ecliptic-enterprises-and-the-extraterrestrial-investment-company-extraterrestrial-announce-strategic-agreement/\">Ecliptic Enterprises and The Extraterrestrial Investment Company Announce Strategic Agreement</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "49c475ae25bf0863",
+        "title": "Aras joins Alliance for OpenUSD for digital twins",
+        "url": "https://www.engineering.com/aras-joins-alliance-for-openusd-for-digital-twins/",
+        "source": "Engineering.com",
+        "published": "Tue, 14 Apr 2026 11:54:48 +0000",
+        "published_dt": "2026-04-14T11:54:48+00:00",
+        "summary": "<p>The move links PLM-governed lifecycle data with OpenUSD-based 3D environments used in engineering and operations.</p>\n<p>The post <a href=\"https://www.engineering.com/aras-joins-alliance-for-openusd-for-digital-twins/\">Aras joins Alliance for OpenUSD for digital twins</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "1a7da69dcfa3812a",
+        "title": "Globant named Autodesk Tandem digital twin provider",
+        "url": "https://www.engineering.com/globant-named-autodesk-tandem-digital-twin-provider/",
+        "source": "Engineering.com",
+        "published": "Tue, 14 Apr 2026 11:48:54 +0000",
+        "published_dt": "2026-04-14T11:48:54+00:00",
+        "summary": "<p>The designation covers implementation, integrations and data enablement for airports, smart buildings, factories and logistics.</p>\n<p>The post <a href=\"https://www.engineering.com/globant-named-autodesk-tandem-digital-twin-provider/\">Globant named Autodesk Tandem digital twin provider</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "bed005fb9625351e",
+        "title": "Axiom Space plans 2027 flight test of spacesuit",
+        "url": "https://spacenews.com/axiom-space-plans-2027-flight-test-of-spacesuit/",
+        "source": "SpaceNews",
+        "published": "Tue, 14 Apr 2026 11:24:52 +0000",
+        "published_dt": "2026-04-14T11:24:52+00:00",
+        "summary": "<figure><img alt=\"AxEMU briefing\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/55206405885_b9f428b578_k.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Axiom Space expects to test the spacesuit it is developing for Artemis lunar missions in space in 2027, either on the International Space Station or Artemis 3.</p>\n<p>The post <a href=\"https://spacenews.com/axiom-space-plans-2027-flight-test-of-spacesuit/\">Axiom Space plans 2027 flight test of spacesuit</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "ef0f67a68eac56e0",
+        "title": "AI and geopolitics spur space investment surge",
+        "url": "https://spacenews.com/ai-and-geopolitics-spur-space-investment-surge/",
+        "source": "SpaceNews",
+        "published": "Tue, 14 Apr 2026 11:00:00 +0000",
+        "published_dt": "2026-04-14T11:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"508\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Infrastructure-chart-1.png?fit=1024%2C508&amp;ssl=1\" width=\"1024\" /></figure>\n<p>AI advances and rising geopolitical tensions are helping usher in a new phase of investment in space infrastructure, according to quarterly research released April 14 by early-stage investor Space Capital.</p>\n<p>The post <a href=\"https://spacenews.com/ai-and-geopolitics-spur-space-investment-surge/\">AI and geopolitics spur space investment surge</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "727c686fb44eff00",
+        "title": "Tendeg Delivers First Antenna from New Industrial Production Facility, Targets 100+ Deployable Apertures Annually",
+        "url": "https://spacenews.com/tendeg-delivers-first-antenna-from-new-industrial-production-facility-targets-100-deployable-apertures-annually/",
+        "source": "SpaceNews",
+        "published": "Tue, 14 Apr 2026 10:00:00 +0000",
+        "published_dt": "2026-04-14T10:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"400\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Tendeg-Square-Logo%402x.png?fit=400%2C400&amp;ssl=1\" width=\"400\" /></figure>\n<p>Louisville, Colorado &#8211; Tendeg today announced the delivery of the first flight antenna manufactured at Innovation Drive, the company\u2019s new 120,000-square-foot production facility built to support scaled production of deployable [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/tendeg-delivers-first-antenna-from-new-industrial-production-facility-targets-100-deployable-apertures-annually/\">Tendeg Delivers First Antenna from New Industrial Production Facility, Targets 100+ Deployable Apertures Annually</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "6f84432c79cf281a",
+        "title": "Aerospace to support industry with government furnished talent",
+        "url": "https://spacenews.com/aerospace-to-support-industry-with-government-furnished-talent/",
+        "source": "SpaceNews",
+        "published": "Mon, 13 Apr 2026 18:10:42 +0000",
+        "published_dt": "2026-04-13T18:10:42+00:00",
+        "summary": "<figure><img alt=\"A worker installs the final piece of the Aerospace Corporation&#039;s 30-foot vacuum chamber for electric propulsion testing. Credit: Aerospace Corporation\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"500\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/EP3-D1-Installation-4-20200516-Bert-1038.jpg?fit=800%2C500&amp;ssl=1\" width=\"800\" /></figure>\n<p>The Aerospace Corp. plans to offer industry access to its expertise and facilities through a new program called government furnished talent (GFT). By providing companies with access to the Federally Funded Research and Development Center\u2019s talent, technology, expertise and laboratory infrastructure, Aerospace intends to help accelerate development of space capabilities, Aerospace CEO Tanya Pemberton told [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/aerospace-to-support-industry-with-government-furnished-talent/\">Aerospace to support industry with government furnished talent</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "41ca15c7303b1664",
+        "title": "L3Harris investing upfront in bid for Golden Dome work",
+        "url": "https://spacenews.com/l3harris-investing-upfront-in-bid-for-golden-dome-work/",
+        "source": "SpaceNews",
+        "published": "Tue, 14 Apr 2026 09:00:00 +0000",
+        "published_dt": "2026-04-14T09:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/PalmBay2_LHX-2026.jpg-scaled.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Sam Mehta: &#8216;We&#8217;ve invested hundreds of millions of dollars in inventory, getting long lead parts and components on order&#8217;</p>\n<p>The post <a href=\"https://spacenews.com/l3harris-investing-upfront-in-bid-for-golden-dome-work/\">L3Harris investing upfront in bid for Golden Dome work</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "dd9bf4fe8d51fedf",
+        "title": "This AI prediction model could help shield future lunar habitats against micrometeorites",
+        "url": "https://aerospaceamerica.aiaa.org/this-ai-prediction-model-could-help-shield-future-lunar-habitats-against-micrometeorites/",
+        "source": "Aerospace America",
+        "published": "Tue, 14 Apr 2026 09:00:00 +0000",
+        "published_dt": "2026-04-14T09:00:00+00:00",
+        "summary": ""
+      },
+      {
+        "id": "fd71d439960b4f32",
+        "title": "Jielong-3 launches internet test satellite, Kinetica-1 lofts 8 remote sensing sats",
+        "url": "https://spacenews.com/jielong-3-launches-internet-test-satellite-kinetica-1-lofts-8-remote-sensing-sats/",
+        "source": "SpaceNews",
+        "published": "Tue, 14 Apr 2026 08:48:43 +0000",
+        "published_dt": "2026-04-14T08:48:43+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"572\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Kinetica1-Y12-Jilin1x8-JSLC-14april2026-CasSpace.jpg?fit=1024%2C572&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A pair of solid rocket launches have added to China\u2019s satellite internet and commercial remote sensing capabilities, sending a total of nine satellites into orbit.</p>\n<p>The post <a href=\"https://spacenews.com/jielong-3-launches-internet-test-satellite-kinetica-1-lofts-8-remote-sensing-sats/\">Jielong-3 launches internet test satellite, Kinetica-1 lofts 8 remote sensing sats</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "0329cbc085b68213",
+        "title": "RAPID Update: 3D Systems & Stratasys announce new hardware, software, and materials",
+        "url": "https://www.engineering.com/rapid-update-3d-systems-stratasys-announce-new-hardware-software-and-materials/",
+        "source": "Engineering.com",
+        "published": "Tue, 14 Apr 2026 01:05:07 +0000",
+        "published_dt": "2026-04-14T01:05:07+00:00",
+        "summary": "<p>Next-gen SLA and PBF machines, filaments and powders, plus processing monitoring updates and more.</p>\n<p>The post <a href=\"https://www.engineering.com/rapid-update-3d-systems-stratasys-announce-new-hardware-software-and-materials/\">RAPID Update: 3D Systems &amp; Stratasys announce new hardware, software, and materials</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "b6f552b28bc1ab18",
@@ -275,67 +392,13 @@
         "summary": "<p>The move adds CT, radiography and remote visual inspection tools to Hexagon\u2019s manufacturing intelligence portfolio.</p>\n<p>The post <a href=\"https://www.engineering.com/hexagon-to-acquire-waygate-technologies/\">Hexagon to acquire Waygate Technologies</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "b90939110642f66c",
-        "title": "Key Senate appropriator rejects proposed NASA budget cuts",
-        "url": "https://spacenews.com/key-senate-appropriator-rejects-proposed-nasa-budget-cuts/",
+        "id": "534658b1e72ca26b",
+        "title": "President Trump signs legislation reauthorizing SBIR",
+        "url": "https://spacenews.com/president-trump-signs-legislation-reauthorizing-sbir/",
         "source": "SpaceNews",
-        "published": "Mon, 13 Apr 2026 11:09:34 +0000",
-        "published_dt": "2026-04-13T11:09:34+00:00",
-        "summary": "<figure><img alt=\"Moran\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"655\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/41ss-moran.jpeg?fit=1024%2C655&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The chairman of the Senate appropriations subcommittee that funds NASA says he opposes proposed cuts to part of NASA\u2019s budget and will seek to fund the agency at 2026 levels.</p>\n<p>The post <a href=\"https://spacenews.com/key-senate-appropriator-rejects-proposed-nasa-budget-cuts/\">Key Senate appropriator rejects proposed NASA budget cuts</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "e602676564c1305f",
-        "title": "Q&A: Building a broadband constellation for a contested space era",
-        "url": "https://spacenews.com/qa-building-a-broadband-constellation-for-a-contested-space-era/",
-        "source": "SpaceNews",
-        "published": "Mon, 13 Apr 2026 11:00:00 +0000",
-        "published_dt": "2026-04-13T11:00:00+00:00",
-        "summary": "<figure><img alt=\"Milo Medin outside Logos\u2019 Mountain View, California, office with engineering lead Rama Akella (right), who worked on Starlink antennas and modems at SpaceX and silicon development at Amazon Leo, and business lead Jorge Delgado (left), who previously worked at OneWeb and at Airbus Defence and Space. Credit: Logos\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"771\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/PXL_20260311_182810643-scaled.jpg?fit=1024%2C771&amp;ssl=1\" width=\"1024\" /></figure>\n<p>As a wave of plans for low Earth orbit (LEO) broadband constellations enters the market, a 63-year-old former NASA Branch Chief and Google executive is betting on narrow beams, higher [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/qa-building-a-broadband-constellation-for-a-contested-space-era/\">Q&amp;A: Building a broadband constellation for a contested space era</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "d7b9334a5a53d84b",
-        "title": "Kubotek Kosmos updates 3D Framework to version 8.0",
-        "url": "https://www.engineering.com/kubotek-kosmos-updates-3d-framework-to-version-8-0/",
-        "source": "Engineering.com",
-        "published": "Mon, 13 Apr 2026 10:44:44 +0000",
-        "published_dt": "2026-04-13T10:44:44+00:00",
-        "summary": "<p>The release adds STEP AP242 Edition 4, STEP XML and QIF support with persistent IDs for digital thread workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/kubotek-kosmos-updates-3d-framework-to-version-8-0/\">Kubotek Kosmos updates 3D Framework to version 8.0</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "d9ac8f2b2b00b91b",
-        "title": "Sophia and Kepler to marry orbital compute with optical links",
-        "url": "https://spacenews.com/sophia-and-kepler-to-marry-orbital-compute-with-optical-links/",
-        "source": "SpaceNews",
-        "published": "Mon, 13 Apr 2026 04:01:00 +0000",
-        "published_dt": "2026-04-13T04:01:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"494\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/rsz_sophia_tile_cluster.png?fit=879%2C494&amp;ssl=1\" width=\"879\" /></figure>\n<p>COLORADO SPRINGS \u2013 Sophia Space will begin deploying edge compute nodes on Kepler Communications satellites in late 2026, under a strategic pact announced April 13. Through the partnership, Sophia Space will demonstrate its Orbital Data Center (ODC) software, while relying on Kepler\u2019s optical data relay network \u201cto enable distributed, resilient compute infrastructure in space,\u201d according [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/sophia-and-kepler-to-marry-orbital-compute-with-optical-links/\">Sophia and Kepler to marry orbital compute with optical links</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "0d9286c9f64c26c8",
-        "title": "Spacety raises $190 million to scale satellite manufacturing, plans IPO",
-        "url": "https://spacenews.com/spacety-raises-190-million-to-scale-satellite-manufacturing-plans-ipo/",
-        "source": "SpaceNews",
-        "published": "Fri, 10 Apr 2026 16:59:12 +0000",
-        "published_dt": "2026-04-10T16:59:12+00:00",
-        "summary": "<figure><img alt=\"An image returned by the Hisea-1 C-band Chinese SAR satellite in December 2020.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"616\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2021/12/Spacety-hisea-1-c-band-SAR-dec2020-spacety.jpg?fit=1024%2C616&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Chinese satellite maker Spacety has completed multiple rounds of equity financing worth $190 million to scale its vertically integrated satellite manufacturing and data services model.</p>\n<p>The post <a href=\"https://spacenews.com/spacety-raises-190-million-to-scale-satellite-manufacturing-plans-ipo/\">Spacety raises $190 million to scale satellite manufacturing, plans IPO</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "b0d9ec1a22abb946",
-        "title": "Stratasys expands software, materials and 3D printing",
-        "url": "https://www.engineering.com/stratasys-expands-software-materials-and-3d-printing/",
-        "source": "Engineering.com",
-        "published": "Fri, 10 Apr 2026 14:04:22 +0000",
-        "published_dt": "2026-04-10T14:04:22+00:00",
-        "summary": "<p>Updates include the J850 Core, a medical silicone for Origin printers, new GrabCAD apps and a lower-cost SAF PA12 material.</p>\n<p>The post <a href=\"https://www.engineering.com/stratasys-expands-software-materials-and-3d-printing/\">Stratasys expands software, materials and 3D printing</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "53c3af9238593950",
-        "title": "Albedo prepares second VLEO mission for 2027 launch",
-        "url": "https://spacenews.com/albedo-prepares-second-vleo-mission-for-2027-launch/",
-        "source": "SpaceNews",
-        "published": "Thu, 09 Apr 2026 11:00:00 +0000",
-        "published_dt": "2026-04-09T11:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"494\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/rsz_1vicinity.png?fit=879%2C494&amp;ssl=1\" width=\"879\" /></figure>\n<p>SAN FRANCISCO \u2013 Albedo, the former Earth-observation startup now focused on satellite manufacturing, announced plans April 9 to send its second spacecraft into very low-Earth orbit (VLEO). Vicinity, scheduled to launch in 2027, will deploy solar arrays to provide far more power than the solar panels mounted on Precision, the bus that housed Albedo\u2019s 2025 [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/albedo-prepares-second-vleo-mission-for-2027-launch/\">Albedo prepares second VLEO mission for 2027 launch</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Tue, 14 Apr 2026 03:01:47 +0000",
+        "published_dt": "2026-04-14T03:01:47+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/K2_Space_FLIGHT.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>COLORADO SPRINGS \u2013 President Donald Trump signed the Small Business Innovation and Economic Security Act April 13, reestablishing key sources of funding for early-stage space companies. The legislation reauthorizes the Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) programs through Sept. 30, 2031, and enhances screening of applicants to ensure they do [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/president-trump-signs-legislation-reauthorizing-sbir/\">President Trump signs legislation reauthorizing SBIR</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "0b752846e0be3495",
@@ -347,112 +410,49 @@
         "summary": ""
       },
       {
-        "id": "9fb3cdeab632312d",
-        "title": "Rocket Lab wins contract for three more iQPS launches",
-        "url": "https://spacenews.com/rocket-lab-wins-contract-for-three-more-iqps-launches/",
+        "id": "f4fdd578b0298b42",
+        "title": "Washington agrees on space urgency, but not on how to deliver",
+        "url": "https://spacenews.com/washington-agrees-on-space-urgency-but-not-on-how-to-deliver/",
         "source": "SpaceNews",
-        "published": "Sun, 12 Apr 2026 11:43:00 +0000",
-        "published_dt": "2026-04-12T11:43:00+00:00",
-        "summary": "<figure><img alt=\"Electron launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/electron-f79.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Rocket Lab has won a contract from Japanese radar satellite company iQPS for three additional Electron launches.</p>\n<p>The post <a href=\"https://spacenews.com/rocket-lab-wins-contract-for-three-more-iqps-launches/\">Rocket Lab wins contract for three more iQPS launches</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Mon, 13 Apr 2026 22:39:48 +0000",
+        "published_dt": "2026-04-13T22:39:48+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/55205608650_9183d307a7_k.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Policymakers and industry warn that money alone won\u2019t solve structural bottlenecks</p>\n<p>The post <a href=\"https://spacenews.com/washington-agrees-on-space-urgency-but-not-on-how-to-deliver/\">Washington agrees on space urgency, but not on how to deliver</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "ca956149f4eb1510",
-        "title": "Falcon 9 launches Cygnus cargo spacecraft to the ISS",
-        "url": "https://spacenews.com/falcon-9-launches-cygnus-cargo-spacecraft-to-the-iss/",
+        "id": "7159ea539a21c522",
+        "title": "Q&A: Heather Pringle on what to expect from Space Symposium",
+        "url": "https://spacenews.com/qa-heather-pringle-on-what-to-expect-from-space-symposium/",
         "source": "SpaceNews",
-        "published": "Sat, 11 Apr 2026 16:28:21 +0000",
-        "published_dt": "2026-04-11T16:28:21+00:00",
-        "summary": "<figure><img alt=\"Falcon 9 NG-24 launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/f9-ng24.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A Falcon 9 launched a Cygnus cargo spacecraft April 11 as Northrop Grumman continues its dependence on a competitor to fly resupply missions to the International Space Station.</p>\n<p>The post <a href=\"https://spacenews.com/falcon-9-launches-cygnus-cargo-spacecraft-to-the-iss/\">Falcon 9 launches Cygnus cargo spacecraft to the ISS</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Mon, 13 Apr 2026 20:59:57 +0000",
+        "published_dt": "2026-04-13T20:59:57+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/space-minds-podcast-pringle-space-foundation-2000-1500.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The global space community is looking to build on a wave of momentum to expand its civil and national security sectors and sustain the industry\u2019s resurgence well into the future. Heather Pringle, the Space Foundation\u2019s chief executive officer and a retired Air Force major general, previewed the nonprofit\u2019s annual Space Symposium, now in its 41st [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/qa-heather-pringle-on-what-to-expect-from-space-symposium/\">Q&amp;A: Heather Pringle on what to expect from Space Symposium</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "1520278e698a8d75",
-        "title": "\u2018Perfect bullseye splashdown\u2019 caps Artemis II lunar mission",
-        "url": "https://aerospaceamerica.aiaa.org/perfect-bullseye-splashdown-caps-artemis-ii-lunar-mission/",
-        "source": "Aerospace America",
-        "published": "Sat, 11 Apr 2026 01:05:58 +0000",
-        "published_dt": "2026-04-11T01:05:58+00:00",
-        "summary": ""
-      },
-      {
-        "id": "829f8f65173b692a",
-        "title": "Moog Technology Keeps Artemis II Astronauts Safe During Historic Lunar Mission",
-        "url": "https://spacenews.com/moog-technology-keeps-artemis-ii-astronauts-safe-during-historic-lunar-mission/",
+        "id": "cced4f49af242fe8",
+        "title": "Phantom Space eyes edge in orbital data race with thermal deal",
+        "url": "https://spacenews.com/phantom-space-eyes-edge-in-orbital-data-race-with-thermal-deal/",
         "source": "SpaceNews",
-        "published": "Sat, 11 Apr 2026 00:41:38 +0000",
-        "published_dt": "2026-04-11T00:41:38+00:00",
-        "summary": "<figure><img alt=\"Moog\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"400\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/08/moog_square.png?fit=400%2C400&amp;ssl=1\" width=\"400\" /></figure>\n<p>East Aurora, NY &#8211; Moog Inc. (NYSE: MOG.A and MOG.B), a worldwide designer, manufacturer, and systems integrator of high-performance precision motion and fluid controls and control systems, highlights the critical [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/moog-technology-keeps-artemis-ii-astronauts-safe-during-historic-lunar-mission/\">Moog Technology Keeps Artemis II Astronauts Safe During Historic Lunar Mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Mon, 13 Apr 2026 18:15:57 +0000",
+        "published_dt": "2026-04-13T18:15:57+00:00",
+        "summary": "<figure><img alt=\"Rendering of a Phantom Space launch vehicle deploying the Phantom Cloud constellation. Credit: Phantom Space\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"494\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/rsz_phantom_cloud.webp?fit=879%2C494&amp;ssl=1\" width=\"879\" /></figure>\n<p>Phantom Space believes it now has the key pieces of a vertically integrated model to compete on the edges of the emerging orbital data center market, where industry giants are already staking claims to meet soaring AI-driven demand. The Tucson, Arizona-based satellite and rocket developer recently acquired what it sees as a critical missing piece: [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/phantom-space-eyes-edge-in-orbital-data-race-with-thermal-deal/\">Phantom Space eyes edge in orbital data race with thermal deal</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "0f73274323187fee",
-        "title": "Orion splashes down to successfully end Artemis 2 mission",
-        "url": "https://spacenews.com/orion-splashes-down-to-successfully-end-artemis-2-mission/",
+        "id": "91ea61700ec013a5",
+        "title": "Spring fever pitch: Three questions to listen for this Space Symposium",
+        "url": "https://spacenews.com/spring-fever-pitch-three-questions-to-listen-for-this-space-symposium/",
         "source": "SpaceNews",
-        "published": "Sat, 11 Apr 2026 00:16:13 +0000",
-        "published_dt": "2026-04-11T00:16:13+00:00",
-        "summary": "<figure><img alt=\"Artemis 2 splashdown\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"639\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/art2-splashdown.jpeg?fit=1024%2C639&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The first human mission beyond Earth orbit in more than 50 years successfully concluded with a splashdown in the Pacific Ocean April 10.</p>\n<p>The post <a href=\"https://spacenews.com/orion-splashes-down-to-successfully-end-artemis-2-mission/\">Orion splashes down to successfully end Artemis 2 mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Mon, 13 Apr 2026 17:50:55 +0000",
+        "published_dt": "2026-04-13T17:50:55+00:00",
+        "summary": "<figure><img alt=\"Credit: NASA/Air Force/Space Foundation/SpaceNews illustration; NASA\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/illo-scaled.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A historic mission to the moon. A record-setting budget for the Space Force. Billions of dollars in new valuations. As the 41st Space Symposium opens in Colorado Springs, optimism is bountiful for the space industry. At the same time, leaders are emphasizing speed, near-perfect execution and new ways of working together across government and industry. [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/spring-fever-pitch-three-questions-to-listen-for-this-space-symposium/\">Spring fever pitch: Three questions to listen for this Space Symposium</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "c06011807d79c132",
-        "title": "HawkEye 360 files to go public",
-        "url": "https://spacenews.com/hawkeye-360-files-to-go-public/",
+        "id": "c53efcff2f5612bd",
+        "title": "The path to $50 billion in new space investment",
+        "url": "https://spacenews.com/the-path-to-50-billion-in-new-space-investment/",
         "source": "SpaceNews",
-        "published": "Fri, 10 Apr 2026 17:36:54 +0000",
-        "published_dt": "2026-04-10T17:36:54+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"766\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/HFUl9phWsAAkEJ7-scaled-e1775842311485.jpeg?fit=1024%2C766&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Based in Herndon, Virginia, the company specializes in space-based radio-frequency signals intelligence for government agencies</p>\n<p>The post <a href=\"https://spacenews.com/hawkeye-360-files-to-go-public/\">HawkEye 360 files to go public</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "be45828edceafab5",
-        "title": "GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore",
-        "url": "https://spacenews.com/gsoa-and-novaspace-launch-the-space-industry-forum-sif-2026-in-singapore/",
-        "source": "SpaceNews",
-        "published": "Fri, 10 Apr 2026 14:48:10 +0000",
-        "published_dt": "2026-04-10T14:48:10+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square.png?fit=1021%2C1024&amp;ssl=1\" width=\"1021\" /></figure>\n<p>Paris,&#160;April&#160;2026&#160;\u2013&#160;GSOA and Novaspace announce the inaugural edition of the&#160;Space Industry Forum&#160;(SIF),&#160;a new flagship event co-organized by both organizations, taking place on May 19, 2026, at The Fullerton Hotel in Singapore. [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/gsoa-and-novaspace-launch-the-space-industry-forum-sif-2026-in-singapore/\">GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "db43e69acb3dfee2",
-        "title": "Siemens and NVIDIA scale pre-silicon verification",
-        "url": "https://www.engineering.com/siemens-and-nvidia-scale-pre-silicon-verification/",
-        "source": "Engineering.com",
-        "published": "Fri, 10 Apr 2026 13:36:30 +0000",
-        "published_dt": "2026-04-10T13:36:30+00:00",
-        "summary": "<p>Using Veloce proFPGA CS, the companies reported capturing tens of trillions of cycles over several days.</p>\n<p>The post <a href=\"https://www.engineering.com/siemens-and-nvidia-scale-pre-silicon-verification/\">Siemens and NVIDIA scale pre-silicon verification</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "35c04017dade660f",
-        "title": "ELEMENTS 4.5.0 adds a new multi-physics workflow",
-        "url": "https://www.engineering.com/elements-4-5-0-adds-a-new-multi-physics-workflow/",
-        "source": "Engineering.com",
-        "published": "Fri, 10 Apr 2026 13:24:07 +0000",
-        "published_dt": "2026-04-10T13:24:07+00:00",
-        "summary": "<p>The update also improves meshing, post-processing and GUI tools, and includes revised Adjoint and Coupled modules.</p>\n<p>The post <a href=\"https://www.engineering.com/elements-4-5-0-adds-a-new-multi-physics-workflow/\">ELEMENTS 4.5.0 adds a new multi-physics workflow</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "056d0d5fef8e5dd9",
-        "title": "Joby, ASI partner on eVTOL airspace integration",
-        "url": "https://www.engineering.com/joby-asi-partner-on-evtol-airspace-integration/",
-        "source": "Engineering.com",
-        "published": "Fri, 10 Apr 2026 12:32:53 +0000",
-        "published_dt": "2026-04-10T12:32:53+00:00",
-        "summary": "<p>The work will include live operational exercises, with initial results expected by the end of 2026.</p>\n<p>The post <a href=\"https://www.engineering.com/joby-asi-partner-on-evtol-airspace-integration/\">Joby, ASI partner on eVTOL airspace integration</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "93bbdcd2347ed455",
-        "title": "Modelithics updates COMPLETE+3D Library for HFSS",
-        "url": "https://www.engineering.com/modelithics-updates-complete3d-library-for-hfss/",
-        "source": "Engineering.com",
-        "published": "Fri, 10 Apr 2026 12:25:05 +0000",
-        "published_dt": "2026-04-10T12:25:05+00:00",
-        "summary": "<p>The release adds HPC licensing, allowing one seat to run simulations concurrently across multiple machines.</p>\n<p>The post <a href=\"https://www.engineering.com/modelithics-updates-complete3d-library-for-hfss/\">Modelithics updates COMPLETE+3D Library for HFSS</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "2b8965a8f2de8582",
-        "title": "Commerce Department budget proposal revives concerns about TraCSS",
-        "url": "https://spacenews.com/commerce-department-budget-proposal-revives-concerns-about-tracss/",
-        "source": "SpaceNews",
-        "published": "Fri, 10 Apr 2026 12:10:21 +0000",
-        "published_dt": "2026-04-10T12:10:21+00:00",
-        "summary": "<figure><img alt=\"The TraCSS logo. Credit: NOAA\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/cropped-TraCSS_16x9-1024x683-1.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A budget proposal for the Department of Commerce raises new doubts about the future of a civil space traffic management system under development there.</p>\n<p>The post <a href=\"https://spacenews.com/commerce-department-budget-proposal-revives-concerns-about-tracss/\">Commerce Department budget proposal revives concerns about TraCSS</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Mon, 13 Apr 2026 17:41:12 +0000",
+        "published_dt": "2026-04-13T17:41:12+00:00",
+        "summary": "<figure><img alt=\"Transporter-16 launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/transporter16.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The future of space is commercial, with American companies critical to establishing a moon base and developing a vibrant economy in low Earth orbit (LEO) and beyond. The Trump administration has set a goal to attract at least $50 billion of new investment in American space markets by 2028. Sure, $50 billion is a big [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/the-path-to-50-billion-in-new-space-investment/\">The path to $50 billion in new space investment</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
@@ -536,6 +536,15 @@
         "published": null,
         "published_dt": null,
         "summary": "We use novel data on the composition and cost of payments across U.S. merchants to quantify consumer redistribution in the payment system. Cards charge interchange fees to merchants to fund consumer rewards. When merchants raise prices for all consumers in response to these costs, users of low-cost payment methods (e.g., cash and debit) cross-subsidize high-reward credit card users who shop at the same merchant. This standard mechanism implicitly assumes that consumers using different payment methods shop at the same merchants and that merchants face similar fees. We show instead that incidence depends on the joint distribution of payment choices across merchants. We document two key forces that shape redistribution. First, consumer sorting\u2014where consumers who use different payment methods shop at different merchants\u2014limits the exposure of cash and debit users to the effects of high interchange fees. Second, interchange fees vary across merchants; where users of different payment methods overlap, such as at large grocery stores, fees are lower due to sector discounts and private negotiations. We embed these forces in a sufficient-statistics framework that maps observed heterogeneity directly into redistribution. We estimate that interchange fees transfer approximately $30 billion every year from cash and debit users to credit card users. Consumer sorting and merchant fee heterogeneity reduce the magnitude of this regressive transfer by 25%, but do not eliminate it. Finally, we show that both the Durbin Amendment and the rise of premium credit cards have been regressive, highlighting how policy and innovation can reshape the incidence of platform fees."
+      },
+      {
+        "id": "a25460016f493578",
+        "title": "The tech jobs bust is real. Don\u2019t blame AI (yet)",
+        "url": "https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet",
+        "source": "Finance & economics",
+        "published": "Mon, 13 Apr 2026 13:19:44 +0000",
+        "published_dt": "2026-04-13T13:19:44+00:00",
+        "summary": "Why technology firms are shedding workers"
       },
       {
         "id": "433f9116cd4d4636",
@@ -671,62 +680,53 @@
         "published": "Fri, 30 Jan 2026 17:17:34 +0000",
         "published_dt": "2026-01-30T17:17:34+00:00",
         "summary": "Donald Trump\u2019s nominee was an inflation hawk\u2014until he wasn\u2019t"
-      },
-      {
-        "id": "829d416d2d1591f2",
-        "title": "The West and Ukraine are capsizing Russia\u2019s shadow fleet",
-        "url": "https://www.economist.com/finance-and-economics/2026/01/27/the-west-and-ukraine-are-capsizing-russias-shadow-fleet",
-        "source": "Finance & economics",
-        "published": "Tue, 27 Jan 2026 20:23:51 +0000",
-        "published_dt": "2026-01-27T20:23:51+00:00",
-        "summary": "And sinking its oil revenues in the process"
       }
     ],
     "Cross-Disciplinary": [
       {
-        "id": "77a987f5e0a528ed",
-        "title": "Want to understand the current state of AI? Check out these charts.",
-        "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 13 Apr 2026 13:00:00 +0000",
-        "published_dt": "2026-04-13T13:00:00+00:00",
-        "summary": "If you\u2019re following AI news, you\u2019re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can\u2019t even read a clock. The 2026 AI Index from Stanford University\u2019s Institute for Human-Centered Artificial Intelligence, AI\u2019s annual report card, comes out today and cuts through some of that noise.&#160;&#8230;"
-      },
-      {
-        "id": "dee4e318b7db8f3d",
-        "title": "The Download: how humans make decisions, and Moderna\u2019s \u201cvaccine\u201d word games",
-        "url": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 13 Apr 2026 12:10:00 +0000",
-        "published_dt": "2026-04-13T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. You have no choice in reading this article\u2014maybe How do humans make decisions? The question has been on Uri Maoz\u2019s mind since he read an article in his early twenties suggesting&#8230;"
-      },
-      {
-        "id": "ea67f92b867df1fe",
-        "title": "Squishy Photonic Switches Promise Fast Low Power Logic",
-        "url": "https://spectrum.ieee.org/soft-photonics",
+        "id": "bb93f02c6b7b0fd9",
+        "title": "What It\u2019s Like to Live With an Experimental Brain Implant",
+        "url": "https://spectrum.ieee.org/bci-user-experience",
         "source": "IEEE Spectrum",
-        "published": "Mon, 13 Apr 2026 12:00:01 +0000",
-        "published_dt": "2026-04-13T12:00:01+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/illustration-of-a-micropipette-piercing-through-a-hemisphere-shaped-membrane-to-inject-a-droplet-at-its-core.jpg?id=65506297&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p><span>Photonic devices, which rely on light instead of electricity, have the potential to be faster and more energy efficient than today\u2019s electronics. They also present a unique opportunity to develop devices using <a href=\"https://spectrum.ieee.org/soft-robot-actuators-bugs\" target=\"_self\">soft materials</a>, such as polymers and gels, which are poor conductors of electricity, but are easier to manufacture and more environmentally friendly. The development of these potentially squishy, <a href=\"https://spectrum.ieee.org/wearable-sensors\" target=\"_self\">flexible photonics</a>, however, requires the ability to manipulate light using only light, not electricity.</span></p><p>In soft matter, that\u2019s been done primarily by changing the physical properties of optical materials or by using intense light pulses to change the direction of light. Now, an international team of scientists has developed a new way of controlling light with light using very low light intensities and without changing any of the physical properties of materials. </p><p><a href=\"https://musevic.fmf.uni-lj.si/\" target=\"_blank\"><span>Igor Mu\u0161evi\u010d</span></a>, a professor of physics at the University of Ljubljana who led the project, says that he first got the idea for the device while at a conference in San Francisco, listening to a talk by <a href=\"https://www.nobelprize.org/prizes/chemistry/2014/hell/facts/\" target=\"_blank\">Stefan W. Hell </a>about stimulated emission depletion (STED) microscopy. The imaging technique, for which Hell won a <a href=\"https://www.nobelprize.org/prizes/chemistry/2014/summary/\" rel=\"noopener noreferrer\" target=\"_blank\">Nobel Prize in Chemistry in 2014</a>, uses two lasers to produce an extremely small light beam to scan objects. \u201cWhen I saw this, I said, this is manipulation light by light, right?\u201d Mu\u0161evi\u010d recalls.</p><p><span>His realization inspired a device into which a laser pulse is fired. Whether or not this beam makes it out of the device depends on whether or not a second pulse is fired less than a nanosecond afterwards.</span></p><h2>A liquid crystal photonic switch</h2><p><span>The device consists of a spherically-shaped bead of liquid crystal, held in shape by its elastic material properties and the forces between its molecules, infused with a fluorescent dye and trapped between four upright cone-shaped polymer structures that guide light in and out of the device. When a laser pulse is sent through one of the four polymer waveguides, the light is quickly transferred into the liquid crystal, exciting the fluorescent dye. In a process known as whispering gallery mode resonance, the photons inside the liquid crystal are reflected back inside each time they hit the liquid\u2019s spherical surface. The result is that light circulates inside the cavity until it is eventually reflected into one of the waveguides, which then emits the photons out in a laser beam. </span></p><p>The team realized that sending a second laser pulse of a different color into the waveguides before the liquid crystal started emitting light from the first laser pulse resulted in stimulated emission of the excited dye molecules. The photons from the second laser pulse, which had to be fired into the waveguides after the first laser pulse, interact with the already-excited dye molecules. The interaction causes the dye to emit photons identical to those in the second pulse while depleting the energy from the first pulse. The second laser beam, called the STED beam, is amplified by the process, while the light from the first pulse is so diminished that it isn\u2019t emitted at all. Because the outcome of the first laser pulse could be controlled using the second laser pulse, the team had successfully demonstrated the control of light by light.</p><p><span>According to the Ljubljana team, the energy efficiency of the liquid crystal approach is much better than previous soft-matter techniques, which had typically involved using intense light fields to change material properties of the soft matter, such as the index of refraction. The new method reduces the energy needed by more than a factor of a hundred. Because the STED laser pulse circulates repeatedly in the crystal, a single photon can deplete many dye molecules of the energy from the first laser pulse.</span> </p><p><a href=\"https://ravnik.fmf.uni-lj.si/\" target=\"_blank\">Miha Ravnik</a>, a theoretical physicist also at the University of Ljubljana who worked on the project, explains that control of light by light is essential in soft-matter photonic logic gates. \u201cYou can very much control when [light] is generated and in which direction,\u201d Ravnik says of the light shined into the polymer waveguides. \u201cAnd this gives you, then, this capability that you create logical operations with light.\u201d</p><p>Aside from its potential in photonic logical circuits, the team\u2019s approach presents several technical advantages over photonics made from silicon or other hard materials, Mu\u0161evi\u010d says. For example, using soft matter greatly simplifies the manufacturing process. The liquid crystal in the team\u2019s device can be inserted in less than a second, but manufacturing a similar structure with hard materials is difficult. Additionally, soft matter devices can be manufactured at much lower temperatures than silicon and other hard materials. Mu\u0161evi\u010d also points out that soft matter presents an opportunity to experiment with the geometry of the device. With liquid crystals \u201cyou can make many different kinds of cavities,\u201d says Mu\u0161evi\u010d. \u201cYou have, I would say, a lot of engineering space.\u201d</p><p>Ravnik is excited for the potential of the team\u2019s breakthrough, particularly as a step towards <a href=\"https://spectrum.ieee.org/generative-optical-ai-nature-ucla\" target=\"_self\">photonic computing</a> and even photonic neural networks. But, he recognizes that these developments are far down the line. \u201cThere\u2019s no way this technology can compete with current neural network implementation at all,\u201d he admits. Still, the possibilities are tantalizing. \u201cThe energy losses are predicted to be extremely low, the speeds for calculation extremely high.\u201d</p>"
+        "published": "Tue, 14 Apr 2026 13:00:01 +0000",
+        "published_dt": "2026-04-14T13:00:01+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-close-up-shows-a-man-seated-in-a-wheelchair-attached-to-the-top-of-his-head-are-two-devices-each-with-a-cable-extending-away.jpg?id=65504719&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p><strong><span><em></em></span>Scott Imbrie vividly remembers</strong> the first time he used a robotic arm to shake someone\u2019s hand and felt the robotic limb as if it were his own. \u201cI still get goosebumps when I think about that initial contact,\u201d he says. \u201cIt\u2019s just unexplainable.\u201d The moment came courtesy of a brain implant: an array of electrodes that let him control a robotic arm and receive tactile sensations back to the brain.</p><p>Getting there took decades. In 1985, Imbrie had woken up in the hospital after a car accident with a broken neck and a doctor telling him he\u2019d never use his hands or legs again. His response was an expletive, he says\u2014and a decision. \u201cI\u2019m not going to allow someone to tell me what I can and can\u2019t do.\u201d With the determination of a head-strong 22-year-old, Imbrie gradually regained the ability to walk and some limited arm movement. Aware of how unusual his recovery was, the Illinois-native wanted to help others in similar situations and began looking for research projects related to spinal cord injuries. For decades, though, he wasn\u2019t the right fit, until in 2020 he was finally accepted into a <a href=\"https://news.uchicago.edu/story/uchicago-researchers-re-create-sense-touch-and-motor-control-paralyzed-patient\" target=\"_blank\">University of Chicago trial</a>.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"\" class=\"rm-shortcode\" id=\"b7367\" src=\"https://spectrum.ieee.org/media-library/image.jpg?id=65504759&amp;width=980\" /></p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Two photos. The first shows a man sitting in a chair with a large robotic arm extending in front of him. The second is a close-up of implants on the surface of a brain.  \" class=\"rm-shortcode\" id=\"5304e\" src=\"https://spectrum.ieee.org/media-library/two-photos-the-first-shows-a-man-sitting-in-a-chair-with-a-large-robotic-arm-extending-in-front-of-him-the-second-is-a-close-u.jpg?id=65504756&amp;width=980\" /><small class=\"image-media media-caption\">Scott Imbrie has shaken hands with a robotic arm controlled by a brain implant. The electrodes record neural signals that enable him to move the device and receive tactile feedback. </small><small class=\"image-media media-photo-credit\">Top: 60 Minutes/CBS News; Bottom: University of Chicago </small></p><p>Imbrie is part of a rarefied group: More people have gone to space than have received advanced brain-computer interfaces (<a href=\"https://spectrum.ieee.org/tag/bci\" target=\"_self\">BCI</a>) like his. But a growing number of companies are now attempting to move the devices out of neuroscience labs and into mainstream medical care, where they could help millions of people with paralysis and other neurological conditions. Some companies even hope that BCIs will eventually become a consumer technology.</p><p>None of that will be possible without people like Imbrie. He\u2019s a member of the <a href=\"https://bcipioneers.org/\" target=\"_blank\">BCI Pioneers Coalition</a>, an advocacy group founded in 2018 by <a href=\"https://bcipioneers.org/\" target=\"_blank\">Ian Burkhart</a>, the first quadriplegic to regain hand movement using a brain implant.</p><p>That life-changing experience convinced Burkhart that BCIs will make the leap from lab to real world only if users help shape the technology by sharing their perspectives on what works, what doesn\u2019t, and how the devices fit into daily life. The coalition aims to ensure that companies, clinicians, and regulators hear directly from trial participants.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Two images. The first is a photo of a man sitting in a wheelchair; attached to the top of his head is a device with a cable attached. The second is a medical image showing the location of electrodes in the brain.  \" class=\"rm-shortcode\" id=\"3e41e\" src=\"https://spectrum.ieee.org/media-library/two-images-the-first-is-a-photo-of-a-man-sitting-in-a-wheelchair-attached-to-the-top-of-his-head-is-a-device-with-a-cable-atta.jpg?id=65504780&amp;width=980\" /><small class=\"image-media media-caption\">Ian Burkhart founded the BCI Pioneers Coalition to ensure that companies developing brain implants hear directly from the people using them.  </small><small class=\"image-media media-photo-credit\">Left: Andrew Spear/Redux; Right: Ian Burkhart</small></p><p>The group also serves as a peer-support network for trial participants. That\u2019s crucial, because despite the steady drumbeat of miraculous results from BCI trials, receiving a brain implant comes with significant risks. Surgical complications, such as bleeding or infection in the brain, are possible. Even more concerning is the potential psychological toll if the implant fails to work as expected or if life-changing improvements are eventually withdrawn.</p><p>Researchers spell this out upfront, and many are put off, says <a href=\"https://biologicalsciences.uchicago.edu/faculty/john-downey\" target=\"_blank\">John Downey</a>, an assistant professor of neurological surgery at the University of Chicago and the lead on Imbrie\u2019s clinical trial. \u201cI would say, the number of people I talk to about doing it is probably 10 to 20 times the number of people that actually end up doing it,\u201d he says.</p><h2>What Happens in a BCI Trial? </h2><p>BCI pioneers arrive at their unique status via a number of paths, including spinal cord injuries, stroke-induced paralysis, and amyotrophic lateral sclerosis (ALS). The implants they receive come from <a href=\"https://blackrockneurotech.com/\" target=\"_blank\">Blackrock Neurotech</a>, <a href=\"https://neuralink.com/\" target=\"_blank\">Neuralink</a>, <a href=\"https://synchron.com/\" target=\"_blank\">Synchron</a>, and other companies, and are being tested for restoring limb function, controlling computers and robotic arms, and even restoring speech.</p><p>Many of the implants record signals from the motor cortex\u2014the part of the brain that controls voluntary movements\u2014to move external devices. Some others target the <a href=\"https://www.simplypsychology.org/somatosensory-cortex.html\" target=\"_blank\">somatosensory cortex</a>, which processes sensory signals from the body, including touch, pain, temperature, and limb position, to re-create tactile sensation.</p><h3>BCI\u00a0Designs\u00a0Used\u00a0by\u00a0Today\u2019s\u00a0Pioneers</h3><br /><img alt=\"Diagram comparing three brain-computer interface implants from Blackrock, Neuralink, Synchron.\" class=\"rm-shortcode\" id=\"4c076\" src=\"https://spectrum.ieee.org/media-library/diagram-comparing-three-brain-computer-interface-implants-from-blackrock-neuralink-synchron.png?id=65514139&amp;width=980\" /><p>Ease of use depends heavily on the application. Restoring function to a user\u2019s own limbs or controlling robotic arms involves the most difficult learning curve. In early sessions, participants watch a virtual arm reach for objects while they imagine or attempt the same movement. Researchers record related brain signals and use them to train \u201cdecoder\u201d software, which translates neural activity into control signals for a robotic arm or stimulation patterns for the user\u2019s nerves or muscles.</p><p>Paralyzed in a 2010 swimming accident, Burkhart took part in a trial conducted by <a href=\"https://www.battelle.org/\" target=\"_blank\">Battelle Memorial Institute</a> and <a href=\"https://wexnermedical.osu.edu/\" target=\"_blank\">Ohio State University</a> from 2014 to 2021. His implant recorded signals from his motor cortex as he attempted to move his hand, and the system relayed those commands to electrodes in his arm that stimulated the muscles controlling his fingers.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"A man seated at a desk has electronics wrapped around his right arm. He\\u2019s holding a device shaped like a guitar and looking at a screen showing the fretboard of a guitar. \" class=\"rm-shortcode\" id=\"6b47b\" src=\"https://spectrum.ieee.org/media-library/a-man-seated-at-a-desk-has-electronics-wrapped-around-his-right-arm-he-u2019s-holding-a-device-shaped-like-a-guitar-and-looking.jpg?id=65504802&amp;width=980\" /><small class=\"image-media media-caption\">Ian Burkhart, who is paralyzed from the chest down, received a brain implant that routed neural signals through a computer to his paralyzed muscles, enabling him to play a video game. </small><small class=\"image-media media-photo-credit\">Battelle</small></p><p>Getting the system to work seamlessly took time, says Burkhart, and initially required intense concentration. Eventually, he could shift his focus from each individual finger movement to the overall task, allowing him to swipe a credit card, pour from a bottle, and <a href=\"https://spectrum.ieee.org/brain-implants-and-wearables-let-paralyzed-people-move-again\" target=\"_self\">even play <em>Guitar Hero</em></a>.</p><p>Training a decoder is also not a one-and-done process. Systems must be regularly recalibrated to account for \u201cneural drift\u201d\u2014the gradual shift in a person\u2019s neural activity patterns over time. For complex tasks like robotic arm control, researchers may have to essentially train an entirely new decoder before each session, which can take up to an hour.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"A man sits in a wheelchair surrounded by screens and electrical equipment. A device is attached to the top of his head, and a wire extends from it. Two other men stand in the room wearing masks.  \" class=\"rm-shortcode\" id=\"0cba2\" src=\"https://spectrum.ieee.org/media-library/a-man-sits-in-a-wheelchair-surrounded-by-screens-and-electrical-equipment-a-device-is-attached-to-the-top-of-his-head-and-a-wi.jpg?id=65504805&amp;width=980\" /><small class=\"image-media media-caption\">Austin Beggin says that testing a BCI is hard work, but he adds that moments like petting his dog make it all worth it.  </small><small class=\"image-media media-photo-credit\">Daniel Lozada/The New York Times/Redux </small></p><p>Even after the system is ready, using the device can be taxing, says <a href=\"https://www.tiktok.com/@60minutes/video/7215008411992395054\" target=\"_blank\">Austin Beggin</a>, who was paralyzed in a swimming accident in 2015 and now participates in a Case Western Reserve University trial <a href=\"https://www.nytimes.com/2022/12/13/health/elon-musk-brain-implants-paralysis.html\" target=\"_blank\">aimed at restoring hand movement.</a> \u201cThe mental work of just trying to do something like shaking hands or feeding yourself is 100-fold versus you guys that don\u2019t even think about it,\u201d he says.</p><p>It\u2019s also a serious time commitment. Beggin travels more than 2 hours from his home in Lima, Ohio, to Cleveland for two weeks every month to take part in experiments. All the equipment is set up in the house he stays in, and he typically works with the researchers for 3 to 4 hours a day. The majority of the experiments are not actually task-focused, he says, and instead are aimed at adjusting the control software or better understanding his neural responses to different stimuli.</p><p>But the BCI users say the hard work is worth it. Beyond the hope of restoring lost function, many feel a strong moral obligation to advance a technology that could help others. Beggin compares the pioneers to the early astronauts who laid the groundwork for the lunar landings. \u201cWe\u2019re some of the first astronauts just to get shot up for a couple of hours and come back down to earth,\u201d he says.</p><h2>The Emotional Impact of BCIs </h2><p>Speak to BCI early adopters and a pattern emerges: The biggest benefits are often more emotional than practical. Using a robotic arm to feed oneself or control a computer is clearly useful, but many pioneers say the most meaningful moments are the ones the experiment wasn\u2019t even trying to produce. Beggin counts shaking his parents\u2019 hands for the first time since his injury and stroking his pet dachshund as among his favorite moments. \u201cThat stuff is absolutely incredible,\u201d he says.</p><p>Neuralink participant <a href=\"https://x.com/neuralink/status/1983263349715734982\" target=\"_blank\">Alex Conley</a>, who broke his neck in a car accident in 2021, uses his implant to control both a robotic arm and computers, enabling him to open doors, feed himself, and handle a smartphone. But he says the biggest boost has come from using computer-aided design software.</p><p>A former mechanic, Conley began using the software within days of receiving his implant to design parts that could be fabricated on a 3D printer. He has designed everything from replacement parts for his uncle\u2019s power tools to bumpers for his brother-in-law\u2019s truck. \u201cI was a very big problem solver before my accident, I was able to fix people\u2019s things,\u201d he says. \u201cThis gives me that same little burst of joy.\u201d</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Two photos show former U.S. president Barack Obama with a man seated in a wheelchair that has a robotic arm mounted to it. The first photo shows their whole bodies, the second is a close-up of a fist bump between Obama and the robotic hand. \" class=\"rm-shortcode\" id=\"5acf9\" src=\"https://spectrum.ieee.org/media-library/two-photos-show-former-u-s-president-barack-obama-with-a-man-seated-in-a-wheelchair-that-has-a-robotic-arm-mounted-to-it-the-f.jpg?id=65504806&amp;width=980\" /><small class=\"image-media media-caption\">BCI user Nathan Copeland used a robotic arm to get a fist bump from then-President Barack Obama in 2016. </small><small class=\"image-media media-photo-credit\">Jim Watson/AFP/Getty Images </small></p><p>The outside world often underestimates those little wins, says <a href=\"https://blackrockneurotech.com/insights/nathan-copeland-bci-pioneer/\" target=\"_blank\">Nathan Copeland</a>, who holds the record for the longest functional brain implant. After breaking his neck in a car accident in 2004, he joined a University of Pittsburgh BCI trial in 2015 and has since used the device to control both computers and a robotic arm.</p><p>After he uploaded a <a href=\"https://www.reddit.com/r/ffxiv/comments/dn1thj/i_thought_some_of_you_might_like_this_video_of_me/\" target=\"_blank\">video to Reddit</a> of himself playing <em><em>Final Fantasy XIV</em></em>, one commenter criticized him for not using his device for more practical tasks. Copeland says people don\u2019t understand that those lighthearted activities also matter. \u201cA lot of tasks that people think are mundane or frivolous are probably the tasks that have the most impact on someone that can\u2019t do them,\u201d he says. \u201cAgency and freedom of expression, I think, are the things that impact a person\u2019s life the most.\u201d</p><p class=\"shortcode-media shortcode-media-youtube\"> <span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span><small class=\"image-media media-caption\">Nathan Copeland plays <i>Final Fantasy XIV</i> using his brain implant to control the game character.</small></p><h2>When Brain Implants Become Life-Changing </h2><p>This perspective resonates with Neuralink\u2019s first user, <a href=\"https://newmobility.com/noland-arbaughs-life-as-the-first-neuralink-recipient/\" target=\"_blank\">Noland Arbaugh</a>\u2014paralyzed from the neck down after a swimming accident in 2016. After receiving his implant in January 2024, he was able to control a cursor within minutes of the device being switched on. A few days later, the engineers let him play the video game <em><em>Civilisation VI</em></em>, and the technology\u2019s potential suddenly felt real. \u201cI played it for 8 hours or 12 hours straight,\u201d he says. \u201cIt made me feel so independent and so free.\u201d</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"A man seated in a wheelchair looks at the screen of a laptop that\\u2019s mounted on his wheelchair.  \" class=\"rm-shortcode\" id=\"a9d03\" src=\"https://spectrum.ieee.org/media-library/a-man-seated-in-a-wheelchair-looks-at-the-screen-of-a-laptop-that-u2019s-mounted-on-his-wheelchair.jpg?id=65504815&amp;width=980\" /><small class=\"image-media media-caption\">Before receiving his Neuralink implant, Noland Arbaugh used mouth-operated devices to control a computer. He says the BCI is more reliable and enables him to do many more things on his own.  </small><small class=\"image-media media-photo-credit\">Rebecca Noble/The New York Times/Redux </small></p><p>But the technology is also providing more practical benefits. Before his implant, Arbaugh relied on a mouth-held typing stick and a mouth-controlled joystick called a quadstick, which uses sip-or-puff sensors to issue commands. But the fiddliness of this equipment required constant caregiver support. The Neuralink implant has dramatically increased the number of things he can do independently. He says he finds great value in not needing his family \u201cto come in and help me 100 times a day.\u201d</p><p>For <a href=\"https://www.als.org/blog/advances-brain-computer-interface-technology-help-one-man-find-his-voice\" target=\"_blank\">Casey Harrell</a>, the technology has been even more transformative. Diagnosed with ALS in 2020, the climate activist had just welcomed a baby daughter and was in the midst of a major campaign, pressuring a financial firm to divest from companies that had poor environmental records.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Person in a wheelchair outdoors, surrounded by green foliage and soft sunlight.\" class=\"rm-shortcode\" id=\"45c80\" src=\"https://spectrum.ieee.org/media-library/person-in-a-wheelchair-outdoors-surrounded-by-green-foliage-and-soft-sunlight.jpg?id=65504832&amp;width=980\" /></p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Bald head with wired brain-computer interface sensors attached in front of a monitor\" class=\"rm-shortcode\" id=\"b377a\" src=\"https://spectrum.ieee.org/media-library/bald-head-with-wired-brain-computer-interface-sensors-attached-in-front-of-a-monitor.jpg?id=65504831&amp;width=980\" /></p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Person using a brain-computer interface to control text on a monitor.\" class=\"rm-shortcode\" id=\"3940e\" src=\"https://spectrum.ieee.org/media-library/person-using-a-brain-computer-interface-to-control-text-on-a-monitor.jpg?id=65504835&amp;width=980\" /><small class=\"image-media media-caption\">Casey Harrell was able to communicate again within 30 minutes of his BCI being switched on. The device translates his neural signals quickly enough for him to hold conversations. </small><small class=\"image-media media-photo-credit\">Ian Bates/The New York Times/Redux </small></p><p>\u201cEvery morning we\u2019d wake up and there\u2019d be a new thing he couldn\u2019t do, a new part of his body that didn\u2019t work,\u201d says his wife, Levana Saxon. Most alarming was his rapid loss of speech, which, among other things, left him unable to indicate when he was in pain. Then a relative alerted him to a <a href=\"https://health.ucdavis.edu/news/headlines/new-brain-computer-interface-allows-man-with-als-to-speak-again/2024/08\" target=\"_blank\">clinical trial</a> at the University of California, Davis, using BCIs to restore speech. He immediately signed up.</p><p>The device, implanted in July 2023, records from the brain region that controls muscles involved in talking and translates these signals into instructions for a voice synthesizer. Within 30 minutes of it being switched on, Harrell could communicate again. \u201cI was absolutely overwhelmed with the thought of how this would impact my life and allow me to talk to my family and friends and better interact with my daughter,\u201d he says. \u201cIt just was so overwhelming that I began to cry.\u201d</p><p>While earlier assistive technology limited him to short, direct commands, Harrell says the BCI is fast enough that he can hold a proper conversation, and he\u2019s been able to resume work part-time.</p><h2>What\u2019s Holding BCI Technology Back? </h2><p>BCI technology still has limits. Most trial participants using Blackrock Neurotech implants can operate their devices only in the lab because the systems rely on wired connections and racks of computer hardware. Some users, including Copeland and Harrell, have had the equipment installed at home, but they still can\u2019t leave the house with it. \u201cThat would be a big unlock if I was able to do so,\u201d says Harrell.</p><p>The academic nature of many trials creates additional constraints. Pressure to publish and secure funding pushes researchers to demonstrate peak performance on narrow tasks rather than build more versatile and reliable systems, says <a href=\"https://utrecht-bci.nl/mariska-vansteensel/\" target=\"_blank\">Mariska Vansteensel</a>, who runs BCI studies at the University Medical Center Utrecht in the Netherlands. She says that investigating the technology\u2019s limits or repeating an experiment in new patients is \u201cless rewarded in terms of funding.\u201d</p><p class=\"shortcode-media shortcode-media-youtube\"> <span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span> <small class=\"image-media media-caption\">In a clinical trial, Scott Imbrie uses a BCI to control a robotic arm, using signals from his motor cortex to make it move a block. </small><small class=\"image-media media-photo-credit\">University of Chicago</small></p><p>One of Imbrie\u2019s biggest frustrations is the rapid turnover in experiments. Just as he begins to get proficient at one task, he\u2019s asked to switch to the next task. Study designs also mean that much of the users\u2019 time is spent on mundane tasks required to fine-tune the system.</p><p>Perhaps the biggest issue is that trials are often time-limited. That\u2019s partly because scar tissue from the body\u2019s immune response to the implant can gradually degrade signal quality. But constraints on funding and researcher availability can also make it impossible for users to keep using their BCIs after their trials end, even when the technology is still functional.</p><p class=\"shortcode-media shortcode-media-youtube\"> <span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span> <small class=\"image-media media-caption\">Ian Burkhart\u2019s BCI enables him to grasp objects, pour from a bottle, and swipe a credit card.</small></p><p>Burkhart has firsthand experience. His trial was extended, but the implant was eventually removed after he got an infection. He always knew the trial would end, but it was nonetheless challenging. \u201cIt was a little bit of a tease where I got to see the capability of the restoration of function,\u201d he says. \u201cNow I\u2019m just back to where I was.\u201d</p><h2>The Push to Commercialize BCIs </h2><p>Progress is being made in transitioning the technology from experimental research devices to fully-fledged medical products that could help users in their everyday lives. Most academic BCI research has relied on Blackrock Neurotech\u2019s Utah Arrays, which typically feature 96 needlelike electrodes that penetrate the brain\u2019s surface. The implant is connected to a skull-mounted pedestal that\u2019s wired to external hardware. But some of the newer devices are sleeker and less invasive.</p><p>Neuralink\u2019s implant houses its electronics and rechargeable battery in a coin-size unit connected to flexible electrode threads inserted into the brain by a <a href=\"https://www.youtube.com/watch?v=wLJKOUzFOEU\" target=\"_blank\">robotic \u201csewing machine.\u201d</a> The implant, which is roughly the size of a quarter or a euro, is mounted in a hole cut into the skull and charges and transfers data wirelessly. <a href=\"https://spectrum.ieee.org/synchron-bci\" target=\"_self\">Synchron takes a different approach</a>, threading a stent-like implant through blood vessels into the motor cortex. This \u201c<a href=\"https://synchron.com/platform\" target=\"_blank\">stentrode</a>\u201d connects by wire to a unit in the chest that powers the implant and transmits data wirelessly.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Bearded person in red T\\u2011shirt using a laptop at a kitchen table\" class=\"rm-shortcode\" id=\"62405\" src=\"https://spectrum.ieee.org/media-library/bearded-person-in-red-t-u2011shirt-using-a-laptop-at-a-kitchen-table.jpg?id=65504912&amp;width=980\" /></p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Man using a large on-screen keyboard to type messages on a tablet computer\" class=\"rm-shortcode\" id=\"c7942\" src=\"https://spectrum.ieee.org/media-library/man-using-a-large-on-screen-keyboard-to-type-messages-on-a-tablet-computer.jpg?id=65504911&amp;width=980\" /> <small class=\"image-media media-caption\">Rodney Gorham can use his Synchron implant to control not just a computer, but also smart devices in his home like an air conditioner, fan, and smart speaker. </small><small class=\"image-media media-photo-credit\">Rodney Decker </small></p><p>Neuralink\u2019s decoder runs on a laptop, while Synchron deploys a smartphone-size signal processing unit as a wireless bridge to the user\u2019s devices, which allows them to use their implants at home and on the move. The companies have also developed adaptive decoders that use machine learning to adjust to neural drift on the fly, reducing the need for recalibration.</p><p>Making these devices truly user-friendly will require technology that can interpret user context, says <a href=\"https://www.linkedin.com/in/kurt-haggstrom/\" target=\"_blank\">Kurt Haggstrom</a>, Synchron\u2019s chief commercial officer\u2014including mood, attention levels, and environmental factors like background noise and location. This approach will require AI that analyzes neural signals alongside other data streams such as audio and visual input.</p><p>Last year, Synchron took a first step by pairing its implant with an <a href=\"https://spectrum.ieee.org/apple-vision-pro\" target=\"_self\">Apple Vision Pro headset</a>. When trial participant <a href=\"https://www.rdworldonline.com/watch-rodney-a-paralyzed-man-control-his-home-with-tech-from-synchron-nvidia-and-apple/\" target=\"_blank\">Rodney Gorham</a> looked at devices such as a fan, a smart speaker, and an air conditioner, the headset overlaid a menu that enabled him to adjust the device\u2019s settings using his implant.</p><p class=\"shortcode-media shortcode-media-youtube\"> <span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span> <small class=\"image-media media-caption\">Rodney Gorham uses his Synchron implant to turn on music, feed his dog, and more. </small><small class=\"image-media media-photo-credit\">Synchron BCI</small></p><p>Another way to reduce cognitive load is to detect high-order signals of intent in neural data rather than low-level motor commands, says <a href=\"https://www.linkedin.com/in/florian-solzbacher-aa971015/\" target=\"_blank\">Florian Solzbacher</a>, cofounder and chief scientific officer of Blackrock Neurotech. For instance, rather than manually navigating to an email app and typing, the user could simply think about sending an email and the system would then open it with content already prepopulated, he says.</p><p>Durability may prove a thornier problem to solve, UChicago\u2019s Downey says. Current implants last around a decade\u2014well short of a lifelong solution. And with limited real estate in the brain, replacement is only possible once or twice, he says.</p><p>Rapid technological progress also raises difficult decisions about whether to get a BCI implant now or wait for a more advanced device. This was a major concern for Gorham\u2019s wife, Caroline. \u201cI was hesitant. I didn\u2019t want him to go on the trial but maybe a future one,\u201d she says. \u201cIt was my fear of missing out on future upgrades.\u201d</p><h2>Will Brain Implants Ever Become Consumer Tech? </h2><p>Some executives have raised the prospect of BCIs eventually becoming consumer devices. Neuralink founder <a href=\"https://spectrum.ieee.org/tag/elon-musk\" target=\"_self\">Elon Musk</a> has been particularly vocal, suggesting that the company\u2019s implants could <a href=\"https://x.com/elonmusk/status/1802517673584341082\" target=\"_blank\">replace smartphones</a>, let people <a href=\"https://www.theregister.com/2022/01/31/neuralink_job_ad/\" target=\"_blank\">save and replay memories</a>, or even achieve <a href=\"https://www.businessinsider.com/neuralink\" target=\"_blank\">\u201csymbiosis\u201d with AI</a>.</p><p>This kind of talk inspires mixed feelings in users. The hype brings visibility and funding, says Beggin, but could divert attention from medical users\u2019 needs. Copeland worries that consumer branding could strip the devices of insurance coverage and that rising demand may make it harder to access qualified surgeons.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"A man, seen in profile, sits in a wheelchair. \" class=\"rm-shortcode\" id=\"437c0\" src=\"https://spectrum.ieee.org/media-library/a-man-seen-in-profile-sits-in-a-wheelchair.jpg?id=65504925&amp;width=980\" /> <small class=\"image-media media-caption\">Noland Arbaugh, the first recipient of Neuralink\u2019s BCI, says that using the implant to control a computer made him feel independent and free. </small><small class=\"image-media media-photo-credit\">Steve Craft/Guardian/eyevine/Redux </small></p><p>There are also concerns about how data collected by BCI companies will be handled if the devices go mainstream. As a trial participant, Arbaugh says he\u2019s comfortable signing away his data rights to advance the technology, but he thinks stronger legal protections will be needed in the future. \u201cDoes that data still belong to Neuralink? Does it belong to each person? And can that data be sold?\u201d he asks.</p><p>Blackrock\u2019s Solzbacher says the company remains focused on the medical applications of the technology. But he also believes it is building a \u201cuniversal interface to any kind of a computerized system\u201d that may have broader applications in the future. And he says the company owes it to users not to limit them to a bare-bones assistive technology. \u201cWhy would somebody who\u2019s got a medical condition want to get less than something that somebody who\u2019s able-bodied would possibly also take?\u201d says Solzbacher.</p><p>The ever-optimistic Imbrie heartily agrees. Medical devices are invariably expensive, he says, but targeting consumer applications could push companies to keep devices simple and affordable while continuing to add features. \u201cI truly believe that making it a consumer-available product will just enhance the product\u2019s capabilities for the medical field,\u201d he says.</p><p>Imbrie is on a mission to refocus the conversation around BCIs on the positives. While concerns about risks are valid, he worries that the alarming language often used to describe brain implants discourages people from volunteering for trials that could help them.</p><p>\u201cI remember laying there in the bed and not being able to move,\u201d he says, \u201cand it was really dehumanizing having to ask someone to do everything for you. As humans, we want to be independent.\u201d <span class=\"ieee-end-mark\"></span></p>"
       },
       {
-        "id": "8ce155f1937d3b6d",
-        "title": "Job titles of the future: Wildlife first responder",
-        "url": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/",
+        "id": "725e9e50bc91dbad",
+        "title": "The Download: the state of AI, and protecting bears with drones",
+        "url": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/",
         "source": "MIT Technology Review",
-        "published": "Mon, 13 Apr 2026 10:00:00 +0000",
-        "published_dt": "2026-04-13T10:00:00+00:00",
-        "summary": "Grizzly bears have made such a comeback across eastern Montana that in 2017, the state hired its first-ever prairie-based grizzly manager: wildlife biologist Wesley Sarmento.&#160; For some seven years, Sarmento worked to keep both the bears, which are still listed as threatened under the Endangered Species Act, and the humans, who are sprawling into once-wild&#8230;"
+        "published": "Tue, 14 Apr 2026 12:10:00 +0000",
+        "published_dt": "2026-04-14T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Want to understand the current state of AI? Check out these charts.\u00a0 If&#160;you\u2019re&#160;following AI news,&#160;you\u2019re&#160;probably getting&#160;whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI&#160;can\u2019t&#160;even&#8230;"
       },
       {
-        "id": "9807efeba73a3989",
-        "title": "You have no choice in reading this article\u2014maybe",
-        "url": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
+        "id": "c74c20b759a3473a",
+        "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
+        "url": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/",
         "source": "MIT Technology Review",
-        "published": "Mon, 13 Apr 2026 10:00:00 +0000",
-        "published_dt": "2026-04-13T10:00:00+00:00",
-        "summary": "Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gray matter in turn perceives that motion.&#160; Then his professor asked him to deliver an undergrad lecture. Maoz assumed his&#8230;"
+        "published": "Tue, 14 Apr 2026 12:04:47 +0000",
+        "published_dt": "2026-04-14T12:04:47+00:00",
+        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next.\u00a0You can read more from the series here. Just before Artemis II began its historic slingshot around the moon, Jared Isaacman, the recently confirmed NASA administrator, made a flurry of announcements from the agency\u2019s headquarters&#8230;"
+      },
+      {
+        "id": "1f20ae2391d1eae8",
+        "title": "Coming soon: 10 Things That Matter in AI Right Now",
+        "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 14 Apr 2026 11:00:00 +0000",
+        "published_dt": "2026-04-14T11:00:00+00:00",
+        "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our core coverage areas (energy, AI, and biotech, plus a few more), our 2026 list&#8230;"
+      },
+      {
+        "id": "34049eb3d72d2b34",
+        "title": "The problem with thinking you\u2019re part Neanderthal",
+        "url": "https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 14 Apr 2026 10:00:00 +0000",
+        "published_dt": "2026-04-14T10:00:00+00:00",
+        "summary": "You\u2019ve probably heard some version of this idea before: that many of us have an \u201cinner Neanderthal.\u201d That is to say, around 45,000 years ago, when Homo sapiens first arrived in Europe, they met members of a cousin species\u2014the broad-browed, heavier-set Neanderthals\u2014and, well, one thing led to another, which is why some people now carry&#8230;"
       },
       {
         "id": "e6d9f8e81e18e2b9",
@@ -810,6 +810,60 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/sleek-suv-driving-on-a-highway-surrounded-by-trees-under-a-clear-blue-sky.png?id=65321052&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0\" /><br /><br /><p><em>This is a sponsored article brought to you by General Motors. Visit their new </em><em><a href=\"https://engineering.gm.com/home.html\" rel=\"noopener noreferrer\" target=\"_blank\">Engineering Blog</a></em><em> for more insights.</em></p><p>Autonomous driving is one of the most demanding problems in physical AI. An automated system must interpret a chaotic, ever-changing world in real time\u2014navigating uncertainty, predicting human behavior, and operating safely across an immense range of environments and edge cases.</p><p>At General Motors, we approach this problem from a simple premise: while most moments on the road are predictable, the rare, ambiguous, and unexpected events \u2014 the long tail \u2014 are what ultimately defines whether an autonomous system is safe, reliable, and ready for deployment at scale. (Note: While here we discuss research and emerging technologies to solve the long tail required for full general autonomy, we also discuss our current approach or solving 99% of everyday autonomous driving in a deep dive on Compound AI.)</p><p>As GM advances toward <a href=\"https://news.gm.com/home.detail.html/Pages/news/us/en/2025/oct/1022-AI-GM-launch-eyes-off-driving-conversational-AI.html\" target=\"_blank\">eyes-off</a> highway driving, and ultimately toward fully autonomous vehicles, solving the long tail becomes the central engineering challenge. It requires developing systems that can be counted on to behave sensibly in the most unexpected conditions.</p><p>GM is <a href=\"https://neurips.cc/virtual/2025/loc/san-diego/128661\" rel=\"noopener noreferrer\" target=\"_blank\">building scalable driving AI</a> to meet that challenge \u2014 combining large-scale simulation, reinforcement learning, and foundation-model-based reasoning to train autonomous systems at a scale and speed that would be impossible in the real world alone.</p><h2>Stress-testing for the long tail</h2><p>Long-tail scenarios of autonomous driving come in a few varieties.</p><p>Some are notable for their rareness. There\u2019s a mattress on the road. A fire hydrant bursts. A massive power outage in San Francisco that disabled traffic lights required <a href=\"https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world\" rel=\"noopener noreferrer\" target=\"_blank\">driverless vehicles to navigate</a> never-before experienced challenges. These rare system-level interactions, especially in dense urban environments, show how unexpected edge cases can cascade at scale.</p><p>But long-tail challenges don\u2019t just come in the form of once-in-a-lifetime rarities. They also manifest as everyday scenarios that require characteristically human courtesy or common sense. How do you queue up for a spot without blocking traffic in a crowded parking lot? Or navigate a construction zone, guided by gesturing workers and ad-hoc signs? These are simple challenges for a human driver but require inventive engineering to handle flawlessly with a machine.</p><h3>Autonomous driving scenario demand curve</h3><br /><img alt=\"Graph showing scenario complexity: Predictable, everyday, and rare long-tail events.\" class=\"rm-shortcode\" id=\"a0363\" src=\"https://spectrum.ieee.org/media-library/graph-showing-scenario-complexity-predictable-everyday-and-rare-long-tail-events.png?id=65321037&amp;width=980\" /><h3></h3><br /><h2>Deploying vision language models</h2><p>One tool GM is developing to tackle these nuanced scenarios is the use of Vision Language Action (VLA) models. Starting with a standard Vision Language Model, which leverages internet-scale knowledge to make sense of images, GM engineers use specialized decoding heads to fine-tune for distinct driving-related tasks. The resulting VLA can make sense of vehicle trajectories and detect 3D objects on top of its general image-recognition capabilities.</p><p>These tuned models enable a vehicle to recognize that a police officer\u2019s hand gesture overrides a red traffic light or to identify what a \u201cloading zone\u201d at a busy airport terminal might look like.</p><p>These models can also generate reasoning traces that help engineers and safety operators understand why a maneuver occurred \u2014 an important tool for debugging, validation, and trust.</p><h2>Testing hazardous scenarios in high-fidelity simulations</h2><p>The trouble is: driving requires split-second reaction times so any excess latency poses an especially critical problem. To solve this, GM is developing a \u201cDual Frequency VLA.\u201d This large-scale model runs at a lower frequency to make high-level semantic decisions (\u201cIs that object in the road a branch or a cinder block?\u201d), while a smaller, highly efficient model handles the immediate, high-frequency spatial control (steering and braking).</p><p>This hybrid approach allows the vehicle to benefit from deep semantic reasoning without sacrificing the split-second reaction times required for safe driving.</p><p>But dealing with an edge case safely requires that the model not only understand what it is looking at but also understand how to sensibly <em>drive through</em> the challenge it\u2019s identified. For that, there is no substitute for experience.</p><p>Which is why, each day, <a href=\"https://news.gm.com/home.detail.html/Pages/topic/us/en/2025/oct/1009-GMs-path-full-autonomy-Building-trust-step-by-step.html%29\" rel=\"noopener noreferrer\" target=\"_blank\">we run millions of high-fidelity closed loop simulations</a>, equivalent to tens of thousands of human driving days, compressed into hours of simulation. We can replay actual events, modify real-world data to create new virtual scenarios, or design new ones entirely from scratch. This allows us to regularly test the system against hazardous scenarios that would be nearly impossible to encounter safely in the real world.</p><h2>Synthetic data for the hardest cases</h2><p>Where do these simulated scenarios come from? GM engineers employ a whole host of AI technologies to produce novel training data that can model extreme situations while remaining grounded in reality.</p><p>GM\u2019s <a href=\"https://bmvc2025.bmva.org/proceedings/154/\" rel=\"noopener noreferrer\" target=\"_blank\">\u201cSeed-to-Seed Translation\u201d research</a>, for instance, leverages diffusion models to transform existing real-world data, allowing a researcher to turn a clear-day recording into a rainy or foggy night while perfectly preserving the scene\u2019s geometry. The result? A \u201cdomain change\u201d\u2014clear becomes rainy, but everything else remains the same.</p><p>In addition, our GM World diffusion-based simulator allows us to synthesize entirely new traffic scenarios using natural language and spatial bounding boxes. We can summon entirely new scenarios with different weather patterns. We can also take an existing road scene and add challenging new elements, such as a vehicle cutting into our path.</p><h3></h3><br /><img alt=\"Comparison of a 3D model and street view with a vehicle removed, labeled &quot;Original&quot; and &quot;Edited&quot;.\" class=\"rm-shortcode\" id=\"f3e89\" src=\"https://spectrum.ieee.org/media-library/comparison-of-a-3d-model-and-street-view-with-a-vehicle-removed-labeled-original-and-edited.gif?id=65321060&amp;width=980\" /><h3></h3><br /><img alt=\"Street with several cars parked, partially flooded after heavy rain; blue geometric markings overlay.\" class=\"rm-shortcode\" id=\"c1ebf\" src=\"https://spectrum.ieee.org/media-library/street-with-several-cars-parked-partially-flooded-after-heavy-rain-blue-geometric-markings-overlay.gif?id=65321061&amp;width=980\" /><h3></h3><br /><img alt=\"Winter street with cars; blue 3D wireframe shapes overlay.\" class=\"rm-shortcode\" id=\"55554\" src=\"https://spectrum.ieee.org/media-library/winter-street-with-cars-blue-3d-wireframe-shapes-overlay.gif?id=65321063&amp;width=980\" /><h2></h2><p>High-fidelity simulation isn\u2019t always the best tool for every learning task. Photorealistic rendering is essential for training perception systems to recognize objects in varied conditions. But when the goal is teaching decision-making and tactical planning\u2014when to merge, or how to navigate an intersection\u2014the computationally expensive details matter less than spatial relationships and traffic dynamics. AI systems may need billions or even trillions of lightweight examples to support reinforcement learning, where models learn the rules of sensible driving through rapid trial and error rather than relying on imitation alone.</p><p>To this end, General Motors has developed a proprietary, multi-agent reinforcement learning simulator, GM Gym, to serve as a closed-loop simulation environment that can both simulate high-fidelity sensor data, and model thousands of drivers per second in an abstract environment known as \u201cBoxworld.\u201d</p><p>By focusing on essentials like spatial positioning, velocity and rules of the road while stripping away details like puddles and potholes, Boxworld creates a high-speed training environment for reinforcement learning models at incredible speeds, operating 50,000 times faster than real-time and simulating 1,000 km of driving per second of GPU time. It\u2019s a method that allows us to not just imitate humans, but to develop driving models that have verifiable objective outcomes, like safety and progress.</p><h2>From abstract policy to real-world driving</h2><p>Of course, the route from your home to your office does not run through Boxworld. It passes through a world of asphalt, shadows, and weather. So, to bring that conceptual expertise into the real world, GM is one of the first to employ a technique called \u201cOn Policy Distillation,\u201d where engineers run their simulator in both modes simultaneously: the abstract, high-speed Boxworld and the high-fidelity sensor mode.</p><p>Here, the reinforcement learning model\u2014which has practiced countless abstract miles to develop a perfect \u201cpolicy,\u201d or driving strategy\u2014acts as a teacher. It guides its \u201cstudent,\u201d the model that will eventually live in the car. This transfer of wisdom is incredibly efficient; just 30 minutes of distillation can capture the equivalent of 12 hours of raw reinforcement learning, allowing the real-world model to rapidly inherit the safety instincts its cousin painstakingly honed in simulation.</p><h2>Designing failures before they happen</h2><p>Simulation isn\u2019t just about training the model to drive well, though; it\u2019s also about trying to make it fail. To rigorously stress-test the system, GM utilizes <a href=\"https://arxiv.org/abs/2309.05810\" target=\"_blank\">a differentiable pipeline called SHIFT3D</a>. Instead of just recreating the world, SHIFT3D actively modifies it to create \u201cadversarial\u201d objects designed to trick the perception system. The pipeline takes a standard object, like a sedan, and subtly morphs its shape and pose until it becomes a \u201cchallenging\u201d, fun-house version that is harder for the AI to detect. Optimizing these failure modes is what allows engineers to preemptively discover safety risks before they ever appear on the road. Iteratively retraining the model on these generated \u201chard\u201d objects has been shown to reduce near-miss collisions by over 30%, closing the safety gap on edge cases that might otherwise be missed.</p><p>Even with advanced simulation and adversarial testing, a truly robust system must know its own limits. To enable safety in the face of the unknown, GM researchers add a specialized \u201cEpistemic uncertainty head\u201d to their models. This architectural addition allows the AI to distinguish between standard noise and genuine confusion. When the model encounters a scenario it doesn\u2019t understand\u2014a true \u201clong tail\u201d event\u2014it signals high epistemic uncertainty. This acts as a principled proxy for data mining, automatically flagging the most confusing and high-value examples for engineers to analyze and add to the training set.</p><p>This rigorous, multi-faceted approach\u2014from \u201cBoxworld\u201d strategy to adversarial stress-testing\u2014is General Motors\u2019 proposed framework for solving the final 1% of autonomy. And while it serves as the foundation for future development, it also surfaces new research challenges that engineers must address.</p><p>How do we balance the essentially unlimited data from Reinforcement Learning with the finite but richer data we get from real-world driving? How close can we get to full, human-like driving by writing down a reward function? Can we go beyond domain change to generate completely new scenarios with novel objects?</p><h2>Solving the long tail at scale</h2><p>Working toward solving the long tail of autonomy is not about a single model or technique. It requires an ecosystem \u2014 one that combines high-fidelity simulation with abstract learning environments, reinforcement learning with imitation, and semantic reasoning with split-second control.</p><p>This approach does more than improve performance on average cases. It is designed to surface the rare, ambiguous, and difficult scenarios that determine whether autonomy is truly ready to operate without human supervision.</p><p>There are still open research questions. How human-like can a driving policy become when optimized through reward functions? How do we best combine unlimited simulated experience with the richer priors embedded in real human driving? And how far can generative world models take us in creating meaningful, safety-critical edge cases?</p><p>Answering these questions is central to the future of autonomous driving. At GM, we are building the tools, infrastructure, and research culture needed to address them \u2014 not at small scale, but at the scale required for real vehicles, real customers, and real roads.</p>"
       },
       {
+        "id": "989e0f755f3c9520",
+        "title": "Why opinion on AI is so divided",
+        "url": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 13 Apr 2026 15:48:28 +0000",
+        "published_dt": "2026-04-13T15:48:28+00:00",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. In an industry that doesn\u2019t stand still, Stanford\u2019s AI Index, an annual roundup of key results and trends, is a chance to take a breath. (It\u2019s a marathon, not a sprint, after&#8230;"
+      },
+      {
+        "id": "77a987f5e0a528ed",
+        "title": "Want to understand the current state of AI? Check out these charts.",
+        "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 13 Apr 2026 13:00:00 +0000",
+        "published_dt": "2026-04-13T13:00:00+00:00",
+        "summary": "If you\u2019re following AI news, you\u2019re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can\u2019t even read a clock. The 2026 AI Index from Stanford University\u2019s Institute for Human-Centered Artificial Intelligence, AI\u2019s annual report card, comes out today and cuts through some of that noise.&#160;&#8230;"
+      },
+      {
+        "id": "dee4e318b7db8f3d",
+        "title": "The Download: how humans make decisions, and Moderna\u2019s \u201cvaccine\u201d word games",
+        "url": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 13 Apr 2026 12:10:00 +0000",
+        "published_dt": "2026-04-13T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. You have no choice in reading this article\u2014maybe How do humans make decisions? The question has been on Uri Maoz\u2019s mind since he read an article in his early twenties suggesting&#8230;"
+      },
+      {
+        "id": "ea67f92b867df1fe",
+        "title": "Squishy Photonic Switches Promise Fast Low Power Logic",
+        "url": "https://spectrum.ieee.org/soft-photonics",
+        "source": "IEEE Spectrum",
+        "published": "Mon, 13 Apr 2026 12:00:01 +0000",
+        "published_dt": "2026-04-13T12:00:01+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/illustration-of-a-micropipette-piercing-through-a-hemisphere-shaped-membrane-to-inject-a-droplet-at-its-core.jpg?id=65506297&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p><span>Photonic devices, which rely on light instead of electricity, have the potential to be faster and more energy efficient than today\u2019s electronics. They also present a unique opportunity to develop devices using <a href=\"https://spectrum.ieee.org/soft-robot-actuators-bugs\" target=\"_self\">soft materials</a>, such as polymers and gels, which are poor conductors of electricity, but are easier to manufacture and more environmentally friendly. The development of these potentially squishy, <a href=\"https://spectrum.ieee.org/wearable-sensors\" target=\"_self\">flexible photonics</a>, however, requires the ability to manipulate light using only light, not electricity.</span></p><p>In soft matter, that\u2019s been done primarily by changing the physical properties of optical materials or by using intense light pulses to change the direction of light. Now, an international team of scientists has developed a new way of controlling light with light using very low light intensities and without changing any of the physical properties of materials. </p><p><a href=\"https://musevic.fmf.uni-lj.si/\" target=\"_blank\"><span>Igor Mu\u0161evi\u010d</span></a>, a professor of physics at the University of Ljubljana who led the project, says that he first got the idea for the device while at a conference in San Francisco, listening to a talk by <a href=\"https://www.nobelprize.org/prizes/chemistry/2014/hell/facts/\" target=\"_blank\">Stefan W. Hell </a>about stimulated emission depletion (STED) microscopy. The imaging technique, for which Hell won a <a href=\"https://www.nobelprize.org/prizes/chemistry/2014/summary/\" target=\"_blank\">Nobel Prize in Chemistry in 2014</a>, uses two lasers to produce an extremely small light beam to scan objects. \u201cWhen I saw this, I said, this is manipulation light by light, right?\u201d Mu\u0161evi\u010d recalls.</p><p><span>His realization inspired a device into which a laser pulse is fired. Whether or not this beam makes it out of the device depends on whether or not a second pulse is fired less than a nanosecond afterwards.</span></p><h2>A liquid crystal photonic switch</h2><p><span>The device consists of a spherically-shaped bead of liquid crystal, held in shape by its elastic material properties and the forces between its molecules, infused with a fluorescent dye and trapped between four upright cone-shaped polymer structures that guide light in and out of the device. When a laser pulse is sent through one of the four polymer waveguides, the light is quickly transferred into the liquid crystal, exciting the fluorescent dye. In a process known as whispering gallery mode resonance, the photons inside the liquid crystal are reflected back inside each time they hit the liquid\u2019s spherical surface. The result is that light circulates inside the cavity until it is eventually reflected into one of the waveguides, which then emits the photons out in a laser beam. </span></p><p>The team realized that sending a second laser pulse of a different color into the waveguides before the liquid crystal started emitting light from the first laser pulse resulted in stimulated emission of the excited dye molecules. The photons from the second laser pulse, which had to be fired into the waveguides after the first laser pulse, interact with the already-excited dye molecules. The interaction causes the dye to emit photons identical to those in the second pulse while depleting the energy from the first pulse. The second laser beam, called the STED beam, is amplified by the process, while the light from the first pulse is so diminished that it isn\u2019t emitted at all. Because the outcome of the first laser pulse could be controlled using the second laser pulse, the team had successfully demonstrated the control of light by light.</p><p class=\"shortcode-media shortcode-media-youtube\"> <span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span> <small class=\"image-media media-photo-credit\">Vandna Sharma, Jaka Zaplotnik, et al.</small> </p><p><span>According to the Ljubljana team, the energy efficiency of the liquid crystal approach is much better than previous soft-matter techniques, which had typically involved using intense light fields to change material properties of the soft matter, such as the index of refraction. The new method reduces the energy needed by more than a factor of a hundred. Because the STED laser pulse circulates repeatedly in the crystal, a single photon can deplete many dye molecules of the energy from the first laser pulse.</span> </p><p><a href=\"https://ravnik.fmf.uni-lj.si/\" target=\"_blank\">Miha Ravnik</a>, a theoretical physicist also at the University of Ljubljana who worked on the project, explains that control of light by light is essential in soft-matter photonic logic gates. \u201cYou can very much control when [light] is generated and in which direction,\u201d Ravnik says of the light shined into the polymer waveguides. \u201cAnd this gives you, then, this capability that you create logical operations with light.\u201d</p><p>Aside from its potential in photonic logical circuits, the team\u2019s approach presents several technical advantages over photonics made from silicon or other hard materials, Mu\u0161evi\u010d says. For example, using soft matter greatly simplifies the manufacturing process. The liquid crystal in the team\u2019s device can be inserted in less than a second, but manufacturing a similar structure with hard materials is difficult. Additionally, soft matter devices can be manufactured at much lower temperatures than silicon and other hard materials. Mu\u0161evi\u010d also points out that soft matter presents an opportunity to experiment with the geometry of the device. With liquid crystals \u201cyou can make many different kinds of cavities,\u201d says Mu\u0161evi\u010d. \u201cYou have, I would say, a lot of engineering space.\u201d</p><p>Ravnik is excited for the potential of the team\u2019s breakthrough, particularly as a step towards <a href=\"https://spectrum.ieee.org/generative-optical-ai-nature-ucla\" target=\"_self\">photonic computing</a> and even photonic neural networks. But, he recognizes that these developments are far down the line. \u201cThere\u2019s no way this technology can compete with current neural network implementation at all,\u201d he admits. Still, the possibilities are tantalizing. \u201cThe energy losses are predicted to be extremely low, the speeds for calculation extremely high.\u201d</p>"
+      },
+      {
+        "id": "8ce155f1937d3b6d",
+        "title": "Job titles of the future: Wildlife first responder",
+        "url": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 13 Apr 2026 10:00:00 +0000",
+        "published_dt": "2026-04-13T10:00:00+00:00",
+        "summary": "Grizzly bears have made such a comeback across eastern Montana that in 2017, the state hired its first-ever prairie-based grizzly manager: wildlife biologist Wesley Sarmento.&#160; For some seven years, Sarmento worked to keep both the bears, which are still listed as threatened under the Endangered Species Act, and the humans, who are sprawling into once-wild&#8230;"
+      },
+      {
+        "id": "9807efeba73a3989",
+        "title": "You have no choice in reading this article\u2014maybe",
+        "url": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 13 Apr 2026 10:00:00 +0000",
+        "published_dt": "2026-04-13T10:00:00+00:00",
+        "summary": "Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gray matter in turn perceives that motion.&#160; Then his professor asked him to deliver an undergrad lecture. Maoz assumed his&#8230;"
+      },
+      {
         "id": "eba753cedf0f076e",
         "title": "Working With More Experienced Engineers Can Fast-Track Career Growth",
         "url": "https://spectrum.ieee.org/using-feedback-engineering",
@@ -826,24 +880,6 @@
         "published": "Fri, 10 Apr 2026 14:04:20 +0000",
         "published_dt": "2026-04-10T14:04:20+00:00",
         "summary": "Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America? A vaccine\u2014or an \u201cindividualized neoantigen treatment\u201d? That\u2019s the Trump-era vocabulary paradox facing Moderna, the covid-19 shot maker whose plans for next-generation mRNA vaccines against flus and emerging pathogens have been dashed by vaccine skeptics in&#8230;"
-      },
-      {
-        "id": "509b625e867565e7",
-        "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
-        "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 10 Apr 2026 12:10:00 +0000",
-        "published_dt": "2026-04-10T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Constellations&#160; \u2014Constellations is a short story by Jeff VanderMeer, the author of the critically acclaimed, bestselling Southern Reach series. &#160; A spacecraft has crash-landed on a hostile planet. The only survivors&#8230;"
-      },
-      {
-        "id": "f14dadadef939520",
-        "title": "Constellations",
-        "url": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 10 Apr 2026 10:00:00 +0000",
-        "published_dt": "2026-04-10T10:00:00+00:00",
-        "summary": "I. We had crash-landed on the planet. We were far from home. The spaceship could not be repaired, and the rescue beacon had failed. Besides me, only the astrogator, part of the captain, and the ship\u2019s AI mind were left.&#160; Outside, the atmosphere registered as hostile to most organisms. We huddled in the lifeboat, which&#8230;"
       },
       {
         "id": "f4b69d038a96b2e8",
@@ -864,33 +900,6 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/an-array-of-tiny-metallic-cantilevers-curving-away-from-the-surface-of-a-photonic-chip.jpg?id=65493217&amp;width=1245&amp;height=700&amp;coordinates=0%2C156%2C0%2C157\" /><br /><br /><p><span>By many estimates, quantum computers will need <a href=\"https://spectrum.ieee.org/neutral-atom-quantum-computing\" target=\"_blank\">millions of qubits </a>to realize their potential applications in cybersecurity, drug development, and other industries. The problem is, anyone who has wanted to simultaneously control millions of a certain kind of qubits has run into the problem of trying to control millions of laser beams. </span> </p><p><span>That\u2019s exactly the challenge that was faced by scientists working on the <a href=\"https://www.mitre.org/resources/quantum-moonshot\" target=\"_blank\">MITRE Quantum Moonshot project</a>, which brought together scientists from MITRE, MIT, the University of Colorado at Boulder, and Sandia National Laboratories. The solution they developed came in the form of an image projection technology that they realized could also be the fix for a host of other challenges in augmented reality, biomedical imaging, and elsewhere. The device is a one-square-millimeter photonic chip capable of projecting the Mona Lisa onto an area smaller than the size of two human egg <a href=\"https://spectrum.ieee.org/embryo-electrode-array\" target=\"_blank\">cells</a>. </span> </p><p><span>\u201cWhen we started, we certainly never would have anticipated that we would be making a technology that might revolutionize imaging,\u201d says Matt Eichenfield, one of the leaders of the Quantum Moonshot project, a collaborative research effort focused on developing a scalable diamond-based quantum computer, and a professor of quantum engineering at the University of Colorado at Boulder. Each second, their chip is capable of projecting 68.6 million individual spots of light\u2014called scannable pixels to differentiate them from physical pixels. That\u2019s more than fifty times the capability of previous technology, such as <a href=\"https://spectrum.ieee.org/mems-lidar\" target=\"_blank\">micro-electromechanical systems (MEMS) micromirror arrays</a>.</span></p><p> <span>\u201cWe have now made a scannable pixel that is at the absolute limit of what diffraction allows,\u201d says <a href=\"https://www.linkedin.com/in/y-henry-wen-2b41979/\" target=\"_blank\">Henry Wen</a>, a visiting researcher at MIT and a photonics engineer at <a href=\"https://www.quera.com/\" target=\"_blank\">QuEra Computing</a>.</span></p><p>The chip\u2019s distinguishing feature is an array of tiny micro-scale cantilevers, which curve away from the plane of the chip in response to voltage and act as miniature \u201cski-jumps\u201d for light. Light is channeled along the length of each cantilever via a waveguide, and exits at its tip. The cantilevers contain a thin layer of aluminum nitride, a piezoelectric which expands or contracts under voltage, thus moving the micromachine up and down and enabling the array to scan beams of light over a two-dimensional area.</p><p>Despite the magnitude of the team\u2019s achievement, Eichenfield says that the process of engineering the cantilevers was \u201cpretty smooth.\u201d Each cantilever is composed of a stack of several submicrometer layers of material and curls approximately 90 degrees out of the plane at rest. To achieve such a high curvature, the team took advantage of differences in the contraction and expansion of individual layers caused by physical stresses in the material resulting from the fabrication process. The materials are first deposited flat onto the chip. Then, a layer in the chip below the cantilever is removed, allowing the material stresses to take effect, releasing the cantilever from the chip and allowing it to curl out. The top layer of each cantilever also features a series of silicon dioxide bars running perpendicular to the waveguide, which keep the cantilever from curling along its width while also improving its length-wise curvature.</p><p class=\"shortcode-media shortcode-media-youtube\"> <span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span> <small class=\"image-media media-caption\">A micro-cantilever wiggles and waggles to project light in the right place.</small><small class=\"image-media media-photo-credit\">Matt Saha, Y. Henry Wen, et al.</small></p><p>What was more of a challenge than engineering the chip itself was figuring out the details of actually making the chip project images and videos. Working out the process of synchronizing and timing the cantilevers\u2019 motion and light beams to generate the right colors at the right time was a substantial effort, according to <a href=\"https://www.linkedin.com/in/agreenspon/\" target=\"_blank\">Andy Greenspon</a>, a researcher at MITRE who also worked on the project. Now, the team has successfully projected a variety of videos from a single cantilever, including clips from the movie <em><em><a href=\"https://www.youtube.com/watch?v=GPG3zSgm_Qo&amp;list=PLnvfBuirq7alZgA0yGBnNObE5CeJTpUW4\" target=\"_blank\">A Charlie Brown Christmas</a></em></em>. </p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"A warped projection of the Mona Lisa.\" class=\"rm-shortcode\" id=\"a1039\" src=\"https://spectrum.ieee.org/media-library/a-warped-projection-of-the-mona-lisa.jpg?id=65493253&amp;width=980\" /> <small class=\"image-media media-caption\">The chip projected a roughly 125-micrometer image of the Mona Lisa.</small><small class=\"image-media media-photo-credit\"><a href=\"https://www.nature.com/articles/s41586-025-10038-6\" target=\"_blank\">Matt Saha, Y. Henry Wen, et al.</a></small></p><p>Because the chip can project so many more spots in any given time interval than any previous beam scanners, it could also be used to control many more qubits in quantum computers. The Quantum Moonshot program\u2019s mission is to build a quantum computer that can be scaled to millions of qubits. So clearly, it needs a scalable way of controlling each one, explains Wen. Instead of using one laser per qubit, the team realized that not every qubit needed to be controlled at every given moment. The chip\u2019s ability to move light beams over a two-dimensional area, would allow them to control all of the qubits with many fewer lasers. </p><p>Another process that Wen thinks the chip could improve is scanning objects for <a href=\"https://spectrum.ieee.org/3d-printed-linear-motor\" target=\"_blank\">3D printing</a>. Today, that typically involves using a single laser to scan over the entire surface of an object. The new chip, however, could potentially employ thousands of laser beams. \u201cI think now you can take a process that would have taken hours and maybe bring it down to minutes,\u201d says Wen. </p><p>Wen is also excited to explore the potential of different cantilever shapes. By changing the orientations of the bars perpendicular to the waveguide, the team has been able to make the cantilevers curl into helixes. Wen says that such unusual shapes could be useful in making a <a href=\"https://spectrum.ieee.org/neurobot-living-robot-nervous-system\" target=\"_blank\">lab-on-a-chip for cell biology</a> or <a href=\"https://spectrum.ieee.org/lab-on-a-chip-grippers\" target=\"_blank\">drug development</a>. \u201cA lot of this stuff is imaging, scanning a laser across something, either to image it or to stimulate some response. And so we could have one of these ski jumps curl not just up, but actually curl back around, and then move around and scan over a sample,\u201d Wen explains. \u201cIf you can imagine a structure that will be useful for you, we should try it.\u201d</p>"
       },
       {
-        "id": "b05144057b09b157",
-        "title": "The Download: AstroTurf wars and exponential AI growth",
-        "url": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 09 Apr 2026 12:25:10 +0000",
-        "published_dt": "2026-04-09T12:25:10+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Is&#160;fake&#160;grass&#160;a&#160;bad&#160;idea?&#160;The&#160;AstroTurf&#160;wars&#160;are&#160;far&#160;from&#160;over.&#160; In 2001,&#160;Americans installed just over 7 million square meters of synthetic turf. By 2024, that number was 79 million square meters\u2014enough to carpet all of Manhattan and then some. The&#8230;"
-      },
-      {
-        "id": "093a5da0f47b119a",
-        "title": "Is fake grass a bad idea? The AstroTurf wars are far from over.",
-        "url": "https://www.technologyreview.com/2026/04/09/1135092/astroturf-fake-grass-artificial-heated-debates/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 09 Apr 2026 10:00:00 +0000",
-        "published_dt": "2026-04-09T10:00:00+00:00",
-        "summary": "A rare warm spell in January melted enough snow to uncover Cornell University\u2019s newest athletic field, built for field hockey. Months before, it was a meadow teeming with birds and bugs; now it\u2019s more than an acre of synthetic turf roughly the color of the felt on a pool table, almost digital in its saturation.&#8230;"
-      },
-      {
-        "id": "db4bfdb82e0e146e",
-        "title": "Desalination technology, by the numbers",
-        "url": "https://www.technologyreview.com/2026/04/09/1135495/desalination-technology-numbers/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 09 Apr 2026 10:00:00 +0000",
-        "published_dt": "2026-04-09T10:00:00+00:00",
-        "summary": "When I started digging into desalination technology for a new story, I couldn\u2019t help but obsess over the numbers. I\u2019d known on some level that desalination\u2014pulling salt out of seawater to produce fresh water\u2014was an increasingly important technology, especially in water-stressed regions including the Middle East. But just how much some countries rely on desalination,&#8230;"
-      },
-      {
         "id": "2f99074536f48db1",
         "title": "Temple University Student Highlights IEEE Membership Perks",
         "url": "https://spectrum.ieee.org/temple-university-student-membership-perks",
@@ -898,15 +907,6 @@
         "published": "Tue, 07 Apr 2026 18:00:02 +0000",
         "published_dt": "2026-04-07T18:00:02+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-young-white-man-smiling-and-crossing-his-arms-in-a-workshop.jpg?id=65485944&amp;width=1245&amp;height=700&amp;coordinates=0%2C62%2C0%2C63\" /><br /><br /><p><a href=\"https://www.linkedin.com/in/kyle-mcginley112/\" rel=\"noopener noreferrer\" target=\"_blank\">Kyle McGinley</a> graduated from high school in 2018 and, like many teenagers, he was unsure what career he wanted to pursue. Recuperating from a sports injury led him to consider becoming a physical therapist for athletes. But he was skilled at repairing cars and fixing things around the house, so he thought about becoming an engineer, like his father.</p><p>McGinley, who lives in Sellersville, Pa., took some classes at <a href=\"https://www.mc3.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">Montgomery County Community College</a> in Blue Bell, while also working. During his years at the college, he took a variety of courses and was drawn to electrical engineering and computing, he says. He left to pursue a bachelor\u2019s degree in electrical and computer engineering in Philadelphia at <a href=\"https://engineering.temple.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">Temple University</a>, where he is currently a junior.</p><h3>Kyle McGinley</h3><br /><h2><strong>MEMBER GRADE</strong></h2><p>Student member</p><p><strong>UNIVERSITY</strong></p><p>Temple, in Philadelphia</p><p><strong>MAJOR</strong></p><p><strong></strong> Electrical and computer engineering</p><p>The 26-year-old is also a teaching assistant and a research assistant at Temple. His research focuses on applying artificial intelligence to electrical hardware and robotics. He helped build an AI-integrated <a href=\"https://spectrum.ieee.org/honda-p2-robot-ieee-milestone\" target=\"_self\">android</a> companion to assist in-home caregivers.</p><p>Temple recognized McGinley\u2019s efforts last year with its <a href=\"https://engineering.temple.edu/students/our-students/scholarships#:~:text=The%20College%20of%20Engineering%20at%20Temple%20University,credit%20hours%20in%20engineering%20or%20engineering%20technology\" rel=\"noopener noreferrer\" target=\"_blank\">Butz scholarship</a>, which is awarded annually to an electrical and computer engineering undergraduate with an interest in software development, AI development systems, health education software, or a similar field.</p><p>An IEEE <a href=\"https://students.ieee.org/membership-benefits/\" rel=\"noopener noreferrer\" target=\"_blank\">student member</a>, he is active within the university\u2019s student branch.</p><p>\u201cDr. Brian Butz, the late professor emeritus, dedicated his research to artificial intelligence,\u201d McGinley says. \u201cThe scholarship he and his wife Susan established helps allow students to pursue research in AI. Their generous donation has helped fund my research.\u201d </p><h2>Building a robot aide</h2><p>McGinley is a teaching assistant for his digital circuit design course. In a class of 35 students, it can be a struggle for some to digest the professor\u2019s words, he says.</p><p>\u201cMy job is to answer students\u2019 questions if they are having problems following the professor\u2019s lecture or are confused about any of the topics,\u201d he says. \u201cIn the lab, I help students debug code or with hardware issues they have on the FPGA [field-programmable gate array] boards.\u201d</p><p>He also conducts research for the university\u2019s <a href=\"https://cfl-temple.github.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Computer Fusion Lab</a> under the supervision of <a href=\"https://engineering.temple.edu/directory/li-bai-lbai\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Senior Member Li Bai</a>, a professor of electrical and computer engineering. McGinley writes software programs at the lab.</p><p class=\"pull-quote\">\u201cIn school, they don\u2019t teach you how to communicate with people. They only teach you how to remember stuff. Working well with people is one of the most underrated skills that a lot of students don\u2019t understand is important.\u201d </p><p>One such assignment was working with the <a href=\"https://cph.temple.edu/\" target=\"_blank\">Temple School of Social Work at the Barnett College of Public Health</a> to build a robot companion integrated with AI to assist individuals with <a href=\"https://spectrum.ieee.org/parkinsons-disease-pen\" target=\"_self\">Parkinson\u2019s disease</a> and their caregivers.</p><p>\u201cI realized the need for this with my grandmother, when she was taking care of my grandfather,\u201d he says. \u201cIt was a lot for her, trying to remember everything.\u201d</p><p>Using the latest software and hardware, he and three classmates rebuilt an older lab robot. They installed an operating system and used <a href=\"https://spectrum.ieee.org/top-programming-languages-2025\" target=\"_self\">Python and C++</a> for its control, perception, and behavior, he says. The students also incorporated Google\u2019s <a href=\"https://gemini.google.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Gemini AI</a> to help with routine tasks such as scheduling medication reminders and setting alarms for upcoming doctor visits.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"A small humanoid robot standing on a kitchen counter.\" class=\"rm-shortcode\" id=\"09e49\" src=\"https://spectrum.ieee.org/media-library/a-small-humanoid-robot-standing-on-a-kitchen-counter.jpg?id=65486403&amp;width=980\" /><small class=\"image-media media-caption\">Kyle McGinley helped build an AI-integrated android to assist individuals with Parkinson\u2019s disease and their caregivers.</small><small class=\"image-media media-photo-credit\">Temple University of Public Health</small></p><p>The AI-integrated android was intended to assist, not replace, the caregivers by handling the mental load of remembering tasks, he says.</p><p>\u201cThis was one of the cool things that drew me to working in the robotics field,\u201d he says. \u201cSomething where AI could be used to help caregivers do simple tasks.</p><p>\u201cMy career ambition after I graduate is to gain real-world experience in the engineering industry to learn skills outside of academia, Long term, I want to do project management or work in a technical lead role, with the primary goal of creating impactful projects that I can be proud of.\u201d</p><h2>The benefits of a student branch</h2><p>McGinley joined <a href=\"https://www.instagram.com/temple_ieee/\" target=\"_blank\">Temple\u2019s IEEE student branch</a> last year after one of his professors offered extra credit to students who did so. After attending meetings and participating in a few workshops, he found he really liked the club, he says, adding that he made new friends and enjoyed the camaraderie with other engineering students.</p><p>After the student branch\u2019s board members got to know McGinley better, they asked him to become the club\u2019s historian and manage its social media account. He also helps with event planning, creating and posting fliers, taking pictures, and shooting videos of the gatherings.</p><p>The branch has benefited from McGinley\u2019s involvement, but he says it\u2019s a two-way street.</p><p>\u201cThe biggest things I\u2019ve learned are being held accountable and being reliable,\u201d he says. \u201cI am responsible for other people knowing what\u2019s going on.\u201d</p><p>Being an active volunteer has improved his communication skills, he says.</p><p>\u201cLearning to clearly communicate with other people to make sure everyone is on the same page is important,\u201d he says. \u201cIn school, they don\u2019t teach you how to communicate with people. They only teach you how to remember stuff. Working well with people is one of the most underrated skills that a lot of students don\u2019t understand is important.\u201d</p><p>He encourages students to join their <a href=\"https://students.ieee.org/student-branches/\" target=\"_blank\">university\u2019s IEEE branch</a>.</p><p>\u201cI know it can be scary because you might not know anyone, but it honestly can\u2019t hurt you; it could actually benefit you,\u201d he says. \u201cBeing active is going to help you with a lot of skills that you need.</p><p>\u201cYou\u2019ll definitely get opportunities that you would have never known about, like a scholarship or working in the research lab. I would have never gotten these opportunities if I hadn\u2019t shown up. Joining IEEE and being active is the best thing you can do for your career.\u201d</p><p><em>This article was updated on 9 April 2026.</em></p>"
-      },
-      {
-        "id": "a25e6028a531ab73",
-        "title": "Decentralized Training Can Help Solve AI\u2019s Energy Woes",
-        "url": "https://spectrum.ieee.org/decentralized-ai-training-2676670858",
-        "source": "IEEE Spectrum",
-        "published": "Tue, 07 Apr 2026 14:00:01 +0000",
-        "published_dt": "2026-04-07T14:00:01+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/illustration-of-several-data-servers-interconnected-across-long-distances.jpg?id=65477795&amp;width=1245&amp;height=700&amp;coordinates=0%2C156%2C0%2C157\" /><br /><br /><p> <a href=\"https://spectrum.ieee.org/topic/artificial-intelligence/\" target=\"_self\">Artificial intelligence</a> harbors an enormous <a href=\"https://spectrum.ieee.org/topic/energy/\" target=\"_self\">energy</a> appetite. Such constant cravings are evident in the <a href=\"https://spectrum.ieee.org/ai-index-2025\" target=\"_self\">hefty carbon footprint</a> of the <a href=\"https://spectrum.ieee.org/tag/data-centers\" target=\"_self\">data centers</a> behind the AI boom and the steady increase over time of <a href=\"https://spectrum.ieee.org/tag/carbon-emissions\" target=\"_self\">carbon emissions</a> from training frontier <a href=\"https://spectrum.ieee.org/tag/ai-models\" target=\"_self\">AI models</a>.</p><p>No wonder big tech companies are warming up to <a href=\"https://spectrum.ieee.org/tag/nuclear-energy\" target=\"_self\">nuclear energy</a>, envisioning a future fueled by reliable, carbon-free sources. But while <a href=\"https://spectrum.ieee.org/nuclear-powered-data-center\" target=\"_self\">nuclear-powered data centers</a> might still be years away, some in the research and industry spheres are taking action right now to curb AI\u2019s growing energy demands. They\u2019re tackling training as one of the most energy-intensive phases in a model\u2019s life cycle, focusing their efforts on decentralization.</p><p>Decentralization allocates model training across a network of independent nodes rather than relying on one platform or provider. It allows compute to go where the energy is\u2014be it a dormant server sitting in a research lab or a computer in a <a href=\"https://spectrum.ieee.org/tag/solar-power\" target=\"_self\">solar-powered</a> home. Instead of constructing more data centers that require <a href=\"https://spectrum.ieee.org/tag/power-grid\" target=\"_self\">electric grids</a> to scale up their infrastructure and capacity, decentralization harnesses energy from existing sources, avoiding adding more power into the mix.</p><h2>Hardware in harmony</h2><p>Training AI models is a huge data center sport, synchronized across clusters of closely connected <a href=\"https://spectrum.ieee.org/tag/gpus\" target=\"_self\">GPUs</a>. But as <a href=\"https://spectrum.ieee.org/mlperf-trends\" target=\"_self\">hardware improvements struggle to keep up</a> with the swift rise in size of <a href=\"https://spectrum.ieee.org/tag/large-language-models\" target=\"_self\">large language models</a>, even massive single data centers are no longer cutting it.</p><p>Tech firms are turning to the pooled power of multiple data centers\u2014no matter their location. <a href=\"https://spectrum.ieee.org/tag/nvidia\" target=\"_self\">Nvidia</a>, for instance, launched the <a href=\"https://developer.nvidia.com/blog/how-to-connect-distributed-data-centers-into-large-ai-factories-with-scale-across-networking/\" target=\"_blank\">Spectrum-XGS Ethernet for scale-across networking</a>, which \u201ccan deliver the performance needed for large-scale single job AI training and inference across geographically separated data centers.\u201d Similarly, <a href=\"https://spectrum.ieee.org/tag/cisco\" target=\"_self\">Cisco</a> introduced its <a href=\"https://blogs.cisco.com/sp/the-new-benchmark-for-distributed-ai-networking\" target=\"_blank\">8223 router</a> designed to \u201cconnect geographically dispersed AI clusters.\u201d</p><p>Other companies are harvesting idle compute in <a href=\"https://spectrum.ieee.org/tag/servers\" target=\"_self\">servers</a>, sparking the emergence of a <a href=\"https://spectrum.ieee.org/gpu-as-a-service\" target=\"_self\">GPU-as-a-Service</a> business model. Take <a href=\"https://akash.network/\" rel=\"noopener noreferrer\" target=\"_blank\">Akash Network</a>, a peer-to-peer <a href=\"https://spectrum.ieee.org/tag/cloud-computing\" target=\"_self\">cloud computing</a> marketplace that bills itself as the \u201cAirbnb for data centers.\u201d Those with unused or underused GPUs in offices and smaller data centers register as providers, while those in need of computing power are considered as tenants who can choose among providers and rent their GPUs.</p><p>\u201cIf you look at [AI] training today, it\u2019s very dependent on the latest and greatest GPUs,\u201d says Akash cofounder and CEO <a href=\"https://www.linkedin.com/in/gosuri\" rel=\"noopener noreferrer\" target=\"_blank\">Greg Osuri</a>. \u201cThe world is transitioning, fortunately, from only relying on large, high-density GPUs to now considering smaller GPUs.\u201d</p><h2>Software in sync</h2><p>In addition to orchestrating the <a href=\"https://spectrum.ieee.org/tag/hardware\" target=\"_self\">hardware</a>, decentralized AI training also requires algorithmic changes on the <a href=\"https://spectrum.ieee.org/tag/software\" target=\"_self\">software</a> side. This is where <a href=\"https://cloud.google.com/discover/what-is-federated-learning\" rel=\"noopener noreferrer\" target=\"_blank\">federated learning</a>, a form of distributed <a href=\"https://spectrum.ieee.org/tag/machine-learning\" target=\"_self\">machine learning</a>, comes in.</p><p>It starts with an initial version of a global AI model housed in a trusted entity such as a central server. The server distributes the model to participating organizations, which train it locally on their data and share only the model weights with the trusted entity, explains <a href=\"https://www.csail.mit.edu/person/lalana-kagal\" rel=\"noopener noreferrer\" target=\"_blank\">Lalana Kagal</a>, a principal research scientist at <a href=\"https://www.csail.mit.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">MIT\u2019s Computer Science and Artificial Intelligence Laboratory (CSAIL)</a> who leads the <a href=\"https://www.csail.mit.edu/research/decentralized-information-group-dig\" rel=\"noopener noreferrer\" target=\"_blank\">Decentralized Information Group</a>. The trusted entity then aggregates the weights, often by averaging them, integrates them into the global model, and sends the updated model back to the participants. This collaborative training cycle repeats until the model is considered fully trained.</p><p>But there are drawbacks to distributing both data and computation. The constant back and forth exchanges of model weights, for instance, result in high communication costs. Fault tolerance is another issue.</p><p>\u201cA big thing about AI is that every training step is not fault-tolerant,\u201d Osuri says. \u201cThat means if one node goes down, you have to restore the whole batch again.\u201d</p><p>To overcome these hurdles, researchers at <a href=\"https://deepmind.google/\" rel=\"noopener noreferrer\" target=\"_blank\">Google DeepMind</a> developed <a href=\"https://arxiv.org/abs/2311.08105\" rel=\"noopener noreferrer\" target=\"_blank\">DiLoCo</a>, a distributed low-communication optimization <a href=\"https://spectrum.ieee.org/tag/algorithms\" target=\"_self\">algorithm</a>. DiLoCo forms what <a href=\"https://spectrum.ieee.org/tag/google-deepmind\" target=\"_self\">Google DeepMind</a> research scientist <a href=\"https://arthurdouillard.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Arthur Douillard</a> calls \u201cislands of compute,\u201d where each island consists of a group of <a href=\"https://spectrum.ieee.org/tag/chips\" target=\"_self\">chips</a>. Every island holds a different chip type, but chips within an island must be of the same type. Islands are decoupled from each other, and synchronizing knowledge between them happens once in a while. This decoupling means islands can perform training steps independently without communicating as often, and chips can fail without having to interrupt the remaining healthy chips. However, the team\u2019s experiments found diminishing performance after eight islands.</p><p>An improved version dubbed <a href=\"https://arxiv.org/abs/2501.18512\" rel=\"noopener noreferrer\" target=\"_blank\">Streaming DiLoCo</a> further reduces the bandwidth requirement by synchronizing knowledge \u201cin a streaming fashion across several steps and without stopping for communicating,\u201d says Douillard. The mechanism is akin to watching a video even if it hasn\u2019t been fully downloaded yet. \u201cIn Streaming DiLoCo, as you do computational work, the knowledge is being synchronized gradually in the background,\u201d he adds.</p><p>AI development platform <a href=\"https://www.primeintellect.ai/\" rel=\"noopener noreferrer\" target=\"_blank\">Prime Intellect</a> implemented a variant of the DiLoCo algorithm as a vital component of its 10-billion-parameter <a href=\"https://www.primeintellect.ai/blog/intellect-1-release\" rel=\"noopener noreferrer\" target=\"_blank\">INTELLECT-1</a> model trained across five countries spanning three continents. Upping the ante, <a href=\"https://0g.ai/\" rel=\"noopener noreferrer\" target=\"_blank\">0G Labs</a>, makers of a decentralized AI <a href=\"https://spectrum.ieee.org/tag/operating-system\" target=\"_self\">operating system</a>, <a href=\"https://0g.ai/blog/worlds-first-distributed-100b-parameter-ai\" rel=\"noopener noreferrer\" target=\"_blank\">adapted DiLoCo to train a 107-billion-parameter foundation model</a> under a network of segregated clusters with limited bandwidth. Meanwhile, popular <a href=\"https://spectrum.ieee.org/tag/open-source\" target=\"_self\">open-source</a> <a href=\"https://spectrum.ieee.org/tag/deep-learning\" target=\"_self\">deep learning</a> framework <a href=\"https://pytorch.org/projects/pytorch/\" rel=\"noopener noreferrer\" target=\"_blank\">PyTorch</a> included DiLoCo in its <a href=\"https://meta-pytorch.org/torchft/\" rel=\"noopener noreferrer\" target=\"_blank\">repository of fault tolerance techniques</a>.</p><p>\u201cA lot of engineering has been done by the community to take our DiLoCo paper and integrate it in a system learning over consumer-grade internet,\u201d Douillard says. \u201cI\u2019m very excited to see my research being useful.\u201d</p><h2>A more energy-efficient way to train AI</h2><p>With hardware and software enhancements in place, decentralized AI training is primed to help solve AI\u2019s energy problem. This approach offers the option of training models \u201cin a cheaper, more resource-efficient, more energy-efficient way,\u201d says MIT CSAIL\u2019s Kagal.</p><p>And while Douillard admits that \u201ctraining methods like DiLoCo are arguably more complex, they provide an interesting tradeoff of system efficiency.\u201d For instance, you can now use data centers across far apart locations without needing to build ultrafast bandwidth in between. Douillard adds that fault tolerance is baked in because \u201cthe blast radius of a chip failing is limited to its island of compute.\u201d</p><p>Even better, companies can take advantage of existing underutilized processing capacity rather than continuously building new energy-hungry data centers. Betting big on such an opportunity, Akash created its <a href=\"https://www.youtube.com/watch?v=zAj41xSNPeI\" rel=\"noopener noreferrer\" target=\"_blank\">Starcluster program</a>. One of the program\u2019s aims involves tapping into solar-powered homes and employing the desktops and laptops within them to train AI models. \u201cWe want to convert your home into a fully functional data center,\u201d Osuri says.</p><p>Osuri acknowledges that participating in Starcluster will not be trivial. Beyond solar panels and devices equipped with consumer-grade GPUs, participants would also need to invest in <a href=\"https://spectrum.ieee.org/tag/batteries\" target=\"_self\">batteries</a> for backup power and redundant internet to prevent downtime. The Starcluster program is figuring out ways to package all these aspects together and make it easier for homeowners, including collaborating with industry partners to subsidize battery costs.</p><p>Backend work is already underway to enable <a href=\"https://akash.network/roadmap/aep-60/\" rel=\"noopener noreferrer\" target=\"_blank\">homes to participate as providers in the Akash Network</a>, and the team hopes to reach its target by 2027. The Starcluster program also envisions expanding into other solar-powered locations, such as schools and local community sites.</p><p>Decentralized AI training holds much promise to steer AI toward a more environmentally sustainable future. For Osuri, such potential lies in moving AI \u201cto where the energy is instead of moving the energy to where AI is.\u201d</p>"
       }
     ]
   }
