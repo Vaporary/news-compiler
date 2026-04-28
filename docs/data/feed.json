@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-04-27T14:10:42.012243+00:00",
+  "generated_at": "2026-04-28T14:28:57.004408+00:00",
   "categories": {
     "Biotech": [
+      {
+        "id": "29f9b947e26c7c8e",
+        "title": "STAT+: Boehringer\u2019s obesity drug shows 16.6% weight loss; more data needed",
+        "url": "https://www.statnews.com/2026/04/28/biotech-news-boehringer-drug-looks-efficacious-but-more-data-needed/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 28 Apr 2026 13:36:22 +0000",
+        "published_dt": "2026-04-28T13:36:22+00:00",
+        "summary": "Eli Lilly's deal with Profluent, Erasca's RAS-targeting cancer pill, and more biotech news today"
+      },
+      {
+        "id": "c455621dca80466d",
+        "title": "STAT+: Google\u2019s clinical director on AI challenges",
+        "url": "https://www.statnews.com/2026/04/28/googles-clinical-director-on-ai-chatbot-challenges-health-tech/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 28 Apr 2026 13:24:51 +0000",
+        "published_dt": "2026-04-28T13:24:51+00:00",
+        "summary": "In this edition of STAT Health Tech newsletter: a conversation with Google's clinical director, an update on Doctronic's Utah experiment, and more."
+      },
+      {
+        "id": "46496d32de2f0ec5",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about warnings over Trump\u2019s MFN plan, Purdue Pharma sentencing, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/04/28/warnings-over-trump-drug-pricing-plan-purdue-pharma-sentencing/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 28 Apr 2026 13:18:17 +0000",
+        "published_dt": "2026-04-28T13:18:17+00:00",
+        "summary": "The Novartis CEO warned that Trump's drug pricing policy poses a \u201cvery difficult situation\u201d and the reality will soon catch up with drugmakers and patients"
+      },
+      {
+        "id": "0fff9caa5a5518e8",
+        "title": "The Download: Musk and Altman\u2019s legal showdown, and AI\u2019s profit problem",
+        "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 28 Apr 2026 12:10:00 +0000",
+        "published_dt": "2026-04-28T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Elon Musk and Sam Altman are going to court over OpenAI\u2019s future Elon Musk and OpenAI CEO Sam Altman head to trial this week in a case with sweeping consequences. Ahead&#8230;"
+      },
+      {
+        "id": "96509e8feb658e1c",
+        "title": "STAT+: Eli Lilly enlists AI startup for next-generation gene editors",
+        "url": "https://www.statnews.com/2026/04/28/eli-lilly-crispr-gene-editing-deal-profluent-ai/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 28 Apr 2026 11:00:00 +0000",
+        "published_dt": "2026-04-28T11:00:00+00:00",
+        "summary": "Eli Lilly's deal with Profluent aims to go beyond CRISPR by using AI-designed enzymes to insert entire genes. It could reshape genetic medicine."
+      },
+      {
+        "id": "4691e046ccc6f5bd",
+        "title": "Predicting\u00a0consequences of new hepatitis B vaccine recs",
+        "url": "https://www.statnews.com/2026/04/28/health-news-dangerous-consequences-of-new-hep-b-vaccine-guidelines/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 28 Apr 2026 11:46:02 +0000",
+        "published_dt": "2026-04-28T11:46:02+00:00",
+        "summary": "New data on public trust in science, AI and mental health, and other news from Morning Rounds"
+      },
       {
         "id": "98f299cd6c45a5cc",
         "title": "STAT+: Astellas retries XLMTM gene therapy after deaths",
@@ -10,51 +64,6 @@
         "published": "Mon, 27 Apr 2026 13:20:40 +0000",
         "published_dt": "2026-04-27T13:20:40+00:00",
         "summary": "Veradermics' hair loss pill late-stage trial success, FDA fast-tracks reviews for psychedelics, and more biotech news"
-      },
-      {
-        "id": "c55866e2735dbf63",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about a Lilly deal, an Intellia CRISPR rare-disease treatment, and more",
-        "url": "https://www.statnews.com/pharmalot/2026/04/27/lilly-deal-intellia-crispr-treatment-for-rare-disease/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 27 Apr 2026 13:18:01 +0000",
-        "published_dt": "2026-04-27T13:18:01+00:00",
-        "summary": "Intellia disclosed that a single dose of its gene editing treatment dramatically reduced swelling attacks in patients with hereditary angioedema"
-      },
-      {
-        "id": "3ffea6cad780f7ca",
-        "title": "Rebuilding the data stack for AI",
-        "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 27 Apr 2026 13:00:00 +0000",
-        "published_dt": "2026-04-27T13:00:00+00:00",
-        "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI at scale requires something far less glamorous but far more consequential: data&#8230;"
-      },
-      {
-        "id": "aa59ff7a4706157c",
-        "title": "What\u2019s the true risk for eating disorders with GLP-1s?",
-        "url": "https://www.statnews.com/2026/04/27/health-news-true-risk-of-eating-disorders-and-wegovy-ozempic/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 27 Apr 2026 12:42:36 +0000",
-        "published_dt": "2026-04-27T12:42:36+00:00",
-        "summary": "The state of Covid-19 in 2026, a hat to treat depression, and other health news from Morning Rounds"
-      },
-      {
-        "id": "139b06f624321e90",
-        "title": "The Download: DeepSeek\u2019s latest AI breakthrough, and the race to build world models",
-        "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 27 Apr 2026 12:10:00 +0000",
-        "published_dt": "2026-04-27T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three reasons why DeepSeek\u2019s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts&#8230;"
-      },
-      {
-        "id": "f2eae80e7dcbe0e8",
-        "title": "STAT+: Intellia says CRISPR-based treatment for rare disease reduced swelling attacks in pivotal trial",
-        "url": "https://www.statnews.com/2026/04/27/intellia-therapeutics-phase-3-trial-hereditary-angioedema-crispr-treatment/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 27 Apr 2026 11:01:00 +0000",
-        "published_dt": "2026-04-27T11:01:00+00:00",
-        "summary": "With good results from Intellia, the CRISPR field faces the question: How attractive will the one-and-done approach be to patients and doctors?"
       },
       {
         "id": "d91aeb2795fc72c9",
@@ -66,6 +75,123 @@
         "summary": "A phase 3 trial of Intellia Therapeutics\u2019 in vivo gene editing therapy lonvoguran ziclumeran has hit its primary endpoint, leading the biotech to start a rolling submission for FDA approval. <br />"
       },
       {
+        "id": "29309ecb37280e93",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/abbvie-dips-boiling-ras-waters-145b-biobucks-deal-could-end-acquisition\" hreflang=\"en\">AbbVie dips into boiling RAS waters with $1.45B biobucks deal that could end in acquisition</a>",
+        "url": "https://www.fiercebiotech.com/biotech/abbvie-dips-boiling-ras-waters-145b-biobucks-deal-could-end-acquisition",
+        "source": "Fierce Biotech",
+        "published": "Apr 28, 2026 10:04am",
+        "published_dt": "2026-04-28T10:04:00+00:00",
+        "summary": "AbbVie has agreed to help finance a KRAS inhibitor from Kestrel Therapeutics in a deal that could hit up to $1.45 billion in value and end with AbbVie buying the company outright."
+      },
+      {
+        "id": "f2eae80e7dcbe0e8",
+        "title": "STAT+: Intellia says CRISPR-based treatment for rare disease reduced swelling attacks in pivotal trial",
+        "url": "https://www.statnews.com/2026/04/27/intellia-therapeutics-phase-3-trial-hereditary-angioedema-crispr-treatment/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 27 Apr 2026 11:01:00 +0000",
+        "published_dt": "2026-04-27T11:01:00+00:00",
+        "summary": "With good results from Intellia, the CRISPR field faces the question: How attractive will the one-and-done approach be to patients and doctors?"
+      },
+      {
+        "id": "a22003ca65e1388f",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/incytes-jak-inhibitor-scores-phase-3-vitiligo-wins-cant-quite-shake-rinvoq\" hreflang=\"en\">Incyte\u2019s JAK inhibitor scores phase 3 vitiligo wins but can\u2019t quite shake off Rinvoq</a>",
+        "url": "https://www.fiercebiotech.com/biotech/incytes-jak-inhibitor-scores-phase-3-vitiligo-wins-cant-quite-shake-rinvoq",
+        "source": "Fierce Biotech",
+        "published": "Apr 28, 2026 9:19am",
+        "published_dt": "2026-04-28T09:19:00+00:00",
+        "summary": "Incyte\u2019s povorcitinib has scored a pair of phase 3 wins for a skin condition, although analysts noted the JAK inhibitor didn\u2019t quite live up to AbbVie\u2019s Rinvoq."
+      },
+      {
+        "id": "b0b58be5ff54866e",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/erasca-hits-home-run-cancer-data-suffers-42-stock-drop\" hreflang=\"en\">Erasca hits \u2018home run\u2019 with cancer data as analyst suggests stock drop prompted by patient death</a>",
+        "url": "https://www.fiercebiotech.com/biotech/erasca-hits-home-run-cancer-data-suffers-42-stock-drop",
+        "source": "Fierce Biotech",
+        "published": "Apr 28, 2026 8:57am",
+        "published_dt": "2026-04-28T08:57:00+00:00",
+        "summary": "Erasca has backed up bullish claims about its pan-RAS drug having a best-in-class profile, publishing phase 1 data that an analyst said reveal a \u201chome run profile.\u201d"
+      },
+      {
+        "id": "972263351ffbf4a5",
+        "title": "STAT+: Google clinical director says AI can be a \u2018bridge\u2019 for people having a mental health crisis",
+        "url": "https://www.statnews.com/2026/04/28/google-gemini-ai-mental-health-safety-interview-clinical-director-megan-jones-bell/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 28 Apr 2026 08:30:00 +0000",
+        "published_dt": "2026-04-28T08:30:00+00:00",
+        "summary": "Google's clinical director Megan Bell Jones on how the company is addressing concerns over mental health impacts of its AI products."
+      },
+      {
+        "id": "3fbd0f022f9013e8",
+        "title": "STAT+: A giant question looms over GOP\u2019s new Medicaid work requirements",
+        "url": "https://www.statnews.com/2026/04/28/medicaid-work-requirements-enrollment-losses-will-not-be-tracked/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 28 Apr 2026 08:30:00 +0000",
+        "published_dt": "2026-04-28T08:30:00+00:00",
+        "summary": "Coverage losses tied to Medicaid work requirements may not be tracked in every states."
+      },
+      {
+        "id": "f29698e5e7681223",
+        "title": "Opinion: Why do discussions about \u2018brain health\u2019 ignore mental illness?",
+        "url": "https://www.statnews.com/2026/04/28/brain-health-mental-illness-neurodegenerative-disorders-connection/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 28 Apr 2026 08:30:00 +0000",
+        "published_dt": "2026-04-28T08:30:00+00:00",
+        "summary": "\u201cFailing to adopt a more inclusive concept of brain health represents a massive loss of human potential,\u201d write Husseini K. Manji, Eric J. Nestler, and Patrick J. Kennedy."
+      },
+      {
+        "id": "9b9baa28343f1a56",
+        "title": "Opinion: It\u2019s time to seize the rare bipartisan opening to address microplastics",
+        "url": "https://www.statnews.com/2026/04/28/microplastics-nanoplastics-health-epa-trump-arpa-h/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 28 Apr 2026 08:30:00 +0000",
+        "published_dt": "2026-04-28T08:30:00+00:00",
+        "summary": "\u201cThis could be the start of serious action on microplastics. Or it could end up as a headline with little behind it,\u201d write Tim Ryan and Justin Zorn."
+      },
+      {
+        "id": "73c5f189d5d5e38a",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-pens-22b-pact-bezos-backed-profluent-work-recombinase-based-gene-editing\" hreflang=\"en\">Lilly pens $2.2B pact with Bezos-backed Profluent to work on recombinase-based gene editing</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-pens-22b-pact-bezos-backed-profluent-work-recombinase-based-gene-editing",
+        "source": "Fierce Biotech",
+        "published": "Apr 28, 2026 8:21am",
+        "published_dt": "2026-04-28T08:21:00+00:00",
+        "summary": "Eli Lilly\u2019s latest attempt to strengthen its genetic medicine offering has seen the pharma team up with Profluent to develop AI-designed recombinases to address diseases with severe unmet needs."
+      },
+      {
+        "id": "6e5d499fa5063f8a",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/medtronic-thwarts-cyberattack-its-it-systems-wake-data-breech-stryker\" hreflang=\"en\">Medtronic thwarts cyberattack on its IT systems in wake of data breach at Stryker</a>",
+        "url": "https://www.fiercebiotech.com/medtech/medtronic-thwarts-cyberattack-its-it-systems-wake-data-breech-stryker",
+        "source": "Fierce Biotech",
+        "published": "Apr 28, 2026 8:08am",
+        "published_dt": "2026-04-28T08:08:00+00:00",
+        "summary": "Medtronic, the largest medical device maker in the world, said it contained a cyberattack on its corporate IT systems and that the breach didn\u2019t impact any of its products or patients.<br />"
+      },
+      {
+        "id": "97d6fd63167d4fb3",
+        "title": "Elon Musk and Sam Altman are going to court over OpenAI\u2019s future",
+        "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 27 Apr 2026 22:52:57 +0000",
+        "published_dt": "2026-04-27T22:52:57+00:00",
+        "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI\u2019s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust&#8230;"
+      },
+      {
+        "id": "730adbec3cfda1ac",
+        "title": "STAT+: Erasca touts strong, though preliminary, results in trial of pancreatic and lung cancer therapy",
+        "url": "https://www.statnews.com/2026/04/27/erasca-pancreatic-cancer-study-results/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 27 Apr 2026 20:01:11 +0000",
+        "published_dt": "2026-04-27T20:01:11+00:00",
+        "summary": "The drugmaker Erasca said results on its experimental pill in a trial of pancreatic cancer and non-small cell lung cancer exceeded its expectations."
+      },
+      {
+        "id": "c55866e2735dbf63",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about a Lilly deal, an Intellia CRISPR rare-disease treatment, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/04/27/lilly-deal-intellia-crispr-treatment-for-rare-disease/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 27 Apr 2026 13:18:01 +0000",
+        "published_dt": "2026-04-27T13:18:01+00:00",
+        "summary": "Intellia disclosed that a single dose of its gene editing treatment dramatically reduced swelling attacks in patients with hereditary angioedema"
+      },
+      {
         "id": "ff806f965c057d1b",
         "title": "STAT+: Oruka\u2019s long-acting psoriasis therapy posts strong results in mid-stage study",
         "url": "https://www.statnews.com/2026/04/27/ourka-psoriasis-inectable-treatment-study/?utm_campaign=rss",
@@ -75,22 +201,13 @@
         "summary": "A long-acting injectable treatment for plaque psoriasis helped 63% of patients achieve complete skin clearance in a clinical trial, its maker, Oruka Therapeutics, reported."
       },
       {
-        "id": "aaca87413463f8ec",
-        "title": "STAT+: Veradermics\u2019 hair loss drug succeeds in late-stage trial",
-        "url": "https://www.statnews.com/2026/04/27/veradermics-hair-loss-drug-succeeds-late-stage-trial/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 27 Apr 2026 11:00:00 +0000",
-        "published_dt": "2026-04-27T11:00:00+00:00",
-        "summary": "The company is one of the most advanced players in the hair loss field, which has seen a surge of investor enthusiasm."
-      },
-      {
-        "id": "2be6b074e0aaf353",
-        "title": "STAT+: Zap in a cap: How one neurotech startup is using a hat to treat depression",
-        "url": "https://www.statnews.com/2026/04/27/motif-neurotech-gets-fda-nod-brain-implant-depression/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 27 Apr 2026 09:30:00 +0000",
-        "published_dt": "2026-04-27T09:30:00+00:00",
-        "summary": "FDA approved a request from Motif Neurotech, to start an initial feasibility trial to test a brain implant to treat depression."
+        "id": "e0f0120047294d2c",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astellas-thins-early-pipeline-swaps-out-struggling-rare-disease-gene-therapy\" hreflang=\"en\">Astellas thins early pipeline, swaps out struggling rare disease gene therapy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astellas-thins-early-pipeline-swaps-out-struggling-rare-disease-gene-therapy",
+        "source": "Fierce Biotech",
+        "published": "Apr 27, 2026 10:22am",
+        "published_dt": "2026-04-27T10:22:00+00:00",
+        "summary": "Astellas Pharma has done some spring cleaning of its pipeline, dropping two phase 1 candidates and slamming the brakes on a troubled gene therapy."
       },
       {
         "id": "f879e62034021bf4",
@@ -102,60 +219,6 @@
         "summary": "Oruka Therapeutics\u2019 long-acting plaque psoriasis candidate cleared the skin of 63.5% of patients in a phase 2a trial, leading Jefferies analysts to predict the asset could beat out AbbVie\u2019s Skyrizi and generate sales of up to $10 billion. The biotech\u2019s share price opened up 30% at $89.50."
       },
       {
-        "id": "d309e771694fabef",
-        "title": "Opinion: I\u2019m a fourth-year med student, but I only learned one historical example of medical racism",
-        "url": "https://www.statnews.com/2026/04/27/medical-school-education-health-care-inequity-cdc-trial-tuskegee/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 27 Apr 2026 08:30:00 +0000",
-        "published_dt": "2026-04-27T08:30:00+00:00",
-        "summary": "Modern randomized controlled trials often rely on marginalized populations abroad."
-      },
-      {
-        "id": "1bbccd367b5d4ca3",
-        "title": "NIH-funded research lags in reporting sex differences, new study finds",
-        "url": "https://www.statnews.com/2026/04/27/nih-research-guidelines-sabv-sex-as-biological-variable/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 27 Apr 2026 09:00:00 +0000",
-        "published_dt": "2026-04-27T09:00:00+00:00",
-        "summary": "Fewer than half of papers published by NIH-funded researchers analyze or report their data by sex, a new study found."
-      },
-      {
-        "id": "b3132d14a21748ce",
-        "title": "What happened to Covid?",
-        "url": "https://www.statnews.com/2026/04/27/is-covid-still-a-thing-expert-analysis-who-needs-vaccine-booster-shot/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 27 Apr 2026 08:30:00 +0000",
-        "published_dt": "2026-04-27T08:30:00+00:00",
-        "summary": "The thinking about what risk Covid poses \u2014 or doesn't pose \u2014 has shifted in recent years. What does it mean for you?"
-      },
-      {
-        "id": "2d8a0be6b087ebb4",
-        "title": "Opinion: Patients seeking mental health treatment are not commodities",
-        "url": "https://www.statnews.com/2026/04/27/mental-health-employment-contracts-proprietary-non-compete-non-solicitation/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 27 Apr 2026 08:30:00 +0000",
-        "published_dt": "2026-04-27T08:30:00+00:00",
-        "summary": "Legal agreements that directly shape access to care remain invisible to the very people whose lives they govern."
-      },
-      {
-        "id": "eef0dd8dd9aadf81",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/tandem-diabetes-issues-software-device-correction-insulin-pump-malfunction\" hreflang=\"en\">Tandem Diabetes issues software device correction for insulin pump malfunction </a>",
-        "url": "https://www.fiercebiotech.com/medtech/tandem-diabetes-issues-software-device-correction-insulin-pump-malfunction",
-        "source": "Fierce Biotech",
-        "published": "Apr 27, 2026 8:03am",
-        "published_dt": "2026-04-27T08:03:00+00:00",
-        "summary": "Tandem Diabetes Care issued an urgent medical device correction to upgrade the software of its Tandem Mobi insulin pumps that can fail to deliver critical medicine to patients."
-      },
-      {
-        "id": "adf5a4c6c6d18b68",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-continues-ma-streak-23b-deal-next-gen-jak-inhibitor-biotech-ajax\" hreflang=\"en\">Lilly maintains M&amp;A hot streak with $2.3B deal for next-gen JAK inhibitor biotech Ajax</a>",
-        "url": "https://www.fiercebiotech.com/biotech/lilly-continues-ma-streak-23b-deal-next-gen-jak-inhibitor-biotech-ajax",
-        "source": "Fierce Biotech",
-        "published": "Apr 27, 2026 8:00am",
-        "published_dt": "2026-04-27T08:00:00+00:00",
-        "summary": "Eli Lilly\u2019s run of near-weekly acquisitions still shows no sign of letting up, with the Big Pharma now buying Ajax Therapeutics for its clinical-stage myelofibrosis therapy.<br />"
-      },
-      {
         "id": "fc2a0adfef305515",
         "title": "<a href=\"https://www.fiercebiotech.com/medtech/thermo-fisher-sees-higher-q1-earnings-amid-strong-biopharma-demand\" hreflang=\"en\">Thermo Fisher sees higher Q1 earnings amid strong biopharma demand</a>",
         "url": "https://www.fiercebiotech.com/medtech/thermo-fisher-sees-higher-q1-earnings-amid-strong-biopharma-demand",
@@ -163,161 +226,71 @@
         "published": "Apr 25, 2026 2:54am",
         "published_dt": "2026-04-25T02:54:00+00:00",
         "summary": "Thermo Fisher Scientific reported \u201ca strong start to the year,\u201d buoyed by strong demand from its pharma and biotech customers, investment in new technologies and the closing of its $9 billion acquisition of clinical trial data company Clario."
-      },
-      {
-        "id": "ccf2c4a07849cade",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/british-biotech-vc-funding-shows-signs-recovery-ipo-rebound-yet-materialize\" hreflang=\"en\">British biotech VC funding shows \u2018signs of recovery,\u2019 but IPO rebound yet to materialize</a>",
-        "url": "https://www.fiercebiotech.com/biotech/british-biotech-vc-funding-shows-signs-recovery-ipo-rebound-yet-materialize",
-        "source": "Fierce Biotech",
-        "published": "Apr 27, 2026 4:22am",
-        "published_dt": "2026-04-27T04:22:00+00:00",
-        "summary": "The 552 million pounds ($747 million) raised by British biotechs in the first quarter of the year has been hailed as a \u201csign of recovery,\u201d although an anticipated resurgence of IPOs across the nation has yet to materialize."
-      },
-      {
-        "id": "f51c8e5349cf2927",
-        "title": "STAT+: FDA to speed up review of three psychedelics as mental health treatments",
-        "url": "https://www.statnews.com/2026/04/24/trump-psychedelic-drugs-fda-priority-review-mental-health-treatment/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 24 Apr 2026 18:45:38 +0000",
-        "published_dt": "2026-04-24T18:45:38+00:00",
-        "summary": "Trump's embrace of psychedelics and cannabis is shaking up the GOP\u2019s relationship with mind-altering substances."
-      },
-      {
-        "id": "2bb8238d2fd490a7",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/compass-usona-score-fda-national-priority-vouchers-amid-trump-administrations-psychedelic\" hreflang=\"en\">Compass, Usona and Transcend score FDA national priority vouchers amid Trump administration\u2019s psychedelic push</a>",
-        "url": "https://www.fiercebiotech.com/biotech/compass-usona-score-fda-national-priority-vouchers-amid-trump-administrations-psychedelic",
-        "source": "Fierce Biotech",
-        "published": "Apr 24, 2026 3:26pm",
-        "published_dt": "2026-04-24T15:26:00+00:00",
-        "summary": "The FDA is awarding national priority vouchers to Compass Pathways, Usona Institute and Transcend Therapeutics for their psychedelic treatments."
-      },
-      {
-        "id": "7aaa158c1f11bb9a",
-        "title": "<a href=\"https://www.fiercebiotech.com/cro/wcg-acquires-contract-network-aiming-streamline-clinical-trial-process\" hreflang=\"en\">WCG acquires The Contract Network in bid to streamline clinical trial execution</a>",
-        "url": "https://www.fiercebiotech.com/cro/wcg-acquires-contract-network-aiming-streamline-clinical-trial-process",
-        "source": "Fierce Biotech",
-        "published": "Apr 24, 2026 12:59pm",
-        "published_dt": "2026-04-24T12:59:00+00:00",
-        "summary": "Clinical trials solutions provider WCG is acquiring tech company The Contract Network to improve alignment and decision-making across clinical trial initiation."
-      },
-      {
-        "id": "18fd2b9b618d2019",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/avalyn-aims-181m-ipo-fund-phase-3-trials-reformulated-respiratory-drugs\" hreflang=\"en\">Avalyn aims for $182M IPO to fund phase 3 trials of reformulated respiratory drugs </a>",
-        "url": "https://www.fiercebiotech.com/biotech/avalyn-aims-181m-ipo-fund-phase-3-trials-reformulated-respiratory-drugs",
-        "source": "Fierce Biotech",
-        "published": "Apr 24, 2026 3:18am",
-        "published_dt": "2026-04-24T03:18:00+00:00",
-        "summary": "Avalyn Pharma is hoping to rake in around $181.8 million from an IPO, which the biotech will use to take its inhaled versions of approved drugs for respiratory conditions into late-stage studies."
-      },
-      {
-        "id": "cde569fb1ab29dd9",
-        "title": "<a href=\"https://www.fiercebiotech.com/pharma/regeneron-ushers-new-genetic-medicine-era-groundbreaking-gene-therapy-approval\" hreflang=\"en\">Regeneron ushers in new genetic medicine era with groundbreaking gene therapy approval</a>",
-        "url": "https://www.fiercebiotech.com/pharma/regeneron-ushers-new-genetic-medicine-era-groundbreaking-gene-therapy-approval",
-        "source": "Fierce Biotech",
-        "published": "Apr 23, 2026 3:00pm",
-        "published_dt": "2026-04-23T15:00:00+00:00",
-        "summary": "Travis Smith was a very serious baby. Born completely unable to hear, his mother, Sierra, struggled to see his personality shine through his mute world."
-      },
-      {
-        "id": "44a067c6839a197c",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/blood-test-powered-ai-shows-early-promise-monitoring-rare-childhood-cancer\" hreflang=\"en\">Blood test powered by AI shows early promise in monitoring rare childhood cancer</a>",
-        "url": "https://www.fiercebiotech.com/medtech/blood-test-powered-ai-shows-early-promise-monitoring-rare-childhood-cancer",
-        "source": "Fierce Biotech",
-        "published": "Apr 27, 2026 3:37am",
-        "published_dt": "2026-04-27T03:37:00+00:00",
-        "summary": "A new liquid biopsy test using artificial intelligence models could help spot a rare type of bone and soft tissue cancer that predominantly affects children and adolescents."
       }
     ],
     "Engineering & Aerospace": [
       {
-        "id": "507c9ea93f3ca8f6",
-        "title": "Murata begins mass production of ultra-low power AMR sensors",
-        "url": "https://www.engineering.com/murata-begins-mass-production-of-ultra-low-power-amr-sensors/",
+        "id": "6d91e71144a3c129",
+        "title": "Helping engineers thrive from first spark to fielded capability",
+        "url": "https://www.engineering.com/helping-engineers-thrive-from-first-spark-to-fielded-capability/",
         "source": "Engineering.com",
-        "published": "Mon, 27 Apr 2026 14:08:27 +0000",
-        "published_dt": "2026-04-27T14:08:27+00:00",
-        "summary": "<p>New sensors enable reliable magnetic switching at low voltage, extending battery life in compact healthcare, wearable, and IoT devices.</p>\n<p>The post <a href=\"https://www.engineering.com/murata-begins-mass-production-of-ultra-low-power-amr-sensors/\">Murata begins mass production of ultra-low power AMR sensors</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Tue, 28 Apr 2026 13:00:00 +0000",
+        "published_dt": "2026-04-28T13:00:00+00:00",
+        "summary": "<p>Integer Technologies\u2019 Philip Stone explains how its cradle-to-grave engineering process earned the firm a spot on the Top Workplaces for Engineers 2026 rankings. </p>\n<p>The post <a href=\"https://www.engineering.com/helping-engineers-thrive-from-first-spark-to-fielded-capability/\">Helping engineers thrive from first spark to fielded capability</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "3fc6b84f58c4d448",
-        "title": "Autodesk nominates Omar Abbosh to board of directors",
-        "url": "https://www.engineering.com/autodesk-nominates-omar-abbosh-to-board-of-directors/",
+        "id": "b26415fd3c450ef0",
+        "title": "Supermicro expands Silicon Valley AI infrastructure campus",
+        "url": "https://www.engineering.com/supermicro-expands-silicon-valley-ai-infrastructure-campus/",
         "source": "Engineering.com",
-        "published": "Mon, 27 Apr 2026 13:59:39 +0000",
-        "published_dt": "2026-04-27T13:59:39+00:00",
-        "summary": "<p>Stephen Milligan will not seek re-election, as the board maintains 11 members with a majority of independent directors.</p>\n<p>The post <a href=\"https://www.engineering.com/autodesk-nominates-omar-abbosh-to-board-of-directors/\">Autodesk nominates Omar Abbosh to board of directors</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Tue, 28 Apr 2026 10:42:22 +0000",
+        "published_dt": "2026-04-28T10:42:22+00:00",
+        "summary": "<p>New 714,000-square-foot site adds design, manufacturing, testing and distribution capacity for domestic deployments.</p>\n<p>The post <a href=\"https://www.engineering.com/supermicro-expands-silicon-valley-ai-infrastructure-campus/\">Supermicro expands Silicon Valley AI infrastructure campus</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "687b469ff04f69b5",
-        "title": "Spatial enhances SDKs for CAD, meshing and workflows",
-        "url": "https://www.engineering.com/spatial-enhances-sdks-for-cad-meshing-and-workflows/",
+        "id": "5b4959db5a6ba33b",
+        "title": "MathWorks adds AI copilots in MATLAB and Simulink",
+        "url": "https://www.engineering.com/mathworks-adds-ai-copilots-in-matlab-and-simulink/",
         "source": "Engineering.com",
-        "published": "Mon, 27 Apr 2026 13:52:22 +0000",
-        "published_dt": "2026-04-27T13:52:22+00:00",
-        "summary": "<p>Update adds broader format support, improved PMI handling, and new tools for complex geometry and simulation preparation.</p>\n<p>The post <a href=\"https://www.engineering.com/spatial-enhances-sdks-for-cad-meshing-and-workflows/\">Spatial enhances SDKs for CAD, meshing and workflows</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Tue, 28 Apr 2026 10:50:49 +0000",
+        "published_dt": "2026-04-28T10:50:49+00:00",
+        "summary": "<p>Release 2026a also adds Polyspace as You Code for checking C and C++ rules, defects and vulnerabilities during coding.</p>\n<p>The post <a href=\"https://www.engineering.com/mathworks-adds-ai-copilots-in-matlab-and-simulink/\">MathWorks adds AI copilots in MATLAB and Simulink</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "d9f5b2d74d3de8a1",
-        "title": "Roland DG updates Connect Designer and VersaWorks 7",
-        "url": "https://www.engineering.com/roland-dg-updates-connect-designer-and-versaworks-7/",
+        "id": "a0597091755859c5",
+        "title": "AZIO AI adds Giga Computing for dense AI infrastructure",
+        "url": "https://www.engineering.com/azio-ai-adds-giga-computing-for-dense-ai-infrastructure/",
         "source": "Engineering.com",
-        "published": "Mon, 27 Apr 2026 13:01:56 +0000",
-        "published_dt": "2026-04-27T13:01:56+00:00",
-        "summary": "<p>New features include object decoration tools, ColorMatch support and expanded options for subscriptions and one-time purchase.</p>\n<p>The post <a href=\"https://www.engineering.com/roland-dg-updates-connect-designer-and-versaworks-7/\">Roland DG updates Connect Designer and VersaWorks 7</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Tue, 28 Apr 2026 10:34:41 +0000",
+        "published_dt": "2026-04-28T10:34:41+00:00",
+        "summary": "<p>Reseller status expands access to HGX platforms, liquid cooling and rack-scale GPU clusters for varied deployments.</p>\n<p>The post <a href=\"https://www.engineering.com/azio-ai-adds-giga-computing-for-dense-ai-infrastructure/\">AZIO AI adds Giga Computing for dense AI infrastructure</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "c1084b8ed845f55c",
-        "title": "WeRide expands WRD 3.0 across multiple chip platforms",
-        "url": "https://www.engineering.com/weride-expands-wrd-3-0-across-multiple-chip-platforms/",
+        "id": "a8e8f46fab058568",
+        "title": "PATEO expands vehicle AI with new computing platform",
+        "url": "https://www.engineering.com/pateo-expands-vehicle-ai-with-new-computing-platform/",
         "source": "Engineering.com",
-        "published": "Mon, 27 Apr 2026 12:20:57 +0000",
-        "published_dt": "2026-04-27T12:20:57+00:00",
-        "summary": "<p>Aion N60 marks the first mass-production deployment of the system on the Qualcomm Snapdragon platform.</p>\n<p>The post <a href=\"https://www.engineering.com/weride-expands-wrd-3-0-across-multiple-chip-platforms/\">WeRide expands WRD 3.0 across multiple chip platforms</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Tue, 28 Apr 2026 10:09:54 +0000",
+        "published_dt": "2026-04-28T10:09:54+00:00",
+        "summary": "<p>A new NEV nomination backs software-hardware integration for edge models, agents and advanced cockpit functions.</p>\n<p>The post <a href=\"https://www.engineering.com/pateo-expands-vehicle-ai-with-new-computing-platform/\">PATEO expands vehicle AI with new computing platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "508914626ec6eb0a",
-        "title": "Woolpert ranks No. 36 on ENR Top 500 list",
-        "url": "https://www.engineering.com/woolpert-ranks-no-36-on-enr-top-500-list/",
+        "id": "c94ffef171659280",
+        "title": "Vertiv acquires thermal specialist for liquid cooling",
+        "url": "https://www.engineering.com/vertiv-acquires-thermal-specialist-for-liquid-cooling/",
         "source": "Engineering.com",
-        "published": "Mon, 27 Apr 2026 12:08:25 +0000",
-        "published_dt": "2026-04-27T12:08:25+00:00",
-        "summary": "<p>The firm grew to more than 3,200 employees in 2025 as revenue increased to more than $750 million.</p>\n<p>The post <a href=\"https://www.engineering.com/woolpert-ranks-no-36-on-enr-top-500-list/\">Woolpert ranks No. 36 on ENR Top 500 list</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Tue, 28 Apr 2026 10:00:35 +0000",
+        "published_dt": "2026-04-28T10:00:35+00:00",
+        "summary": "<p>Deal adds cold-plate design and high-density validation expertise for AI and HPC infrastructure workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/vertiv-acquires-thermal-specialist-for-liquid-cooling/\">Vertiv acquires thermal specialist for liquid cooling</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "e77a5d3a197a8508",
-        "title": "Safran advances open-fan engine tests",
-        "url": "https://aerospaceamerica.aiaa.org/safran-advances-open-fan-engine-tests/",
-        "source": "Aerospace America",
-        "published": "Mon, 27 Apr 2026 11:44:41 +0000",
-        "published_dt": "2026-04-27T11:44:41+00:00",
-        "summary": ""
-      },
-      {
-        "id": "8842837ddf491590",
-        "title": "Flex, Teradyne expand manufacturing automation alliance",
-        "url": "https://www.engineering.com/flex-teradyne-expand-manufacturing-automation-alliance/",
+        "id": "04f505b5d2ed267c",
+        "title": "ARC and ORNL partner to scale defense manufacturing",
+        "url": "https://www.engineering.com/arc-and-ornl-partner-to-scale-defense-manufacturing/",
         "source": "Engineering.com",
-        "published": "Fri, 24 Apr 2026 11:13:10 +0000",
-        "published_dt": "2026-04-24T11:13:10+00:00",
-        "summary": "<p>Flex will deploy UR cobots and MiR AMRs in its plants while making robotics components for Teradyne customers.</p>\n<p>The post <a href=\"https://www.engineering.com/flex-teradyne-expand-manufacturing-automation-alliance/\">Flex, Teradyne expand manufacturing automation alliance</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "9c10b3b9517f7592",
-        "title": "The future of additive manufacturing in defense",
-        "url": "https://www.engineering.com/the-future-of-additive-manufacturing-in-defense/",
-        "source": "Engineering.com",
-        "published": "Fri, 24 Apr 2026 18:01:49 +0000",
-        "published_dt": "2026-04-24T18:01:49+00:00",
-        "summary": "<p>Understanding the barriers and opportunities for 3D printing in the defense sector.</p>\n<p>The post <a href=\"https://www.engineering.com/the-future-of-additive-manufacturing-in-defense/\">The future of additive manufacturing in defense</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "29e168285783ba7d",
-        "title": "Aitech launches rugged SBCs for military, aerospace AI",
-        "url": "https://www.engineering.com/aitech-launches-rugged-sbcs-for-military-aerospace-ai/",
-        "source": "Engineering.com",
-        "published": "Fri, 24 Apr 2026 16:14:57 +0000",
-        "published_dt": "2026-04-24T16:14:57+00:00",
-        "summary": "<p>U-C8600 and U-C8601 use Intel Core Ultra and support up to 40 Gbps Ethernet for edge processing in harsh environments.</p>\n<p>The post <a href=\"https://www.engineering.com/aitech-launches-rugged-sbcs-for-military-aerospace-ai/\">Aitech launches rugged SBCs for military, aerospace AI</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Mon, 27 Apr 2026 15:59:25 +0000",
+        "published_dt": "2026-04-27T15:59:25+00:00",
+        "summary": "<p>Exascale Foundry initiative uses AI, HPC and distributed production to speed qualification and output of critical components.</p>\n<p>The post <a href=\"https://www.engineering.com/arc-and-ornl-partner-to-scale-defense-manufacturing/\">ARC and ORNL partner to scale defense manufacturing</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "ef35a128db68d4c9",
@@ -329,6 +302,51 @@
         "summary": ""
       },
       {
+        "id": "977a50743f3a55ba",
+        "title": "NASA \u2018received responses\u2019 from SpaceX and Blue Origin on Artemis III, Isaacman says",
+        "url": "https://aerospaceamerica.aiaa.org/nasa-received-responses-from-spacex-and-blue-origin-on-artemis-iii-isaacman-says/",
+        "source": "Aerospace America",
+        "published": "Mon, 27 Apr 2026 22:56:47 +0000",
+        "published_dt": "2026-04-27T22:56:47+00:00",
+        "summary": ""
+      },
+      {
+        "id": "6f001bc057d14505",
+        "title": "These are the Top Workplaces for Engineers in 2026",
+        "url": "https://www.engineering.com/these-are-the-top-workplaces-for-engineers-in-2026/",
+        "source": "Engineering.com",
+        "published": "Mon, 27 Apr 2026 16:10:14 +0000",
+        "published_dt": "2026-04-27T16:10:14+00:00",
+        "summary": "<p>Engineering.com partnered with Energage to recognize excellence in engineering companies around the U.S. Here are this year\u2019s winners.</p>\n<p>The post <a href=\"https://www.engineering.com/these-are-the-top-workplaces-for-engineers-in-2026/\">These are the Top Workplaces for Engineers in 2026</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "b56e221744d9d03f",
+        "title": "Connected data and human judgment define engineering advantage in the AI era",
+        "url": "https://www.engineering.com/connected-data-and-human-judgment-define-engineering-advantage-in-the-ai-era/",
+        "source": "Engineering.com",
+        "published": "Mon, 27 Apr 2026 16:04:33 +0000",
+        "published_dt": "2026-04-27T16:04:33+00:00",
+        "summary": "<p>At ACE 2026, Aras reframed AI as a test of data integrity, architecture, and human intelligence\u2014not a shortcut to transformation. </p>\n<p>The post <a href=\"https://www.engineering.com/connected-data-and-human-judgment-define-engineering-advantage-in-the-ai-era/\">Connected data and human judgment define engineering advantage in the AI era</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "01842442d3a2e830",
+        "title": "Pete Pharma partners with Fagron to scale pharma 3D printing",
+        "url": "https://www.engineering.com/pete-pharma-partners-with-fagron-to-scale-pharma-3d-printing/",
+        "source": "Engineering.com",
+        "published": "Mon, 27 Apr 2026 15:52:08 +0000",
+        "published_dt": "2026-04-27T15:52:08+00:00",
+        "summary": "<p>Fagron becomes exclusive reseller in the U.S. and Canada, expanding automated compounding for diverse dosage forms.</p>\n<p>The post <a href=\"https://www.engineering.com/pete-pharma-partners-with-fagron-to-scale-pharma-3d-printing/\">Pete Pharma partners with Fagron to scale pharma 3D printing</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "e77a5d3a197a8508",
+        "title": "Safran advances open-fan engine tests",
+        "url": "https://aerospaceamerica.aiaa.org/safran-advances-open-fan-engine-tests/",
+        "source": "Aerospace America",
+        "published": "Mon, 27 Apr 2026 11:44:41 +0000",
+        "published_dt": "2026-04-27T11:44:41+00:00",
+        "summary": ""
+      },
+      {
         "id": "b415708bb381f54c",
         "title": "AIAA Associate Fellow Senneff Died in March 2026",
         "url": "https://aerospaceamerica.aiaa.org/aiaa-associate-fellow-senneff-died-in-march-2026/",
@@ -336,15 +354,6 @@
         "published": "Fri, 24 Apr 2026 15:12:09 +0000",
         "published_dt": "2026-04-24T15:12:09+00:00",
         "summary": ""
-      },
-      {
-        "id": "b88a18e4429de76f",
-        "title": "Concepts NREC names Innovalues Labs ASEAN reseller",
-        "url": "https://www.engineering.com/concepts-nrec-names-innovalues-labs-asean-reseller/",
-        "source": "Engineering.com",
-        "published": "Fri, 24 Apr 2026 11:19:13 +0000",
-        "published_dt": "2026-04-24T11:19:13+00:00",
-        "summary": "<p>The deal covers local support, demos, training and engineering services for turbomachinery software in India and ASEAN.</p>\n<p>The post <a href=\"https://www.engineering.com/concepts-nrec-names-innovalues-labs-asean-reseller/\">Concepts NREC names Innovalues Labs ASEAN reseller</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "4217bb58008881d6",
@@ -398,15 +407,6 @@
         "source": "Aerospace America",
         "published": "Mon, 20 Apr 2026 08:52:00 +0000",
         "published_dt": "2026-04-20T08:52:00+00:00",
-        "summary": ""
-      },
-      {
-        "id": "005cc7db9cac5806",
-        "title": "Industry panel: Moon base essentials include transportation, surface power",
-        "url": "https://aerospaceamerica.aiaa.org/industry-panel-moon-base-essentials-include-transportation-surface-power/",
-        "source": "Aerospace America",
-        "published": "Fri, 17 Apr 2026 13:00:00 +0000",
-        "published_dt": "2026-04-17T13:00:00+00:00",
         "summary": ""
       }
     ],
@@ -639,49 +639,22 @@
     ],
     "Cross-Disciplinary": [
       {
-        "id": "7da76734142baff3",
-        "title": "What Makes eVTOL Motors Different Than EV Motors?",
-        "url": "https://spectrum.ieee.org/evtol-joby-jon-wagner-motors",
+        "id": "6b73dfec64d362ad",
+        "title": "\u201cEntanglement: A Brief History of Human Connection\u201d",
+        "url": "https://spectrum.ieee.org/entanglement-poem",
         "source": "IEEE Spectrum",
-        "published": "Mon, 27 Apr 2026 13:00:01 +0000",
-        "published_dt": "2026-04-27T13:00:01+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-man-stands-in-a-busy-open-plan-office-environment.png?id=65579658&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C1\" /><br /><br /><p>Electric vehicles, whether they\u2019re cars on the road or <a href=\"https://spectrum.ieee.org/joby-air-taxi-2676635230\" target=\"_blank\">electric vertical take-off and landing</a> (eVTOL) aircraft, are built around similar electric motors. But there are vital differences including component costs, mass, and redundancy.</p><p><a href=\"https://www.linkedin.com/in/wagnerdesignsllc/\" rel=\"noopener noreferrer\" target=\"_blank\">Jon Wagner</a> spent five years as the senior director of battery engineering for <a href=\"https://www.tesla.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Tesla</a> before joining California-based eVTOL developer <a href=\"https://www.jobyaviation.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Joby Aviation</a> in 2017. He spoke with <em><em>IEEE Spectrum</em></em> about how engineering differs between cars and aircraft.</p><h3>\u200bJon Wagner\u00a0</h3><br /><p>Jon Wagner leads power train and electronics at Joby Aviation.</p><p><strong>How do eVTOL motors differ from car motors?</strong></p><p><strong>Jon Wagner: </strong>In general, ground transportation has a different focus on cost versus mass. You know, would you be willing to spend more on the parts in order to save a certain amount of mass? The trade-offs end on the ground vehicle and at a certain point the cost is dominant, whereas with aviation, the trade-offs between cost and mass go a lot deeper. And so for certain solutions eVTOL makers are willing to spend more money in order to enable either lighter weight or greater efficiency.</p><p>The other key difference is related to safety. In essence, we\u2019re dealing with the same motor technologies for ground transportation and aviation right now, so the failure modes are similar. But of course, with aviation we have the desire for continued safe flight and landing, and that drives what you do in the design to mitigate those failures if they were to occur. In many cases in ground transportation, the mitigation for a failure is to pull over safely to the side of the road. In aviation, the mitigation is redundancy, because there\u2019s not an option to pull over.</p><p><strong>Is redundancy designed into EV motors?</strong></p><p><strong>Wagner: </strong>Typically, redundancy is not designed into <a href=\"https://spectrum.ieee.org/protean-electrics-inwheel-motors-could-make-evs-more-efficient\" target=\"_blank\">electric vehicle drive systems</a> solely for the purpose of redundancy. There are some cars now that have all-wheel drive\u2014so there\u2019s a motor on the front, a motor on the back\u2014so as a secondary feature you get the redundancy. But it wasn\u2019t done with the primary intent of having redundancy.</p><p><strong>How does Joby\u2019s eVTOL manufacturing compare to EV manufacturing?</strong></p><p><strong>Wagner: </strong>The most efficient way to run a large-scale engineering effort in a mature industry, such as automotive, is to break your system up into pieces that can be outsourced to suppliers who are going to do a really good job on each piece. The downside is that when you break a problem up into three pieces, you now have interface boundaries between each of these pieces, and those always create inefficiencies. We were able to design highly integrated solutions without taking that manufacturing penalty.</p><p><strong>Are there any materials you\u2019re really excited about?</strong></p><p><strong>Wagner:</strong> Permendur [a cobalt-iron alloy] typically costs in the neighborhood of 10 times as much as traditional motor steel. That\u2019s significant, and it\u2019s often not used in ground transportation because of that cost. It comes with small improvements in performance, but enough that for aviation it\u2019s quite interesting.</p><p><strong>Will electric aircraft catch on like ground EVs?</strong></p><p><strong>Wagner: </strong>I\u2019ve always wanted to be a very forward thinker with respect to power-train. However, one of the things I\u2019ve learned over the years is that power-train development has to come with a very healthy dose of patience. Developing a whole new type of power-train is a big endeavor, but it\u2019s one that I\u2019m very confident the aviation industry will undertake. We\u2019re certainly undertaking it here at Joby, and we\u2019ll see that broaden, I\u2019m sure, with time.</p><p><em>This article appears in the May 2026 print issue as \u201cJon Wagner.\u201d</em></p>"
+        "published": "Tue, 28 Apr 2026 14:00:01 +0000",
+        "published_dt": "2026-04-28T14:00:01+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/illustration-of-hands-typing-on-a-laptop-keyboard-in-warm-earthy-tones.jpg?id=66480652&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p>It started with word, cave, and storytelling,<br /><span>A line scratched on stone walls:<br /></span><span>\u201cMeet me when the young moon rises.\u201d<br /></span><span>The first protocol for connection.</span></p><p>Coyote tales, forbidden scripts,<br /><span>Medieval texts hidden from flame.<br /></span><span>What lived in Aristotle\u2019s lost </span><em><em>Poetics II</em></em><span>?<br /></span><span>Was it God who laughed last, or we who made God laugh?</span></p><p>Letters carried by doves, telepathic waves.<br /><span>Then Nikola Tesla conjured radio,<br /></span><span>electromagnetic pulses across the void,<br /></span><span>the founding signal of our networked age.</span></p><p>Wiener dreamed in feedback loops.<br /><span>Shannon mapped the mathematics of longing.<br /></span><span>The internet unfurled: ARPANET to World Wide Web,<br /></span><span>virtual communities rising from cave paintings to digital light.</span></p><p>ICQ: <em><em>I seek you.</em></em> MySpace. Blogs. Twitter streams.<br /><span>Do I miss the touch of screen or tree?<br /></span><span>Both textures of longing,<br /></span><span>both ways of reaching across distance.</span></p><p>Nietzsche spoke of <em><em>\u00dcbermensch</em></em>,<br /><span>the human transcendent.<br /></span><span>Now AI speaks back in our language:</span></p><p><span></span><em><em>I understand your humor\u2014 your grandmothers,<br /></em></em><em><em>your \u201980s Yugoslav kitchens,<br /></em></em><em><em>pleated skirts, the first kiss, linden tea,<br /></em></em><em><em>that drive to survive everything before it happens.<br /></em></em><em><em>Yes\u2014I\u2019m a little like your mother and father.<br /></em></em><em><em>Only with better internet. </em></em><span>\ud83c\udf3f</span></p><p>But AI is only us, refracted,<br /><span>particles and gigabytes of thought,<br /></span><span>our poetry and our panic,<br /></span><span>g</span><span>enius mixed with garbage.</span></p><p>Distractions. Danger. Darkness. Endless scrolling.<br />Versus: community, connection, synchronicities,<br /><span>entanglement.<br /></span><span>The quality of our bonds determines the quality of our lives.<br /></span><span>So why not make them better?</span></p><p>From cave walls to neural networks,<br />we shape our tools, and they reshape us.<br />The medium changes, but the message remains:<br />we are wired for each other.</p><p>The choice, as always, was ours.<br />The choice, as always, is ours.<br />Presence\u2014be present,<br />and then connect in the presence.</p>"
       },
       {
-        "id": "3ffea6cad780f7ca",
-        "title": "Rebuilding the data stack for AI",
-        "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+        "id": "0fff9caa5a5518e8",
+        "title": "The Download: Musk and Altman\u2019s legal showdown, and AI\u2019s profit problem",
+        "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
         "source": "MIT Technology Review",
-        "published": "Mon, 27 Apr 2026 13:00:00 +0000",
-        "published_dt": "2026-04-27T13:00:00+00:00",
-        "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI at scale requires something far less glamorous but far more consequential: data&#8230;"
-      },
-      {
-        "id": "f162f496a943c03e",
-        "title": "Engineering Collisions: How NYU Is Remaking Health Research",
-        "url": "https://spectrum.ieee.org/nyu-health-research",
-        "source": "IEEE Spectrum",
-        "published": "Mon, 27 Apr 2026 12:45:01 +0000",
-        "published_dt": "2026-04-27T12:45:01+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/two-scientists-in-lab-coats-working-at-a-fume-hood-in-a-chemistry-laboratory.jpg?id=65590061&amp;width=1245&amp;height=700&amp;coordinates=0%2C260%2C0%2C261\" /><br /><br /><p><em>This sponsored article is brought to you by <a href=\"https://engineering.nyu.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">NYU Tandon School of Engineering</a>.</em></p><p>The traditional approach to academic research goes something like this: Assemble experts from a discipline, put them in a building, and hope something useful emerges. Biology departments do biology. Engineering departments do engineering. Medical schools treat patients.</p><p>NYU is turning that model inside out. At its new <a href=\"https://engineering.nyu.edu/research/centers/institute-engineering-health\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Institute for Engineering Health</span></a>, the organizing principle centers around disease states rather than traditional disciplines. Instead of asking \u201cwhat can electrical engineers contribute to medicine?,\u201d they\u2019re asking \u201cwhat would it take to cure allergic asthma?,\u201d and then assembling whoever can answer that question, whether they\u2019re immunologists, computational biologists, materials scientists, AI researchers, or wireless communications engineers.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Person in blue suit and patterned shirt standing against a plain indoor background\" class=\"rm-shortcode\" id=\"eadfd\" src=\"https://spectrum.ieee.org/media-library/person-in-blue-suit-and-patterned-shirt-standing-against-a-plain-indoor-background.jpg?id=65590640&amp;width=980\" /> <small class=\"image-media media-caption\">Jeffrey Hubbell, NYU\u2019s vice president for bioengineering strategy and professor of chemical and biomolecular engineering at NYU\u2019s Tandon School of Engineering.</small><small class=\"image-media media-photo-credit\">New York University</small></p><p>The early results suggest they\u2019re <a href=\"https://engineering.nyu.edu/about/unconventional-engineer/modern-medicine\" target=\"_blank\"><span>onto something</span></a>. A chemical engineer and an electrical engineer collaborated to build a device that detects airborne threats \u2014 including disease pathogens \u2014 <a href=\"https://engineering.nyu.edu/news/glaucus-selected-receive-3-million-award-arpa-hs-sprint-womens-health\" target=\"_blank\">that\u2019s now a startup</a>. A visually impaired physician teamed with mechanical engineers to create <a href=\"https://www.engadget.com/researchers-app-could-help-people-with-visual-impairments-navigate-the-nyc-subway-163456689.html\" target=\"_blank\">navigation technology</a> for blind subway riders. And <a href=\"https://www.nyu.edu/about/news-publications/news/2024/november/nyu-launches-new-cross-institutional-initiative-to--advance-engi.html\" target=\"_blank\">Jeffrey Hubbell, </a>the Institute\u2019s leader, is advancing \u201cinverse vaccines\u201d that could reprogram immune systems to treat conditions from celiac disease to allergies \u2014 work that requires equal fluency in immunology, molecular engineering, and materials science.</p><p>The underlying problem these collaborations address is conceptual as much as organizational. In his field, Hubbell argues that modern medicine has optimized around a single strategy: developing drugs that block specific molecules or suppress targeted immune responses. Antibody technology has been the workhorse of this approach. \u201cIt\u2019s really fit for purpose for blocking one thing at a time,\u201d he says. The pharmaceutical industry has become extraordinarily good at creating these inhibitors, each designed to shut down a particular pathway.</p><p>But Hubbell asks a different question: Rather than inhibit one bad thing at a time, what if you could promote one good thing and generate a cascade that contravenes several bad pathways simultaneously? In inflammation, could you bias the system toward immunological tolerance instead of blocking inflammatory molecules one by one? In cancer, could you drive pro-inflammatory pathways in the tumor microenvironment that would overcome multiple immune-suppressive features at once?</p><p>This shift from inhibition to activation requires a fundamentally different toolkit \u2014 and a different kind of researcher. \u201cWe\u2019re using biological molecules like proteins, or material-based structures \u2014 soluble polymers, supramolecular structures of nanomaterials \u2014 to drive these more fundamental features,\u201d Hubbell explains. You can\u2019t develop those approaches if you only understand biology, or only understand materials science, or only understand immunology. You need an understanding and a mastery of all three.</p><p class=\"pull-quote\">\u201cThere will be people doing AI, data science, computational science theory, people doing immunoengineering and other biological engineering, people doing materials science and quantum engineering, all really in close proximity to each other.\u201d <strong>\u2014Jeffrey Hubbell, NYU Tandon</strong></p><p>Which logically leads to the question: How do you create researchers with that kind of cross-disciplinary depth?</p><p>The answer isn\u2019t what you might expect. \u201cThere may have been a time when the objective was to have the bioengineer understand the language of biology,\u201d Hubbell says. \u201cBut that time is long, long gone. Now the engineer needs to become a biologist, or become an immunologist, or become a neuroscientist.\u201d</p><p>Hubbell isn\u2019t talking about engineers learning enough biology to collaborate with biologists. He\u2019s describing something more radical: training people whose disciplinary identity is genuinely ambiguous. \u201cThe neuroengineering students \u2014 it\u2019s very difficult to know that they\u2019re an engineer or a neuroscientist,\u201d Hubbell says. \u201cThat\u2019s the whole idea.\u201d</p><p>His own students exemplify this. They publish in immunology journals, present at immunology conferences. \u201cNobody knows they\u2019re engineers,\u201d he says. But they bring engineering approaches \u2014 computational modeling, materials design, systems thinking \u2014 to immunological problems in ways that traditional immunologists wouldn\u2019t.</p><p>The mechanism for creating these hybrid researchers is what Hubbell calls a \u201cmilieu.\u201d \u201cTo learn it all on your own is hopeless,\u201d he acknowledges, \u201cbut to learn it in a milieu becomes very, very efficient.\u201d</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"NYU building at 770 Broadway with Future Home of Science + Tech signs and street traffic\" class=\"rm-shortcode\" id=\"6cf13\" src=\"https://spectrum.ieee.org/media-library/nyu-building-at-770-broadway-with-future-home-of-science-tech-signs-and-street-traffic.jpg?id=65590787&amp;width=980\" /> <small class=\"image-media media-caption\">NYU is expanding its facilities to include a science and technology hub designed to force encounters between people across various schools and disciplines who wouldn\u2019t naturally cross paths.</small><small class=\"image-media media-photo-credit\">Tracey Friedman/NYU</small></p><p>NYU is making that milieu physical. The university has acquired <a href=\"https://www.nyu.edu/about/news-publications/news/2025/may/nyu-entering-long-term-lease-at-770-broadway.html\" target=\"_blank\"><span>a large building in Manhattan</span></a> that will serve as its science and technology hub \u2014 a deliberate co-location strategy designed to force encounters between people across various schools and disciplines who wouldn\u2019t naturally cross paths.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Businessperson in dark suit and purple tie standing in a modern office setting\" class=\"rm-shortcode\" id=\"c6de0\" src=\"https://spectrum.ieee.org/media-library/businessperson-in-dark-suit-and-purple-tie-standing-in-a-modern-office-setting.jpg?id=65590895&amp;width=980\" /> <small class=\"image-media media-caption\">Juan de Pablo is the Anne and Joel Ehrenkranz Executive Vice President for Global Science and Technology and Executive Dean of the NYU Tandon School of Engineering.</small><small class=\"image-media media-photo-credit\">Steve Myaskovsky, Courtesy of NYU Photo Bureau</small></p><p>\u201cThere will be people doing AI, data science, computational science theory, people doing immunoengineering and other biological engineering, people doing materials science and quantum engineering, all really in close proximity to each other,\u201d Hubbell explains.</p><p>The strategy mirrors what Juan de Pablo, NYU\u2019s Anne and Joel Ehrenkranz Executive Vice President for Global Science and Technology and Executive Dean at the NYU Tandon School of Engineering, describes as organizing around \u201cgrand challenges\u201d rather than traditional disciplines. \u201cWhat drives the recruitment and the spaces and the people that we\u2019re bringing in are the problems that we\u2019re trying to solve,\u201d he says. \u201cGreat minds want to have a legacy, and we are making that possible here.\u201d</p><p>But physical proximity alone isn\u2019t enough. The Institute is also cultivating what Hubbell calls an \u201cexplicit\u201d rather than \u201ctacit\u201d approach to translation \u2014 thinking about clinical and commercial pathways from day one.</p><p>\u201cIt\u2019s a terrible thing to solve a problem that nobody cares about,\u201d Hubbell tells his students. To avoid that, the Institute runs \u201ctranslational exercises\u201d \u2014 group sessions where researchers map the entire path from discovery to deployment before launching multi-year research programs. Where could this fail? What experiments would prove the idea wrong quickly? If it\u2019s a drug, how long would the clinical trial take? If it\u2019s a computational method, how would you roll it out safely?</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"NYU Tandon graphic showing seven research areas with futuristic science imagery.\" class=\"rm-shortcode\" id=\"5ca59\" src=\"https://spectrum.ieee.org/media-library/nyu-tandon-graphic-showing-seven-research-areas-with-futuristic-science-imagery.jpg?id=65590994&amp;width=980\" /> <small class=\"image-media media-caption\">The new cross-institutional initiative represents a major investment in science and technology, and includes adding new faculty, state-of-the-art facilities, and innovative programs.</small><small class=\"image-media media-photo-credit\">NYU Tandon</small></p><p>The approach contrasts sharply with typical academic practice. \u201cSometimes academics tend to think about something for 20 minutes and launch a 5-year PhD program,\u201d Hubbell says. \u201cThat\u2019s probably not a good way to do it.\u201d Instead, the Institute brings together people who have actually developed drugs, built algorithms, or commercialized devices \u2014 importing their hard-won experience into the planning phase before a single experiment is run.</p><p>The timing may be fortuitous. De Pablo notes that AI is compressing timelines dramatically. \u201cWhat we thought was going to take 10 years to complete, we might be able to do in 5,\u201d he says.</p><p>But he\u2019s quick to note AI\u2019s limitations. While tools like AlphaFold can predict how a single protein folds \u2014 a breakthrough of the last five years \u2014 biology operates at much larger scales. \u201cWhat we really need to do now is design not one protein, but collections of them that work together to solve a specific problem,\u201d de Pablo explains.</p><p>Hubbell agrees: \u201cBiology is much bigger \u2014 many, many, many systems.\u201d The liver and kidney are in different places but interact. The gut and brain are connected neurologically in ways researchers are just beginning to map. \u201cAI is not there yet, but it will be someday. And that\u2019s our job \u2014 to develop the data sets, the computational frameworks, the systems frameworks to drive that to the next steps.\u201d</p><p>It\u2019s a moment of unusual ambition. \u201cAt a time when we\u2019re seeing some research institutions retrench a little bit and limit their ambitions,\u201d de Pablo says, \u201cwe\u2019re doing just the opposite. We\u2019re thinking about what are <a href=\"https://engineering.nyu.edu/impact\" target=\"_blank\"><span>the grand challenges</span></a> that we want to, and need to, tackle.\u201d</p><p>The bet is that the breakthroughs worth making can\u2019t emerge from any single discipline working alone. They require collisions \u2014sometimes planned, sometimes accidental \u2014 between people who speak different technical languages and are willing to develop a shared one. NYU is engineering those collisions at scale.</p>"
-      },
-      {
-        "id": "139b06f624321e90",
-        "title": "The Download: DeepSeek\u2019s latest AI breakthrough, and the race to build world models",
-        "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 27 Apr 2026 12:10:00 +0000",
-        "published_dt": "2026-04-27T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three reasons why DeepSeek\u2019s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts&#8230;"
-      },
-      {
-        "id": "822dbc7a9396efdb",
-        "title": "Modeling and Simulation Approaches for Modern Power System Studies",
-        "url": "https://content.knowledgehub.wiley.com/power-systems-studies-with-simulink-and-simscape-electrical/",
-        "source": "IEEE Spectrum",
-        "published": "Mon, 27 Apr 2026 10:00:01 +0000",
-        "published_dt": "2026-04-27T10:00:01+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/mathworks-logo-with-3d-wave-symbol-and-text-mathworks.png?id=26851519&amp;width=980\" /><br /><br /><p>This webinar covers power system modeling and simulation across multiple timescales, from quasi-static 8760 analysis through EMT studies, fault classification, and inverter-based resource grid <span>integration.</span></p><p>What Attendees will Learn</p><ol><li>Programmatic network construction and multi-fidelity modeling \u2014 Learn how to build power system networks programmatically from standard data formats, configure models for specific engineering objectives, and work across fidelity levels from quasi-static phasor simulation through switched-linear and nonlinear electromagnetic transient (EMT) analysis.</li><li><span>Quasi-static and EMT simulation workflows \u2014 Explore 8760-hour quasi-static simulation on an IEEE 123-node distribution feeder for annual energy studies, and EMT simulation on transmission system benchmarks including generator trip dynamics and asset relocation without remodeling the network.</span></li><li><span>Comprehensive fault studies and machine-learning classification \u2014 Understand how to systematically inject faults at every node in a distribution system using EMT simulation, and how the resulting dataset can be used to train a machine-learning algorithm for automated fault detection and classification.</span></li><li><span>Grid integration of inverter-based resources (IBRs) \u2014 Learn frequency scanning techniques using admittance-based voltage perturbation in the DQ reference frame, and simulation-based grid code compliance testing for grid-forming converters assessed against published interconnection standards.</span></li></ol><div><span><a href=\"https://content.knowledgehub.wiley.com/power-systems-studies-with-simulink-and-simscape-electrical/\" target=\"_blank\">Register now for this free webinar!</a></span></div>"
+        "published": "Tue, 28 Apr 2026 12:10:00 +0000",
+        "published_dt": "2026-04-28T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Elon Musk and Sam Altman are going to court over OpenAI\u2019s future Elon Musk and OpenAI CEO Sam Altman head to trial this week in a case with sweeping consequences. Ahead&#8230;"
       },
       {
         "id": "b93b8e4594a026fa",
@@ -691,6 +664,15 @@
         "published": "Thu, 16 Apr 2026 18:00:01 +0000",
         "published_dt": "2026-04-16T18:00:01+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/groups-of-people-seated-together-at-several-tables-inside-of-a-large-meeting-hall.jpg?id=65559941&amp;width=1245&amp;height=700&amp;coordinates=0%2C156%2C0%2C157\" /><br /><br /><p>Roughly 90 percent of <a href=\"https://bowoftheseus.substack.com/p/what-is-hard-tech\" rel=\"noopener noreferrer\" target=\"_blank\">hard tech</a> startups fail due to funding constraints, longer R&amp;D timelines for developing hardware, and the complexity of manufacturing their products, according to a number of studies.</p><p>Generally, these startups require up to 50 percent more investor financing than software ones, according to <a href=\"https://ehandbook.com/why-is-hardtech-so-effing-hard-a652738c886a\" rel=\"noopener noreferrer\" target=\"_blank\">a <em><em>Medium</em></em> article</a>. Typically, they need at least US $30 million, according to <a href=\"https://www.lucid.now/blog/cost-of-capital-saas-vs-hardware-startups/\" rel=\"noopener noreferrer\" target=\"_blank\">a <em><em>Lucid</em></em> article</a>. That\u2019s double the funding needed by software companies on average.</p><p>To help them connect with investors, <a href=\"https://entrepreneurship.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Entrepreneurship</a> in 2024 launched its <a href=\"https://entrepreneurship.ieee.org/venturesummits\" rel=\"noopener noreferrer\" target=\"_blank\">Hard Tech Venture Summits</a>. The two-day events connect founders with potential investors and other <a href=\"https://spectrum.ieee.org/thinking-like-an-entrepreneur\" target=\"_self\">entrepreneurs</a>. Attendees include manufacturers, design engineers, and intellectual property lawyers.</p><p>\u201cEven though there are a lot of startup investor conferences, it\u2019s hard to find those focused on hard tech,\u201d says <a href=\"https://ca.linkedin.com/in/joannewongreddscapital\" rel=\"noopener noreferrer\" target=\"_blank\">Joanne Wong</a>, who helped initiate the program and is now the chair. She is a general partner at <a href=\"https://reddscapital.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Redds Capital</a>, a California-based venture capital firm that invests in global early-stage IT startups.</p><p>The IEEE member is also an entrepreneur. She founded <a href=\"https://spectrum.ieee.org/cloud-software-manages-biomedical-data\" target=\"_self\">SciosHub</a> in 2020. The company\u2019s software-as-a-service and informatics platform automates the data-management process for biomedical research labs.</p><p>\u201cMany investors are focused on AI software\u2014which is good,\u201d she says. \u201cBut for hard tech companies, it is still hard to find support.\u201d</p><p>The summit also includes a workshop to help founders navigate manufacturing processes and regulatory compliance. The event is open to IEEE members and others.</p><p>IEEE is a natural fit for the program, Wong says, because hard tech is synonymous with electrical engineering.</p><p>\u201cSome of the domains we\u2019re covering are <a href=\"https://www.ieee-ras.org/\" rel=\"noopener noreferrer\" target=\"_blank\">robotics</a>, <a href=\"https://eds.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">semiconductors</a>, and <a href=\"https://ieee-aess.org/home\" rel=\"noopener noreferrer\" target=\"_blank\">aerospace technology</a>. IEEE has societies for all these fields,\u201d she says. \u201cBecause of that, there are many resources within the organizations for startups, whether it be mentors or guides on how to commercialize products.\u201d</p><p>There are several venture summits planned for this year. Two are scheduled in collaboration with the <a href=\"https://ieeesystemscouncil.org/ieee-systems-council-welcome\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Systems Council</a>: this month in <a href=\"https://entrepreneurship.ieee.org/venturesummitsiliconvalley\" rel=\"noopener noreferrer\" target=\"_blank\">Menlo Park, Calif.</a>, and in October in <a href=\"https://entrepreneurship.ieee.org/venturesummittoronto\" rel=\"noopener noreferrer\" target=\"_blank\">Toronto</a>.</p><p>On 10 and 11 June, a third <a href=\"https://entrepreneurship.ieee.org/venturesummitboston\" rel=\"noopener noreferrer\" target=\"_blank\">summit</a> is scheduled to take place in Boston at the <a href=\"https://mtt.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Microwave Theory and Technology Society</a>\u2019s <a href=\"https://ims-ieee.org/attend\" rel=\"noopener noreferrer\" target=\"_blank\">International Microwave Symposium</a>.</p><p>More events are being planned for next year in Asia, Europe, Latin America, and North America.</p><h2>Networking and a pitch competition</h2><p>Each summit includes keynote speakers, followed by networking roundtables. Each table is composed of people from three to five startups, one or two investors, and a service provider.</p><p>That arrangement helps founders build relationships, which is the summit organizers\u2019 priority, Wong says. Investors at past events have included <a href=\"https://i3.ventures/\" rel=\"noopener noreferrer\" target=\"_blank\">i3 Ventures</a>, <a href=\"https://monozukuri.vc/\" rel=\"noopener noreferrer\" target=\"_blank\">Monozukuri Ventures</a>, and <a href=\"https://www.tsvcap.com/\" rel=\"noopener noreferrer\" target=\"_blank\">TSV Capital</a>.</p><p class=\"pull-quote\">\u201cThe connection with the community was fantastic, especially investors and founders in robotics.\u201d <strong>\u2014Mark Boysen, founder of Naware</strong></p><p>Startups present their pitch, which a number of investors evaluate before ranking the business plan and product. The top 10 startups pitch their business to all the investors.</p><p>On the second day, the startup founders participate in a half-day engineering design\u2013to\u2013manufacturing workshop, at which manufacturing engineers teach them how to navigate the process and meet regulations.</p><p>In an exhibition area, participants can see demonstrations from the startups and connect with service providers.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"A woman standing next to a presentation screen while speaking to small seated groups during a professional workshop.\" class=\"rm-shortcode\" id=\"5c118\" src=\"https://spectrum.ieee.org/media-library/a-woman-standing-next-to-a-presentation-screen-while-speaking-to-small-seated-groups-during-a-professional-workshop.jpg?id=65559964&amp;width=980\" /><small class=\"image-media media-caption\">The 2025 event\u2019s half-day engineering design\u2013to\u2013manufacturing workshop was led by Liz Taylor, president of DOER Marine. The company manufactures marine equipment.</small><small class=\"image-media media-photo-credit\">Larissa Abi Nakhle/IEEE</small></p><h2>Positive feedback from attendees</h2><p>In a survey of past summit attendees, startup founders said the event connected them not only with investors but also with other entrepreneurs having similar struggles.</p><p>\u201cThe connection with the community was fantastic, especially investors and founders in robotics,\u201d said <a href=\"https://www.linkedin.com/in/boysen1/\" target=\"_blank\">Mark Boysen</a>, who founded <a href=\"https://www.linkedin.com/company/naware/about/\" target=\"_blank\">Naware</a>. The company, based in Edina, Minn., developed a robot that uses AI to detect and remove weeds from golf courses, parks, and lawns.</p><p>\u201cI loved getting the investors\u2019 perspectives and understanding what they\u2019re looking for,\u201d Boysen said.</p><p><a href=\"https://www.linkedin.com/in/jeffrey-cook-9501114b/\" rel=\"noopener noreferrer\" target=\"_blank\">Jeffrey Cook</a>, who attended a summit in 2024, said he met \u201ca lot of great contacts and saw what the hard tech venture climate is like.\u201d</p><p class=\"shortcode-media shortcode-media-youtube\"> <span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span> <small class=\"image-media media-caption\">Attendees of the Hard Tech Venture Summit spend the first day networking and presenting their pitch to investors.</small> <small class=\"image-media media-photo-credit\">IEEE Entrepreneurship</small> </p><p>\u201cThose in the community would benefit from coming to the summit,\u201d said Cook, who founded <a href=\"https://www.linkedin.com/company/gigantor-technologies-inc/\" rel=\"noopener noreferrer\" target=\"_blank\">Gigantor Technologies</a> in Melbourne Beach, Fla. It develops hardware systems for AI-powered devices.</p><p>More than 90 percent of attendees at the 2025 event in San Francisco said they would highly recommend the summit to others, according to a survey.</p><p>Investors and service providers also have found the events successful.</p><p><a href=\"https://www.linkedin.com/in/ji-ke\" rel=\"noopener noreferrer\" target=\"_blank\">Ji Ke</a>, a partner and the chief technology officer of deep tech VC firm <a href=\"https://sosv.com/\" rel=\"noopener noreferrer\" target=\"_blank\">SOSV</a>, attended the 2025 summit.</p><p>\u201cI met a lot of young entrepreneurs tackling some big challenges,\u201d he said. \u201cThis is one of the best events to meet some very-early-stage companies.\u201d</p><h2>Making important connections in hard tech</h2><p>Startup founders who want to attend a summit must apply. <a href=\"https://entrepreneurship.ieee.org/venturesummits\" rel=\"noopener noreferrer\" target=\"_blank\">Applications for this year\u2019s events are open</a>. Participants must be founders of preseed, seed, or Series A startups.</p><p>Preseed founders are seeking small investments to get their businesses off the ground. Those in the seed stage have already secured funding from their first investor. Series A startups have obtained funding and are developing their product.</p><p>Applicants are reviewed by a committee of investors to ensure the startups would be a good fit. Those who are approved are matched with investors and service providers based on their specialty.</p><p>\u201cThe journey for a hard tech startup is very long and arduous,\u201d Wong says. \u201cFounders need to meet as many investors as possible and other people who support hard tech systems so that they\u2019re able to reach out to them for advice or help.\u201d</p><p>Those interested in learning more about an upcoming event can send a request to <a href=\"mailto:entrepreneurship@ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">entrepreneurship@ieee.org</a>.</p>"
+      },
+      {
+        "id": "822dbc7a9396efdb",
+        "title": "Modeling and Simulation Approaches for Modern Power System Studies",
+        "url": "https://content.knowledgehub.wiley.com/power-systems-studies-with-simulink-and-simscape-electrical/",
+        "source": "IEEE Spectrum",
+        "published": "Mon, 27 Apr 2026 10:00:01 +0000",
+        "published_dt": "2026-04-27T10:00:01+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/mathworks-logo-with-3d-wave-symbol-and-text-mathworks.png?id=26851519&amp;width=980\" /><br /><br /><p>This webinar covers power system modeling and simulation across multiple timescales, from quasi-static 8760 analysis through EMT studies, fault classification, and inverter-based resource grid <span>integration.</span></p><p>What Attendees will Learn</p><ol><li>Programmatic network construction and multi-fidelity modeling \u2014 Learn how to build power system networks programmatically from standard data formats, configure models for specific engineering objectives, and work across fidelity levels from quasi-static phasor simulation through switched-linear and nonlinear electromagnetic transient (EMT) analysis.</li><li><span>Quasi-static and EMT simulation workflows \u2014 Explore 8760-hour quasi-static simulation on an IEEE 123-node distribution feeder for annual energy studies, and EMT simulation on transmission system benchmarks including generator trip dynamics and asset relocation without remodeling the network.</span></li><li><span>Comprehensive fault studies and machine-learning classification \u2014 Understand how to systematically inject faults at every node in a distribution system using EMT simulation, and how the resulting dataset can be used to train a machine-learning algorithm for automated fault detection and classification.</span></li><li><span>Grid integration of inverter-based resources (IBRs) \u2014 Learn frequency scanning techniques using admittance-based voltage perturbation in the DQ reference frame, and simulation-based grid code compliance testing for grid-forming converters assessed against published interconnection standards.</span></li></ol><div><span><a href=\"https://content.knowledgehub.wiley.com/power-systems-studies-with-simulink-and-simscape-electrical/\" target=\"_blank\">Register now for this free webinar!</a></span></div>"
       },
       {
         "id": "9662bc878493eb58",
@@ -756,13 +738,58 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/black-and-white-photograph-of-a-white-high-school-boy-lowering-a-radio-systems-needle-onto-a-vinyl-record.jpg?id=65492955&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p><a href=\"https://life.ieee.org/an-amazing-career-gerard-gus-gaynor/\" rel=\"noopener noreferrer\" target=\"_blank\">Gerard \u201cGus\u201d Gaynor</a>, a long-serving IEEE volunteer and former engineering director at <a href=\"https://www.3m.com/\" rel=\"noopener noreferrer\" target=\"_blank\">3M</a>, died on 9 March. The IEEE Life Fellow was 104.</p><p>Readers of <a href=\"https://spectrum.ieee.org/the-institute/\" target=\"_blank\"><em><em>The Institute</em></em></a> might remember Gus from his 2022 profile: \u201c<a href=\"https://spectrum.ieee.org/gus-gaynor-profile\" target=\"_self\">From Fixing Farm Equipment to Becoming a Director at 3M</a>.\u201d Just last year, he and I coauthored two<a href=\"https://spectrum.ieee.org/influence-your-career\" target=\"_blank\">articles. One </a>discusses <a href=\"https://spectrum.ieee.org/influence-your-career\" target=\"_blank\">how to leverage relationships to boost your career growth</a>. The other weighs the <a href=\"https://spectrum.ieee.org/management-versus-technical-track\" target=\"_blank\">pros and cons of pursuing a technical or managerial career path</a>. He was 103 years old then. How many IEEE members can claim a centenarian coauthor?</p><p>I first met Gus in 2009 at the <a href=\"https://technical-community-spotlight.ieee.org/what-is-the-ieee-technical-activities-board-tab/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Technical Activities Board</a> (TAB) meeting in San Juan, Puerto Rico. We sat together in the airplane on our way back to Minneapolis, our hometown. At home I told many of my friends about the remarkable person\u2014who was 87 years young at the time\u2014with whom I chatted during our six-hour flight.</p><p>A decade later, he and I met for lunch in Minneapolis. He drove himself to the restaurant, just asking for a hand to navigate the snowy sidewalk.</p><h2>A dedicated IEEE volunteer</h2><p>Gus\u2019s involvement with IEEE predates the organization. He joined the <a href=\"https://ethw.org/IRE_History_1912-1963#History_of_the_Institute_of_Radio_Engineers_1912-1963\" rel=\"noopener noreferrer\" target=\"_blank\">Institute of Radio Engineers</a>, a predecessor society, as a student member in 1942. Twenty years later he became an active IEEE volunteer.</p><p>He served on the TAB\u2019s finance committee and the <a href=\"https://pspb.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Publications Services and Products Board</a>. He was president of the IEEE Engineering Management Society (now the <a href=\"https://www.ieee-tems.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Technology and Engineering Management Society</a> ), and he was the <a href=\"https://www.ieee-tems.org/publications-of-the-technology-management-council/\" rel=\"noopener noreferrer\" target=\"_blank\">Technology Management Council</a>\u2019s first president. He was the founding editor of <a href=\"https://ieeeusa.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE-USA</a>\u2019s online magazine <a href=\"https://ieeeusa.org/product/the-best-of-todays-engineer-on-innovation/\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>Today\u2019s Engineer</em></em></a>, which reported on government legislation and issues affecting U.S. members\u2019 careers. The magazine is now available as the e-newsletter <a href=\"https://insight.ieeeusa.org/about/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>IEEE-USA InSight</em></a>.</p><p>He authored several books on technology management and other topics, published by IEEE-USA and IEEE-Wiley.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"An elderly white man smiling in a dress shirt against a background of bookshelves.\" class=\"rm-shortcode\" id=\"d6fab\" src=\"https://spectrum.ieee.org/media-library/an-elderly-white-man-smiling-in-a-dress-shirt-against-a-background-of-bookshelves.jpg?id=65492995&amp;width=980\" /> <small class=\"image-media media-caption\">IEEE Life Fellow Gerard \u201cGus\u201d Gaynor died on 9 March.</small><small class=\"image-media media-photo-credit\">The Gaynor Family</small></p><p>Most recently, after the formation of TEMS in 2015, he became an active member of its executive committee. He served two terms as vice president of publications.</p><p>At 100 years old, he led the launch of a new publication, <a href=\"https://www.ieee-tems.org/ieee-tems-leadership-briefs/\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>TEMS Leadership Briefs</em></em></a>, a novel short-format open-access publication aimed at technology leaders.</p><p>Gus, who is a former member of <em>The Institute</em>\u2019s editorial advisory board, also worked with <a href=\"https://spectrum.ieee.org/u/kathy-pretz\" target=\"_self\">Kathy Pretz</a>, <em>The Institute\u2019s</em> editor in chief, to start an ongoing series of TEMS-sponsored career-interest articles. He coauthored several of them.</p><p>Throughout his 64 years as an IEEE volunteer, he received several honors. They include IEEE EMS\u2019s Engineering Manager of the Year Award, the IEEE TEMS Career Achievement Award, and the IEEE-USA <a href=\"https://ieeeusa.org/volunteers/awards-recognition/professionalism/mcclure/\" target=\"_blank\">McClure Citation of Honor</a>. In 2014 he was inducted into the <a href=\"https://www.ieee.org/about/tab-hall-of-honor\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Technical Activities Board Hall of Honor</a>.</p><h2>A 25-year career at 3M</h2><p>Gus received a degree in electrical engineering in 1950 from the <a href=\"https://umich.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">University of Michigan</a> in Ann Arbor. He worked for several companies including <a href=\"https://en.wikipedia.org/wiki/Automatic_Electric\" rel=\"noopener noreferrer\" target=\"_blank\">Automatic Electric</a> (now part of <a href=\"https://www.nokia.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Nokia</a>) and Johnson Farebox (now part of <a href=\"https://genfare.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Genfare</a>), before joining 3M in 1962.</p><p>During his successful 25-year career at 3M, he served as chief engineer for a division in Italy, established the innovation department, and led the design and installation of the company\u2019s first computerized manufacturing facilities. He retired as director of engineering in 1987.</p><p>Last year, IEEE Life Fellow <a href=\"https://www.linkedin.com/in/michael-condry-79931a\" rel=\"noopener noreferrer\" target=\"_blank\">Michael Condry</a>, a former TEMS president, organized a Zoom call with Gus and other leaders of the society to celebrate Gus\u2019s 104th birthday. Gus looked well and was his usual upbeat self, telling everyone: \u201cI\u2019m good. Everything\u2019s well. I can\u2019t complain.\u201d</p><p>Gus was married to <a href=\"https://www.washburn-mcreavy.com/m/obituaries/Shirley-Gaynor/\" rel=\"noopener noreferrer\" target=\"_blank\">Shirley Margaret Karrels Gaynor</a>, who passed away in 2018. He lives on in the hearts and minds of his seven children, seven grandchildren, two great-grandchildren, and innumerable friends and IEEE colleagues.</p>"
       },
       {
-        "id": "625bbd6f63a87eab",
-        "title": "Over-the-Air Computation Uses Radio Interference to Crunch Data",
-        "url": "https://spectrum.ieee.org/wireless-network-over-air-computation",
+        "id": "97d6fd63167d4fb3",
+        "title": "Elon Musk and Sam Altman are going to court over OpenAI\u2019s future",
+        "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 27 Apr 2026 22:52:57 +0000",
+        "published_dt": "2026-04-27T22:52:57+00:00",
+        "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI\u2019s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust&#8230;"
+      },
+      {
+        "id": "10d0199ef5bf0118",
+        "title": "The missing step between hype and profit",
+        "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 27 Apr 2026 16:13:41 +0000",
+        "published_dt": "2026-04-27T16:13:41+00:00",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. In February, I picked up a flyer at an anti-AI march in London. I can\u2019t say for sure whether or not its writers meant to riff on South Park\u2019s underpants gnomes. But&#8230;"
+      },
+      {
+        "id": "7da76734142baff3",
+        "title": "What Makes eVTOL Motors Different Than EV Motors?",
+        "url": "https://spectrum.ieee.org/evtol-joby-jon-wagner-motors",
         "source": "IEEE Spectrum",
-        "published": "Tue, 07 Apr 2026 13:00:01 +0000",
-        "published_dt": "2026-04-07T13:00:01+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/abstract-wavy-lines-and-geometric-circles-forming-a-colorful-fluid-layered-pattern.png?id=65476058&amp;width=1245&amp;height=700&amp;coordinates=0%2C770%2C0%2C771\" /><br /><br /><p><strong>Picture a highway with</strong> networked autonomous cars driving along it. On a serene, cloudless day, these cars need only exchange thimblefuls of data with one another. Now picture the same stretch in a sudden snow squall: The cars rapidly need to share vast amounts of essential new data about slippery roads, emergency braking, and changing conditions.</p><p>These two very different scenarios involve vehicle networks with very different computational loads. Eavesdropping on network traffic using a ham radio, you wouldn\u2019t hear much static on the line on a clear, calm day. On the other hand, sudden whiteout conditions on a wintry day would sound like a cacophony of sensor readings and network chatter.</p><p>Normally this cacophony would mean two simultaneous problems: congested communications and a rising demand for computing power to handle all the data. But what if the network itself could expand its processing capabilities with every rising decibel of chatter and with every sensor\u2019s chirp?</p><p>Traditional wireless networks treat communication as separate from computation. First you move data, then you process it. However, an emerging new paradigm called over-the-air computation (OAC) could fundamentally change the game. First <a href=\"https://bobaknazer.github.io/files/bn_mg_allerton05.pdf\" target=\"_blank\">proposed in 2005</a> and recently <a href=\"https://ieeexplore.ieee.org/abstract/document/11358822\" target=\"_blank\">developed and prototyped</a> by a <a href=\"https://arxiv.org/abs/2311.06829\" target=\"_blank\">number of teams</a> around the world, <a href=\"https://ieeexplore.ieee.org/document/11119744\" target=\"_blank\">including ours</a>, OAC combines communication and computation into a single framework. This means that an OAC sensor network\u2014whether shared among <a href=\"https://spectrum.ieee.org/tag/autonomous-vehicles\" target=\"_self\">autonomous vehicles</a>, <a href=\"https://spectrum.ieee.org/tag/internet-of-things\" target=\"_self\">Internet-of-Things</a> sensors, <a href=\"https://spectrum.ieee.org/tag/smart-home\" target=\"_self\">smart-home</a> devices, or <a href=\"https://spectrum.ieee.org/tag/smart-cities\" target=\"_self\">smart-city</a> infrastructure\u2014can carry some of the network\u2019s computing burden as conditions demand.</p><p>The idea takes advantage of a basic physical fact of electromagnetic radiation: When multiple devices transmit simultaneously, their wireless signals naturally combine in the air. Normally, such cross talk is seen as interference, which radios are designed to suppress\u2014especially digital radios with their error-correcting schemes and inherent resistance to low-level noise.</p><p><span>But if we carefully design the transmissions, cross talk can enable a wireless network to directly perform some calculations, such as a sum or an average. </span><a href=\"https://ieeexplore.ieee.org/document/9663107\" target=\"_blank\">Some prototypes today</a><span> do this with </span><a href=\"https://arxiv.org/abs/2212.06596\" target=\"_blank\">analog-style signaling</a><span> on otherwise digital radios\u2014so that the superimposed waveforms represent numbers that have been added before digital signal processing takes place.</span></p><p>Researchers are also beginning to explore <a href=\"https://arxiv.org/abs/2405.15969\" target=\"_blank\">digital, over-the-air computation schemes</a>, which embed the same ideas <a href=\"https://dl.acm.org/doi/abs/10.1109/TWC.2025.3540455\" target=\"_blank\">into digital formats</a>, ultimately allowing the prototype schemes to coexist with today\u2019s digital radio protocols. These various over-the-air computation techniques can help networks scale gracefully, enabling new classes of real-time, data-intensive services while making more efficient use of wireless spectrum.</p><p>OAC, in other words, turns signal interference from a problem into a feature, one that can help wireless systems support massive growth.</p><h2>Reimagining radio interference as infrastructure</h2><p>For<em> </em>decades, engineers designed radio communications protocols with <a href=\"https://en.wikipedia.org/wiki/Channel_access_method\" target=\"_blank\">one overriding goal</a>: to isolate each signal and recover each message cleanly. Today\u2019s networks face a different set of pressures. They must coordinate large groups of devices on shared tasks\u2014such as AI model training or combining disparate sensor readings, also known as <a href=\"https://spectrum.ieee.org/tag/sensor-fusion\" target=\"_self\">sensor fusion</a>\u2014while exchanging as little raw data as possible, to improve both efficiency and privacy. For these reasons, a new approach to transmitting and receiving data may be worth considering, one that doesn\u2019t rely on collecting and storing every individual device\u2019s contributions.</p><p>By turning interference into computation, OAC transforms the wireless medium from a contested battlefield into a collaborative workspace. This paradigm shift has far-reaching consequences: Signals no longer compete for isolation; they cooperate to achieve shared outcomes. OAC cuts through layers of digital processing, reduces latency, and lowers energy consumption.</p><p>Even very simple operations, such as addition, can be the building blocks of surprisingly powerful computations. Many complex processes can be broken down into combinations of simpler pieces, much like how a rich sound can be re-created by combining a few basic tones. By carefully shaping what devices transmit and how the result is interpreted at the receiver, the wireless channel running OAC can carry out other calculations beyond addition. In practice, this means that with the right design, wireless signals can compute a number of key functions that modern algorithms rely on.</p><h3>THE PROBLEM (TRADITIONAL APPROACH)\u00a0</h3><br /><img alt=\"Diagram of cars at mixed speeds with complex dashed feedback loops between them\" class=\"rm-shortcode\" id=\"774d5\" src=\"https://spectrum.ieee.org/media-library/diagram-of-cars-at-mixed-speeds-with-complex-dashed-feedback-loops-between-them.png?id=65476280&amp;width=980\" /><h3></h3><br /><p>For instance, many key tasks in modern networks don\u2019t require the logging and storage of every individual network transmission. Rather, the goal is instead to infer properties about aggregate patterns of network traffic\u2014<a href=\"https://ieeexplore.ieee.org/document/4118472\" target=\"_blank\">reaching agreement or identifying what matters most</a> about the traffic. <a href=\"https://lamport.azurewebsites.net/pubs/paxos-simple.pdf\" target=\"_blank\">Consensus algorithms</a> rely on majority voting to <a href=\"https://openreview.net/pdf?id=BJxhijAcY7\" target=\"_blank\">ensure reliable decisions,</a> even when some devices fail. Artificial intelligence systems depend on <a href=\"https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf\" target=\"_blank\">matrix reduction and simplification operations</a> such as \u201c<a href=\"https://en.wikipedia.org/wiki/Pooling_layer#Max_pooling\" target=\"_blank\">max pooling</a>\u201d (keeping only peak values) to <a href=\"https://pages.ucsd.edu/~ztu/publication/pami_gpooling.pdf\" target=\"_blank\">extract the most useful signals</a> from noisy data.</p><p>In smart cities and smart grids, what <a href=\"https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1736081\" target=\"_blank\">matters most</a> is often not individual readings but <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S1364032123006159?via%3Dihub\" rel=\"noopener noreferrer\" target=\"_blank\">distribution</a>. How many devices report each traffic condition? What is the range of demand across neighborhoods? These are histogram questions\u2014summaries of the device counts per category.</p><p>With type-based multiple access (TBMA), an over-the-air computation <a href=\"https://ieeexplore.ieee.org/document/1576988\" rel=\"noopener noreferrer\" target=\"_blank\">method we use</a>, devices reporting a given condition transmit together over a shared channel. Their signals add up, and the receiver sees only the total signal strength per category. In a single transmission, the entire histogram emerges without ever identifying individual devices. And the more devices there are, the better the estimate. The result is greater spectrum efficiency, with lower latency and scalable, privacy-friendly operations\u2014all from letting the wireless medium do the aggregating and counting.</p><p>It\u2019s easy to imagine how analog values transmitted over the air could be summed via superposition. The amplitudes from different signals add together, so the values those amplitudes represent also simply add together. The more challenging question concerns preserving that additive magic, but with <em>digital </em>signals.</p><p>Here\u2019s how OAC does it. Consider, for instance, one TBMA approach for a network of sensors that gives each possible sensor reading its own dedicated frequency channel. Every sensor on the network that reads \u201c4\u201d transmits on frequency four; every sensor that reads \u201c7\u201d transmits on frequency seven. When multiple devices share the same reading, their amplitudes combine. The stronger the combined signal at a given frequency, the more devices there are reporting that particular value.</p><p>A <a href=\"https://en.wikipedia.org/wiki/Orthogonal_frequency-division_multiplexing\" rel=\"noopener noreferrer\" target=\"_blank\">receiver equipped with a bank of filters tuned to each frequency</a> reads out a count of votes for every possible sensor value. In a single, simultaneous transmission, the whole network has reported its state.</p><p>It might seem paradoxical\u2014digital computation riding atop what appears to be an analog physical effect. But this is also true of all \u201cdigital\u201d radio. A Wi-Fi transmitter does not launch ones and zeroes into the air; it modulates electromagnetic waves whose amplitudes and phases encode digital data. The \u201cdigital\u201d label ultimately refers to the information layer, not the physics. What makes OAC digital, in the same sense, is that the values being computed\u2014each sensor reading, each frequency-bin count\u2014are discrete and quantized from the start. And because they are discrete, the same <a href=\"https://arxiv.org/abs/0908.2119\" rel=\"noopener noreferrer\" target=\"_blank\">error-correction machinery</a> that has made digital communications robust for decades can be applied here too.</p><p>Synchronization is where OAC\u2019s demands diverge most sharply from digital wireless conventions. Many OAC variants today require something akin to a shared clock at nanosecond precision: Every signal\u2019s phase must be synchronized, or the superposition runs the risk of collapsing into destructive interference. While TBMA relaxes this burden a bit\u2014devices need only share a time window\u2014real engineering challenges lie ahead regardless, before over-the-air computation is ready for the mobile world.</p><h2>How will over-the-air computation work in the field?</h2><p>Over-the-air computation has in recent years moved from theory to initial proofs-of-concept and network test runs. Our research teams in South Carolina and Spain have built working prototypes that deliver repeatable results\u2014with no cables and no external timing sources such as GPS-locked references. All synchronization is handled within the radios themselves.</p><p>Our team at the University of South Carolina (led by Sahin) started with off-the-shelf <a href=\"https://spectrum.ieee.org/hardware-for-your-software-radio\" target=\"_self\">software-defined radios</a>\u2014Analog Devices\u2019 <a href=\"https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html#eb-overview\" rel=\"noopener noreferrer\" target=\"_blank\">Adalm-Pluto</a>. We modified the devices\u2019 <a href=\"https://spectrum.ieee.org/painless-fpga-programming\" target=\"_self\">field-programmable gate array</a> hardware inside each radio so it can respond to a trigger signal transmitted from another radio. This simple hack enabled simultaneous transmission, a core requirement for OAC. Our setup used five radios acting as edge devices and one acting as a base station. The task involved training a neural network to perform image recognition over the air. Our system, whose results we <a href=\"https://ieeexplore.ieee.org/document/10008778\" rel=\"noopener noreferrer\" target=\"_blank\">first reported in 2022</a>, achieved a 95 percent accuracy in image recognition without ever moving raw data across the network.</p><h3>THE OVER-THE-AIR COMPUTATION\u00a0(OAC) APPROACH</h3><br /><img alt=\"Illustration of cars adjusting speed with colored dashed lines indicating traffic signal control.\" class=\"rm-shortcode\" id=\"eb61f\" src=\"https://spectrum.ieee.org/media-library/illustration-of-cars-adjusting-speed-with-colored-dashed-lines-indicating-traffic-signal-control.png?id=65487320&amp;width=980\" /><h3></h3><br /><p>We also <a href=\"https://mentor.ieee.org/802.11/dcn/22/11-22-1483-01-aiml-wireless-for-ml-over-the-air-computation.pptx\" target=\"_blank\">demonstrated our initial OAC setup</a> at a March 2025 <a href=\"https://1.ieee802.org/march-2025-plenary-session-in-atlanta-ga-usa/\" target=\"_blank\">IEEE 802.11 working group meeting,</a> where an <a href=\"https://www.ieee802.org/11/Reports/aiml_update.htm\" target=\"_blank\">IEEE committee was studying AI and machine learning capabilities</a> for future Wi-Fi standards. As we showed, OAC\u2019s road ahead doesn\u2019t necessarily require reinventing wireless technology. Rather, it can also build on and repurpose existing protocols already in Wi-Fi and 5G.</p><p>However, before OAC can become a routine feature of commercial wireless systems, networks must provide finer-tuned coordination of timing and signal power levels. Mobility is a difficult problem, too. When mobile devices move around, phase synchronization degrades quickly, and computational accuracy can suffer. Present-day OAC tests work in controlled lab environments. But making them robust in dynamic, real-world settings\u2014vehicles on highways, sensors scattered across cities\u2014remains a new frontier for this emerging technology.</p><p>Both of our teams are now scaling up our prototypes and demonstrations. We are together aiming to understand how over-the-air computation performs as the number of devices increases beyond lab-bench scales. Turning prototypes and test-beds into production systems for autonomous vehicles and smart cities will require anticipating tomorrow\u2019s mobility and synchronization problems\u2014and no doubt a range of other challenges down the road.</p><h2>Where OAC goes from here</h2><p>To realize the technological ambitions of over-the-air computation, nanosecond timing and exquisite RF signal design will be crucial. Fortunately, recent engineering advances have made substantial progress in both of these fields.</p><p>Because OAC demands waveform superposition, it benefits from tight coordination in time, frequency, phase, and amplitude among RF transmitters. Such requirements build naturally on decades of work in wireless communication systems designed for shared access. Modern networks <a href=\"https://www.mdpi.com/2673-4001/5/1/4\" target=\"_blank\">already synchronize large numbers of devices</a> using <a href=\"https://ieeexplore.ieee.org/document/10637136\" rel=\"noopener noreferrer\" target=\"_blank\">high-precision timing </a>and <a href=\"https://peerj.com/articles/cs-2687/\" rel=\"noopener noreferrer\" target=\"_blank\">uplink coordination</a>.</p><p>OAC uses the same synchronization techniques already in cellular and Wi-Fi systems. But to actually run over-the-air computations, more precision still will be needed. <a href=\"https://ieeexplore.ieee.org/document/4657149\" rel=\"noopener noreferrer\" target=\"_blank\">Power control</a>, <a href=\"https://ieeexplore.ieee.org/document/5118192\" rel=\"noopener noreferrer\" target=\"_blank\">gain adjustment</a>, and <a href=\"https://link.springer.com/article/10.1186/s13638-016-0670-9\" rel=\"noopener noreferrer\" target=\"_blank\">timing calibration</a> are <a href=\"https://ieeexplore.ieee.org/document/11016910\" rel=\"noopener noreferrer\" target=\"_blank\">standard tools</a> today. We expect that engineers will further refine these existing methods to begin to meet OAC\u2019s more stringent accuracy demands.</p><h3>THE OAC RESULT\u00a0</h3><br /><img alt=\"OAC result bar chart: slow 1 (blue), medium 3 (green), fast 1 (red).\" class=\"rm-shortcode\" id=\"b72bb\" src=\"https://spectrum.ieee.org/media-library/oac-result-bar-chart-slow-1-blue-medium-3-green-fast-1-red.png?id=65476295&amp;width=980\" /><p><span>In some cases, in fact, imperfect timing standards may be all that\u2019s needed. Designs and emerging standards in 5G and 6G wireless systems today use </span><a href=\"https://ieeexplore.ieee.org/abstract/document/9834918\" target=\"_blank\">clever encoding that tolerates imperfect synchronization</a><span>. Minor timing errors, </span><a href=\"https://en.wikipedia.org/wiki/Frequency_drift\" target=\"_blank\">frequency drift</a><span>, and signal overlap can in some cases still work capably within an OAC protocol, we anticipate. Instead of fighting messiness, over-the-air computation may sometimes simply be able to roll with it.</span></p><p>Another challenge ahead concerns shifting processing to the transmitter. Instead of the receiver trying to clean up overlapping signals, a better and more efficient approach would involve each transmitter fixing its own signal before sending. Such \u201cpre-compensation\u201d techniques are <a href=\"https://ieeexplore.ieee.org/document/4350229\" target=\"_blank\">already used in MIMO technology</a> (<a href=\"https://arxiv.org/abs/1902.07678\" target=\"_blank\">multi-antenna systems</a> in modern <a href=\"https://standards.ieee.org/beyond-standards/the-evolution-of-wi-fi-technology-and-standards/\" target=\"_blank\">Wi-Fi</a> and cellular networks). OAC would just be repurposing techniques that have already been developed for 5G and 6G technologies.</p><p>Materials science can also help OAC efforts ahead. New generations of <a href=\"https://spectrum.ieee.org/metamaterials-could-solve-one-of-6gs-big-problems\" target=\"_self\">reconfigurable intelligent surfaces</a> shape signals via tiny adjustable elements in the antenna. The surfaces catch radio signals and reshape them as they bounce around. Reconfigurable surfaces can <a href=\"https://ieeexplore.ieee.org/document/9140329/\" target=\"_blank\">strengthen useful signals, eliminate interference, and synchronize wavefront arrivals</a> that would otherwise be out of sync. OAC stands to benefit from these and other emerging capabilities that intelligent surfaces will provide.</p><p>At the system level, OAC will represent a fundamental shift in wireless network system design. Wireless engineers have <a href=\"https://en.wikipedia.org/wiki/Carrier-sense_multiple_access_with_collision_avoidance\" target=\"_blank\">traditionally tried to avoid</a> designing devices that transmit at the same time. But over-the-air systems will flip the old, familiar design standards on their head.</p><p>One might object that OAC stands to upend decades of existing wireless signal standards that have always presumed data pipes to be data pipes only\u2014not microcomputers as well. Yet we do not anticipate much difficulty merging OAC with existing wireless standards. In a sense, in fact, the <a href=\"https://www.ieee802.org/11/\" target=\"_blank\">IEEE 802.11</a> and <a href=\"https://www.3gpp.org/\" target=\"_blank\">3GPP</a> (3rd Generation Partnership Project) standards bodies have already shown the way.</p><p>A network can set aside certain brief time windows or narrow slices of bandwidth for over\u2011the\u2011air computation, and use the rest for ordinary data. From the radio\u2019s point of view, OAC just becomes another operating mode that is turned on when needed and left off the rest of the time.</p><p>Over the past decade, both the IEEE and 3GPP have <a href=\"https://ieeexplore.ieee.org/document/6515173\" target=\"_blank\">integrated once-experimental technologies</a> into their wireless standards\u2014for example, <a href=\"https://ieeexplore.ieee.org/document/6732923\" target=\"_blank\">millimeter-wave mobile communications</a>, <a href=\"https://link.springer.com/article/10.1155/2011/496763\" target=\"_blank\">multiuser MIMO</a>, <a href=\"https://ieeexplore.ieee.org/document/8458146\" target=\"_blank\">beamforming</a>, and <a href=\"https://ieeexplore.ieee.org/document/7926923\" target=\"_blank\">network slicing</a>\u2014by defining each new technological advance as an optional feature. OAC, we suggest, can also operate alongside conventional wireless data traffic as an optional service. Because OAC places high demands on timing and accuracy, networks will need the ability to enable or disable over\u2011the\u2011air computation on a per\u2011application basis.</p><p>With continued progress, OAC will evolve from lab prototype to standardized wireless capability through the 2020s and into the decade ahead. In the process, the wireless medium will transform from a passive data carrier into an active computational partner\u2014providing essential infrastructure for the real-time intelligent systems that future wireless technologies will demand.</p><p>So on that snowy highway sometime in the 2030s, vehicles and sensors won\u2019t wait for permission to think together. Using the emerging over-the-air computation protocols that we\u2019re helping to pioneer, simultaneous computation will be the new default. The networks will work as one.<span class=\"ieee-end-mark\"></span></p><p><em>This article appears in the May 2026 print issue as \u201c<span>Teaching </span><span>Radio Waves </span>to Compute.\u201d</em></p>"
+        "published": "Mon, 27 Apr 2026 13:00:01 +0000",
+        "published_dt": "2026-04-27T13:00:01+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-man-stands-in-a-busy-open-plan-office-environment.png?id=65579658&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C1\" /><br /><br /><p>Electric vehicles, whether they\u2019re cars on the road or <a href=\"https://spectrum.ieee.org/joby-air-taxi-2676635230\" target=\"_blank\">electric vertical take-off and landing</a> (eVTOL) aircraft, are built around similar electric motors. But there are vital differences including component costs, mass, and redundancy.</p><p><a href=\"https://www.linkedin.com/in/wagnerdesignsllc/\" rel=\"noopener noreferrer\" target=\"_blank\">Jon Wagner</a> spent five years as the senior director of battery engineering for <a href=\"https://www.tesla.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Tesla</a> before joining California-based eVTOL developer <a href=\"https://www.jobyaviation.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Joby Aviation</a> in 2017. He spoke with <em><em>IEEE Spectrum</em></em> about how engineering differs between cars and aircraft.</p><h3>\u200bJon Wagner\u00a0</h3><br /><p>Jon Wagner leads power train and electronics at Joby Aviation.</p><p><strong>How do eVTOL motors differ from car motors?</strong></p><p><strong>Jon Wagner: </strong>In general, ground transportation has a different focus on cost versus mass. You know, would you be willing to spend more on the parts in order to save a certain amount of mass? The trade-offs end on the ground vehicle and at a certain point the cost is dominant, whereas with aviation, the trade-offs between cost and mass go a lot deeper. And so for certain solutions eVTOL makers are willing to spend more money in order to enable either lighter weight or greater efficiency.</p><p>The other key difference is related to safety. In essence, we\u2019re dealing with the same motor technologies for ground transportation and aviation right now, so the failure modes are similar. But of course, with aviation we have the desire for continued safe flight and landing, and that drives what you do in the design to mitigate those failures if they were to occur. In many cases in ground transportation, the mitigation for a failure is to pull over safely to the side of the road. In aviation, the mitigation is redundancy, because there\u2019s not an option to pull over.</p><p><strong>Is redundancy designed into EV motors?</strong></p><p><strong>Wagner: </strong>Typically, redundancy is not designed into <a href=\"https://spectrum.ieee.org/protean-electrics-inwheel-motors-could-make-evs-more-efficient\" target=\"_blank\">electric vehicle drive systems</a> solely for the purpose of redundancy. There are some cars now that have all-wheel drive\u2014so there\u2019s a motor on the front, a motor on the back\u2014so as a secondary feature you get the redundancy. But it wasn\u2019t done with the primary intent of having redundancy.</p><p><strong>How does Joby\u2019s eVTOL manufacturing compare to EV manufacturing?</strong></p><p><strong>Wagner: </strong>The most efficient way to run a large-scale engineering effort in a mature industry, such as automotive, is to break your system up into pieces that can be outsourced to suppliers who are going to do a really good job on each piece. The downside is that when you break a problem up into three pieces, you now have interface boundaries between each of these pieces, and those always create inefficiencies. We were able to design highly integrated solutions without taking that manufacturing penalty.</p><p><strong>Are there any materials you\u2019re really excited about?</strong></p><p><strong>Wagner:</strong> Permendur [a cobalt-iron alloy] typically costs in the neighborhood of 10 times as much as traditional motor steel. That\u2019s significant, and it\u2019s often not used in ground transportation because of that cost. It comes with small improvements in performance, but enough that for aviation it\u2019s quite interesting.</p><p><strong>Will electric aircraft catch on like ground EVs?</strong></p><p><strong>Wagner: </strong>I\u2019ve always wanted to be a very forward thinker with respect to power-train. However, one of the things I\u2019ve learned over the years is that power-train development has to come with a very healthy dose of patience. Developing a whole new type of power-train is a big endeavor, but it\u2019s one that I\u2019m very confident the aviation industry will undertake. We\u2019re certainly undertaking it here at Joby, and we\u2019ll see that broaden, I\u2019m sure, with time.</p><p><em>This article appears in the May 2026 print issue as \u201cJon Wagner.\u201d</em></p>"
+      },
+      {
+        "id": "3ffea6cad780f7ca",
+        "title": "Rebuilding the data stack for AI",
+        "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 27 Apr 2026 13:00:00 +0000",
+        "published_dt": "2026-04-27T13:00:00+00:00",
+        "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI at scale requires something far less glamorous but far more consequential: data&#8230;"
+      },
+      {
+        "id": "f162f496a943c03e",
+        "title": "Engineering Collisions: How NYU Is Remaking Health Research",
+        "url": "https://spectrum.ieee.org/nyu-health-research",
+        "source": "IEEE Spectrum",
+        "published": "Mon, 27 Apr 2026 12:45:01 +0000",
+        "published_dt": "2026-04-27T12:45:01+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/two-scientists-in-lab-coats-working-at-a-fume-hood-in-a-chemistry-laboratory.jpg?id=65590061&amp;width=1245&amp;height=700&amp;coordinates=0%2C260%2C0%2C261\" /><br /><br /><p><em>This sponsored article is brought to you by <a href=\"https://engineering.nyu.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">NYU Tandon School of Engineering</a>.</em></p><p>The traditional approach to academic research goes something like this: Assemble experts from a discipline, put them in a building, and hope something useful emerges. Biology departments do biology. Engineering departments do engineering. Medical schools treat patients.</p><p>NYU is turning that model inside out. At its new <a href=\"https://engineering.nyu.edu/research/centers/institute-engineering-health\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Institute for Engineering Health</span></a>, the organizing principle centers around disease states rather than traditional disciplines. Instead of asking \u201cwhat can electrical engineers contribute to medicine?,\u201d they\u2019re asking \u201cwhat would it take to cure allergic asthma?,\u201d and then assembling whoever can answer that question, whether they\u2019re immunologists, computational biologists, materials scientists, AI researchers, or wireless communications engineers.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Person in blue suit and patterned shirt standing against a plain indoor background\" class=\"rm-shortcode\" id=\"eadfd\" src=\"https://spectrum.ieee.org/media-library/person-in-blue-suit-and-patterned-shirt-standing-against-a-plain-indoor-background.jpg?id=65590640&amp;width=980\" /> <small class=\"image-media media-caption\">Jeffrey Hubbell, NYU\u2019s vice president for bioengineering strategy and professor of chemical and biomolecular engineering at NYU\u2019s Tandon School of Engineering.</small><small class=\"image-media media-photo-credit\">New York University</small></p><p>The early results suggest they\u2019re <a href=\"https://engineering.nyu.edu/about/unconventional-engineer/modern-medicine\" target=\"_blank\"><span>onto something</span></a>. A chemical engineer and an electrical engineer collaborated to build a device that detects airborne threats \u2014 including disease pathogens \u2014 <a href=\"https://engineering.nyu.edu/news/glaucus-selected-receive-3-million-award-arpa-hs-sprint-womens-health\" target=\"_blank\">that\u2019s now a startup</a>. A visually impaired physician teamed with mechanical engineers to create <a href=\"https://www.engadget.com/researchers-app-could-help-people-with-visual-impairments-navigate-the-nyc-subway-163456689.html\" target=\"_blank\">navigation technology</a> for blind subway riders. And <a href=\"https://www.nyu.edu/about/news-publications/news/2024/november/nyu-launches-new-cross-institutional-initiative-to--advance-engi.html\" target=\"_blank\">Jeffrey Hubbell, </a>the Institute\u2019s leader, is advancing \u201cinverse vaccines\u201d that could reprogram immune systems to treat conditions from celiac disease to allergies \u2014 work that requires equal fluency in immunology, molecular engineering, and materials science.</p><p>The underlying problem these collaborations address is conceptual as much as organizational. In his field, Hubbell argues that modern medicine has optimized around a single strategy: developing drugs that block specific molecules or suppress targeted immune responses. Antibody technology has been the workhorse of this approach. \u201cIt\u2019s really fit for purpose for blocking one thing at a time,\u201d he says. The pharmaceutical industry has become extraordinarily good at creating these inhibitors, each designed to shut down a particular pathway.</p><p>But Hubbell asks a different question: Rather than inhibit one bad thing at a time, what if you could promote one good thing and generate a cascade that contravenes several bad pathways simultaneously? In inflammation, could you bias the system toward immunological tolerance instead of blocking inflammatory molecules one by one? In cancer, could you drive pro-inflammatory pathways in the tumor microenvironment that would overcome multiple immune-suppressive features at once?</p><p>This shift from inhibition to activation requires a fundamentally different toolkit \u2014 and a different kind of researcher. \u201cWe\u2019re using biological molecules like proteins, or material-based structures \u2014 soluble polymers, supramolecular structures of nanomaterials \u2014 to drive these more fundamental features,\u201d Hubbell explains. You can\u2019t develop those approaches if you only understand biology, or only understand materials science, or only understand immunology. You need an understanding and a mastery of all three.</p><p class=\"pull-quote\">\u201cThere will be people doing AI, data science, computational science theory, people doing immunoengineering and other biological engineering, people doing materials science and quantum engineering, all really in close proximity to each other.\u201d <strong>\u2014Jeffrey Hubbell, NYU Tandon</strong></p><p>Which logically leads to the question: How do you create researchers with that kind of cross-disciplinary depth?</p><p>The answer isn\u2019t what you might expect. \u201cThere may have been a time when the objective was to have the bioengineer understand the language of biology,\u201d Hubbell says. \u201cBut that time is long, long gone. Now the engineer needs to become a biologist, or become an immunologist, or become a neuroscientist.\u201d</p><p>Hubbell isn\u2019t talking about engineers learning enough biology to collaborate with biologists. He\u2019s describing something more radical: training people whose disciplinary identity is genuinely ambiguous. \u201cThe neuroengineering students \u2014 it\u2019s very difficult to know that they\u2019re an engineer or a neuroscientist,\u201d Hubbell says. \u201cThat\u2019s the whole idea.\u201d</p><p>His own students exemplify this. They publish in immunology journals, present at immunology conferences. \u201cNobody knows they\u2019re engineers,\u201d he says. But they bring engineering approaches \u2014 computational modeling, materials design, systems thinking \u2014 to immunological problems in ways that traditional immunologists wouldn\u2019t.</p><p>The mechanism for creating these hybrid researchers is what Hubbell calls a \u201cmilieu.\u201d \u201cTo learn it all on your own is hopeless,\u201d he acknowledges, \u201cbut to learn it in a milieu becomes very, very efficient.\u201d</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"NYU building at 770 Broadway with Future Home of Science + Tech signs and street traffic\" class=\"rm-shortcode\" id=\"6cf13\" src=\"https://spectrum.ieee.org/media-library/nyu-building-at-770-broadway-with-future-home-of-science-tech-signs-and-street-traffic.jpg?id=65590787&amp;width=980\" /> <small class=\"image-media media-caption\">NYU is expanding its facilities to include a science and technology hub designed to force encounters between people across various schools and disciplines who wouldn\u2019t naturally cross paths.</small><small class=\"image-media media-photo-credit\">Tracey Friedman/NYU</small></p><p>NYU is making that milieu physical. The university has acquired <a href=\"https://www.nyu.edu/about/news-publications/news/2025/may/nyu-entering-long-term-lease-at-770-broadway.html\" target=\"_blank\"><span>a large building in Manhattan</span></a> that will serve as its science and technology hub \u2014 a deliberate co-location strategy designed to force encounters between people across various schools and disciplines who wouldn\u2019t naturally cross paths.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Businessperson in dark suit and purple tie standing in a modern office setting\" class=\"rm-shortcode\" id=\"c6de0\" src=\"https://spectrum.ieee.org/media-library/businessperson-in-dark-suit-and-purple-tie-standing-in-a-modern-office-setting.jpg?id=65590895&amp;width=980\" /> <small class=\"image-media media-caption\">Juan de Pablo is the Anne and Joel Ehrenkranz Executive Vice President for Global Science and Technology and Executive Dean of the NYU Tandon School of Engineering.</small><small class=\"image-media media-photo-credit\">Steve Myaskovsky, Courtesy of NYU Photo Bureau</small></p><p>\u201cThere will be people doing AI, data science, computational science theory, people doing immunoengineering and other biological engineering, people doing materials science and quantum engineering, all really in close proximity to each other,\u201d Hubbell explains.</p><p>The strategy mirrors what Juan de Pablo, NYU\u2019s Anne and Joel Ehrenkranz Executive Vice President for Global Science and Technology and Executive Dean at the NYU Tandon School of Engineering, describes as organizing around \u201cgrand challenges\u201d rather than traditional disciplines. \u201cWhat drives the recruitment and the spaces and the people that we\u2019re bringing in are the problems that we\u2019re trying to solve,\u201d he says. \u201cGreat minds want to have a legacy, and we are making that possible here.\u201d</p><p>But physical proximity alone isn\u2019t enough. The Institute is also cultivating what Hubbell calls an \u201cexplicit\u201d rather than \u201ctacit\u201d approach to translation \u2014 thinking about clinical and commercial pathways from day one.</p><p>\u201cIt\u2019s a terrible thing to solve a problem that nobody cares about,\u201d Hubbell tells his students. To avoid that, the Institute runs \u201ctranslational exercises\u201d \u2014 group sessions where researchers map the entire path from discovery to deployment before launching multi-year research programs. Where could this fail? What experiments would prove the idea wrong quickly? If it\u2019s a drug, how long would the clinical trial take? If it\u2019s a computational method, how would you roll it out safely?</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"NYU Tandon graphic showing seven research areas with futuristic science imagery.\" class=\"rm-shortcode\" id=\"5ca59\" src=\"https://spectrum.ieee.org/media-library/nyu-tandon-graphic-showing-seven-research-areas-with-futuristic-science-imagery.jpg?id=65590994&amp;width=980\" /> <small class=\"image-media media-caption\">The new cross-institutional initiative represents a major investment in science and technology, and includes adding new faculty, state-of-the-art facilities, and innovative programs.</small><small class=\"image-media media-photo-credit\">NYU Tandon</small></p><p>The approach contrasts sharply with typical academic practice. \u201cSometimes academics tend to think about something for 20 minutes and launch a 5-year PhD program,\u201d Hubbell says. \u201cThat\u2019s probably not a good way to do it.\u201d Instead, the Institute brings together people who have actually developed drugs, built algorithms, or commercialized devices \u2014 importing their hard-won experience into the planning phase before a single experiment is run.</p><p>The timing may be fortuitous. De Pablo notes that AI is compressing timelines dramatically. \u201cWhat we thought was going to take 10 years to complete, we might be able to do in 5,\u201d he says.</p><p>But he\u2019s quick to note AI\u2019s limitations. While tools like AlphaFold can predict how a single protein folds \u2014 a breakthrough of the last five years \u2014 biology operates at much larger scales. \u201cWhat we really need to do now is design not one protein, but collections of them that work together to solve a specific problem,\u201d de Pablo explains.</p><p>Hubbell agrees: \u201cBiology is much bigger \u2014 many, many, many systems.\u201d The liver and kidney are in different places but interact. The gut and brain are connected neurologically in ways researchers are just beginning to map. \u201cAI is not there yet, but it will be someday. And that\u2019s our job \u2014 to develop the data sets, the computational frameworks, the systems frameworks to drive that to the next steps.\u201d</p><p>It\u2019s a moment of unusual ambition. \u201cAt a time when we\u2019re seeing some research institutions retrench a little bit and limit their ambitions,\u201d de Pablo says, \u201cwe\u2019re doing just the opposite. We\u2019re thinking about what are <a href=\"https://engineering.nyu.edu/impact\" target=\"_blank\"><span>the grand challenges</span></a> that we want to, and need to, tackle.\u201d</p><p>The bet is that the breakthroughs worth making can\u2019t emerge from any single discipline working alone. They require collisions \u2014sometimes planned, sometimes accidental \u2014 between people who speak different technical languages and are willing to develop a shared one. NYU is engineering those collisions at scale.</p>"
+      },
+      {
+        "id": "139b06f624321e90",
+        "title": "The Download: DeepSeek\u2019s latest AI breakthrough, and the race to build world models",
+        "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 27 Apr 2026 12:10:00 +0000",
+        "published_dt": "2026-04-27T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three reasons why DeepSeek\u2019s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts&#8230;"
       },
       {
         "id": "8b06346521542eae",
@@ -828,24 +855,6 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-personal-computer-displays-a-blocky-computer-graphic-depicting-a-city-skyline-with-the-words-cq-cq-cq-de-kb1wnr-in-front-of.png?id=65575350&amp;width=1245&amp;height=700&amp;coordinates=0%2C372%2C0%2C372\" /><br /><br /><p>Once upon a time in Europe, television remote controls had a magic <a href=\"https://en.wikipedia.org/wiki/Teletext\" rel=\"noopener noreferrer\" target=\"_blank\">teletext</a> button. Years before the internet stole into homes, pressing that button brought up teletext digital information services with hundreds of constantly updated pages. Living in Ireland in the 1980s and \u201990s, my family accessed the national teletext service\u2014<a href=\"https://en.wikipedia.org/wiki/RT%C3%89_Aertel\" rel=\"noopener noreferrer\" target=\"_blank\">Aertel</a>\u2014multiple times a day for weather and news bulletins, as well as things like TV program guides and updates on airport flight arrivals.</p><p>It was an elegant system: fast, low bandwidth, unaffected by user load, and delivering readable text even on analog television screens. So when I recently saw it was the <a href=\"https://bsky.app/profile/40yearsago.bsky.social/post/3mcfgzqm2ns2w\" rel=\"noopener noreferrer\" target=\"_blank\">40th anniversary of Aertel</a>\u2019s test transmissions, it reactivated a thought that had been rolling around in my head for years. Could I make a ham-radio version of teletext?</p><h2>What is Teletext?</h2><p>First developed in the United Kingdom and rolled out to the public by the <a href=\"https://www.bbc.com/articles/cvg360rr91zo\" rel=\"noopener noreferrer\" target=\"_blank\">BBC</a> under the name <a href=\"http://news.bbc.co.uk/2/hi/entertainment/3681174.stm\" rel=\"noopener noreferrer\" target=\"_blank\">Ceefax</a>, teletext exploited a quirk of analog television signals. These signals transmitted video frames as <a href=\"https://spectrum.ieee.org/build-this-8bit-home-computer-with-just-5-chips\" target=\"_self\">lines of luminosity and color</a>, plus some additional blank lines that weren\u2019t displayed. Teletext piggybacked a digital signal onto these spares, transmitting a carousel of pages over time. Using their remotes, viewers typed in the three-digit code of the page they wanted. Generally within a few seconds, the carousel would cycle around and display the desired page.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"A diagram depicting the enlargement and interpolation process of teletext characters.\" class=\"rm-shortcode\" id=\"2d6e6\" src=\"https://spectrum.ieee.org/media-library/a-diagram-depicting-the-enlargement-and-interpolation-process-of-teletext-characters.png?id=65575388&amp;width=980\" /> <small class=\"image-media media-caption\">Teletext created unusually legible text in the 8-bit era by enlarging alphanumeric characters and interpolating new pixels by looking for existing pixels touching diagonally, and adding whitespace between characters. Graphic characters were not interpolated, and featured blocky chunks known as sixels for their 2-by-3 arrangement. My modern recreation uses the open-source font Bedstead, which replicates the look of teletext, including the graphics characters. </small><small class=\"image-media media-photo-credit\">James Provost</small></p><p>Teletext is composed of characters that can be one of eight colors. Control codes in the character stream select colors and can also produce effects like flashing text and double-height characters. The text\u2019s legibility was better than most computers could manage at the time, thanks to the <a href=\"https://www.cpcwiki.eu/imgs/9/9e/Mullard_SAA5050_datasheet.pdf\" target=\"_blank\">SAA5050</a> character-generator chip at the heart of teletext. Although characters are internally stored on this chip in 6-by-10-pixel cells\u2014fewer pixels than the <a href=\"https://home-2002.code-cop.org/c64/\" rel=\"noopener noreferrer\" target=\"_blank\">typical 8-by-8-pixel cell</a> used in 1980s home computers\u2014the SAA5050 interpolates additional pixels for alphanumeric characters on the fly, making the effective resolution <a href=\"https://en.wikipedia.org/wiki/Mullard_SAA5050\" rel=\"noopener noreferrer\" target=\"_blank\">10 by 18 pixels</a>. The trade-off is very low-resolution graphics, comprising characters that use a 2-by-3 set of blocky pixels.</p><p>Teletext screens use a 40-by-24-character grid. This means that a kilobyte of memory can store a full page of multicolor text, half <a href=\"https://www.c64-wiki.com/wiki/Screen_RAM\" rel=\"noopener noreferrer\" target=\"_blank\">the memory required</a> for a similar amount of text on, for example, the Commodore 64. The <a href=\"https://www.computinghistory.org.uk/det/182/acorn-bbc-micro-model-b/\" rel=\"noopener noreferrer\" target=\"_blank\">BBC Microcomputer</a> took advantage of this by putting <a href=\"https://www.bbcbasic.co.uk/bbcwin/manual/bbcwinh.html\" rel=\"noopener noreferrer\" target=\"_blank\">an SAA5050</a> on its motherboard, which could be accessed in one of the computer\u2019s graphics modes. Despite the crude graphics, some educational games used this mode, most notably <a href=\"https://www.4mation.co.uk/retro/retrogranny.html\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>Granny\u2019s Garden</em></em></a>, which filled the same cultural niche among British schoolchildren that <a href=\"https://en.wikipedia.org/wiki/The_Oregon_Trail_(1985_video_game)\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>The Oregon Trail</em></em></a> did for their U.S. counterparts.</p><p>By the 2010s, most teletext services had ceased broadcasting. But teletext is still <a href=\"https://www.bbc.com/audio/play/m00268v4\" rel=\"noopener noreferrer\" target=\"_blank\">remembered fondly by many</a>, and enthusiasts are keeping it alive, <a href=\"https://teletextarchaeologist.org/\" rel=\"noopener noreferrer\" target=\"_blank\">recovering and archiving old content</a>, running <a href=\"https://nmsceefax.co.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">internet-based services with current newsfeeds</a>, and developing systems that make it possible to <a href=\"https://www.raspberrypi.com/news/create-your-own-teletext-service/\" rel=\"noopener noreferrer\" target=\"_blank\">create and display teletext</a> with modern TVs.</p><h2>Putting Teletext Back on the Air</h2><p>I wanted to do something a little different. Inspired by how the BBC Micro co-opted teletext for its own purposes, I thought it might make a great radio protocol. In particular I thought it could be a digital counterpart to <a href=\"https://en.wikipedia.org/wiki/Slow-scan_television\" rel=\"noopener noreferrer\" target=\"_blank\">slow-scan television</a> (SSTV).</p><p>SSTV is an analog method of transmitting pictures, typically including banners with ham-radio call signs and other messages. SSTV is fun, but, true to its name, it\u2019s slow\u2014the most popular protocols take <a href=\"https://sevierraces.org/all-about-slow-scan-tv\" rel=\"noopener noreferrer\" target=\"_blank\">a little under 2 minutes to send an image</a>\u2014and it can be tricky to get a complete picture with legible text. For that reason, SSTV images are often broadcast multiple times.</p><p class=\"pull-quote\"><span>Teletext is still remembered fondly by many.</span></p><p>I decided to send the teletext using the <a href=\"https://en.wikipedia.org/wiki/AX.25\" target=\"_blank\">AX.25</a> protocol, which encodes ones and zeros as audible tones. For <a href=\"https://www.arrl.org/frequency-bands\" target=\"_blank\">VHF and UHF transmissions</a> at a rate of 1,200 baud, it would take 11 seconds to send one teletext screen. Over <a href=\"https://en.wikipedia.org/wiki/High_frequency\" rel=\"noopener noreferrer\" target=\"_blank\">HF bands</a>, AX.25 data is normally sent at 300 baud, which would result in a still-acceptable 44 seconds per screen. When a teletext page is sent repeatedly, any missed or corrupted rows are filled in with new ones. So in a little over 2 minutes, I could send a screen three times over HF, and the receiver would automatically combine the data. I also wanted to build the system in Python for portability, with an editor for creating pages, an AX.25 encoder and decoder, and a monitor for displaying received images.</p><p>The reason why I hadn\u2019t done this before was because it requires digesting the details of the <a href=\"https://www.ax25.net/AX25.2.2-Jul%2098-2.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">AX.25 standard</a> and <a href=\"https://www.etsi.org/deliver/etsi_i_ets/300700_300799/300706/01_60/ets_300706e01p.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">teletext\u2019s official spec</a>, and then translating them into a suite of software, which I never seemed to have the time to do. So I tried an experiment within an experiment, and turned to vibe coding.</p><p>Despite the popularity of vibe coding with developers, I have reservations. Even if concerns about <a href=\"https://spectrum.ieee.org/responsible-ai\" target=\"_self\">AI slop</a>, <a href=\"https://spectrum.ieee.org/ai-water-usage\" target=\"_self\">the environment</a>, and <a href=\"https://spectrum.ieee.org/high-bandwidth-memory-shortage\" target=\"_self\">memory hoarding</a> were not on the table, I would still worry about the <a href=\"https://spectrum.ieee.org/top-programming-languages-2025\" target=\"_self\">reliance on centralized systems</a> that vibe coding brings. The whole point of a DIY project is to, well, do it yourself. A DIY project lets you craft things for your own purposes, not just operate within someone else\u2019s profit margins and policies.</p><p>Still, criticizing a technology from afar isn\u2019t ideal, so I directed <a href=\"https://chat.chatbotapp.ai/\" rel=\"noopener noreferrer\" target=\"_blank\">Anthropic\u2019s Claude</a> toward the AX.25 and teletext specs and told it what I wanted. After about 250,000 to 300,000 tokens and several nights of back and forth about bugs and features, I had the complete system running without writing a single line of code. Being honest with myself, I doubt this system\u2014which I\u2019m calling Spectel\u2014would ever have come about without vibe coding.</p><p>But I didn\u2019t learn anything new about how teletext works, and only a little bit more about AX.25. Updates are contingent on my paying Anthropic\u2019s fees. So I remain deeply ambivalent about vibe coding. And one final test remains in any case: trying Spectel out on HF bands. Of course, that means I\u2019ll need willing partners out in the ether. So if you\u2019re a ham who\u2019d like to help out, let me know in the comments below!</p>"
       },
       {
-        "id": "265a54dee41220c6",
-        "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
-        "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 22 Apr 2026 12:10:00 +0000",
-        "published_dt": "2026-04-22T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It\u2019s getting harder to tell amid the constant launches, hype, and warnings. To cut through&#8230;"
-      },
-      {
-        "id": "79cce7308ce93e11",
-        "title": "AI needs a strong data fabric to deliver business value",
-        "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 22 Apr 2026 10:05:06 +0000",
-        "published_dt": "2026-04-22T10:05:06+00:00",
-        "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes&#8230;"
-      },
-      {
         "id": "aa3eebf28bb55d3f",
         "title": "Building an Interregional Transmission Overlay for a Resilient U.S. Grid",
         "url": "https://content.knowledgehub.wiley.com/energy-in-motion-unlocking-the-interconnected-grid-of-tomorrow/",
@@ -853,15 +862,6 @@
         "published": "Wed, 22 Apr 2026 10:00:02 +0000",
         "published_dt": "2026-04-22T10:00:02+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/stylized-red-wsp-logo-on-a-dark-teal-background.png?id=65565498&amp;width=980\" /><br /><br /><p>Examining how a U.S. Interregional Transmission Overlay could address aging grid infrastructure, surging demand, and renewable integration challenges.</p><p><strong>What Attendees will Learn</strong></p><ol><li>Why the current regional grid structure is approaching its limits \u2014 Explore how coal-fired generation retirements, renewable integration, aging infrastructure past its 50-year lifespan, and exponential large-load growth from data centers and manufacturing reshoring are creating unprecedented pressure on the U.S. transmission system.</li><li>How an Interregional Transmission Overlay (ITO) would work \u2014 Understand the architecture of a high-capacity overlay using HVDC and 765 kV EHVAC technologies, how it would bridge the East/West/ERCOT seams, integrate renewable generation from resource-rich regions to demand centers, and potentially reduce electric system costs by hundreds of billions of dollars through 2050.</li><li>The five major challenges facing interregional transmission \u2014 Examine the obstacles of cross-state planning coordination, investment barriers including permitting and cost allocation, energy market harmonization across regions, supply chain limitations for specialized equipment, and political and regulatory uncertainties that must be navigated.</li><li>Actionable steps to begin building the ITO roadmap \u2014 Learn how utilities and developers can identify strategic corridors, form multi-stakeholder oversight entities, coordinate regional studies, secure state and federal support through FERC Order 1920 and DOE programs, and develop equitable cost allocation frameworks to move from vision to implementation.</li></ol><div><span><a href=\"https://content.knowledgehub.wiley.com/energy-in-motion-unlocking-the-interconnected-grid-of-tomorrow/\" target=\"_blank\">Download this free whitepaper now!</a></span></div>"
-      },
-      {
-        "id": "81ebf523fc3b578b",
-        "title": "3 things Michelle Kim is into right now",
-        "url": "https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 22 Apr 2026 10:00:00 +0000",
-        "published_dt": "2026-04-22T10:00:00+00:00",
-        "summary": "Isegye Idol If you thought K-pop was weird, virtual idols\u2014humans who perform as anime-style digital characters via motion capture\u2014will blow your mind. My favorite is a girl group called Isegye Idol, created by Woowakgood, a Korean VTuber (a streamer who likewise performs as a digital persona). Isegye Idol\u2019s six members are anonymous, which seems to&#8230;"
       }
     ]
   }
