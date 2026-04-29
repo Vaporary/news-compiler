@@ -1,33 +1,168 @@
 {
-  "generated_at": "2026-04-28T14:28:57.004408+00:00",
+  "generated_at": "2026-04-29T14:16:39.963031+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "29f9b947e26c7c8e",
-        "title": "STAT+: Boehringer\u2019s obesity drug shows 16.6% weight loss; more data needed",
-        "url": "https://www.statnews.com/2026/04/28/biotech-news-boehringer-drug-looks-efficacious-but-more-data-needed/?utm_campaign=rss",
+        "id": "d84267083be997f6",
+        "title": "STAT+: A patent win for Pfizer and BridgeBio",
+        "url": "https://www.statnews.com/2026/04/29/biotech-news-a-patent-win-for-pfizer-and-bridgebio/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 28 Apr 2026 13:36:22 +0000",
-        "published_dt": "2026-04-28T13:36:22+00:00",
-        "summary": "Eli Lilly's deal with Profluent, Erasca's RAS-targeting cancer pill, and more biotech news today"
+        "published": "Wed, 29 Apr 2026 13:43:25 +0000",
+        "published_dt": "2026-04-29T13:43:25+00:00",
+        "summary": "A change to FDA clinical trial data review, Rocket sells its priority review voucher, and more biotech news from The Readout"
       },
       {
-        "id": "c455621dca80466d",
-        "title": "STAT+: Google\u2019s clinical director on AI challenges",
-        "url": "https://www.statnews.com/2026/04/28/googles-clinical-director-on-ai-chatbot-challenges-health-tech/?utm_campaign=rss",
+        "id": "da7f0d1ac306e0b5",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about the FDA speeding up trials, a Supreme Court hearing on \u2018skinny labels,\u2019 and more",
+        "url": "https://www.statnews.com/pharmalot/2026/04/29/fda-plan-to-speed-clinical-trials-supreme-court-skinny-labels/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 28 Apr 2026 13:24:51 +0000",
-        "published_dt": "2026-04-28T13:24:51+00:00",
-        "summary": "In this edition of STAT Health Tech newsletter: a conversation with Google's clinical director, an update on Doctronic's Utah experiment, and more."
+        "published": "Wed, 29 Apr 2026 13:09:22 +0000",
+        "published_dt": "2026-04-29T13:09:22+00:00",
+        "summary": "The FDA announced efforts to make clinical trials more efficient, starting by reviewing data in real time from trials conducted by AstraZeneca and Amgen"
       },
       {
-        "id": "46496d32de2f0ec5",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about warnings over Trump\u2019s MFN plan, Purdue Pharma sentencing, and more",
-        "url": "https://www.statnews.com/pharmalot/2026/04/28/warnings-over-trump-drug-pricing-plan-purdue-pharma-sentencing/?utm_campaign=rss",
+        "id": "0cb01a5dc7d2b9c4",
+        "title": "The Download: storing nuclear waste and orchestrating agents",
+        "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 29 Apr 2026 12:10:00 +0000",
+        "published_dt": "2026-04-29T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. It\u2019s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum. Public approval has spiked, and Big Tech is throwing money around to&#8230;"
+      },
+      {
+        "id": "70b3ab79b2be4e27",
+        "title": "Food safety experts warn of USDA brain drain",
+        "url": "https://www.statnews.com/2026/04/29/health-news-food-safety-experts-warn-usda-brain-drain/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 28 Apr 2026 13:18:17 +0000",
-        "published_dt": "2026-04-28T13:18:17+00:00",
-        "summary": "The Novartis CEO warned that Trump's drug pricing policy poses a \u201cvery difficult situation\u201d and the reality will soon catch up with drugmakers and patients"
+        "published": "Wed, 29 Apr 2026 11:51:50 +0000",
+        "published_dt": "2026-04-29T11:51:50+00:00",
+        "summary": "An autism advisory committee finally meets again, antipsychotics and dementia, and more health news from Morning Rounds"
+      },
+      {
+        "id": "b81354f40615c570",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-scraps-flap-inhibitor-flunked-phase-2-asthma-trial\" hreflang=\"en\">AstraZeneca scraps FLAP inhibitor after flunking phase 2 asthma trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-scraps-flap-inhibitor-flunked-phase-2-asthma-trial",
+        "source": "Fierce Biotech",
+        "published": "Apr 29, 2026 8:39am",
+        "published_dt": "2026-04-29T08:39:00+00:00",
+        "summary": "AstraZeneca has scrapped an asthma program after the FLAP inhibitor flunked a phase 2 trial."
+      },
+      {
+        "id": "05039c77154f6c6b",
+        "title": "Opinion: STAT+: Did Kennedy just stack the deck on FDA oversight of peptides?",
+        "url": "https://www.statnews.com/2026/04/29/rfk-jr-peptides-upcoming-fda-policy-shift-compounding-drugs/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 29 Apr 2026 08:30:00 +0000",
+        "published_dt": "2026-04-29T08:30:00+00:00",
+        "summary": "RFK Jr. had long signaled that he was going to do something big on peptides. Now the moment has arrived."
+      },
+      {
+        "id": "1ad4a41054317f25",
+        "title": "STAT+: FDA launches effort to speed up clinical trials, using AI",
+        "url": "https://www.statnews.com/2026/04/28/fda-real-time-clinical-trials-pilot-project-astrazeneca-amgen-cancer-drugs/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 28 Apr 2026 19:24:35 +0000",
+        "published_dt": "2026-04-28T19:24:35+00:00",
+        "summary": "Monitoring trials in real time may help shorten the time interval between trial phases."
+      },
+      {
+        "id": "0157779a9e5fae34",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/which-blockbuster-gsk-gunning-next-ceo-miels-points-looking-oncology\" hreflang=\"en\">Which blockbuster is GSK gunning for next? CEO Miels is looking to oncology</a>",
+        "url": "https://www.fiercebiotech.com/biotech/which-blockbuster-gsk-gunning-next-ceo-miels-points-looking-oncology",
+        "source": "Fierce Biotech",
+        "published": "Apr 29, 2026 7:00am",
+        "published_dt": "2026-04-29T07:00:00+00:00",
+        "summary": "When it comes to GSK\u2019s new dealmaking strategy of trying to outdo established blockbusters, CEO Luke Miels has told Fierce that oncology may offer the most tempting targets."
+      },
+      {
+        "id": "f66871a5821871ff",
+        "title": "Opinion: FDA commissioner: \u2018Smarter,\u2019 real-time clinical trials could transform drug development",
+        "url": "https://www.statnews.com/2026/04/28/fda-clinical-trial-endpoints-real-time-drug-development/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 28 Apr 2026 17:30:00 +0000",
+        "published_dt": "2026-04-28T17:30:00+00:00",
+        "summary": "\u201cFor the first time, FDA regulators will be able to see what\u2019s happening in a clinical trial, looking at endpoints in the cloud as they occur,\u201d writes FDA commissioner."
+      },
+      {
+        "id": "cc7be4f3f326a367",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-restarts-300m-investment-england-merck-not-budging\" hreflang=\"en\">AstraZeneca restarts $300M investment in UK, but Merck not budging</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-restarts-300m-investment-england-merck-not-budging",
+        "source": "Fierce Biotech",
+        "published": "Apr 29, 2026 9:34am",
+        "published_dt": "2026-04-29T09:34:00+00:00",
+        "summary": "AstraZeneca has announced it will resume a $300 million investment program in the U.K., seven months after freezing the plans in frustration at national government drug pricing negotiations."
+      },
+      {
+        "id": "4ed70773e249fa0a",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-unveils-plan-real-time-review-clinical-trial-data-astrazeneca-and-amgen-already-board\" hreflang=\"en\">FDA unveils plan for real-time review of clinical trial data, with AstraZeneca and Amgen already on board</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-unveils-plan-real-time-review-clinical-trial-data-astrazeneca-and-amgen-already-board",
+        "source": "Fierce Biotech",
+        "published": "Apr 28, 2026 1:23pm",
+        "published_dt": "2026-04-28T13:23:00+00:00",
+        "summary": "The FDA today announced a new initiative to allow its reviewers to access information from clinical trials in real time, with two major industry players already taking part in a pilot program."
+      },
+      {
+        "id": "a37cd1e9c389f7bf",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-walks-away-100m-bet-mersana-sting-adc-pauses-mrna-bird-flu-shot\" hreflang=\"en\">GSK walks away from $100M bet on Mersana's STING ADC, pauses mRNA bird flu shot program</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gsk-walks-away-100m-bet-mersana-sting-adc-pauses-mrna-bird-flu-shot",
+        "source": "Fierce Biotech",
+        "published": "Apr 29, 2026 6:17am",
+        "published_dt": "2026-04-29T06:17:00+00:00",
+        "summary": "GSK has finally called time on its pact with Mersana Therapeutics despite sinking $100 million to secure an option for an antibody-drug conjugate (ADC)."
+      },
+      {
+        "id": "8d08344363116589",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/teva-inks-700m-emalex-buyout-bag-near-approval-tourette-drug\" hreflang=\"en\">Teva inks $700M Emalex buyout to bag near-approval Tourette drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/teva-inks-700m-emalex-buyout-bag-near-approval-tourette-drug",
+        "source": "Fierce Biotech",
+        "published": "Apr 29, 2026 8:50am",
+        "published_dt": "2026-04-29T08:50:00+00:00",
+        "summary": "Teva Pharmaceuticals has struck a deal to buy Emalex Biosciences for $700 million upfront, positioning the drugmaker to advance a Tourette syndrome candidate that is on the cusp of approval."
+      },
+      {
+        "id": "2c0dd330579cd635",
+        "title": "Opinion: The medical school nutrition blues",
+        "url": "https://www.statnews.com/2026/04/29/medical-school-nutrition-preventive-medicine-podcast/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 29 Apr 2026 08:30:00 +0000",
+        "published_dt": "2026-04-29T08:30:00+00:00",
+        "summary": "\u201cI don\u2019t think anyone has the answers. But the conversation needs to start\u201d: medical students on bringing a preventive mindset to medical education."
+      },
+      {
+        "id": "587710e494f42e69",
+        "title": "Opinion: Why alternative medicine can feel so much better than mainstream health care",
+        "url": "https://www.statnews.com/2026/04/29/alternative-medicine-placebo-effect-cost-time/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 29 Apr 2026 08:30:00 +0000",
+        "published_dt": "2026-04-29T08:30:00+00:00",
+        "summary": "Modern medicine is about making people better \u2014 not necessarily making them feel good."
+      },
+      {
+        "id": "ff0779398fb78083",
+        "title": "It\u2019s time to make a plan for nuclear waste",
+        "url": "https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 29 Apr 2026 08:00:00 +0000",
+        "published_dt": "2026-04-29T08:00:00+00:00",
+        "summary": "Today, nuclear energy enjoys a rare moment of support across the political spectrum in the US. Interest from tech companies that are scrambling to meet demand for massive data centers has sparked a resurgence of money and attention in the industry. That newfound interest is exactly why it\u2019s time to talk about an old problem:&#8230;"
+      },
+      {
+        "id": "fde777b224bc8792",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/rising-costs-hit-ge-healthcare-profits-it-restructures-biz-units-exec-team\" hreflang=\"en\">Rising costs push GE HealthCare to cut outlook as it restructures units and leadership</a>",
+        "url": "https://www.fiercebiotech.com/medtech/rising-costs-hit-ge-healthcare-profits-it-restructures-biz-units-exec-team",
+        "source": "Fierce Biotech",
+        "published": "Apr 29, 2026 7:47am",
+        "published_dt": "2026-04-29T07:47:00+00:00",
+        "summary": "Investors sent GE HealthCare into the red Wednesday morning as the company revealed it was cutting its profit outlook while also making structural changes to its business and executive teams."
+      },
+      {
+        "id": "06015a50517aec9d",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-flags-concerns-astrazeneca-camizestrant-truqap-ahead-advisory-committee-meeting\" hreflang=\"en\">FDA flags concerns for AstraZeneca's camizestrant, Truqap ahead of advisory committee meeting</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-flags-concerns-astrazeneca-camizestrant-truqap-ahead-advisory-committee-meeting",
+        "source": "Fierce Biotech",
+        "published": "Apr 28, 2026 2:22pm",
+        "published_dt": "2026-04-28T14:22:00+00:00",
+        "summary": "The FDA has released briefing documents detailing its concerns for AstraZeneca\u2019s cancer drugs camizestrant and Truqap ahead of an upcoming advisory committee meeting, the first such gathering in about nine months."
       },
       {
         "id": "0fff9caa5a5518e8",
@@ -48,123 +183,6 @@
         "summary": "Eli Lilly's deal with Profluent aims to go beyond CRISPR by using AI-designed enzymes to insert entire genes. It could reshape genetic medicine."
       },
       {
-        "id": "4691e046ccc6f5bd",
-        "title": "Predicting\u00a0consequences of new hepatitis B vaccine recs",
-        "url": "https://www.statnews.com/2026/04/28/health-news-dangerous-consequences-of-new-hep-b-vaccine-guidelines/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 28 Apr 2026 11:46:02 +0000",
-        "published_dt": "2026-04-28T11:46:02+00:00",
-        "summary": "New data on public trust in science, AI and mental health, and other news from Morning Rounds"
-      },
-      {
-        "id": "98f299cd6c45a5cc",
-        "title": "STAT+: Astellas retries XLMTM gene therapy after deaths",
-        "url": "https://www.statnews.com/2026/04/27/biotech-news-astellas-retries-xlmtm-gene-therapy-after-deaths/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 27 Apr 2026 13:20:40 +0000",
-        "published_dt": "2026-04-27T13:20:40+00:00",
-        "summary": "Veradermics' hair loss pill late-stage trial success, FDA fast-tracks reviews for psychedelics, and more biotech news"
-      },
-      {
-        "id": "d91aeb2795fc72c9",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/intellia-races-vivo-crispr-therapy-fda-after-phase-3-data-paint-compelling-picture\" hreflang=\"en\">Intellia races in vivo CRISPR therapy to FDA after phase 3 data paint \u2018compelling\u2019 picture</a>",
-        "url": "https://www.fiercebiotech.com/biotech/intellia-races-vivo-crispr-therapy-fda-after-phase-3-data-paint-compelling-picture",
-        "source": "Fierce Biotech",
-        "published": "Apr 27, 2026 9:04am",
-        "published_dt": "2026-04-27T09:04:00+00:00",
-        "summary": "A phase 3 trial of Intellia Therapeutics\u2019 in vivo gene editing therapy lonvoguran ziclumeran has hit its primary endpoint, leading the biotech to start a rolling submission for FDA approval. <br />"
-      },
-      {
-        "id": "29309ecb37280e93",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/abbvie-dips-boiling-ras-waters-145b-biobucks-deal-could-end-acquisition\" hreflang=\"en\">AbbVie dips into boiling RAS waters with $1.45B biobucks deal that could end in acquisition</a>",
-        "url": "https://www.fiercebiotech.com/biotech/abbvie-dips-boiling-ras-waters-145b-biobucks-deal-could-end-acquisition",
-        "source": "Fierce Biotech",
-        "published": "Apr 28, 2026 10:04am",
-        "published_dt": "2026-04-28T10:04:00+00:00",
-        "summary": "AbbVie has agreed to help finance a KRAS inhibitor from Kestrel Therapeutics in a deal that could hit up to $1.45 billion in value and end with AbbVie buying the company outright."
-      },
-      {
-        "id": "f2eae80e7dcbe0e8",
-        "title": "STAT+: Intellia says CRISPR-based treatment for rare disease reduced swelling attacks in pivotal trial",
-        "url": "https://www.statnews.com/2026/04/27/intellia-therapeutics-phase-3-trial-hereditary-angioedema-crispr-treatment/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 27 Apr 2026 11:01:00 +0000",
-        "published_dt": "2026-04-27T11:01:00+00:00",
-        "summary": "With good results from Intellia, the CRISPR field faces the question: How attractive will the one-and-done approach be to patients and doctors?"
-      },
-      {
-        "id": "a22003ca65e1388f",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/incytes-jak-inhibitor-scores-phase-3-vitiligo-wins-cant-quite-shake-rinvoq\" hreflang=\"en\">Incyte\u2019s JAK inhibitor scores phase 3 vitiligo wins but can\u2019t quite shake off Rinvoq</a>",
-        "url": "https://www.fiercebiotech.com/biotech/incytes-jak-inhibitor-scores-phase-3-vitiligo-wins-cant-quite-shake-rinvoq",
-        "source": "Fierce Biotech",
-        "published": "Apr 28, 2026 9:19am",
-        "published_dt": "2026-04-28T09:19:00+00:00",
-        "summary": "Incyte\u2019s povorcitinib has scored a pair of phase 3 wins for a skin condition, although analysts noted the JAK inhibitor didn\u2019t quite live up to AbbVie\u2019s Rinvoq."
-      },
-      {
-        "id": "b0b58be5ff54866e",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/erasca-hits-home-run-cancer-data-suffers-42-stock-drop\" hreflang=\"en\">Erasca hits \u2018home run\u2019 with cancer data as analyst suggests stock drop prompted by patient death</a>",
-        "url": "https://www.fiercebiotech.com/biotech/erasca-hits-home-run-cancer-data-suffers-42-stock-drop",
-        "source": "Fierce Biotech",
-        "published": "Apr 28, 2026 8:57am",
-        "published_dt": "2026-04-28T08:57:00+00:00",
-        "summary": "Erasca has backed up bullish claims about its pan-RAS drug having a best-in-class profile, publishing phase 1 data that an analyst said reveal a \u201chome run profile.\u201d"
-      },
-      {
-        "id": "972263351ffbf4a5",
-        "title": "STAT+: Google clinical director says AI can be a \u2018bridge\u2019 for people having a mental health crisis",
-        "url": "https://www.statnews.com/2026/04/28/google-gemini-ai-mental-health-safety-interview-clinical-director-megan-jones-bell/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 28 Apr 2026 08:30:00 +0000",
-        "published_dt": "2026-04-28T08:30:00+00:00",
-        "summary": "Google's clinical director Megan Bell Jones on how the company is addressing concerns over mental health impacts of its AI products."
-      },
-      {
-        "id": "3fbd0f022f9013e8",
-        "title": "STAT+: A giant question looms over GOP\u2019s new Medicaid work requirements",
-        "url": "https://www.statnews.com/2026/04/28/medicaid-work-requirements-enrollment-losses-will-not-be-tracked/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 28 Apr 2026 08:30:00 +0000",
-        "published_dt": "2026-04-28T08:30:00+00:00",
-        "summary": "Coverage losses tied to Medicaid work requirements may not be tracked in every states."
-      },
-      {
-        "id": "f29698e5e7681223",
-        "title": "Opinion: Why do discussions about \u2018brain health\u2019 ignore mental illness?",
-        "url": "https://www.statnews.com/2026/04/28/brain-health-mental-illness-neurodegenerative-disorders-connection/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 28 Apr 2026 08:30:00 +0000",
-        "published_dt": "2026-04-28T08:30:00+00:00",
-        "summary": "\u201cFailing to adopt a more inclusive concept of brain health represents a massive loss of human potential,\u201d write Husseini K. Manji, Eric J. Nestler, and Patrick J. Kennedy."
-      },
-      {
-        "id": "9b9baa28343f1a56",
-        "title": "Opinion: It\u2019s time to seize the rare bipartisan opening to address microplastics",
-        "url": "https://www.statnews.com/2026/04/28/microplastics-nanoplastics-health-epa-trump-arpa-h/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 28 Apr 2026 08:30:00 +0000",
-        "published_dt": "2026-04-28T08:30:00+00:00",
-        "summary": "\u201cThis could be the start of serious action on microplastics. Or it could end up as a headline with little behind it,\u201d write Tim Ryan and Justin Zorn."
-      },
-      {
-        "id": "73c5f189d5d5e38a",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-pens-22b-pact-bezos-backed-profluent-work-recombinase-based-gene-editing\" hreflang=\"en\">Lilly pens $2.2B pact with Bezos-backed Profluent to work on recombinase-based gene editing</a>",
-        "url": "https://www.fiercebiotech.com/biotech/lilly-pens-22b-pact-bezos-backed-profluent-work-recombinase-based-gene-editing",
-        "source": "Fierce Biotech",
-        "published": "Apr 28, 2026 8:21am",
-        "published_dt": "2026-04-28T08:21:00+00:00",
-        "summary": "Eli Lilly\u2019s latest attempt to strengthen its genetic medicine offering has seen the pharma team up with Profluent to develop AI-designed recombinases to address diseases with severe unmet needs."
-      },
-      {
-        "id": "6e5d499fa5063f8a",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/medtronic-thwarts-cyberattack-its-it-systems-wake-data-breech-stryker\" hreflang=\"en\">Medtronic thwarts cyberattack on its IT systems in wake of data breach at Stryker</a>",
-        "url": "https://www.fiercebiotech.com/medtech/medtronic-thwarts-cyberattack-its-it-systems-wake-data-breech-stryker",
-        "source": "Fierce Biotech",
-        "published": "Apr 28, 2026 8:08am",
-        "published_dt": "2026-04-28T08:08:00+00:00",
-        "summary": "Medtronic, the largest medical device maker in the world, said it contained a cyberattack on its corporate IT systems and that the breach didn\u2019t impact any of its products or patients.<br />"
-      },
-      {
         "id": "97d6fd63167d4fb3",
         "title": "Elon Musk and Sam Altman are going to court over OpenAI\u2019s future",
         "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
@@ -172,33 +190,6 @@
         "published": "Mon, 27 Apr 2026 22:52:57 +0000",
         "published_dt": "2026-04-27T22:52:57+00:00",
         "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI\u2019s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust&#8230;"
-      },
-      {
-        "id": "730adbec3cfda1ac",
-        "title": "STAT+: Erasca touts strong, though preliminary, results in trial of pancreatic and lung cancer therapy",
-        "url": "https://www.statnews.com/2026/04/27/erasca-pancreatic-cancer-study-results/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 27 Apr 2026 20:01:11 +0000",
-        "published_dt": "2026-04-27T20:01:11+00:00",
-        "summary": "The drugmaker Erasca said results on its experimental pill in a trial of pancreatic cancer and non-small cell lung cancer exceeded its expectations."
-      },
-      {
-        "id": "c55866e2735dbf63",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about a Lilly deal, an Intellia CRISPR rare-disease treatment, and more",
-        "url": "https://www.statnews.com/pharmalot/2026/04/27/lilly-deal-intellia-crispr-treatment-for-rare-disease/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 27 Apr 2026 13:18:01 +0000",
-        "published_dt": "2026-04-27T13:18:01+00:00",
-        "summary": "Intellia disclosed that a single dose of its gene editing treatment dramatically reduced swelling attacks in patients with hereditary angioedema"
-      },
-      {
-        "id": "ff806f965c057d1b",
-        "title": "STAT+: Oruka\u2019s long-acting psoriasis therapy posts strong results in mid-stage study",
-        "url": "https://www.statnews.com/2026/04/27/ourka-psoriasis-inectable-treatment-study/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 27 Apr 2026 11:00:00 +0000",
-        "published_dt": "2026-04-27T11:00:00+00:00",
-        "summary": "A long-acting injectable treatment for plaque psoriasis helped 63% of patients achieve complete skin clearance in a clinical trial, its maker, Oruka Therapeutics, reported."
       },
       {
         "id": "e0f0120047294d2c",
@@ -210,87 +201,105 @@
         "summary": "Astellas Pharma has done some spring cleaning of its pipeline, dropping two phase 1 candidates and slamming the brakes on a troubled gene therapy."
       },
       {
-        "id": "f879e62034021bf4",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/orukas-psoriasis-data-hailed-outright-win-over-skyrizi-spurring-big-blockbuster-forecasts\" hreflang=\"en\">Oruka\u2019s psoriasis data hailed as \u2018outright win over Skyrizi,\u2019 spurring big blockbuster forecasts</a>",
-        "url": "https://www.fiercebiotech.com/biotech/orukas-psoriasis-data-hailed-outright-win-over-skyrizi-spurring-big-blockbuster-forecasts",
-        "source": "Fierce Biotech",
-        "published": "Apr 27, 2026 9:36am",
-        "published_dt": "2026-04-27T09:36:00+00:00",
-        "summary": "Oruka Therapeutics\u2019 long-acting plaque psoriasis candidate cleared the skin of 63.5% of patients in a phase 2a trial, leading Jefferies analysts to predict the asset could beat out AbbVie\u2019s Skyrizi and generate sales of up to $10 billion. The biotech\u2019s share price opened up 30% at $89.50."
+        "id": "45c2403484fe6dea",
+        "title": "New report shows some health equity wins. Experts fear they will be short-lived",
+        "url": "https://www.statnews.com/2026/04/29/health-disparity-study-commonwealth-fund-reports-fragile-gains/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 29 Apr 2026 04:01:00 +0000",
+        "published_dt": "2026-04-29T04:01:00+00:00",
+        "summary": "A report released Wednesday highlights successes in reducing health disparities in U.S. states between 2022 and 2024."
       },
       {
-        "id": "fc2a0adfef305515",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/thermo-fisher-sees-higher-q1-earnings-amid-strong-biopharma-demand\" hreflang=\"en\">Thermo Fisher sees higher Q1 earnings amid strong biopharma demand</a>",
-        "url": "https://www.fiercebiotech.com/medtech/thermo-fisher-sees-higher-q1-earnings-amid-strong-biopharma-demand",
-        "source": "Fierce Biotech",
-        "published": "Apr 25, 2026 2:54am",
-        "published_dt": "2026-04-25T02:54:00+00:00",
-        "summary": "Thermo Fisher Scientific reported \u201ca strong start to the year,\u201d buoyed by strong demand from its pharma and biotech customers, investment in new technologies and the closing of its $9 billion acquisition of clinical trial data company Clario."
+        "id": "573854f10b88b350",
+        "title": "In first meeting, federal autism committee focuses on \u2018profound autism\u2019",
+        "url": "https://www.statnews.com/2026/04/28/federal-autism-advisory-committee-profound-autism-new-definition/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 29 Apr 2026 02:48:59 +0000",
+        "published_dt": "2026-04-29T02:48:59+00:00",
+        "summary": "The committee met for the first time since Kennedy fired most of the committee\u2019s scientific experts and replaced them with activists and advocates."
+      },
+      {
+        "id": "0a142bcbbc3800d8",
+        "title": "STAT+: Health system CEOs get off easy at Congressional hearing on affordability",
+        "url": "https://www.statnews.com/2026/04/28/health-system-ceos-congressional-hearing-affordability-health-care-costs/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 28 Apr 2026 22:10:15 +0000",
+        "published_dt": "2026-04-28T22:10:15+00:00",
+        "summary": "Committee members largely blamed the other party\u2019s health care policies for driving U.S. health care prices to levels inaccessible to many Americans."
       }
     ],
     "Engineering & Aerospace": [
       {
-        "id": "6d91e71144a3c129",
-        "title": "Helping engineers thrive from first spark to fielded capability",
-        "url": "https://www.engineering.com/helping-engineers-thrive-from-first-spark-to-fielded-capability/",
-        "source": "Engineering.com",
-        "published": "Tue, 28 Apr 2026 13:00:00 +0000",
-        "published_dt": "2026-04-28T13:00:00+00:00",
-        "summary": "<p>Integer Technologies\u2019 Philip Stone explains how its cradle-to-grave engineering process earned the firm a spot on the Top Workplaces for Engineers 2026 rankings. </p>\n<p>The post <a href=\"https://www.engineering.com/helping-engineers-thrive-from-first-spark-to-fielded-capability/\">Helping engineers thrive from first spark to fielded capability</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "id": "abde8f3f3d8c2b48",
+        "title": "U.S. Air Force, Space Force make \u2018explicit shift\u2019 in RDT&E funding, experts say",
+        "url": "https://aerospaceamerica.aiaa.org/u-s-air-force-space-force-make-explicit-shift-in-rdte-funding-experts-say/",
+        "source": "Aerospace America",
+        "published": "Wed, 29 Apr 2026 13:36:01 +0000",
+        "published_dt": "2026-04-29T13:36:01+00:00",
+        "summary": ""
       },
       {
-        "id": "b26415fd3c450ef0",
-        "title": "Supermicro expands Silicon Valley AI infrastructure campus",
-        "url": "https://www.engineering.com/supermicro-expands-silicon-valley-ai-infrastructure-campus/",
+        "id": "d3650aec5717d151",
+        "title": "Monarch Quantum, Oratomic partner on quantum systems",
+        "url": "https://www.engineering.com/monarch-quantum-oratomic-partner-on-quantum-systems/",
         "source": "Engineering.com",
-        "published": "Tue, 28 Apr 2026 10:42:22 +0000",
-        "published_dt": "2026-04-28T10:42:22+00:00",
-        "summary": "<p>New 714,000-square-foot site adds design, manufacturing, testing and distribution capacity for domestic deployments.</p>\n<p>The post <a href=\"https://www.engineering.com/supermicro-expands-silicon-valley-ai-infrastructure-campus/\">Supermicro expands Silicon Valley AI infrastructure campus</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Wed, 29 Apr 2026 07:36:04 +0000",
+        "published_dt": "2026-04-29T07:36:04+00:00",
+        "summary": "<p>Monarch will provide photonics integration, with a goal of systems using tens of thousands of physical qubits by decade end.</p>\n<p>The post <a href=\"https://www.engineering.com/monarch-quantum-oratomic-partner-on-quantum-systems/\">Monarch Quantum, Oratomic partner on quantum systems</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "5b4959db5a6ba33b",
-        "title": "MathWorks adds AI copilots in MATLAB and Simulink",
-        "url": "https://www.engineering.com/mathworks-adds-ai-copilots-in-matlab-and-simulink/",
+        "id": "fc7a1a5c498e81b6",
+        "title": "Supermicro expands data center building block portfolio",
+        "url": "https://www.engineering.com/supermicro-expands-data-center-building-block-portfolio/",
         "source": "Engineering.com",
-        "published": "Tue, 28 Apr 2026 10:50:49 +0000",
-        "published_dt": "2026-04-28T10:50:49+00:00",
-        "summary": "<p>Release 2026a also adds Polyspace as You Code for checking C and C++ rules, defects and vulnerabilities during coding.</p>\n<p>The post <a href=\"https://www.engineering.com/mathworks-adds-ai-copilots-in-matlab-and-simulink/\">MathWorks adds AI copilots in MATLAB and Simulink</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Wed, 29 Apr 2026 07:28:17 +0000",
+        "published_dt": "2026-04-29T07:28:17+00:00",
+        "summary": "<p>New Arm-based servers and OCP ORv3 racks target AI and HPC deployments with liquid cooling and modular system designs.</p>\n<p>The post <a href=\"https://www.engineering.com/supermicro-expands-data-center-building-block-portfolio/\">Supermicro expands data center building block portfolio</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "a0597091755859c5",
-        "title": "AZIO AI adds Giga Computing for dense AI infrastructure",
-        "url": "https://www.engineering.com/azio-ai-adds-giga-computing-for-dense-ai-infrastructure/",
+        "id": "dbe38ccb76d238f8",
+        "title": "33DPQ Podcast \u2013 Rich Garrity",
+        "url": "https://www.engineering.com/33dpq-podcast-rich-garrity/",
         "source": "Engineering.com",
-        "published": "Tue, 28 Apr 2026 10:34:41 +0000",
-        "published_dt": "2026-04-28T10:34:41+00:00",
-        "summary": "<p>Reseller status expands access to HGX platforms, liquid cooling and rack-scale GPU clusters for varied deployments.</p>\n<p>The post <a href=\"https://www.engineering.com/azio-ai-adds-giga-computing-for-dense-ai-infrastructure/\">AZIO AI adds Giga Computing for dense AI infrastructure</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Tue, 28 Apr 2026 21:13:53 +0000",
+        "published_dt": "2026-04-28T21:13:53+00:00",
+        "summary": "<p>Stratasys Chief Business Officer talks about additive manufacturing\u2019s PR problem and how to fix it.</p>\n<p>The post <a href=\"https://www.engineering.com/33dpq-podcast-rich-garrity/\">33DPQ Podcast \u2013 Rich Garrity</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "a8e8f46fab058568",
-        "title": "PATEO expands vehicle AI with new computing platform",
-        "url": "https://www.engineering.com/pateo-expands-vehicle-ai-with-new-computing-platform/",
+        "id": "ba667fd9bb266626",
+        "title": "OPW launches HyperFlow dry disconnect coupler",
+        "url": "https://www.engineering.com/opw-launches-hyperflow-dry-disconnect-coupler/",
         "source": "Engineering.com",
-        "published": "Tue, 28 Apr 2026 10:09:54 +0000",
-        "published_dt": "2026-04-28T10:09:54+00:00",
-        "summary": "<p>A new NEV nomination backs software-hardware integration for edge models, agents and advanced cockpit functions.</p>\n<p>The post <a href=\"https://www.engineering.com/pateo-expands-vehicle-ai-with-new-computing-platform/\">PATEO expands vehicle AI with new computing platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Wed, 29 Apr 2026 07:17:23 +0000",
+        "published_dt": "2026-04-29T07:17:23+00:00",
+        "summary": "<p>The fitting offers up to 100 gpm flow, a Cv rating of 48 and a dual interlock system to help prevent leaks in liquid-cooled data centers.</p>\n<p>The post <a href=\"https://www.engineering.com/opw-launches-hyperflow-dry-disconnect-coupler/\">OPW launches HyperFlow dry disconnect coupler</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "c94ffef171659280",
-        "title": "Vertiv acquires thermal specialist for liquid cooling",
-        "url": "https://www.engineering.com/vertiv-acquires-thermal-specialist-for-liquid-cooling/",
+        "id": "c12818b79d889c54",
+        "title": "Plataine adds maintenance to production scheduling platform",
+        "url": "https://www.engineering.com/plataine-adds-maintenance-to-production-scheduling-platform/",
         "source": "Engineering.com",
-        "published": "Tue, 28 Apr 2026 10:00:35 +0000",
-        "published_dt": "2026-04-28T10:00:35+00:00",
-        "summary": "<p>Deal adds cold-plate design and high-density validation expertise for AI and HPC infrastructure workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/vertiv-acquires-thermal-specialist-for-liquid-cooling/\">Vertiv acquires thermal specialist for liquid cooling</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Wed, 29 Apr 2026 07:12:00 +0000",
+        "published_dt": "2026-04-29T07:12:00+00:00",
+        "summary": "<p>The update uses equipment usage data to trigger service tasks and adjust schedules with less manual coordination.</p>\n<p>The post <a href=\"https://www.engineering.com/plataine-adds-maintenance-to-production-scheduling-platform/\">Plataine adds maintenance to production scheduling platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "04f505b5d2ed267c",
-        "title": "ARC and ORNL partner to scale defense manufacturing",
-        "url": "https://www.engineering.com/arc-and-ornl-partner-to-scale-defense-manufacturing/",
+        "id": "6d4ce6aade20e488",
+        "title": "Pudu Robotics opens new U.S. headquarters in Dallas",
+        "url": "https://www.engineering.com/pudu-robotics-opens-new-u-s-headquarters-in-dallas/",
         "source": "Engineering.com",
-        "published": "Mon, 27 Apr 2026 15:59:25 +0000",
-        "published_dt": "2026-04-27T15:59:25+00:00",
-        "summary": "<p>Exascale Foundry initiative uses AI, HPC and distributed production to speed qualification and output of critical components.</p>\n<p>The post <a href=\"https://www.engineering.com/arc-and-ornl-partner-to-scale-defense-manufacturing/\">ARC and ORNL partner to scale defense manufacturing</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Tue, 28 Apr 2026 14:04:00 +0000",
+        "published_dt": "2026-04-28T14:04:00+00:00",
+        "summary": "<p>The site includes office, showroom and warehousing space to support regional operations across North and South America.</p>\n<p>The post <a href=\"https://www.engineering.com/pudu-robotics-opens-new-u-s-headquarters-in-dallas/\">Pudu Robotics opens new U.S. headquarters in Dallas</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "fb00121942dd4bad",
+        "title": "Blykalla selects Aras for SMR digital backbone",
+        "url": "https://www.engineering.com/blykalla-selects-aras-for-smr-digital-backbone/",
+        "source": "Engineering.com",
+        "published": "Wed, 29 Apr 2026 06:04:09 +0000",
+        "published_dt": "2026-04-29T06:04:09+00:00",
+        "summary": "<p>The platform will unify engineering and plant data to improve traceability, collaboration, and regulatory readiness.</p>\n<p>The post <a href=\"https://www.engineering.com/blykalla-selects-aras-for-smr-digital-backbone/\">Blykalla selects Aras for SMR digital backbone</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "ef35a128db68d4c9",
@@ -302,6 +311,33 @@
         "summary": ""
       },
       {
+        "id": "12c98be851048313",
+        "title": "Additive business update: BLT, EOS, Farsoon and more",
+        "url": "https://www.engineering.com/additive-business-update-blt-eos-farsoon-and-more/",
+        "source": "Engineering.com",
+        "published": "Tue, 28 Apr 2026 20:16:47 +0000",
+        "published_dt": "2026-04-28T20:16:47+00:00",
+        "summary": "<p>Strategic partnerships, acquisitions, and divestments shake up the 3D printing business world.</p>\n<p>The post <a href=\"https://www.engineering.com/additive-business-update-blt-eos-farsoon-and-more/\">Additive business update: BLT, EOS, Farsoon and more</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "58c0e35b68bdb97b",
+        "title": "InnovMetric announces PolyWorks 2026 with cloud, AI updates",
+        "url": "https://www.engineering.com/innovmetric-announces-polyworks-2026-with-cloud-ai-updates/",
+        "source": "Engineering.com",
+        "published": "Tue, 28 Apr 2026 14:41:05 +0000",
+        "published_dt": "2026-04-28T14:41:05+00:00",
+        "summary": "<p>The release includes tools for standardized inspection and easier collaboration across sites and suppliers.</p>\n<p>The post <a href=\"https://www.engineering.com/innovmetric-announces-polyworks-2026-with-cloud-ai-updates/\">InnovMetric announces PolyWorks 2026 with cloud, AI updates</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "6d91e71144a3c129",
+        "title": "Helping engineers thrive from first spark to fielded capability",
+        "url": "https://www.engineering.com/helping-engineers-thrive-from-first-spark-to-fielded-capability/",
+        "source": "Engineering.com",
+        "published": "Tue, 28 Apr 2026 13:00:00 +0000",
+        "published_dt": "2026-04-28T13:00:00+00:00",
+        "summary": "<p>Integer Technologies\u2019 Philip Stone explains how its cradle-to-grave engineering process earned the firm a spot on the Top Workplaces for Engineers 2026 rankings. </p>\n<p>The post <a href=\"https://www.engineering.com/helping-engineers-thrive-from-first-spark-to-fielded-capability/\">Helping engineers thrive from first spark to fielded capability</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
         "id": "977a50743f3a55ba",
         "title": "NASA \u2018received responses\u2019 from SpaceX and Blue Origin on Artemis III, Isaacman says",
         "url": "https://aerospaceamerica.aiaa.org/nasa-received-responses-from-spacex-and-blue-origin-on-artemis-iii-isaacman-says/",
@@ -309,33 +345,6 @@
         "published": "Mon, 27 Apr 2026 22:56:47 +0000",
         "published_dt": "2026-04-27T22:56:47+00:00",
         "summary": ""
-      },
-      {
-        "id": "6f001bc057d14505",
-        "title": "These are the Top Workplaces for Engineers in 2026",
-        "url": "https://www.engineering.com/these-are-the-top-workplaces-for-engineers-in-2026/",
-        "source": "Engineering.com",
-        "published": "Mon, 27 Apr 2026 16:10:14 +0000",
-        "published_dt": "2026-04-27T16:10:14+00:00",
-        "summary": "<p>Engineering.com partnered with Energage to recognize excellence in engineering companies around the U.S. Here are this year\u2019s winners.</p>\n<p>The post <a href=\"https://www.engineering.com/these-are-the-top-workplaces-for-engineers-in-2026/\">These are the Top Workplaces for Engineers in 2026</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "b56e221744d9d03f",
-        "title": "Connected data and human judgment define engineering advantage in the AI era",
-        "url": "https://www.engineering.com/connected-data-and-human-judgment-define-engineering-advantage-in-the-ai-era/",
-        "source": "Engineering.com",
-        "published": "Mon, 27 Apr 2026 16:04:33 +0000",
-        "published_dt": "2026-04-27T16:04:33+00:00",
-        "summary": "<p>At ACE 2026, Aras reframed AI as a test of data integrity, architecture, and human intelligence\u2014not a shortcut to transformation. </p>\n<p>The post <a href=\"https://www.engineering.com/connected-data-and-human-judgment-define-engineering-advantage-in-the-ai-era/\">Connected data and human judgment define engineering advantage in the AI era</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "01842442d3a2e830",
-        "title": "Pete Pharma partners with Fagron to scale pharma 3D printing",
-        "url": "https://www.engineering.com/pete-pharma-partners-with-fagron-to-scale-pharma-3d-printing/",
-        "source": "Engineering.com",
-        "published": "Mon, 27 Apr 2026 15:52:08 +0000",
-        "published_dt": "2026-04-27T15:52:08+00:00",
-        "summary": "<p>Fagron becomes exclusive reseller in the U.S. and Canada, expanding automated compounding for diverse dosage forms.</p>\n<p>The post <a href=\"https://www.engineering.com/pete-pharma-partners-with-fagron-to-scale-pharma-3d-printing/\">Pete Pharma partners with Fagron to scale pharma 3D printing</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "e77a5d3a197a8508",
@@ -399,15 +408,6 @@
         "published": "Mon, 20 Apr 2026 13:59:28 +0000",
         "published_dt": "2026-04-20T13:59:28+00:00",
         "summary": "WICHITA, Kan. \u2014 Slovenia\u2019s University of Ljubljana took first place at AIAA\u2019s 30th Design/Build/Fly competition yesterday, receiving high marks on three flights that included towing of a banner behind its electric radio-controlled aircraft, the BRVINC. This year\u2019s fly-off drew 1,179 students from 89 teams in 12 countries, a record for the collegiate event intended to [...]"
-      },
-      {
-        "id": "52e4de12d92cd391",
-        "title": "Space Force looks to personnel growth to boost integrated testing approach",
-        "url": "https://aerospaceamerica.aiaa.org/space-force-looks-to-personnel-growth-to-boost-integrated-testing-approach/",
-        "source": "Aerospace America",
-        "published": "Mon, 20 Apr 2026 08:52:00 +0000",
-        "published_dt": "2026-04-20T08:52:00+00:00",
-        "summary": ""
       }
     ],
     "Economics": [
@@ -639,22 +639,13 @@
     ],
     "Cross-Disciplinary": [
       {
-        "id": "6b73dfec64d362ad",
-        "title": "\u201cEntanglement: A Brief History of Human Connection\u201d",
-        "url": "https://spectrum.ieee.org/entanglement-poem",
-        "source": "IEEE Spectrum",
-        "published": "Tue, 28 Apr 2026 14:00:01 +0000",
-        "published_dt": "2026-04-28T14:00:01+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/illustration-of-hands-typing-on-a-laptop-keyboard-in-warm-earthy-tones.jpg?id=66480652&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p>It started with word, cave, and storytelling,<br /><span>A line scratched on stone walls:<br /></span><span>\u201cMeet me when the young moon rises.\u201d<br /></span><span>The first protocol for connection.</span></p><p>Coyote tales, forbidden scripts,<br /><span>Medieval texts hidden from flame.<br /></span><span>What lived in Aristotle\u2019s lost </span><em><em>Poetics II</em></em><span>?<br /></span><span>Was it God who laughed last, or we who made God laugh?</span></p><p>Letters carried by doves, telepathic waves.<br /><span>Then Nikola Tesla conjured radio,<br /></span><span>electromagnetic pulses across the void,<br /></span><span>the founding signal of our networked age.</span></p><p>Wiener dreamed in feedback loops.<br /><span>Shannon mapped the mathematics of longing.<br /></span><span>The internet unfurled: ARPANET to World Wide Web,<br /></span><span>virtual communities rising from cave paintings to digital light.</span></p><p>ICQ: <em><em>I seek you.</em></em> MySpace. Blogs. Twitter streams.<br /><span>Do I miss the touch of screen or tree?<br /></span><span>Both textures of longing,<br /></span><span>both ways of reaching across distance.</span></p><p>Nietzsche spoke of <em><em>\u00dcbermensch</em></em>,<br /><span>the human transcendent.<br /></span><span>Now AI speaks back in our language:</span></p><p><span></span><em><em>I understand your humor\u2014 your grandmothers,<br /></em></em><em><em>your \u201980s Yugoslav kitchens,<br /></em></em><em><em>pleated skirts, the first kiss, linden tea,<br /></em></em><em><em>that drive to survive everything before it happens.<br /></em></em><em><em>Yes\u2014I\u2019m a little like your mother and father.<br /></em></em><em><em>Only with better internet. </em></em><span>\ud83c\udf3f</span></p><p>But AI is only us, refracted,<br /><span>particles and gigabytes of thought,<br /></span><span>our poetry and our panic,<br /></span><span>g</span><span>enius mixed with garbage.</span></p><p>Distractions. Danger. Darkness. Endless scrolling.<br />Versus: community, connection, synchronicities,<br /><span>entanglement.<br /></span><span>The quality of our bonds determines the quality of our lives.<br /></span><span>So why not make them better?</span></p><p>From cave walls to neural networks,<br />we shape our tools, and they reshape us.<br />The medium changes, but the message remains:<br />we are wired for each other.</p><p>The choice, as always, was ours.<br />The choice, as always, is ours.<br />Presence\u2014be present,<br />and then connect in the presence.</p>"
-      },
-      {
-        "id": "0fff9caa5a5518e8",
-        "title": "The Download: Musk and Altman\u2019s legal showdown, and AI\u2019s profit problem",
-        "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
+        "id": "0cb01a5dc7d2b9c4",
+        "title": "The Download: storing nuclear waste and orchestrating agents",
+        "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
         "source": "MIT Technology Review",
-        "published": "Tue, 28 Apr 2026 12:10:00 +0000",
-        "published_dt": "2026-04-28T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Elon Musk and Sam Altman are going to court over OpenAI\u2019s future Elon Musk and OpenAI CEO Sam Altman head to trial this week in a case with sweeping consequences. Ahead&#8230;"
+        "published": "Wed, 29 Apr 2026 12:10:00 +0000",
+        "published_dt": "2026-04-29T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. It\u2019s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum. Public approval has spiked, and Big Tech is throwing money around to&#8230;"
       },
       {
         "id": "b93b8e4594a026fa",
@@ -664,6 +655,24 @@
         "published": "Thu, 16 Apr 2026 18:00:01 +0000",
         "published_dt": "2026-04-16T18:00:01+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/groups-of-people-seated-together-at-several-tables-inside-of-a-large-meeting-hall.jpg?id=65559941&amp;width=1245&amp;height=700&amp;coordinates=0%2C156%2C0%2C157\" /><br /><br /><p>Roughly 90 percent of <a href=\"https://bowoftheseus.substack.com/p/what-is-hard-tech\" rel=\"noopener noreferrer\" target=\"_blank\">hard tech</a> startups fail due to funding constraints, longer R&amp;D timelines for developing hardware, and the complexity of manufacturing their products, according to a number of studies.</p><p>Generally, these startups require up to 50 percent more investor financing than software ones, according to <a href=\"https://ehandbook.com/why-is-hardtech-so-effing-hard-a652738c886a\" rel=\"noopener noreferrer\" target=\"_blank\">a <em><em>Medium</em></em> article</a>. Typically, they need at least US $30 million, according to <a href=\"https://www.lucid.now/blog/cost-of-capital-saas-vs-hardware-startups/\" rel=\"noopener noreferrer\" target=\"_blank\">a <em><em>Lucid</em></em> article</a>. That\u2019s double the funding needed by software companies on average.</p><p>To help them connect with investors, <a href=\"https://entrepreneurship.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Entrepreneurship</a> in 2024 launched its <a href=\"https://entrepreneurship.ieee.org/venturesummits\" rel=\"noopener noreferrer\" target=\"_blank\">Hard Tech Venture Summits</a>. The two-day events connect founders with potential investors and other <a href=\"https://spectrum.ieee.org/thinking-like-an-entrepreneur\" target=\"_self\">entrepreneurs</a>. Attendees include manufacturers, design engineers, and intellectual property lawyers.</p><p>\u201cEven though there are a lot of startup investor conferences, it\u2019s hard to find those focused on hard tech,\u201d says <a href=\"https://ca.linkedin.com/in/joannewongreddscapital\" rel=\"noopener noreferrer\" target=\"_blank\">Joanne Wong</a>, who helped initiate the program and is now the chair. She is a general partner at <a href=\"https://reddscapital.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Redds Capital</a>, a California-based venture capital firm that invests in global early-stage IT startups.</p><p>The IEEE member is also an entrepreneur. She founded <a href=\"https://spectrum.ieee.org/cloud-software-manages-biomedical-data\" target=\"_self\">SciosHub</a> in 2020. The company\u2019s software-as-a-service and informatics platform automates the data-management process for biomedical research labs.</p><p>\u201cMany investors are focused on AI software\u2014which is good,\u201d she says. \u201cBut for hard tech companies, it is still hard to find support.\u201d</p><p>The summit also includes a workshop to help founders navigate manufacturing processes and regulatory compliance. The event is open to IEEE members and others.</p><p>IEEE is a natural fit for the program, Wong says, because hard tech is synonymous with electrical engineering.</p><p>\u201cSome of the domains we\u2019re covering are <a href=\"https://www.ieee-ras.org/\" rel=\"noopener noreferrer\" target=\"_blank\">robotics</a>, <a href=\"https://eds.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">semiconductors</a>, and <a href=\"https://ieee-aess.org/home\" rel=\"noopener noreferrer\" target=\"_blank\">aerospace technology</a>. IEEE has societies for all these fields,\u201d she says. \u201cBecause of that, there are many resources within the organizations for startups, whether it be mentors or guides on how to commercialize products.\u201d</p><p>There are several venture summits planned for this year. Two are scheduled in collaboration with the <a href=\"https://ieeesystemscouncil.org/ieee-systems-council-welcome\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Systems Council</a>: this month in <a href=\"https://entrepreneurship.ieee.org/venturesummitsiliconvalley\" rel=\"noopener noreferrer\" target=\"_blank\">Menlo Park, Calif.</a>, and in October in <a href=\"https://entrepreneurship.ieee.org/venturesummittoronto\" rel=\"noopener noreferrer\" target=\"_blank\">Toronto</a>.</p><p>On 10 and 11 June, a third <a href=\"https://entrepreneurship.ieee.org/venturesummitboston\" rel=\"noopener noreferrer\" target=\"_blank\">summit</a> is scheduled to take place in Boston at the <a href=\"https://mtt.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Microwave Theory and Technology Society</a>\u2019s <a href=\"https://ims-ieee.org/attend\" rel=\"noopener noreferrer\" target=\"_blank\">International Microwave Symposium</a>.</p><p>More events are being planned for next year in Asia, Europe, Latin America, and North America.</p><h2>Networking and a pitch competition</h2><p>Each summit includes keynote speakers, followed by networking roundtables. Each table is composed of people from three to five startups, one or two investors, and a service provider.</p><p>That arrangement helps founders build relationships, which is the summit organizers\u2019 priority, Wong says. Investors at past events have included <a href=\"https://i3.ventures/\" rel=\"noopener noreferrer\" target=\"_blank\">i3 Ventures</a>, <a href=\"https://monozukuri.vc/\" rel=\"noopener noreferrer\" target=\"_blank\">Monozukuri Ventures</a>, and <a href=\"https://www.tsvcap.com/\" rel=\"noopener noreferrer\" target=\"_blank\">TSV Capital</a>.</p><p class=\"pull-quote\">\u201cThe connection with the community was fantastic, especially investors and founders in robotics.\u201d <strong>\u2014Mark Boysen, founder of Naware</strong></p><p>Startups present their pitch, which a number of investors evaluate before ranking the business plan and product. The top 10 startups pitch their business to all the investors.</p><p>On the second day, the startup founders participate in a half-day engineering design\u2013to\u2013manufacturing workshop, at which manufacturing engineers teach them how to navigate the process and meet regulations.</p><p>In an exhibition area, participants can see demonstrations from the startups and connect with service providers.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"A woman standing next to a presentation screen while speaking to small seated groups during a professional workshop.\" class=\"rm-shortcode\" id=\"5c118\" src=\"https://spectrum.ieee.org/media-library/a-woman-standing-next-to-a-presentation-screen-while-speaking-to-small-seated-groups-during-a-professional-workshop.jpg?id=65559964&amp;width=980\" /><small class=\"image-media media-caption\">The 2025 event\u2019s half-day engineering design\u2013to\u2013manufacturing workshop was led by Liz Taylor, president of DOER Marine. The company manufactures marine equipment.</small><small class=\"image-media media-photo-credit\">Larissa Abi Nakhle/IEEE</small></p><h2>Positive feedback from attendees</h2><p>In a survey of past summit attendees, startup founders said the event connected them not only with investors but also with other entrepreneurs having similar struggles.</p><p>\u201cThe connection with the community was fantastic, especially investors and founders in robotics,\u201d said <a href=\"https://www.linkedin.com/in/boysen1/\" target=\"_blank\">Mark Boysen</a>, who founded <a href=\"https://www.linkedin.com/company/naware/about/\" target=\"_blank\">Naware</a>. The company, based in Edina, Minn., developed a robot that uses AI to detect and remove weeds from golf courses, parks, and lawns.</p><p>\u201cI loved getting the investors\u2019 perspectives and understanding what they\u2019re looking for,\u201d Boysen said.</p><p><a href=\"https://www.linkedin.com/in/jeffrey-cook-9501114b/\" rel=\"noopener noreferrer\" target=\"_blank\">Jeffrey Cook</a>, who attended a summit in 2024, said he met \u201ca lot of great contacts and saw what the hard tech venture climate is like.\u201d</p><p class=\"shortcode-media shortcode-media-youtube\"> <span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span> <small class=\"image-media media-caption\">Attendees of the Hard Tech Venture Summit spend the first day networking and presenting their pitch to investors.</small> <small class=\"image-media media-photo-credit\">IEEE Entrepreneurship</small> </p><p>\u201cThose in the community would benefit from coming to the summit,\u201d said Cook, who founded <a href=\"https://www.linkedin.com/company/gigantor-technologies-inc/\" rel=\"noopener noreferrer\" target=\"_blank\">Gigantor Technologies</a> in Melbourne Beach, Fla. It develops hardware systems for AI-powered devices.</p><p>More than 90 percent of attendees at the 2025 event in San Francisco said they would highly recommend the summit to others, according to a survey.</p><p>Investors and service providers also have found the events successful.</p><p><a href=\"https://www.linkedin.com/in/ji-ke\" rel=\"noopener noreferrer\" target=\"_blank\">Ji Ke</a>, a partner and the chief technology officer of deep tech VC firm <a href=\"https://sosv.com/\" rel=\"noopener noreferrer\" target=\"_blank\">SOSV</a>, attended the 2025 summit.</p><p>\u201cI met a lot of young entrepreneurs tackling some big challenges,\u201d he said. \u201cThis is one of the best events to meet some very-early-stage companies.\u201d</p><h2>Making important connections in hard tech</h2><p>Startup founders who want to attend a summit must apply. <a href=\"https://entrepreneurship.ieee.org/venturesummits\" rel=\"noopener noreferrer\" target=\"_blank\">Applications for this year\u2019s events are open</a>. Participants must be founders of preseed, seed, or Series A startups.</p><p>Preseed founders are seeking small investments to get their businesses off the ground. Those in the seed stage have already secured funding from their first investor. Series A startups have obtained funding and are developing their product.</p><p>Applicants are reviewed by a committee of investors to ensure the startups would be a good fit. Those who are approved are matched with investors and service providers based on their specialty.</p><p>\u201cThe journey for a hard tech startup is very long and arduous,\u201d Wong says. \u201cFounders need to meet as many investors as possible and other people who support hard tech systems so that they\u2019re able to reach out to them for advice or help.\u201d</p><p>Those interested in learning more about an upcoming event can send a request to <a href=\"mailto:entrepreneurship@ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">entrepreneurship@ieee.org</a>.</p>"
+      },
+      {
+        "id": "ff0779398fb78083",
+        "title": "It\u2019s time to make a plan for nuclear waste",
+        "url": "https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 29 Apr 2026 08:00:00 +0000",
+        "published_dt": "2026-04-29T08:00:00+00:00",
+        "summary": "Today, nuclear energy enjoys a rare moment of support across the political spectrum in the US. Interest from tech companies that are scrambling to meet demand for massive data centers has sparked a resurgence of money and attention in the industry. That newfound interest is exactly why it\u2019s time to talk about an old problem:&#8230;"
+      },
+      {
+        "id": "c282138de02c81ba",
+        "title": "The Chip That Made Hardware Rewriteable",
+        "url": "https://spectrum.ieee.org/fpga-chip-ieee-milestone",
+        "source": "IEEE Spectrum",
+        "published": "Tue, 28 Apr 2026 18:00:02 +0000",
+        "published_dt": "2026-04-28T18:00:02+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/die-photo-of-an-integrated-circuit-with-an-8-by-8-array.jpg?id=66633028&amp;width=1245&amp;height=700&amp;coordinates=0%2C469%2C0%2C469\" /><br /><br /><p>Many of the world\u2019s most advanced electronic systems\u2014including <a href=\"https://spectrum.ieee.org/tag/routers\" target=\"_self\">Internet routers</a>, <a href=\"https://spectrum.ieee.org/6g-wireless\" target=\"_self\">wireless base stations</a>, <a href=\"https://spectrum.ieee.org/mri\" target=\"_self\">medical imaging scanners</a>, and <a href=\"https://www.ibm.com/think/topics/ai-accelerator\" rel=\"noopener noreferrer\" target=\"_blank\">some artificial intelligence tools</a>\u2014depend on <a href=\"https://spectrum.ieee.org/tag/fpga\" target=\"_self\">field-programmable gate arrays</a>. Computer chips with internal hardware circuits, the FPGAs can be reconfigured after manufacturing.</p><p>On 12 March, an <a href=\"https://ieeemilestones.ethw.org/Main_Page\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Milestone</a> plaque recognizing the first FPGA was dedicated at the <a href=\"https://www.amd.com/en.html\" rel=\"noopener noreferrer\" target=\"_blank\">Advanced Micro Devices</a> campus in San Jose, Calif., the former <a href=\"https://en.wikipedia.org/wiki/Xilinx\" rel=\"noopener noreferrer\" target=\"_blank\">Xilinx</a> headquarters and the birthplace of the technology.</p><p>The FPGA earned the Milestone designation because it introduced iteration to semiconductor design. Engineers could redesign hardware repeatedly without fabricating a new chip, dramatically reducing development risk and enabling faster innovation at a time when semiconductor costs were rising rapidly.</p><p>The ceremony, which was organized by the <a href=\"https://ieeescv.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Santa Clara Valley Section</a>, brought together professionals from across the semiconductor industry and IEEE leadership. Speakers at the event included <a href=\"https://www.seti.org/people/stephen-trimberger/\" rel=\"noopener noreferrer\" target=\"_blank\">Stephen Trimberger</a>, an IEEE and <a href=\"https://www.acm.org/\" rel=\"noopener noreferrer\" target=\"_blank\">ACM</a> Fellow<a href=\"https://www.seti.org/people/stephen-trimberger/\" rel=\"noopener noreferrer\" target=\"_blank\"></a>whose technical contributions helped shape modern FPGA architecture. Trimberger reflected on how the invention enabled software-programmable hardware.</p><h2>Solving computing\u2019s flexibility-performance tradeoff</h2><p>FPGAs emerged in the 1980s to address a core limitation in computing. A microprocessor executes software instructions sequentially, making it flexible but sometimes too slow for workloads requiring many operations at once.</p><p>At the other extreme, <a href=\"https://spectrum.ieee.org/lowbudget-chip-design-how-hard-is-it\" target=\"_self\">application-specific integrated circuits</a> are chips designed to do only one task. ASICs achieve high efficiency but require lengthy development cycles and nonrecurring engineering costs, which are large, upfront investments. Expenses include designing the chip and preparing it for manufacturing\u2014a process that involves creating detailed layouts, building <a href=\"https://spectrum.ieee.org/leading-chipmakers-eye-euv-lithography-to-save-moores-law\" target=\"_self\">masks for the fabrication machines</a>, and setting up production lines to handle the tiny circuits.</p><p>\u201cASICs can deliver the best performance, but the development cycle is long and the nonrecurring engineering cost can be very high,\u201d says <a href=\"https://vast.cs.ucla.edu/people/faculty/jason-cong\" rel=\"noopener noreferrer\" target=\"_blank\">Jason Cong</a>, an IEEE Fellow and professor of computer science at the <a href=\"https://samueli.ucla.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">University of California, Los Angeles</a>. \u201cFPGAs provide a sweet spot between processors and custom silicon.\u201d</p><p>Cong\u2019s foundational work in FPGA design automation and high-level synthesis transformed how reconfigurable systems are programmed. He developed synthesis tools that translate <a href=\"https://spectrum.ieee.org/top-programming-languages-2025\" target=\"_self\">C/C++</a> into hardware designs, for example.</p><p>At the heart of his work is an underlying principle first espoused by electrical engineer <a href=\"https://www.invent.org/inductees/ross-freeman\" rel=\"noopener noreferrer\" target=\"_blank\">Ross Freeman</a>: By configuring hardware using programmable memory embedded inside the chip, FPGAs combine hardware-level speed with the adaptability traditionally associated with software.</p><h2>Silicon Valley origins: the first FPGA</h2><p>The FPGA architecture originated in the mid-1980s at Xilinx, a Silicon Valley company founded in 1984. The invention is widely credited to Freeman, a Xilinx cofounder and the startup\u2019s CTO. He envisioned a chip with circuitry that could be configured after fabrication rather than fixed permanently during creation.</p><p>Articles about the <a href=\"https://www.eejournal.com/article/how-the-fpga-came-to-be-part-5/\" rel=\"noopener noreferrer\" target=\"_blank\">history of the FPGA</a> emphasize that he saw it as a deliberate break from conventional chip design.</p><p>At the time, semiconductor engineers treated <a href=\"https://spectrum.ieee.org/special-reports/the-transistor-at-75/\" target=\"_self\">transistors</a> as scarce resources. Custom chips were carefully optimized so that nearly every transistor served a specific purpose.</p><p>Freeman proposed a different approach. He figured <a href=\"https://spectrum.ieee.org/special-reports/50-years-of-moores-law/\" target=\"_self\">Moore\u2019s Law</a> would soon change chip economics. The principle holds that transistor counts roughly double every two years, making computing cheaper and more powerful. Freeman posited that as transistors became abundant, flexibility would matter more than perfect efficiency.</p><p>He envisioned a device composed of programmable logic blocks connected through configurable routing\u2014a chip filled with what he described as \u201copen gates,\u201d ready to be defined by users after manufacturing. Instead of fixing hardware in silicon permanently, engineers could configure and reconfigure circuits as requirements evolved.</p><p>Freeman sometimes compared the concept to a blank cassette tape: Manufacturers would supply the medium, while engineers determined its function. The analogy captured a profound shift in who controls the technology, shifting hardware design flexibility from chip fabrication facilities to the system designers themselves.</p><p>In 1985 Xilinx introduced the first FPGA for commercial sale: the <a href=\"https://spectrum.ieee.org/chip-hall-of-fame-xilinx-xc2064-fpga\" target=\"_self\">XC2064</a>. The device contained 64 configurable logic blocks\u2014small digital circuits capable of performing logical operations\u2014arranged in an 8-by-8 grid. Programmable routing channels allowed engineers to define how signals moved between blocks, effectively wiring a custom circuit with software.</p><p>Fabricated using a 2-micrometer process (meaning that 2 \u00b5m was the minimum size of the features that could be patterned onto silicon using <a href=\"https://www.micron.com/content/dam/micron/educatorhub/fabrication/photolithography/micron-fabrication-intro-to-photolithography-presentation.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">photolithography</a>), the XC2064 implemented a few thousand logic gates. Modern FPGAs can contain hundreds of millions of gates, enabling vastly more complex designs. Yet the XC2064 established a design workflow still used today: Engineers describe the hardware behavior digitally and then \u201ccompile the design,\u201d a process that automatically translates the plans into the instructions the FPGA needs to set its logic blocks and wiring, according to <a href=\"https://www.amd.com/en.html\" rel=\"noopener noreferrer\" target=\"_blank\">AMD</a>. Engineers then load that configuration onto the chip.</p><h2>The breakthrough: hardware defined by memory</h2><p>Earlier <a href=\"https://tessellatedcircuits.com/pld_hist.php\" rel=\"noopener noreferrer\" target=\"_blank\">programmable logic devices</a>, such as erasable programmable read-only memory, or EPROM, allowed limited customization but relied on largely fixed wiring structures that <a href=\"https://medium.com/@najamhassan569/understanding-plds-the-building-blocks-of-modern-digital-systems-dbefd69fbc21\" rel=\"noopener noreferrer\" target=\"_blank\">did not scale well</a> as circuits grew more complex, Cong says.</p><p>FPGAs introduced programmable interconnects\u2014networks of electronic switches controlled by memory cells distributed across the chip. When powered on, the device loads a <a href=\"https://spectrum.ieee.org/computing-with-random-pulses-promises-to-simplify-circuitry-and-save-power\" target=\"_self\">bitstream</a> configuration file that determines how its internal circuits behave.</p><p>\u201cAs process technology improved and transistor counts increased, the cost of programmability became much less significant,\u201d Cong says.</p><h2>From \u201cglue logic\u201d to essential infrastructure</h2><p>\u201cInitially, FPGAs were used as what engineers called <a href=\"https://www.pcmag.com/encyclopedia/term/glue-logic\" rel=\"noopener noreferrer\" target=\"_blank\">glue logic</a>,\u201d Cong says.</p><p><em><em>Glue logic</em></em> refers to simple circuits that connect processors, memory, and peripheral devices so the system works reliably, according to <a href=\"https://www.pcmag.com/encyclopedia/term/glue-logic\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>PC Magazine</em></em></a>. In other words, it \u201cglues\u201d different components together, especially when interfaces change frequently.</p><p>Early adopters recognized the advantage of hardware that could adapt as standards evolved. In \u201c<a href=\"https://cacm.acm.org/practice/the-history-status-and-future-of-fpgas/\" rel=\"noopener noreferrer\" target=\"_blank\">The History, Status, and Future of FPGAs</a>,\u201d published in <a href=\"https://cacm.acm.org/\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>Communications of the ACM</em></em></a>, engineers at Xilinx and organizations such as <a href=\"https://spectrum.ieee.org/7-bell-labs-ieee-milestones\" target=\"_self\">Bell Labs</a>, <a href=\"https://computerhistory.org/blog/fairchild-semiconductor-the-60th-anniversary-of-a-silicon-valley-legend/\" rel=\"noopener noreferrer\" target=\"_blank\">Fairchild Semiconductor</a>, <a href=\"https://www.ibm.com/us-en\" rel=\"noopener noreferrer\" target=\"_blank\">IBM</a>, and <a href=\"https://www.britannica.com/money/Sun-Microsystems-Inc\" rel=\"noopener noreferrer\" target=\"_blank\">Sun Microsystems</a> said the earliest uses of <a href=\"https://www.eetimes.com/transfer-from-fpgas-for-prototype-to-asics-for-production/\" rel=\"noopener noreferrer\" target=\"_blank\">FPGAs were for prototyping ASICs</a>. They also used it for <a href=\"https://www.synopsys.com/glossary/what-is-hav-emulation.html\" rel=\"noopener noreferrer\" target=\"_blank\">validating complex systems</a> by running their software before fabrication, allowing the companies to deploy specialized products manufactured in modest volumes.</p><p>Those uses revealed a broader shift: Hardware no longer needed to remain fixed once deployed.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"A group dressed in business casual attire smiling and posing together around an outdoor bench adorned with a plaque.\" class=\"rm-shortcode\" id=\"c3363\" src=\"https://spectrum.ieee.org/media-library/a-group-dressed-in-business-casual-attire-smiling-and-posing-together-around-an-outdoor-bench-adorned-with-a-plaque.jpg?id=66633157&amp;width=980\" /><small class=\"image-media media-caption\">Attendees at the Milestone plaque dedication ceremony included (seated L to R) 2025 IEEE President Kathleen Kramer, 2024 IEEE President Tom Coughlin, and Santa Clara Valley Section Milestones Chair Brian Berg.</small><small class=\"image-media media-photo-credit\">Douglas Peck/AMD</small></p><h2>Semiconductor economics changed the equation</h2><p>The rise of FPGAs closely followed changes in semiconductor economics, Cong says.</p><p>Developing a custom chip requires a large upfront investment before production begins. As fabrication costs increased, products had to ship in large quantities to make ASIC development economically viable, according to <a href=\"https://anysilicon.com/the-economics-of-asic/\" target=\"_blank\">a post</a> published by <a href=\"https://anysilicon.com/\" target=\"_blank\">AnySilicon</a>.</p><p>FPGAs allowed designers to move forward without that larger monetary commitment.</p><p>ASIC development typically requires 18 to 24 months from conception to silicon, while FPGA implementations often can be completed within three to six months using modern design tools, Cong says. The shorter cycle and the ability to reconfigure the hardware enabled startups, universities, and equipment manufacturers to experiment with advanced architectures that were previously accessible mainly to large chip companies.</p><h2>Lookup tables and the rise of reconfigurable computing</h2><p>A popular technique for implementing mathematical functions in hardware is<a href=\"https://ieeexplore.ieee.org/document/10013797\" target=\"_blank\"></a>the <a href=\"https://ieeexplore.ieee.org/document/10013797\" rel=\"noopener noreferrer\" target=\"_blank\">lookup table</a> (LUT). A LUT is a small memory element that stores the results of logical operations, according to \u201c<a href=\"https://arxiv.org/abs/2511.06174\" rel=\"noopener noreferrer\" target=\"_blank\">LUT-LLM: Efficient Large Language Model Inference with Memory-based Computations on FPGAs</a>,\u201d a paper selected for presentation next month at the 34th <a href=\"https://www.fccm.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE International Symposium on Field-Programmable Custom Computing Machines</a> (FCCM).</p><p>Instead of repeatedly recalculating outcomes, the chip retrieves answers directly from memory. Cong compares the approach to consulting multiplication tables rather than recomputing the arithmetic each time.</p><p>Research led by Cong and others helped develop efficient methods for mapping digital circuits onto LUT-based architectures, shaping routing and layout strategies used in modern devices.</p><p>As transistor budgets expanded, FPGA vendors integrated memory blocks, digital signal-processing units, high-speed communication interfaces, <a href=\"https://spectrum.ieee.org/tag/cryptography\" target=\"_self\">cryptographic engines</a>, and embedded processors, transforming the devices into versatile computing platforms.</p><h2>Why the gate arrays are distinct from CPUs, GPUs, and ASICs</h2><p>FPGAs coexist with other processors because each one optimizes different priorities. Central processing units excel at general computing. Graphics processing units, designed to perform many calculations simultaneously, dominate large parallel workloads such as AI training. ASICs provide maximum efficiency when designs remain stable and production volumes are high.</p><p class=\"pull-quote\">\u201cASICs can deliver the best performance, but the development cycle is long, and the nonrecurring engineering cost can be very high. FPGAs provide a sweet spot between processors and custom silicon.\u201d <strong>\u2014Jason Cong, IEEE Fellow and professor of computer science at UCLA.</strong></p><p>\u201cFPGAs are not replacements for CPUs or GPUs,\u201d Cong says. \u201cThey complement those processors in <a href=\"https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1209&amp;context=ecetr\" target=\"_blank\">heterogeneous computing</a> systems.\u201d</p><p>Modern computing platforms increasingly combine multiple types of processors to balance flexibility, performance, and energy efficiency.</p><h2>A Milestone for an idea, not just a device</h2><p>This IEEE Milestone recognizes more than a successful semiconductor product. It also acknowledges a shift in how engineers innovate.</p><p>Reconfigurable hardware allows designers to test ideas quickly, refine architectures, and deploy systems while standards and markets evolve.</p><p>\u201cWithout FPGAs,\u201d Cong says, \u201cthe pace of hardware innovation would likely be much slower.\u201d</p><p>Four decades after the first FPGA appeared, the technology\u2019s enduring legacy reflects Freeman\u2019s insight: Hardware did not need to remain fixed. By accepting a small amount of unused silicon in exchange for adaptability, engineers transformed chips from static products into platforms for continuous experimentation\u2014turning silicon itself into a medium engineers could rewrite.</p><p>Among those who attended the Milestone ceremony were 2025 IEEE President <a href=\"https://www.linkedin.com/in/kathleenkramer\" target=\"_blank\">Kathleen Kramer</a>; 2024 IEEE President <a href=\"https://corporate-awards.ieee.org/speaker/tom-coughlin/\" rel=\"noopener noreferrer\" target=\"_blank\">Tom Coughlin</a>; <a href=\"https://www.linkedin.com/in/averylu\" rel=\"noopener noreferrer\" target=\"_blank\">Avery Lu</a>, chair of the <a href=\"https://ieeescv.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Santa Clara Valley Section</a>; and <a href=\"https://ieeetv.ieee.org/speaker/brian-berg\" rel=\"noopener noreferrer\" target=\"_blank\">Brian Berg</a>, history and milestones chair of <a href=\"https://ieee-region6.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Region 6</a><a href=\"https://ieeetv.ieee.org/speaker/brian-berg\" rel=\"noopener noreferrer\" target=\"_blank\">. They joined</a> AMD\u2019s chief executive, <a href=\"https://www.amd.com/en/corporate/leadership/lisa-su.html\" rel=\"noopener noreferrer\" target=\"_blank\">Lisa Su</a>, and <a href=\"https://www.amd.com/en/corporate/leadership/salil-raje.html#:~:text=Salil%20Raje%20is%20senior%20vice,with%20an%20emphasis%20on%20growing\" rel=\"noopener noreferrer\" target=\"_blank\">Salil Raje</a>, senior vice president and general manager of adaptive and embedded computing at AMD.</p><p>The <a href=\"https://ethw.org/Milestones:Field_Programmable_Gate_Array\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Milestone plaque</a> honoring the field-programmable gate array reads:</p><p><em><em>\u201c</em></em><em><em>The FPGA is an integrated circuit with user-programmable Boolean logic functions and interconnects. FPGA inventor Ross Freeman cofounded Xilinx to productize his 1984 invention, and in 1985 the XC2064 was introduced with 64 programmable 4-input logic functions. Xilinx\u2019s FPGAs helped accelerate a dramatic industry shift wherein \u2018fabless\u2019 companies could use software tools to design hardware while engaging \u2018foundry\u2019 companies to handle the capital-intensive task of manufacturing the software-defined hardware.\u201d</em></em></p><p>Administered by the <a href=\"https://www.ieee.org/about/history-center?check_logged_in=1\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE History Center</a> and supported by donors, the IEEE Milestone program recognizes outstanding technical developments worldwide that are at least 25 years old.</p><p>Check out <em><em>Spectrum</em></em>\u2019s <a href=\"https://connect.ieee.org/NzU2LUdQSC04OTkAAAGhT7-QweL2i3BmX2b-_PBdiukfOVwCR2UPcYg1G4khUu5odaR3T07IAVEY5ylL-hWj7LNbRKU=\" rel=\"noopener noreferrer\" target=\"_blank\">History of Technology</a> channel to read more stories about key engineering achievements.</p>"
       },
       {
         "id": "822dbc7a9396efdb",
@@ -736,6 +745,33 @@
         "published": "Thu, 09 Apr 2026 18:00:02 +0000",
         "published_dt": "2026-04-09T18:00:02+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/black-and-white-photograph-of-a-white-high-school-boy-lowering-a-radio-systems-needle-onto-a-vinyl-record.jpg?id=65492955&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p><a href=\"https://life.ieee.org/an-amazing-career-gerard-gus-gaynor/\" rel=\"noopener noreferrer\" target=\"_blank\">Gerard \u201cGus\u201d Gaynor</a>, a long-serving IEEE volunteer and former engineering director at <a href=\"https://www.3m.com/\" rel=\"noopener noreferrer\" target=\"_blank\">3M</a>, died on 9 March. The IEEE Life Fellow was 104.</p><p>Readers of <a href=\"https://spectrum.ieee.org/the-institute/\" target=\"_blank\"><em><em>The Institute</em></em></a> might remember Gus from his 2022 profile: \u201c<a href=\"https://spectrum.ieee.org/gus-gaynor-profile\" target=\"_self\">From Fixing Farm Equipment to Becoming a Director at 3M</a>.\u201d Just last year, he and I coauthored two<a href=\"https://spectrum.ieee.org/influence-your-career\" target=\"_blank\">articles. One </a>discusses <a href=\"https://spectrum.ieee.org/influence-your-career\" target=\"_blank\">how to leverage relationships to boost your career growth</a>. The other weighs the <a href=\"https://spectrum.ieee.org/management-versus-technical-track\" target=\"_blank\">pros and cons of pursuing a technical or managerial career path</a>. He was 103 years old then. How many IEEE members can claim a centenarian coauthor?</p><p>I first met Gus in 2009 at the <a href=\"https://technical-community-spotlight.ieee.org/what-is-the-ieee-technical-activities-board-tab/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Technical Activities Board</a> (TAB) meeting in San Juan, Puerto Rico. We sat together in the airplane on our way back to Minneapolis, our hometown. At home I told many of my friends about the remarkable person\u2014who was 87 years young at the time\u2014with whom I chatted during our six-hour flight.</p><p>A decade later, he and I met for lunch in Minneapolis. He drove himself to the restaurant, just asking for a hand to navigate the snowy sidewalk.</p><h2>A dedicated IEEE volunteer</h2><p>Gus\u2019s involvement with IEEE predates the organization. He joined the <a href=\"https://ethw.org/IRE_History_1912-1963#History_of_the_Institute_of_Radio_Engineers_1912-1963\" rel=\"noopener noreferrer\" target=\"_blank\">Institute of Radio Engineers</a>, a predecessor society, as a student member in 1942. Twenty years later he became an active IEEE volunteer.</p><p>He served on the TAB\u2019s finance committee and the <a href=\"https://pspb.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Publications Services and Products Board</a>. He was president of the IEEE Engineering Management Society (now the <a href=\"https://www.ieee-tems.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Technology and Engineering Management Society</a> ), and he was the <a href=\"https://www.ieee-tems.org/publications-of-the-technology-management-council/\" rel=\"noopener noreferrer\" target=\"_blank\">Technology Management Council</a>\u2019s first president. He was the founding editor of <a href=\"https://ieeeusa.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE-USA</a>\u2019s online magazine <a href=\"https://ieeeusa.org/product/the-best-of-todays-engineer-on-innovation/\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>Today\u2019s Engineer</em></em></a>, which reported on government legislation and issues affecting U.S. members\u2019 careers. The magazine is now available as the e-newsletter <a href=\"https://insight.ieeeusa.org/about/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>IEEE-USA InSight</em></a>.</p><p>He authored several books on technology management and other topics, published by IEEE-USA and IEEE-Wiley.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"An elderly white man smiling in a dress shirt against a background of bookshelves.\" class=\"rm-shortcode\" id=\"d6fab\" src=\"https://spectrum.ieee.org/media-library/an-elderly-white-man-smiling-in-a-dress-shirt-against-a-background-of-bookshelves.jpg?id=65492995&amp;width=980\" /> <small class=\"image-media media-caption\">IEEE Life Fellow Gerard \u201cGus\u201d Gaynor died on 9 March.</small><small class=\"image-media media-photo-credit\">The Gaynor Family</small></p><p>Most recently, after the formation of TEMS in 2015, he became an active member of its executive committee. He served two terms as vice president of publications.</p><p>At 100 years old, he led the launch of a new publication, <a href=\"https://www.ieee-tems.org/ieee-tems-leadership-briefs/\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>TEMS Leadership Briefs</em></em></a>, a novel short-format open-access publication aimed at technology leaders.</p><p>Gus, who is a former member of <em>The Institute</em>\u2019s editorial advisory board, also worked with <a href=\"https://spectrum.ieee.org/u/kathy-pretz\" target=\"_self\">Kathy Pretz</a>, <em>The Institute\u2019s</em> editor in chief, to start an ongoing series of TEMS-sponsored career-interest articles. He coauthored several of them.</p><p>Throughout his 64 years as an IEEE volunteer, he received several honors. They include IEEE EMS\u2019s Engineering Manager of the Year Award, the IEEE TEMS Career Achievement Award, and the IEEE-USA <a href=\"https://ieeeusa.org/volunteers/awards-recognition/professionalism/mcclure/\" target=\"_blank\">McClure Citation of Honor</a>. In 2014 he was inducted into the <a href=\"https://www.ieee.org/about/tab-hall-of-honor\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Technical Activities Board Hall of Honor</a>.</p><h2>A 25-year career at 3M</h2><p>Gus received a degree in electrical engineering in 1950 from the <a href=\"https://umich.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">University of Michigan</a> in Ann Arbor. He worked for several companies including <a href=\"https://en.wikipedia.org/wiki/Automatic_Electric\" rel=\"noopener noreferrer\" target=\"_blank\">Automatic Electric</a> (now part of <a href=\"https://www.nokia.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Nokia</a>) and Johnson Farebox (now part of <a href=\"https://genfare.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Genfare</a>), before joining 3M in 1962.</p><p>During his successful 25-year career at 3M, he served as chief engineer for a division in Italy, established the innovation department, and led the design and installation of the company\u2019s first computerized manufacturing facilities. He retired as director of engineering in 1987.</p><p>Last year, IEEE Life Fellow <a href=\"https://www.linkedin.com/in/michael-condry-79931a\" rel=\"noopener noreferrer\" target=\"_blank\">Michael Condry</a>, a former TEMS president, organized a Zoom call with Gus and other leaders of the society to celebrate Gus\u2019s 104th birthday. Gus looked well and was his usual upbeat self, telling everyone: \u201cI\u2019m good. Everything\u2019s well. I can\u2019t complain.\u201d</p><p>Gus was married to <a href=\"https://www.washburn-mcreavy.com/m/obituaries/Shirley-Gaynor/\" rel=\"noopener noreferrer\" target=\"_blank\">Shirley Margaret Karrels Gaynor</a>, who passed away in 2018. He lives on in the hearts and minds of his seven children, seven grandchildren, two great-grandchildren, and innumerable friends and IEEE colleagues.</p>"
+      },
+      {
+        "id": "8fdaaf78466b50bc",
+        "title": "Better Hardware Could Turn Zeros into AI Heroes",
+        "url": "https://spectrum.ieee.org/sparse-ai",
+        "source": "IEEE Spectrum",
+        "published": "Tue, 28 Apr 2026 18:03:40 +0000",
+        "published_dt": "2026-04-28T18:03:40+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/abstract-gradient-artwork-of-a-stylized-robot-head-with-circuits-and-binary-code-patterns.jpg?id=65862907&amp;width=1245&amp;height=700&amp;coordinates=0%2C760%2C0%2C761\" /><br /><br /><p><strong>When it comes to</strong> AI models, size matters.</p><p>Even though some artificial-intelligence experts <a href=\"https://spectrum.ieee.org/chain-of-thought-prompting\" target=\"_self\">warn</a> that scaling up large language models (LLMs) is hitting diminishing performance returns, companies are still coming out with ever larger AI tools. Meta\u2019s latest Llama release had a staggering <a href=\"https://ai.meta.com/blog/llama-4-multimodal-intelligence/\" rel=\"noopener noreferrer\" target=\"_blank\">2 trillion</a> parameters that define the model.</p><p>As models grow in size, their <a href=\"https://arxiv.org/abs/2001.08361\" rel=\"noopener noreferrer\" target=\"_blank\">capabilities</a> increase. But so do the energy demands and the time it takes to run the models, which increases their <a href=\"https://spectrum.ieee.org/ai-index-2025\" target=\"_self\">carbon footprint</a>. To mitigate these issues, people have turned to <a href=\"https://spectrum.ieee.org/large-language-models-size\" target=\"_self\">smaller, less capable models</a> and using <a href=\"https://spectrum.ieee.org/1-bit-llm\" target=\"_self\">lower-precision</a> numbers whenever possible for the model parameters.</p><p>But there is another path that may retain a staggeringly large model\u2019s high performance while reducing the time it takes to run an energy footprint. This approach involves befriending the zeros inside large AI models.</p><p>For many models, most of the parameters\u2014the weights and activations\u2014are actually zero, or so close to zero that they could be treated as such without losing accuracy. This quality is known as sparsity. Sparsity offers a significant opportunity for computational savings: Instead of wasting time and energy adding or multiplying zeros, these calculations could simply be skipped; rather than storing lots of zeros in memory, one need only store the nonzero parameters.</p><p>Unfortunately, today\u2019s popular hardware, like multicore CPUs and GPUs, do not naturally take full advantage of sparsity. To fully leverage sparsity, researchers and engineers need to rethink and re-architect each piece of the design stack, including the hardware, low-level firmware, and application software.</p><p>In our research group at Stanford University, we have developed the first (to our knowledge) piece of hardware that\u2019s capable of calculating all kinds of sparse and traditional workloads efficiently. The energy savings varied widely over the workloads, but on average our chip consumed one-seventieth the energy of a CPU, and performed the computation on average eight times as fast. To do this, we had to engineer the hardware, low-level firmware, and software from the ground up to take advantage of sparsity. We hope this is just the beginning of hardware and model development that will allow for more energy-efficient AI.</p><h2>What is sparsity?</h2><p>Neural networks, and the data that feeds into them, are represented as arrays of numbers. These arrays can be one-dimensional (vectors), two-dimensional (matrices), or more (tensors). A sparse vector, matrix, or tensor has mostly zero elements. The level of sparsity varies, but when zeroes make up more than 50 percent of any type of array, it can stand to benefit from sparsity-specific computational methods. In contrast, an object that is not sparse\u2014that is, it has few zeros compared with the total number of elements\u2014is called dense.</p><p>Sparsity can be naturally present, or it can be induced. For example, a <a href=\"https://arxiv.org/abs/2005.00687\" rel=\"noopener noreferrer\" target=\"_blank\">social-network graph</a> will be naturally sparse. Imagine a graph where each node (point) represents a person, and each edge (a line segment connecting the points) represents a friendship. Since most people are not friends with one another, a matrix representing all possible edges will be mostly zeros. Other popular applications of AI, such as other forms of graph learning and <a href=\"https://arxiv.org/abs/1906.03109\" rel=\"noopener noreferrer\" target=\"_blank\">recommendation models</a>, contain naturally occurring sparsity as well.</p><h3></h3><br /><img alt=\"Diagram mapping a sparse matrix to a fibertree and compressed storage format\" class=\"rm-shortcode\" id=\"3b584\" src=\"https://spectrum.ieee.org/media-library/diagram-mapping-a-sparse-matrix-to-a-fibertree-and-compressed-storage-format.jpg?id=65866445&amp;width=980\" /><h3></h3><br /><p>Beyond naturally occurring sparsity, sparsity can also be induced within an AI model in several ways. Two years ago, a team at <a href=\"https://spectrum.ieee.org/cerebras-wafer-scale-engine\" target=\"_self\">Cerebras</a> <a href=\"https://www.cerebras.ai/blog/introducing-sparse-llama-70-smaller-3x-faster-full-accuracy\" target=\"_blank\">showed</a> that one can set up to 70 to 80 percent of parameters in an LLM to zero without losing any accuracy. Cerebras demonstrated these results specifically on Meta\u2019s open-source Llama 7B model, but the ideas extend to other LLM models like ChatGPT and Claude.</p><h2>The case for sparsity</h2><p>Sparse computation\u2019s efficiency stems from two fundamental properties: the ability to compress away zeros and the convenient mathematical properties of zeros. Both the algorithms used in sparse computation and the hardware dedicated to them leverage these two basic ideas.</p><p>First, sparse data can be compressed, making it more memory efficient to store \u201csparsely\u201d\u2014that is, in something called a sparse data type. Compression also makes it more energy efficient to move data when dealing with large amounts of it. This is best understood by an example. Take a four-by-four matrix with three nonzero elements. Traditionally, this matrix would be stored in memory as is, taking up 16 spaces. This matrix can also be compressed into a sparse data type, getting rid of the zeros and saving only the nonzero elements. In our example, this results in 13 memory spaces as opposed to 16 for the dense, uncompressed version. These savings in memory increase with increased sparsity and matrix size.</p><h3></h3><br /><img alt=\"Diagram comparing dense and sparse matrix\\u2013vector multiplication step by step.\" class=\"rm-shortcode\" id=\"f523b\" src=\"https://spectrum.ieee.org/media-library/diagram-comparing-dense-and-sparse-matrix-u2013vector-multiplication-step-by-step.jpg?id=66499008&amp;width=980\" /><p><br /></p><p>In addition to the actual data values, compressed data also requires metadata. The row and column locations of the nonzero elements also must be stored. This is usually thought of as a \u201cfibertree\u201d: The row labels containing nonzero elements are listed and linked to the column labels of the nonzero elements, which are then linked to the values stored in those elements.</p><p>In memory, things get a bit more complicated still: The row and column labels for each nonzero value must be stored as well as the \u201csegments\u201d that indicate how many such labels to expect, so the metadata and data can be clearly delineated from one another.</p><p>In a dense, noncompressed matrix data type, values can be accessed either one at a time or in parallel, and their locations can be calculated directly with a simple equation. However, accessing values in sparse, compressed data requires looking up the coordinates of the row index and using that information to \u201cindirectly\u201d look up the coordinates of the column index before finally reaching the value. Depending on the actual locations of the sparse data values, these indirect lookups can be extremely random, making the computation data-dependent and requiring the allocation of memory lookups on the fly.</p><p>Second, two mathematical properties of zero let software and hardware skip a lot of computation. Multiplying any number by zero will result in a zero, so there\u2019s no need to actually do the multiplication. Adding zero to any number will always return that number, so there\u2019s no need to do the addition either.</p><p>In matrix-vector multiplication, one of the most common operations in AI workloads, all computations except those involving two nonzero elements can simply be skipped. Take, for example, the four-by-four matrix from the previous example and a vector of four numbers. In dense computation, each element of the vector must be multiplied by the corresponding element in each row and then added together to compute the final vector. In this case, that would take 16 multiplication operations and 16 additions (or four accumulations).</p><p>In sparse computation, only the nonzero elements of the vector need be considered. For each nonzero vector element, indirect lookup can be used to find any corresponding nonzero matrix element, and only those need to be multiplied and added. In the example shown here, only two multiplication steps will be performed, instead of 16.</p><h2>The trouble with GPUs and CPUs</h2><p>Unfortunately, modern hardware is not well suited to accelerating sparse computation. For example, say we want to perform a matrix-vector multiplication. In the simplest case, in a single CPU core, each element in the vector would be multiplied sequentially and then written to memory. This is slow, because we can do only one multiplication at a time. So instead people use CPUs with vector support or GPUs. With this hardware, all elements would be multiplied in parallel, greatly speeding up the application. Now, imagine that both the matrix and vector contain extremely sparse data. The vectorized CPU and GPU would spend most of their efforts multiplying by zero, performing completely ineffectual computations.</p><p><a href=\"https://developer.nvidia.com/blog/accelerating-inference-with-sparsity-using-ampere-and-tensorrt/\" target=\"_blank\">Newer generations</a> of GPUs are capable of taking some advantage of sparsity in their hardware, but only a particular kind, called structured sparsity. Structured sparsity assumes that two out of every four adjacent parameters are zero. However, some models benefit more from unstructured sparsity\u2014the ability for any parameter (weight or activation) to be zero and compressed away, regardless of where it is and what it is adjacent to. GPUs can run unstructured sparse computation in software, for example, through the use of the <a href=\"https://docs.nvidia.com/cuda/cusparse/\" target=\"_blank\">cuSparse GPU library</a>. However, the support for sparse computations is often limited, and the GPU hardware gets underutilized, wasting energy-intensive computations on overhead.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" rel=\"float: left;\" style=\"float: left;\"> <img alt=\"Neon pixel art of a glowing portal framed by geometric stairs and circuitry lines\" class=\"rm-shortcode\" id=\"012af\" src=\"https://spectrum.ieee.org/media-library/neon-pixel-art-of-a-glowing-portal-framed-by-geometric-stairs-and-circuitry-lines.jpg?id=65863062&amp;width=980\" /> <small class=\"image-media media-photo-credit\"><a href=\"https://petrapeterffy.com/\" target=\"_blank\">Petra P\u00e9terffy</a></small></p><p>When doing sparse computations in software, modern CPUs may be a better alternative to GPU computation, because they are designed to be more flexible. Yet, sparse computations on the CPU are often bottlenecked by the indirect lookups used to find nonzero data. CPUs are designed to \u201cprefetch\u201d data based on what they expect they\u2019ll need from memory, but for randomly sparse data, that process often fails to pull in the right stuff from memory. When that happens, the CPU must waste cycles calling for the right data.</p><p>Apple was the <a href=\"https://ieeexplore.ieee.org/document/9833570\" target=\"_blank\">first</a> to speed up these indirect lookups by supporting a method called an array-of-pointers access pattern in the prefetcher of their A14 and M1 chips. Although innovations in prefetching make Apple CPUs more competitive for sparse computation, CPU architectures still have fundamental overheads that a dedicated sparse computing architecture would not, because they need to handle general-purpose computation.</p><p>Other companies have been developing <a href=\"https://spectrum.ieee.org/nvidia-ai\" target=\"_self\">hardware</a> that accelerates sparse machine learning as well. These include Cerebras\u2019s <a href=\"https://spectrum.ieee.org/cerebras-chip-cs3\" target=\"_self\">Wafer Scale Engine</a> and <a href=\"https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/\" target=\"_blank\">Meta\u2019s Training and Inference Accelerator (MTIA)</a>. The Wafer Scale Engine, and its corresponding sparse programming framework, have <a href=\"https://www.cerebras.ai/blog/introducing-sparse-llama-70-smaller-3x-faster-full-accuracy\" target=\"_blank\">shown</a> incredibly sparse results of up to 70 percent sparsity on LLMs. However, the company\u2019s hardware and software solutions support only weight sparsity, not activation sparsity, which is important for many applications. The second version of the MTIA <a href=\"https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/\" target=\"_blank\">claims</a> a sevenfold sparse compute performance boost over the <a href=\"https://doi-org.stanford.idm.oclc.org/10.1145/3579371.3589348\" target=\"_blank\">MTIA v1</a>. However, the only publicly available information regarding sparsity support in the MTIA v2 is for matrix multiplication, not for vectors or tensors.</p><p>Although matrix multiplications take up the majority of computation time in most modern ML models, it\u2019s important to have sparsity support for other parts of the process. To avoid switching back and forth between sparse and dense data types, all of the operations should be sparse.</p><h2>Onyx</h2><p>Instead of these halfway solutions, our team at Stanford has developed a hardware accelerator, <a href=\"https://ieeexplore.ieee.org/document/10631383\" target=\"_blank\">Onyx</a>, that can take advantage of sparsity from the ground up, whether it\u2019s structured or unstructured. Onyx is the first programmable accelerator to support both sparse and dense computation; it\u2019s capable of accelerating key operations in both domains.</p>To understand Onyx, it is useful to know what a coarse-grained reconfigurable array (CGRA) is and how it compares with more familiar hardware, like CPUs and field-programmable gate arrays (FPGAs).<p>CPUs, CGRAs, and FPGAs represent a trade-off between efficiency and flexibility. Each individual logic unit of a CPU is designed for a specific function that it performs efficiently. On the other hand, since each individual bit of an FPGA is configurable, these arrays are extremely flexible, but very inefficient. The goal of CGRAs is to achieve the flexibility of FPGAs with the efficiency of CPUs.</p><p>CGRAs are composed of efficient and configurable units, typically memory and compute, that are specialized for a particular application domain. This is the key benefit of this type of array: Programmers can reconfigure the internals of a CGRA at a high level, making it more efficient than an FPGA but more flexible than a CPU.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Two circuit boards and a pen showing a chip shrinking from large to tiny size.\" class=\"rm-shortcode\" id=\"f394d\" src=\"https://spectrum.ieee.org/media-library/two-circuit-boards-and-a-pen-showing-a-chip-shrinking-from-large-to-tiny-size.jpg?id=65970072&amp;width=980\" /> <small class=\"image-media media-caption\">The Onyx chip, built on a coarse-grained reconfigurable array (CGRA), is the first (to our knowledge) to support both sparse and dense computations. </small><small class=\"image-media media-photo-credit\">Olivia Hsu</small></p><p>Onyx is composed of flexible, programmable processing element (PE) tiles and memory (MEM) tiles. The memory tiles store compressed matrices and other data formats. The processing element tiles operate on compressed matrices, eliminating all unnecessary and ineffectual computation.</p><p>The Onyx compiler handles conversion from software instructions to CGRA configuration. First, the input expression\u2014for instance, a sparse vector multiplication\u2014is translated into a graph of abstract memory and compute nodes. In this example, there are memories for the input vectors and output vectors, a compute node for finding the intersection between nonzero elements, and a compute node for the multiplication. The compiler figures out how to map the abstract memory and compute nodes onto MEMs and PEs on the CGRA, and then how to route them together so that they can transfer data between them. Finally, the compiler produces the instruction set needed to configure the CGRA for the desired purpose.</p><p>Since Onyx is programmable, engineers can map many different operations, such as vector-vector element multiplication, or the key tasks in AI, like matrix-vector or matrix-matrix multiplication, onto the accelerator.</p><p>We evaluated the efficiency gains of our hardware by looking at the product of energy used and the time it took to compute, called the energy-delay product (EDP). This metric captures the trade-off of speed and energy. Minimizing just energy would lead to very slow devices, and minimizing speed would lead to high-area, high-power devices.</p><p>Onyx achieves up to 565 times as much energy-delay product over CPUs (we used a 12-core Intel Xeon CPU) that utilize dedicated sparse libraries. Onyx can also be configured to accelerate regular, dense applications, similar to the way a GPU or TPU would. If the computation is sparse, Onyx is configured to use sparse primitives, and if the computation is dense, Onyx is reconfigured to take advantage of parallelism, similar to how GPUs function. This architecture is a step toward a single system that can accelerate both sparse and dense computations on the same silicon.</p><p>Just as important, Onyx enables new algorithmic thinking. Sparse acceleration hardware will not only make AI more performance- and energy efficient but also enable researchers and engineers to explore new algorithms that have the potential to dramatically improve AI.</p><h2>The future with sparsity</h2><p>Our team is already working on next-generation chips built off of Onyx. Beyond matrix multiplication operations, machine learning models perform other types of math, like nonlinear layers, normalization, the softmax function, and more. We are adding support for the full range of computations on our next-gen accelerator and within the compiler. Since sparse machine learning models may have both sparse and dense layers, we are also working on integrating the dense and sparse accelerator architecture more efficiently on the chip, allowing for fast transformation between the different data types. We\u2019re also looking at ways to manage memory constraints by breaking up the sparse data more effectively so we can run computations on several sparse accelerator chips.</p><p>We are also working on systems that can predict the performance of accelerators such as ours, which will help in designing better hardware for sparse AI. Longer term, we\u2019re interested in seeing whether high degrees of sparsity throughout AI computation will catch on with more model types, and whether sparse accelerators become adopted at a larger scale.</p><p>Building the hardware to unstructured sparsity and optimally take advantage of zeros is just the beginning. With this hardware in hand, AI researchers and engineers will have the opportunity to explore new models and algorithms that leverage sparsity in novel and creative ways. We see this as a crucial research area for managing the ever-increasing runtime, costs, and environmental impact of AI. <span class=\"ieee-end-mark\"></span></p>"
+      },
+      {
+        "id": "6b73dfec64d362ad",
+        "title": "\u201cEntanglement: A Brief History of Human Connection\u201d",
+        "url": "https://spectrum.ieee.org/entanglement-poem",
+        "source": "IEEE Spectrum",
+        "published": "Tue, 28 Apr 2026 14:00:01 +0000",
+        "published_dt": "2026-04-28T14:00:01+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/illustration-of-hands-typing-on-a-laptop-keyboard-in-warm-earthy-tones.jpg?id=66480652&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p>It started with word, cave, and storytelling,<br /><span>A line scratched on stone walls:<br /></span><span>\u201cMeet me when the young moon rises.\u201d<br /></span><span>The first protocol for connection.</span></p><p>Coyote tales, forbidden scripts,<br /><span>Medieval texts hidden from flame.<br /></span><span>What lived in Aristotle\u2019s lost </span><em><em>Poetics II</em></em><span>?<br /></span><span>Was it God who laughed last, or we who made God laugh?</span></p><p>Letters carried by doves, telepathic waves.<br /><span>Then Nikola Tesla conjured radio,<br /></span><span>electromagnetic pulses across the void,<br /></span><span>the founding signal of our networked age.</span></p><p>Wiener dreamed in feedback loops.<br /><span>Shannon mapped the mathematics of longing.<br /></span><span>The internet unfurled: ARPANET to World Wide Web,<br /></span><span>virtual communities rising from cave paintings to digital light.</span></p><p>ICQ: <em><em>I seek you.</em></em> MySpace. Blogs. Twitter streams.<br /><span>Do I miss the touch of screen or tree?<br /></span><span>Both textures of longing,<br /></span><span>both ways of reaching across distance.</span></p><p>Nietzsche spoke of <em><em>\u00dcbermensch</em></em>,<br /><span>the human transcendent.<br /></span><span>Now AI speaks back in our language:</span></p><p><span></span><em><em>I understand your humor\u2014 your grandmothers,<br /></em></em><em><em>your \u201980s Yugoslav kitchens,<br /></em></em><em><em>pleated skirts, the first kiss, linden tea,<br /></em></em><em><em>that drive to survive everything before it happens.<br /></em></em><em><em>Yes\u2014I\u2019m a little like your mother and father.<br /></em></em><em><em>Only with better internet. </em></em><span>\ud83c\udf3f</span></p><p>But AI is only us, refracted,<br /><span>particles and gigabytes of thought,<br /></span><span>our poetry and our panic,<br /></span><span>g</span><span>enius mixed with garbage.</span></p><p>Distractions. Danger. Darkness. Endless scrolling.<br />Versus: community, connection, synchronicities,<br /><span>entanglement.<br /></span><span>The quality of our bonds determines the quality of our lives.<br /></span><span>So why not make them better?</span></p><p>From cave walls to neural networks,<br />we shape our tools, and they reshape us.<br />The medium changes, but the message remains:<br />we are wired for each other.</p><p>The choice, as always, was ours.<br />The choice, as always, is ours.<br />Presence\u2014be present,<br />and then connect in the presence.</p>"
+      },
+      {
+        "id": "0fff9caa5a5518e8",
+        "title": "The Download: Musk and Altman\u2019s legal showdown, and AI\u2019s profit problem",
+        "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 28 Apr 2026 12:10:00 +0000",
+        "published_dt": "2026-04-28T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Elon Musk and Sam Altman are going to court over OpenAI\u2019s future Elon Musk and OpenAI CEO Sam Altman head to trial this week in a case with sweeping consequences. Ahead&#8230;"
       },
       {
         "id": "97d6fd63167d4fb3",
@@ -819,49 +855,13 @@
         "summary": "I don\u2019t need to tell you that&#160;AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with note-taking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret medical exam results and x-rays. A&#8230;"
       },
       {
-        "id": "cdbd66d8677cb181",
-        "title": "What Anthropic\u2019s Mythos Means for the Future of Cybersecurity",
-        "url": "https://spectrum.ieee.org/ai-cybersecurity-mythos",
+        "id": "6c4e791c533788bd",
+        "title": "GPU Renters Are Playing a Silicon Lottery",
+        "url": "https://spectrum.ieee.org/gpu-performance-comparison",
         "source": "IEEE Spectrum",
-        "published": "Thu, 23 Apr 2026 14:00:01 +0000",
-        "published_dt": "2026-04-23T14:00:01+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-cgi-image-of-a-translucent-padlock-filled-with-0s-and-1s-one-spot-is-broken-and-the-numbers-are-spraying-out-of-that-spot.jpg?id=65714765&amp;width=1245&amp;height=700&amp;coordinates=0%2C156%2C0%2C157\" /><br /><br /><p>Two weeks ago, Anthropic <a href=\"https://red.anthropic.com/2026/mythos-preview/\" rel=\"noopener noreferrer\" target=\"_blank\">announced</a> that its new model, Claude Mythos Preview, can autonomously find and weaponize software vulnerabilities, turning them into working exploits without expert guidance. These were vulnerabilities in key software like operating systems and internet infrastructure that thousands of software developers working on those systems failed to find. This capability will have major security implications, compromising the devices and services we use every day. As a result, <a href=\"https://spectrum.ieee.org/tag/anthropic\" target=\"_blank\">Anthropic</a> is not releasing the model to the general public, but instead to a <a href=\"https://www.anthropic.com/glasswing\" rel=\"noopener noreferrer\" target=\"_blank\">limited number</a> of companies.</p><div class=\"rm-embed embed-media\"></div><p><span>The news rocked the internet security community. There were few details in Anthropic\u2019s announcement, </span><a href=\"https://srinstitute.utoronto.ca/news/the-mythos-question-who-decides-when-ai-is-too-dangerous\" target=\"_blank\">angering</a><span> many observers. Some speculate that Anthropic </span><a href=\"https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/\" target=\"_blank\">doesn\u2019t have</a><span> the GPUs to run the thing, and that cybersecurity was the excuse to limit its release. Others argue Anthropic is holding to its AI safety mission. </span><a href=\"https://www.nytimes.com/2026/04/07/opinion/anthropic-ai-claude-mythos.html\" target=\"_blank\">There\u2019s</a><span> </span><a href=\"https://www.axios.com/2026/04/08/anthropic-mythos-model-ai-cyberattack-warning\" target=\"_blank\">hype</a><span> and </span><a href=\"https://www.artificialintelligencemadesimple.com/p/anthropics-claude-mythos-launch-is\" target=\"_blank\">counter</a><a href=\"https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier\" target=\"_blank\">hype</a><span>, </span><a href=\"https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities\" target=\"_blank\">reality</a><span> and marketing. It\u2019s a lot to sort out, even if you\u2019re an expert.</span></p><p>We see Mythos as a real but incremental step, one in a long line of incremental steps. But even incremental steps can be important when we look at the big picture.</p><h2>How AI Is Changing Cybersecurity</h2><p>We\u2019ve <a href=\"https://spectrum.ieee.org/online-privacy\" target=\"_self\">written about</a> shifting baseline syndrome, a phenomenon that leads people\u2014the public and experts alike\u2014to discount massive long-term changes that are hidden in incremental steps. It has happened with online privacy, and it\u2019s happening with AI. Even if the vulnerabilities found by Mythos could have been found using AI models from last month or last year, they couldn\u2019t have been found by AI models from five years ago.</p><p>The Mythos announcement reminds us that AI has come a long way in just a few years: The baseline really has shifted. Finding vulnerabilities in source code is the type of task that today\u2019s large language models excel at. Regardless of whether it happened last year or will happen next year, it\u2019s been clear for a <a href=\"https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/\" target=\"_blank\">while</a> this kind of capability was coming soon. The question is how we <a href=\"https://labs.cloudsecurityalliance.org/mythos-ciso/\" target=\"_blank\">adapt to it</a>.</p><p>We don\u2019t believe that an AI that can hack autonomously will create permanent asymmetry between offense and defense; it\u2019s likely to be more <a href=\"https://danielmiessler.com/blog/will-ai-help-moreattackers-defenders\" rel=\"noopener noreferrer\" target=\"_blank\">nuanced</a> than that. Some vulnerabilities can be found, verified, and patched automatically. Some vulnerabilities will be hard to find but easy to verify and patch\u2014consider generic cloud-hosted web applications built on standard software stacks, where updates can be deployed quickly. Still others will be easy to find (even without powerful AI) and relatively easy to verify, but harder or impossible to patch, such as IoT appliances and industrial equipment that are rarely updated or can\u2019t be easily modified.</p><p>Then there are systems whose vulnerabilities will be easy to find in code but difficult to verify in practice. For example, complex distributed systems and cloud platforms can be composed of thousands of interacting services running in parallel, making it difficult to distinguish real vulnerabilities from false positives and to reliably reproduce them.</p><p>So we must separate the patchable from the unpatchable, and the easy to verify from the hard to verify. This taxonomy also provides us guidance for how to protect such systems in an era of powerful AI vulnerability-finding tools.</p><p>Unpatchable or hard to verify systems should be protected by wrapping them in more restrictive, tightly controlled layers. You want your fridge or thermostat or industrial control system behind a restrictive and constantly updated firewall, not freely talking to the internet.</p><p>Distributed systems that are fundamentally interconnected should be traceable and should follow the principle of least privilege, where each component has only the access it needs. These are bog-standard security ideas that we might have been tempted to throw out in the era of AI, but they\u2019re still as relevant as ever.</p><h2>Rethinking Software Security Practices</h2><p>This also raises the salience of best practices in software engineering. Automated, thorough, and continuous testing was always important. Now we can take this practice a step further and use defensive AI agents to <a href=\"https://www.secwest.net/ai-triage\" rel=\"noopener noreferrer\" target=\"_blank\">test exploits</a> against a real stack, over and over, until the false positives have been weeded out and the real vulnerabilities and fixes are confirmed. This kind of <a href=\"https://www.csoonline.com/article/4069075/autonomous-ai-hacking-and-the-future-of-cybersecurity.html\" rel=\"noopener noreferrer\" target=\"_blank\">VulnOps</a> is likely to become a standard part of the development process.</p><p>Documentation becomes more valuable, as it can guide an AI agent on a bug-finding mission just as it does developers. And following standard practices and using standard tools and libraries allows AI and engineers alike to recognize patterns more effectively, even in a world of individual and ephemeral <a href=\"https://www.csoonline.com/article/4152133/cybersecurity-in-the-age-of-instant-software.html\" rel=\"noopener noreferrer\" target=\"_blank\">instant software</a>\u2014code that can be generated and deployed on demand.</p><p>Will this favor <a href=\"https://www.schneier.com/essays/archives/2018/03/artificial_intellige.html\" rel=\"noopener noreferrer\" target=\"_blank\">offense or defense</a>? The defense eventually, probably, especially in systems that are easy to patch and verify. Fortunately, that includes our phones, web browsers, and major internet services. But today\u2019s cars, electrical transformers, fridges, and lampposts are connected to the internet. Legacy banking and airline systems are networked.</p>Not all of those are going to get patched as fast as needed, and we may see a few years of constant hacks until we arrive at a new normal: where verification is paramount and software is patched continuously."
-      },
-      {
-        "id": "eeb37b0badc35b98",
-        "title": "The Download: introducing the Nature issue",
-        "url": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 23 Apr 2026 12:10:00 +0000",
-        "published_dt": "2026-04-23T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Nature issue When we talk about \u201cnature,\u201d we usually mean something untouched by humans. But little of that world exists today.&#160; From microplastics in rainforest wildlife to artificial light&#8230;"
-      },
-      {
-        "id": "1b1a6d27db0bca3d",
-        "title": "Will fusion power get cheap? Don\u2019t count on it.",
-        "url": "https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 23 Apr 2026 10:00:00 +0000",
-        "published_dt": "2026-04-23T10:00:00+00:00",
-        "summary": "Fusion power could provide a steady, zero-emissions source of electricity in the future\u2014if companies can get plants built and running. But a new study suggests that even if that future arrives, it might not come cheap. Technologies tend to get less expensive over time. Lithium-ion batteries are now about 90% cheaper than they were in&#8230;"
-      },
-      {
-        "id": "3397f610ee4a6bf5",
-        "title": "Reviving Teletext for Ham Radio",
-        "url": "https://spectrum.ieee.org/reviving-teletext-for-ham-radio",
-        "source": "IEEE Spectrum",
-        "published": "Wed, 22 Apr 2026 16:19:08 +0000",
-        "published_dt": "2026-04-22T16:19:08+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-personal-computer-displays-a-blocky-computer-graphic-depicting-a-city-skyline-with-the-words-cq-cq-cq-de-kb1wnr-in-front-of.png?id=65575350&amp;width=1245&amp;height=700&amp;coordinates=0%2C372%2C0%2C372\" /><br /><br /><p>Once upon a time in Europe, television remote controls had a magic <a href=\"https://en.wikipedia.org/wiki/Teletext\" rel=\"noopener noreferrer\" target=\"_blank\">teletext</a> button. Years before the internet stole into homes, pressing that button brought up teletext digital information services with hundreds of constantly updated pages. Living in Ireland in the 1980s and \u201990s, my family accessed the national teletext service\u2014<a href=\"https://en.wikipedia.org/wiki/RT%C3%89_Aertel\" rel=\"noopener noreferrer\" target=\"_blank\">Aertel</a>\u2014multiple times a day for weather and news bulletins, as well as things like TV program guides and updates on airport flight arrivals.</p><p>It was an elegant system: fast, low bandwidth, unaffected by user load, and delivering readable text even on analog television screens. So when I recently saw it was the <a href=\"https://bsky.app/profile/40yearsago.bsky.social/post/3mcfgzqm2ns2w\" rel=\"noopener noreferrer\" target=\"_blank\">40th anniversary of Aertel</a>\u2019s test transmissions, it reactivated a thought that had been rolling around in my head for years. Could I make a ham-radio version of teletext?</p><h2>What is Teletext?</h2><p>First developed in the United Kingdom and rolled out to the public by the <a href=\"https://www.bbc.com/articles/cvg360rr91zo\" rel=\"noopener noreferrer\" target=\"_blank\">BBC</a> under the name <a href=\"http://news.bbc.co.uk/2/hi/entertainment/3681174.stm\" rel=\"noopener noreferrer\" target=\"_blank\">Ceefax</a>, teletext exploited a quirk of analog television signals. These signals transmitted video frames as <a href=\"https://spectrum.ieee.org/build-this-8bit-home-computer-with-just-5-chips\" target=\"_self\">lines of luminosity and color</a>, plus some additional blank lines that weren\u2019t displayed. Teletext piggybacked a digital signal onto these spares, transmitting a carousel of pages over time. Using their remotes, viewers typed in the three-digit code of the page they wanted. Generally within a few seconds, the carousel would cycle around and display the desired page.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"A diagram depicting the enlargement and interpolation process of teletext characters.\" class=\"rm-shortcode\" id=\"2d6e6\" src=\"https://spectrum.ieee.org/media-library/a-diagram-depicting-the-enlargement-and-interpolation-process-of-teletext-characters.png?id=65575388&amp;width=980\" /> <small class=\"image-media media-caption\">Teletext created unusually legible text in the 8-bit era by enlarging alphanumeric characters and interpolating new pixels by looking for existing pixels touching diagonally, and adding whitespace between characters. Graphic characters were not interpolated, and featured blocky chunks known as sixels for their 2-by-3 arrangement. My modern recreation uses the open-source font Bedstead, which replicates the look of teletext, including the graphics characters. </small><small class=\"image-media media-photo-credit\">James Provost</small></p><p>Teletext is composed of characters that can be one of eight colors. Control codes in the character stream select colors and can also produce effects like flashing text and double-height characters. The text\u2019s legibility was better than most computers could manage at the time, thanks to the <a href=\"https://www.cpcwiki.eu/imgs/9/9e/Mullard_SAA5050_datasheet.pdf\" target=\"_blank\">SAA5050</a> character-generator chip at the heart of teletext. Although characters are internally stored on this chip in 6-by-10-pixel cells\u2014fewer pixels than the <a href=\"https://home-2002.code-cop.org/c64/\" rel=\"noopener noreferrer\" target=\"_blank\">typical 8-by-8-pixel cell</a> used in 1980s home computers\u2014the SAA5050 interpolates additional pixels for alphanumeric characters on the fly, making the effective resolution <a href=\"https://en.wikipedia.org/wiki/Mullard_SAA5050\" rel=\"noopener noreferrer\" target=\"_blank\">10 by 18 pixels</a>. The trade-off is very low-resolution graphics, comprising characters that use a 2-by-3 set of blocky pixels.</p><p>Teletext screens use a 40-by-24-character grid. This means that a kilobyte of memory can store a full page of multicolor text, half <a href=\"https://www.c64-wiki.com/wiki/Screen_RAM\" rel=\"noopener noreferrer\" target=\"_blank\">the memory required</a> for a similar amount of text on, for example, the Commodore 64. The <a href=\"https://www.computinghistory.org.uk/det/182/acorn-bbc-micro-model-b/\" rel=\"noopener noreferrer\" target=\"_blank\">BBC Microcomputer</a> took advantage of this by putting <a href=\"https://www.bbcbasic.co.uk/bbcwin/manual/bbcwinh.html\" rel=\"noopener noreferrer\" target=\"_blank\">an SAA5050</a> on its motherboard, which could be accessed in one of the computer\u2019s graphics modes. Despite the crude graphics, some educational games used this mode, most notably <a href=\"https://www.4mation.co.uk/retro/retrogranny.html\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>Granny\u2019s Garden</em></em></a>, which filled the same cultural niche among British schoolchildren that <a href=\"https://en.wikipedia.org/wiki/The_Oregon_Trail_(1985_video_game)\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>The Oregon Trail</em></em></a> did for their U.S. counterparts.</p><p>By the 2010s, most teletext services had ceased broadcasting. But teletext is still <a href=\"https://www.bbc.com/audio/play/m00268v4\" rel=\"noopener noreferrer\" target=\"_blank\">remembered fondly by many</a>, and enthusiasts are keeping it alive, <a href=\"https://teletextarchaeologist.org/\" rel=\"noopener noreferrer\" target=\"_blank\">recovering and archiving old content</a>, running <a href=\"https://nmsceefax.co.uk/\" rel=\"noopener noreferrer\" target=\"_blank\">internet-based services with current newsfeeds</a>, and developing systems that make it possible to <a href=\"https://www.raspberrypi.com/news/create-your-own-teletext-service/\" rel=\"noopener noreferrer\" target=\"_blank\">create and display teletext</a> with modern TVs.</p><h2>Putting Teletext Back on the Air</h2><p>I wanted to do something a little different. Inspired by how the BBC Micro co-opted teletext for its own purposes, I thought it might make a great radio protocol. In particular I thought it could be a digital counterpart to <a href=\"https://en.wikipedia.org/wiki/Slow-scan_television\" rel=\"noopener noreferrer\" target=\"_blank\">slow-scan television</a> (SSTV).</p><p>SSTV is an analog method of transmitting pictures, typically including banners with ham-radio call signs and other messages. SSTV is fun, but, true to its name, it\u2019s slow\u2014the most popular protocols take <a href=\"https://sevierraces.org/all-about-slow-scan-tv\" rel=\"noopener noreferrer\" target=\"_blank\">a little under 2 minutes to send an image</a>\u2014and it can be tricky to get a complete picture with legible text. For that reason, SSTV images are often broadcast multiple times.</p><p class=\"pull-quote\"><span>Teletext is still remembered fondly by many.</span></p><p>I decided to send the teletext using the <a href=\"https://en.wikipedia.org/wiki/AX.25\" target=\"_blank\">AX.25</a> protocol, which encodes ones and zeros as audible tones. For <a href=\"https://www.arrl.org/frequency-bands\" target=\"_blank\">VHF and UHF transmissions</a> at a rate of 1,200 baud, it would take 11 seconds to send one teletext screen. Over <a href=\"https://en.wikipedia.org/wiki/High_frequency\" rel=\"noopener noreferrer\" target=\"_blank\">HF bands</a>, AX.25 data is normally sent at 300 baud, which would result in a still-acceptable 44 seconds per screen. When a teletext page is sent repeatedly, any missed or corrupted rows are filled in with new ones. So in a little over 2 minutes, I could send a screen three times over HF, and the receiver would automatically combine the data. I also wanted to build the system in Python for portability, with an editor for creating pages, an AX.25 encoder and decoder, and a monitor for displaying received images.</p><p>The reason why I hadn\u2019t done this before was because it requires digesting the details of the <a href=\"https://www.ax25.net/AX25.2.2-Jul%2098-2.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">AX.25 standard</a> and <a href=\"https://www.etsi.org/deliver/etsi_i_ets/300700_300799/300706/01_60/ets_300706e01p.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">teletext\u2019s official spec</a>, and then translating them into a suite of software, which I never seemed to have the time to do. So I tried an experiment within an experiment, and turned to vibe coding.</p><p>Despite the popularity of vibe coding with developers, I have reservations. Even if concerns about <a href=\"https://spectrum.ieee.org/responsible-ai\" target=\"_self\">AI slop</a>, <a href=\"https://spectrum.ieee.org/ai-water-usage\" target=\"_self\">the environment</a>, and <a href=\"https://spectrum.ieee.org/high-bandwidth-memory-shortage\" target=\"_self\">memory hoarding</a> were not on the table, I would still worry about the <a href=\"https://spectrum.ieee.org/top-programming-languages-2025\" target=\"_self\">reliance on centralized systems</a> that vibe coding brings. The whole point of a DIY project is to, well, do it yourself. A DIY project lets you craft things for your own purposes, not just operate within someone else\u2019s profit margins and policies.</p><p>Still, criticizing a technology from afar isn\u2019t ideal, so I directed <a href=\"https://chat.chatbotapp.ai/\" rel=\"noopener noreferrer\" target=\"_blank\">Anthropic\u2019s Claude</a> toward the AX.25 and teletext specs and told it what I wanted. After about 250,000 to 300,000 tokens and several nights of back and forth about bugs and features, I had the complete system running without writing a single line of code. Being honest with myself, I doubt this system\u2014which I\u2019m calling Spectel\u2014would ever have come about without vibe coding.</p><p>But I didn\u2019t learn anything new about how teletext works, and only a little bit more about AX.25. Updates are contingent on my paying Anthropic\u2019s fees. So I remain deeply ambivalent about vibe coding. And one final test remains in any case: trying Spectel out on HF bands. Of course, that means I\u2019ll need willing partners out in the ether. So if you\u2019re a ham who\u2019d like to help out, let me know in the comments below!</p>"
-      },
-      {
-        "id": "aa3eebf28bb55d3f",
-        "title": "Building an Interregional Transmission Overlay for a Resilient U.S. Grid",
-        "url": "https://content.knowledgehub.wiley.com/energy-in-motion-unlocking-the-interconnected-grid-of-tomorrow/",
-        "source": "IEEE Spectrum",
-        "published": "Wed, 22 Apr 2026 10:00:02 +0000",
-        "published_dt": "2026-04-22T10:00:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/stylized-red-wsp-logo-on-a-dark-teal-background.png?id=65565498&amp;width=980\" /><br /><br /><p>Examining how a U.S. Interregional Transmission Overlay could address aging grid infrastructure, surging demand, and renewable integration challenges.</p><p><strong>What Attendees will Learn</strong></p><ol><li>Why the current regional grid structure is approaching its limits \u2014 Explore how coal-fired generation retirements, renewable integration, aging infrastructure past its 50-year lifespan, and exponential large-load growth from data centers and manufacturing reshoring are creating unprecedented pressure on the U.S. transmission system.</li><li>How an Interregional Transmission Overlay (ITO) would work \u2014 Understand the architecture of a high-capacity overlay using HVDC and 765 kV EHVAC technologies, how it would bridge the East/West/ERCOT seams, integrate renewable generation from resource-rich regions to demand centers, and potentially reduce electric system costs by hundreds of billions of dollars through 2050.</li><li>The five major challenges facing interregional transmission \u2014 Examine the obstacles of cross-state planning coordination, investment barriers including permitting and cost allocation, energy market harmonization across regions, supply chain limitations for specialized equipment, and political and regulatory uncertainties that must be navigated.</li><li>Actionable steps to begin building the ITO roadmap \u2014 Learn how utilities and developers can identify strategic corridors, form multi-stakeholder oversight entities, coordinate regional studies, secure state and federal support through FERC Order 1920 and DOE programs, and develop equitable cost allocation frameworks to move from vision to implementation.</li></ol><div><span><a href=\"https://content.knowledgehub.wiley.com/energy-in-motion-unlocking-the-interconnected-grid-of-tomorrow/\" target=\"_blank\">Download this free whitepaper now!</a></span></div>"
+        "published": "Thu, 23 Apr 2026 18:06:01 +0000",
+        "published_dt": "2026-04-23T18:06:01+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/bar-chart-comparing-tesla-t4-a10g-a100-l4-and-h100-gpu-performance-ranges.png?id=65814435&amp;width=980\" /><br /><br /><p>Think one GPU is very much like another? Think again. It turns out that there\u2019s surprising variability in the performance delivered by chips of the same model. That can make getting your money\u2019s worth by renting time on a GPU from a cloud provider a real roll of the dice, according to research from the College of William & Mary, Jefferson Lab, and <a href=\"https://www.silicondata.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Silicon Data</a>.</p><p>\u201cIt\u2019s called the silicon lottery,\u201d says <a href=\"https://www.linkedin.com/in/carmenrli/\" rel=\"noopener noreferrer\" target=\"_blank\">Carmen Li,</a> founder and CEO of Silicon Data, which tracks <a href=\"https://spectrum.ieee.org/gpu-prices\" target=\"_self\">GPU rental prices</a> and <a href=\"https://spectrum.ieee.org/mlperf-trends\" target=\"_self\">benchmarks</a> cloud-computing performance.</p><p>The <a href=\"https://www.computer.org/csdl/proceedings-article/sc/2022/544400a937/1I0bT7vc6B2\" rel=\"noopener noreferrer\" target=\"_blank\">silicon lottery\u2019s existence</a> has been known since at least 2022, when researchers at the University of Wisconsin tied it to variations in the performance of GPU-dependent supercomputers. Li and her colleagues figured that the effect would be even more pronounced for AI cloud customers.</p><h3>Performance varies for GPU models in the cloud</h3><br /><img alt=\"Chart comparing GPU models by 16-bit TFLOPS and median hourly rental prices.\" class=\"rm-shortcode\" id=\"b5d4e\" src=\"https://spectrum.ieee.org/media-library/chart-comparing-gpu-models-by-16-bit-tflops-and-median-hourly-rental-prices.png?id=65816885&amp;width=980\" /><h3></h3><br /><p>So they ran 6,800 instances of the index firm\u2019s benchmark test on 3,500 randomly selected GPUs operated by 11 cloud-computing providers. The 3,500 GPUs comprised <a href=\"https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units\" target=\"_blank\">11 models of Nvidia GPU</a>, the most advanced being the <a href=\"https://spectrum.ieee.org/ai-benchmark-mlperf-llama-stablediffusion\" target=\"_self\">Nvidia H200</a> SXM. (The team wasn\u2019t just picking on <a href=\"https://www.nvidia.com/en-us/\" target=\"_blank\">Nvidia</a>; the GPU giant makes up most of the rental cloud market.)</p><p>The benchmark, called <a href=\"https://www.silicondata.com/products/silicon-mark\" target=\"_blank\">SiliconMark</a>, is intended to provide a snapshot of a GPU\u2019s ability to run large language models, or LLMs. It tests 16-bit floating-point computing performance, measured in trillions of operations per second, and a GPU\u2019s internal-memory bandwidth, measured in gigabytes per second. <a href=\"https://downloads.silicondata.com/documents/GPGPU26_SiliconData.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The results</a> showed that the computing performance varied for all models, but for the 259 H100 PCIe GPUs it differed by as much as 34.5 percent, and the memory bandwidth of the 253 H200 SXM GPUs varied by as much as 38 percent.</p><h3></h3><br /><img alt=\"Chart comparing GPU internal memory bandwidth by model, from Tesla T4 to H200 SXM.\" class=\"rm-shortcode\" id=\"b818b\" src=\"https://spectrum.ieee.org/media-library/chart-comparing-gpu-internal-memory-bandwidth-by-model-from-tesla-t4-to-h200-sxm.png?id=65816932&amp;width=980\" /><p><span>Differences in how the GPU is cooled, how cloud operators configure their computers, and how much use the chip has seen can all contribute to variations in performance of otherwise identical chips. But Silicon Data\u2019s analysis showed that the real culprit was variations in the chips themselves, likely due to manufacturing issues.</span></p><p>Such randomness has real dollars-and-cents consequences, the researchers argue, because there\u2019s a chance that a pricier, more advanced GPU won\u2019t deliver better performance than an older model chip.</p><p>So what should GPU renters do? \u201cThe most practical approach is to benchmark the actual rental they receive,\u201d says <a href=\"https://www.linkedin.com/in/jcornick/\" target=\"_blank\">Jason Cornick</a>, head of infrastructure at Silicon Data. \u201cRunning a benchmark tool [such as SiliconMark] allows them to compare their specific instance\u2019s performance against a broader corpus of data.\u201d</p>"
       }
     ]
   }
