@@ -1,15 +1,60 @@
 {
-  "generated_at": "2026-05-03T13:25:15.348221+00:00",
+  "generated_at": "2026-05-04T14:18:26.286657+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "fc4cdf7a6f2bd90d",
-        "title": "STAT+: Katherine Szarama named acting director of FDA\u2019s vaccines and biologics center",
-        "url": "https://www.statnews.com/2026/04/30/fda-names-katherine-szarama-acting-director-cber/?utm_campaign=rss",
+        "id": "5aaea82f7f2ad0a9",
+        "title": "What to know about hantavirus, the illness suspected in a cruise ship outbreak",
+        "url": "https://www.statnews.com/2026/05/04/what-to-know-about-hantavirus-cruise-ship-outbreak/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Thu, 30 Apr 2026 21:15:56 +0000",
-        "published_dt": "2026-04-30T21:15:56+00:00",
-        "summary": "Katherine Szarama, who joined the FDA last year to serve as Vinay Prasad\u2019s deputy, will now fill his shoes at CBER."
+        "published": "Mon, 04 May 2026 13:59:26 +0000",
+        "published_dt": "2026-05-04T13:59:26+00:00",
+        "summary": "A rodent-borne illness is suspected of causing an\u00a0outbreak aboard a cruise ship\u00a0that has killed three people and sickened others. Here's what to know about hantavirus."
+      },
+      {
+        "id": "ad1db185768f29c0",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about an abortion pill controversy, another UCB deal, and more news",
+        "url": "https://www.statnews.com/pharmalot/2026/05/04/abortion-pill-mifepristone-controversy-ucb-deal/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 04 May 2026 13:58:35 +0000",
+        "published_dt": "2026-05-04T13:58:35+00:00",
+        "summary": "Two drugmakers asked the U.S. Supreme Court to restore mail-order access to the abortion pill mifepristone, after an appeals court suspended deliveries"
+      },
+      {
+        "id": "d3c4365aaf1f3df7",
+        "title": "Federal court blocks mailing of mifepristone",
+        "url": "https://www.statnews.com/2026/05/04/health-news-federal-court-blocks-mailing-of-mifepristone/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 04 May 2026 13:28:02 +0000",
+        "published_dt": "2026-05-04T13:28:02+00:00",
+        "summary": "Longevity \"blue zones,\" an update on uterine transplant science, and more Morning Rounds health news"
+      },
+      {
+        "id": "7ae1b021c7fc00ad",
+        "title": "Tailoring AI solutions for health care needs",
+        "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 04 May 2026 13:00:00 +0000",
+        "published_dt": "2026-05-04T13:00:00+00:00",
+        "summary": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cancer and performing surgery to streamlining&#8230;"
+      },
+      {
+        "id": "18ee2a31bc5b1a1f",
+        "title": "STAT+: Biotech raises $42 million to run Huntington\u2019s disease trial",
+        "url": "https://www.statnews.com/2026/05/04/biotech-startup-latus-bio-raises-42-million-run-huntingtons-trial/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 04 May 2026 11:00:00 +0000",
+        "published_dt": "2026-05-04T11:00:00+00:00",
+        "summary": "Latus Bio raised $42 million as it prepares to seek FDA approval to start a clinical trial for its gene therapy for Huntington's disease."
+      },
+      {
+        "id": "00baaa7752cdfabd",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/celcuitys-gedatolisib-beats-novartis-piqray-phase-3-breast-cancer-study\" hreflang=\"en\">Celcuity\u2019s gedatolisib beats Novartis\u2019 Piqray in phase 3 breast cancer study</a>",
+        "url": "https://www.fiercebiotech.com/biotech/celcuitys-gedatolisib-beats-novartis-piqray-phase-3-breast-cancer-study",
+        "source": "Fierce Biotech",
+        "published": "May 4, 2026 5:53am",
+        "published_dt": "2026-05-04T05:53:00+00:00",
+        "summary": "A phase 3 trial of Celcuity\u2019s pan-PI3K/mTOR inhibitor has hit its primary endpoint, clearing the biotech to file a second submission for a molecule already under review by the FDA."
       },
       {
         "id": "a069637f0321a9c2",
@@ -19,6 +64,42 @@
         "published": "Apr 29, 2026 1:57pm",
         "published_dt": "2026-04-29T13:57:00+00:00",
         "summary": "The FDA has halted U.S. enrollment for Newron Pharmaceuticals\u2019 phase 3 schizophrenia trial, following the death of a patient outside of the country."
+      },
+      {
+        "id": "522dedc710f3308e",
+        "title": "Opinion: STAT+: China\u2019s strict new supply chain regulations could create massive problems for Western biopharma companies",
+        "url": "https://www.statnews.com/2026/05/04/china-biotech-pharmaceuticals-supply-chain-regulations/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 04 May 2026 08:30:00 +0000",
+        "published_dt": "2026-05-04T08:30:00+00:00",
+        "summary": "China is now a peer competitor in drug innovation \u2014 and it intends to stay that way on its own terms, writes Dennis Kwok."
+      },
+      {
+        "id": "fbdd18f94c1629bf",
+        "title": "Opinion: Are blue zones real? Answering that question is harder than ever",
+        "url": "https://www.statnews.com/2026/05/04/are-blue-zones-real-new-scrutiny-longevity-hot-spots/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 04 May 2026 08:30:00 +0000",
+        "published_dt": "2026-05-04T08:30:00+00:00",
+        "summary": "\"Blue zones\" as a concept have strayed far and wide from their humble roots, write Shelley Wood and Eric Topol."
+      },
+      {
+        "id": "ce64592adb86b841",
+        "title": "Immigration changes are driving foreign researchers to leave the U.S. \u2014 or not come to begin with",
+        "url": "https://www.statnews.com/2026/05/04/trump-immigration-policy-stat-survey-measures-science-impact/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 04 May 2026 08:30:00 +0000",
+        "published_dt": "2026-05-04T08:30:00+00:00",
+        "summary": "Labs are seeing fewer applications from international students and researchers, and some doctoral students are considering leaving early."
+      },
+      {
+        "id": "0bf9730b97fe6e90",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ucb-inks-2b-candid-buyout-join-gilead-autoimmune-field\" hreflang=\"en\">UCB inks $2B Candid buyout to join Gilead in autoimmune field</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ucb-inks-2b-candid-buyout-join-gilead-autoimmune-field",
+        "source": "Fierce Biotech",
+        "published": "May 4, 2026 5:03am",
+        "published_dt": "2026-05-04T05:03:00+00:00",
+        "summary": "UCB has struck a deal to acquire Candid Therapeutics for $2 billion upfront, hijacking a planned reverse merger with Rallybio to challenge Gilead for an emerging opportunity for T-cell engagers."
       },
       {
         "id": "29069a6f90678f53",
@@ -75,15 +156,6 @@
         "summary": "J. Craig Venter, the scientist whose relentless ambition helped turn genetics from an artisanal trade into an industrialized information machine, died at 79."
       },
       {
-        "id": "e7e26083c67eb140",
-        "title": "STAT+: Hair-raising trial results, and Servier\u2019s M&A wishlist",
-        "url": "https://www.statnews.com/2026/04/30/investors-excited-hair-loss-drugs-ai-improve-clinical-trials-readout-loud/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 30 Apr 2026 20:03:24 +0000",
-        "published_dt": "2026-04-30T20:03:24+00:00",
-        "summary": "Why are investors excited about hair loss drugs? Will AI make clinical trials run more smoothly? And more in \"The Readout LOUD,\" STAT's weekly biotech podcast."
-      },
-      {
         "id": "71bf22c6c6c40360",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/amgen-abandons-candidates-cancer-and-sjogrens-syndrome-after-ph-2-data-not-par\" hreflang=\"en\">Amgen abandons candidates for cancer, Sj\u00f6gren\u2019s syndrome over weak ph. 2 data</a>",
         "url": "https://www.fiercebiotech.com/biotech/amgen-abandons-candidates-cancer-and-sjogrens-syndrome-after-ph-2-data-not-par",
@@ -91,24 +163,6 @@
         "published": "Apr 30, 2026 6:11pm",
         "published_dt": "2026-04-30T18:11:00+00:00",
         "summary": "Amgen has pulled the plug on midstage drug candidates for cancer and the autoimmune disease Sj\u00f6gren\u2019s syndrome, terminating five clinical trials in the process."
-      },
-      {
-        "id": "196d2d0be71d5cd3",
-        "title": "STAT+: FDA wants to exclude weight loss drugs from a compounding list",
-        "url": "https://www.statnews.com/pharmalot/2026/04/30/fda-weight-loss-drugs-new-rule-would-end-glp-1-compound-pharmacy/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 30 Apr 2026 15:53:39 +0000",
-        "published_dt": "2026-04-30T15:53:39+00:00",
-        "summary": "FDA moves to remove semaglutide, tirzepatide, and liraglutide from its 503B compounding list, saying there's no shortage of GLP-1 drugs from Novo Nordisk and Eli Lilly."
-      },
-      {
-        "id": "f89623bff31476bb",
-        "title": "STAT+: Five-way obesity drug is super effective \u2014\u00a0in mice",
-        "url": "https://www.statnews.com/2026/04/30/biotech-news-five-way-obesity-drug-super-effective-in-mice/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 30 Apr 2026 15:38:03 +0000",
-        "published_dt": "2026-04-30T15:38:03+00:00",
-        "summary": "A 'quintuple agonist,' Alector halts it Alzheimer's trial, and more biotech news from The Readout"
       },
       {
         "id": "487099b938b62724",
@@ -156,15 +210,6 @@
         "summary": "Transplant-focused precision medicine company CareDx is making a move into the oncology space, scooping up Massachusetts-based biotech Naveris in a deal worth up to $260 million.<br />"
       },
       {
-        "id": "b81354f40615c570",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-scraps-flap-inhibitor-flunked-phase-2-asthma-trial\" hreflang=\"en\">AstraZeneca scraps FLAP inhibitor after flunking phase 2 asthma trial</a>",
-        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-scraps-flap-inhibitor-flunked-phase-2-asthma-trial",
-        "source": "Fierce Biotech",
-        "published": "Apr 29, 2026 8:39am",
-        "published_dt": "2026-04-29T08:39:00+00:00",
-        "summary": "AstraZeneca has scrapped an asthma program after the FLAP inhibitor flunked a phase 2 trial."
-      },
-      {
         "id": "ff01673697dae622",
         "title": "Federal appeals court blocks mailing of abortion pill mifepristone",
         "url": "https://www.statnews.com/2026/05/02/mifepristone-abortion-pill-court-ruling-mailing-blocked/?utm_campaign=rss",
@@ -181,54 +226,72 @@
         "published": "Sat, 02 May 2026 11:00:00 +0000",
         "published_dt": "2026-05-02T11:00:00+00:00",
         "summary": "\u201cUnfortunately, the resources don't exist to take every flat-earther to the International Space Station to change their mind,\u201d a STAT reader writes."
-      },
-      {
-        "id": "ef674acd2ea564a7",
-        "title": "Opinion: What do medical students think about their education?",
-        "url": "https://www.statnews.com/2026/05/02/medical-school-nutrition-preventive-care-rfk-jr/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 02 May 2026 11:00:00 +0000",
-        "published_dt": "2026-05-02T11:00:00+00:00",
-        "summary": "\u201cNo one's pulling the pieces together\u201d: a conversation with medical students about preventive care education."
-      },
-      {
-        "id": "d49161cc83cb1c56",
-        "title": "STAT+: Up and down the ladder: The latest comings and goings",
-        "url": "https://www.statnews.com/pharmalot/2026/05/01/up-and-down-the-ladder-the-latest-comings-and-goings-7/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 01 May 2026 16:47:51 +0000",
-        "published_dt": "2026-05-01T16:47:51+00:00",
-        "summary": "Hired someone new and exciting? Promoted a rising star? Finally solved that hard-to-fill spot? Share the news with us, and we\u2019ll share it with others.&#160;That\u2019s right.&#160;Send us your changes, and&#8230;"
-      },
-      {
-        "id": "4e9640e590c8b546",
-        "title": "Cyber-Insecurity in the AI Era",
-        "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 01 May 2026 15:54:01 +0000",
-        "published_dt": "2026-05-01T15:54:01+00:00",
-        "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review&#8217;s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after&#8230;"
-      },
-      {
-        "id": "4e06f7d211cf0439",
-        "title": "Operationalizing AI for Scale and Sovereignty",
-        "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 01 May 2026 15:31:09 +0000",
-        "published_dt": "2026-05-01T15:31:09+00:00",
-        "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high\u2011quality data needed to power reliable insights. This conversation from MIT Technology Review&#8217;s EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and governance\u2014positioning data&#8230;"
-      },
-      {
-        "id": "979900692e3f4b78",
-        "title": "PFAS is still in some infant formula",
-        "url": "https://www.statnews.com/2026/05/01/health-news-pfas-still-in-some-infant-formula/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 01 May 2026 13:12:39 +0000",
-        "published_dt": "2026-05-01T13:12:39+00:00",
-        "summary": "Casey Means out as surgeon general nominee, America's renewed fertility anxiety, and more health news"
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "3a8c60a220164795",
+        "title": "Eplus3D, Rosswag and qualloy partner on metal AM",
+        "url": "https://www.engineering.com/eplus3d-rosswag-and-qualloy-partner-on-metal-am/",
+        "source": "Engineering.com",
+        "published": "Mon, 04 May 2026 13:18:58 +0000",
+        "published_dt": "2026-05-04T13:18:58+00:00",
+        "summary": "<p>Rosswag will install an eight-laser EP-M550 system for testing, qualification and industrial application development from June 2026.</p>\n<p>The post <a href=\"https://www.engineering.com/eplus3d-rosswag-and-qualloy-partner-on-metal-am/\">Eplus3D, Rosswag and qualloy partner on metal AM</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "7f7bd56c81a7161a",
+        "title": "Siemens to show digital water and waste tools at IFAT",
+        "url": "https://www.engineering.com/siemens-to-show-digital-water-and-waste-tools-at-ifat/",
+        "source": "Engineering.com",
+        "published": "Mon, 04 May 2026 13:10:49 +0000",
+        "published_dt": "2026-05-04T13:10:49+00:00",
+        "summary": "<p>The portfolio targets monitoring, process control and utility management for municipal and industrial infrastructure.</p>\n<p>The post <a href=\"https://www.engineering.com/siemens-to-show-digital-water-and-waste-tools-at-ifat/\">Siemens to show digital water and waste tools at IFAT</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "cbfb8b22c7828940",
+        "title": "Why meaning and growth matter in an engineering workplace",
+        "url": "https://www.engineering.com/why-meaning-and-growth-matter-in-an-engineering-workplace/",
+        "source": "Engineering.com",
+        "published": "Mon, 04 May 2026 13:00:00 +0000",
+        "published_dt": "2026-05-04T13:00:00+00:00",
+        "summary": "<p>MBP\u2019s Julie Coolbaugh shares why meaningful work makes MBP one of the Top Workplaces for Engineers in 2026.</p>\n<p>The post <a href=\"https://www.engineering.com/why-meaning-and-growth-matter-in-an-engineering-workplace/\">Why meaning and growth matter in an engineering workplace</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "8d120cd53e7d6f7a",
+        "title": "3D Systems gains EU Class IIa denture certification",
+        "url": "https://www.engineering.com/3d-systems-gains-eu-class-iia-denture-certification/",
+        "source": "Engineering.com",
+        "published": "Mon, 04 May 2026 11:00:11 +0000",
+        "published_dt": "2026-05-04T11:00:11+00:00",
+        "summary": "<p>The approved workflow combines printer and two materials to produce monolithic dentures in one print without post-curing.</p>\n<p>The post <a href=\"https://www.engineering.com/3d-systems-gains-eu-class-iia-denture-certification/\">3D Systems gains EU Class IIa denture certification</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "728b58cc23dd3198",
+        "title": "Mouser adds Narda-MITEQ RF and microwave products",
+        "url": "https://www.engineering.com/mouser-adds-narda-miteq-rf-and-microwave-products/",
+        "source": "Engineering.com",
+        "published": "Mon, 04 May 2026 10:51:53 +0000",
+        "published_dt": "2026-05-04T10:51:53+00:00",
+        "summary": "<p>The lineup spans 0.1 GHz to 45 GHz and includes LNAs, mixers, couplers and power dividers for radar and test use.</p>\n<p>The post <a href=\"https://www.engineering.com/mouser-adds-narda-miteq-rf-and-microwave-products/\">Mouser adds Narda-MITEQ RF and microwave products</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "d9c53ebe4f14c612",
+        "title": "Innoviz targets defense and homeland security with LiDAR",
+        "url": "https://www.engineering.com/innoviz-targets-defense-and-homeland-security-with-lidar/",
+        "source": "Engineering.com",
+        "published": "Mon, 04 May 2026 10:37:22 +0000",
+        "published_dt": "2026-05-04T10:37:22+00:00",
+        "summary": "<p>InnovizSMART reaches 450 m, while InnovizTwo ULR extends to 1 km and includes PoE for existing infrastructure.</p>\n<p>The post <a href=\"https://www.engineering.com/innoviz-targets-defense-and-homeland-security-with-lidar/\">Innoviz targets defense and homeland security with LiDAR</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "6c9578fe484cf376",
+        "title": "Hexagon and Fill pilot humanoid for factory automation",
+        "url": "https://www.engineering.com/hexagon-and-fill-pilot-humanoid-for-factory-automation/",
+        "source": "Engineering.com",
+        "published": "Mon, 04 May 2026 10:31:31 +0000",
+        "published_dt": "2026-05-04T10:31:31+00:00",
+        "summary": "<p>AEON will be tested in Gurten on machine tending, inspection and data capture tasks within existing workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/hexagon-and-fill-pilot-humanoid-for-factory-automation/\">Hexagon and Fill pilot humanoid for factory automation</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
       {
         "id": "0cfa6e4561abf2a2",
         "title": "Aeva sensor powers Nikon laser radar inspection system",
@@ -264,69 +327,6 @@
         "published": "Fri, 01 May 2026 12:46:29 +0000",
         "published_dt": "2026-05-01T12:46:29+00:00",
         "summary": "<p>Its eyelid surgery training model won in healthcare, and the company also earned four sustainability awards from AMGTA.</p>\n<p>The post <a href=\"https://www.engineering.com/stratasys-receives-multiple-awards-at-rapid-tct/\">Stratasys receives multiple awards at RAPID + TCT</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "91f4e4dba4a6e399",
-        "title": "Lattice wins 2026 AI Excellence Award for edge AI",
-        "url": "https://www.engineering.com/lattice-wins-2026-ai-excellence-award-for-edge-ai/",
-        "source": "Engineering.com",
-        "published": "Fri, 01 May 2026 11:46:16 +0000",
-        "published_dt": "2026-05-01T11:46:16+00:00",
-        "summary": "<p>Its solution with NVIDIA combines sensor bridging and real-time processing for flexible, low-power edge system design.</p>\n<p>The post <a href=\"https://www.engineering.com/lattice-wins-2026-ai-excellence-award-for-edge-ai/\">Lattice wins 2026 AI Excellence Award for edge AI</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "7b7e4af9680bc889",
-        "title": "Altera updates FPGA AI Suite for edge AI deployment",
-        "url": "https://www.engineering.com/altera-updates-fpga-ai-suite-for-edge-ai-deployment/",
-        "source": "Engineering.com",
-        "published": "Fri, 01 May 2026 11:23:46 +0000",
-        "published_dt": "2026-05-01T11:23:46+00:00",
-        "summary": "<p>Version 26.1.1 adds a spatial compiler for Agilex FPGAs and remains license-free for up to 100,000 inferences.</p>\n<p>The post <a href=\"https://www.engineering.com/altera-updates-fpga-ai-suite-for-edge-ai-deployment/\">Altera updates FPGA AI Suite for edge AI deployment</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "2dad84c60625166b",
-        "title": "NatureWorks opens integrated Ingeo facility in Thailand",
-        "url": "https://www.engineering.com/natureworks-opens-integrated-ingeo-facility-in-thailand/",
-        "source": "Engineering.com",
-        "published": "Fri, 01 May 2026 10:34:57 +0000",
-        "published_dt": "2026-05-01T10:34:57+00:00",
-        "summary": "<p>The new complex combines sugarcane-based inputs, lactide and polymer production, adding 75,000 metric tons a year.</p>\n<p>The post <a href=\"https://www.engineering.com/natureworks-opens-integrated-ingeo-facility-in-thailand/\">NatureWorks opens integrated Ingeo facility in Thailand</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "443158a878782484",
-        "title": "IBM, Dallara partner on AI for aerodynamic design",
-        "url": "https://www.engineering.com/ibm-dallara-partner-on-ai-for-aerodynamic-design/",
-        "source": "Engineering.com",
-        "published": "Fri, 01 May 2026 10:26:56 +0000",
-        "published_dt": "2026-05-01T10:26:56+00:00",
-        "summary": "<p>The partners are also exploring quantum methods after an AI model matched CFD diffuser tests in about 10 seconds.</p>\n<p>The post <a href=\"https://www.engineering.com/ibm-dallara-partner-on-ai-for-aerodynamic-design/\">IBM, Dallara partner on AI for aerodynamic design</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "017f051366900855",
-        "title": "Supercharging Digital Gauging at Bobcat North America",
-        "url": "https://www.engineering.com/supercharging-digital-gauging-at-bobcat-north-america/",
-        "source": "Engineering.com",
-        "published": "Fri, 01 May 2026 08:00:00 +0000",
-        "published_dt": "2026-05-01T08:00:00+00:00",
-        "summary": "<p>Discover how Bobcat North America is transforming measurement efficiency and quality decision-making with modern 3D gauging and centralized data access powered by PolyWorks&#124;Inspector\u2122 Gauging and PolyWorks&#124;DataLoop\u2122. InnovMetric has sponsored this post. A Legacy of Performance and Growth Doosan Bobcat is synonymous with skid-steer loaders and produces more than all other brands combined\u2014a powerful testament to [&#8230;]</p>\n<p>The post <a href=\"https://www.engineering.com/supercharging-digital-gauging-at-bobcat-north-america/\">Supercharging Digital Gauging at Bobcat North America</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "36ba0d4475694ea0",
-        "title": "JuliaHub launches Dyad 3.0 and raises $65 million",
-        "url": "https://www.engineering.com/juliahub-launches-dyad-3-0-and-raises-65-million/",
-        "source": "Engineering.com",
-        "published": "Fri, 01 May 2026 07:04:52 +0000",
-        "published_dt": "2026-05-01T07:04:52+00:00",
-        "summary": "<p>The platform uses AI agents and physics-based modeling to support faster design, testing and validation of industrial systems.</p>\n<p>The post <a href=\"https://www.engineering.com/juliahub-launches-dyad-3-0-and-raises-65-million/\">JuliaHub launches Dyad 3.0 and raises $65 million</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "62db6902bb49d18e",
-        "title": "Bringing humanoids to factories through digital threads",
-        "url": "https://www.engineering.com/bringing-humanoids-to-factories-through-digital-threads/",
-        "source": "Engineering.com",
-        "published": "Fri, 01 May 2026 07:00:00 +0000",
-        "published_dt": "2026-05-01T07:00:00+00:00",
-        "summary": "<p>By Dale Tutt,&#160;Global&#160;Vice President of Industries at Siemens Digital Industries Software Humanoid robots were once considered nothing more than science fiction; a technology reserved for fantastical and far-future settings. In 2026 however, these visionary tales are now evolving into reality due to the increasing prevalence of digital transformation in several sectors and the resulting digital [&#8230;]</p>\n<p>The post <a href=\"https://www.engineering.com/bringing-humanoids-to-factories-through-digital-threads/\">Bringing humanoids to factories through digital threads</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "b63b1a8268b9f5d6",
@@ -412,13 +412,22 @@
     ],
     "Economics": [
       {
-        "id": "830599fe782d9573",
-        "title": "Understanding Firms' AI Efforts and Their Economic Impact -- by Tania Babina",
-        "url": "https://www.nber.org/papers/w35123#fromrss",
+        "id": "134571131401e6cc",
+        "title": "Till the IRS Do Us Part: (Optimal) Taxation of Households -- by Hans A. Holter, Dirk Krueger, Serhiy Stepanchuk",
+        "url": "https://www.nber.org/papers/w35137#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "This paper reviews firm-level data on artificial intelligence and the emerging evidence on AI's economic effects. It argues that measurement is central: different AI datasets capture different objects (including invention versus use, internal capability building versus outsourcing, and realized activity versus investor perceptions) and can therefore lead to different conclusions. The paper develops a framework for choosing among these measures and surveys available data sources on firm AI efforts. It synthesizes evidence on AI's effects on firm growth, valuation, productivity, risk, labor, competition, financial markets and applications. The paper concludes by suggesting some ideas for future research."
+        "summary": "This paper argues that a progressive tax system combined with individual taxation of married couples can generate more revenue than the current household-based U.S. system, especially when the extra revenues do not induce negative labor supply effects through increased government transfers. A progressive system that taxes individuals rather than couples jointly leads to larger labor force participation and higher average human capital, creates more \u201cfiscal space\u201d, Laffer curves shift up and social welfare potentially rises. In our model with one- and two-earner households, human capital and an extensive margin labor supply decision, the peak of the Laffer curve is 18 percentage points higher with an individual-based, progressive tax system than with the current U.S. tax system. The maximum revenue is attained with 100% more progressivity than the current system, and at an average tax rate of 42%. Progressive taxation, when imposed on individuals rather than households, lowers the average tax rate for individuals with modest potential income that are close to the participation margin. At the same time, it creates a positive income effect on the labor supply of these individuals by reducing the net income of their higher earning spouses and limiting their net earnings potential in the case of a high temporary labor productivity. Steady state social welfare is larger with individual taxation. The optimal progressivity is higher than the current U.S. status quo, and results in welfare gains of 0.8% in consumption-equivalent variation. Cohorts born during the transition also experience significant welfare gains from this reform."
+      },
+      {
+        "id": "9d76da193e83974c",
+        "title": "When Does Automating AI Research Produce Explosive Growth? Feedback Loops in Innovation Networks -- by Tom Davidson, Basil Halperin, Thomas Houlden, Anton Korinek",
+        "url": "https://www.nber.org/papers/w35155#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "AI labs are increasingly using AI itself to accelerate AI research, creating a feedback loop that could lead to an intelligence explosion. We develop a general semi-endogenous growth model with an innovation network, where research and automation in one sector increase the productivity of research in other sectors, and derive a clean analytical condition under which growth becomes superexponential (``explosive''). We find that automating research can offset diminishing returns to ideas by activating two reinforcing channels: a technological feedback loop across research sectors, and an economic feedback loop in which higher output finances further research. Growth becomes explosive if the combined strength of technological and economic feedback loops overcomes diminishing returns. In a simple simulation calibrated to trends in AI progress, fully automating software research and modest (5%) automation in other sectors generates a singularity within six years. Bottlenecks do not overturn the result if task automation advances sufficiently fast."
       },
       {
         "id": "4aa920b9e0db9c27",
@@ -448,58 +457,58 @@
         "summary": "Just consider what happens if inflation starts to rise again"
       },
       {
-        "id": "3439e6f65d39224e",
-        "title": "China's Global Ownership -- by Jennie Bai, Luc Laeven, Yaojun Ke, Hong Ru",
-        "url": "https://www.nber.org/papers/w35106#fromrss",
+        "id": "95bd0dcd5b3ed657",
+        "title": "Rental Prices and the Cost of Living in the United States, 1914\u20132006 -- by Ronan C. Lyons, Allison Shertzer",
+        "url": "https://www.nber.org/papers/w35124#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We study the global footprint and real effects of Chinese overseas corporate ownership. By assembling a comprehensive micro-level dataset of 161,773 firms across 159 countries (2012\u20132021), we independently reconstruct multi-layered ownership chains to trace capital through offshore tax havens to its ultimate origin. This approach reveals a global footprint substantially broader than official FDI statistics. Chinese-controlled foreign assets expanded at 20% annually, reaching $2.1 trillion or roughly 3% of global corporate assets by 2021. Chinese investors\u2014particularly state-owned enterprises (SOEs)\u2014strategically target R&amp;D-intensive and supply-chain-linked firms. Following acquisition, target firms increase capital stock and R&amp;D expenditures, yet these inputs fail to generate higher patent output and are accompanied by a significant decline in profitability. We document a novel 'innovation spillback' mechanism: while target innovation remains stagnant, Chinese parent firms experience a sharp acceleration in granted patents following their first developed-economy acquisition. Furthermore, a greater Chinese presence crowds out R&amp;D at non-target peer firms, though aggregate industry-level innovation remains unchanged. China thus represents a distinctively state-driven model of global ownership that accepts weaker near-term performance to internalize technological capacity at home."
+        "summary": "The Rent of Primary Residence (RoPR) series constructed by the Bureau of Labor Statistics (BLS) implies that nominal rental prices increased by just 2.6% per year from 1914 to 2006 while overall prices grew by 3.3%. We show that this \u201cfalling real rents\u201d puzzle can be explained by the evolving treatment of shelter in the Consumer Price Index (CPI). In this paper we construct a new, methodologically consistent shelter price series using the Historical Housing Prices (HHP) Project rental index. We also construct a revised set of shelter weights going back to 1914 and combine them with the price series to create an alternate CPI that applies the owners\u2019 equivalent rent (OER) concept of shelter consistently across time. The HHP shelter price series increases by a factor of 28.4 (compared with the 10.7 increase in RoPR) and lifts average CPI growth from 3.3% to 3.6% per year. The revised series eliminates the long-run decline in real rents in the CPI and provides a new benchmark for assessing trends in the cost of living and real income in the U.S. over the twentieth century."
       },
       {
-        "id": "aaa4dbc248c20ff6",
-        "title": "How (un)Stable Are LLM Occupational Exposure Scores? Evidence from Multi-Model Replication -- by Michelle Yin, Hoa Vu, Claudia Persico",
-        "url": "https://www.nber.org/papers/w35110#fromrss",
+        "id": "2bcc831ec211aff3",
+        "title": "Monetary Policy According to Households: Perceptions, Reactions and Channels -- by Francesco Grigoli, Damiano Sandri, Yuriy Gorodnichenko, Olivier Coibion",
+        "url": "https://www.nber.org/papers/w35127#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "A rapidly growing literature estimates AI's labor-market effects using large language models (LLMs) to self-assess occupational exposure. We demonstrate these measures are highly fragile. Replicating the dominant rubric with three frontier models on identical tasks, we find a 3.6-fold divergence in mean exposure with agreement as low as 57%. This measurement instability alters downstream empirical conclusions: in a difference-in-differences framework, individual-level coefficient magnitudes vary 2.4-fold across annotators, and county level estimates flip from a significant negative to an insignificant positive depending on annotators. We formalize this non-classical measurement error, highlighting the risks of treating evolving LLMs as static instruments."
+        "summary": "This paper studies how households perceive the transmission of monetary policy and how these perceptions affect their decisions. Using a large-scale survey of over 25,000 U.S. households combined with randomized information treatments, we measure how households expect changes in the federal funds rate to affect economic conditions and their own behavior. Households report that higher interest rates lead them to reduce their spending, particularly on durable goods. However, the mechanisms underlying this response differ markedly from those in standard macroeconomic models. Respondents expect monetary tightening to raise borrowing costs and inflation. In turn, consumption function estimates identified using information treatments reveal that households respond to higher expected inflation by reducing consumption. Household inflation expectations also emerge as a central driver of portfolio reallocations following monetary policy changes."
       },
       {
-        "id": "8949efb8b02799c5",
-        "title": "The Welfare Effects of Protecting Older Workers -- by Todd Morris, Stefan Staubli, Benoit Dostie",
-        "url": "https://www.nber.org/papers/w35111#fromrss",
+        "id": "99b755125a0e2212",
+        "title": "Labor Market Impacts of ICE Activity in Trump 2.0 -- by Elizabeth Cox, Chloe N. East",
+        "url": "https://www.nber.org/papers/w35129#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We evaluate the welfare effects of five provincial mandatory retirement bans in Canada from 2005 to 2009 using linked employer-employee tax data. The bans sharply reduce retirements at age 65, with sizable announcement effects and heterogeneity across industries. Post-65 employment and earnings rise at least 14%, with gains comparable to a two-year increase in pension-eligibility ages. Older workers save more and spouses postpone retirement, benefiting public finances, with no observable effects on mortality or younger workers. Highly exposed firms reduce payroll costs via hiring adjustments while maintaining worker productivity and profitability. Our results suggest that protecting older workers was welfare-improving."
+        "summary": "We provide the first causal, national empirical analysis of the labor market impacts of heightened immigration enforcement during the second Trump administration. Enforcement increased everywhere, but, we take advantage of the fact that the increases have been uneven across geographic areas to classify areas as treated or control and then implement an event study and difference-in-differences design. Areas that experienced particularly large increases in the number of arrests also experienced a decrease in work among likely undocumented immigrants who remain in the U.S., compared to areas with smaller increases in arrests. We find no evidence of positive spillover effects to U.S.-born workers and U.S.-born workers who work in immigrant-heavy sectors are harmed."
       },
       {
-        "id": "6c8a460673760124",
-        "title": "Intermediate Input Prices and the Labor Share -- by Juanma Castro-Vincenzi, Benny Kleinman",
-        "url": "https://www.nber.org/papers/w35114#fromrss",
+        "id": "b9bafb51e77c7f08",
+        "title": "The Value of Reliable Statistics -- by Nicholas Bloom, Erica L. Groshen, Duncan Hobbs, Michael R. Strain",
+        "url": "https://www.nber.org/papers/w35135#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We argue that the relative price of materials is an important determinant of the labor share of income. When materials and primary inputs are complements and the profit share is positive, a higher price of materials lowers the labor share and raises the profit share of value added, without requiring markups or returns to scale to change. We show that materials-price fluctuations align with U.S. labor-share trends, provide causal evidence on this mechanism across industries and commuting zones, and quantify its importance in a dynamic quantitative model. Finally, we use our mechanism to rationalize differential labor-share trends across countries."
+        "summary": "On August 1, 2025, President Trump fired the head of the U.S. Bureau of Labor Statistics (BLS) and claimed that the agency\u2019s data were \u201crigged.\u201d In the aftermath, measures of economic policy uncertainty rose sharply, consistent with the idea that reduced trust in official data increases uncertainty for investors, businesses, and households. We use an event-study design to estimate the effect of the firing on policy uncertainty, and then map that increase in uncertainty into implied macroeconomic outcomes. This yields a back-of-the-envelope estimate of the marginal value of public trust in official statistics. Our baseline estimate implies that preserving trust in the integrity and quality of official statistics generates economic benefits of about $25 for every $1 spent on the agency\u2019s budget."
       },
       {
-        "id": "90146ca10a535c1c",
-        "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks -- by Noah Arman Kouchekinia, David Neumark, Tim A. Bruckner",
-        "url": "https://www.nber.org/papers/w35117#fromrss",
+        "id": "28963f087936cb4a",
+        "title": "The Labor Market as an Equilibrium Newsvendor Problem -- by Alexandre Mas",
+        "url": "https://www.nber.org/papers/w35148#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "With large gains in life expectancy, the population share of disability due to cognitive decline and dementia has substantially increased. Many older adults in the United States leave the workforce well before age 65. Correlational evidence suggests that leaving the workforce before retirement age could accelerate the pace of cognitive decline. We offer causal evidence, using HRS data for the United States, exploiting plausibly exogenous shifts in labor demand in local labor markets as a Bartik instrument for employment variation across these markets. We find substantial declines over time in cognitive scores stemming from negative labor demand shocks. These findings are concentrated among men aged 51 to 64, whose employment decisions and outcomes may be more sensitive to local labor market conditions than are these decisions or outcomes for women or for older men. Our evidence extends past work focusing narrowly on the retirement age window and provides further support to the notion that working to older ages may delay age-related cognitive decline."
+        "summary": "I study hiring under uncertainty when firms can either hold permanent labor as a buffer or hire from a spot market after demand is realized. I build a model where the spot market is endogenously determined such that when one firm relies more on spot labor, it thickens the market that other firms use as well. Individual firms do not internalize that contribution, so the competitive equilibrium involves too much buffering. I evaluate the model in the market for registered nurses using the universe of daily time sheet records from skilled nursing facilities. The data support the model\u2019s general equilibrium predictions. Markets with thicker agency markets have less rationing conditional on total nursing hours, and thicker agency markets have compressed upper tails of permanent staffing and higher overall hours in the lower part of the distribution. Estimating a facility-level newsvendor model with heterogeneous spot market frictions and rationing costs I find that the nursing labor market was more efficient post-COVID, there are substantial welfare gains from lower spot market frictions, and that the marginal external benefit for a firm that participates in the spot market instead of hiring an employee as buffer averages 7 percent of wages. This labor market underprovides flexibility because the value of availability is not fully priced."
       },
       {
-        "id": "6748b3c38cf95b2d",
-        "title": "Gender-Specific Economic Shocks and Household Bargaining Power -- by Rania Gihleb, Osea Giuntella, Dor Morag",
-        "url": "https://www.nber.org/papers/w35118#fromrss",
+        "id": "f47823f9df907222",
+        "title": "Shaping Society's Character: The Role of Schools in Developing Social and Emotional Skills -- by Sule Alan",
+        "url": "https://www.nber.org/papers/w35161#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "Using machine learning and product-level data on single men\u2019s and single women\u2019s consumption patterns, we develop an index that quantifies the \u201cgendered\u201d nature of consumer goods.  We use the index to investigate how gender-specific labor market shocks influence spending patterns within heterosexual households. Our findings reveal that industrial robot adoption, which worsened men\u2019s relative economic position, shifted household consumption toward products predominantly purchased by single women. In contrast, the expansion of fracking, which boosted demand for young and less skilled men, yields suggestive but less robust evidence of increased spending on goods favored by single men. Although neither shock significantly altered total spending on children\u2019s products, robot exposure led to a reallocation of spending toward goods more commonly purchased for daughters than for sons."
+        "summary": "This chapter examines how schools cultivate socio-emotional skills that influence both individual success and broader social cohesion. Moving beyond the traditional focus on cognitive ability, I argue that education plays a crucial role in fostering traits that promote cooperation, trust, and long-term societal well-being. Drawing on insights from neuroscience, psychology, and economics, I explore how schools shape not only academic and labor market outcomes but also intergenerational beliefs, attitudes, and the formation of social capital. Using evidence from experimental studies, I highlight how school-based interventions can instill perseverance, enhance social learning, and create environments that curb anti-social tendencies, promote prosocial behavior\u2014ultimately influencing the cultural fabric of society. This perspective reframes education as a mechanism for building more equitable and cohesive communities."
       },
       {
         "id": "c92a7059909b33f3",
@@ -626,18 +635,27 @@
         "published": "Sun, 22 Feb 2026 12:29:01 +0000",
         "published_dt": "2026-02-22T12:29:01+00:00",
         "summary": "AI is prompting investors to reassess every business model under the sun"
-      },
-      {
-        "id": "d4e881de39e313ee",
-        "title": "Donald Trump answers a Supreme Court rebuke with new tariff threats",
-        "url": "https://www.economist.com/finance-and-economics/2026/02/20/donald-trump-answers-a-supreme-court-rebuke-with-new-tariff-threats",
-        "source": "Finance & economics",
-        "published": "Fri, 20 Feb 2026 17:52:47 +0000",
-        "published_dt": "2026-02-20T17:52:47+00:00",
-        "summary": "The immediate economic impact will be more uncertainty"
       }
     ],
     "Cross-Disciplinary": [
+      {
+        "id": "7ae1b021c7fc00ad",
+        "title": "Tailoring AI solutions for health care needs",
+        "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 04 May 2026 13:00:00 +0000",
+        "published_dt": "2026-05-04T13:00:00+00:00",
+        "summary": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cancer and performing surgery to streamlining&#8230;"
+      },
+      {
+        "id": "981ec587a9f8fe15",
+        "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
+        "url": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
+        "source": "IEEE Spectrum",
+        "published": "Mon, 04 May 2026 11:08:34 +0000",
+        "published_dt": "2026-05-04T11:08:34+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/man-wearing-glasses-and-a-gray-shirt-smiles-at-camera-while-surrounded-by-futuristic-robots-and-tech-devices-in-a-photo-illustra.jpg?id=66444415&amp;width=1245&amp;height=700&amp;coordinates=0%2C83%2C0%2C83\" /><br /><br /><p><em>This article is brought to you by <a href=\"https://www.dmrobot.com/\" rel=\"noopener noreferrer\" target=\"_blank\">DAIMON Robotics</a>.</em></p><p>This April, Hong Kong-based <a href=\"https://www.dmrobot.com/\" target=\"_blank\">DAIMON Robotics</a> has released <a href=\"https://modelscope.cn/datasets/daimonrobotics/Daimon-Infinity\" target=\"_blank\">Daimon-Infinity</a>, which it describes as the largest omni-modal robotic dataset for physical AI, featuring high resolution tactile sensing and spanning a wide range of tasks from folding laundry at home to manufacturing on factory assembly lines. The project is supported by collaborative efforts of partners across China and the globe, including Google DeepMind, Northwestern University, and the National University of Singapore.</p><p>The move signals a key strategic initiative for DAIMON, a two-and-a-half-year-old company known for its advanced tactile sensor hardware, most notably a monochromatic, vision-based tactile sensor that packs over 110,000 effective sensing units into a fingertip-sized module. Drawing on its high-resolution tactile sensing technology and a distributed out-of-lab collection network capable of generating millions of hours of data annually, DAIMON is building large-scale robot manipulation datasets that include vast amounts of tactile sensing data. To accelerate the real-world deployment of embodied AI, the company has also open-sourced 10,000 hours of its data.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Person in navy suit and blue striped tie against a blue studio backdrop\" class=\"rm-shortcode\" id=\"75715\" src=\"https://spectrum.ieee.org/media-library/person-in-navy-suit-and-blue-striped-tie-against-a-blue-studio-backdrop.jpg?id=66443402&amp;width=980\" /> <small class=\"image-media media-caption\">Prof. Michael Yu Wang, co-founder and chief scientist at DAIMON Robotics, has pioneered Vision-Tactile-Language-Action (VTLA) architecture, elevating the tactile to a modality on par with vision.</small><small class=\"image-media media-photo-credit\">DAIMON Robotics</small></p><p>Behind the strategy is Prof. Michael Yu Wang, DAIMON\u2019s co-founder and chief scientist. Prof. Wang earned his PhD at Carnegie Mellon \u2014 studying manipulation under <a href=\"https://mtmason.com/\" target=\"_blank\">Matt Mason</a> \u2014 and went on to found the Robotics Institute at the Hong Kong University of Science and Technology. An IEEE Fellow and former Editor-in-Chief of <em>IEEE Transactions on Automation Science and Engineering</em>, he has spent roughly four decades in the field. His objective is to address the missing \u201cinsensitivity\u201d of robot manipulation, which practically relies on the dominant Vision-Language-Action (VLA) model. He and his team have pioneered Vision-Tactile-Language-Action (VTLA) architecture, elevating the tactile to a modality on par with vision.</p><p>We spoke with Prof. Wang about how tactile feedback aims to change dexterous manipulation, how the dataset initiative is foreseen to improve our understanding of robotic hands in natural environments, and where \u2014 from hotels to convenience stores in China \u2014 he sees touch-enabled robots making their first real-world inroads.</p><p class=\"shortcode-media shortcode-media-youtube\"> <span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span><small class=\"image-media media-caption\">Daimon-Infinity is the world\u2019s largest omni-modal dataset for Physical AI, featuring million-hour scale multimodal data, ultra-high-res tactile feedback, data from 80+ real scenarios and 2,000+ human skills, and more.</small><small class=\"image-media media-photo-credit\">DAIMON Robotics</small></p><h2>The Dataset Initiative</h2><p><strong>This </strong><strong>month, DAIMON Robotics </strong><strong>release</strong><strong>d the <a href=\"https://modelscope.cn/datasets/daimonrobotics/Daimon-Infinity\" target=\"_blank\">largest and most comprehensive robotic manipulation dataset</a> with multiple leading academic institutions and enterprises. Why releas</strong><strong>ing the dataset now, rather than continuing to focus on product</strong><strong> development? What impact will this have on the embodied intelligence industry?</strong></p><p>DAIMON Robotics has been around for almost two and a half years. We have been committed to developing high-resolution, multimodal tactile sensing devices to perceive the interaction between a robot\u2019s hand (particularly its fingertips) and objects. Our devices have become quite robust. They are now accepted and used by a large segment of users, including academic and research institutes as well as leading humanoid robotics companies.</p><p>As embodied AI continues to advance, the critical role of data has been clearer. Data scarcity remains a primary bottleneck in robot learning, particularly the lack of physical interaction data, which is essential for robots to operate effectively in the real world. Consequently, data quality, reliability, and cost have become major concerns in both research and commercial development.</p><p>This is exactly where DAIMON excels. Our vision-based tactile technology captures high-quality, multimodal tactile data. Beyond basic contact forces, it records deformation, slip and friction, material properties and surface textures \u2014 enabling a comprehensive reconstruction of physical interactions. Building on our expertise in multimodal fusion, we have developed a robust data processing pipeline that seamlessly integrates tactile feedback with vision, motion trajectories, and natural language, transforming raw inputs into training-ready dataset for machine learning models.</p><p>Recognizing the industry-wide data gap, we view large-scale data collection not only as our unique competitive advantage, but as a responsibility to the broader community.</p><p>By building and open-sourcing the dataset, we aim to provide the high-quality \u201cfuel\u201d needed to power embodied AI, ultimately accelerating the real-world deployment of general-purpose robotic foundation models.</p><p><strong>The robotics industry is highly competitive, and many teams have chosen to focus on data. DAIMON is releasing a large and highly comprehensive cross-embodiment, vision-based tactile multimodal robotic manipulation dataset. How were you able to achieve this?</strong></p><p>We have a dedicated in-house team focused on expanding our capabilities, including building hardware devices and developing our own large-scale model. Although we are a relatively small company, our core tactile sensing technology and innovative data collection paradigm enable us to build large-scale dataset.</p><p>Our approach is to broaden our offering. We have built the world\u2019s largest distributed out-of-lab data collection network. Rather than relying on centralized data factories, this lightweight and scalable system allows data to be gathered across diverse real-world environments, enabling us to generate millions of hours of data per year.</p><p class=\"pull-quote\">\u201cTo drive the advancement of the entire embodied AI field, we have open-sourced 10,000 hours of the dataset for the broader community.\u201d <strong>\u2014Prof. Michael Yu Wang, DAIMON Robotics</strong></p><p><strong>This dataset is being jointly </strong><strong>developed with several institutions</strong><strong> worldwide. What roles did they play in its development, and how will the dataset benefit their research and products?</strong></p><p>Besides China based teams, our partners include leading research groups from universities, such as Northwestern University and the National University of Singapore, as well as top global enterprises like Google DeepMind and China Mobile. Their decision to partner with DAIMON is a strong testament to the value of our tactile-rich dataset.</p><p>Among the companies involved there are some that have already built their own models but are now incorporating tactile information. By deploying our data collection devices across research, manufacturing and other real-world scenarios, they help us to gather highly practical, application-driven data. In turn, our partners leverage the data to train models tailored to their specific use cases. Furthermore, to drive the advancement of the entire embodied AI field, we have open-sourced 10,000 hours of the dataset for the broader community.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Robotic gripper delicately holding a cracked eggshell in a dimly lit room\" class=\"rm-shortcode\" id=\"30fd8\" src=\"https://spectrum.ieee.org/media-library/robotic-gripper-delicately-holding-a-cracked-eggshell-in-a-dimly-lit-room.png?id=66495381&amp;width=980\" /><small class=\"image-media media-caption\">Equipped with Daimon\u2019s visuotactile sensor, the gripper delicately senses contact and precisely controls force to pick up a fragile eggshell.</small><small class=\"image-media media-photo-credit\">Daimon Robotics</small></p><h2>From VLA to VTLA: Why Tactile Sensing Changes the Equation</h2><p><strong>The mainstream paradigm in robotics is currently the Vision-Language-Action (VLA) model, but your team has proposed a Vision-Tactile-Language-Action (VTLA) model. Why is it necessary to incorporate tactile sensing? What does it enable robots to achieve, and which tasks are likely to fail without tactile feedback?</strong></p><p>Over these years of working to make generalist robots capable of performing manipulation tasks, especially dexterous manipulation \u2014 not just power grasping or holding an object, but manipulating objects and using tools to impart forces and motion onto parts \u2014 we see these robots being used in household as well as industrial assembly settings.</p><p>It is well established that tactile information is essential for providing feedback about contact states so that robots can guide their hands and fingers to perform reliable manipulation. Without tactile sensing, robots are severely limited. They struggle to locate objects in dark environments, and without slip detection, they can easily drop fragile items like glass. Furthermore, the inability to precisely control force often leads to failed manipulation tasks or, in severe cases, physical damage. Naturally, the VLA approach needs to be enhanced to incorporate tactile information. We expanded the VLA framework to incorporate tactile data, creating the VTLA model.</p><p>An additional benefit of our tactile sensor is that it is vision-based: We capture visual images of the deformation on the fingertip surface. We capture multiple images in a time sequence that encodes contact information, from which we can infer forces and other contact states. This aligns well with the visual framework that VLA is based upon. Having tactile information in a visual image format makes it naturally suitable for integration into the VLA framework, transforming it into a VTLA system. That is the key advantage: Vision-based tactile sensors provide very high resolution at the pixel level, and this data can be incorporated into the framework, whether it is an end-to-end model or another type of architecture.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Close-up of a vision-based tactile sensor with 110,000 sensing units, resembling a smartwatch screen glowing with colorful digital static in the dark\" class=\"rm-shortcode\" id=\"58650\" src=\"https://spectrum.ieee.org/media-library/close-up-of-a-vision-based-tactile-sensor-with-110000-sensing-units-resembling-a-smartwatch-screen-glowing-with-colorful-digit.png?id=66495588&amp;width=980\" /><small class=\"image-media media-caption\">DAIMON has been known for its vision-based tactile sensors that can pack over 110,000 effective sensing units.</small><small class=\"image-media media-photo-credit\">DAIMON Robotics</small></p><h2>The Technology: Monochromatic Vision-based Tactile Sensing</h2><p><strong>You and your team have spent many years deeply engaged in vision-based tactile sensing and have developed the world\u2019s first monochromatic vision-based tactile sensing technology. Why did you choose this technical path?</strong></p><p>Once we started investigating tactile sensors, we understood our needs. We wanted sensors that closely mimic what we have under our fingertip skin. Physiological studies have well documented the capabilities humans have at their fingertips \u2014 knowing what we touch, what kind of material it is, how forces are distributed, and whether it is moving into the right position as our brain controls our hands. We knew that replicating these capabilities on a robot hand\u2019s fingertips would help considerably.</p><p>When we surveyed existing technologies, we found many types, including vision-based tactile sensors with tri-color optics and other simpler designs. We decided to integrate the best of these into an engineering-robust solution that works well without being overly complicated, keeping cost, reliability, and sensitivity within a satisfactory range, thus ultimately developing a monochromatic vision-based tactile sensing technique. This is fundamentally an engineering approach rather than a purely scientific one, since a great deal of foundational research already existed. With the growing realization of the necessity of tactile data, all of this will advance hand in hand.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Daimon tactile sensor showing force, geometry, material, and contact data visualizations.\" class=\"rm-shortcode\" id=\"d69d7\" src=\"https://spectrum.ieee.org/media-library/daimon-tactile-sensor-showing-force-geometry-material-and-contact-data-visualizations.png?id=66495899&amp;width=980\" /><small class=\"image-media media-caption\">DAIMON vision-based tactile sensor captures high-quality, multimodal tactile data.</small><small class=\"image-media media-photo-credit\">DAIMON Robotics</small></p><p><strong>Last year, DAIMON launched a multi-dimensional, high-resolution, high-frequency vision-based tactile sensor. Compared with traditional tactile sensors, where does its core advantage lie? Which industries could it potentially transform?</strong></p><p>The key features of our sensors are the density of distributed force measurement and the deformation we can capture over the area of a fingertip. I believe we have the highest density in terms of sensing units. That is one very important metric. The other is dynamics: the frequency and bandwidth \u2014 how quickly we can detect force changes, transmit signals, and process them in real time. Other important aspects are largely engineering-related, such as reliability, drift, durability of the soft surface, and resistance to interference from magnetic, optical, or environmental factors.</p><p>A growing number of researchers and companies are recognizing the importance of tactile sensing and adopting our technology. I believe the advances in tactile sensing will elevate the entire community and industry to a higher level. One of our potential customers is deploying humanoid robots in a small convenience store, with densely packed shelves where shelf space is at a premium. The robot needs to reach into very tight spaces \u2014 tighter than books on a shelf \u2014 to pick out an object. Current two-jaw parallel grippers cannot fit into most of these spaces. Observing how humans pick up objects, you clearly need at least three slim fingers to touch and roll the object toward you and secure it. Thus, we are starting to see very specific needs where tactile sensing capabilities are essential.</p><h2>From Academia to Startup</h2><p><strong>After 40 years in academia \u2014 founding the HKUST Robotics Institute, earning prestigious honors including IEEE Fellow, and serving as Editor-in-Chief of IEEE TASE \u2014 what motivated you to found DAIMON Robotics?</strong></p><p>I have come a long way. I started learning robotics during my PhD at Carnegie Mellon, where there were truly remarkable groups working on locomotion under Marc Raibert, who founded Boston Dynamics, and on manipulation under my advisor, Matt Mason, a leader in the field. We have been working on dexterous manipulation, not only at Carnegie Mellon, but globally for many years.</p><p>However, progress has been limited for a long time, especially in building dexterous hands and making them work. Only recently have locomotion robots truly taken off, and only in the last few years have we begun to see major advancements in robot hands. There is clearly room for advancing manipulation capabilities, which would enable robots to do work like humans. While at Hong Kong University of Science and Technology, I saw increasingly greater people entering this area in the form of students and postdoctoral researchers. We wanted to jumpstart our effort by leveraging the available capital and talent resources.</p><p>Fortunately, one of my postdocs, <a href=\"https://www.dmrobot.com/en/news/55.html\" target=\"_blank\">Dr. Duan Jianghua</a>, has a strong sense for commercial opportunities. Recognizing the rapid growth of robotics market and the unique value that our vision-based tactile sensing technology could bring, together we started DAIMON Robotics, and it has progressed well. The community has grown tremendously in China, Japan, Korea, the U.S., and Europe.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Humanoid robots assembling electronics on an automated factory production line\" class=\"rm-shortcode\" id=\"851b9\" src=\"https://spectrum.ieee.org/media-library/humanoid-robots-assembling-electronics-on-an-automated-factory-production-line.png?id=66496027&amp;width=980\" /><small class=\"image-media media-caption\">Robots equipped with DAIMON technology have been deployed in factory settings. The company aims to enable robots to achieve \u201cembodied intelligence\u201d and close the gap between what they can see and what they can feel.</small><small class=\"image-media media-photo-credit\">DAIMON Robotics</small></p><h2>Business Model and Commercial Strategy</h2><p><strong>What is DAIMON\u2019s current business model and strategic focus? What role does the dataset release play in your commercial strategy?</strong></p><p>We started as a device company focused on making highly capable tactile sensors, especially for robot hands. But as technology and business developed, everyone realized it is not just about one component, rather the entire technology chain: devices, data of adequate quality and quantity, and finally the right framework to build, train, and deploy models on robots in real application environments.</p><p>Our business strategy is best described as \u201c3D\u201d: Devices, Data, and Deployment. We build devices for data collection, our own ecosystem, and for deploying them in our partners\u2019 potential application domains. This enables the collection of real-world tactile-rich data and complete closed-loop validation. This will become an integral part of the 3D business model. Most startups in this space are following a similar path until eventually some may become more specialized or more tightly integrated with other companies. For now, it is mostly vertical integration.<strong></strong></p><h2>Embodied Skills and the Convergence Moment</h2><p><strong>You\u2019ve introduced the concept of \u201cembodied skills\u201d as essential for humanoid robots to move beyond having just an advanced AI \u201cbrain.\u201d What prompted this insight? What new capabilities could embodied skills enable? After the rapid evolution of models and hardware over the past two years, has your definition or roadmap for embodied skills evolved?</strong></p><p>We have come a long way now see a convergence point where electrical, electronic, and mechatronic hardware technologies have advanced tremendously in last two decades. Robots are now fully electric, do not require hydraulics, because hardware has evolved rapidly. Modern electronics provide tremendous bandwidth with high torques. If we can build intelligence into these systems, we can create truly humanoid robots with the ability to operate in unstructured environments, make decisions, and take actions autonomously.</p><p class=\"pull-quote\">\u201cOur vision is for robots to achieve robust manipulation capabilities and evolve into reliable partners for humans.\u201d <strong>\u2014Prof. Michael Yu Wang, DAIMON Robotics</strong></p><p>AI has arrived at exactly the right time. Enormous resources have been invested in AI development, especially large language models, which are now being generalized into world models that enable physical AI capabilities. We would like to see these manifested in real-world systems.</p><p>While both AI and core hardware technologies continue to evolve, the focus is much clearer now. For example, human-sized robots are preferred in a home environment. This is an exciting domain with a promise of great societal benefit if we can eventually achieve safe, reliable, and cost-effective robots.</p><h2>The Road to Real-World Deployment</h2><p><strong>Today, many robots can deliver impressive demos, yet there remains a gap before they truly enter real-world applications. What could be a potential trigger for real-world deployment? Which scenarios are most likely to achieve large-scale deployment first?</strong></p><p>I think the road toward large-scale deployment of generalist robots is still long, but we are starting to see signs of feasibility within specific domains. It is very similar to autonomous vehicles, where we are yet to see full deployment of robo-taxis, while we have already started to find mobile robots and smaller vehicles widely deployed in the hospitality industry. Virtually every major hotel in China now has a delivery robot \u2014 no arms, just a vehicle that picks up items from the hotel lobby (e.g., food deliveries). The delivery person just loads the food and selects the room number. It is up to the robot thereafter to navigate and reach the guest\u2019s room, which includes using the elevator, to deliver the food. This is already nearly 100 percent deployed in major Chinese hotels.</p><p>Hotel and restaurant robots are viewed as a model for deploying humanoid robots in specific domains like overnight drugstores and convenience stores. I expect complete deployment in such settings within a short timeframe, followed by other applications. Overall, we can expect autonomous robots, including humanoids, to progressively penetrate specific sectors, delivering value in each and expanding into others.</p><p>Ultimately, our vision is for robots to achieve robust manipulation capabilities and evolve into reliable partners for humans. By seamlessly integrating into our homes and daily lives, they will genuinely benefit and serve humanity.</p><p><em>This interview has been edited for length and clarity.</em></p>"
+      },
       {
         "id": "91cac53862699794",
         "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
@@ -808,24 +826,6 @@
         "published": "Thu, 30 Apr 2026 15:59:41 +0000",
         "published_dt": "2026-04-30T15:59:41+00:00",
         "summary": "The San Francisco\u2013based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters\u2014the settings that determine a model\u2019s behavior\u2014during training. This could give model makers more fine-grained control over how this technology is built than was once thought possible. Goodfire claims Silico&#8230;"
-      },
-      {
-        "id": "981ec587a9f8fe15",
-        "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
-        "url": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
-        "source": "IEEE Spectrum",
-        "published": "Thu, 30 Apr 2026 13:22:51 +0000",
-        "published_dt": "2026-04-30T13:22:51+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/man-wearing-glasses-and-a-gray-shirt-smiles-at-camera-while-surrounded-by-futuristic-robots-and-tech-devices-in-a-photo-illustra.jpg?id=66444415&amp;width=1245&amp;height=700&amp;coordinates=0%2C83%2C0%2C83\" /><br /><br /><p><em>This article is brought to you by <a href=\"https://www.dmrobot.com/\" rel=\"noopener noreferrer\" target=\"_blank\">DAIMON Robotics</a>.</em></p><p>This April, Hong Kong-based <a href=\"https://www.dmrobot.com/\" target=\"_blank\">DAIMON Robotics</a> has released <a href=\"https://modelscope.cn/datasets/daimonrobotics/Daimon-Infinity\" target=\"_blank\">Daimon-Infinity</a>, which it describes as the largest omni-modal robotic dataset for physical AI, featuring high resolution tactile sensing and spanning a wide range of tasks from folding laundry at home to manufacturing on factory assembly lines. The project is supported by collaborative efforts of partners across China and the globe, including Google DeepMind, Northwestern University, and the National University of Singapore.</p><p>The move signals a key strategic initiative for DAIMON, a two-and-a-half-year-old company known for its advanced tactile sensor hardware, most notably a monochromatic, vision-based tactile sensor that packs over 110,000 effective sensing units into a fingertip-sized module. Drawing on its high-resolution tactile sensing technology and a distributed out-of-lab collection network capable of generating millions of hours of data annually, DAIMON is building large-scale robot manipulation datasets that include vast amounts of tactile sensing data. To accelerate the real-world deployment of embodied AI, the company has also open-sourced 10,000 hours of its data.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Person in navy suit and blue striped tie against a blue studio backdrop\" class=\"rm-shortcode\" id=\"75715\" src=\"https://spectrum.ieee.org/media-library/person-in-navy-suit-and-blue-striped-tie-against-a-blue-studio-backdrop.jpg?id=66443402&amp;width=980\" /> <small class=\"image-media media-caption\">Prof. Michael Yu Wang, co-founder and chief scientist at DAIMON Robotics, has pioneered Vision-Tactile-Language-Action (VTLA) architecture, elevating the tactile to a modality on par with vision.</small><small class=\"image-media media-photo-credit\">DAIMON Robotics</small></p><p>Behind the strategy is Prof. Michael Yu Wang, DAIMON\u2019s co-founder and chief scientist. Prof. Wang earned his PhD at Carnegie Mellon \u2014 studying manipulation under <a href=\"https://mtmason.com/\" target=\"_blank\">Matt Mason</a> \u2014 and went on to found the Robotics Institute at the Hong Kong University of Science and Technology. An IEEE Fellow and former Editor-in-Chief of <em>IEEE Transactions on Automation Science and Engineering</em>, he has spent roughly four decades in the field. His objective is to address the missing \u201cinsensitivity\u201d of robot manipulation, which practically relies on the dominant Vision-Language-Action (VLA) model. He and his team have pioneered Vision-Tactile-Language-Action (VTLA) architecture, elevating the tactile to a modality on par with vision.</p><p>We spoke with Prof. Wang about how tactile feedback aims to change dexterous manipulation, how the dataset initiative is foreseen to improve our understanding of robotic hands in natural environments, and where \u2014 from hotels to convenience stores in China \u2014 he sees touch-enabled robots making their first real-world inroads.</p><p class=\"shortcode-media shortcode-media-youtube\"> <span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span><small class=\"image-media media-caption\">Daimon-Infinity is the world\u2019s largest omni-modal dataset for Physical AI, featuring million-hour scale multimodal data, ultra-high-res tactile feedback, data from 80+ real scenarios and 2,000+ human skills, and more.</small><small class=\"image-media media-photo-credit\">DAIMON Robotics</small></p><h2>The Dataset Initiative</h2><p><strong>This </strong><strong>month, DAIMON Robotics </strong><strong>release</strong><strong>d the <a href=\"https://modelscope.cn/datasets/daimonrobotics/Daimon-Infinity\" target=\"_blank\">largest and most comprehensive robotic manipulation dataset</a> with multiple leading academic institutions and enterprises. Why releas</strong><strong>ing the dataset now, rather than continuing to focus on product</strong><strong> development? What impact will this have on the embodied intelligence industry?</strong></p><p>DAIMON Robotics has been around for almost two and a half years. We have been committed to developing high-resolution, multimodal tactile sensing devices to perceive the interaction between a robot\u2019s hand (particularly its fingertips) and objects. Our devices have become quite robust. They are now accepted and used by a large segment of users, including academic and research institutes as well as leading humanoid robotics companies.</p><p>As embodied AI continues to advance, the critical role of data has been clearer. Data scarcity remains a primary bottleneck in robot learning, particularly the lack of physical interaction data, which is essential for robots to operate effectively in the real world. Consequently, data quality, reliability, and cost have become major concerns in both research and commercial development.</p><p>This is exactly where DAIMON excels. Our vision-based tactile technology captures high-quality, multimodal tactile data. Beyond basic contact forces, it records deformation, slip and friction, material properties and surface textures \u2014 enabling a comprehensive reconstruction of physical interactions. Building on our expertise in multimodal fusion, we have developed a robust data processing pipeline that seamlessly integrates tactile feedback with vision, motion trajectories, and natural language, transforming raw inputs into training-ready dataset for machine learning models.</p><p>Recognizing the industry-wide data gap, we view large-scale data collection not only as our unique competitive advantage, but as a responsibility to the broader community.</p><p>By building and open-sourcing the dataset, we aim to provide the high-quality \u201cfuel\u201d needed to power embodied AI, ultimately accelerating the real-world deployment of general-purpose robotic foundation models.</p><p><strong>The robotics industry is highly competitive, and many teams have chosen to focus on data. DAIMON is releasing a large and highly comprehensive cross-embodiment, vision-based tactile multimodal robotic manipulation dataset. How were you able to achieve this?</strong></p><p>We have a dedicated in-house team focused on expanding our capabilities, including building hardware devices and developing our own large-scale model. Although we are a relatively small company, our core tactile sensing technology and innovative data collection paradigm enable us to build large-scale dataset.</p><p>Our approach is to broaden our offering. We have built the world\u2019s largest distributed out-of-lab data collection network. Rather than relying on centralized data factories, this lightweight and scalable system allows data to be gathered across diverse real-world environments, enabling us to generate millions of hours of data per year.</p><p class=\"pull-quote\">\u201cTo drive the advancement of the entire embodied AI field, we have open-sourced 10,000 hours of the dataset for the broader community.\u201d <strong>\u2014Prof. Michael Yu Wang, DAIMON Robotics</strong></p><p><strong>This dataset is being jointly </strong><strong>developed with several institutions</strong><strong> worldwide. What roles did they play in its development, and how will the dataset benefit their research and products?</strong></p><p>Besides China based teams, our partners include leading research groups from universities, such as Northwestern University and the National University of Singapore, as well as top global enterprises like Google DeepMind and China Mobile. Their decision to partner with DAIMON is a strong testament to the value of our tactile-rich dataset.</p><p>Among the companies involved there are some that have already built their own models but are now incorporating tactile information. By deploying our data collection devices across research, manufacturing and other real-world scenarios, they help us to gather highly practical, application-driven data. In turn, our partners leverage the data to train models tailored to their specific use cases. Furthermore, to drive the advancement of the entire embodied AI field, we have open-sourced 10,000 hours of the dataset for the broader community.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Robotic gripper delicately holding a cracked eggshell in a dimly lit room\" class=\"rm-shortcode\" id=\"30fd8\" src=\"https://spectrum.ieee.org/media-library/robotic-gripper-delicately-holding-a-cracked-eggshell-in-a-dimly-lit-room.png?id=66495381&amp;width=980\" /><small class=\"image-media media-caption\">Equipped with Daimon\u2019s visuotactile sensor, the gripper delicately senses contact and precisely controls force to pick up a fragile eggshell.</small><small class=\"image-media media-photo-credit\">Daimon Robotics</small></p><h2>From VLA to VTLA: Why Tactile Sensing Changes the Equation</h2><p><strong>The mainstream paradigm in robotics is currently the Vision-Language-Action (VLA) model, but your team has proposed a Vision-Tactile-Language-Action (VTLA) model. Why is it necessary to incorporate tactile sensing? What does it enable robots to achieve, and which tasks are likely to fail without tactile feedback?</strong></p><p>Over these years of working to make generalist robots capable of performing manipulation tasks, especially dexterous manipulation \u2014 not just power grasping or holding an object, but manipulating objects and using tools to impart forces and motion onto parts \u2014 we see these robots being used in household as well as industrial assembly settings.</p><p>It is well established that tactile information is essential for providing feedback about contact states so that robots can guide their hands and fingers to perform reliable manipulation. Without tactile sensing, robots are severely limited. They struggle to locate objects in dark environments, and without slip detection, they can easily drop fragile items like glass. Furthermore, the inability to precisely control force often leads to failed manipulation tasks or, in severe cases, physical damage. Naturally, the VLA approach needs to be enhanced to incorporate tactile information. We expanded the VLA framework to incorporate tactile data, creating the VTLA model.</p><p>An additional benefit of our tactile sensor is that it is vision-based: We capture visual images of the deformation on the fingertip surface. We capture multiple images in a time sequence that encodes contact information, from which we can infer forces and other contact states. This aligns well with the visual framework that VLA is based upon. Having tactile information in a visual image format makes it naturally suitable for integration into the VLA framework, transforming it into a VTLA system. That is the key advantage: Vision-based tactile sensors provide very high resolution at the pixel level, and this data can be incorporated into the framework, whether it is an end-to-end model or another type of architecture.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Close-up of a vision-based tactile sensor with 110,000 sensing units, resembling a smartwatch screen glowing with colorful digital static in the dark\" class=\"rm-shortcode\" id=\"58650\" src=\"https://spectrum.ieee.org/media-library/close-up-of-a-vision-based-tactile-sensor-with-110000-sensing-units-resembling-a-smartwatch-screen-glowing-with-colorful-digit.png?id=66495588&amp;width=980\" /><small class=\"image-media media-caption\">DAIMON has been known for its vision-based tactile sensors that can pack over 110,000 effective sensing units.</small><small class=\"image-media media-photo-credit\">DAIMON Robotics</small></p><h2>The Technology: Monochromatic Vision-based Tactile Sensing</h2><p><strong>You and your team have spent many years deeply engaged in vision-based tactile sensing and have developed the world\u2019s first monochromatic vision-based tactile sensing technology. Why did you choose this technical path?</strong></p><p>Once we started investigating tactile sensors, we understood our needs. We wanted sensors that closely mimic what we have under our fingertip skin. Physiological studies have well documented the capabilities humans have at their fingertips \u2014 knowing what we touch, what kind of material it is, how forces are distributed, and whether it is moving into the right position as our brain controls our hands. We knew that replicating these capabilities on a robot hand\u2019s fingertips would help considerably.</p><p>When we surveyed existing technologies, we found many types, including vision-based tactile sensors with tri-color optics and other simpler designs. We decided to integrate the best of these into an engineering-robust solution that works well without being overly complicated, keeping cost, reliability, and sensitivity within a satisfactory range, thus ultimately developing a monochromatic vision-based tactile sensing technique. This is fundamentally an engineering approach rather than a purely scientific one, since a great deal of foundational research already existed. With the growing realization of the necessity of tactile data, all of this will advance hand in hand.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Daimon tactile sensor showing force, geometry, material, and contact data visualizations.\" class=\"rm-shortcode\" id=\"d69d7\" src=\"https://spectrum.ieee.org/media-library/daimon-tactile-sensor-showing-force-geometry-material-and-contact-data-visualizations.png?id=66495899&amp;width=980\" /><small class=\"image-media media-caption\">DAIMON vision-based tactile sensor captures high-quality, multimodal tactile data.</small><small class=\"image-media media-photo-credit\">DAIMON Robotics</small></p><p><strong>Last year, DAIMON launched a multi-dimensional, high-resolution, high-frequency vision-based tactile sensor. Compared with traditional tactile sensors, where does its core advantage lie? Which industries could it potentially transform?</strong></p><p>The key features of our sensors are the density of distributed force measurement and the deformation we can capture over the area of a fingertip. I believe we have the highest density in terms of sensing units. That is one very important metric. The other is dynamics: the frequency and bandwidth \u2014 how quickly we can detect force changes, transmit signals, and process them in real time. Other important aspects are largely engineering-related, such as reliability, drift, durability of the soft surface, and resistance to interference from magnetic, optical, or environmental factors.</p><p>A growing number of researchers and companies are recognizing the importance of tactile sensing and adopting our technology. I believe the advances in tactile sensing will elevate the entire community and industry to a higher level. One of our potential customers is deploying humanoid robots in a small convenience store, with densely packed shelves where shelf space is at a premium. The robot needs to reach into very tight spaces \u2014 tighter than books on a shelf \u2014 to pick out an object. Current two-jaw parallel grippers cannot fit into most of these spaces. Observing how humans pick up objects, you clearly need at least three slim fingers to touch and roll the object toward you and secure it. Thus, we are starting to see very specific needs where tactile sensing capabilities are essential.</p><h2>From Academia to Startup</h2><p><strong>After 40 years in academia \u2014 founding the HKUST Robotics Institute, earning prestigious honors including IEEE Fellow, and serving as Editor-in-Chief of IEEE TASE \u2014 what motivated you to found DAIMON Robotics?</strong></p><p>I have come a long way. I started learning robotics during my PhD at Carnegie Mellon, where there were truly remarkable groups working on locomotion under Marc Raibert, who founded Boston Dynamics, and on manipulation under my advisor, Matt Mason, a leader in the field. We have been working on dexterous manipulation, not only at Carnegie Mellon, but globally for many years.</p><p>However, progress has been limited for a long time, especially in building dexterous hands and making them work. Only recently have locomotion robots truly taken off, and only in the last few years have we begun to see major advancements in robot hands. There is clearly room for advancing manipulation capabilities, which would enable robots to do work like humans. While at Hong Kong University of Science and Technology, I saw increasingly greater people entering this area in the form of students and postdoctoral researchers. We wanted to jumpstart our effort by leveraging the available capital and talent resources.</p><p>Fortunately, one of my postdocs, <a href=\"https://www.dmrobot.com/en/news/55.html\" target=\"_blank\">Dr. Duan Jianghua</a>, has a strong sense for commercial opportunities. Recognizing the rapid growth of robotics market and the unique value that our vision-based tactile sensing technology could bring, together we started DAIMON Robotics, and it has progressed well. The community has grown tremendously in China, Japan, Korea, the U.S., and Europe.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Humanoid robots assembling electronics on an automated factory production line\" class=\"rm-shortcode\" id=\"851b9\" src=\"https://spectrum.ieee.org/media-library/humanoid-robots-assembling-electronics-on-an-automated-factory-production-line.png?id=66496027&amp;width=980\" /><small class=\"image-media media-caption\">Robots equipped with DAIMON technology have been deployed in factory settings. The company aims to enable robots to achieve \u201cembodied intelligence\u201d and close the gap between what they can see and what they can feel.</small><small class=\"image-media media-photo-credit\">DAIMON Robotics</small></p><h2>Business Model and Commercial Strategy</h2><p><strong>What is DAIMON\u2019s current business model and strategic focus? What role does the dataset release play in your commercial strategy?</strong></p><p>We started as a device company focused on making highly capable tactile sensors, especially for robot hands. But as technology and business developed, everyone realized it is not just about one component, rather the entire technology chain: devices, data of adequate quality and quantity, and finally the right framework to build, train, and deploy models on robots in real application environments.</p><p>Our business strategy is best described as \u201c3D\u201d: Devices, Data, and Deployment. We build devices for data collection, our own ecosystem, and for deploying them in our partners\u2019 potential application domains. This enables the collection of real-world tactile-rich data and complete closed-loop validation. This will become an integral part of the 3D business model. Most startups in this space are following a similar path until eventually some may become more specialized or more tightly integrated with other companies. For now, it is mostly vertical integration.<strong></strong></p><h2>Embodied Skills and the Convergence Moment</h2><p><strong>You\u2019ve introduced the concept of \u201cembodied skills\u201d as essential for humanoid robots to move beyond having just an advanced AI \u201cbrain.\u201d What prompted this insight? What new capabilities could embodied skills enable? After the rapid evolution of models and hardware over the past two years, has your definition or roadmap for embodied skills evolved?</strong></p><p>We have come a long way now see a convergence point where electrical, electronic, and mechatronic hardware technologies have advanced tremendously in last two decades. Robots are now fully electric, do not require hydraulics, because hardware has evolved rapidly. Modern electronics provide tremendous bandwidth with high torques. If we can build intelligence into these systems, we can create truly humanoid robots with the ability to operate in unstructured environments, make decisions, and take actions autonomously.</p><p class=\"pull-quote\">\u201cOur vision is for robots to achieve robust manipulation capabilities and evolve into reliable partners for humans.\u201d <strong>\u2014Prof. Michael Yu Wang, DAIMON Robotics</strong></p><p>AI has arrived at exactly the right time. Enormous resources have been invested in AI development, especially large language models, which are now being generalized into world models that enable physical AI capabilities. We would like to see these manifested in real-world systems.</p><p>While both AI and core hardware technologies continue to evolve, the focus is much clearer now. For example, human-sized robots are preferred in a home environment. This is an exciting domain with a promise of great societal benefit if we can eventually achieve safe, reliable, and cost-effective robots.</p><h2>The Road to Real-World Deployment</h2><p><strong>Today, many robots can deliver impressive demos, yet there remains a gap before they truly enter real-world applications. What could be a potential trigger for real-world deployment? Which scenarios are most likely to achieve large-scale deployment first?</strong></p><p>I think the road toward large-scale deployment of generalist robots is still long, but we are starting to see signs of feasibility within specific domains. It is very similar to autonomous vehicles, where we are yet to see full deployment of robo-taxis, while we have already started to find mobile robots and smaller vehicles widely deployed in the hospitality industry. Virtually every major hotel in China now has a delivery robot \u2014 no arms, just a vehicle that picks up items from the hotel lobby (e.g., food deliveries). The delivery person just loads the food and selects the room number. It is up to the robot thereafter to navigate and reach the guest\u2019s room, which includes using the elevator, to deliver the food. This is already nearly 100 percent deployed in major Chinese hotels.</p><p>Hotel and restaurant robots are viewed as a model for deploying humanoid robots in specific domains like overnight drugstores and convenience stores. I expect complete deployment in such settings within a short timeframe, followed by other applications. Overall, we can expect autonomous robots, including humanoids, to progressively penetrate specific sectors, delivering value in each and expanding into others.</p><p>Ultimately, our vision is for robots to achieve robust manipulation capabilities and evolve into reliable partners for humans. By seamlessly integrating into our homes and daily lives, they will genuinely benefit and serve humanity.</p><p><em>This interview has been edited for length and clarity.</em></p>"
-      },
-      {
-        "id": "d08cfd0cb1cd173d",
-        "title": "The Download: the North Pole\u2019s future and humanoid data",
-        "url": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 30 Apr 2026 12:10:00 +0000",
-        "published_dt": "2026-04-30T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Digging for clues about the North Pole\u2019s past In the past, getting to the North Pole involved a treacherous trip through ice many meters thick. But last year, a research vessel&#8230;"
       },
       {
         "id": "7867a6cca872398c",
