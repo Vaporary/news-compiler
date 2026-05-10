@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-05-09T13:39:41.316655+00:00",
+  "generated_at": "2026-05-10T13:42:19.450348+00:00",
   "categories": {
     "Biotech": [
-      {
-        "id": "134fdf2a1f2de486",
-        "title": "Opinion: RFK Jr. allegedly \u2018collected\u2019 a dead raccoon\u2019s penis. Was it bioethically justifiable?",
-        "url": "https://www.statnews.com/2026/05/09/rfk-jr-raccoon-penis-whale-bear-cub-bioethics/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 09 May 2026 11:00:00 +0000",
-        "published_dt": "2026-05-09T11:00:00+00:00",
-        "summary": "There are scientific reasons to study raccoon reproductive anatomy. But did RFK Jr.\u2019s actions fit within a bioethical framework?"
-      },
-      {
-        "id": "67bcefa804747d73",
-        "title": "Opinion: Dr. Glaucomflecken wants the corporatization of medicine to be national news",
-        "url": "https://www.statnews.com/2026/05/09/dr-glaucomflecken-podcast-interview-transcript/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 09 May 2026 11:00:00 +0000",
-        "published_dt": "2026-05-09T11:00:00+00:00",
-        "summary": "\u201cWe want, we need to keep medicine local. I think that's good for patients, it's good for communities,\u201d Dr. Glaucomflecken says on the \u201cFirst Opinion Podcast.\u201d"
-      },
       {
         "id": "0b7670ff5211a9b6",
         "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-reconsider-surprisingly-rejected-cell-therapy-ebvallo-could-uniqure-be-next\" hreflang=\"en\">FDA to reconsider shock rejection of cell therapy Ebvallo. Could uniQure be next?</a>",
@@ -156,6 +138,33 @@
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI\u2014Sam Altman and Elon Musk\u2014are in the middle of&#8230;"
       },
       {
+        "id": "0388bc59db08a833",
+        "title": "Experts wonder \u2018Where is the CDC?\u2019 as hantavirus outbreak unfolds",
+        "url": "https://www.statnews.com/2026/05/09/mv-hondius-hantavirus-outbreak-cdc-takes-back-seat-to-who/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sat, 09 May 2026 18:28:39 +0000",
+        "published_dt": "2026-05-09T18:28:39+00:00",
+        "summary": "The CDC is playing an unusually small, and quiet, role in responding to the hantavirus outbreak."
+      },
+      {
+        "id": "134fdf2a1f2de486",
+        "title": "Opinion: RFK Jr. allegedly \u2018collected\u2019 a dead raccoon\u2019s penis. Was it bioethically justifiable?",
+        "url": "https://www.statnews.com/2026/05/09/rfk-jr-raccoon-penis-whale-bear-cub-bioethics/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sat, 09 May 2026 11:00:00 +0000",
+        "published_dt": "2026-05-09T11:00:00+00:00",
+        "summary": "There are scientific reasons to study raccoon reproductive anatomy. But did RFK Jr.\u2019s actions fit within a bioethical framework?"
+      },
+      {
+        "id": "67bcefa804747d73",
+        "title": "Opinion: Dr. Glaucomflecken wants the corporatization of medicine to be national news",
+        "url": "https://www.statnews.com/2026/05/09/dr-glaucomflecken-podcast-interview-transcript/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sat, 09 May 2026 11:00:00 +0000",
+        "published_dt": "2026-05-09T11:00:00+00:00",
+        "summary": "\u201cWe want, we need to keep medicine local. I think that's good for patients, it's good for communities,\u201d Dr. Glaucomflecken says on the \u201cFirst Opinion Podcast.\u201d"
+      },
+      {
         "id": "8584e7dd5e9d5dcd",
         "title": "<a href=\"https://www.fiercebiotech.com/medtech/new-hepta-blood-test-could-predict-glp-1-response\" hreflang=\"en\">New Hepta blood test could predict GLP-1 response </a>",
         "url": "https://www.fiercebiotech.com/medtech/new-hepta-blood-test-could-predict-glp-1-response",
@@ -217,15 +226,6 @@
         "published": "Fri, 08 May 2026 14:41:33 +0000",
         "published_dt": "2026-05-08T14:41:33+00:00",
         "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-      },
-      {
-        "id": "4e9d659b44dbe71e",
-        "title": "The biotechs wear Prada",
-        "url": "https://www.statnews.com/2026/05/08/met-gala-pharma-biotech/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 08 May 2026 14:30:49 +0000",
-        "published_dt": "2026-05-08T14:30:49+00:00",
-        "summary": "Was Naomi Osaka's Met Gala outfit inspired by Gilead's logo? Janelle Mon\u00e1e's by Insilico's? Probably not \u2014 and yet."
       }
     ],
     "Engineering & Aerospace": [
