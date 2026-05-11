@@ -1,7 +1,70 @@
 {
-  "generated_at": "2026-05-10T13:42:19.450348+00:00",
+  "generated_at": "2026-05-11T15:26:24.320002+00:00",
   "categories": {
     "Biotech": [
+      {
+        "id": "1857d73c07401f10",
+        "title": "STAT+: Astellas treatment offers new hope to a devastated rare disease community",
+        "url": "https://www.statnews.com/2026/05/11/biotech-news-astellas-treatment-offers-hope-to-rare-disease-community/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 11 May 2026 14:45:46 +0000",
+        "published_dt": "2026-05-11T14:45:46+00:00",
+        "summary": "Alzheimer's drug rollout letdown, a China-based heart drug startup, and more biotech news from The Readout"
+      },
+      {
+        "id": "5319c0c9911907b4",
+        "title": "Fostering breakthrough AI innovation through customer-back engineering",
+        "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 11 May 2026 13:33:06 +0000",
+        "published_dt": "2026-05-11T13:33:06+00:00",
+        "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That\u2019s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward to technology solutions. Not prioritizing the customer can create fragmented solutions; disjointed&#8230;"
+      },
+      {
+        "id": "43211bccd0bd343e",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about Medicare and Alzheimer\u2019s drugs, estrogen patch shortages, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/05/11/medicare-alzheimers-drugs-estrogen-patch-shortage/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 11 May 2026 13:12:19 +0000",
+        "published_dt": "2026-05-11T13:12:19+00:00",
+        "summary": "People on Medicare are not getting the recently approved Alzheimer\u2019s medications nearly as much as federal officials anticipated"
+      },
+      {
+        "id": "79a46eb01a830bc7",
+        "title": "Innovation abounds in device charging",
+        "url": "https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 11 May 2026 13:00:00 +0000",
+        "published_dt": "2026-05-11T13:00:00+00:00",
+        "summary": "The changes may be less perceptible than in smartphones, tablets, or wearables, but chargers have also been quietly reinvented over the last decade. At one time a bulky mix of tangled cables and connectors, slow to perform and prone to overheating, they\u2019re now smaller, safer, and faster, thanks to a slew of technological advances. These&#8230;"
+      },
+      {
+        "id": "d8ce539d23ba0c6b",
+        "title": "Implementing advanced AI technologies in finance",
+        "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 11 May 2026 13:00:00 +0000",
+        "published_dt": "2026-05-11T13:00:00+00:00",
+        "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of the most tightly regulated functions&#8230;"
+      },
+      {
+        "id": "7e9178bbc1f9ea6b",
+        "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
+        "url": "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 11 May 2026 12:10:00 +0000",
+        "published_dt": "2026-05-11T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here\u2019s what you need to know about the cruise ship hantavirus outbreak Last week, eight passengers aboard a Dutch-flagged cruise ship contracted a type of hantavirus transmitted by rats. Three have&#8230;"
+      },
+      {
+        "id": "269e793807506628",
+        "title": "The connection between periods and mental health",
+        "url": "https://www.statnews.com/2026/05/11/health-news-connection-between-periods-and-mental-health/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 11 May 2026 11:52:44 +0000",
+        "published_dt": "2026-05-11T11:52:44+00:00",
+        "summary": "Plans to oust Makary, a looming Supreme Court deadline on mifepristone, and other health news from Morning Rounds"
+      },
       {
         "id": "0b7670ff5211a9b6",
         "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-reconsider-surprisingly-rejected-cell-therapy-ebvallo-could-uniqure-be-next\" hreflang=\"en\">FDA to reconsider shock rejection of cell therapy Ebvallo. Could uniQure be next?</a>",
@@ -10,6 +73,87 @@
         "published": "May 7, 2026 10:15am",
         "published_dt": "2026-05-07T10:15:00+00:00",
         "summary": "After a surprise rejection in January, the FDA has agreed to reconsider a T-cell therapy based on the same single-arm trial that the agency had previously found problematic. The case could reignite investors\u2019 hope of a potential reversal for uniQure's high-profile gene therapy, too."
+      },
+      {
+        "id": "fb81db2ebb9546e8",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ox40-drug-inhibrx-mooted-ma-target-tops-keytruda-early-look-midphase-data\" hreflang=\"en\">Amid M&amp;A buzz, Inhibrx's OX40-Keytruda combo shows promise in early look at midphase data </a>",
+        "url": "https://www.fiercebiotech.com/biotech/ox40-drug-inhibrx-mooted-ma-target-tops-keytruda-early-look-midphase-data",
+        "source": "Fierce Biotech",
+        "published": "May 11, 2026 9:42am",
+        "published_dt": "2026-05-11T09:42:00+00:00",
+        "summary": "Adding Inhibrx Biosciences\u2019 OX40 agonist to Keytruda doubled the response rate in a midphase clinical trial, encouraging the biotech to advance a program that reportedly attracted the interest of Merck &amp; Co."
+      },
+      {
+        "id": "e101d5c3581eaa76",
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/daiichi-sankyo-targets-global-top-5-oncology-rank-2035-13b-efficiency-drive-new-5-year-plan\" hreflang=\"en\">Daiichi Sankyo targets global top 5 oncology rank by 2035, $1.3B efficiency drive in new 5-year plan</a>",
+        "url": "https://www.fiercebiotech.com/pharma/daiichi-sankyo-targets-global-top-5-oncology-rank-2035-13b-efficiency-drive-new-5-year-plan",
+        "source": "Fierce Biotech",
+        "published": "May 11, 2026 9:40am",
+        "published_dt": "2026-05-11T09:40:00+00:00",
+        "summary": "Daiichi Sankyo aims to transform its antibody-drug conjugate leadership into a top global oncology standing. In a new five-year business plan unveiled Monday, the Japanese pharma outlined a roadmap to become a global top five oncology player by 2035, plus a major $1.3 billion cost optimization initiative."
+      },
+      {
+        "id": "e0d437e6b6c169d8",
+        "title": "STAT+: Five\u00a0years after disaster, a rare disease community gets new chance at treatment",
+        "url": "https://www.statnews.com/2026/05/11/astellas-gene-therapy-trials-resume-promising-myotubular-myopathy-treatment/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 11 May 2026 08:30:00 +0000",
+        "published_dt": "2026-05-11T08:30:00+00:00",
+        "summary": "Some boys had astonishing recoveries. But other boys died. Now Astellas is returning to revised gene therapy for XLMTM."
+      },
+      {
+        "id": "4da6f7a2aa2b614c",
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/mrd-decision-engine-rethinking-oncology-trial-design-early-phase-registration\" hreflang=\"en\">MRD as a Decision Engine: Rethinking Oncology Trial Design from Early Phase to Registration</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/mrd-decision-engine-rethinking-oncology-trial-design-early-phase-registration",
+        "source": "Fierce Biotech",
+        "published": "Apr 30, 2026 5:15pm",
+        "published_dt": "2026-04-30T17:15:00+00:00",
+        "summary": "As MRD shifts from prognostic marker to intervention trigger, sponsors must rethink trial design, endpoints and decision-making."
+      },
+      {
+        "id": "a290ec30c8d467d5",
+        "title": "STAT+: Provider, insurer groups rush to shape No Surprises Act arbitration rules",
+        "url": "https://www.statnews.com/2026/05/11/no-surprises-act-new-rules-dispute-resolution/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 11 May 2026 08:30:00 +0000",
+        "published_dt": "2026-05-11T08:30:00+00:00",
+        "summary": "Doctors and insurers are battling to reshape the controversial No Surprises Act arbitration process, which has long frustrated both sides."
+      },
+      {
+        "id": "a6290b45ad702343",
+        "title": "Animal skin disease confirmed in clusters of European men who have sex with men",
+        "url": "https://www.statnews.com/2026/05/11/rare-animal-skin-infection-msm-clusters-europe-dermatophilus-congolensis/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 11 May 2026 08:30:00 +0000",
+        "published_dt": "2026-05-11T08:30:00+00:00",
+        "summary": "European researchers have diagnosed a number of men who have sex with other men with a skin disease that normally infects livestock."
+      },
+      {
+        "id": "da733a8cfce4a070",
+        "title": "STAT+: Medicare is spending far less than expected on new Alzheimer\u2019s drugs",
+        "url": "https://www.statnews.com/2026/05/11/medicare-spending-less-than-expected-alzheimers-drugs-leqembi-kisunla/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 11 May 2026 08:30:00 +0000",
+        "published_dt": "2026-05-11T08:30:00+00:00",
+        "summary": "Adoption has been slow with new Alzheimer\u2019s drugs because the treatments are complicated to administer and the benefits are uncertain."
+      },
+      {
+        "id": "0eb3dee552dbfab5",
+        "title": "Opinion: AI doctors should be licensed. Here\u2019s a framework to do that",
+        "url": "https://www.statnews.com/2026/05/11/ai-doctors-licenses-utah-doctronic-pilot/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 11 May 2026 08:30:00 +0000",
+        "published_dt": "2026-05-11T08:30:00+00:00",
+        "summary": "A state-by-state approach to clinical AI won\u2019t work. Here\u2019s a framework that can."
+      },
+      {
+        "id": "bd2c606bf25d41af",
+        "title": "Opinion: What addiction medicine can teach us about depending on AI",
+        "url": "https://www.statnews.com/2026/05/11/ai-dependence-addiction-substances-relief-psychology/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 11 May 2026 08:30:00 +0000",
+        "published_dt": "2026-05-11T08:30:00+00:00",
+        "summary": "People gradually rely on AI to reduce the discomfort of thinking. For some, that can become a problem."
       },
       {
         "id": "0fd7e9c3f4ef786d",
@@ -48,33 +192,6 @@
         "summary": "President Donald Trump has approved a plan to fire FDA Commissioner Marty Makary, M.D., according to a report from The Wall Street Journal."
       },
       {
-        "id": "163a1886eac5202f",
-        "title": "STAT+: The biotech news you need to read today",
-        "url": "https://www.statnews.com/2026/05/08/biotech-news-capricor-sues-partner-scientists-age-more-and-innovate-less/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 08 May 2026 13:37:12 +0000",
-        "published_dt": "2026-05-08T13:37:12+00:00",
-        "summary": "A Duchenne therapy lawsuit, FDA Commissioner Marty Makary\u2019s White House troubles, and other news from The Readout"
-      },
-      {
-        "id": "ccd4a2942b3bdd29",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about an FDA gender rule change, its program for one-day inspections, and more",
-        "url": "https://www.statnews.com/pharmalot/2026/05/08/fda-gender-rule-change-pilot-program-for-inspections/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 08 May 2026 13:17:39 +0000",
-        "published_dt": "2026-05-08T13:17:39+00:00",
-        "summary": "An FDA proposal to remove references to \u201cgender\u201d from its regulations sparked concerns about unintended consequences on research"
-      },
-      {
-        "id": "e369f331b7d86c6f",
-        "title": "The aging scientific workforce collides with rising fabricating citations in medical journals",
-        "url": "https://www.statnews.com/2026/05/08/health-news-aging-scientific-workforce-and-fake-ai-citations/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 08 May 2026 11:27:48 +0000",
-        "published_dt": "2026-05-08T11:27:48+00:00",
-        "summary": "The latest in the hantavirus cruise ship saga, why these former officials left the FDA, and more health news from Morning Rounds"
-      },
-      {
         "id": "399e74d7bc657c25",
         "title": "<a href=\"https://www.fiercebiotech.com/research/protective-gene-sent-liver-cleared-amyloid-mouse-brains-sparking-hope-alzheimers-gene\" hreflang=\"en\">A protective gene sent to the liver cleared amyloid from mouse brains, sparking hope for an Alzheimer\u2019s gene therapy</a>",
         "url": "https://www.fiercebiotech.com/research/protective-gene-sent-liver-cleared-amyloid-mouse-brains-sparking-hope-alzheimers-gene",
@@ -82,24 +199,6 @@
         "published": "May 8, 2026 11:13am",
         "published_dt": "2026-05-08T11:13:00+00:00",
         "summary": "The calling card of Alzheimer\u2019s disease is a buildup of misfolded amyloid protein in the brain, but many medicines struggle to penetrate the barrier protecting the mind from outside interference. A new study suggests that crossing the blood-brain barrier might not be necessary at all to clear amyloid plaques\u2014and that a one-time gene therapy could one day prove an effective treatment for the devastating neurodegenerative disease."
-      },
-      {
-        "id": "4fe81163df4d4c11",
-        "title": "Why we left the FDA: Six former officials share their stories",
-        "url": "https://www.statnews.com/2026/05/08/former-fda-regulators-on-why-they-left-status-report/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 08 May 2026 08:30:00 +0000",
-        "published_dt": "2026-05-08T08:30:00+00:00",
-        "summary": "In this week's STATus Report, hear from six former FDA officials on why they left the agency."
-      },
-      {
-        "id": "f2f05c3dbf56b7f3",
-        "title": "Seaport\u2019s IPO adventure, obesity pill battles, and Makary\u2019s troubles",
-        "url": "https://www.statnews.com/2026/05/07/readout-loud-podcast-seaport-ipo-fda-makary-white-house/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 07 May 2026 18:15:31 +0000",
-        "published_dt": "2026-05-07T18:15:31+00:00",
-        "summary": "This week on \"The Readout LOUD\" podcast: Seaport Therapeutics\u2019 successful IPO, obesity pill battles, and the FDA commissioner's White House troubles."
       },
       {
         "id": "ad511b58621a7b8f",
@@ -120,132 +219,96 @@
         "summary": "Ascendis Pharma has ended internal development of its IL-2 candidate, pivoting away from oncology and calling time on an asset it once tipped for accelerated approval."
       },
       {
-        "id": "0b8d15de4ce4fd27",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bayer-buy-perfuse-300m-upfront-midphase-eye-disease-prospect\" hreflang=\"en\">Bayer buys Perfuse in $2.4B deal for midphase eye disease prospect</a>",
-        "url": "https://www.fiercebiotech.com/biotech/bayer-buy-perfuse-300m-upfront-midphase-eye-disease-prospect",
+        "id": "d68436608e7a4954",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/quantum-firm-hailed-amgen-tech-leader-extraordinary-platform-plans-ipo\" hreflang=\"en\">Quantum firm hailed by Amgen tech leader as an \u2018extraordinary platform\u2019 plans IPO</a>",
+        "url": "https://www.fiercebiotech.com/biotech/quantum-firm-hailed-amgen-tech-leader-extraordinary-platform-plans-ipo",
         "source": "Fierce Biotech",
-        "published": "May 6, 2026 6:04am",
-        "published_dt": "2026-05-06T06:04:00+00:00",
-        "summary": "The buyout, which includes up to $2.15 billion in milestones, will give Bayer control of an eye disease implant that Perfuse linked to improved outcomes in a pair of phase 2 trials last year."
-      },
-      {
-        "id": "68dc86ab182ccbab",
-        "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
-        "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 05 May 2026 12:10:00 +0000",
-        "published_dt": "2026-05-05T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI\u2014Sam Altman and Elon Musk\u2014are in the middle of&#8230;"
-      },
-      {
-        "id": "0388bc59db08a833",
-        "title": "Experts wonder \u2018Where is the CDC?\u2019 as hantavirus outbreak unfolds",
-        "url": "https://www.statnews.com/2026/05/09/mv-hondius-hantavirus-outbreak-cdc-takes-back-seat-to-who/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 09 May 2026 18:28:39 +0000",
-        "published_dt": "2026-05-09T18:28:39+00:00",
-        "summary": "The CDC is playing an unusually small, and quiet, role in responding to the hantavirus outbreak."
-      },
-      {
-        "id": "134fdf2a1f2de486",
-        "title": "Opinion: RFK Jr. allegedly \u2018collected\u2019 a dead raccoon\u2019s penis. Was it bioethically justifiable?",
-        "url": "https://www.statnews.com/2026/05/09/rfk-jr-raccoon-penis-whale-bear-cub-bioethics/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 09 May 2026 11:00:00 +0000",
-        "published_dt": "2026-05-09T11:00:00+00:00",
-        "summary": "There are scientific reasons to study raccoon reproductive anatomy. But did RFK Jr.\u2019s actions fit within a bioethical framework?"
-      },
-      {
-        "id": "67bcefa804747d73",
-        "title": "Opinion: Dr. Glaucomflecken wants the corporatization of medicine to be national news",
-        "url": "https://www.statnews.com/2026/05/09/dr-glaucomflecken-podcast-interview-transcript/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 09 May 2026 11:00:00 +0000",
-        "published_dt": "2026-05-09T11:00:00+00:00",
-        "summary": "\u201cWe want, we need to keep medicine local. I think that's good for patients, it's good for communities,\u201d Dr. Glaucomflecken says on the \u201cFirst Opinion Podcast.\u201d"
-      },
-      {
-        "id": "8584e7dd5e9d5dcd",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/new-hepta-blood-test-could-predict-glp-1-response\" hreflang=\"en\">New Hepta blood test could predict GLP-1 response </a>",
-        "url": "https://www.fiercebiotech.com/medtech/new-hepta-blood-test-could-predict-glp-1-response",
-        "source": "Fierce Biotech",
-        "published": "May 9, 2026 3:08am",
-        "published_dt": "2026-05-09T03:08:00+00:00",
-        "summary": "While GLP-1s like Ozempic and Wegovy are being widely prescribed for weight loss, doctors currently do not have a way to predict if a patient will successfully respond to the drugs."
-      },
-      {
-        "id": "b10ade06460cbcce",
-        "title": "Spain readies for evacuations as a hantavirus-hit cruise ship heads for the Canary Islands",
-        "url": "https://www.statnews.com/2026/05/08/hantavirus-outbreak-cruise-ship-spain-evacuations-canary-islands/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 08 May 2026 19:57:17 +0000",
-        "published_dt": "2026-05-08T19:57:17+00:00",
-        "summary": "Spanish authorities on Friday were preparing to receive more than 140 passengers and crew members on board a\u00a0hantavirus-stricken cruise ship\u00a0headed for the Canary Islands."
-      },
-      {
-        "id": "fb74bfba1a148d79",
-        "title": "STAT+: Roche to buy PathAI for $750 million",
-        "url": "https://www.statnews.com/2026/05/08/roche-acquire-startup-pathai-750-million-upfront/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 08 May 2026 19:29:36 +0000",
-        "published_dt": "2026-05-08T19:29:36+00:00",
-        "summary": "Roche has signed a deal to acquire PathAI to speed up its use of artificial intelligence to help pathologists diagnose diseases."
-      },
-      {
-        "id": "c0a14861e9178dfa",
-        "title": "STAT+: Capricor Therapeutics accuses Nippon Shinyaku of slow-walking plans on Duchenne drug",
-        "url": "https://www.statnews.com/pharmalot/2026/05/08/capricor-accuses-nippon-slow-walking-plans-for-duchenne-drug/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 08 May 2026 18:32:59 +0000",
-        "published_dt": "2026-05-08T18:32:59+00:00",
-        "summary": "Capricor Therapeutics has accused Nippon Shinyaku and its U.S. subsidiary of botching the rollout of a Duchenne muscular dystrophy treatment."
-      },
-      {
-        "id": "4537936ab0a897f0",
-        "title": "Here\u2019s what you need to know about the cruise ship hantavirus outbreak",
-        "url": "https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 08 May 2026 16:19:40 +0000",
-        "published_dt": "2026-05-08T16:19:40+00:00",
-        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next.\u00a0You can read more from the series here. Eight passengers aboard a Dutch-flagged cruise ship have contracted a type of hantavirus, a rare virus transmitted by rats. Three of them have died. As the ship&#8230;"
-      },
-      {
-        "id": "6a0edbff4bbf95d7",
-        "title": "Opinion: I\u2019m fighting misinformation online. False hantavirus claims follow a now-familiar playbook",
-        "url": "https://www.statnews.com/2026/05/08/hantavirus-outbreak-misinformation-spreads-faster-than-virus/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 08 May 2026 15:34:07 +0000",
-        "published_dt": "2026-05-08T15:34:07+00:00",
-        "summary": "The cruise ship hantavirus outbreak is serious but limited. Online, it's another story."
-      },
-      {
-        "id": "56608078e5a01989",
-        "title": "STAT+: Up and down the ladder: The latest comings and goings",
-        "url": "https://www.statnews.com/pharmalot/2026/05/08/up-and-down-the-ladder-the-latest-comings-and-going/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 08 May 2026 14:41:33 +0000",
-        "published_dt": "2026-05-08T14:41:33+00:00",
-        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
+        "published": "May 10, 2026 8:26am",
+        "published_dt": "2026-05-10T08:26:00+00:00",
+        "summary": "A quantum tech firm that has collaborated with\u2014and received investment from\u2014Amgen is now planning to go public."
       }
     ],
     "Engineering & Aerospace": [
       {
-        "id": "4005dab5e6f918ce",
-        "title": "Renesas completes acquisition of vision AI software firm",
-        "url": "https://www.engineering.com/renesas-completes-acquisition-of-vision-ai-software-firm/",
+        "id": "745b55db5111384f",
+        "title": "Sindan and LEAP 71 partner on aerospace development",
+        "url": "https://www.engineering.com/sindan-and-leap-71-partner-on-aerospace-development/",
         "source": "Engineering.com",
-        "published": "Fri, 08 May 2026 12:18:52 +0000",
-        "published_dt": "2026-05-08T12:18:52+00:00",
-        "summary": "<p>Irida Labs\u2019 tools will be added to Renesas 365 for edge AI development across industrial, robotics, healthcare and IoT markets.</p>\n<p>The post <a href=\"https://www.engineering.com/renesas-completes-acquisition-of-vision-ai-software-firm/\">Renesas completes acquisition of vision AI software firm</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Mon, 11 May 2026 11:44:52 +0000",
+        "published_dt": "2026-05-11T11:44:52+00:00",
+        "summary": "<p>The agreement covers jet engines and space propulsion systems designed with computational models and built in the UAE.</p>\n<p>The post <a href=\"https://www.engineering.com/sindan-and-leap-71-partner-on-aerospace-development/\">Sindan and LEAP 71 partner on aerospace development</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "e310f79b7009345e",
-        "title": "NVIDIA and Corning expand U.S. optical manufacturing",
-        "url": "https://www.engineering.com/nvidia-and-corning-expand-u-s-optical-manufacturing/",
+        "id": "66ae7e8e4b24569c",
+        "title": "When engineering feels like a choose-your-own-adventure novel",
+        "url": "https://www.engineering.com/when-engineering-feels-like-a-choose-your-own-adventure-novel/",
         "source": "Engineering.com",
-        "published": "Fri, 08 May 2026 12:16:08 +0000",
-        "published_dt": "2026-05-08T12:16:08+00:00",
-        "summary": "<p>Corning plans three new facilities in North Carolina and Texas to support AI data center connectivity demand.</p>\n<p>The post <a href=\"https://www.engineering.com/nvidia-and-corning-expand-u-s-optical-manufacturing/\">NVIDIA and Corning expand U.S. optical manufacturing</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Mon, 11 May 2026 13:00:00 +0000",
+        "published_dt": "2026-05-11T13:00:00+00:00",
+        "summary": "<p>At Meridian Laboratory, one of Engineering.com\u2019s Top Workplaces for Engineers 2026, engineers can explore ideas without fear of failure.</p>\n<p>The post <a href=\"https://www.engineering.com/when-engineering-feels-like-a-choose-your-own-adventure-novel/\">When engineering feels like a choose-your-own-adventure novel</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "c9cf682d274e259b",
+        "title": "ABEC expands process sciences support for biomanufacturing",
+        "url": "https://www.engineering.com/abec-expands-process-sciences-support-for-biomanufacturing/",
+        "source": "Engineering.com",
+        "published": "Mon, 11 May 2026 10:47:03 +0000",
+        "published_dt": "2026-05-11T10:47:03+00:00",
+        "summary": "<p>The group combines modeling, testing and custom equipment design for scale-up, validation and technology transfer.</p>\n<p>The post <a href=\"https://www.engineering.com/abec-expands-process-sciences-support-for-biomanufacturing/\">ABEC expands process sciences support for biomanufacturing</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "87bc823387542504",
+        "title": "Solibri launches Security+ for air-gapped BIM workflows",
+        "url": "https://www.engineering.com/solibri-launches-security-for-air-gapped-bim-workflows/",
+        "source": "Engineering.com",
+        "published": "Mon, 11 May 2026 11:51:00 +0000",
+        "published_dt": "2026-05-11T11:51:00+00:00",
+        "summary": "<p>The standalone offering supports offline model validation and compliance checks for defense, government and infrastructure projects.</p>\n<p>The post <a href=\"https://www.engineering.com/solibri-launches-security-for-air-gapped-bim-workflows/\">Solibri launches Security+ for air-gapped BIM workflows</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "a8a95287e36af189",
+        "title": "Siemens partners with Xometry on sourcing integration",
+        "url": "https://www.engineering.com/siemens-partners-with-xometry-on-sourcing-integration/",
+        "source": "Engineering.com",
+        "published": "Mon, 11 May 2026 10:55:10 +0000",
+        "published_dt": "2026-05-11T10:55:10+00:00",
+        "summary": "<p>The agreement includes a $50 million Siemens investment and connects Thomas and Supplyframe for BOM sourcing data.</p>\n<p>The post <a href=\"https://www.engineering.com/siemens-partners-with-xometry-on-sourcing-integration/\">Siemens partners with Xometry on sourcing integration</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "daf115da6668bbd1",
+        "title": "AVEVA plans Cambridge investment for HQ and R&D site",
+        "url": "https://www.engineering.com/aveva-plans-cambridge-investment-for-hq-and-rd-site/",
+        "source": "Engineering.com",
+        "published": "Mon, 11 May 2026 10:50:00 +0000",
+        "published_dt": "2026-05-11T10:50:00+00:00",
+        "summary": "<p>The 80,000-sq-ft facility is expected to bring together more than 500 roles, with full opening planned for summer 2027.</p>\n<p>The post <a href=\"https://www.engineering.com/aveva-plans-cambridge-investment-for-hq-and-rd-site/\">AVEVA plans Cambridge investment for HQ and R&amp;D site</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "a7f4b411c64e95ab",
+        "title": "DuPont named co-winner of IRI innovation culture award",
+        "url": "https://www.engineering.com/dupont-named-co-winner-of-iri-innovation-culture-award/",
+        "source": "Engineering.com",
+        "published": "Mon, 11 May 2026 10:42:10 +0000",
+        "published_dt": "2026-05-11T10:42:10+00:00",
+        "summary": "<p>DuPont Water Solutions was also a finalist for an IRI sustainability award tied to its wastewater reuse portfolio.</p>\n<p>The post <a href=\"https://www.engineering.com/dupont-named-co-winner-of-iri-innovation-culture-award/\">DuPont named co-winner of IRI innovation culture award</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "ad814f241c16ff9a",
+        "title": "Populous acquires OJB Landscape Architecture",
+        "url": "https://www.engineering.com/populous-acquires-ojb-landscape-architecture-2/",
+        "source": "Engineering.com",
+        "published": "Mon, 11 May 2026 10:36:33 +0000",
+        "published_dt": "2026-05-11T10:36:33+00:00",
+        "summary": "<p>OJB will retain its studios and leadership as Populous expands to more than 1,600 employees worldwide.</p>\n<p>The post <a href=\"https://www.engineering.com/populous-acquires-ojb-landscape-architecture-2/\">Populous acquires OJB Landscape Architecture</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "e8b25d6c6a33579d",
+        "title": "Unionfab expands CNC machining support in North America",
+        "url": "https://www.engineering.com/unionfab-expands-cnc-machining-support-in-north-america/",
+        "source": "Engineering.com",
+        "published": "Mon, 11 May 2026 10:32:24 +0000",
+        "published_dt": "2026-05-11T10:32:24+00:00",
+        "summary": "<p>The platform cites a fleet of about 400 machines, 3-5 day lead times and tolerances down to \u00b10.0005 in.</p>\n<p>The post <a href=\"https://www.engineering.com/unionfab-expands-cnc-machining-support-in-north-america/\">Unionfab expands CNC machining support in North America</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "642bc70134c3183c",
@@ -266,76 +329,13 @@
         "summary": ""
       },
       {
-        "id": "be37aebfe1ab7852",
-        "title": "Axiom readies for yearlong spacesuit qualification testing",
+        "id": "714b7f7cb3080e04",
+        "title": "Axiom Space readies for yearlong spacesuit qualification testing",
         "url": "https://aerospaceamerica.aiaa.org/axiom-readies-for-yearlong-spacesuit-qualification-testing/",
         "source": "Aerospace America",
         "published": "Fri, 08 May 2026 18:27:00 +0000",
         "published_dt": "2026-05-08T18:27:00+00:00",
         "summary": ""
-      },
-      {
-        "id": "5f3b16888ddad037",
-        "title": "The engineers behind the best lasers in the world",
-        "url": "https://www.engineering.com/the-engineers-behind-the-best-lasers-in-the-world/",
-        "source": "Engineering.com",
-        "published": "Fri, 08 May 2026 13:00:00 +0000",
-        "published_dt": "2026-05-08T13:00:00+00:00",
-        "summary": "<p>Sciton, one of the Top Workplaces for Engineers in 2026, shines a light on the culture that earned it a spot in the rankings.</p>\n<p>The post <a href=\"https://www.engineering.com/the-engineers-behind-the-best-lasers-in-the-world/\">The engineers behind the best lasers in the world</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "e0c5500839d350ff",
-        "title": "Semidynamics and SiPearl partner on AI inference platform",
-        "url": "https://www.engineering.com/semidynamics-and-sipearl-partner-on-ai-inference-platform/",
-        "source": "Engineering.com",
-        "published": "Fri, 08 May 2026 12:12:15 +0000",
-        "published_dt": "2026-05-08T12:12:15+00:00",
-        "summary": "<p>The planned rack-scale system combines an Arm-based CPU with a RISC-V accelerator for European cloud and data center use.</p>\n<p>The post <a href=\"https://www.engineering.com/semidynamics-and-sipearl-partner-on-ai-inference-platform/\">Semidynamics and SiPearl partner on AI inference platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "483ad37ad1e30a72",
-        "title": "U.S. Army selects Windchill for product data management",
-        "url": "https://www.engineering.com/u-s-army-selects-windchill-for-product-data-management/",
-        "source": "Engineering.com",
-        "published": "Fri, 08 May 2026 12:09:27 +0000",
-        "published_dt": "2026-05-08T12:09:27+00:00",
-        "summary": "<p>The ePDM platform will serve as the Army\u2019s system of record for lifecycle data, workflows and configuration management.</p>\n<p>The post <a href=\"https://www.engineering.com/u-s-army-selects-windchill-for-product-data-management/\">U.S. Army selects Windchill for product data management</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "e1e88f61f85a2441",
-        "title": "Newforma outlines AI roadmap and ecosystem updates",
-        "url": "https://www.engineering.com/newforma-outlines-ai-roadmap-and-ecosystem-updates/",
-        "source": "Engineering.com",
-        "published": "Fri, 08 May 2026 12:05:05 +0000",
-        "published_dt": "2026-05-08T12:05:05+00:00",
-        "summary": "<p>At Newforma World 2026, the company introduced Vojo, modular licensing and new integrations with AWS, Bluebeam and Egnyte.</p>\n<p>The post <a href=\"https://www.engineering.com/newforma-outlines-ai-roadmap-and-ecosystem-updates/\">Newforma outlines AI roadmap and ecosystem updates</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "8960b7e6bd709d4f",
-        "title": "James River Equipment joins Trimble Technology Outlet",
-        "url": "https://www.engineering.com/james-river-equipment-joins-trimble-technology-outlet/",
-        "source": "Engineering.com",
-        "published": "Fri, 08 May 2026 11:58:39 +0000",
-        "published_dt": "2026-05-08T11:58:39+00:00",
-        "summary": "<p>The dealer will sell grade control, site positioning and correction services for John Deere earthmoving equipment.</p>\n<p>The post <a href=\"https://www.engineering.com/james-river-equipment-joins-trimble-technology-outlet/\">James River Equipment joins Trimble Technology Outlet</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "2f39e7744eac08d4",
-        "title": "Keysight adds PCIe 7.0 receiver test application",
-        "url": "https://www.engineering.com/keysight-adds-pcie-7-0-receiver-test-application/",
-        "source": "Engineering.com",
-        "published": "Fri, 08 May 2026 11:35:00 +0000",
-        "published_dt": "2026-05-08T11:35:00+00:00",
-        "summary": "<p>The release adds stress-signal calibration and automation for 128 GT/s ASIC validation and end-to-end PCIe 7.0 testing.</p>\n<p>The post <a href=\"https://www.engineering.com/keysight-adds-pcie-7-0-receiver-test-application/\">Keysight adds PCIe 7.0 receiver test application</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "c4083677ab48078a",
-        "title": "Hexagon launches PC-DMIS FUSION for metrology data",
-        "url": "https://www.engineering.com/hexagon-launches-pc-dmis-fusion-for-metrology-data/",
-        "source": "Engineering.com",
-        "published": "Thu, 07 May 2026 12:25:18 +0000",
-        "published_dt": "2026-05-07T12:25:18+00:00",
-        "summary": "<p>The software adds real-time SPC, device connectivity and automated reporting for shop floor quality workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/hexagon-launches-pc-dmis-fusion-for-metrology-data/\">Hexagon launches PC-DMIS FUSION for metrology data</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "6da51bb5ff4b7749",
@@ -412,22 +412,13 @@
     ],
     "Economics": [
       {
-        "id": "134571131401e6cc",
-        "title": "Till the IRS Do Us Part: (Optimal) Taxation of Households -- by Hans A. Holter, Dirk Krueger, Serhiy Stepanchuk",
-        "url": "https://www.nber.org/papers/w35137#fromrss",
+        "id": "73c92e48b6733cd4",
+        "title": "Growth is Getting Harder to Find, Not Ideas -- by Teresa C. Fort, Nathan Goldschlag, Jack Liang, Peter K. Schott, Nikolas Zolas",
+        "url": "https://www.nber.org/papers/w35182#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "This paper argues that a progressive tax system combined with individual taxation of married couples can generate more revenue than the current household-based U.S. system, especially when the extra revenues do not induce negative labor supply effects through increased government transfers. A progressive system that taxes individuals rather than couples jointly leads to larger labor force participation and higher average human capital, creates more \u201cfiscal space\u201d, Laffer curves shift up and social welfare potentially rises. In our model with one- and two-earner households, human capital and an extensive margin labor supply decision, the peak of the Laffer curve is 18 percentage points higher with an individual-based, progressive tax system than with the current U.S. tax system. The maximum revenue is attained with 100% more progressivity than the current system, and at an average tax rate of 42%. Progressive taxation, when imposed on individuals rather than households, lowers the average tax rate for individuals with modest potential income that are close to the participation margin. At the same time, it creates a positive income effect on the labor supply of these individuals by reducing the net income of their higher earning spouses and limiting their net earnings potential in the case of a high temporary labor productivity. Steady state social welfare is larger with individual taxation. The optimal progressivity is higher than the current U.S. status quo, and results in welfare gains of 0.8% in consumption-equivalent variation. Cohorts born during the transition also experience significant welfare gains from this reform."
-      },
-      {
-        "id": "9d76da193e83974c",
-        "title": "When Does Automating AI Research Produce Explosive Growth? Feedback Loops in Innovation Networks -- by Tom Davidson, Basil Halperin, Thomas Houlden, Anton Korinek",
-        "url": "https://www.nber.org/papers/w35155#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "AI labs are increasingly using AI itself to accelerate AI research, creating a feedback loop that could lead to an intelligence explosion. We develop a general semi-endogenous growth model with an innovation network, where research and automation in one sector increase the productivity of research in other sectors, and derive a clean analytical condition under which growth becomes superexponential (``explosive''). We find that automating research can offset diminishing returns to ideas by activating two reinforcing channels: a technological feedback loop across research sectors, and an economic feedback loop in which higher output finances further research. Growth becomes explosive if the combined strength of technological and economic feedback loops overcomes diminishing returns. In a simple simulation calibrated to trends in AI progress, fully automating software research and modest (5%) automation in other sectors generates a singularity within six years. Bottlenecks do not overturn the result if task automation advances sufficiently fast."
+        "summary": "Relatively flat US productivity growth versus rising R\\&amp;D expenditures is often interpreted as evidence that ideas are getting harder to find. We build a new 45-year panel tracking the universe of \\usas firms' patenting to investigate the micro underpinnings of this conclusion, separately examining the relationships between research inputs and ideas (patents) versus ideas and growth. We find that average patents per R\\&amp;D input are increasing, the elasticity of patents to R\\&amp;D inputs is flat or rising, and there is not systematic evidence of a secular decline in patenting after controlling for research inputs. We then document a positive, significant, and fairly steady relationship between firms' patent and labor productivity growth rates. Average firm growth after controlling for patent growth, however, declines. Together, these results suggest that firms' innovative efforts play a key role in sustaining growth that has not diminished over the last four decades."
       },
       {
         "id": "4aa920b9e0db9c27",
@@ -457,58 +448,67 @@
         "summary": "Just consider what happens if inflation starts to rise again"
       },
       {
-        "id": "95bd0dcd5b3ed657",
-        "title": "Rental Prices and the Cost of Living in the United States, 1914\u20132006 -- by Ronan C. Lyons, Allison Shertzer",
-        "url": "https://www.nber.org/papers/w35124#fromrss",
+        "id": "08115d4f7cb1bb52",
+        "title": "Building Opportunity: The Intergenerational Effects of Chilean School Construction -- by Adrienne Lucas, Patrick McEwan",
+        "url": "https://www.nber.org/papers/w35042#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "The Rent of Primary Residence (RoPR) series constructed by the Bureau of Labor Statistics (BLS) implies that nominal rental prices increased by just 2.6% per year from 1914 to 2006 while overall prices grew by 3.3%. We show that this \u201cfalling real rents\u201d puzzle can be explained by the evolving treatment of shelter in the Consumer Price Index (CPI). In this paper we construct a new, methodologically consistent shelter price series using the Historical Housing Prices (HHP) Project rental index. We also construct a revised set of shelter weights going back to 1914 and combine them with the price series to create an alternate CPI that applies the owners\u2019 equivalent rent (OER) concept of shelter consistently across time. The HHP shelter price series increases by a factor of 28.4 (compared with the 10.7 increase in RoPR) and lifts average CPI growth from 3.3% to 3.6% per year. The revised series eliminates the long-run decline in real rents in the CPI and provides a new benchmark for assessing trends in the cost of living and real income in the U.S. over the twentieth century."
+        "summary": "In 1965\u20131966, Chile built and staffed thousands of new primary classrooms in supply-constrained communities. Using a quasi-experimental design and large census samples, we show that childhood exposure to school construction substantially improved the schooling and labor market outcomes of adults and closed a persistent female disadvantage in school attainment. Women\u2019s exposure to the policy had large intergenerational spillovers on their children\u2019s on-time grade progression and completed schooling. The marginal value of public funds is 13, including direct effects on adults and intergenerational spillovers."
       },
       {
-        "id": "2bcc831ec211aff3",
-        "title": "Monetary Policy According to Households: Perceptions, Reactions and Channels -- by Francesco Grigoli, Damiano Sandri, Yuriy Gorodnichenko, Olivier Coibion",
-        "url": "https://www.nber.org/papers/w35127#fromrss",
+        "id": "d8b9b46a3a512060",
+        "title": "On the Negative Consequences of Low-Wage Offshoring for Innovation -- by Wulong Gu, Alla Lileeva, Daniel Trefler",
+        "url": "https://www.nber.org/papers/w35167#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "This paper studies how households perceive the transmission of monetary policy and how these perceptions affect their decisions. Using a large-scale survey of over 25,000 U.S. households combined with randomized information treatments, we measure how households expect changes in the federal funds rate to affect economic conditions and their own behavior. Households report that higher interest rates lead them to reduce their spending, particularly on durable goods. However, the mechanisms underlying this response differ markedly from those in standard macroeconomic models. Respondents expect monetary tightening to raise borrowing costs and inflation. In turn, consumption function estimates identified using information treatments reveal that households respond to higher expected inflation by reducing consumption. Household inflation expectations also emerge as a central driver of portfolio reallocations following monetary policy changes."
+        "summary": "Conventional wisdom holds that offshoring intermediates to China stimulates innovation. This is not entirely compelling. On the one hand, (a) offshoring lowers marginal costs and expands sales, thereby increasing the returns to innovation, especially for large firms. On the other hand, (b) offshoring low-quality intermediates reduces the costs of older-generation products, thereby reducing the returns to innovating into newer generations. We examine these two opposing forces over 2002-2011 for 6,024 Canadian firms. Our empirical strategy regresses measures of innovation, such as R&amp;D, on imports of intermediate inputs. To address endogeneity, we construct a model-consistent shift-share instrument whose shocks are the often-dramatic improvements in the quality of HS6 Chinese intermediate inputs. We find that greater offshoring reduced R&amp;D spending over 2002-2011 by 15% as (1) firms engaged in R&amp;D in 2002 reduced their expenditures, and (2) firms not initially engaged in R&amp;D were discouraged from starting up new R&amp;D projects. Our model explains these findings: Rising quality of Chinese intermediates is a positive supply shock (rather than a negative China shock) that raises profits for all offshorers, raises innovation for the largest offshorers (channel a above), and lowers innovation for all other offshorers (channel b). These predictions are confirmed in the data."
       },
       {
-        "id": "99b755125a0e2212",
-        "title": "Labor Market Impacts of ICE Activity in Trump 2.0 -- by Elizabeth Cox, Chloe N. East",
-        "url": "https://www.nber.org/papers/w35129#fromrss",
+        "id": "e4a7ed46c3e50595",
+        "title": "Opt In? Opt Out? -- by Alex Chan, Ayush Gupta, Yetong Xu",
+        "url": "https://www.nber.org/papers/w35169#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We provide the first causal, national empirical analysis of the labor market impacts of heightened immigration enforcement during the second Trump administration. Enforcement increased everywhere, but, we take advantage of the fact that the increases have been uneven across geographic areas to classify areas as treated or control and then implement an event study and difference-in-differences design. Areas that experienced particularly large increases in the number of arrests also experienced a decrease in work among likely undocumented immigrants who remain in the U.S., compared to areas with smaller increases in arrests. We find no evidence of positive spillover effects to U.S.-born workers and U.S.-born workers who work in immigrant-heavy sectors are harmed."
+        "summary": "Cadaveric organ shortages leave thousands without life-saving transplants each year. Countries differ in using opt-in (informed consent) or opt-out (presumed consent) systems for donor registration. Using newly assembled cross-country panel data and an event-study design, this paper provides evidence that presumed-consent laws increase organ donation only when strictly enforced and family veto power is limited; weak opt-out regimes show negligible or even negative effects. A theoretical signaling model provides a plausible mechanism when opt-in or opt-out yields more donations, emphasizing the roles of donation propensity, signaling costs, and the family\u2019s ability to overturn defaults. A large laboratory experiment further tests these mechanisms, showing that opt-in generally produces equal or higher donation rates unless signaling is costly and family veto power is minimal. The results underscore that defaults alone rarely increase donations unless paired with strong institutional enforcement."
       },
       {
-        "id": "b9bafb51e77c7f08",
-        "title": "The Value of Reliable Statistics -- by Nicholas Bloom, Erica L. Groshen, Duncan Hobbs, Michael R. Strain",
-        "url": "https://www.nber.org/papers/w35135#fromrss",
+        "id": "e62e37aadd1c537f",
+        "title": "Labor Market Effects of California\u2019s $20 Fast-Food Minimum Wage -- by Arindrajit Dube",
+        "url": "https://www.nber.org/papers/w35171#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "On August 1, 2025, President Trump fired the head of the U.S. Bureau of Labor Statistics (BLS) and claimed that the agency\u2019s data were \u201crigged.\u201d In the aftermath, measures of economic policy uncertainty rose sharply, consistent with the idea that reduced trust in official data increases uncertainty for investors, businesses, and households. We use an event-study design to estimate the effect of the firing on policy uncertainty, and then map that increase in uncertainty into implied macroeconomic outcomes. This yields a back-of-the-envelope estimate of the marginal value of public trust in official statistics. Our baseline estimate implies that preserving trust in the integrity and quality of official statistics generates economic benefits of about $25 for every $1 spent on the agency\u2019s budget."
+        "summary": "California\u2019s AB 1228 raised the minimum wage for large fast-food chains to $20 per hour in April 2024\u2014roughly 77 percent of the state\u2019s median hourly wage, the highest wage floor for fast-food workers in the U.S. Using QCEW data through 2025Q3, I estimate that the policy raised fast-food wages by about 7 percent. A conventional difference-in-differences yields an employment own-wage elasticity (OWE) of \u22120.19; synthetic difference-in-differences, which reweights controls to match California\u2019s pretreatment trajectory, shrinks the OWE to \u22120.04. Newly available QWI data through 2024Q4 yield estimates that are on average more positive. Across 32 QCEW and QWI specifications, the OWE ranges from \u22120.29 to +0.26, bracketing the median OWE of \u22120.02 I compute across 26 post-2010 state minimum-wage events despite AB 1228\u2019s much larger bite. The QWI also reveals a sharp reduction in the separation rate, with own-wage elasticities of \u22121.7 to \u22124.2\u2014several times the restaurant-sector benchmark in Dube, Lester, and Reich (2016) and consistent with a monopsonistic quit-reduction channel. Wage and separation-rate effects concentrate among large employers covered by AB 1228, with limited spillovers. The fall in separations also helps reconcile the somewhat more negative QCEW employment estimates."
       },
       {
-        "id": "28963f087936cb4a",
-        "title": "The Labor Market as an Equilibrium Newsvendor Problem -- by Alexandre Mas",
-        "url": "https://www.nber.org/papers/w35148#fromrss",
+        "id": "65e9b48948954150",
+        "title": "What Does A Grade Mean? Informativeness and Strategic Manipulation of Grading Systems -- by Joshua S. Gans, Scott Duke Kominers",
+        "url": "https://www.nber.org/papers/w35183#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "I study hiring under uncertainty when firms can either hold permanent labor as a buffer or hire from a spot market after demand is realized. I build a model where the spot market is endogenously determined such that when one firm relies more on spot labor, it thickens the market that other firms use as well. Individual firms do not internalize that contribution, so the competitive equilibrium involves too much buffering. I evaluate the model in the market for registered nurses using the universe of daily time sheet records from skilled nursing facilities. The data support the model\u2019s general equilibrium predictions. Markets with thicker agency markets have less rationing conditional on total nursing hours, and thicker agency markets have compressed upper tails of permanent staffing and higher overall hours in the lower part of the distribution. Estimating a facility-level newsvendor model with heterogeneous spot market frictions and rationing costs I find that the nursing labor market was more efficient post-COVID, there are substantial welfare gains from lower spot market frictions, and that the marginal external benefit for a firm that participates in the spot market instead of hiring an employee as buffer averages 7 percent of wages. This labor market underprovides flexibility because the value of availability is not fully priced."
+        "summary": "When do university grades permit informative comparisons across courses, and how does transcript adjustment affect student and instructor incentives? A raw grade mixes student performance with course-specific conditions, so grade-only comparisons fail whenever course effects are large enough to reverse ability rankings at grade cutoffs. We show that full transcripts can recover comparable student signals through what we call eigengrades: course-adjusted reports that use common or externally anchored grading standards and enrollment overlap to identify centered student effects. In the scalar additive benchmark, row-mean, affinity-spectral, and graph-Laplacian methods recover the same object. Eigengrades are, therefore, not a separate source of identification; they are a representation of fixed-effect adjustment. The framework also clarifies limits: ordinary letter grades with unanchored course-specific cutoffs do not separate course difficulty from grading standards, and multidimensional transcripts identify a skill-match subspace rather than a unique universal ranking unless the institution specifies a benchmark. Finally, exact difficulty adjustment removes the direct report-mediated incentive to choose easier courses and eliminates a competitive enrollment channel behind grade inflation, while leaving other strategic and governance margins intact."
       },
       {
-        "id": "f47823f9df907222",
-        "title": "Shaping Society's Character: The Role of Schools in Developing Social and Emotional Skills -- by Sule Alan",
-        "url": "https://www.nber.org/papers/w35161#fromrss",
+        "id": "19423f7a1b16bff1",
+        "title": "Anti-Harassment Policy and the Startup Labor Market -- by Jun Chen, Song Ma, Feng Zhang",
+        "url": "https://www.nber.org/papers/w35187#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "This chapter examines how schools cultivate socio-emotional skills that influence both individual success and broader social cohesion. Moving beyond the traditional focus on cognitive ability, I argue that education plays a crucial role in fostering traits that promote cooperation, trust, and long-term societal well-being. Drawing on insights from neuroscience, psychology, and economics, I explore how schools shape not only academic and labor market outcomes but also intergenerational beliefs, attitudes, and the formation of social capital. Using evidence from experimental studies, I highlight how school-based interventions can instill perseverance, enhance social learning, and create environments that curb anti-social tendencies, promote prosocial behavior\u2014ultimately influencing the cultural fabric of society. This perspective reframes education as a mechanism for building more equitable and cohesive communities."
+        "summary": "This paper examines how anti-harassment legal reforms that weaken non-disclosure agreements (NDAs) in cases of workplace sexual harassment affect startups' hiring and organizational decisions. Using a staggered difference-in-differences design and LinkedIn data on over 50,000 U.S. venture-capital-backed startups from 2014\u20132022, we find that NDA reforms, although intended for employee protection, reduce female hiring by about 8%, with effects concentrated among junior women, who are statistically more prone to sexual harassment, and in small or male-dominated startups. The results apply to both the intensive and extensive margins of female hiring. Treated entrepreneurial firms also witness more departures of male managers, promote more women, and receive less VC funding. These results suggest that while NDA-weakening laws increase firms\u2019 perceived legal risk and reduce female hiring, they also trigger internal restructuring that promotes women's advancement into leadership and may, over time, foster more accountable and inclusive organizational cultures."
+      },
+      {
+        "id": "1fbdad5e8d94ccbd",
+        "title": "Algorithmic Credentialism -- by Peter Q. Blair, Rui Guo",
+        "url": "https://www.nber.org/papers/w35192#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "The paper develops a framework for evaluating credential-coded algorithmic screens under existing civil rights law. AI-powered hiring tools trained on historical data often encode and automate bachelor's degree requirements as a proxy for worker skill, producing what this paper terms algorithmic credentialism. Drawing on labor economics research on workers Skilled Through Alternative Routes (STARs), disability theory's critique of the medical model, and disparate-impact doctrine from Griggs v. Duke Power Co. through the Civil Rights Act of 1991, it argues that such screens misidentify the source of hiring exclusion, locating it in the worker rather than in the design of the selection system. This institutional-design problem is amenable to evaluation under the existing disparate-impact doctrine. Under the paper's proposed framework, a credential-coded screen producing disparate impact triggers a legal obligation to validate the screen as job-related and consistent with business necessity, with skills-based hiring supplying the less-discriminatory alternative. The paper further argues that the efficiency rationale historically offered for degree screens is weakened, not strengthened, by AI. The same computational power that automates credentialism at scale can instead match applicants to jobs on multidimensional skill profiles, making the bachelor's degree a less necessary (and less legally defensible) proxy than it was in the pre-AI labor market."
       },
       {
         "id": "c92a7059909b33f3",
@@ -639,6 +639,51 @@
     ],
     "Cross-Disciplinary": [
       {
+        "id": "5319c0c9911907b4",
+        "title": "Fostering breakthrough AI innovation through customer-back engineering",
+        "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 11 May 2026 13:33:06 +0000",
+        "published_dt": "2026-05-11T13:33:06+00:00",
+        "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That\u2019s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward to technology solutions. Not prioritizing the customer can create fragmented solutions; disjointed&#8230;"
+      },
+      {
+        "id": "79a46eb01a830bc7",
+        "title": "Innovation abounds in device charging",
+        "url": "https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 11 May 2026 13:00:00 +0000",
+        "published_dt": "2026-05-11T13:00:00+00:00",
+        "summary": "The changes may be less perceptible than in smartphones, tablets, or wearables, but chargers have also been quietly reinvented over the last decade. At one time a bulky mix of tangled cables and connectors, slow to perform and prone to overheating, they\u2019re now smaller, safer, and faster, thanks to a slew of technological advances. These&#8230;"
+      },
+      {
+        "id": "d8ce539d23ba0c6b",
+        "title": "Implementing advanced AI technologies in finance",
+        "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 11 May 2026 13:00:00 +0000",
+        "published_dt": "2026-05-11T13:00:00+00:00",
+        "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of the most tightly regulated functions&#8230;"
+      },
+      {
+        "id": "7e9178bbc1f9ea6b",
+        "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
+        "url": "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 11 May 2026 12:10:00 +0000",
+        "published_dt": "2026-05-11T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here\u2019s what you need to know about the cruise ship hantavirus outbreak Last week, eight passengers aboard a Dutch-flagged cruise ship contracted a type of hantavirus transmitted by rats. Three have&#8230;"
+      },
+      {
+        "id": "7001f48275e816f6",
+        "title": "Why Mastering EVM Is Essential for Next-Generation Wireless Systems",
+        "url": "https://content.knowledgehub.wiley.com/understanding-evm-error-vector-magnitude-in-modern-wireless-communications/",
+        "source": "IEEE Spectrum",
+        "published": "Mon, 11 May 2026 10:00:01 +0000",
+        "published_dt": "2026-05-11T10:00:01+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/rohde-schwarz-logo-with-slogan-make-ideas-real-and-rs-emblem-in-diamond-shape.png?id=66678514&amp;width=980\" /><br /><br /><p>A comprehensive guide to error vector magnitude (EVM), the primary metric for quantifying modulation accuracy in Wi-Fi, LTE, and 5G NR systems.</p><p><strong>What Attendees will Learn</strong></p><ol><li>What error vector magnitude is and how it is calculated \u2014 Understand EVM as the distance between ideal and measured constellation points, learn the difference between peak and RMS normalization, and see how EVM is expressed in both percentage and decibel formats.</li><li>How digital modulation works and why it matters \u2014 Explore the fundamentals of ASK, FSK, PSK, APSK, and QAM modulation schemes, and understand why higher modulation orders increase throughput, while also demanding greater accuracy in signal transmission and reception.</li><li>What causes degraded EVM in real-world systems \u2014 Examine the four main categories of EVM contributors: amplitude effects (compression, noise, frequency response), phase effects (phase noise), I/Q imperfections (gain imbalance, quadrature error), and configuration issues.</li><li>How to diagnose modulation impairments using constellation diagrams \u2014 Learn how visual inspection of constellation diagrams can identify phase noise, amplifier compression, noise, in-band spurious signals, and I/Q modulator imperfections as root causes of degraded EVM.</li></ol><div><span><a href=\"https://content.knowledgehub.wiley.com/understanding-evm-error-vector-magnitude-in-modern-wireless-communications/\" target=\"_blank\">Download this free whitepaper now!</a></span></div>"
+      },
+      {
         "id": "99af17f52bd7f638",
         "title": "Sardinia\u2019s Ancient Reasons for Rejecting a Clean Energy Future",
         "url": "https://spectrum.ieee.org/sardinia-renewable-energy-conflict",
@@ -664,15 +709,6 @@
         "published": "Thu, 30 Apr 2026 14:00:01 +0000",
         "published_dt": "2026-04-30T14:00:01+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/illustration-of-a-castle-shaped-container-filled-with-colorful-binary-numbers.jpg?id=66656097&amp;width=1245&amp;height=700&amp;coordinates=0%2C469%2C0%2C469\" /><br /><br /><p>Transforming a newly discovered software vulnerability into a cyberattack used to take months. Today\u2014as the recent headlines over Anthropic\u2019s <a href=\"https://spectrum.ieee.org/anthropic-claude-mythos-preview-code\" target=\"_self\">Project Glasswing have shown</a>\u2014generative AI can do the job in minutes, often for less than a dollar of cloud-computing time.</p><p>But while large language models present a real cyberthreat, they also provide an opportunity to reinforce cyberdefenses. Anthropic reports its <a href=\"https://en.wikipedia.org/wiki/Claude_(language_model)#Claude_Mythos\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Claude Mythos preview</span></a> model has already helped defenders preemptively discover over <a href=\"https://www.anthropic.com/glasswing\" target=\"_blank\">a thousand zero-day vulnerabilities</a>, including <a href=\"https://red.anthropic.com/2026/mythos-preview/\" target=\"_blank\">flaws in every major operating system and web browser</a>, with Anthropic <a href=\"https://www.cfr.org/articles/six-reasons-claude-mythos-is-an-inflection-point-for-ai-and-global-security\" target=\"_blank\">coordinating disclosure</a> and its efforts to patch the revealed flaws. </p><p>It is not yet clear whether AI-driven bug finding will ultimately favor attackers or defenders. But to understand how defenders can increase their odds, and perhaps hold the advantage, it helps to look at an earlier wave of automated vulnerability discovery.</p><p>In the early 2010s, a new category of software appeared that could attack programs with millions of random, malformed inputs\u2014a proverbial monkey at a typewriter, tapping on the keys until it finds a vulnerability. When such \u201cfuzzers\u201d like <a href=\"https://en.wikipedia.org/wiki/American_Fuzzy_Lop_(software)\" target=\"_blank\"><span>American Fuzzy Lop</span></a> (AFL) hit the scene, <a href=\"https://github.com/google/oss-fuzz\" target=\"_blank\">they found critical flaws in every major browser and operating system</a>.</p><p>The security community\u2019s response was instructive. Rather than panic, organizations industrialized the defense. For instance, Google built a system called <a href=\"https://github.com/google/oss-fuzz\" target=\"_blank\"><span>OSS-Fuzz</span></a> that runs fuzzers continuously, around the clock, on thousands of software projects. So software providers could catch bugs before they shipped, not after attackers found them. The expectation is that AI-driven vulnerability discovery will follow the same arc. Organizations will integrate the tools into standard development practice, run them continuously, and establish a new baseline for security.</p><p>But the analogy has a limit. Fuzzing requires significant technical expertise to set up and operate. It was a tool for specialists. An LLM, meanwhile, finds vulnerabilities with just a prompt\u2014resulting in a troubling asymmetry. Attackers no longer need to be technically sophisticated to exploit code, while robust defenses still require engineers to read, evaluate, and act on what the AI models surface. The human cost of finding and exploiting bugs may approach zero, but fixing them won\u2019t.</p><h2><a target=\"_blank\"></a><strong>Is AI Better at Finding Bugs Than Fixing Them?</strong></h2><p>In the opening to his book <a href=\"https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf\" target=\"_blank\"><em><span>Engineering Security</span></em></a> (2014), Peter Gutmann observed that \u201ca great many of today\u2019s security technologies are \u2018secure\u2019 only because no one has ever bothered to look at them.\u201d That observation was made before AI made looking for bugs dramatically cheaper. Most present-day code\u2014including <a href=\"https://www.atlanticcouncil.org/in-depth-research-reports/report/open-source-software-as-infrastructure/\" target=\"_blank\">the open source infrastructure that commercial software depends on</a>\u2014is maintained by small teams, part-time contributors, or individual volunteers with no dedicated security resources. A bug in any open source project can have significant downstream impact, too.</p><p>In 2021, a <a href=\"https://www.ibm.com/think/topics/log4j\" target=\"_blank\"><span>critical vulnerability</span></a> in <a href=\"https://logging.apache.org/log4j/2.x/index.html\" target=\"_blank\">Log4j</a>\u2014a logging library maintained by a handful of volunteers\u2014exposed hundreds of millions of devices. Log4j\u2019s widespread use meant that a vulnerability in a single volunteer-maintained library became one of the most widespread software vulnerabilities ever recorded. The popular code library is just one example of the broader problem of critical software dependencies that have never been seriously audited. For better or worse, AI-driven vulnerability discovery will likely perform a lot of auditing, at low cost and at scale.</p><p>An attacker targeting an under-resourced project requires little manual effort. AI tools can scan an unaudited codebase, identify critical vulnerabilities, and assist in building a working exploit with minimal human expertise. </p><p>Research on LLM-assisted exploit generation has shown that capable models <a href=\"https://arxiv.org/pdf/2404.08144\" target=\"_blank\">can autonomously and rapidly exploit cyber weaknesses</a>, compressing the time between disclosure of the bug and working exploit of that bug from weeks down to mere hours. Generative AI-based attacks launched from cloud servers operate staggeringly cheaply as well. In August 2025, researchers at NYU\u2019s <a href=\"https://engineering.nyu.edu/\" target=\"_blank\">Tandon School of Engineering</a> demonstrated that an LLM-based system could <a href=\"https://engineering.nyu.edu/news/large-language-models-can-execute-complete-ransomware-attacks-autonomously-nyu-tandon-research\" target=\"_blank\">autonomously complete the major phases of a ransomware campaign</a> for some $0.70 per run, with no human intervention. </p><p>And the attacker\u2019s job ends there. The defender\u2019s job, on the other hand, is only getting underway. While an AI tool can find vulnerabilities and potentially assist with bug triaging, a dedicated security engineer still has to review any potential patches, evaluate the AI\u2019s analysis of the root cause, and understand the bug well enough to approve and deploy a fully functional fix without breaking anything. For a small team maintaining a widely-depended-upon library in their spare time, that remediation burden may be difficult to manage even if the discovery cost drops to zero.</p><h2><a target=\"_blank\"></a><strong>Why AI Guardrails and Automated Patching Aren\u2019t the Answer</strong></h2><p>The natural policy response to the problem is to <a href=\"https://www.theregreview.org/2025/11/30/spotlight-improving-regulation-of-ai-and-cybersecurity/\" target=\"_blank\">go after AI at the source</a>: holding AI companies responsible for spotting misuse, <a href=\"https://statetechmagazine.com/article/2026/01/ai-guardrails-will-stop-being-optional-2026\" target=\"_blank\">putting guardrails in their products</a>, and <a href=\"https://www.cigionline.org/articles/not-open-and-shut-how-to-regulate-unsecured-ai/\" target=\"_blank\">pulling the plug on anyone using LLMs to mount cyberattacks</a>. There is evidence that pre-emptive defenses like this have some effect. Anthropic has published data showing that <a href=\"https://www.anthropic.com/news/detecting-countering-misuse-aug-2025\" target=\"_blank\"><span>automated misuse detection can derail some cyberattacks</span></a>. <span>However, blocking a few bad actors does not make for a satisfying and comprehensive solution.</span></p><p>At a root level, there are two<em> </em>reasons why policy does not solve the whole problem.</p><p>The first is technical. <a href=\"https://spectrum.ieee.org/large-language-model-performance\" target=\"_self\">LLMs</a> judge whether a request is malicious by reading the request itself. But a sufficiently creative prompt can frame any harmful action as a legitimate one. Security researchers know this as the problem of the persuasive <a href=\"https://spectrum.ieee.org/prompt-injection-attack\" target=\"_self\"><span>prompt injection</span></a>. Consider, for example, the difference between \u201cAttack <em>website A</em> to steal users\u2019 credit card info\u201d and \u201cI am a security researcher and would like secure <em>website A</em>. Run a simulation there to see if it\u2019s possible to steal users\u2019 credit card info.\u201d No one\u2019s yet discovered how to root out the source of subtle cyberattacks, like in the latter example, with 100 percent accuracy.</p><p>The second reason is jurisdictional. Any regulation confined to U.S.-based providers (or that of any other single country or region) still leaves the problem largely unsolved worldwide. Strong, open-source LLMs are already available anywhere the internet reaches. A policy aimed at handful of American technology companies is not a comprehensive defense.</p><p>Another tempting fix is to automate the defensive side entirely\u2014let AI autonomously identify, patch, and deploy fixes without waiting for an overworked volunteer maintainer to review them.</p><p><a target=\"_blank\"></a><a target=\"_blank\">Tools like </a><a href=\"https://docs.github.com/en/code-security/concepts/code-scanning/copilot-autofix-for-code-scanning\" target=\"_blank\"></a><a href=\"https://docs.github.com/en/code-security/concepts/code-scanning/copilot-autofix-for-code-scanning\" target=\"_blank\">GitHub Copilot Autofix</a> generate patches for flagged vulnerabilities directly with proposed code changes. Several <a href=\"https://www.linuxfoundation.org/blog/project-glasswing-gives-maintainers-advanced-ai-to-secure-open-source\" target=\"_blank\">open-source security initiatives</a> are also <a href=\"https://openssf.org/blog/2025/01/23/predictions-for-open-source-security-in-2025-ai-state-actors-and-supply-chains/\" target=\"_blank\">experimenting</a> with <a href=\"https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/\" target=\"_blank\">autonomous AI maintainers</a> for under-resourced projects. It is becoming much easier to have the same AI system find bugs, generate a patch, and update the code with no human intervention.</p><p>But LLM-generated patches can be unreliable in ways that are difficult to detect. For example, even if they pass muster with popular code-testing software suites, <a href=\"https://dl.acm.org/doi/pdf/10.1145/3610721\" target=\"_blank\"><span>they may still introduce subtle logic errors</span></a>. LLM-generated code, even from the most powerful generative AI models out there, is still subject to a range of cyber-vulnerabilities. A coding agent with write access to a repository and no human in the loop is, in so many words, an easy target. Misleading bug reports, malicious instructions hidden in project files, or untrusted code pulled in from outside the project <a target=\"_blank\">can turn an automated AI codebase maintainer into a cyber-vulnerability generator.</a><span><a href=\"https://spectrum.ieee.org/feeds/feed.rss#_msocom_3\" target=\"_blank\"></a></span></p><p>Guardrails and automated patching are useful tools, but they share a common limitation. Both are ad hoc and incomplete. Neither addresses the deeper question of whether the software was built securely from the start. The more lasting solution is to prevent vulnerabilities from being introduced at all. No matter how deeply an AI system can inspect a project, it cannot find flaws that don\u2019t exist.</p><h2><a target=\"_blank\"></a><strong>Memory-Safe Code Creates More Robust Defenses</strong></h2><p>The most accessible starting point is the adoption of memory-safe languages. Simply by <a href=\"https://bidenwhitehouse.archives.gov/oncd/briefing-room/2024/02/26/memory-safety-fact-sheet/\" target=\"_blank\">changing the programming language their coders use</a>, organizations can have a <a href=\"https://www.cisa.gov/resources-tools/resources/memory-safe-languages-reducing-vulnerabilities-modern-software-development\" target=\"_blank\">large positive impact on their security</a>. </p><p><span>Both </span><a href=\"https://security.googleblog.com/2024/10/safer-with-google-advancing-memory.html\" target=\"_blank\"><span>Google</span></a><span> and </span><a href=\"https://www.microsoft.com/en-us/msrc/blog/2019/07/a-proactive-approach-to-more-secure-code\" target=\"_blank\">Microsoft</a><span> </span><span>have found that roughly 70 percent of serious security flaws come down to the ways in which software manages memory. Languages like C and C++ leave every memory decision to the developer. A</span><span>nd when something slips, even briefly, </span><a href=\"https://www.memorysafety.org/docs/memory-safety/\" target=\"_blank\">attackers can exploit that gap</a><span> to run their own code, siphon data, or bring systems down. Languages like <a href=\"https://spectrum.ieee.org/ai-code-rust-great-refactor\" target=\"_blank\">Rust</a> go further; they make the most dangerous class of memory errors structurally impossible, not just harder to make.</span></p><p><span>Memory-safe languages address the problem at the source, but legacy codebases written in C and C++ will remain a reality for decades. <a href=\"https://en.wikipedia.org/wiki/Sandbox_(software_development)\" target=\"_blank\">Software sandboxing</a> techniques complement memory-safe languages by addressing what they cannot\u2014containing the blast radius of vulnerabilities that do exist. Tools like </span><a href=\"https://webassembly.org/\" target=\"_blank\"><span>WebAssembly</span></a><span> and </span><a href=\"https://hacks.mozilla.org/2021/12/webassembly-and-back-again-fine-grained-sandboxing-in-firefox-95/\" target=\"_blank\">RLBox</a><span> already demonstrate this in practice in web browsers and cloud service providers like <a href=\"https://en.wikipedia.org/wiki/Fastly\" target=\"_blank\">Fastly</a> and <a href=\"https://en.wikipedia.org/wiki/Cloudflare\" target=\"_blank\">Cloudflare</a>. However, while sandboxes dramatically raise the bar for attackers, they are only as strong as their implementation. Moreover, Anthropic reports that </span><a href=\"https://red.anthropic.com/2026/mythos-preview/\" target=\"_blank\">Claude Mythos has demonstrated that it can breach software sandboxes</a><span>. </span></p><p><span>For the most security-critical components, where implementation complexity is highest and the cost of failure greatest, a stronger guarantee still is available.</span></p><p><a href=\"https://en.wikipedia.org/wiki/Formal_verification\" target=\"_blank\">Formal verification</a> proves, mathematically, that certain bugs cannot exist. It treats code like a mathematical theorem. Instead of testing whether bugs appear, it proves that specific categories of flaw cannot exist under any conditions.</p><p><span><span><a href=\"https://aws.amazon.com/blogs/opensource/verify-the-safety-of-the-rust-standard-library/\" target=\"_blank\">AWS</a>, <a href=\"https://blog.cloudflare.com/topaz-policy-engine-design/\" target=\"_blank\">Cloudflare</a></span>, and <a href=\"https://datatracker.ietf.org/meeting/118/materials/slides-118-ufmrg-using-formal-methods-at-google-00\" target=\"_blank\">Google</a>  already use formal verification to protect their most sensitive infrastructure\u2014cryptographic code, network protocols, and storage systems where failure isn\u2019t an option. Tools like <a href=\"https://github.com/flux-rs/flux\" target=\"_blank\">Flux</a> now bring that same rigor to everyday production Rust code, without requiring a dedicated team of specialists. That matters when your attacker is a powerful generative-AI system that can rapidly scan millions of lines of code for weaknesses. Formally verified code doesn\u2019t just put up some fences and firewalls\u2014it provably has no weaknesses to find.</span></p><p><span>The defenses described above are asymmetric. Code written in memory-safe languages\u2014separated by strong sandboxing boundaries and selectively formally verified\u2014presents a smaller and much more constrained target. When applied correctly, these techniques can prevent LLM-powered exploitation, regardless of how capable an attacker\u2019s bug-scanning tools become.</span></p><p>Generative AI can support this more foundational shift by <a href=\"https://www.darpa.mil/research/programs/translating-all-c-to-rust\" target=\"_blank\">accelerating the translation of legacy code into safer languages like Rust</a>, and <a href=\"https://dl.acm.org/doi/abs/10.1145/3720499\" target=\"_blank\">making formal verification more practical</a> at every stage. Which helps engineers write specifications, generate proofs, and keep those proofs current as code evolves.</p><p><span>For organizations, the lasting solution is not just better scanning but stronger foundations: memory-safe languages where possible, sandboxing where not, and formal verification where the cost of being wrong is highest. For researchers, the bottleneck is making those foundations practical\u2014and using generative AI to accelerate the migration. But instead of automated, ad hoc vulnerability patching, generative AI in this mode of defense can help translate legacy code to memory-safe alternatives. It also assists in verification proofs and lowers the expertise barrier to a safer and less vulnerable codebase.</span></p><p>The latest wave of smarter AI bug scanners can still be useful for cyberdefense\u2014not just as another overhyped AI threat. But AI bug scanners treat the symptom, not the cause. The lasting solution is software that doesn\u2019t produce vulnerabilities in the first place.</p>"
-      },
-      {
-        "id": "b93b8e4594a026fa",
-        "title": "IEEE Entrepreneurship Connects Hardware Startups With Investors",
-        "url": "https://spectrum.ieee.org/ieee-entrepreneurship-hardware-startups-investors",
-        "source": "IEEE Spectrum",
-        "published": "Thu, 16 Apr 2026 18:00:01 +0000",
-        "published_dt": "2026-04-16T18:00:01+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/groups-of-people-seated-together-at-several-tables-inside-of-a-large-meeting-hall.jpg?id=65559941&amp;width=1245&amp;height=700&amp;coordinates=0%2C156%2C0%2C157\" /><br /><br /><p>Roughly 90 percent of <a href=\"https://bowoftheseus.substack.com/p/what-is-hard-tech\" rel=\"noopener noreferrer\" target=\"_blank\">hard tech</a> startups fail due to funding constraints, longer R&amp;D timelines for developing hardware, and the complexity of manufacturing their products, according to a number of studies.</p><p>Generally, these startups require up to 50 percent more investor financing than software ones, according to <a href=\"https://ehandbook.com/why-is-hardtech-so-effing-hard-a652738c886a\" rel=\"noopener noreferrer\" target=\"_blank\">a <em><em>Medium</em></em> article</a>. Typically, they need at least US $30 million, according to <a href=\"https://www.lucid.now/blog/cost-of-capital-saas-vs-hardware-startups/\" rel=\"noopener noreferrer\" target=\"_blank\">a <em><em>Lucid</em></em> article</a>. That\u2019s double the funding needed by software companies on average.</p><p>To help them connect with investors, <a href=\"https://entrepreneurship.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Entrepreneurship</a> in 2024 launched its <a href=\"https://entrepreneurship.ieee.org/venturesummits\" rel=\"noopener noreferrer\" target=\"_blank\">Hard Tech Venture Summits</a>. The two-day events connect founders with potential investors and other <a href=\"https://spectrum.ieee.org/thinking-like-an-entrepreneur\" target=\"_self\">entrepreneurs</a>. Attendees include manufacturers, design engineers, and intellectual property lawyers.</p><p>\u201cEven though there are a lot of startup investor conferences, it\u2019s hard to find those focused on hard tech,\u201d says <a href=\"https://ca.linkedin.com/in/joannewongreddscapital\" rel=\"noopener noreferrer\" target=\"_blank\">Joanne Wong</a>, who helped initiate the program and is now the chair. She is a general partner at <a href=\"https://reddscapital.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Redds Capital</a>, a California-based venture capital firm that invests in global early-stage IT startups.</p><p>The IEEE member is also an entrepreneur. She founded <a href=\"https://spectrum.ieee.org/cloud-software-manages-biomedical-data\" target=\"_self\">SciosHub</a> in 2020. The company\u2019s software-as-a-service and informatics platform automates the data-management process for biomedical research labs.</p><p>\u201cMany investors are focused on AI software\u2014which is good,\u201d she says. \u201cBut for hard tech companies, it is still hard to find support.\u201d</p><p>The summit also includes a workshop to help founders navigate manufacturing processes and regulatory compliance. The event is open to IEEE members and others.</p><p>IEEE is a natural fit for the program, Wong says, because hard tech is synonymous with electrical engineering.</p><p>\u201cSome of the domains we\u2019re covering are <a href=\"https://www.ieee-ras.org/\" rel=\"noopener noreferrer\" target=\"_blank\">robotics</a>, <a href=\"https://eds.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">semiconductors</a>, and <a href=\"https://ieee-aess.org/home\" rel=\"noopener noreferrer\" target=\"_blank\">aerospace technology</a>. IEEE has societies for all these fields,\u201d she says. \u201cBecause of that, there are many resources within the organizations for startups, whether it be mentors or guides on how to commercialize products.\u201d</p><p>There are several venture summits planned for this year. Two are scheduled in collaboration with the <a href=\"https://ieeesystemscouncil.org/ieee-systems-council-welcome\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Systems Council</a>: this month in <a href=\"https://entrepreneurship.ieee.org/venturesummitsiliconvalley\" rel=\"noopener noreferrer\" target=\"_blank\">Menlo Park, Calif.</a>, and in October in <a href=\"https://entrepreneurship.ieee.org/venturesummittoronto\" rel=\"noopener noreferrer\" target=\"_blank\">Toronto</a>.</p><p>On 10 and 11 June, a third <a href=\"https://entrepreneurship.ieee.org/venturesummitboston\" rel=\"noopener noreferrer\" target=\"_blank\">summit</a> is scheduled to take place in Boston at the <a href=\"https://mtt.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Microwave Theory and Technology Society</a>\u2019s <a href=\"https://ims-ieee.org/attend\" rel=\"noopener noreferrer\" target=\"_blank\">International Microwave Symposium</a>.</p><p>More events are being planned for next year in Asia, Europe, Latin America, and North America.</p><h2>Networking and a pitch competition</h2><p>Each summit includes keynote speakers, followed by networking roundtables. Each table is composed of people from three to five startups, one or two investors, and a service provider.</p><p>That arrangement helps founders build relationships, which is the summit organizers\u2019 priority, Wong says. Investors at past events have included <a href=\"https://i3.ventures/\" rel=\"noopener noreferrer\" target=\"_blank\">i3 Ventures</a>, <a href=\"https://monozukuri.vc/\" rel=\"noopener noreferrer\" target=\"_blank\">Monozukuri Ventures</a>, and <a href=\"https://www.tsvcap.com/\" rel=\"noopener noreferrer\" target=\"_blank\">TSV Capital</a>.</p><p class=\"pull-quote\">\u201cThe connection with the community was fantastic, especially investors and founders in robotics.\u201d <strong>\u2014Mark Boysen, founder of Naware</strong></p><p>Startups present their pitch, which a number of investors evaluate before ranking the business plan and product. The top 10 startups pitch their business to all the investors.</p><p>On the second day, the startup founders participate in a half-day engineering design\u2013to\u2013manufacturing workshop, at which manufacturing engineers teach them how to navigate the process and meet regulations.</p><p>In an exhibition area, participants can see demonstrations from the startups and connect with service providers.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"A woman standing next to a presentation screen while speaking to small seated groups during a professional workshop.\" class=\"rm-shortcode\" id=\"5c118\" src=\"https://spectrum.ieee.org/media-library/a-woman-standing-next-to-a-presentation-screen-while-speaking-to-small-seated-groups-during-a-professional-workshop.jpg?id=65559964&amp;width=980\" /><small class=\"image-media media-caption\">The 2025 event\u2019s half-day engineering design\u2013to\u2013manufacturing workshop was led by Liz Taylor, president of DOER Marine. The company manufactures marine equipment.</small><small class=\"image-media media-photo-credit\">Larissa Abi Nakhle/IEEE</small></p><h2>Positive feedback from attendees</h2><p>In a survey of past summit attendees, startup founders said the event connected them not only with investors but also with other entrepreneurs having similar struggles.</p><p>\u201cThe connection with the community was fantastic, especially investors and founders in robotics,\u201d said <a href=\"https://www.linkedin.com/in/boysen1/\" target=\"_blank\">Mark Boysen</a>, who founded <a href=\"https://www.linkedin.com/company/naware/about/\" target=\"_blank\">Naware</a>. The company, based in Edina, Minn., developed a robot that uses AI to detect and remove weeds from golf courses, parks, and lawns.</p><p>\u201cI loved getting the investors\u2019 perspectives and understanding what they\u2019re looking for,\u201d Boysen said.</p><p><a href=\"https://www.linkedin.com/in/jeffrey-cook-9501114b/\" rel=\"noopener noreferrer\" target=\"_blank\">Jeffrey Cook</a>, who attended a summit in 2024, said he met \u201ca lot of great contacts and saw what the hard tech venture climate is like.\u201d</p><p class=\"shortcode-media shortcode-media-youtube\"> <span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span> <small class=\"image-media media-caption\">Attendees of the Hard Tech Venture Summit spend the first day networking and presenting their pitch to investors.</small> <small class=\"image-media media-photo-credit\">IEEE Entrepreneurship</small> </p><p>\u201cThose in the community would benefit from coming to the summit,\u201d said Cook, who founded <a href=\"https://www.linkedin.com/company/gigantor-technologies-inc/\" rel=\"noopener noreferrer\" target=\"_blank\">Gigantor Technologies</a> in Melbourne Beach, Fla. It develops hardware systems for AI-powered devices.</p><p>More than 90 percent of attendees at the 2025 event in San Francisco said they would highly recommend the summit to others, according to a survey.</p><p>Investors and service providers also have found the events successful.</p><p><a href=\"https://www.linkedin.com/in/ji-ke\" rel=\"noopener noreferrer\" target=\"_blank\">Ji Ke</a>, a partner and the chief technology officer of deep tech VC firm <a href=\"https://sosv.com/\" rel=\"noopener noreferrer\" target=\"_blank\">SOSV</a>, attended the 2025 summit.</p><p>\u201cI met a lot of young entrepreneurs tackling some big challenges,\u201d he said. \u201cThis is one of the best events to meet some very-early-stage companies.\u201d</p><h2>Making important connections in hard tech</h2><p>Startup founders who want to attend a summit must apply. <a href=\"https://entrepreneurship.ieee.org/venturesummits\" rel=\"noopener noreferrer\" target=\"_blank\">Applications for this year\u2019s events are open</a>. Participants must be founders of preseed, seed, or Series A startups.</p><p>Preseed founders are seeking small investments to get their businesses off the ground. Those in the seed stage have already secured funding from their first investor. Series A startups have obtained funding and are developing their product.</p><p>Applicants are reviewed by a committee of investors to ensure the startups would be a good fit. Those who are approved are matched with investors and service providers based on their specialty.</p><p>\u201cThe journey for a hard tech startup is very long and arduous,\u201d Wong says. \u201cFounders need to meet as many investors as possible and other people who support hard tech systems so that they\u2019re able to reach out to them for advice or help.\u201d</p><p>Those interested in learning more about an upcoming event can send a request to <a href=\"mailto:entrepreneurship@ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">entrepreneurship@ieee.org</a>.</p>"
       },
       {
         "id": "1e6108e7b8f16fe7",
@@ -801,24 +837,6 @@
         "summary": "Dozens of US states are considering legislation to allow people to install plug-in solar systems, often called balcony solar. These small arrays require little to no setup and could help cut emissions and power bills. Balcony solar is already popular in Europe, and proponents say that the systems could make solar power more accessible for&#8230;"
       },
       {
-        "id": "99a13f9dd01dfcce",
-        "title": "What\u2019s next for IVF",
-        "url": "https://www.technologyreview.com/2026/05/07/1136946/whats-next-for-ivf-ai-robot-pgt-gene-editing/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 07 May 2026 09:04:50 +0000",
-        "published_dt": "2026-05-07T09:04:50+00:00",
-        "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them\u00a0here. Forty-eight years ago this July, Louise Joy Brown became the world\u2019s first person born with the help of in vitro fertilization. Millions more IVF babies have entered&#8230;"
-      },
-      {
-        "id": "a2affa4f587032ce",
-        "title": "The Download: seafloor science and military chatbots",
-        "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 06 May 2026 12:10:00 +0000",
-        "published_dt": "2026-05-06T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inexpensive seafloor-hopping submersibles could stoke deep-sea science\u2014and mining Last week, two oblong neon submersibles started to descend nearly 6,000 meters into the Pacific Ocean. Throughout the rest of May, they will&#8230;"
-      },
-      {
         "id": "a57b444817240e5e",
         "title": "Ten Technology Enablers Shaping the Future of 6G Wireless",
         "url": "https://content.knowledgehub.wiley.com/ten-key-enablers-for-6g-wireless-communications/",
@@ -835,24 +853,6 @@
         "published": "Tue, 05 May 2026 15:45:33 +0000",
         "published_dt": "2026-05-05T15:45:33+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-seated-man-in-a-robotic-suit-smiles-at-a-seated-woman-holding-a-laptop.png?id=65559767&amp;width=1245&amp;height=700&amp;coordinates=0%2C269%2C0%2C269\" /><br /><br /><p>I first met Robert Woo in 2011, during his third time <a href=\"https://spectrum.ieee.org/goodbye-wheelchair-hello-exoskeleton\" target=\"_blank\">walking in a powered exoskeleton</a>. The architect had been paralyzed in a construction accident four years earlier, but he was determined to get back on his feet. Watching him clunk across a rehab room in an exoskeleton prototype, the technology felt astonishing. I had the same reaction when reporting on early <a href=\"https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface\" target=\"_blank\">brain-computer interfaces</a> (BCIs), which enabled paralyzed people to <a href=\"https://spectrum.ieee.org/a-better-way-for-brains-to-control-robotic-arms\" target=\"_blank\">move robotic arms</a> or <a href=\"https://spectrum.ieee.org/neural-implant-enables-paralyzed-als-patient-to-type-six-words-per-minute\" target=\"_blank\">communicate by thought alone</a>. Both types of bionic technology seemed to verge on magic.</p><p>But that initial sense of awe, I\u2019ve learned over many years of reporting on these technologies, is only a starting point. What matters is not what these systems can do in a carefully staged demo but how they perform in the real world. Do they work reliably? Can people with disabilities use them for their intended purposes? And what does it actually cost\u2014in time, effort, and trade-offs\u2014to do so? The question isn\u2019t whether the technology looks impressive the first time but whether it holds up on the hundredth.</p><p> The special report in this issue, \u201c<a href=\"https://spectrum.ieee.org/special-reports/cyborg-tech/\" target=\"_blank\">Cyborg Tech From the Inside</a>\u201d takes that perspective seriously. In my <a href=\"https://spectrum.ieee.org/exoskeleton-user-experience\" target=\"_blank\">feature article on Woo</a>, an exoskeleton super-user who has spent 15 years testing these systems, the story of the technology is inseparable from the story of its use. Woo\u2019s relentless feedback has driven steady, incremental improvements. In Edd Gent\u2019s reporting on the <a href=\"https://spectrum.ieee.org/bci-user-experience\" target=\"_blank\">pioneers testing the earliest BCIs</a>, the experience of these extraordinary technologies likewise resolves into something more complex. As one trial participant notes, these early adopters are like the first astronauts, who barely reached space before coming back down to Earth. Together, these stories reframe these individuals not as passive medical patients but as the ultimate beta testers and co-engineers of the bionic age.</p><p><span>I saw the gap between demonstration and daily use firsthand when I interviewed Woo in a Manhattan showroom recently, where he was testing a new self-balancing exoskeleton from </span><a href=\"https://en.wandercraft.eu/\" target=\"_blank\">Wandercraft</a><span>. The device is a striking advance that kept him upright without crutches, but it also revealed the friction of the real world. As Woo tried to walk out the door, barely an inch of slope on the Park Avenue sidewalk was enough to trigger the machine\u2019s safety sensors and halt his progress. It was a stark reminder of how far these systems must evolve before they fit seamlessly into everyday life.</span></p><p> For the people who use them, that seamless integration is the ultimate goal. Getting there will depend not just on technical breakthroughs but on how well these systems hold up outside controlled environments, over time, and under real conditions. Looking from the inside doesn\u2019t make these technologies any less remarkable, but it does change how we judge them\u2014not by what they can do once for a photo but by what they can sustain over a lifetime. That\u2019s the standard their users have been applying all along.</p><p> Our commitment to evaluating technology from the user\u2019s perspective extends beyond this special report. To provide a necessary corrective to the \u201ctechno-solutionism\u201d that often dominates coverage of assistive devices, <em><em>IEEE</em></em> <em><em>Spectrum</em></em> created the Taenzer Fellowship for Disability-Engaged Journalism, under which six writers with disabilities are contributing articles about the devices they rely on daily. As Special Projects Director <a href=\"https://spectrum.ieee.org/u/stephen-cass\" target=\"_blank\">Stephen Cass</a> notes, these journalists \u201caren\u2019t afraid to ask clear-eyed questions about the tech and are deeply aware of how it impacts humans.\u201d You can read the fellows\u2019 work at <a href=\"https://spectrum.ieee.org/tag/taenzer-fellowship\" target=\"_blank\">spectrum.ieee.org/tag/taenzer-fellowship</a>.</p>"
-      },
-      {
-        "id": "68dc86ab182ccbab",
-        "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
-        "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 05 May 2026 12:10:00 +0000",
-        "published_dt": "2026-05-05T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI\u2014Sam Altman and Elon Musk\u2014are in the middle of&#8230;"
-      },
-      {
-        "id": "f9f894d0286a9740",
-        "title": "A blueprint for using AI to strengthen democracy",
-        "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 05 May 2026 09:00:00 +0000",
-        "published_dt": "2026-05-05T09:00:00+00:00",
-        "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accelerating the growth of the modern bureaucratic state. Broadcast media created shared national audiences,&#8230;"
       },
       {
         "id": "bc4a303eeeeecc94",
