@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-05-16T13:46:00.733643+00:00",
+  "generated_at": "2026-05-17T13:45:17.742060+00:00",
   "categories": {
     "Biotech": [
-      {
-        "id": "bfcc45cc50f1af0d",
-        "title": "Opinion: Marty Makary misunderstood something fundamental about the FDA",
-        "url": "https://www.statnews.com/2026/05/16/marty-makary-fda-commissioner-administrative-power/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 16 May 2026 11:00:00 +0000",
-        "published_dt": "2026-05-16T11:00:00+00:00",
-        "summary": "\u201cThe norm-shattering masks a more fundamental misunderstanding of how administrative power can bring about lasting change,\u201d writes Joshua Sharfstein."
-      },
-      {
-        "id": "a864dcca8bf1a03f",
-        "title": "Opinion: The cloudy truth about \u2018blue zones\u2019",
-        "url": "https://www.statnews.com/2026/05/16/blue-zones-eric-topol-shelley-wood-interview-transcript/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 16 May 2026 11:00:00 +0000",
-        "published_dt": "2026-05-16T11:00:00+00:00",
-        "summary": "\u201cThere's been interest in longevity, promoting it, for millennia. But this 25-year campaign really brought it to the forefront,\u201d Eric Topol says of blue zones."
-      },
       {
         "id": "33e3a6d803dbc042",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/regenxbio-reaps-pivotal-win-duchenne-muscular-dystrophy-gene-therapy\" hreflang=\"en\">Regenxbio reaps pivotal win for Duchenne muscular dystrophy gene therapy</a>",
@@ -39,8 +21,26 @@
         "summary": "In today's Pharmalittle roundup: U.S. pressuring Germany on drug prices, FDA upheaval and biotech clinical trials, and much more."
       },
       {
-        "id": "307d259f227758d4",
-        "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other\u2019s credibility. Now the jury will pick a side.",
+        "id": "8be68acd50e31682",
+        "title": "WHO declares Ebola outbreak an international public health emergency",
+        "url": "https://www.statnews.com/2026/05/17/who-ebola-drc-uganda-bundibugyo-pheic-public-health-emergency/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sun, 17 May 2026 07:17:53 +0000",
+        "published_dt": "2026-05-17T07:17:53+00:00",
+        "summary": "The WHO said an Ebola outbreak first seen in the Democratic Republic of the Congo was an international public health emergency, underscoring the world's concerns."
+      },
+      {
+        "id": "bfcc45cc50f1af0d",
+        "title": "Opinion: Marty Makary misunderstood something fundamental about the FDA",
+        "url": "https://www.statnews.com/2026/05/16/marty-makary-fda-commissioner-administrative-power/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sat, 16 May 2026 11:00:00 +0000",
+        "published_dt": "2026-05-16T11:00:00+00:00",
+        "summary": "\u201cThe norm-shattering masks a more fundamental misunderstanding of how administrative power can bring about lasting change,\u201d writes Joshua Sharfstein."
+      },
+      {
+        "id": "df00b46a7bf63955",
+        "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other\u2019s credibility. Now the jury will pick a side.",
         "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
         "source": "MIT Technology Review",
         "published": "Fri, 15 May 2026 23:39:35 +0000",
@@ -84,15 +84,6 @@
         "summary": "Aardvark Therapeutics is planning to unblind data from its phase 3 Prader-Willi syndrome program after the FDA put a full clinical hold on its studies."
       },
       {
-        "id": "aa4933d34cf87a67",
-        "title": "Makary\u2019s departure and Cassidy\u2019s tenuous Senate seat",
-        "url": "https://www.statnews.com/2026/05/14/readout-loud-podcast-makary-fda-trump-cassidy-senate/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 14 May 2026 20:14:09 +0000",
-        "published_dt": "2026-05-14T20:14:09+00:00",
-        "summary": "This week's episode of \u201cThe Readout LOUD\u201d is all about health politics, including Marty Makary's departure as FDA commissioner. Listen now."
-      },
-      {
         "id": "8e9a84ae9eb5ace8",
         "title": "<a href=\"https://www.fiercebiotech.com/cro/signant-health-buys-ametris-unite-data-streams-clinical-trials\" hreflang=\"en\">Signant Health buys Ametris to unite data streams in clinical trials</a>",
         "url": "https://www.fiercebiotech.com/cro/signant-health-buys-ametris-unite-data-streams-clinical-trials",
@@ -118,6 +109,24 @@
         "published": "May 14, 2026 8:36am",
         "published_dt": "2026-05-14T08:36:00+00:00",
         "summary": "A phase 2 trial of Biogen and Ionis Pharmaceuticals\u2019 tau-targeting candidate missed its primary endpoint. But while the Alzheimer\u2019s disease trial failed to yield the hoped-for dose-response data, reductions in tau pathology and cognitive benefits persuaded Biogen to commit to registrational development."
+      },
+      {
+        "id": "f4f059c1468b403b",
+        "title": "Trump blasts \u2018disloyal\u2019 Sen. Cassidy while pushing challenger in Louisiana Republican primary",
+        "url": "https://www.statnews.com/2026/05/16/trump-blasts-bill-cassidy-louisiana-republican-primary/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sat, 16 May 2026 14:23:06 +0000",
+        "published_dt": "2026-05-16T14:23:06+00:00",
+        "summary": "Bill Cassidy, leader of the Senate committee that oversees health policy, is fighting for his political life in Louisiana's Republican primary on Saturday."
+      },
+      {
+        "id": "a864dcca8bf1a03f",
+        "title": "Opinion: The cloudy truth about \u2018blue zones\u2019",
+        "url": "https://www.statnews.com/2026/05/16/blue-zones-eric-topol-shelley-wood-interview-transcript/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sat, 16 May 2026 11:00:00 +0000",
+        "published_dt": "2026-05-16T11:00:00+00:00",
+        "summary": "\u201cThere's been interest in longevity, promoting it, for millennia. But this 25-year campaign really brought it to the forefront,\u201d Eric Topol says of blue zones."
       },
       {
         "id": "2fad8f4cc83d6c04",
@@ -217,15 +226,6 @@
         "published": "Fri, 15 May 2026 14:16:13 +0000",
         "published_dt": "2026-05-15T14:16:13+00:00",
         "summary": "A\u00a0new Ebola outbreak has been confirmed\u00a0in Congo\u2019s remote Ituri province, with 246 suspected cases and 65 deaths recorded so far."
-      },
-      {
-        "id": "e7e55289a12c5ecd",
-        "title": "<a href=\"https://www.fiercebiotech.com/partner-content/bridging-access-gaps-sponsor-led-enablement-research-naive-sites-expand-patient\" hreflang=\"en\">Bridging Access Gaps: Sponsor-Led Enablement of Research-Nai\u0308ve Sites to Expand Patient Reach</a>",
-        "url": "https://www.fiercebiotech.com/partner-content/bridging-access-gaps-sponsor-led-enablement-research-naive-sites-expand-patient",
-        "source": "Fierce Biotech",
-        "published": "May 15, 2026 1:54pm",
-        "published_dt": "2026-05-15T13:54:00+00:00",
-        "summary": "This case study shares how Endo enabled a new site through hands-on mentorship, infrastructure support, and trust-building."
       }
     ],
     "Engineering & Aerospace": [
@@ -747,8 +747,8 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/man-crouches-behind-three-robots.png?id=65575461&amp;width=1245&amp;height=700&amp;coordinates=0%2C219%2C0%2C219\" /><br /><br /><p><a href=\"https://linkedin.com/in/thomas-burick\" rel=\"noopener noreferrer\" target=\"_blank\">Tom Burick</a> has always considered himself a builder. Over the years he\u2019s designed robots, constructed a <a href=\"https://www.youtube.com/watch?v=po58YSF8UKs&amp;t=596s\" rel=\"noopener noreferrer\" target=\"_blank\">vintage teardrop trailer</a>, and most recently, led a group of students in building a full-scale replica of a pivotal 1940s computer. </p><p>Burick is a technology instructor at PS Academy in Gilbert, Ariz., a middle and high school for students with <a href=\"https://spectrum.ieee.org/tag/autism-spectrum-disorder\" target=\"_blank\">autism</a> and other specialized learning needs. At the start of the 2025\u201326 school year, he began a project with his students to build a full-scale replica of the Electronic Numerical Integrator and Computer, or ENIAC, for the <a href=\"https://spectrum.ieee.org/eniac-80-ieee-milestone\" target=\"_self\">80th anniversary of the historic computer\u2019s construction</a>. ENIAC was one of the world\u2019s first programmable electronic computers. When it was built, it was about one thousand times as fast as other machines.</p><p>Before becoming a teacher, Burick owned a robotics company for a decade in the 2000s. But when a financial downturn forced him to close the business, he turned to teaching. \u201cI had so many amazing people help me when I was young [who] really gave me their time and resources, and really changed the trajectory of my life,\u201d Burick says. \u201cI thought I need to pay that forward.\u201d</p><h2>Becoming a Roboticist</h2><p>As a young child in Latrobe, Pa., Burick watched the television show <em><em>Lost in Space</em></em>, which includes a robot character who protects the family. \u201cHe was the young boy\u2019s best friend, and I was so captivated by that. I remember thinking to myself, I want that in my life. And that started that lifelong love affair with robotics and technology.\u201d</p><p>He started building toy robots out of anything he could find, and in junior high school, he began adding electronics. \u201cBy early high school, I was building full-fledged autonomous, microprocessor-controlled machines,\u201d he says. At age 15, he built a 150-pound steel firefighting robot, for which he won awards from IEEE and other organizations. </p><p>Burick kept building robots and reached out for help from local colleges and universities. He first got in touch with a student at <a href=\"https://www.cmu.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">Carnegie Mellon University</a>, who invited him to visit campus. \u201cMy parents drove me down the next weekend, and he gave me a tour of the robotics lab. I was mesmerized. He sent me home with college textbooks and piles of metal and gears and wires,\u201d Burick says. He would read the textbook a page at a time, reading it again and again until he felt he had an understanding of it. Then, to help fill gaps in his understanding, he got in touch with a robotics instructor at <a href=\"https://www.stvincent.edu/index.html\" rel=\"noopener noreferrer\" target=\"_blank\">Saint Vincent College</a>, in his hometown of Latrobe, who let him sit in on classes. Each of these adults, he says, \u201chelped change the trajectory of my life.\u201d </p><p>Toward the end of high school, Burick realized that college wouldn\u2019t be the right environment for him. \u201cI was drawn to real-world problem-solving rather than structured coursework and I chose to continue along that path,\u201d he says. Additionally, Burick has <a href=\"https://my.clevelandclinic.org/health/diseases/23949-dyscalculia\" rel=\"noopener noreferrer\" target=\"_blank\">dyscalculia</a>, which makes traditional mathematics more challenging for him. \u201cIt pushed me to develop alternative methods of engineering.\u201d</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"recreation of a large machine arranged in a U shape. A podium in the middle reads \\u201cENIAC 80\\u201d\" class=\"rm-shortcode\" id=\"2528e\" src=\"https://spectrum.ieee.org/media-library/recreation-of-a-large-machine-arranged-in-a-u-shape-a-podium-in-the-middle-reads-u201ceniac-80-u201d.png?id=65575467&amp;width=980\" /> <small class=\"image-media media-caption\">The ENIAC replica Burick\u2019s students built precisely matches what the original computer would have looked like before it was disassembled in the 1950s. </small><small class=\"image-media media-photo-credit\">Robert Gamboa</small></p><p>When he graduated, he worked in several tech jobs before starting his own company. In 2000, he opened a computer retail store and adjacent robotics business, White Box Robotics. The idea for the company came when Burick was building a \u201cwhite box\u201d PC from standard, off-the-shelf components, and realized there was no comparable product for robotics. </p><p>So, he started developing a modular, general-purpose platform that applied white box PC standards to mobile robots. \u201cThe robot\u2019s chassis was like a box of Legos,\u201d he says. You could click together two torsos to double its payload, switch out the drive system, or swap its head for a different set of sensors. He filed utility and design <a href=\"https://patents.justia.com/inventor/thomas-j-burick\" target=\"_blank\">patents</a> for the platform, called the 914 PC-Bot, and after merging with a Canadian defense robotics company called Frontline Robotics, started production. They sold about 200 robots in 17 countries, Burick says. </p><p>Then the 2008 financial crisis hit. White Box Robotics held on for a couple of years, shuttering in late 2010. \u201cI got to live my life\u2019s dream for 10 years,\u201d he says. After closing White Box, \u201cthere was some soul searching\u201d about what to do next. He recalled the impact his own mentors had, and decided to pay it forward by teaching. </p><h2>Neurodiversity as a Superpower</h2><p> In 2013, Burick started working in a vocational training program for young adults living with autism. The program didn\u2019t have a technical arm, so he started one and ran it until 2019, when he was hired to be a technology instructor at PS Academy Arizona. </p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" rel=\"float: left;\" style=\"float: left;\"> <img alt=\"Student using power drill on wood under instructor\\u2019s guidance in workshop.\" class=\"rm-shortcode\" id=\"bd65a\" src=\"https://spectrum.ieee.org/media-library/student-using-power-drill-on-wood-under-instructor-u2019s-guidance-in-workshop.png?id=65575500&amp;width=980\" /> <small class=\"image-media media-caption\">Burick and one of his students assemble the base for one of ENIAC\u2019s three portable function tables, which contained banks of switches that stored numerical constants. </small><small class=\"image-media media-photo-credit\">Bri Mason</small></p><p> Burick feels he can connect with his students, because he is also neurodivergent. Throughout his childhood, he was told what he wasn\u2019t able to do because of his dyscalculia diagnosis. \u201cPeople tell you what it takes, but they never tell you what it gives,\u201d Burick says. </p><p>In adulthood, he realized that some of his strengths are linked to dyscalculia, too, like strong 3D spatial reasoning. \u201cI have this CAD program that runs in my head 24 hours a day,\u201d he says. \u201cI think the reason I was successful in robotics, truly, was because of the dyscalculia\u2026. To me, [it] has always been a superpower.\u201d </p><p>Whenever his students say something disparaging about living with autism, he shares his own experience. \u201cYou need to have maybe just a bit more tenacity than others, because there are parts of it you do have to fight through, but you come through with gifts and strengths,\u201d he tells them. </p><p>And Burick\u2019s classes aim to play to those strengths. \u201cI didn\u2019t want my technology program to feel like craft hour,\u201d he says. Instead, through projects like the ENIAC replica, students can leverage traits many of them share, like the abilities to hyperfocus and to precisely repeat tasks. </p><h2>Recreating ENIAC</h2><p> Burick has taught his students about ENIAC for several years. While reading about it, he learned that the massive, 27-tonne computer was dismantled and partially destroyed after being decommissioned in 1955. Although a few of ENIAC\u2019s 40 original panels are on display at museums, \u201cthere was no hope of ever seeing it together again. We wanted to give the world that experience,\u201d Burick says. </p><p> He and his students started by learning about ENIAC, and even Burick was surprised by how complex the 80-year-old computer was. They built a one-twelfth scale model to help the students better understand what it looked like. Seeing the students light up, Burick became confident in their ability to move onto the full-scale model, and he started ordering supplies. </p><p> ENIAC was composed of 40 large metal panels arranged in a U-shape that housed its many vacuum tubes, resistors, capacitors, and switches. Twenty of the panels were accumulators with the same design, so the students started with these, then worked through smaller groupings of panels. The repeating panels brought symmetry to ENIAC, Burick says, but it was also one of the main challenges of recreating it. If one part was slightly out of place, the next one would be too and the mistake would compound. </p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Group of students in a gym holding large silver patterned boards facing the camera.\" class=\"rm-shortcode\" id=\"1cc34\" src=\"https://spectrum.ieee.org/media-library/group-of-students-in-a-gym-holding-large-silver-patterned-boards-facing-the-camera.png?id=65575510&amp;width=980\" /> <small class=\"image-media media-caption\">The students installed 500 simulated vacuum tubes in each of the panels here, for a total of 18,000 vacuum tubes.</small><small class=\"image-media media-photo-credit\">Robert Gamboa</small></p><p> Once they constructed the panels, they added ENIAC\u2019s three function tables, which stored numerical constants in banks of switches, then two punch-card machines. Finally, they installed 18,000 simulated vacuum tubes. In total, the project used nearly 300 square meters of thick-ream cardboard, 1,600 hot-glue-gun sticks, and 7 gallons of black paint. </p><p> The scale of the machine\u2014and his students\u2019 work\u2014left Burick in awe. \u201cBy the time we were done, I felt like I was in a room full of scientists,\u201d he says.</p><p> Previously, Burick\u2019s students built an 8-foot-long drivable Tesla Cybertruck (\u201ccomplete with a 400-watt stereo system and a subwoofer\u201d) and he plans to keep the momentum with another recreation\u2014maybe from the Apollo moon missions. </p><p>\u201cI go to work every day, and I feel passionate about robotics [and] technology. I get to share that passion with the students,\u201d Burick says. \u201cI get to feel what it\u2019s like to be in the position of the people that helped me. It closes that loop, and I find that really rewarding.\u201d</p>"
       },
       {
-        "id": "307d259f227758d4",
-        "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other\u2019s credibility. Now the jury will pick a side.",
+        "id": "df00b46a7bf63955",
+        "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other\u2019s credibility. Now the jury will pick a side.",
         "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
         "source": "MIT Technology Review",
         "published": "Fri, 15 May 2026 23:39:35 +0000",
