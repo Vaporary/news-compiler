@@ -1,24 +1,60 @@
 {
-  "generated_at": "2026-05-26T15:55:22.483803+00:00",
+  "generated_at": "2026-05-27T15:59:28.504735+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "79c1c8728e5a6b68",
-        "title": "Rethinking organizational design in the age of agentic AI",
-        "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 26 May 2026 14:54:10 +0000",
-        "published_dt": "2026-05-26T14:54:10+00:00",
-        "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there\u2019s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can\u2019t support that change. They cite a lack of readiness across people, processes, and workflows.&#160; The sticky&#8230;"
+        "id": "eff36ce17c50e1b1",
+        "title": "Opinion: MIT president: Why so many optimistic scientists are losing heart",
+        "url": "https://www.statnews.com/2026/05/27/science-funding-derailed-breakthroughs/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 27 May 2026 14:55:06 +0000",
+        "published_dt": "2026-05-27T14:55:06+00:00",
+        "summary": "\u201cThis erosion of our strength is a loss for the nation,\u201d writes MIT President Sally Kornbluth."
       },
       {
-        "id": "5f35ccef9bb006de",
-        "title": "Trump is seeing doctors for his annual physical. What the public finds out is up to him",
-        "url": "https://www.statnews.com/2026/05/26/trump-annual-physicial-medical-exam-public-scrutiny/?utm_campaign=rss",
+        "id": "b6384871981c86bb",
+        "title": "STAT+: Kailera\u2019s own \u2018triple-G\u2019 drug also looks very powerful",
+        "url": "https://www.statnews.com/2026/05/27/biotech-news-kailera-triple-g-drug-looks-very-powerful/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 26 May 2026 14:32:51 +0000",
-        "published_dt": "2026-05-26T14:32:51+00:00",
-        "summary": "President Trump\u00a0is getting a\u00a0medical exam\u00a0on Tuesday, putting his health under renewed public scrutiny after he has\u00a0worked to dismiss concerns\u00a0over his age and stamina."
+        "published": "Wed, 27 May 2026 14:33:20 +0000",
+        "published_dt": "2026-05-27T14:33:20+00:00",
+        "summary": "The business of living forever, Chan Zuckerberg Biohub's AI protein model, and other biotech news from The Readout"
+      },
+      {
+        "id": "dde713b3aa15f9da",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about an AstraZeneca breast cancer pill, an ADAP deal in Florida, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/05/27/astrazeneca-breast-cancer-pill-adap-deal-in-florida/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 27 May 2026 13:33:27 +0000",
+        "published_dt": "2026-05-27T13:33:27+00:00",
+        "summary": "The FDA extended the decision deadline for an experimental breast cancer pill from AstraZeneca after an advisory panel voted\u00a0against the drug"
+      },
+      {
+        "id": "78dd6828881aebd8",
+        "title": "STAT+: Where patients and hospitals disagree about AI",
+        "url": "https://www.statnews.com/2026/05/27/health-ai-where-patients-hospitals-disagree-ai-prognosis/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 27 May 2026 13:09:50 +0000",
+        "published_dt": "2026-05-27T13:09:50+00:00",
+        "summary": "In this edition of AI Prognosis, Brittany Trang takes a look at patients' role in how Stanford Health Care adopts AI tools, and more health AI news."
+      },
+      {
+        "id": "95cef2cf6ebeb0a2",
+        "title": "The Download: keeping up with AI, and the future of IVF",
+        "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 27 May 2026 12:10:00 +0000",
+        "published_dt": "2026-05-27T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Stay on top of what\u2019s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial intelligence&#8230;"
+      },
+      {
+        "id": "6e5172856a84f44b",
+        "title": "Trump says latest\u00a0medical exam went \u2018PERFECTLY\u2019",
+        "url": "https://www.statnews.com/2026/05/27/health-news-trump-says-latest-medical-exam-went-perfectly/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 27 May 2026 11:52:33 +0000",
+        "published_dt": "2026-05-27T11:52:33+00:00",
+        "summary": "The conference where death is (theoretically) optional, new trends among undocumented patients, and more health news from Morning Rounds"
       },
       {
         "id": "de9d59c69ea26093",
@@ -30,22 +66,94 @@
         "summary": "Eli Lilly reported that a high dose of its gene-editing therapy reduced cholesterol levels by 62% in participants in a Phase 1 clinical trial"
       },
       {
-        "id": "761d9e1602ce0d64",
-        "title": "What do early data from Utah\u2019s Doctronic AI pilot show?",
-        "url": "https://www.statnews.com/2026/05/26/utah-doctronic-ai-experiment-early-data-health-tech/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 26 May 2026 13:58:11 +0000",
-        "published_dt": "2026-05-26T13:58:11+00:00",
-        "summary": "In this edition of STAT Health Tech: Early data from a Utah pilot using AI to renew prescriptions, Oura files to go public, and more."
+        "id": "67e01ae0784d89ca",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-delays-ruling-astrazenecas-breast-cancer-drug-after-negative-adcomm-vote\" hreflang=\"en\">FDA delays ruling on AstraZeneca\u2019s breast cancer drug after negative adcomm vote</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-delays-ruling-astrazenecas-breast-cancer-drug-after-negative-adcomm-vote",
+        "source": "Fierce Biotech",
+        "published": "May 27, 2026 4:43am",
+        "published_dt": "2026-05-27T04:43:00+00:00",
+        "summary": "The FDA has delayed a decision on the approval of AstraZeneca\u2019s camizestrant, deferring its ruling to review analyses filed after an advisory committee voted against the breast cancer prospect."
       },
       {
-        "id": "131f334cd840dcde",
-        "title": "STAT+: Five biotech news updates to stay on top of today",
-        "url": "https://www.statnews.com/2026/05/26/biotech-news-eli-lilly-spends-more-of-its-glp-1-cash/?utm_campaign=rss",
+        "id": "f94805e6f1f69f95",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/dd-sees-fibrosis-improvements-mash-resolution-after-rolling-dice-glp-1-drug\" hreflang=\"en\">D&amp;D sees fibrosis improvements, MASH resolution after rolling dice on GLP-1 drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/dd-sees-fibrosis-improvements-mash-resolution-after-rolling-dice-glp-1-drug",
+        "source": "Fierce Biotech",
+        "published": "May 27, 2026 10:02am",
+        "published_dt": "2026-05-27T10:02:00+00:00",
+        "summary": "D&amp;D Pharmatech has linked its GLP-1/glucagon receptor agonist to improvements in liver health, keeping the Korean biotech in the hunt for a market already served by Novo Nordisk\u2019s Wegovy."
+      },
+      {
+        "id": "991e1b9411b0fbfa",
+        "title": "Opinion: Sen. Dick Durbin: Trump is letting Big Tobacco target children",
+        "url": "https://www.statnews.com/2026/05/27/flavored-vapes-e-cigarettes-fda-trump-durbin/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 26 May 2026 13:50:16 +0000",
-        "published_dt": "2026-05-26T13:50:16+00:00",
-        "summary": "Eli Lilly spends more of its GLP-1 cash, Humira's masterclass in monopoly, and more updates from The Readout"
+        "published": "Wed, 27 May 2026 08:30:00 +0000",
+        "published_dt": "2026-05-27T08:30:00+00:00",
+        "summary": "\u201cTrump has willingly exposed an entire generation of children to Big Tobacco\u2019s nicotine addiction,\u201d writes Sen. Dick Durbin."
+      },
+      {
+        "id": "aec306ef14d59c0b",
+        "title": "Opinion: The patients demanding unvaccinated blood transfusions",
+        "url": "https://www.statnews.com/2026/05/27/unvaccinated-blood-transfusions-directed-donation-interview/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 27 May 2026 08:30:00 +0000",
+        "published_dt": "2026-05-27T08:30:00+00:00",
+        "summary": "If you've been vaccinated against Covid-19, some patients might not want your donated blood."
+      },
+      {
+        "id": "30e02763cf989a66",
+        "title": "STAT+: How Stanford patients help expose \u2018fault lines\u2019 in health AI adoption",
+        "url": "https://www.statnews.com/2026/05/27/stanford-patient-panels-feedback-on-ai-shaping-health-care/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 27 May 2026 08:30:00 +0000",
+        "published_dt": "2026-05-27T08:30:00+00:00",
+        "summary": "Stanford Health Care started asking patients about new AI tools before they are implemented. Here's what patients are telling them."
+      },
+      {
+        "id": "986accab46eebb3a",
+        "title": "STAT+: \u2018Are we just going to give up and die like every other generation?\u2019",
+        "url": "https://www.statnews.com/2026/05/27/longevity-movement-shift-fringe-idea-to-big-business/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 27 May 2026 08:30:00 +0000",
+        "published_dt": "2026-05-27T08:30:00+00:00",
+        "summary": "Inside the longevity conference that brings together founders, investors, biohackers, and the generally death-averse to discuss how to forestall \u2014 or even beat \u2014 our demise."
+      },
+      {
+        "id": "7d47f16441c4b4f7",
+        "title": "Opinion: It\u2019s the end of science as we know it, and I feel fine",
+        "url": "https://www.statnews.com/2026/05/27/science-enterprise-replication-crisis-ivory-tower-community/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 27 May 2026 08:30:00 +0000",
+        "published_dt": "2026-05-27T08:30:00+00:00",
+        "summary": "\u201cScience itself is inherently resilient \u2014 that is, after all, why it\u2019s science,\u201d writes Jonathan Jackson."
+      },
+      {
+        "id": "ae28611594e0e30e",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/apogee-bags-13b-royalty-funding-deal-push-eczema-challenger-phase-3\" hreflang=\"en\">Apogee bags $1.3B Blackstone royalty funding deal to push eczema challenger into phase 3</a>",
+        "url": "https://www.fiercebiotech.com/biotech/apogee-bags-13b-royalty-funding-deal-push-eczema-challenger-phase-3",
+        "source": "Fierce Biotech",
+        "published": "May 27, 2026 8:27am",
+        "published_dt": "2026-05-27T08:27:00+00:00",
+        "summary": "Apogee Therapeutics has secured a promise of up to $1.3 billion in financing from Blackstone Life Sciences as the biotech gears up to take its anti-IL-13 antibody into phase 3."
+      },
+      {
+        "id": "6ff32193f1c780b8",
+        "title": "STAT+: Praise for FDA\u2019s acting commissioner",
+        "url": "https://www.statnews.com/2026/05/26/kyle-diamantas-fda-draws-praise-nih-leadership-vacuum-dc-diagnosis/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 26 May 2026 16:21:12 +0000",
+        "published_dt": "2026-05-26T16:21:12+00:00",
+        "summary": "Kyle Diamantas doesn't have the typical CV for an FDA commissioner, but he's earning early praise."
+      },
+      {
+        "id": "2a975c7ff0635315",
+        "title": "<a href=\"https://www.fiercebiotech.com/devices/olympus-pushes-deeper-oncology-270m-bioprotect-deal\" hreflang=\"en\">Olympus pushes deeper into oncology with $270M BioProtect deal</a>",
+        "url": "https://www.fiercebiotech.com/devices/olympus-pushes-deeper-oncology-270m-bioprotect-deal",
+        "source": "Fierce Biotech",
+        "published": "May 26, 2026 3:37pm",
+        "published_dt": "2026-05-26T15:37:00+00:00",
+        "summary": "Olympus is pushing deeper into prostate cancer care with the acquisition of BioProtect, an Israeli company whose biodegradable balloon spacer has been used in more than 11,000 procedures worldwide."
       },
       {
         "id": "512be6037a28bbdb",
@@ -66,15 +174,6 @@
         "summary": "As the FDA adjusts to life without Marty Makary, M.D., who resigned as commissioner two weeks ago, the numerous policy reforms he put in motion remain intact, including the controversial Commissioner\u2019s National Priority Voucher (CNPV) program."
       },
       {
-        "id": "f15ccae937074a1b",
-        "title": "The Download: puncturing the AI jobs panic",
-        "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 26 May 2026 12:10:00 +0000",
-        "published_dt": "2026-05-26T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hysteria over AI\u2019s threat to white-collar jobs, there\u2019s still scant evidence that the technology has had a large-scale impact on&#8230;"
-      },
-      {
         "id": "b41078ef5097c762",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/kura-posts-krazati-combo-data-drug-designed-unleash-kras-inhibitors-potential\" hreflang=\"en\">Kura posts Krazati combo data on drug designed to unleash KRAS inhibitors\u2019 potential</a>",
         "url": "https://www.fiercebiotech.com/biotech/kura-posts-krazati-combo-data-drug-designed-unleash-kras-inhibitors-potential",
@@ -84,22 +183,22 @@
         "summary": "Kura Oncology has published early data on darlifarnib in combination with Bristol Myers Squibb\u2019s Krazati, linking the drug candidate to response rates of up to 69% when given with the KRAS inhibitor."
       },
       {
-        "id": "ea7deb28049653ce",
-        "title": "STAT+: Eli Lilly to buy three small vaccine developers",
-        "url": "https://www.statnews.com/2026/05/26/eli-lilly-acquisitions-vaccine-developers/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 26 May 2026 11:29:16 +0000",
-        "published_dt": "2026-05-26T11:29:16+00:00",
-        "summary": "Eli Lilly is acquiring three small vaccine developers, expanding its work in infectious diseases and giving the field a boost."
-      },
-      {
         "id": "48c57e3bcd6f0e6c",
         "title": "STAT+: How Kyle Diamantas defied expectations as he rose to lead the FDA",
         "url": "https://www.statnews.com/2026/05/26/kyle-diamantas-acting-fda-commissioner-wins-trust-exceeds-expectations/?utm_campaign=rss",
         "source": "STAT",
         "published": "Tue, 26 May 2026 08:30:00 +0000",
         "published_dt": "2026-05-26T08:30:00+00:00",
-        "summary": "WASHINGTON \u2014 People in the food world didn\u2019t know what to expect when the Trump administration appointed a little-known Florida attorney as the FDA\u2019s top food official in 2025.\u00a0 They&#8230;"
+        "summary": "WASHINGTON \u2014 People in the food world didn\u2019t know what to expect when the Trump administration appointed a little-known Florida attorney as the FDA\u2019s top food official in 2025.&#160; They&#8230;"
+      },
+      {
+        "id": "72704ecc1927535a",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/dexcom-warns-stolen-glucose-monitors-being-sold-unauthorized-dealers\" hreflang=\"en\">Dexcom warns of stolen glucose monitors being sold by unauthorized dealers</a>",
+        "url": "https://www.fiercebiotech.com/medtech/dexcom-warns-stolen-glucose-monitors-being-sold-unauthorized-dealers",
+        "source": "Fierce Biotech",
+        "published": "May 27, 2026 7:27am",
+        "published_dt": "2026-05-27T07:27:00+00:00",
+        "summary": "Dexcom warned that some lots of its G7 wearable glucose monitors were stolen on their way to the scrapyard and were sold by a third-party vendor.<br />"
       },
       {
         "id": "f1ec05729d30ffbc",
@@ -111,85 +210,13 @@
         "summary": "Eli Lilly has splashed up to $3.8 billion on an infectious disease pipeline, acquiring Curevo, LimmaTech Biologics and Vaccine Company to extend its shopping spree into viral and bacterial pathogen R&amp;D.<br />"
       },
       {
-        "id": "64e637a119614562",
-        "title": "A reality check on the AI jobs hysteria",
-        "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 26 May 2026 09:00:00 +0000",
-        "published_dt": "2026-05-26T09:00:00+00:00",
-        "summary": "Haven\u2019t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst\u2014or tech journalist\u2014and&#8230;"
-      },
-      {
-        "id": "652f4f9f548bfc0c",
-        "title": "It\u2019s time to address the looming crisis in entry-level work.",
-        "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 26 May 2026 09:00:00 +0000",
-        "published_dt": "2026-05-26T09:00:00+00:00",
-        "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surface: the quiet weakening of the first rung of the career&#8230;"
-      },
-      {
-        "id": "8802177422e031de",
-        "title": "Opinion: The Ebola outbreak will lead to devastating violence against women and girls",
-        "url": "https://www.statnews.com/2026/05/26/ebola-outbreak-congo-violence-women-girls/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 26 May 2026 08:30:00 +0000",
-        "published_dt": "2026-05-26T08:30:00+00:00",
-        "summary": "\u201cWomen and girls in eastern Congo will be harmed in predictable, named ways over the next 12 months,\u201d write researchers Lindsay Stark and Ilana Seff."
-      },
-      {
-        "id": "9ff160f38d3bb20d",
-        "title": "Opinion: 8 former CDC directors: Reform PEPFAR, don\u2019t dismantle it",
-        "url": "https://www.statnews.com/2026/05/26/pepfar-state-department-plan-dismantling-hiv-cdc/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 26 May 2026 08:30:00 +0000",
-        "published_dt": "2026-05-26T08:30:00+00:00",
-        "summary": "A State Department plan scheduled to be implemented June 1 would strip the U.S. of decades of disease defense, write eight former CDC directors."
-      },
-      {
-        "id": "b820ea36bb740ff1",
-        "title": "STAT+: An AI biotech CEO sets the record straight on AI drug development hype",
-        "url": "https://www.statnews.com/2026/05/26/ai-biotech-bighat-biosciences-ceo-on-ai-drug-development-hype/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 26 May 2026 08:30:00 +0000",
-        "published_dt": "2026-05-26T08:30:00+00:00",
-        "summary": "CEO of BigHat Biosciences, which designs antibody therapies using machine-learning, on how AI can, and cannot, help in drug development."
-      },
-      {
-        "id": "60660c728363c2d1",
-        "title": "Opinion: The innovation trap: How pharma weaponizes a word to extend monopolies",
-        "url": "https://www.statnews.com/2026/05/26/humira-patents-abbvie-innovation-pharma-monopoly-excerpt/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 26 May 2026 08:30:00 +0000",
-        "published_dt": "2026-05-26T08:30:00+00:00",
-        "summary": "\u201cJust because a company invests does not mean it has invented anything novel,\u201d Tahir Amin and Rohit Malpani write in this excerpt from \u201cPharma Monopoly.\u201d"
-      },
-      {
-        "id": "b35b19e21a6a0393",
-        "title": "STAT+: Eli Lilly says Verve\u2019s gene editor lowers cholesterol levels in early study",
-        "url": "https://www.statnews.com/2026/05/25/eli-lilly-verv-102-gene-editing-cholesterol-phase-1-trial-data/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 25 May 2026 12:45:00 +0000",
-        "published_dt": "2026-05-25T12:45:00+00:00",
-        "summary": "Eli Lilly said Monday that a high dose of its gene-editing therapy reduced cholesterol levels by 62% in participants in a clinical trial."
-      },
-      {
-        "id": "ab65b6ffb42ba546",
-        "title": "STAT+: EU and US advisers split over AstraZeneca breast cancer drug",
-        "url": "https://www.statnews.com/2026/05/22/biotech-news-astrazeneca-breast-cancer-drug-mixed-eu-and-us-approval/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 22 May 2026 13:40:42 +0000",
-        "published_dt": "2026-05-22T13:40:42+00:00",
-        "summary": "Merck-Kelun ADC outperforms Keytruda in trial, a closely watched Parkinson\u2019s drug fails, and more biotech news from The Readout"
-      },
-      {
-        "id": "87d02aac3190471a",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about a Parkinson\u2019s drug setback, a Merck lung cancer therapy, and more",
-        "url": "https://www.statnews.com/pharmalot/2026/05/22/parkinson-drug-trial-setback-merck-lung-cancer-therapy/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 22 May 2026 13:29:35 +0000",
-        "published_dt": "2026-05-22T13:29:35+00:00",
-        "summary": "Biogen and Denali said their experimental Parkinson\u2019s therapy failed to slow the degenerative brain disorder in a randomized trial"
+        "id": "052d417d75db9fcc",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/insulet-issues-voluntary-correction-omnipod-devices-leaky-insulin-fault\" hreflang=\"en\">Insulet issues voluntary correction for Omnipod devices in leaky insulin fault</a>",
+        "url": "https://www.fiercebiotech.com/medtech/insulet-issues-voluntary-correction-omnipod-devices-leaky-insulin-fault",
+        "source": "Fierce Biotech",
+        "published": "May 27, 2026 5:34am",
+        "published_dt": "2026-05-27T05:34:00+00:00",
+        "summary": "Insulet has sent out a voluntary medical device correction notice for a series of its Omnipod devices amid a manufacturing fault that could lead to insulin leaking and not being fully delivered."
       },
       {
         "id": "44e9424ff13794c8",
@@ -199,98 +226,197 @@
         "published": "May 22, 2026 6:12am",
         "published_dt": "2026-05-22T06:12:00+00:00",
         "summary": "A phase 2b trial of Biogen and Denali Therapeutics\u2019 Parkinson\u2019s disease candidate has missed its primary endpoint, prompting the partners to end development in the idiopathic form of the condition.<br />"
-      },
-      {
-        "id": "53331ab1519ce056",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-former-fda-leader-takes-new-biotech-turn\" hreflang=\"en\">Chutes &amp; Ladders\u2014Former FDA leader takes new biotech Turn</a>",
-        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-former-fda-leader-takes-new-biotech-turn",
-        "source": "Fierce Biotech",
-        "published": "May 21, 2026 4:56pm",
-        "published_dt": "2026-05-21T16:56:00+00:00",
-        "summary": "Stephen Hahn, M.D., who served as the commissioner of the FDA for just over a year during the first Trump administration, is taking his extensive regulatory expertise to Turn Therapeutics. As executive clinical and regulatory lead, Hahn will guide the regulatory strategy for GX-03, Turn\u2019s topical eczema treatment that is currently in a phase 2 study."
-      },
-      {
-        "id": "e866445d46f64853",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-preps-ph-2-launch-after-verve-gene-editor-cuts-cholesterol-par-pcsk9-inhibitors\" hreflang=\"en\">Lilly preps for ph. 2 launch after Verve gene editor cuts cholesterol on par with PCSK9 inhibitors</a>",
-        "url": "https://www.fiercebiotech.com/biotech/lilly-preps-ph-2-launch-after-verve-gene-editor-cuts-cholesterol-par-pcsk9-inhibitors",
-        "source": "Fierce Biotech",
-        "published": "May 21, 2026 3:21pm",
-        "published_dt": "2026-05-21T15:21:00+00:00",
-        "summary": "Eli Lilly is laying the groundwork for a phase 2 trial of the lipid-lowering gene editor it picked up from Verve Therapeutics, with the candidate now showing strong and consistent cholesterol reductions after a higher dosing regimen."
-      },
-      {
-        "id": "e4309d96fe79f4a9",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/facing-looming-xtandi-patent-cliff-astellas-pins-hopes-more-deals-while-still-cutting-costs\" hreflang=\"en\">Facing looming Xtandi patent cliff, Astellas pins hopes on more deals while still cutting costs</a>",
-        "url": "https://www.fiercebiotech.com/biotech/facing-looming-xtandi-patent-cliff-astellas-pins-hopes-more-deals-while-still-cutting-costs",
-        "source": "Fierce Biotech",
-        "published": "May 26, 2026 5:14am",
-        "published_dt": "2026-05-26T05:14:00+00:00",
-        "summary": "Faced with a future of evaporating Xtandi sales, Astellas has set out ambitions to license fresh assets while also continuing to tighten its belt."
       }
     ],
     "Engineering & Aerospace": [
       {
-        "id": "6fc409cc4972f572",
-        "title": "Kawasaki opens Silicon Valley hub for Physical AI",
-        "url": "https://www.engineering.com/kawasaki-opens-silicon-valley-hub-for-physical-ai/",
-        "source": "Engineering.com",
-        "published": "Tue, 26 May 2026 14:18:30 +0000",
-        "published_dt": "2026-05-26T14:18:30+00:00",
-        "summary": "<p>Initial work will cover healthcare, nursing care and mobility using robotics and partnerships with NVIDIA and others.</p>\n<p>The post <a href=\"https://www.engineering.com/kawasaki-opens-silicon-valley-hub-for-physical-ai/\">Kawasaki opens Silicon Valley hub for Physical AI</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "4963df9ca2df7c51",
-        "title": "GoEngineer acquires SKA to expand in Latin America",
-        "url": "https://www.engineering.com/goengineer-acquires-ska-to-expand-in-latin-america/",
-        "source": "Engineering.com",
-        "published": "Tue, 26 May 2026 13:25:07 +0000",
-        "published_dt": "2026-05-26T13:25:07+00:00",
-        "summary": "<p>Deal adds MES, automation, additive manufacturing and engineering workflow support across Brazil and regional markets.</p>\n<p>The post <a href=\"https://www.engineering.com/goengineer-acquires-ska-to-expand-in-latin-america/\">GoEngineer acquires SKA to expand in Latin America</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "f391a539f9862461",
-        "title": "Keysight, SRC UK collaborate on EW test modernization",
-        "url": "https://www.engineering.com/keysight-src-uk-collaborate-on-ew-test-modernization/",
-        "source": "Engineering.com",
-        "published": "Tue, 26 May 2026 13:28:47 +0000",
-        "published_dt": "2026-05-26T13:28:47+00:00",
-        "summary": "<p>Partnership supports open architectures, threat library reuse and local engineering services for simulation and validation.</p>\n<p>The post <a href=\"https://www.engineering.com/keysight-src-uk-collaborate-on-ew-test-modernization/\">Keysight, SRC UK collaborate on EW test modernization</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "b47783a788f96624",
-        "title": "Unionfab expands industrial metal 3D printing services",
-        "url": "https://www.engineering.com/unionfab-expands-industrial-metal-3d-printing-services/",
-        "source": "Engineering.com",
-        "published": "Tue, 26 May 2026 13:08:43 +0000",
-        "published_dt": "2026-05-26T13:08:43+00:00",
-        "summary": "<p>Six-laser systems and AI process tuning cut selected low-volume metal part lead times to as fast as five days.</p>\n<p>The post <a href=\"https://www.engineering.com/unionfab-expands-industrial-metal-3d-printing-services/\">Unionfab expands industrial metal 3D printing services</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "bab9228960937fdc",
-        "title": "ZFLOW AI improves B300 inference with simulation tuning",
-        "url": "https://www.engineering.com/zflow-ai-improves-b300-inference-with-simulation-tuning/",
-        "source": "Engineering.com",
-        "published": "Tue, 26 May 2026 13:02:08 +0000",
-        "published_dt": "2026-05-26T13:02:08+00:00",
-        "summary": "<p>Testing showed 826 tokens/second peak throughput and lower tail latency using disaggregated serving on DeepSeek V4-Pro.</p>\n<p>The post <a href=\"https://www.engineering.com/zflow-ai-improves-b300-inference-with-simulation-tuning/\">ZFLOW AI improves B300 inference with simulation tuning</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "95dc4e7bd589ffe9",
-        "title": "Corsair launches AI workstations and servers",
-        "url": "https://www.engineering.com/corsair-launches-ai-workstations-and-servers/",
-        "source": "Engineering.com",
-        "published": "Tue, 26 May 2026 12:54:49 +0000",
-        "published_dt": "2026-05-26T12:54:49+00:00",
-        "summary": "<p>New systems span deskside and server platforms for training, inference, fine-tuning and computer vision workloads.</p>\n<p>The post <a href=\"https://www.engineering.com/corsair-launches-ai-workstations-and-servers/\">Corsair launches AI workstations and servers</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "b05445a39256648a",
-        "title": "Regulations and access to capital continue to hinder Europe\u2019s smallsat industry",
-        "url": "https://spacenews.com/regulations-and-access-to-capital-continue-to-hinder-europes-smallsat-industry/",
+        "id": "bf968b9081f0974c",
+        "title": "Kongsberg NanoAvionics sets sights on building and supporting sovereign constellations",
+        "url": "https://spacenews.com/kongsberg-nanoavionics-sets-sights-on-building-and-supporting-sovereign-constellations/",
         "source": "SpaceNews",
-        "published": "Tue, 26 May 2026 12:49:00 +0000",
-        "published_dt": "2026-05-26T12:49:00+00:00",
-        "summary": "<figure><img alt=\"TAS Smart Factory\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"672\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/tas-smart-factory.jpeg?fit=1024%2C672&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Burdensome regulations and limited access to capital continue to act as a drag on Europe\u2019s smallsat sector despite proposed new legislation and an influx of defense spending.</p>\n<p>The post <a href=\"https://spacenews.com/regulations-and-access-to-capital-continue-to-hinder-europes-smallsat-industry/\">Regulations and access to capital continue to hinder Europe\u2019s smallsat industry</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Wed, 27 May 2026 15:47:09 +0000",
+        "published_dt": "2026-05-27T15:47:09+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"586\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/rsz_2atle_wollo_kongsberg_nanoavionics_ceo_small.jpg?fit=879%2C586&amp;ssl=1\" width=\"879\" /></figure>\n<p>NanoAvionics, founded in 2014, was known for producing individual satellites and small constellations until April, when the company won a 122.5-million-euro contract ($142 million) to build the initial 280 satellites [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/kongsberg-nanoavionics-sets-sights-on-building-and-supporting-sovereign-constellations/\">Kongsberg NanoAvionics sets sights on building and supporting sovereign constellations</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "0f3da8a3055cea8d",
+        "title": "Former Ukraine official calls for stricter restrictions on Russian use of Starlink",
+        "url": "https://spacenews.com/former-ukraine-official-calls-for-stricter-restrictions-on-russian-use-of-starlink/",
+        "source": "SpaceNews",
+        "published": "Wed, 27 May 2026 15:34:19 +0000",
+        "published_dt": "2026-05-27T15:34:19+00:00",
+        "summary": "<figure><img alt=\"Kateryna Chernohorenko, previously Ukraine\u2019s deputy minister of defense, during her fireside chat with Space Exchange Global\u2019s Duncan McKenize on May 26. Credit: SpaceNews\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/IMG_9227-scaled.jpg?fit=768%2C1024&amp;ssl=1\" width=\"768\" /></figure>\n<p>AMSTERDAM \u2013 A former senior Ukrainian defense official called on SpaceX to tighten controls on Starlink terminals that she said are reaching Russian forces through third-party countries or intermediaries. Kateryna [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/former-ukraine-official-calls-for-stricter-restrictions-on-russian-use-of-starlink/\">Former Ukraine official calls for stricter restrictions on Russian use of Starlink</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "6b41e0dd3e9124a5",
+        "title": "Sitael Accelerates Growth in Space: New Missions, Industrial Capacity and a Trajectory Towards 2031",
+        "url": "https://spacenews.com/sitael-accelerates-growth-in-spacenew-missions-industrial-capacity-and-a-trajectory-towards-2031/",
+        "source": "SpaceNews",
+        "published": "Wed, 27 May 2026 15:11:42 +0000",
+        "published_dt": "2026-05-27T15:11:42+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/HIBIDIS-SCOUT-ESA-SITAEL.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>\u2022 SITAEL announces a growth plan targeting \u20ac200 million in revenues by 2031, currently supported by over \u20ac150 million in backlog and nine launches planned by 2030.\u2022 The company confirms [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/sitael-accelerates-growth-in-spacenew-missions-industrial-capacity-and-a-trajectory-towards-2031/\">Sitael Accelerates Growth in Space: New Missions, Industrial Capacity and a Trajectory Towards 2031</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "9006fd1ba6751632",
+        "title": "Schaeffler AG joins forces with Spire to build sovereign European satellites",
+        "url": "https://spacenews.com/schaeffler-ag-joins-forces-with-spire-to-build-sovereign-european-satellites/",
+        "source": "SpaceNews",
+        "published": "Wed, 27 May 2026 15:02:37 +0000",
+        "published_dt": "2026-05-27T15:02:37+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"374\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/rsz_000ba4d8_header-schaeffler-headquarters-herzogenaurach_rwd_1200.jpg?fit=879%2C374&amp;ssl=1\" width=\"879\" /></figure>\n<p>AMSTERDAM \u2013 Spire Global revealed another element of its campaign to rapidly scale satellite production in German: strategic cooperation with Schaeffer AG, a major German manufacturer of automotive systems and [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/schaeffler-ag-joins-forces-with-spire-to-build-sovereign-european-satellites/\">Schaeffler AG joins forces with Spire to build sovereign European satellites</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "be8e64a882895c3a",
+        "title": "Starcloud\u2019s path to 88,000 computing satellites",
+        "url": "https://spacenews.com/starclouds-path-to-88000-computing-satellites/",
+        "source": "SpaceNews",
+        "published": "Wed, 27 May 2026 15:01:26 +0000",
+        "published_dt": "2026-05-27T15:01:26+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"574\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Philip-ODC-SN-scaled.png?fit=1024%2C574&amp;ssl=1\" width=\"1024\" /></figure>\n<p>In November, Starcloud sent a small satellite called Starcloud-1 into orbit via a SpaceX launch. The 60-kilogram spacecraft was the first to carry a compute system with an NVIDIA H100 [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/starclouds-path-to-88000-computing-satellites/\">Starcloud\u2019s path to 88,000 computing satellites</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "66d7b8b9f9615ddf",
+        "title": "Spire expands European manufacturing with Munich plant",
+        "url": "https://spacenews.com/spire-expands-european-manufacturing-with-munich-plant/",
+        "source": "SpaceNews",
+        "published": "Wed, 27 May 2026 14:23:57 +0000",
+        "published_dt": "2026-05-27T14:23:57+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"536\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/02/Artist_impression_of_Spire_satellite_constellation_1.jpg?fit=1000%2C536&amp;ssl=1\" width=\"1000\" /></figure>\n<p>AMSTERDAM \u2013 Spire Global has established a facility in Munich to develop and manufacture as many as 100 small satellites annually. With manufacturing plants in Boulder, Colorado, Glasgow, Scotland, and [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/spire-expands-european-manufacturing-with-munich-plant/\">Spire expands European manufacturing with Munich plant</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "9d7b867f85d4255c",
+        "title": "UltiMaker launches Factor 4 Plus platform",
+        "url": "https://www.engineering.com/ultimaker-launches-factor-4-plus-platform/",
+        "source": "Engineering.com",
+        "published": "Wed, 27 May 2026 14:30:15 +0000",
+        "published_dt": "2026-05-27T14:30:15+00:00",
+        "summary": "<p>Industrial 3D printer supports PPS-CF, high-flow print cores and TRACE reporting for production and field use.</p>\n<p>The post <a href=\"https://www.engineering.com/ultimaker-launches-factor-4-plus-platform/\">UltiMaker launches Factor 4 Plus platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "70386b6a50449b1a",
+        "title": "Mitsubishi Electric, Chiba Tech to develop physical AI",
+        "url": "https://www.engineering.com/mitsubishi-electric-chiba-tech-to-develop-physical-ai/",
+        "source": "Engineering.com",
+        "published": "Wed, 27 May 2026 14:15:00 +0000",
+        "published_dt": "2026-05-27T14:15:00+00:00",
+        "summary": "<p>Three-year effort will target autonomous robots for manufacturing, infrastructure maintenance, disaster response and logistics.</p>\n<p>The post <a href=\"https://www.engineering.com/mitsubishi-electric-chiba-tech-to-develop-physical-ai/\">Mitsubishi Electric, Chiba Tech to develop physical AI</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "70bf7684ec6bc4f2",
+        "title": "Keysight adds EOE simulation to ADS 2026",
+        "url": "https://www.engineering.com/keysight-adds-eoe-simulation-to-ads-2026/",
+        "source": "Engineering.com",
+        "published": "Wed, 27 May 2026 14:23:58 +0000",
+        "published_dt": "2026-05-27T14:23:58+00:00",
+        "summary": "<p>New workflow models full signal paths across electrical and optical domains for SerDes, photonics ICs and multi-wavelength links.</p>\n<p>The post <a href=\"https://www.engineering.com/keysight-adds-eoe-simulation-to-ads-2026/\">Keysight adds EOE simulation to ADS 2026</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "96b2bf0461bac295",
+        "title": "LiquidStack launches 14 MW liquid cooling platform",
+        "url": "https://www.engineering.com/liquidstack-launches-liquid-cooling-platform-for-14-mw-ai/",
+        "source": "Engineering.com",
+        "published": "Wed, 27 May 2026 14:03:00 +0000",
+        "published_dt": "2026-05-27T14:03:00+00:00",
+        "summary": "<p>Modular CDU blocks support phased data center buildouts, centralized control and NVIDIA Vera Rubin thermal requirements.</p>\n<p>The post <a href=\"https://www.engineering.com/liquidstack-launches-liquid-cooling-platform-for-14-mw-ai/\">LiquidStack launches 14 MW liquid cooling platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "6c2bf1ac1e2571bd",
+        "title": "Europe\u2019s satellite spectrum proposal clouds SpaceX and Viasat plans",
+        "url": "https://spacenews.com/europes-satellite-spectrum-proposal-clouds-spacex-and-viasat-plans/",
+        "source": "SpaceNews",
+        "published": "Wed, 27 May 2026 13:04:41 +0000",
+        "published_dt": "2026-05-27T13:04:41+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/European-Commission-image.webp?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Europe has proposed reserving two-thirds of 2 gigahertz mobile satellite spectrum up for renewal next year for European operators, complicating SpaceX\u2019s direct-to-device ambitions and the outlook for Viasat\u2019s European Aviation Network.</p>\n<p>The post <a href=\"https://spacenews.com/europes-satellite-spectrum-proposal-clouds-spacex-and-viasat-plans/\">Europe\u2019s satellite spectrum proposal clouds SpaceX and Viasat plans</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "643a68a81e730fac",
+        "title": "Artemis 2 captured the world\u2019s attention. It should change how we think about supply chains.",
+        "url": "https://spacenews.com/artemis-2-captured-the-worlds-attention-it-should-change-how-we-think-about-supply-chains/",
+        "source": "SpaceNews",
+        "published": "Wed, 27 May 2026 13:00:00 +0000",
+        "published_dt": "2026-05-27T13:00:00+00:00",
+        "summary": "<figure><img alt=\"Artemis 2 liftoff\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/art2-liftoff1.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The Artemis 2 mission has captured global attention for obvious reasons. It signals a return to the moon, reflects geopolitical ambition and showcases the next phase of human spaceflight. But [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/artemis-2-captured-the-worlds-attention-it-should-change-how-we-think-about-supply-chains/\">Artemis 2 captured the world\u2019s attention. It should change how we think about supply chains.</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "6c22507a89ae309e",
+        "title": "Torc partners with Mila on autonomous trucking AI",
+        "url": "https://www.engineering.com/torc-partners-with-mila-on-autonomous-trucking-ai/",
+        "source": "Engineering.com",
+        "published": "Wed, 27 May 2026 12:11:08 +0000",
+        "published_dt": "2026-05-27T12:11:08+00:00",
+        "summary": "<p>Work will focus on world models, reinforcement learning and multi-agent behavior for physical AI and autonomous systems.</p>\n<p>The post <a href=\"https://www.engineering.com/torc-partners-with-mila-on-autonomous-trucking-ai/\">Torc partners with Mila on autonomous trucking AI</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "57c34968cdc2f131",
+        "title": "Qumulo launches AI data fabric for GPU access",
+        "url": "https://www.engineering.com/qumulo-launches-ai-data-fabric-for-gpu-access/",
+        "source": "Engineering.com",
+        "published": "Wed, 27 May 2026 12:05:48 +0000",
+        "published_dt": "2026-05-27T12:05:48+00:00",
+        "summary": "<p>New platform links enterprise data to GPUs across clouds and regions without replication or staging delays.</p>\n<p>The post <a href=\"https://www.engineering.com/qumulo-launches-ai-data-fabric-for-gpu-access/\">Qumulo launches AI data fabric for GPU access</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "ca648a7217573797",
+        "title": "World\u2019s smallest deployable operational optical ground station proves capability in successful trials",
+        "url": "https://spacenews.com/worlds-smallest-deployable-operational-optical-ground-station-proves-capability-in-successful-trials/",
+        "source": "SpaceNews",
+        "published": "Wed, 27 May 2026 12:00:00 +0000",
+        "published_dt": "2026-05-27T12:00:00+00:00",
+        "summary": "<figure><img alt=\"archangel lightworks logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/archangel-lightworks-logo-square.png?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Oxford, UK \u2013 27 May 2026 Archangel Lightworks, the laser communications company, has successfully completed field trials of the TERRA-M, the world\u2019s smallest deployable operational optical ground station, proving its [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/worlds-smallest-deployable-operational-optical-ground-station-proves-capability-in-successful-trials/\">World\u2019s smallest deployable operational optical ground station proves capability in successful trials</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "199bdbdabf742a65",
+        "title": "European space industry watching SpaceX IPO plans",
+        "url": "https://spacenews.com/european-space-industry-watching-spacex-ipo-plans/",
+        "source": "SpaceNews",
+        "published": "Wed, 27 May 2026 11:33:29 +0000",
+        "published_dt": "2026-05-27T11:33:29+00:00",
+        "summary": "<figure><img alt=\"Investor panel\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"554\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/sseurope-investors.jpeg?fit=1024%2C554&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Space companies and investors in Europe are closely watching SpaceX\u2019s plans to go public, an event that could spur new investment in other companies.</p>\n<p>The post <a href=\"https://spacenews.com/european-space-industry-watching-spacex-ipo-plans/\">European space industry watching SpaceX IPO plans</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "180c00f6f5cb3bd3",
+        "title": "OneQode plans AMD GPU-based global AI rollout",
+        "url": "https://www.engineering.com/oneqode-plans-amd-gpu-based-global-ai-rollout/",
+        "source": "Engineering.com",
+        "published": "Wed, 27 May 2026 11:12:59 +0000",
+        "published_dt": "2026-05-27T11:12:59+00:00",
+        "summary": "<p>Initial deployments will use MI355X GPUs and ROCm to support training and inference across Europe and Asia-Pacific.</p>\n<p>The post <a href=\"https://www.engineering.com/oneqode-plans-amd-gpu-based-global-ai-rollout/\">OneQode plans AMD GPU-based global AI rollout</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "4692b9b9dacb69a0",
+        "title": "Emerson, SiMa.ai bring edge AI to industrial PCs",
+        "url": "https://www.engineering.com/emerson-sima-ai-bring-edge-ai-to-industrial-pcs/",
+        "source": "Engineering.com",
+        "published": "Wed, 27 May 2026 10:57:21 +0000",
+        "published_dt": "2026-05-27T10:57:21+00:00",
+        "summary": "<p>Rugged systems support real-time analysis from -40\u00b0F to 140\u00b0F for factory, remote and air-gapped industrial applications.</p>\n<p>The post <a href=\"https://www.engineering.com/emerson-sima-ai-bring-edge-ai-to-industrial-pcs/\">Emerson, SiMa.ai bring edge AI to industrial PCs</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "5e644829b158d892",
+        "title": "ThinkOrbital preps for first on-orbit X-ray scans",
+        "url": "https://aerospaceamerica.aiaa.org/thinkorbital-preps-for-first-on-orbit-x-rays-scans/",
+        "source": "Aerospace America",
+        "published": "Wed, 27 May 2026 09:28:00 +0000",
+        "published_dt": "2026-05-27T09:28:00+00:00",
+        "summary": ""
+      },
+      {
+        "id": "152c6a26e88a9409",
+        "title": "Voyager wins DARPA contract for solid rocket propellant technology",
+        "url": "https://spacenews.com/voyager-wins-darpa-contract-for-solid-rocket-propellant-technology/",
+        "source": "SpaceNews",
+        "published": "Tue, 26 May 2026 16:00:00 +0000",
+        "published_dt": "2026-05-26T16:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"793\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/VOYG_BnG-scaledA.png?fit=1024%2C793&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The $16.5 million award is for \u2018thrust-control technology\u2019 designed to make solid propulsion systems more adaptable across different missions and weapons programs</p>\n<p>The post <a href=\"https://spacenews.com/voyager-wins-darpa-contract-for-solid-rocket-propellant-technology/\">Voyager wins DARPA contract for solid rocket propellant technology</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "abae099f81b985a8",
+        "title": "Nations opt for a mix of sovereign, bilateral, federated and commercial space capabilities",
+        "url": "https://spacenews.com/nations-opt-for-a-mix-of-sovereign-bilateral-federated-and-commercial-space-capabilities/",
+        "source": "SpaceNews",
+        "published": "Wed, 27 May 2026 07:28:52 +0000",
+        "published_dt": "2026-05-27T07:28:52+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"586\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/rsz_iceye_factory_final_1.png?fit=879%2C586&amp;ssl=1\" width=\"879\" /></figure>\n<p>AMSTERDAM \u2013 European nations are adopting a mix of sovereign, bilateral, federated and dual-use commercial technologies to enhance military readiness. \u201cWhen we talk about sovereignty, independence, safety or security, we [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/nations-opt-for-a-mix-of-sovereign-bilateral-federated-and-commercial-space-capabilities/\">Nations opt for a mix of sovereign, bilateral, federated and commercial space capabilities</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "db024ffab77506d3",
@@ -302,160 +428,43 @@
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"643\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/RAFTI-GRASP-Interface-Graphic.jpg?fit=1024%2C643&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The companies will explore integrating Orbit Fab\u2019s refueling interface with electric propulsion systems developed by Thales Alenia Space </p>\n<p>The post <a href=\"https://spacenews.com/orbit-fab-thales-alenia-to-study-refueling-for-electric-propulsion-satellites/\">Orbit Fab, Thales Alenia to study refueling for electric-propulsion satellites</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "c03139d7a7f43e95",
-        "title": "Chinese startup Mega Engine advances reusable staged-combustion rocket engine",
-        "url": "https://spacenews.com/chinese-startup-mega-engine-advances-reusable-staged-combustion-rocket-engine/",
+        "id": "d1409728ad9141dc",
+        "title": "SpaceX wins $2.29 billion Space Force contract for military data network",
+        "url": "https://spacenews.com/spacex-wins-2-29-billion-space-force-contract-for-military-data-network/",
         "source": "SpaceNews",
-        "published": "Tue, 26 May 2026 10:43:10 +0000",
-        "published_dt": "2026-05-26T10:43:10+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"465\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/MegaEngine-Chi-test-May2026.jpg?fit=840%2C465&amp;ssl=1\" width=\"840\" /></figure>\n<p>A new Chinese commercial rocket engine startup has conducted a successful long-duration hot fire test of a closed-cycle kerosene-liquid oxygen engine.</p>\n<p>The post <a href=\"https://spacenews.com/chinese-startup-mega-engine-advances-reusable-staged-combustion-rocket-engine/\">Chinese startup Mega Engine advances reusable staged-combustion rocket engine</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Tue, 26 May 2026 22:40:27 +0000",
+        "published_dt": "2026-05-26T22:40:27+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"488\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/9004037.jpg?fit=913%2C488&amp;ssl=1\" width=\"913\" /></figure>\n<p>The contract is for the development of the U.S. Space Force\u2019s Space Data Network backbone</p>\n<p>The post <a href=\"https://spacenews.com/spacex-wins-2-29-billion-space-force-contract-for-military-data-network/\">SpaceX wins $2.29 billion Space Force contract for military data network</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "13f51c41336c73e5",
-        "title": "NASA readies mission to reverse the Swift observatory\u2019s skyfall",
-        "url": "https://aerospaceamerica.aiaa.org/nasa-readies-mission-to-reverse-the-swift-observatorys-skyfall/",
-        "source": "Aerospace America",
-        "published": "Tue, 26 May 2026 09:28:00 +0000",
-        "published_dt": "2026-05-26T09:28:00+00:00",
-        "summary": ""
-      },
-      {
-        "id": "47d387a031b76cc9",
-        "title": "Lessons learned from 60 years of additive manufacturing",
-        "url": "https://www.engineering.com/lessons-learned-from-60-years-of-additive-manufacturing/",
-        "source": "Engineering.com",
-        "published": "Mon, 25 May 2026 18:43:27 +0000",
-        "published_dt": "2026-05-25T18:43:27+00:00",
-        "summary": "<p>3D printing business owners share their experiences and advice.</p>\n<p>The post <a href=\"https://www.engineering.com/lessons-learned-from-60-years-of-additive-manufacturing/\">Lessons learned from 60 years of additive manufacturing</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "0517b2bb869cfc60",
-        "title": "The physics-constrained AI breakthrough in aerospace and eVTOL",
-        "url": "https://www.engineering.com/the-physics-constrained-ai-breakthrough-in-aerospace-and-evtol/",
-        "source": "Engineering.com",
-        "published": "Mon, 25 May 2026 18:40:17 +0000",
-        "published_dt": "2026-05-25T18:40:17+00:00",
-        "summary": "<p>The aerospace industry is entering its most transformative era since the dawn of the jet age. For decades, engineers have steadily advanced aviation by trimming grams and maximizing thrust. Today, the rise of electric Vertical Takeoff and Landing (eVTOL) aircraft has accelerated this pursuit into a masterclass of structural efficiency. Urban air mobility demands vehicles [&#8230;]</p>\n<p>The post <a href=\"https://www.engineering.com/the-physics-constrained-ai-breakthrough-in-aerospace-and-evtol/\">The physics-constrained AI breakthrough in aerospace and eVTOL</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "de09f4df3dc67f3a",
-        "title": "Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions",
-        "url": "https://spacenews.com/exolaunch-and-seops-purchase-falcon-9-launches-for-dedicated-rideshare-missions/",
+        "id": "69166c1063670aa6",
+        "title": "NASA selects four companies for initial moon base awards",
+        "url": "https://spacenews.com/nasa-selects-four-companies-for-initial-moon-base-awards/",
         "source": "SpaceNews",
-        "published": "Tue, 26 May 2026 06:00:00 +0000",
-        "published_dt": "2026-05-26T06:00:00+00:00",
-        "summary": "<figure><img alt=\"Falcon 9 launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/f9-20260525.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Two companies best known for brokering payload space on SpaceX rideshare launches have each purchased Falcon 9 launches to meet the growing demand for such missions.</p>\n<p>The post <a href=\"https://spacenews.com/exolaunch-and-seops-purchase-falcon-9-launches-for-dedicated-rideshare-missions/\">Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Tue, 26 May 2026 21:50:27 +0000",
+        "published_dt": "2026-05-26T21:50:27+00:00",
+        "summary": "<figure><img alt=\"Blue Moon and Astrolab rover\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"573\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/bluemoon-astrolab.jpeg?fit=1024%2C573&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA announced May 26 the first contracts associated with its plans to develop a lunar base, picking four companies to develop and deliver landers and drones to the moon.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-selects-four-companies-for-initial-moon-base-awards/\">NASA selects four companies for initial moon base awards</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "1c9469c1d1e642a3",
-        "title": "Sixth Varda mission successfully returns",
-        "url": "https://spacenews.com/sixth-varda-mission-successfully-returns/",
+        "id": "2c589b211376445b",
+        "title": "Open Cosmos\u2019 CEO on what it takes to bring IoT to space",
+        "url": "https://spacenews.com/open-cosmos-ceo-on-what-it-takes-to-bring-iot-to-space/",
         "source": "SpaceNews",
-        "published": "Thu, 21 May 2026 22:24:19 +0000",
-        "published_dt": "2026-05-21T22:24:19+00:00",
-        "summary": "<figure><img alt=\"Varda W-6\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/varda-w6.jpeg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Varda Space Industries completed its latest reentry mission May 18 as the company balances supporting pharmaceutical research and hypersonic testing.</p>\n<p>The post <a href=\"https://spacenews.com/sixth-varda-mission-successfully-returns/\">Sixth Varda mission successfully returns</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "813ca10740215799",
-        "title": "EV Sales Sputter. But Will They Win the Long Game?",
-        "url": "https://www.engineering.com/ev-sales-sputter-but-will-they-win-the-long-game/",
-        "source": "Engineering.com",
-        "published": "Mon, 25 May 2026 13:15:11 +0000",
-        "published_dt": "2026-05-25T13:15:11+00:00",
-        "summary": "<p>Aimee Kalnoskas tracks the industry for EE World, and she breaks down the issues and obstacles facing EV adoption.</p>\n<p>The post <a href=\"https://www.engineering.com/ev-sales-sputter-but-will-they-win-the-long-game/\">EV Sales Sputter. But Will They Win the Long Game?</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "122fa9743d6a1047",
-        "title": "Northern Norway is ready to launch. EU Space Regulation \u2014 and its new Arctic policy \u2013 is not.",
-        "url": "https://spacenews.com/northern-norway-is-ready-to-launch-eu-space-regulation-and-its-new-arctic-policy-is-not/",
-        "source": "SpaceNews",
-        "published": "Mon, 25 May 2026 11:00:00 +0000",
-        "published_dt": "2026-05-25T11:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"623\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2023/11/%C2%A9-Copyright-Andoya-Spaceport_Launch-Pad-A.jpg?fit=1024%2C623&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The European Commission is currently updating its Arctic policy, with a new policy statement expected this coming autumn. Unlike the latest policy from 2021, the update will place greater emphasis [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/northern-norway-is-ready-to-launch-eu-space-regulation-and-its-new-arctic-policy-is-not/\">Northern Norway is ready to launch. EU Space Regulation \u2014 and its new Arctic policy \u2013 is not.</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "2d091465fc17d094",
-        "title": "Shenzhou-23 crew arrives at Tiangong as China maps path to 2030 lunar landing",
-        "url": "https://spacenews.com/shenzhou-23-crew-arrives-at-tiangong-as-china-maps-path-to-2030-lunar-landing/",
-        "source": "SpaceNews",
-        "published": "Sun, 24 May 2026 21:11:26 +0000",
-        "published_dt": "2026-05-24T21:11:26+00:00",
-        "summary": "<figure><img alt=\"12:08 AMClaude responded: Shenzhou-23 spacecraft docked at China&#039;s Tiangong space station, photographed by an external wide-angle camera on the Tianhe core module, with Earth visible in\u2026Shenzhou-23 spacecraft docked at China&#039;s Tiangong space station, photographed by an external wide-angle camera on the Tianhe core module, with Earth visible in the background.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"489\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Shenzhou23-docked-Tiangong-24may2026-CMSEO.jpg?fit=1024%2C489&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Three Chinese astronauts arrived at Tiangong space station Sunday, with one crewmember expected to become China\u2019s first to stay in orbit for an entire year.</p>\n<p>The post <a href=\"https://spacenews.com/shenzhou-23-crew-arrives-at-tiangong-as-china-maps-path-to-2030-lunar-landing/\">Shenzhou-23 crew arrives at Tiangong as China maps path to 2030 lunar landing</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "442d6bcc642675b1",
-        "title": "NASA to add missions to SpaceX commercial crew contract",
-        "url": "https://spacenews.com/nasa-to-add-missions-to-spacex-commercial-crew-contract/",
-        "source": "SpaceNews",
-        "published": "Sun, 24 May 2026 07:51:34 +0000",
-        "published_dt": "2026-05-24T07:51:34+00:00",
-        "summary": "<figure><img alt=\"Crew Dragon approach\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"687\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/10/crew9-approach.jpg?fit=1024%2C687&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA plans to add more missions to SpaceX\u2019s commercial crew contract, protecting the agency from the possibility that Boeing\u2019s spacecraft is never certified for missions to the International Space Station.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-to-add-missions-to-spacex-commercial-crew-contract/\">NASA to add missions to SpaceX commercial crew contract</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "8c9d4856d9d05d12",
-        "title": "Blue Origin completes investigation into New Glenn launch failure",
-        "url": "https://spacenews.com/blue-origin-completes-investigation-into-new-glenn-launch-failure/",
-        "source": "SpaceNews",
-        "published": "Sat, 23 May 2026 02:32:12 +0000",
-        "published_dt": "2026-05-23T02:32:12+00:00",
-        "summary": "<figure><img alt=\"New Glenn launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Gallery-NG3-liftoff3-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Blue Origin has completed the investigation into the failure on the third flight of its New Glenn rocket, clearing launches of the vehicle to resume.</p>\n<p>The post <a href=\"https://spacenews.com/blue-origin-completes-investigation-into-new-glenn-launch-failure/\">Blue Origin completes investigation into New Glenn launch failure</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "940a9fc5bbad161f",
-        "title": "SpaceX launches first Starship V3",
-        "url": "https://spacenews.com/spacex-launches-first-starship-v3/",
-        "source": "SpaceNews",
-        "published": "Sat, 23 May 2026 00:35:12 +0000",
-        "published_dt": "2026-05-23T00:35:12+00:00",
-        "summary": "<figure><img alt=\"Starship Flight 12 liftoff\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"505\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/starship-flt12-liftoff.jpeg?fit=1024%2C505&amp;ssl=1\" width=\"1024\" /></figure>\n<p>SpaceX launched the newest version of its Starship vehicle for the first time May 22, completing most of the test objectives planned for the suborbital flight.</p>\n<p>The post <a href=\"https://spacenews.com/spacex-launches-first-starship-v3/\">SpaceX launches first Starship V3</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "4ea64198d9f70f7c",
-        "title": "Space Force awards Viasat, SES $437 million for military satellite network",
-        "url": "https://spacenews.com/space-force-awards-viasat-ses-437-million-for-military-satellite-network/",
-        "source": "SpaceNews",
-        "published": "Fri, 22 May 2026 23:27:58 +0000",
-        "published_dt": "2026-05-22T23:27:58+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/UltraGEO_2025-Globe_Americas-RotatedFinal-resized.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The companies will build four small geostationary satellites for the Protected Tactical Satcom-Global program</p>\n<p>The post <a href=\"https://spacenews.com/space-force-awards-viasat-ses-437-million-for-military-satellite-network/\">Space Force awards Viasat, SES $437 million for military satellite network</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "a0e017870a9ba9e9",
-        "title": "NASA unveils sweeping reorganization",
-        "url": "https://spacenews.com/nasa-unveils-sweeping-reorganization/",
-        "source": "SpaceNews",
-        "published": "Fri, 22 May 2026 17:08:24 +0000",
-        "published_dt": "2026-05-22T17:08:24+00:00",
-        "summary": "<figure><img alt=\"NASA&#039;s headquarters building in Washington. Credit: NASA\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"858\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/nasahq.webp?fit=1024%2C858&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA announced one of its biggest reorganizations in recent memory May 22, combining mission directorates and reshuffling personnel.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-unveils-sweeping-reorganization/\">NASA unveils sweeping reorganization</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "5b1af8bb2715e4fd",
-        "title": "GIGABYTE wins COMPUTEX 2026 awards for AI hardware",
-        "url": "https://www.engineering.com/gigabyte-wins-computex-2026-awards-for-ai-hardware/",
-        "source": "Engineering.com",
-        "published": "Fri, 22 May 2026 13:22:43 +0000",
-        "published_dt": "2026-05-22T13:22:43+00:00",
-        "summary": "<p>Recognized products include a motherboard, eGPU and laptop built for local AI workloads, graphics and thermal management.</p>\n<p>The post <a href=\"https://www.engineering.com/gigabyte-wins-computex-2026-awards-for-ai-hardware/\">GIGABYTE wins COMPUTEX 2026 awards for AI hardware</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "00dc24ff9b6a630f",
-        "title": "Leveraging AUKUS and southern geography: building Australia\u2019s dual-use space infrastructure for strategic resilience",
-        "url": "https://spacenews.com/leveraging-aukus-and-southern-geography-building-australias-dual-use-space-infrastructure-for-strategic-resilience/",
-        "source": "SpaceNews",
-        "published": "Fri, 22 May 2026 13:00:00 +0000",
-        "published_dt": "2026-05-22T13:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"480\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/Screenshot-2025-08-12-at-5.00.35-PM-scaled-e1755036018217.png?fit=1024%2C480&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The Deep Space Advanced Radar Capability (DARC) Site 1 in Western Australia is already delivering early tracking data for AUKUS partners, with full operational capability targeted for 2027. This milestone [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/leveraging-aukus-and-southern-geography-building-australias-dual-use-space-infrastructure-for-strategic-resilience/\">Leveraging AUKUS and southern geography: building Australia\u2019s dual-use space infrastructure for strategic resilience\u00a0</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "be09070215e18c74",
-        "title": "SpaceX IPO filing casts Starlink Mobile as future wireless challenger",
-        "url": "https://spacenews.com/spacex-prospectus-casts-starlink-mobile-as-future-wireless-challenger/",
-        "source": "SpaceNews",
-        "published": "Fri, 22 May 2026 12:54:32 +0000",
-        "published_dt": "2026-05-22T12:54:32+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Starlink-Mobile.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>SpaceX\u2019s IPO prospectus casts Starlink Mobile as more than a remote-area backup, with next-generation direct-to-smartphone services designed to be \u201con par with terrestrial mobile networks\u201d even in urban areas.</p>\n<p>The post <a href=\"https://spacenews.com/spacex-prospectus-casts-starlink-mobile-as-future-wireless-challenger/\">SpaceX IPO filing casts Starlink Mobile as future wireless challenger</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Tue, 26 May 2026 21:05:19 +0000",
+        "published_dt": "2026-05-26T21:05:19+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/ConnectedCosmos-scaled.png?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Open Cosmos, based in the United Kingdom, is facing a 2028 deadline to field an ambitious broadband constellation for Europe. That system, ConnectedCosmos, aims to reduce reliance on undersea cables [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/open-cosmos-ceo-on-what-it-takes-to-bring-iot-to-space/\">Open Cosmos\u2019 CEO on what it takes to bring IoT to space</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
+      {
+        "id": "bd620b1c90654264",
+        "title": "Japan, South Korea and Taiwan are suffering industrial rot",
+        "url": "https://www.economist.com/finance-and-economics/2026/05/27/japan-south-korea-and-taiwan-are-suffering-industrial-rot",
+        "source": "Finance & economics",
+        "published": "Wed, 27 May 2026 14:08:47 +0000",
+        "published_dt": "2026-05-27T14:08:47+00:00",
+        "summary": "Artificial intelligence is concealing a China shock"
+      },
       {
         "id": "e58388eb1e3e20d7",
         "title": "Comparative Advantage and Openness under Global Fragmentation: Lessons from the Past 65 Years -- by Joshua Aizenman, Hiro Ito, Jamel Saadaoui",
@@ -671,35 +680,17 @@
         "published": "Thu, 09 Apr 2026 10:03:13 +0000",
         "published_dt": "2026-04-09T10:03:13+00:00",
         "summary": "The collision will not be pretty"
-      },
-      {
-        "id": "05e690d456114e4c",
-        "title": "Inflation or recession? The tug of war in bond markets",
-        "url": "https://www.economist.com/finance-and-economics/2026/04/05/inflation-or-recession-the-tug-of-war-in-bond-markets",
-        "source": "Finance & economics",
-        "published": "Sun, 05 Apr 2026 08:17:54 +0000",
-        "published_dt": "2026-04-05T08:17:54+00:00",
-        "summary": "Governments\u2019 borrowing costs are being pulled in opposite directions"
       }
     ],
     "Cross-Disciplinary": [
       {
-        "id": "79c1c8728e5a6b68",
-        "title": "Rethinking organizational design in the age of agentic AI",
-        "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 26 May 2026 14:54:10 +0000",
-        "published_dt": "2026-05-26T14:54:10+00:00",
-        "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there\u2019s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can\u2019t support that change. They cite a lack of readiness across people, processes, and workflows.&#160; The sticky&#8230;"
-      },
-      {
-        "id": "f15ccae937074a1b",
-        "title": "The Download: puncturing the AI jobs panic",
-        "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 26 May 2026 12:10:00 +0000",
-        "published_dt": "2026-05-26T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hysteria over AI\u2019s threat to white-collar jobs, there\u2019s still scant evidence that the technology has had a large-scale impact on&#8230;"
+        "id": "646bfbc95bf9eb0e",
+        "title": "South Africa Has AI Leverage. Its Draft Policy Leaves It Unused",
+        "url": "https://spectrum.ieee.org/south-africa-ai-policy",
+        "source": "IEEE Spectrum",
+        "published": "Wed, 27 May 2026 13:00:01 +0000",
+        "published_dt": "2026-05-27T13:00:01+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/aerial-view-of-an-industrial-mining-complex-with-reddish-brown-processing-facilities-contrasted-by-a-distant-green-landscape.jpg?id=66784945&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p><em><em>This article is adapted by the author with permission from </em><a href=\"https://www.techpolicy.press/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Tech Policy Press</em></a><em>. Read the </em><a href=\"https://www.techpolicy.press/south-africa-has-ai-leverage-its-draft-policy-leaves-it-unused/\" rel=\"noopener noreferrer\" target=\"_blank\">original article</a><em>.</em></em></p><p>South Africa is not just another developing country struggling to govern artificial intelligence (AI); it is the exception with leverage, and the window to act on it is closing. It holds <a href=\"https://www.statista.com/statistics/273624/platinum-metal-reserves-by-country/\" rel=\"noopener noreferrer\" target=\"_blank\">approximately 88% of global platinum-group metal reserves</a>, critical inputs to parts of the semiconductor and data center supply chains that make AI infrastructure possible. It hosts the <a href=\"https://www.arizton.com/market-reports/south-africa-data-center-market-investment-analysis\" rel=\"noopener noreferrer\" target=\"_blank\">largest data center market</a> on the continent. Its <a href=\"https://africadca.org/en/data-centres-in-africa-focus-report-2024\" rel=\"noopener noreferrer\" target=\"_blank\">existing hyperscaler relationships</a> give it procurement leverage that <a href=\"https://spectrum.ieee.org/ai-for-good\" target=\"_blank\">most African states will never have</a>. And a major <a href=\"https://techcentral.co.za/draft-ai-policy-south-africa-too-dependent-on-us-china/280253/\" rel=\"noopener noreferrer\" target=\"_blank\">geopolitical contest</a> over AI infrastructure is being fought on its soil right now, between Chinese and American technology companies competing for control of the systems that will underpin an entire continent\u2019s public sector.</p><p>In physics, leverage requires three things: a fulcrum, a lever arm and the ability to apply force. The Bushveld Complex, <a href=\"https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-platinum-group.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">the world\u2019s largest platinum-group metal deposit</a>, is the fulcrum: a mineral endowment that gives South Africa a position in the semiconductor supply chain that no other African state holds. The <a href=\"https://www.sanews.gov.za/south-africa/minister-announces-withdrawal-draft-ai-policy\" rel=\"noopener noreferrer\" target=\"_blank\">since-withdrawn</a> <a href=\"https://www.gov.za/sites/default/files/gcis_document/202604/54477gen3880.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">draft policy</a> is the lever arm. The unresolved \u201cOPTION\u201d provisions in the policy are where force would be applied. Without a policy that specifies what South Africa wants in return for market access, the lever arm sits unused, and the weight of two of the world\u2019s largest technology ecosystems settles exactly where those ecosystems want it to settle.</p><p>This makes South Africa a global test case. Not because its proposed means of governance is exemplary, but because it is the one developing country with enough structural leverage to negotiate <a href=\"https://spectrum.ieee.org/responsible-ai\" target=\"_blank\">genuinely different terms</a>, and the one that is choosing, through inaction, not to. The recent <a href=\"https://techcentral.co.za/malatsi-moves-to-rescue-south-africas-botched-ai-policy/281299/\" rel=\"noopener noreferrer\" target=\"_blank\">announcement</a> of a new panel to update the draft policy is an important opportunity. But the deeper failure is not that an AI policy contained bad references. It is that no verification process caught them before the document entered the public domain. That is a systems problem, not merely a political one. It points to a missing layer in how governments are adopting AI.</p><h2>The contest already underway</h2><p>Last year, Huawei, <a href=\"https://www.bloomberg.com/news/features/2025-10-22/china-s-deepseek-pushes-into-africa-making-ai-accessible-to-millions\" rel=\"noopener noreferrer\" target=\"_blank\">pitched an emerging product bundle</a> to tech executives across the continent. Huawei was now bundling access to the DeepSeek\u2019s large language model with its own cloud and storage infrastructure. The price differential was stark: in some cases by more than 90%.</p><p>At the same time, Microsoft announced plans to spend <a href=\"https://news.microsoft.com/source/emea/features/microsoft-invests-zar-5-4bn-in-south-africa/\" rel=\"noopener noreferrer\" target=\"_blank\">ZAR 5.4 billion ($300 million)</a> by the end of 2027 on cloud and AI infrastructure in South Africa, building on a prior ZAR 20.4 billion investment. Google, AWS and Oracle already have cloud regions in the country. According to one analysis, the country\u2019s data center market was valued at <a href=\"https://www.arizton.com/market-reports/south-africa-data-center-market-investment-analysis\" rel=\"noopener noreferrer\" target=\"_blank\">$2.16 billion in 2024, the largest in Africa</a>.</p><p>These are not commercially neutral investments. Huawei\u2019s infrastructure reach has been explicitly linked to <a href=\"https://www.congress.gov/crs-product/IF11735\" rel=\"noopener noreferrer\" target=\"_blank\">Chinese strategic objectives</a>, including a <a href=\"https://www.csis.org/analysis/watching-huaweis-safe-cities\" rel=\"noopener noreferrer\" target=\"_blank\">documented track record</a> of providing governments with surveillance infrastructure through its Safe Cities network. US hyperscaler investment comes with its own dependency structure: closed models, pricing set unilaterally and terms of access that no African government has meaningfully shaped. South Africa is being asked to choose between these dependency models without a policy that specifies what it wants in return.</p><h2>The leverage it has</h2><p>There is a particular irony in South Africa\u2019s position. The country whose mines supply platinum-group metals essential to semiconductor manufacturing, and through them to AI compute, has drafted a policy that treats it as a consumer of AI systems rather than a stakeholder in their governance. South Africa digs up the minerals that make AI possible. It has no say over the AI built from them.</p><p>The <a href=\"https://cset.georgetown.edu/publication/the-ai-triad-and-what-it-means-for-national-security-strategy/\" rel=\"noopener noreferrer\" target=\"_blank\">AI triad framework</a> covers algorithms, compute, and data. South Africa has no frontier model development capacity. South Africa holds significant data assets in financial services, healthcare and agriculture, with no clear framework for their sovereign management. <a href=\"https://elements.visualcapitalist.com/charted-the-minerals-powering-the-ai-boom/\" rel=\"noopener noreferrer\" target=\"_blank\">South Africa possesses PGM leverage</a> of global significance on the compute axis, currently being transferred without meaningful condition. It also has <a href=\"https://datacatalog.worldbank.org/search/dataset/0039068/south-africa-solar-irradiation-and-pv-power-potential-maps\" rel=\"noopener noreferrer\" target=\"_blank\">exceptionally high solar irradiance</a> and <a href=\"https://datacatalog.worldbank.org/search/dataset/0039068/south-africa-solar-irradiation-and-pv-power-potential-maps\" rel=\"noopener noreferrer\" target=\"_blank\">significant renewable energy potential</a>. A country that can offer both critical mineral inputs and the energy to power the infrastructure those minerals help build occupies a negotiating position of unusual strength.</p><p>The Draft Policy proposes no minimum terms for hyperscaler investment, no data sovereignty requirements, no technology transfer conditions and no compute visibility mechanism. Multiple provisions are explicitly left unresolved, marked \u201cOPTION\u201d, including the most consequential choices about how governance will function. Infrastructure decisions made now determine what is renegotiable later, and the answer is: very little.</p><h2>Three futures, one default</h2><p>The three infrastructure futures on offer each create a structurally different form of dependency, and only one creates sovereign capability. The Huawei-hosted DeepSeek integration offers low cost and open-source weights, but with data stored on infrastructure potentially accessible under Chinese legal frameworks, creating surveillance dependency in a pattern <a href=\"https://carnegieendowment.org/2019/09/17/global-expansion-of-ai-surveillance-pub-79847\" rel=\"noopener noreferrer\" target=\"_blank\">already documented</a> across Africa. The second is US closed-model dependency: higher capability, more reliable data protection, but complete API dependency on developers abroad. The third is locally hosted open-weight infrastructure: models governed under <a href=\"https://www.gov.za/sites/default/files/gcis_document/202406/50741gen2533.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">South African data sovereignty rules</a>, on infrastructure subject to minimum terms, developed with South African data. As <a href=\"https://www.interconnects.ai/p/open-models-in-perpetual-catch-up\" rel=\"noopener noreferrer\" target=\"_blank\">Nathan Lambert at Interconnects</a> has observed, open-weight models are likely the only realistic way to get sovereign AI off the ground as a real effort, enabling local communities and economies to integrate meaningfully with the technology. But this requires procurement conditions, not goodwill.</p><h2>What binding governance looks like</h2><p>The <a href=\"https://www.governance.ai/research-paper/governing-through-the-cloud\" rel=\"noopener noreferrer\" target=\"_blank\">GovAI \u201cGoverning Through the Cloud\u201d framework</a> identifies four roles compute providers should accept as conditions of operating at scale: securers (protecting model weights and training data), record keepers (maintaining infrastructure usage logs), verifiers (confirming customer compliance with safety standards) and enforcers (restricting access when violations occur). These are operational requirements, not theoretical categories \u2014 specific, enforceable, and well within the bargaining power of a market of South Africa\u2019s size and mineral position.</p><p>A <a href=\"https://itlawco.com/sa-national-ai-policy-submission-2026/\" rel=\"noopener noreferrer\" target=\"_blank\">detailed policy analysis</a> submitted to the Department of Communications and Digital Technologies (DCDT) identifies the specific provisions the final policy must contain: mandatory minimum terms for foreign compute infrastructure investments above ZAR 500 million (~$30 million); a compute reporting threshold; a National AI Safety Institute mandate covering defensive monitoring of AI capability accumulation; and National AI Champion Sector designations to create data assets for domestic model development. Each provision converts a structural advantage into a governance instrument before that advantage is foreclosed by market reality. Just as modern software security increasingly depends on knowing what components are inside a system\u2014model provider, training data, compute environment, evaluation methods, update cadence, human review points, and failure-reporting procedures\u2014public-sector AI governance requires a clear account of the stack before deployment, not after a problem surfaces. A public institution that cannot verify the sources in its own AI policy is unlikely to be ready to verify the AI systems it procures, deploys, or regulates.</p><h2>Why this is the continental test case</h2><p>South Africa\u2019s choices will establish a regional precedent for what is commercially negotiable in AI infrastructure. If South Africa negotiates data sovereignty guarantees and technology transfer conditions as requirements for hyperscaler investment, it creates a replicable model. If Microsoft\u2019s $300 million investment and Huawei\u2019s infrastructure expansion proceed on standard commercial terms, as they are currently, it normalizes extractive AI infrastructure across the continent. The lesson is not specific to Africa. Governments everywhere are producing AI strategies while lacking AI assurance infrastructure. South Africa is an early warning, not an isolated case.</p><p>The public comment period closed when the policy was withdrawn. But a parallel process remains live: the <a href=\"https://www.treasury.gov.za/public%20comments/ProcReg/Draft%20General%20Public%20Procurement%20Regulations%202026%20for%20consultation%20ito%20section%2063(3)%20of%20Act.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">National Treasury\u2019s Draft General Public Procurement Regulations</a>\u2014the legal instrument that will govern every government AI contract\u2014closes for comment on June 15. Those regulations contain no AI-specific provisions.</p><p>South Africa has more AI leverage than any country on the continent. Some argue, with force, that <a href=\"https://www.dailymaverick.co.za/article/2026-04-19-sa-risks-missing-critical-global-ai-window-through-well-intentioned-policy-misalignment/\" rel=\"noopener noreferrer\" target=\"_blank\">governance requirements risk deterring the infrastructure investment</a> South Africa urgently needs: compute capacity, reliable energy, venture capital, and talent retention. That concern deserves a direct answer. Minimum procurement terms, compute reporting thresholds, and technology transfer conditions are not barriers to investment. They are the conditions under which investment serves the host country rather than extracting from it. Infrastructure built without minimum terms produces dependency. Infrastructure built with them produces leverage. To serve the public interest, its AI policy must use it.</p>When late last month News24 <a href=\"https://www.news24.com/business/tech/govts-draft-ai-policy-cites-fictitious-references-experts-believe-are-ai-hallucinations-20260424-1085\" rel=\"noopener noreferrer\" target=\"_blank\">reported</a> AI-hallucinated references in the draft AI policy, Minister of Communications and Digital Technologies Solly Malatsi <a href=\"https://www.sanews.gov.za/south-africa/minister-announces-withdrawal-draft-ai-policy\" rel=\"noopener noreferrer\" target=\"_blank\">withdrew the draft policy</a>. That was a <a href=\"https://www.linkedin.com/pulse/why-withdrawing-south-africas-draft-ai-policy-wrong-call-adams-4arzf/?trackingId=p1G8Vk1DBwSwD550j8ym2A%3D%3D\" rel=\"noopener noreferrer\" target=\"_blank\">mistake</a> that could cost South Africa and the rest of the continent the initiative on this urgent issue. His more recent constitution of an <a href=\"https://techcentral.co.za/malatsi-moves-to-rescue-south-africas-botched-ai-policy/281299/\" rel=\"noopener noreferrer\" target=\"_blank\">independent panel</a> is a belated step in the right direction, if it can turn South Africa\u2019s leverage into policy. The panel\u2014chaired by Prof Benjamin Rosman of the Wits Machine Intelligence and Neural Discovery Institute, and including Profs Vukosi Marivate and Alison Gillwald of Research ICT Africa, and Dr Jabu Mtsweni of the CSIR\u2014has the technical and governance credibility to produce a stronger document. What it has not yet produced is a timeline. No revised draft has been scheduled. South Africa remains without a formal AI governance framework in the interim."
       },
       {
         "id": "76f99e18cf8ac55b",
@@ -711,6 +702,15 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/conceptual-illustration-of-user-interface-layers-such-as-networking-information-assurance-and-design.jpg?id=66768355&amp;width=1245&amp;height=700&amp;coordinates=0%2C62%2C0%2C63\" /><br /><br /><p>Patients who use mobile applications to manage medical conditions including depression and chronic pain might assume the apps have been evaluated by regulatory agencies to be safe and effective. But that isn\u2019t necessarily the case.</p><p>Most of the more than 55,000 medical apps that claim to diagnose or treat a condition\u2014or ones that provide clinical decision support, known as \u201ctherapeutic\u201d apps\u2014have never been assessed by any trusted neutral bodies or regulatory agencies to evaluate them for technical soundness, ethical design, or clinical benefit. The apps often don\u2019t comply with regional data security and privacy laws to protect people\u2019s sensitive health information.</p><p>Medical apps differ from traditional wellness apps, which provide users with insights into becoming healthier by, for example, tracking fitness activities, monitoring blood pressure, and analyzing sleep patterns.</p><p>There is no reliable way to verify that therapeutic apps deliver the results they indicate. To help ensure such apps are credible, the <a href=\"https://standards.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Standards Association</a> (IEEE SA) recently launched the <a href=\"https://standards.ieee.org/products-programs/icap/mobile-health-app-registry/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Global Medical Mobile App Assessment and Registry</a>. The publicly searchable directory is designed to list apps that have been vetted by experts across several criteria including technical soundness, ethical design, compliance with data security and privacy regulations, and clinical efficacy, which is evidence of a clinical benefit for the patient.</p><p>\u201cPatients, clinicians, payers, and health care systems often struggle to distinguish clinically meaningful therapeutic apps from those that are simply well-marketed,\u201d says IEEE Senior Member <a href=\"https://research.bidmc.org/yuriquintana\" rel=\"noopener noreferrer\" target=\"_blank\">Yuri Quintana</a>, chair of the assessment and registry program. He is chief of the <a href=\"https://bidmc.org/departments-divisions/medicine/clinical-informatics\" rel=\"noopener noreferrer\" target=\"_blank\">clinical informatics division</a> at <a href=\"https://bidmc.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Beth Israel Deaconess Medical Center</a>, in Boston. \u201cOur goal is to establish a standardized review method using criteria developed by experts.\u201d</p><h2>Why regulation is lacking</h2><p>Because the apps are intended for medical use without being part of a medical implement, they fall under the designation of <a href=\"https://www.fda.gov/medical-devices/cdrh-international-affairs/international-medical-device-regulators-forum-imdrf\" rel=\"noopener noreferrer\" target=\"_blank\">software as a medical device</a> (SaMD), according to the <a href=\"https://www.fda.gov/medical-devices/cdrh-international-affairs/international-medical-device-regulators-forum-imdrf\" rel=\"noopener noreferrer\" target=\"_blank\">International Medical Device Regulators Forum</a>. SaMD is supposed to be regulated by public health agencies such as the U.S. <a href=\"https://www.fda.gov/\" rel=\"noopener noreferrer\" target=\"_blank\">Food and Drug Administration</a>, but the apps have developed and grown in popularity so quickly that regulators haven\u2019t been able to keep up, Quintana says. Some companies have received approval, but most have not, he says.</p><p>Many users are unaware of the regulatory gap, he says.</p><p>\u201cSeeing an app from a well-known company often creates the impression that it has been meaningfully vetted for safety and efficacy, even when that is not the case,\u201d he says.</p><p>Some companies are using deceptive advertising to sell their product, he adds. Marketing materials might claim that all of a company\u2019s health apps are certified, even though only one app has been approved by a regulatory body to treat a particular condition. Or the verbiage might imply the company has clinical evidence proving its application works, even though the app has never been tested independently.</p><p>Another concern is that updated apps aren\u2019t being vetted, says <a href=\"https://www.linkedin.com/in/mpalombini/\" rel=\"noopener noreferrer\" target=\"_blank\">Maria Palombini</a>, IEEE SA\u2019s director of health care and life sciences global practice lead.</p><p>\u201cThe original app might have received approval from a regulatory agency, but not the updated version,\u201d Palombini says. \u201cThere could have been significant changes from the original.\u201d</p><p>\u201cNot every medical-related app triggers the same regulatory classification or review across jurisdictions,\u201d Quintana adds. \u201cThat leaves a large gray zone of clinically relevant but lower-risk apps that haven\u2019t undergone an independent assessment. The IEEE registry was created to help fill these gaps.</p><p>\u201cIEEE is the best organization to address this problem because this is fundamentally a standards, trust, interoperability, and conformity assessment challenge,\u201d he says. IEEE \u201cis the world\u2019s largest technical professional organization, with deep expertise in developing globally recognized standards including in <a href=\"https://spectrum.ieee.org/ieee-standard-biomedical-devices-data\" target=\"_self\">health care</a>, <a href=\"https://standards.ieee.org/initiatives/cybersecurity-standards-projects/\" rel=\"noopener noreferrer\" target=\"_blank\">cybersecurity</a>, <a href=\"https://spectrum.ieee.org/two-new-ai-ethics-certifications\" target=\"_self\">AI ethics</a>, and <a href=\"https://standards.ieee.org/ieee/1547/5915/\" rel=\"noopener noreferrer\" target=\"_blank\">interoperability</a>.\u201d</p><p>\u201cThrough the <a href=\"https://standards.ieee.org/products-programs/icap/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Conformity Assessment Program</a>, we already run rigorous assessment and registry programs,\u201d Palombini says. \u201cOur neutral, consensus-driven, multidisciplinary approach\u2014bringing together clinicians, regulators, developers, and ethicists without commercial bias\u2014makes IEEE uniquely positioned to create trustworthy global guardrails that can scale across jurisdictions and support regulatory harmonization.\u201d</p><h2>How the registry works</h2><p>The assessment framework was developed by a multidisciplinary group of 35 volunteer experts from 10 countries, Quintana says. The panel includes academics, AI experts, app developers, clinicians, ethicists, mental health experts, patient advocates, regulators, researchers, technologists, and those who assess safety in health care.</p><p>The registry is for any app used for clinical care or therapeutics that claims to demonstrate a medical benefit. That includes apps designed for cardiology, diabetes, mental health, neurology, oncology, rehabilitation, and respiratory diseases, Quintana says.</p><p>Initially, he says, the focus will be on apps that aim to treat mental health conditions, given the large number of offerings in that area and the registry committee\u2019s expertise.</p><p>The submission of apps is voluntary. There is no government mandate that requires a company to use the IEEE registry.</p><p>The products will be evaluated against about 150 consensus-based criteria across three major areas: </p><ul><li><strong>Clinical efficacy</strong> including therapeutic effectiveness, any sustained benefits, risk management, comparison to standard care, user engagement, and real clinical value.</li><li><strong>Technical soundness</strong> including accessibility, privacy and security, error handling, interoperability, AI governance, usability, and operational quality.</li><li><strong>Ethical design</strong> including bias prevention, patient consent, data governance, conflict-of-interest transparency, responsible use of AI and large language models, and prioritization of public health benefits.</li></ul><p>IEEE charges a nonrefundable submission fee that covers the cost of the assessment plus the registry\u2019s annual subscription for the first year.</p><p>Developers first must demonstrate they are a legally established entity before they can complete the <a href=\"https://forms.zohopublic.com/healthappregistryie1/form/AppPublisherRegistrationForm/formperma/vKV62XuzwMV6hoOZnUv3QiFo8BDLpUSFp2CZlOOIOyM\" rel=\"noopener noreferrer\" target=\"_blank\">app publisher registration form</a> and then submit documentation and attestations about the product.</p><p>The IEEE review of an app is estimated to take six to eight weeks, Palombini says. The assessment results will be privately shared with the app publisher, she says, and to be listed in the registry, an app must achieve more than 85 percent compliance in each category.</p><p>Upgraded apps must be submitted and reassessed, Palombini says. Similar to how users are notified when an app on their smart devices has , the registry will be notified when listed apps have a new update available, she says.</p><p>Applicants who do not pass the assessment are to receive feedback explaining why. They will be given an opportunity to make changes or provide additional documentation, Palombini says.</p><p>\u201cIt\u2019s a pretty methodological process, with checks and balances,\u201d Quintana says. \u201cWe\u2019re being very transparent about the process.\u201d</p><p>Approved apps added to the registry receive an IEEE certification badge and submission identifier, which the company can display on its website, app store listings, and marketing materials.</p><p>\u201cThe badge serves as visible proof that the app has met the independent, consensus-based assessment for clinical value, technical robustness, and ethical design,\u201d Quintana says.</p><p>The registry will be publicly available at no cost, he says.</p><p>Patients and families seeking safe, trustworthy apps\u2014and payers and insurers evaluating reimbursement potential\u2014will find the registry helpful, he says.</p><p>The <a href=\"https://forms.zohopublic.com/healthappregistryie1/form/AppPublisherRegistrationForm/formperma/vKV62XuzwMV6hoOZnUv3QiFo8BDLpUSFp2CZlOOIOyM\" rel=\"noopener noreferrer\" target=\"_blank\">application website</a> is open. The public registry page does not yet list a specific count of approved apps because assessments are ongoing. Approved apps and their unique identifiers are to be published when the initial reviews are completed.</p><p>To learn more, you can watch a <a href=\"https://engagestandards.ieee.org/medical-app-registry-webinar.html?_gl=1*1bfk6ug*_gcl_au*MTcwMjc4NjczMy4xNzc2Mjc4MzQy*_ga*MTE2MjkxMjYxMC4xNzc2Mjc4MzQy*_ga_XDL2ME6570*czE3NzgwOTUwNTIkbzIzJGcxJHQxNzc4MDk1ODUzJGo2MCRsMCRoMA..\" rel=\"noopener noreferrer\" target=\"_blank\">webinar</a> recorded in March.</p>The assessment framework that underpins the registry is supporting the formal recognition of <a href=\"https://standards.ieee.org/products-programs/icap/mobile-health-app-registry/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE P3962 Standard for Criteria Assessment Framework f</a>"
       },
       {
+        "id": "95cef2cf6ebeb0a2",
+        "title": "The Download: keeping up with AI, and the future of IVF",
+        "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 27 May 2026 12:10:00 +0000",
+        "published_dt": "2026-05-27T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Stay on top of what\u2019s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial intelligence&#8230;"
+      },
+      {
         "id": "b6c6bab37df3b7db",
         "title": "IEEE Program Aims to Connect the Billions Who Are Still Offline",
         "url": "https://spectrum.ieee.org/ieee-connect-the-unconnected",
@@ -718,15 +718,6 @@
         "published": "Tue, 12 May 2026 18:00:02 +0000",
         "published_dt": "2026-05-12T18:00:02+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-small-group-smiling-and-standing-behind-a-table-decorated-with-a-cloth-that-reads-ieee-5g-6g-innovation-testbed.jpg?id=66723229&amp;width=1245&amp;height=700&amp;coordinates=0%2C156%2C0%2C157\" /><br /><br /><p>Given how integral the Internet has become to everyday tasks such as shopping, paying bills, and holding virtual meetings, it\u2019s interesting that nearly 30 percent of the global population still has no access to it. More than 2 billion people are still offline, according to a <a href=\"https://www.itu.int/en/mediacentre/Pages/PR-2025-11-17-Facts-and-Figures.aspx\" rel=\"noopener noreferrer\" target=\"_blank\">report</a> released in November by the <a href=\"https://www.itu.int/\" rel=\"noopener noreferrer\" target=\"_blank\">International Telecommunication Union</a>.</p><p>More and more people are being connected, though, thanks to <a href=\"https://futurenetworks.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Future Networks</a>\u2019 <a href=\"https://ctu.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Connecting the Unconnected</a> (CTU) and similar programs. Since 2021, the technical community has been working to accelerate the development, standardization, and deployment of 5G, 6G, and future generations.</p><p>Every year, CTU holds a worldwide competition to seek out innovators who are in the early stages of developing technologies or applications to provide greater access. It also holds an annual <a href=\"https://ctu.ieee.org/summit/2025-ctu-summit/\" rel=\"noopener noreferrer\" target=\"_blank\">summit</a> that brings together experts, community leaders, and other interested parties to discuss strategies to expand access and foster digital inclusion.</p><p>CTU expanded in several ways last year. It launched regional summits to focus on local connectivity issues, organized community-focused events, and established an expanded mentorship program to further support contest winners and the next generation of technological innovators impacting humanity. The program also partners with the <a href=\"https://standards.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Standards Association</a> (IEEE SA) to develop guidelines for some of the submitted innovations.</p><p>\u201cIEEE Future Networks has created a community to bring all these initiatives working on digital connectivity together in a single platform and leverage the IEEE brand to help raise the visibility of their work,\u201d says IEEE Life Fellow <a href=\"https://www.linkedin.com/in/sudhir-dixit-b6592355/\" rel=\"noopener noreferrer\" target=\"_blank\">Sudhir Dixit,</a> a CTU cochair and a <a href=\"https://basicinternet.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Basic Internet Foundation</a> cofounder, which also works to expand Internet access.</p><h2>A contest for new connectivity methods</h2><p>The CTU challenge, launched in 2021, typically receives 200 to 300 submissions each year, Dixit says. Last year 245 projects from 52 countries were submitted. Participants include academics, nonprofit organizations, startups, and students.</p><p>Projects can be entered into one of three categories. The Technology Applications category is for new connectivity methods or innovations that broaden <a href=\"https://spectrum.ieee.org/3-ways-to-bridge-the-digital-divide\" target=\"_blank\">broadband access</a>. Those who improve the affordability of Internet services can enter the Business Model category. The Community Enablement category is for strategies that promote public broadband adoption.</p><p>After selecting a category, entrants choose between two tracks based on their project\u2019s maturity. The proof-of-concept route is for early-stage but functional technology that has already produced results. The conceptual path is for projects in the theoretical phase that have not undergone full testing.</p><p class=\"pull-quote\">\u201cIEEE Future Networks has created a community to bring all these initiatives working on digital connectivity together in a single platform and leverage the IEEE brand to help raise the visibility of their work.\u201d <strong>\u2014Sudhir Dixit, Connecting the Unconnected cochair</strong></p><p>Last year\u2019s challenge submission period was from March to June, with judging phases from June through November. The <a href=\"https://ctu.ieee.org/challenge/2025-ctu-challenge-winners/\" rel=\"noopener noreferrer\" target=\"_blank\">20 winners</a> presented their solutions in December at a virtual <a href=\"https://ctu.ieee.org/summit/2025-ctu-summit/2025-ctu-summit-winners/\" rel=\"noopener noreferrer\" target=\"_blank\">Winners Summit</a>. Fourteen projects received prize money, ranging from US $500 to $2,500. Six finalists earned an honorable mention at the summit.</p><p>The awards amounts have varied over the years, based on the sponsorship.</p><p>Among the winners were a <a href=\"https://ctu.ieee.org/wp-content/uploads/2025/12/2025-IEEE-CTUC-Best-C.png\" rel=\"noopener noreferrer\" target=\"_blank\">solar-powered community broadband network in Tanzania</a>, a low-cost method for accessing the Internet that <a href=\"https://ctu.ieee.org/wp-content/uploads/2025/12/2025-IEEE-CTUC-2nd-TA-POC.png\" rel=\"noopener noreferrer\" target=\"_blank\">uses FM radio and a short message service (SMS)</a>, and a <a href=\"https://ctu.ieee.org/wp-content/uploads/2025/12/2025-IEEE-CTUC-1st-TA-C.png\" rel=\"noopener noreferrer\" target=\"_blank\">strategy for utilizing India\u2019s rural broadband infrastructure</a> to deliver medical services to people living in isolated, tribal, and other underserved regions.</p><p>\u201cOur job is to help further develop the technology, look for gaps, and see if it is good enough to be applied to rural villages, like those in Africa and India,\u201d says IEEE Fellow <a href=\"https://www.linkedin.com/in/dr-ashutosh-dutta-a60a656/\" rel=\"noopener noreferrer\" target=\"_blank\">Ashutosh Dutta</a>, who is a CTU cochair and a professor at <a href=\"https://www.jhu.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">Johns Hopkins University</a>, in Baltimore. \u201cThe idea behind the contest is to make sure the technology actually gets implemented at the grassroots level and is being used by the local community.\u201d</p><p>This year\u2019s challenge submission period runs until <a href=\"https://ctu.ieee.org/challenge/rules-and-expectations-2026/\" rel=\"noopener noreferrer\" target=\"_blank\">19 June</a>, with judging phases from July through October.</p><p class=\"shortcode-media shortcode-media-youtube\"> <span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span><small class=\"image-media media-caption\">The finalists of the 2025 IEEE Connect the Unconnected challenge describe their projects.</small><small class=\"image-media media-photo-credit\">IEEE Future Networks</small></p><h2>Local connectivity discussions</h2><p>The CTU program hosted three regional <a href=\"https://ctu.ieee.org/summit/2025-ctu-summit/\" rel=\"noopener noreferrer\" target=\"_blank\">summits</a> last year. The <a href=\"https://ctu.ieee.org/summit/2025-ctu-summit/2025-ctu-summit-na/\" rel=\"noopener noreferrer\" target=\"_blank\">North American event</a> was held in September in Washington, D.C. In November, the <a href=\"https://ctu.ieee.org/summit/2025-ctu-summit/2025-ctu-summit-apac/\" rel=\"noopener noreferrer\" target=\"_blank\">Global/Asia-Pacific meeting</a> took place in Bangalore, India; it was co-located with the <a href=\"https://fnwf2025.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Future Networks World Forum</a>. The <a href=\"https://ctu.ieee.org/summit/2025-ctu-summit/2025-ctu-summit-emea/\" rel=\"noopener noreferrer\" target=\"_blank\">Europe, Middle East, and Africa summit</a> also was held in November, in Abuja, Nigeria.</p><p>Topics discussed at the summits included infrastructure solutions for universal connectivity; sustainable business models; scaling homegrown technologies; and policy, regulation, and financing issues.</p><p>As of press time, the dates for this year\u2019s regional summits had not been announced.</p><h2>Community-focused events</h2><p>To help bridge the gap between ideas and their deployment, the <a href=\"https://ctu.ieee.org/summit/2025-ctu-summit/2025-ctu-summit-apac/\" rel=\"noopener noreferrer\" target=\"_blank\">Connect a Community event</a> was established to demonstrate how some new technologies might benefit people. The inaugural event was held in November in Bengaluru, India. During the daylong program, 10 of the challenge winners demonstrated their connectivity solutions to villagers from seven rural communities.</p><p>Dutta credits IEEE Life Fellow <a href=\"https://www.linkedin.com/in/rakesh-kumar-8192192/\" rel=\"noopener noreferrer\" target=\"_blank\">Rakesh Kumar</a> with devising the event. Kumar chairs <a href=\"https://futuredirections.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Future Directions</a>, which was where Future Networks got its start in 2017 as the 5G Initiative.</p><p>\u201cKumar wants to ensure the winning technologies are going to be useful for the community,\u201d Dutta says.</p><h2>Providing entrepreneurs with business skills</h2><p>Dixit says the Future Networks team believed that simply conducting a competition and distributing prizes wasn\u2019t enough.</p><p>\u201cWe wanted to follow up with the winners, monitor their progress, and help them turn their ideas into a business,\u201d he says.</p><p>To accomplish that, IEEE launched the <a href=\"https://fnem.futurenetworks.ieee.org/get-involved/\" rel=\"noopener noreferrer\" target=\"_blank\">Empowerment Through Mentorship</a> program, in which budding entrepreneurs are paired with industry leaders and experienced mentors who provide them with 1,000 days of guidance, coaching them on scaling up their business.</p><p>\u201cWe launched the mentorship program to further the cause,\u201d Dixit says. \u201cThese people may be good at developing technology, but they don\u2019t know the marketing challenges, how to raise money, and other factors.\u201d</p><p>The <a href=\"https://www.lemelson.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Lemelson Foundation</a>, an organization in Portland, Ore., that partners with IEEE, collaborated on the mentorship program. The foundation\u2019s philanthropic strategy is to cultivate a robust ecosystem for entrepreneurs in East Africa, India, and the United States. It does so by providing the entrepreneurs with tools including financing options and access to communities that share their passion.</p><p>The foundation chose to partner with IEEE \u201cbecause of its powerful international network and focus on electrical engineering, which is a critical element of communications and energy infrastructure globally,\u201d says <a href=\"https://www.lemelson.org/biographies/kory-murphy-2/\" rel=\"noopener noreferrer\" target=\"_blank\">Kory Murphy</a>, Lemelson\u2019s program officer for <a href=\"https://www.lemelson.org/funding/entrepreneurship/\" rel=\"noopener noreferrer\" target=\"_blank\">U.S. invention and entrepreneurship</a>.</p><p>\u201cOther factors include IEEE\u2019s focus on nontraditional or disadvantaged areas in India,\u201d Murphy says, \u201cand its recognition that mentorship is critical for the successful deployment of new technologies.\u201d</p><p>IEEE began an early pilot project in 2023 with support of a grant from the Lemelson Foundation, to determine if a sustained entrepreneurship mentorship program was valuable and necessary, he says. It then conducted a survey through 2024 to collect information to better understand the needs of stakeholders, mentors, and entrepreneurs in hard-to-reach areas in India. While the early pilot program was restricted to that country, its intent was to learn from the experience and share the findings globally, he says.</p><p class=\"pull-quote\">\u201cOur job is to help further develop the technology, look for gaps, and see if it is good enough to be applied to rural villages, like those in Africa and India.\u201d <strong>\u2014Ashutosh Dutta, Connecting the Unconnected cochair</strong> </p><p>\u201cThe foundation\u2019s involvement was aimed at testing certain activities, partnership strategies, and understanding the budgetary requirements for a prepilot program,\u201d he says. \u201cThe primary goal of the foundation is to enable conditions for innovation to occur within regional systems, especially addressing the opportunity for sustained, systematic, and relational mentorship in technology innovation.\u201d</p><p>The Empowerment Through Mentorship program is structured into three tiers. One focuses on individuals and their needs, the program/technical level focuses on the invention, and the venture level guides participants from the initial concept through product testing and validation. Within each track, participants engage in activities such as networking, securing financial support, and pitching their innovations, Murphy says.</p><p>\u201cThe 1,000-day approach reflects the belief that it requires a long period of time to coach and support those who traditionally are excluded,\u201d he says.</p><p>CTU mentors can be IEEE members or nonmembers who are successful entrepreneurs and own small or large companies, Dixit says. They also can work in academia.</p><p>\u201cThey need to be passionate about training and mentoring other people,\u201d Dixit says. \u201cWe have created a curriculum that covers topics such as ways to get financing from investors and how to turn ideas into a profitable business. It\u2019s not the technology that will make the product successful; it\u2019s everything else that goes into it.\u201d</p><h2>Rural broadband architecture standards</h2><p>To determine whether any of the challenge\u2019s submitted projects have the potential to become a standard, the CTU working group collaborates with the <a href=\"https://standards.ieee.org/industry-connections/activities/6g-rural-connectivity-and-intelligent-village/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE SA Industry Connections</a> program\u2019s <a href=\"https://standards.ieee.org/industry-connections/activities/6g-rural-connectivity-and-intelligent-village/\" rel=\"noopener noreferrer\" target=\"_blank\">6G Rural Connectivity and Intelligent Village activity</a>. Projects considered for standards do not have to be winners. Any project that has successfully passed the first phase, completed the second-phase requirements, and requested a review may be considered.</p><p>Typically, about half of the submitted projects are reviewed for possible standard implications, Dutta says.</p><p>\u201cWe selected about 60 submissions that could be potentially standardized,\u201d he says. \u201cOut of those, we work with IEEE SA\u2019s rapid reactive standards activity group to narrow them down to five or 10 that can be potentially standardized.</p><p>\u201cThe CTU program is not only about developing a technology or implementing it, but also standardizing it so that people around the world can use the standard.\u201d</p><p>One such project led to the development of IEEE P1962, \u201c<a href=\"https://standards.ieee.org/ieee/1962/11912/\" rel=\"noopener noreferrer\" target=\"_blank\">Standard for Providing Broadband Connectivity to Rural Infrastructure by Utilizing Solar Panels as Optical Communication Receivers</a>.\u201d It specifies an architecture for an optical receiver that uses solar panels and associated circuitry to provide energy-efficient, affordable, and high-speed optical wireless communication.</p><p>\u201cCTU has created a platform for the world to bring their ideas to one single place where people can talk to each other about them,\u201d Dixit says. \u201cWe are a unifying force.</p><p>We bring these many dimensions together to connect the unconnected.\u201d</p><h3>CTU Challenge Winner: Community Radio Bolo</h3><br /><p>The <a href=\"https://ctu.ieee.org/\" target=\"_blank\">Connecting the Unconnected</a> program offers contestants benefits that extend beyond the recognition and rewards. One participant who benefited is <a href=\"https://ctu.ieee.org/blog/2023/03/10/qa-with-the-winners-ritu-srivastava/\" target=\"_blank\">Ritu Srivastava</a>, a telecommunications engineer and IEEE member. She placed first in the <a href=\"https://ctu.ieee.org/challenge/2022-ctu-challenge-2/\" target=\"_blank\">2022 technical concept category</a> for her project, <a href=\"https://ctu.ieee.org/challenge/2022-ctu-challenge-2/,\" target=\"_blank\">Community Radio Bolo</a> (CR Bolo). The verb <em>bolo</em> means <em>speak</em> in Hindi.</p><p>Internet services in India\u2019s rural areas are either unavailable or have spotty coverage. People there rely on community radio stations to get news about local events and issues. There are about 300 such stations in India, Srivastava says.</p><p>To provide broadband Internet access in the Bhadrak district of Odisha, India, she developed a cost-effective hybrid network that uses an online and offline <a href=\"https://spectrum.ieee.org/mesh-network-interoperable-thread\" target=\"_self\">wireless mesh network</a> installed on the tower of community radio station <a href=\"https://onlineradiohub.com/radio-bulbul-s1511/\" target=\"_blank\">Radio Bulbul</a>. Several transceiver locations, known as access points, are located at schools and community centers that are within a 5- to 7-kilometer radius, connecting them with Radio Bulbul.</p><p>CR Bolo includes a plug-and-play interactive voice response system that is coupled with the hybrid wireless network. The automated telephony technology routes callers using voice commands or a telephone\u2019s keypad to the appropriate department. The system also has a direct-to-consumer platform where manufacturers sell their products through websites or mobile apps.</p><p>\u201cCR Bolo is a unique method of leveraging rural traditional technologies and infrastructure combined with modern technology to provide meaningful access to communities,\u201d Srivastava says, \u201cimproving livelihood opportunities and creating social and economic viability for CR stations.\u201d</p><p>She says she plans to expand the project to other rural communities in India. She will incorporate a large language model and offer a learning management system to deliver training programs and educational courses, she says.</p><p>Winning CTU inspired her to become a more active IEEE volunteer, she says. She is working with the <a href=\"https://standards.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Standards Association</a> to develop guidelines for the architecture of broadband technology used in rural areas.</p><p>Because of her entrepreneurial experience, CTU hired her in 2023 to assist with the challenge and the <a href=\"https://fnem.futurenetworks.ieee.org/get-involved/\" rel=\"noopener noreferrer\" target=\"_blank\">Empowerment Through Mentorship</a> program.</p><p>Srivastava is a director at <a href=\"https://www.linkedin.com/company/jadeitesolutionspvtltd/about/\" rel=\"noopener noreferrer\" target=\"_blank\">Jadeite Solutions</a> in New Delhi. The consulting company offers nonprofit organizations that are developing socioeconomic programs with project evaluation, impact assessment, financial reviews, and similar services.</p><p>She credits CTU with giving her and her community-centered model more exposure: \u201cThe CTU challenge has given me a lot of other opportunities in terms of networking, funding resources, publishing my research in IEEE journals, and presenting at national and international conferences.\u201d</p>"
-      },
-      {
-        "id": "e46d2f450bc8eed1",
-        "title": "Meet NASA Low Outgassing Standards With Adhesives for Aerospace and Optical Systems",
-        "url": "https://spectrum.ieee.org/adhesive-outgassing-nasa-standards",
-        "source": "IEEE Spectrum",
-        "published": "Tue, 26 May 2026 10:00:01 +0000",
-        "published_dt": "2026-05-26T10:00:01+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/illustration-of-molecules-leaving-a-surface-as-it-transforms-into-an-ordered-graphene-lattice.jpg?id=66678225&amp;width=1245&amp;height=700&amp;coordinates=15%2C0%2C15%2C0\" /><br /><br /><p><span><em>This sponsored article is brought to you by <a href=\"https://www.masterbond.com/\" target=\"_blank\">Master Bond</a>.</em></span></p><p><span>Outgassing is the release of volatile substances from a cured adhesive over time. These released materials, which may include residual solvents, unreacted monomers, or other chemical species, can deposit on nearby surfaces, causing contamination that interferes with sensitive components.</span></p><h2>What Is Outgassing and How Is It Measured?</h2><p>The industry standard for measuring outgassing is <a href=\"https://www.masterbond.com/certifications/nasa-low-outgassing\" target=\"_blank\">ASTM E595, developed by NASA</a>. This test exposes a cured sample to 125 \u00b0C at high vacuum (10\u207b\u2075 to 10\u207b\u2076 torr) for 24 hours, measuring Total Mass Loss (TML) and Collected Volatile Condensable Materials (CVCM). To meet NASA low outgassing requirements, materials must exhibit less than 1 percent TML and less than 0.1 percent CVCM.</p><p class=\"pull-quote\">Optical assemblies need contamination-free bonding and prevention of fogging the optics to maintain clarity. High-vacuum scientific equipment, semiconductor manufacturing tools, and aerospace electronics also demand low outgassing materials.</p><h2>Key Applications</h2><p><a href=\"https://www.masterbond.com/properties/low-outgassing-adhesives\" target=\"_blank\">Low outgassing adhesives</a> are essential wherever contamination could compromise performance and this is particularly relevant for space and satellite systems. <a href=\"https://www.masterbond.com/industries/adhesives-sealants-and-coatings-optical-industry\" rel=\"noopener noreferrer\" target=\"_blank\">Optical assemblies</a>, including cameras, telescopes, and laser systems, need contamination-free bonding and prevention of fogging the optics to maintain clarity. </p><p>High-vacuum scientific equipment, semiconductor manufacturing tools, and aerospace electronics also demand low outgassing materials. Even terrestrial optical devices benefit from reduced outgassing to ensure long-term reliability.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Hand brushing adhesive onto a clear optical prism beside three similar glass pieces\" class=\"rm-shortcode\" id=\"b1d25\" src=\"https://spectrum.ieee.org/media-library/hand-brushing-adhesive-onto-a-clear-optical-prism-beside-three-similar-glass-pieces.jpg?id=66678226&amp;width=980\" /> <small class=\"image-media media-caption\">EP30-2 is a versatile system can be used in a variety of applications in aerospace, electronic, optical and specialty OEM industries, especially when optical clarity and low outgassing are important criteria.</small><small class=\"image-media media-photo-credit\">Master Bond</small></p><h2>Ensuring Low Outgassing Performance Through Proper Handling</h2><p>Achieving specified outgassing performance requires attention to storage, mixing, and curing. For two-part systems, use the correct mix ratio and mix thoroughly to ensure complete reaction. Follow recommended cure schedules \u2014 adding heat, even at modest temperatures of 150-200 \u00b0F, significantly improves cross-linking and reduces outgassing. For UV-curable adhesives, ensure complete cure by using the correct lamp wavelength (typically 365 nm), adequate intensity, and proper exposure time with no shadowed areas.</p><h2>Troubleshooting Outgassing Issues</h2><p>If contamination appears on optical surfaces or outgassing test results are higher than expected, an incomplete cure might be one of the root causes. The first step is to verify that the adhesive has fully hardened to its specified Shore hardness. The next step is to consider adding or extending heat cure to improve cross-linking.</p><h2>Master Bond Product Recommendations</h2><p>Master Bond offers a range of adhesives meeting NASA low outgassing requirements. <a href=\"https://www.masterbond.com/tds/ep30-2\" target=\"_blank\">EP30-2</a> and <a href=\"https://www.masterbond.com/tds/ep21tcht-1\" rel=\"noopener noreferrer\" target=\"_blank\">EP21TCHT-1</a> are some examples of two-part epoxy systems that have been successfully deployed in demanding vacuum applications, including ultra-high vacuum environments. </p><p>For applications requiring UV cure, Master Bond provides specialty UV formulations such as <a href=\"https://www.masterbond.com/tds/uv16\" rel=\"noopener noreferrer\" target=\"_blank\">UV16</a> meeting ASTM E595, as well as dual-cure systems (UV plus heat) such as <a href=\"https://www.masterbond.com/tds/uv22dc80-10f\" rel=\"noopener noreferrer\" target=\"_blank\">UV22DC80-10F</a> for assemblies where shadows prevent complete UV exposure. These dual-cure products initiate with UV light and complete curing with heat as low as 180 \u00b0F (80 \u00b0C).</p>"
       },
       {
         "id": "80bcceddaabc093d",
@@ -756,31 +747,13 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-young-south-asian-woman-explaining-detailed-computer-code-to-a-colleague-using-an-office-presentation-screen.jpg?id=66689798&amp;width=1245&amp;height=700&amp;coordinates=0%2C157%2C0%2C157\" /><br /><br /><p>Cybersecurity consultants have never been more in demand. Information security analyst roles are projected to grow <a href=\"https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm\" rel=\"noopener noreferrer\" target=\"_blank\">nearly 30 percent between now and 2034</a>, according to the U.S. <a href=\"https://www.bls.gov/\" rel=\"noopener noreferrer\" target=\"_blank\">Bureau of Labor Statistics</a>. More than <a href=\"https://www.statista.com/forecasts/1485031/cyberattacks-annual-worldwide/\" rel=\"noopener noreferrer\" target=\"_blank\">15 million cybercrime incidents</a> occurred worldwide in 2024, <a href=\"https://www.statista.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Statista</a> reported.</p><p>Data breaches are costly and pose direct safety risks. Statista reported that more than <a href=\"https://www.statista.com/study/203640/cybercrime-worldwide/\" rel=\"noopener noreferrer\" target=\"_blank\">US $10 trillion is spent annually repairing the damage</a> caused by cybercrime, <a href=\"https://www.statista.com/statistics/184083/commonly-reported-types-of-cyber-crime-us/\" rel=\"noopener noreferrer\" target=\"_blank\">most commonly</a> phishing, spoofing, extortion, and data breaches. In one example in the United States, <a href=\"https://spectrum.ieee.org/connected-vehicle-risks\" target=\"_self\">breathalyzer devices</a> installed in vehicles became disabled, leaving hundreds of drivers stranded, as detailed in an <a href=\"https://spectrum.ieee.org/\" target=\"_self\"><em><em>IEEE Spectrum</em></em> article</a>.</p><p>To help you acquire the skills you need to distinguish yourself from other cybersecurity job candidates, the <a href=\"https://www.computer.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Computer Society</a> offers a \u201c<a href=\"https://join.computer.org/become-a-cybersecurity-consultant/?Campaign_ID=103\" rel=\"noopener noreferrer\" target=\"_blank\">What Makes a Great Cybersecurity Consultant</a>\u201d guide. The 23-page PDF includes hard and soft skills you need, a list of certifications to pursue, and key IEEE cybersecurity conferences for staying updated on developments in the field.</p><p>The guide includes advice from two cybersecurity experts. <a href=\"https://www.linkedin.com/in/nullsession/\" rel=\"noopener noreferrer\" target=\"_blank\">John D. Johnson</a>, an IEEE senior member, is the founder and CEO of <a href=\"https://www.linkedin.com/company/aligned-security/\" rel=\"noopener noreferrer\" target=\"_blank\">Aligned Security</a> in Bettendorf, Iowa. <a href=\"https://webdiis.unizar.es/~ricardo/\" rel=\"noopener noreferrer\" target=\"_blank\">Ricardo J. Rodriguez</a> is an associate professor of computer science and systems engineering at the <a href=\"https://www.unizar.es/\" rel=\"noopener noreferrer\" target=\"_blank\">Universidad de Zaragoza</a>, in Spain, who researches digital forensics and other cybersecurity topics.</p><p>\u201cTechnology, remote work, and a shortage of skilled workers make this the ideal time to consider becoming a cybersecurity consultant,\u201d Johnson says in the guide. \u201cConsulting can give you the flexibility, variety, and control over where you want your career to go.\u201d</p><h2>Hard and soft skills</h2><p>At a minimum, cybersecurity professionals should have a general understanding of IT including operating systems, communication protocols, network architecture, and <a href=\"https://spectrum.ieee.org/top-programming-languages-2025\" target=\"_self\">programming languages such as C++, Java, and Python</a>. They also should be well-versed in security auditing, firewall management, penetration testing, and encryption technologies.</p><p>The principles of ethical hacking and coding would be handy as well.</p><p>\u201cTo be able to defend a system well, you first have to know how to attack it,\u201d Rodriguez says.</p><p>The guide explains that there are now more technologies available to help cybersecurity consultants monitor threats and protect systems. They include <a href=\"https://www.ibm.com/think/topics/security-orchestration-automation-response\" rel=\"noopener noreferrer\" target=\"_blank\">security orchestration, automation, and response</a> (SOAR) platforms, which automate workflows to collect security data, streamline incident response, and automate repetitive tasks.</p><p>Rodriguez points to advances in <a href=\"https://spectrum.ieee.org/the-fight-over-encrypted-dns-boils-over\" target=\"_self\">domain name system security extensions</a> (DNSSEC), which uses digital signatures based on public-key cryptography to strengthen the authentication of the <a href=\"https://spectrum.ieee.org/fresh-phish\" target=\"_self\">domain name system</a>. By validating data authenticity, DNSSEC safeguards against attacks such as DNS spoofing and guarantees that users connect to the correct IP address.</p><p>Technologies such as <a href=\"https://spectrum.ieee.org/topic/artificial-intelligence/\" target=\"_self\">artificial intelligence</a>, <a href=\"https://spectrum.ieee.org/tag/blockchain\" target=\"_self\">blockchain</a>, and <a href=\"https://spectrum.ieee.org/quantum-safe-crypto\" target=\"_self\">quantum computing</a> will increasingly be used to help thwart cyberattacks, the guide suggests. AI is expected to enhance the quality of data analysis, Rodriguez says.</p><p>Although hard skills are important, soft skills are just as crucial, according to the guide. Critical thinking, project management, flexibility, teamwork, and organizational and <a href=\"https://spectrum.ieee.org/5-tips-technical-presentations\" target=\"_self\">presentation skills</a> are essential.</p><p>It\u2019s not enough to be good at analyzing security vulnerabilities; you also need to clearly describe the situation and explain possible solutions.</p><p>\u201cSoft skills are important to achieve good team cohesion,\u201d Rodriguez says, \u201cbecause consultants often lead diverse teams from within their client\u2019s organization.\u201d</p><p>\u201cIt\u2019s essential,\u201d Johnson adds, \u201cthat you demonstrate to clients you\u2019re a team player and a capable communicator, and that you meet your commitments.\u201d</p><h2>Security certifications</h2><p>Possessing security-specific credentials is a valuable way to demonstrate your expertise to potential clients, according to the guide. Because hundreds of certifications are available, Johnson says, pinpointing the most relevant ones can be challenging. Some people focus on theoretical knowledge, while others want to cover practical applications of technology.</p><p>\u201cSurvey the industry and compare it to your skills,\u201d Johnson recommends. \u201cDecide what you want to do, and identify where you have gaps in your skills and experience.\u201d</p><p>Here are four of the nine certifications listed in the guide that are frequently cited as being important. All the providers are cybersecurity organizations.</p><ul><li><a href=\"https://www.isaca.org/credentialing/cism\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Certified information security manager.</strong></a> This globally recognized certification from the <a href=\"https://www.isaca.org/\" rel=\"noopener noreferrer\" target=\"_blank\">ISACA</a> is for professionals managing enterprise information security.</li><li><a href=\"https://www.isc2.org/certifications/ccsp\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Certified cloud security professional.</strong></a> Offered by <a href=\"https://www.isc2.org/certifications/ccsp\" rel=\"noopener noreferrer\" target=\"_blank\">ISC2</a>, this credential validates advanced technical skills in designing, managing, and securing cloud infrastructure.</li><li><a href=\"https://ethicalhacking.eccouncil.org/certified-ethical-hacker-cehv13-usa?utm_source=ecc_paid&amp;utm_medium=GooglePmax&amp;utm_campaign=ecc-usa_googlepmax_cehv13&amp;utm_source=ecc_paid&amp;utm_medium=GooglePmax&amp;utm_campaign=ecc-usa_googlepmax_cehv13&amp;utm_id=21927959183&amp;gad_source=1&amp;gad_campaignid=22071110617&amp;gbraid=0AAAAAD1MC3Kh3KdmDA1YocxnrPE7TBc3e&amp;gclid=CjwKCAjwnZfPBhAGEiwAzg-VzNdRi99sTWedxsM5rkvIDi0o-8O64x8C5dgJxLuh90A9MEx6B5nObxoC-G8QAvD_BwE\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Certified ethical hacker.</strong></a> This certification from the <a href=\"https://www.eccouncil.org/\" rel=\"noopener noreferrer\" target=\"_blank\">International Council of E-Commerce Consultants (C-Council)</a> confirms proficiency in using methods commonly employed by malicious hackers to detect vulnerabilities.</li><li><a href=\"https://www.offsec.com/blog/oscp-vs-oswe/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Offensive security certified professional.</strong></a> A hands-on, 24-hour certification exam offered by <a href=\"https://www.offsec.com/\" rel=\"noopener noreferrer\" target=\"_blank\">OffSec</a> covers practical testing skills.</li></ul><p>Additional industry-specific certifications might be required for organizations in finance, government, health care, or manufacturing.</p><p>Sound general knowledge\u2014backed by experience, training, and certification\u2014is an essential foundation for being a specialist, Johnson says.</p><h2>Conferences and networking opportunities</h2><p>Events sponsored by the IEEE Computer Society can help you learn about the latest research and advancements in cybersecurity:</p><ul><li><a href=\"https://sp2026.ieee-security.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Symposium on Security and Privacy</a><span>, from 18 to 21 May in San Francisco.<br /></span></li><li><a href=\"https://eurosp2026.ieee-security.org/\" target=\"_blank\">IEEE European Symposium on Security and Privacy</a><span>, from 6 to 10 July in Lisbon.<br /></span></li><li><a href=\"https://www.ieee-csr.org/\" target=\"_blank\">IEEE International Conference on Cyber Security and Resilience</a><span>, from 3 to 5 August in Lisbon.<br /></span></li><li><a href=\"https://secdev.ieee.org/2025/home/\" target=\"_blank\">IEEE Secure Development Conference</a><span>, from 14 to 16 October in Indianapolis.</span></li></ul><p>Conferences can give you insight into the field and let you do some networking, but it\u2019s important to network elsewhere as well, experts say. Consider joining the <a href=\"https://www.ieee-security.org/\" target=\"_blank\">IEEE Technical Community on Security and Privacy</a>, which connects experts and professionals advancing research in areas such as encryption, operating system security, and data privacy.</p><p>Learning and meeting people keeps your knowledge sharp and can lead to mentorship opportunities with established cybersecurity consultants, Johnson says.</p><h2>Other IEEE resources</h2><p>The IEEE Computer Society\u2019s <a href=\"https://www.computer.org/resources/cybersecurity#Cybersecurity\" target=\"_blank\">cybersecurity resources page</a> offers a wealth of information including fundamentals, possible career paths, and standards development. To keep you updated on trends, the society publishes <a href=\"https://www.computer.org/csdl/journal/pr\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>IEEE Transactions on Privacy</em></em></a> and the <a href=\"https://www.computer.org/csdl/magazine/sp\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>IEEE Security and Privacy</em></em></a><em> </em>magazine.</p><p>In addition to the guide, the <a href=\"https://iln.ieee.org/public/trainingcatalog.aspx\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Learning Network</a> offers <a href=\"https://iln.ieee.org/public/searchresults?q=&amp;ty=ML.BASE.DV.SearchAnyWords&amp;at=T&amp;cy=&amp;ln=&amp;CTGYLCL_CATEGORY_ID=F45DE82A63AB48B7A3AB4BEBB6F2E293\" rel=\"noopener noreferrer\" target=\"_blank\">nearly 30 courses on cybersecurity</a>. And you can find research papers in the <a href=\"https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&amp;queryText=cybersecurity\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Xplore Digital Library</a>.</p>"
       },
       {
-        "id": "91cac53862699794",
-        "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
-        "url": "https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code",
+        "id": "e46d2f450bc8eed1",
+        "title": "Meet NASA Low Outgassing Standards With Adhesives for Aerospace and Optical Systems",
+        "url": "https://spectrum.ieee.org/adhesive-outgassing-nasa-standards",
         "source": "IEEE Spectrum",
-        "published": "Thu, 30 Apr 2026 14:00:01 +0000",
-        "published_dt": "2026-04-30T14:00:01+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/illustration-of-a-castle-shaped-container-filled-with-colorful-binary-numbers.jpg?id=66656097&amp;width=1245&amp;height=700&amp;coordinates=0%2C469%2C0%2C469\" /><br /><br /><p>Transforming a newly discovered software vulnerability into a cyberattack used to take months. Today\u2014as the recent headlines over Anthropic\u2019s <a href=\"https://spectrum.ieee.org/anthropic-claude-mythos-preview-code\" target=\"_self\">Project Glasswing have shown</a>\u2014generative AI can do the job in minutes, often for less than a dollar of cloud-computing time.</p><p>But while large language models present a real cyberthreat, they also provide an opportunity to reinforce cyberdefenses. Anthropic reports its <a href=\"https://en.wikipedia.org/wiki/Claude_(language_model)#Claude_Mythos\" rel=\"noopener noreferrer\" target=\"_blank\"><span>Claude Mythos preview</span></a> model has already helped defenders preemptively discover over <a href=\"https://www.anthropic.com/glasswing\" target=\"_blank\">a thousand zero-day vulnerabilities</a>, including <a href=\"https://red.anthropic.com/2026/mythos-preview/\" target=\"_blank\">flaws in every major operating system and web browser</a>, with Anthropic <a href=\"https://www.cfr.org/articles/six-reasons-claude-mythos-is-an-inflection-point-for-ai-and-global-security\" target=\"_blank\">coordinating disclosure</a> and its efforts to patch the revealed flaws. </p><p>It is not yet clear whether AI-driven bug finding will ultimately favor attackers or defenders. But to understand how defenders can increase their odds, and perhaps hold the advantage, it helps to look at an earlier wave of automated vulnerability discovery.</p><p>In the early 2010s, a new category of software appeared that could attack programs with millions of random, malformed inputs\u2014a proverbial monkey at a typewriter, tapping on the keys until it finds a vulnerability. When such \u201cfuzzers\u201d like <a href=\"https://en.wikipedia.org/wiki/American_Fuzzy_Lop_(software)\" target=\"_blank\"><span>American Fuzzy Lop</span></a> (AFL) hit the scene, <a href=\"https://github.com/google/oss-fuzz\" target=\"_blank\">they found critical flaws in every major browser and operating system</a>.</p><p>The security community\u2019s response was instructive. Rather than panic, organizations industrialized the defense. For instance, Google built a system called <a href=\"https://github.com/google/oss-fuzz\" target=\"_blank\"><span>OSS-Fuzz</span></a> that runs fuzzers continuously, around the clock, on thousands of software projects. So software providers could catch bugs before they shipped, not after attackers found them. The expectation is that AI-driven vulnerability discovery will follow the same arc. Organizations will integrate the tools into standard development practice, run them continuously, and establish a new baseline for security.</p><p>But the analogy has a limit. Fuzzing requires significant technical expertise to set up and operate. It was a tool for specialists. An LLM, meanwhile, finds vulnerabilities with just a prompt\u2014resulting in a troubling asymmetry. Attackers no longer need to be technically sophisticated to exploit code, while robust defenses still require engineers to read, evaluate, and act on what the AI models surface. The human cost of finding and exploiting bugs may approach zero, but fixing them won\u2019t.</p><h2><a target=\"_blank\"></a><strong>Is AI Better at Finding Bugs Than Fixing Them?</strong></h2><p>In the opening to his book <a href=\"https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf\" target=\"_blank\"><em><span>Engineering Security</span></em></a> (2014), Peter Gutmann observed that \u201ca great many of today\u2019s security technologies are \u2018secure\u2019 only because no one has ever bothered to look at them.\u201d That observation was made before AI made looking for bugs dramatically cheaper. Most present-day code\u2014including <a href=\"https://www.atlanticcouncil.org/in-depth-research-reports/report/open-source-software-as-infrastructure/\" target=\"_blank\">the open source infrastructure that commercial software depends on</a>\u2014is maintained by small teams, part-time contributors, or individual volunteers with no dedicated security resources. A bug in any open source project can have significant downstream impact, too.</p><p>In 2021, a <a href=\"https://www.ibm.com/think/topics/log4j\" target=\"_blank\"><span>critical vulnerability</span></a> in <a href=\"https://logging.apache.org/log4j/2.x/index.html\" target=\"_blank\">Log4j</a>\u2014a logging library maintained by a handful of volunteers\u2014exposed hundreds of millions of devices. Log4j\u2019s widespread use meant that a vulnerability in a single volunteer-maintained library became one of the most widespread software vulnerabilities ever recorded. The popular code library is just one example of the broader problem of critical software dependencies that have never been seriously audited. For better or worse, AI-driven vulnerability discovery will likely perform a lot of auditing, at low cost and at scale.</p><p>An attacker targeting an under-resourced project requires little manual effort. AI tools can scan an unaudited codebase, identify critical vulnerabilities, and assist in building a working exploit with minimal human expertise. </p><p>Research on LLM-assisted exploit generation has shown that capable models <a href=\"https://arxiv.org/pdf/2404.08144\" target=\"_blank\">can autonomously and rapidly exploit cyber weaknesses</a>, compressing the time between disclosure of the bug and working exploit of that bug from weeks down to mere hours. Generative AI-based attacks launched from cloud servers operate staggeringly cheaply as well. In August 2025, researchers at NYU\u2019s <a href=\"https://engineering.nyu.edu/\" target=\"_blank\">Tandon School of Engineering</a> demonstrated that an LLM-based system could <a href=\"https://engineering.nyu.edu/news/large-language-models-can-execute-complete-ransomware-attacks-autonomously-nyu-tandon-research\" target=\"_blank\">autonomously complete the major phases of a ransomware campaign</a> for some $0.70 per run, with no human intervention. </p><p>And the attacker\u2019s job ends there. The defender\u2019s job, on the other hand, is only getting underway. While an AI tool can find vulnerabilities and potentially assist with bug triaging, a dedicated security engineer still has to review any potential patches, evaluate the AI\u2019s analysis of the root cause, and understand the bug well enough to approve and deploy a fully functional fix without breaking anything. For a small team maintaining a widely-depended-upon library in their spare time, that remediation burden may be difficult to manage even if the discovery cost drops to zero.</p><h2><a target=\"_blank\"></a><strong>Why AI Guardrails and Automated Patching Aren\u2019t the Answer</strong></h2><p>The natural policy response to the problem is to <a href=\"https://www.theregreview.org/2025/11/30/spotlight-improving-regulation-of-ai-and-cybersecurity/\" target=\"_blank\">go after AI at the source</a>: holding AI companies responsible for spotting misuse, <a href=\"https://statetechmagazine.com/article/2026/01/ai-guardrails-will-stop-being-optional-2026\" target=\"_blank\">putting guardrails in their products</a>, and <a href=\"https://www.cigionline.org/articles/not-open-and-shut-how-to-regulate-unsecured-ai/\" target=\"_blank\">pulling the plug on anyone using LLMs to mount cyberattacks</a>. There is evidence that pre-emptive defenses like this have some effect. Anthropic has published data showing that <a href=\"https://www.anthropic.com/news/detecting-countering-misuse-aug-2025\" target=\"_blank\"><span>automated misuse detection can derail some cyberattacks</span></a>. <span>However, blocking a few bad actors does not make for a satisfying and comprehensive solution.</span></p><p>At a root level, there are two<em> </em>reasons why policy does not solve the whole problem.</p><p>The first is technical. <a href=\"https://spectrum.ieee.org/large-language-model-performance\" target=\"_self\">LLMs</a> judge whether a request is malicious by reading the request itself. But a sufficiently creative prompt can frame any harmful action as a legitimate one. Security researchers know this as the problem of the persuasive <a href=\"https://spectrum.ieee.org/prompt-injection-attack\" target=\"_self\"><span>prompt injection</span></a>. Consider, for example, the difference between \u201cAttack <em>website A</em> to steal users\u2019 credit card info\u201d and \u201cI am a security researcher and would like secure <em>website A</em>. Run a simulation there to see if it\u2019s possible to steal users\u2019 credit card info.\u201d No one\u2019s yet discovered how to root out the source of subtle cyberattacks, like in the latter example, with 100 percent accuracy.</p><p>The second reason is jurisdictional. Any regulation confined to U.S.-based providers (or that of any other single country or region) still leaves the problem largely unsolved worldwide. Strong, open-source LLMs are already available anywhere the internet reaches. A policy aimed at handful of American technology companies is not a comprehensive defense.</p><p>Another tempting fix is to automate the defensive side entirely\u2014let AI autonomously identify, patch, and deploy fixes without waiting for an overworked volunteer maintainer to review them.</p><p><a target=\"_blank\"></a><a target=\"_blank\">Tools like </a><a href=\"https://docs.github.com/en/code-security/concepts/code-scanning/copilot-autofix-for-code-scanning\" target=\"_blank\"></a><a href=\"https://docs.github.com/en/code-security/concepts/code-scanning/copilot-autofix-for-code-scanning\" target=\"_blank\">GitHub Copilot Autofix</a> generate patches for flagged vulnerabilities directly with proposed code changes. Several <a href=\"https://www.linuxfoundation.org/blog/project-glasswing-gives-maintainers-advanced-ai-to-secure-open-source\" target=\"_blank\">open-source security initiatives</a> are also <a href=\"https://openssf.org/blog/2025/01/23/predictions-for-open-source-security-in-2025-ai-state-actors-and-supply-chains/\" target=\"_blank\">experimenting</a> with <a href=\"https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/\" target=\"_blank\">autonomous AI maintainers</a> for under-resourced projects. It is becoming much easier to have the same AI system find bugs, generate a patch, and update the code with no human intervention.</p><p>But LLM-generated patches can be unreliable in ways that are difficult to detect. For example, even if they pass muster with popular code-testing software suites, <a href=\"https://dl.acm.org/doi/pdf/10.1145/3610721\" target=\"_blank\"><span>they may still introduce subtle logic errors</span></a>. LLM-generated code, even from the most powerful generative AI models out there, is still subject to a range of cyber-vulnerabilities. A coding agent with write access to a repository and no human in the loop is, in so many words, an easy target. Misleading bug reports, malicious instructions hidden in project files, or untrusted code pulled in from outside the project <a target=\"_blank\">can turn an automated AI codebase maintainer into a cyber-vulnerability generator.</a><span><a href=\"https://spectrum.ieee.org/feeds/feed.rss#_msocom_3\" target=\"_blank\"></a></span></p><p>Guardrails and automated patching are useful tools, but they share a common limitation. Both are ad hoc and incomplete. Neither addresses the deeper question of whether the software was built securely from the start. The more lasting solution is to prevent vulnerabilities from being introduced at all. No matter how deeply an AI system can inspect a project, it cannot find flaws that don\u2019t exist.</p><h2><a target=\"_blank\"></a><strong>Memory-Safe Code Creates More Robust Defenses</strong></h2><p>The most accessible starting point is the adoption of memory-safe languages. Simply by <a href=\"https://bidenwhitehouse.archives.gov/oncd/briefing-room/2024/02/26/memory-safety-fact-sheet/\" target=\"_blank\">changing the programming language their coders use</a>, organizations can have a <a href=\"https://www.cisa.gov/resources-tools/resources/memory-safe-languages-reducing-vulnerabilities-modern-software-development\" target=\"_blank\">large positive impact on their security</a>. </p><p><span>Both </span><a href=\"https://security.googleblog.com/2024/10/safer-with-google-advancing-memory.html\" target=\"_blank\"><span>Google</span></a><span> and </span><a href=\"https://www.microsoft.com/en-us/msrc/blog/2019/07/a-proactive-approach-to-more-secure-code\" target=\"_blank\">Microsoft</a><span> </span><span>have found that roughly 70 percent of serious security flaws come down to the ways in which software manages memory. Languages like C and C++ leave every memory decision to the developer. A</span><span>nd when something slips, even briefly, </span><a href=\"https://www.memorysafety.org/docs/memory-safety/\" target=\"_blank\">attackers can exploit that gap</a><span> to run their own code, siphon data, or bring systems down. Languages like <a href=\"https://spectrum.ieee.org/ai-code-rust-great-refactor\" target=\"_blank\">Rust</a> go further; they make the most dangerous class of memory errors structurally impossible, not just harder to make.</span></p><p><span>Memory-safe languages address the problem at the source, but legacy codebases written in C and C++ will remain a reality for decades. <a href=\"https://en.wikipedia.org/wiki/Sandbox_(software_development)\" target=\"_blank\">Software sandboxing</a> techniques complement memory-safe languages by addressing what they cannot\u2014containing the blast radius of vulnerabilities that do exist. Tools like </span><a href=\"https://webassembly.org/\" target=\"_blank\"><span>WebAssembly</span></a><span> and </span><a href=\"https://hacks.mozilla.org/2021/12/webassembly-and-back-again-fine-grained-sandboxing-in-firefox-95/\" target=\"_blank\">RLBox</a><span> already demonstrate this in practice in web browsers and cloud service providers like <a href=\"https://en.wikipedia.org/wiki/Fastly\" target=\"_blank\">Fastly</a> and <a href=\"https://en.wikipedia.org/wiki/Cloudflare\" target=\"_blank\">Cloudflare</a>. However, while sandboxes dramatically raise the bar for attackers, they are only as strong as their implementation. Moreover, Anthropic reports that </span><a href=\"https://red.anthropic.com/2026/mythos-preview/\" target=\"_blank\">Claude Mythos has demonstrated that it can breach software sandboxes</a><span>. </span></p><p><span>For the most security-critical components, where implementation complexity is highest and the cost of failure greatest, a stronger guarantee still is available.</span></p><p><a href=\"https://en.wikipedia.org/wiki/Formal_verification\" target=\"_blank\">Formal verification</a> proves, mathematically, that certain bugs cannot exist. It treats code like a mathematical theorem. Instead of testing whether bugs appear, it proves that specific categories of flaw cannot exist under any conditions.</p><p><span><span><a href=\"https://aws.amazon.com/blogs/opensource/verify-the-safety-of-the-rust-standard-library/\" target=\"_blank\">AWS</a>, <a href=\"https://blog.cloudflare.com/topaz-policy-engine-design/\" target=\"_blank\">Cloudflare</a></span>, and <a href=\"https://datatracker.ietf.org/meeting/118/materials/slides-118-ufmrg-using-formal-methods-at-google-00\" target=\"_blank\">Google</a>  already use formal verification to protect their most sensitive infrastructure\u2014cryptographic code, network protocols, and storage systems where failure isn\u2019t an option. Tools like <a href=\"https://github.com/flux-rs/flux\" target=\"_blank\">Flux</a> now bring that same rigor to everyday production Rust code, without requiring a dedicated team of specialists. That matters when your attacker is a powerful generative-AI system that can rapidly scan millions of lines of code for weaknesses. Formally verified code doesn\u2019t just put up some fences and firewalls\u2014it provably has no weaknesses to find.</span></p><p><span>The defenses described above are asymmetric. Code written in memory-safe languages\u2014separated by strong sandboxing boundaries and selectively formally verified\u2014presents a smaller and much more constrained target. When applied correctly, these techniques can prevent LLM-powered exploitation, regardless of how capable an attacker\u2019s bug-scanning tools become.</span></p><p>Generative AI can support this more foundational shift by <a href=\"https://www.darpa.mil/research/programs/translating-all-c-to-rust\" target=\"_blank\">accelerating the translation of legacy code into safer languages like Rust</a>, and <a href=\"https://dl.acm.org/doi/abs/10.1145/3720499\" target=\"_blank\">making formal verification more practical</a> at every stage. Which helps engineers write specifications, generate proofs, and keep those proofs current as code evolves.</p><p><span>For organizations, the lasting solution is not just better scanning but stronger foundations: memory-safe languages where possible, sandboxing where not, and formal verification where the cost of being wrong is highest. For researchers, the bottleneck is making those foundations practical\u2014and using generative AI to accelerate the migration. But instead of automated, ad hoc vulnerability patching, generative AI in this mode of defense can help translate legacy code to memory-safe alternatives. It also assists in verification proofs and lowers the expertise barrier to a safer and less vulnerable codebase.</span></p><p>The latest wave of smarter AI bug scanners can still be useful for cyberdefense\u2014not just as another overhyped AI threat. But AI bug scanners treat the symptom, not the cause. The lasting solution is software that doesn\u2019t produce vulnerabilities in the first place.</p>"
-      },
-      {
-        "id": "64e637a119614562",
-        "title": "A reality check on the AI jobs hysteria",
-        "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 26 May 2026 09:00:00 +0000",
-        "published_dt": "2026-05-26T09:00:00+00:00",
-        "summary": "Haven\u2019t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst\u2014or tech journalist\u2014and&#8230;"
-      },
-      {
-        "id": "652f4f9f548bfc0c",
-        "title": "It\u2019s time to address the looming crisis in entry-level work.",
-        "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 26 May 2026 09:00:00 +0000",
-        "published_dt": "2026-05-26T09:00:00+00:00",
-        "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surface: the quiet weakening of the first rung of the career&#8230;"
+        "published": "Tue, 26 May 2026 10:00:01 +0000",
+        "published_dt": "2026-05-26T10:00:01+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/illustration-of-molecules-leaving-a-surface-as-it-transforms-into-an-ordered-graphene-lattice.jpg?id=66678225&amp;width=1245&amp;height=700&amp;coordinates=15%2C0%2C15%2C0\" /><br /><br /><p><span><em>This sponsored article is brought to you by <a href=\"https://www.masterbond.com/\" target=\"_blank\">Master Bond</a>.</em></span></p><p><span>Outgassing is the release of volatile substances from a cured adhesive over time. These released materials, which may include residual solvents, unreacted monomers, or other chemical species, can deposit on nearby surfaces, causing contamination that interferes with sensitive components.</span></p><h2>What Is Outgassing and How Is It Measured?</h2><p>The industry standard for measuring outgassing is <a href=\"https://www.masterbond.com/certifications/nasa-low-outgassing\" target=\"_blank\">ASTM E595, developed by NASA</a>. This test exposes a cured sample to 125 \u00b0C at high vacuum (10\u207b\u2075 to 10\u207b\u2076 torr) for 24 hours, measuring Total Mass Loss (TML) and Collected Volatile Condensable Materials (CVCM). To meet NASA low outgassing requirements, materials must exhibit less than 1 percent TML and less than 0.1 percent CVCM.</p><p class=\"pull-quote\">Optical assemblies need contamination-free bonding and prevention of fogging the optics to maintain clarity. High-vacuum scientific equipment, semiconductor manufacturing tools, and aerospace electronics also demand low outgassing materials.</p><h2>Key Applications</h2><p><a href=\"https://www.masterbond.com/properties/low-outgassing-adhesives\" target=\"_blank\">Low outgassing adhesives</a> are essential wherever contamination could compromise performance and this is particularly relevant for space and satellite systems. <a href=\"https://www.masterbond.com/industries/adhesives-sealants-and-coatings-optical-industry\" rel=\"noopener noreferrer\" target=\"_blank\">Optical assemblies</a>, including cameras, telescopes, and laser systems, need contamination-free bonding and prevention of fogging the optics to maintain clarity. </p><p>High-vacuum scientific equipment, semiconductor manufacturing tools, and aerospace electronics also demand low outgassing materials. Even terrestrial optical devices benefit from reduced outgassing to ensure long-term reliability.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Hand brushing adhesive onto a clear optical prism beside three similar glass pieces\" class=\"rm-shortcode\" id=\"b1d25\" src=\"https://spectrum.ieee.org/media-library/hand-brushing-adhesive-onto-a-clear-optical-prism-beside-three-similar-glass-pieces.jpg?id=66678226&amp;width=980\" /> <small class=\"image-media media-caption\">EP30-2 is a versatile system can be used in a variety of applications in aerospace, electronic, optical and specialty OEM industries, especially when optical clarity and low outgassing are important criteria.</small><small class=\"image-media media-photo-credit\">Master Bond</small></p><h2>Ensuring Low Outgassing Performance Through Proper Handling</h2><p>Achieving specified outgassing performance requires attention to storage, mixing, and curing. For two-part systems, use the correct mix ratio and mix thoroughly to ensure complete reaction. Follow recommended cure schedules \u2014 adding heat, even at modest temperatures of 150-200 \u00b0F, significantly improves cross-linking and reduces outgassing. For UV-curable adhesives, ensure complete cure by using the correct lamp wavelength (typically 365 nm), adequate intensity, and proper exposure time with no shadowed areas.</p><h2>Troubleshooting Outgassing Issues</h2><p>If contamination appears on optical surfaces or outgassing test results are higher than expected, an incomplete cure might be one of the root causes. The first step is to verify that the adhesive has fully hardened to its specified Shore hardness. The next step is to consider adding or extending heat cure to improve cross-linking.</p><h2>Master Bond Product Recommendations</h2><p>Master Bond offers a range of adhesives meeting NASA low outgassing requirements. <a href=\"https://www.masterbond.com/tds/ep30-2\" target=\"_blank\">EP30-2</a> and <a href=\"https://www.masterbond.com/tds/ep21tcht-1\" rel=\"noopener noreferrer\" target=\"_blank\">EP21TCHT-1</a> are some examples of two-part epoxy systems that have been successfully deployed in demanding vacuum applications, including ultra-high vacuum environments. </p><p>For applications requiring UV cure, Master Bond provides specialty UV formulations such as <a href=\"https://www.masterbond.com/tds/uv16\" rel=\"noopener noreferrer\" target=\"_blank\">UV16</a> meeting ASTM E595, as well as dual-cure systems (UV plus heat) such as <a href=\"https://www.masterbond.com/tds/uv22dc80-10f\" rel=\"noopener noreferrer\" target=\"_blank\">UV22DC80-10F</a> for assemblies where shadows prevent complete UV exposure. These dual-cure products initiate with UV light and complete curing with heat as low as 180 \u00b0F (80 \u00b0C).</p>"
       },
       {
         "id": "e745c797b96bf21d",
@@ -837,6 +810,51 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-woman-smiling-with-her-framed-outstanding-young-professional-award.jpg?id=66701682&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p>When <a href=\"https://yp.ieee.org/blog/team-members/ana-ines-inacio-2/\" rel=\"noopener noreferrer\" target=\"_blank\">Ana In\u00eas In\u00e1cio</a> goes to work at the <a href=\"https://www.tno.nl/en/\" rel=\"noopener noreferrer\" target=\"_blank\">Netherlands Organization for Applied Scientific Research</a> (TNO) in The Hague, she thinks about signals most people never notice: radio waves moving between <a href=\"https://spectrum.ieee.org/tag/satellites\" target=\"_self\">satellites</a>, <a href=\"https://spectrum.ieee.org/topic/sensors/\" target=\"_self\">sensors</a>, and future wireless networks.</p><p>The integrated circuits the research scientist designs lay the foundation for next-generation RF sensor systems critical to advancing radar technologies.</p><h3>Ana In\u00eas In\u00e1cio</h3><br /><p><strong>EMPLOYER </strong></p><p><strong></strong>Netherlands Organization for Applied Scientific Research, TNO</p><p><strong>TITLE </strong></p><p><strong></strong>Scientist</p><p><strong>IEEE MEMBER GRADE </strong></p><p><strong></strong>Senior member</p><p><strong>ALMA MATER </strong></p><p><strong></strong>University of Aveiro, in Portugal</p><p>Those invisible RF signals are only part of what earned the IEEE senior member her global recognition.</p><p>In\u00e1cio recently received the <a href=\"https://hkn.ieee.org/awards/outstanding-young-professional-award\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE\u2013Eta Kappa Nu Outstanding Young Professional Award</a> for \u201cleadership in <a href=\"https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=MEMYP060\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Young Professionals</a>, fostering innovation and inclusivity, and pioneering advancements in <a href=\"https://spectrum.ieee.org/tag/wireless-sensors\" target=\"_self\">RF sensor systems</a>, bridging technical excellence with impactful community engagement.\u201d</p><p>The recognition from IEEE\u2019s honor society reflects a career built along two parallel paths: advancing RF circuit design while helping engineers worldwide build professional communities.</p><p>\u201cI\u2019ve always liked building things,\u201d In\u00e1cio says. \u201cSometimes that means circuits; sometimes it means helping people connect and grow together.\u201d</p><p>That blend of technical innovation and global leadership gives her work impact far beyond the laboratory.</p><h2>EE lessons at the kitchen table</h2><p>In\u00e1cio grew up in Vales do Rio, a rural village near <a href=\"https://en.wikipedia.org/wiki/Covilh%C3%A3\" rel=\"noopener noreferrer\" target=\"_blank\">Covilh\u00e3</a> in central Portugal.</p><p>The region was known for farming and textiles, she says. Many residents worked in the textile industry, including her grandfather, who repaired machinery such as industrial looms. He became her first engineering teacher without ever holding the formal title.</p><p>Through correspondence courses delivered by mail, he taught himself electrical systems. At home, he explained electricity to his granddaughter while he repaired the household\u2019s appliances and wiring.</p><p>\u201cHe would show me why something broke and how we could fix it,\u201d she recalls. It sparked her curiosity.</p><p>Her mother was a tailor who later managed other tailors. Her father left his factory job to attend culinary school and now cooks at an elder-care facility. Curiosity was a trait that ran through the family.</p><p>By high school, In\u00e1cio was drawn equally to mathematics and physics and to biology and geology, she says. Encouragement from teachers and an uncle, an engineer, ultimately steered her toward electronics engineering.</p><h2>Conducting research on integrated circuits</h2><p>In 2008 she enrolled in an integrated master\u2019s degree program in electrical and telecommunications engineering at the <a href=\"https://www.ua.pt/en/\" rel=\"noopener noreferrer\" target=\"_blank\">Universidade de Aveiro</a> in Portugal, a five-year degree that combined undergraduate and graduate studies.</p><p>An opportunity to study abroad changed her path. In 2012 she moved to the Netherlands to study at <a href=\"https://www.tue.nl/en/\" rel=\"noopener noreferrer\" target=\"_blank\">Eindhoven University of Technology</a> (TU/e) through a six-month European exchange program with UAveiro.</p><p>A professor encouraged her to stay on, so she completed her final year of masters in the Netherlands. She focused on techniques to improve the linearization of RF power amplifiers at <a href=\"https://www.thalesgroup.com/en/worldwide/netherlands\" rel=\"noopener noreferrer\" target=\"_blank\">Thales</a>. The company, based in Hengelo, Netherlands, designs and produces electronics for defense and security.</p><p>She earned her master\u2019s degree from UAveiro in 2013. After graduating, she joined the integrated circuit design group at the <a href=\"https://www.utwente.nl/en/\" rel=\"noopener noreferrer\" target=\"_blank\">University of Twente</a>, in The Netherlands, conducting collaborative research as part of a nationally funded program on linearization techniques for RF front-end systems. The experience introduced her to international research culture and persuaded her to pursue a career abroad, she says.</p><h2>Engineering the future of wireless</h2><p>In\u00e1cio joined TNO in 2018 as a junior scientist and innovator: her first professional industry job. Today she designs integrated RF front-end systems\u2014the circuits that allow devices to transmit and receive wireless signals.</p><p>The components sit at the core of modern communications, enabling sensor networks, <a href=\"https://spectrum.ieee.org/laser-satellite-communication\" target=\"_self\">satellite links</a>, and emerging <a href=\"https://spectrum.ieee.org/ieee-5g-and-6g-training\" target=\"_self\">6G technologies</a>.</p><p>Her work aims to tackle a central challenge: getting greater performance from smaller chips.</p><p>\u201cAs communication evolves, we need more bandwidth to transfer more data at higher speeds,\u201d she says. \u201cThe question is how much complexity you can integrate into one system while keeping it efficient.\u201d</p><p>Unlike commercial lab environments, which reuse established designs, research projects often start from scratch. Each transmit-receive chain\u2014the signal path that converts digital data to radio waves and back again\u2014is tailored to specific requirements.</p><p>Her work focuses on improving key circuit characteristics including linearity (ensuring that the signals that go out of the antenna are not distorted) as well as <a href=\"https://ieeexplore.ieee.org/document/4425145\" rel=\"noopener noreferrer\" target=\"_blank\">noise reduction</a> (so design blocks can be optimized). Advanced design techniques help devices communicate more reliably while consuming less energy, a critical need for large <a href=\"https://spectrum.ieee.org/tag/internet-of-things\" target=\"_self\">sensor networks such as the Internet of Things</a>, she says.</p><p><a href=\"https://spectrum.ieee.org/topic/artificial-intelligence/\" target=\"_self\">Artificial intelligence</a> is beginning to influence her field, she says: \u201cAI is already helping us work faster. The real challenge is learning how to use it to make better designs, not just quicker ones.\u201d</p><h2>A parallel vocation with IEEE</h2><p>While her technical career flourished in research labs, an additional journey unfolded through IEEE.</p><p>In\u00e1cio joined the organization in 2009 as a student after discovering UAveiro\u2019s student branch. What began as curiosity evolved into a long-term leadership path.</p><p>She advanced through roles within <a href=\"https://ieeer8.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Region 8</a>\u2014covering Europe, Africa, and the Middle East\u2014one of the organization\u2019s most culturally diverse regions. She was the <a href=\"https://ieee.web.ua.pt/\" rel=\"noopener noreferrer\" target=\"_blank\">student branch</a>\u2019s vice chair, and the region\u2019s student representative for more than 22,000 IEEE members. She also served as the Young Professionals Affinity Group chair for the <a href=\"https://www.ieee.be/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Benelux Section</a>, which encompasses Belgium, the Netherlands, and Luxembourg.</p><p>Currently, she serves as the immediate past chair of the Region 8 Young Professionals Committee, and vice chair and <a href=\"https://mga.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Member and Geographical Activities</a> representative on the IEEE Young Professionals Committee. In those roles, she represents close to 135,000 IEEE members.</p><p>In addition, she is an active member of the <a href=\"https://mtt.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Microwave Theory and Technology Society</a>, currently serving as its Young Professionals liaison.</p><p>Her involvement with IEEE has boosted her professional confidence, she says.</p><p>\u201cIEEE didn\u2019t directly give me promotions at my day job, but it gave me leadership skills, networking opportunities, and the ability to work with people from everywhere,\u201d she says.</p><p>Those experiences now shape her collaborations at TNO, where international teamwork is essential.</p><p>The IEEE-HKN Outstanding Young Professional Award recognizes that combination of technical excellence and community impact, she says.</p><p>Looking back, In\u00e1cio sees a clear thread connecting her childhood curiosity, her international career, and her IEEE leadership: Engineering, she says, is ultimately about people as much as it is about technology.</p>"
       },
       {
+        "id": "79c1c8728e5a6b68",
+        "title": "Rethinking organizational design in the age of agentic AI",
+        "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 26 May 2026 14:54:10 +0000",
+        "published_dt": "2026-05-26T14:54:10+00:00",
+        "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there\u2019s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can\u2019t support that change. They cite a lack of readiness across people, processes, and workflows.&#160; The sticky&#8230;"
+      },
+      {
+        "id": "b411d0809f5bf107",
+        "title": "What It Takes to Preserve Floppy Disks",
+        "url": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
+        "source": "IEEE Spectrum",
+        "published": "Tue, 26 May 2026 13:00:00 +0000",
+        "published_dt": "2026-05-26T13:00:00+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/person-in-floppy-disk-sweater-sits-behind-scattered-floppy-disks-on-table.png?id=66763716&amp;width=1245&amp;height=700&amp;coordinates=0%2C141%2C0%2C141\" /><br /><br /><p><a href=\"https://spectrum.ieee.org/3m-floppy\" target=\"_blank\">Floppy disks</a> are several decades old\u2014many of the disks are degrading and the data stored on them is at risk of being lost. In response, <a href=\"https://www.cdh.cam.ac.uk/about/people/leontien-talboom/\" rel=\"noopener noreferrer\" target=\"_blank\">Leontien Talboom</a>, a technical analyst at Cambridge University Libraries and Archives, led a roughly year-long project preserving <a href=\"https://spectrum.ieee.org/3m-floppy\" target=\"_self\">floppy disks</a> called \u201c<a href=\"https://www.lib.cam.ac.uk/future-nostalgia\" rel=\"noopener noreferrer\" target=\"_blank\">Future Nostalgia</a>,\u201d which concluded in January.</p><h3>Leontien Talboom</h3><br /><p><a href=\"https://www.cdh.cam.ac.uk/about/people/leontien-talboom/\" rel=\"noopener noreferrer\" target=\"_blank\">Leontien Talboom</a> is a technical analyst at Cambridge University Libraries and Archives, where she transfers material from a wide range of storage media to make them accessible to archivists. </p><p><em><em>IEEE Spectrum</em></em> spoke to Talboom about her work <a href=\"https://www.digipres.org/the-floppy-guide/\" rel=\"noopener noreferrer\" target=\"_blank\">preserving data</a> from Cambridge\u2019s collection of floppy disks and <a href=\"https://www.repository.cam.ac.uk/items/154ad280-7c47-49eb-9cbf-24b6762f6c1c\" rel=\"noopener noreferrer\" target=\"_blank\">collecting knowledge</a> about the disks themselves.</p><p><strong>Why is it important to preserve floppy disks now?</strong></p><p><strong>Leontien Talboom: </strong>Two reasons. First, the physical media is starting to degrade. Floppy disks are made from plastic, but they\u2019ve got a magnetic layer of iron oxide, and that\u2019s deteriorating. A lot of floppy disks are found in attics or garages, which means they also suffer from mold.</p><p>Second, a lot of people who developed floppy disks and systems that use floppy disks are starting to retire or pass away, which means that a lot of tacit knowledge is disappearing.</p><p><strong>Whom did you go to for that tacit knowledge?</strong></p><p><strong>Talboom: </strong>I went to the retro computing community. Their work is more around preserving these machines to keep them running [than] the data that lives on the floppy disk. But they know their stuff about floppy disks.</p><p>For example, they know that in a lot of the older disks, the inside of the disk\u2014the doughnut\u2014gets stuck to the top. So if you flex the casing, the doughnut falls down again. If I hadn\u2019t known that, I would have assumed that those disks in our collection were broken or corrupt.</p><p><strong>What is the most difficult part of working with floppy disks?</strong></p><p><strong>Talboom: </strong>Accessing the files can be quite challenging if we don\u2019t understand the file system. Within libraries and archives, we get a lot of material from machines that are not as well loved. Many of the personal computers that you had at home, such as the <a href=\"https://amstrad.com/product-category/computer/\" rel=\"noopener noreferrer\" target=\"_blank\">Amstrad</a> or <a href=\"https://www.bbc.com/news/articles/cpvzp80jv07o\" rel=\"noopener noreferrer\" target=\"_blank\">ZX Spectrum</a> or <a href=\"https://computerhistory.org/blog/the-bbc-micro/\" rel=\"noopener noreferrer\" target=\"_blank\">BBC Micro</a>, are very well documented. But a bunch of our material comes from business or research systems. They\u2019re not as nostalgic for people, so there\u2019s not as big a community preserving this type of material.</p><p><strong>Do you have a favorite type of floppy disk?</strong></p><p><strong>Talboom: </strong>Five and a quarter. The weirder the system, the more frustrating and fun it is. I quite like doing that detective work.</p><p>The Amstrad disk has also really stolen my heart. The popularity of floppy disks is very geographically dependent. Our library, for example, has these Amstrad 3-inch disks. But if you go to the U.S., they\u2019re really uncommon. They weren\u2019t able to manufacture enough of these drives, and [3.5-inch disks] took over at a certain point. But they\u2019re really cute.</p><p><strong>What\u2019s the best method for sustainably storing data?</strong></p><p><strong>Talboom: </strong>The main thing is actively looking after it. A lot of the floppy disks we get in the library haven\u2019t been accessed for 20 or 30 years, which means that you need certain special hardware to actually read them, and then work with emulators or other tools to make these file formats accessible.</p><p>Now that we\u2019ve done that work and transferred it, we can monitor it and make sure it\u2019s not suffering from anything like bit rot. We can also make decisions around migrating it to other file formats or working on specific file systems or unknown file formats in more detail.</p>"
+      },
+      {
+        "id": "f15ccae937074a1b",
+        "title": "The Download: puncturing the AI jobs panic",
+        "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 26 May 2026 12:10:00 +0000",
+        "published_dt": "2026-05-26T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hysteria over AI\u2019s threat to white-collar jobs, there\u2019s still scant evidence that the technology has had a large-scale impact on&#8230;"
+      },
+      {
+        "id": "64e637a119614562",
+        "title": "A reality check on the AI jobs hysteria",
+        "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 26 May 2026 09:00:00 +0000",
+        "published_dt": "2026-05-26T09:00:00+00:00",
+        "summary": "Haven\u2019t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst\u2014or tech journalist\u2014and&#8230;"
+      },
+      {
+        "id": "652f4f9f548bfc0c",
+        "title": "It\u2019s time to address the looming crisis in entry-level work.",
+        "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 26 May 2026 09:00:00 +0000",
+        "published_dt": "2026-05-26T09:00:00+00:00",
+        "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surface: the quiet weakening of the first rung of the career&#8230;"
+      },
+      {
         "id": "e36c3937de6aa628",
         "title": "IEEE TryEngineering OnCampus Program Expands to 7 Universities",
         "url": "https://spectrum.ieee.org/tryengineering-oncampus-expansion",
@@ -889,24 +907,6 @@
         "published": "Thu, 21 May 2026 20:41:05 +0000",
         "published_dt": "2026-05-21T20:41:05+00:00",
         "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor Will Douglas Heaven, and AI reporter&#8230;"
-      },
-      {
-        "id": "4a9e1dceced714bd",
-        "title": "Scaling creativity in the age of AI",
-        "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 21 May 2026 19:16:43 +0000",
-        "published_dt": "2026-05-21T19:16:43+00:00",
-        "summary": "Storytelling is core to humanity&#8217;s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans&#8217; innovation of natural pigments and charcoals for cave paintings to literal representation by the camera. The landscape of storytelling continues to shift under our&#8230;"
-      },
-      {
-        "id": "259c3ce3748c0f1d",
-        "title": "Anthropic\u2019s Code with Claude showed off coding\u2019s future\u2014whether you like it or not",
-        "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 21 May 2026 14:30:45 +0000",
-        "published_dt": "2026-05-21T14:30:45+00:00",
-        "summary": "The vibes were strong at Code with Claude, Anthropic\u2019s two-day event for software developers in London that kicked off on May 19, the same day as Google\u2019s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) \u201cWho here has shipped a pull request in the last week that was completely written&#8230;"
       }
     ]
   }
