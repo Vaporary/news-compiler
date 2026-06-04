@@ -1,7 +1,88 @@
 {
-  "generated_at": "2026-06-03T17:01:25.719484+00:00",
+  "generated_at": "2026-06-04T15:30:19.639509+00:00",
   "categories": {
     "Biotech": [
+      {
+        "id": "c64aeacd3683cb37",
+        "title": "STAT+: AI titans push Congress for DNA safeguards",
+        "url": "https://www.statnews.com/2026/06/04/biotech-news-ai-titans-push-congress-to-dna-safeguards/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 04 Jun 2026 13:37:54 +0000",
+        "published_dt": "2026-06-04T13:37:54+00:00",
+        "summary": "Inceptive Nucleics and Alnylam's partnership, why Grail's \"failed\" trial still matters, and other biotech news from The Readout"
+      },
+      {
+        "id": "9df157ab1cf5d05e",
+        "title": "STAT+: Utah Medical Board scolded for going rogue with AI criticism",
+        "url": "https://www.statnews.com/2026/06/04/doctronic-utah-pilot-medical-board-scolded-health-tech/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 04 Jun 2026 13:33:01 +0000",
+        "published_dt": "2026-06-04T13:33:01+00:00",
+        "summary": "In this edition of STAT Health Tech: An update on the Utah pilot that uses a chatbot to renew drug prescriptions, AI scribes for patients, and more."
+      },
+      {
+        "id": "6bfa0f7f54186840",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about fewer pharma investments in Germany, growing U.S. layoffs, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/06/04/fewer-pharma-investments-in-germany-growing-layoffs-in-us/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 04 Jun 2026 13:17:15 +0000",
+        "published_dt": "2026-06-04T13:17:15+00:00",
+        "summary": "Eli Lilly is halving its originally planned investment in the production of weight loss syringes in Germany in response to a cost-cutting law"
+      },
+      {
+        "id": "f19393ffaf7c60c9",
+        "title": "Scientists uncover a new hiding spot for HIV",
+        "url": "https://www.statnews.com/2026/06/04/health-news-scientists-uncover-new-hiding-spot-for-hiv/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 04 Jun 2026 12:32:36 +0000",
+        "published_dt": "2026-06-04T12:32:36+00:00",
+        "summary": "An Ebola update, Trump to strip job protections of NIH officials, and more health news from Morning Rounds"
+      },
+      {
+        "id": "ed36f4624f536493",
+        "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+        "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 04 Jun 2026 12:10:00 +0000",
+        "published_dt": "2026-06-04T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by&#8230;"
+      },
+      {
+        "id": "53bde6206b05dd9a",
+        "title": "Opinion: Grail\u2019s multi-cancer early detection trial was negative. But as an oncologist, I see more to this story",
+        "url": "https://www.statnews.com/2026/06/04/grail-multi-cancer-early-detection-test-trial-results/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 04 Jun 2026 08:30:00 +0000",
+        "published_dt": "2026-06-04T08:30:00+00:00",
+        "summary": "An oncologist shares three lessons from the world\u2019s first randomized trial on a multi-cancer early detection."
+      },
+      {
+        "id": "3d68057380c68d94",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/innovent-fresh-12b-deal-posts-phase-3-win-cldn182-adc\" hreflang=\"en\">Innovent, fresh from $1.2B deal, posts phase 3 win for Takeda-partnered ADC</a>",
+        "url": "https://www.fiercebiotech.com/biotech/innovent-fresh-12b-deal-posts-phase-3-win-cldn182-adc",
+        "source": "Fierce Biotech",
+        "published": "Jun 4, 2026 7:48am",
+        "published_dt": "2026-06-04T07:48:00+00:00",
+        "summary": "Innovent Biologics has reported a phase 3 victory for IBI343, boosting the prospects of an antibody-drug conjugate (ADC) that Takeda bet big on last year."
+      },
+      {
+        "id": "3ab150c729626966",
+        "title": "How courts are coping with a flood of AI-generated lawsuits",
+        "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 04 Jun 2026 10:50:18 +0000",
+        "published_dt": "2026-06-04T10:50:18+00:00",
+        "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can\u2019t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting&#8230;"
+      },
+      {
+        "id": "a47f8c220328377d",
+        "title": "<a href=\"https://www.fiercebiotech.com/manufacturing/medline-earns-fda-warning-letter-ire-repeated-toxic-bacteria-problems\" hreflang=\"en\">Medline earns FDA warning letter ire for repeated toxic bacteria problems</a>",
+        "url": "https://www.fiercebiotech.com/manufacturing/medline-earns-fda-warning-letter-ire-repeated-toxic-bacteria-problems",
+        "source": "Fierce Biotech",
+        "published": "Jun 4, 2026 7:42am",
+        "published_dt": "2026-06-04T07:42:00+00:00",
+        "summary": "Medical device distribution giant Medline has been slammed for a second time since April by an FDA warning letter that has chided the company for repeated problems centered on the presence of toxic bacteria in finished products.<br />"
+      },
       {
         "id": "9e21d8f27ffe48a7",
         "title": "STAT+: Pharmalittle: We\u2019re reading about GLP-1 drugs and knees, FDA cell and gene therapy guidance, and more",
@@ -12,40 +93,13 @@
         "summary": "Taking weight loss drugs for at least three years could prevent thousands of knee replacements a year, a new study found"
       },
       {
-        "id": "23a82712689e8011",
-        "title": "STAT+: Legend Biotech emerged as a rare market winner",
-        "url": "https://www.statnews.com/2026/06/03/biotech-news-legend-biotech-emerges-as-rare-market-winner/?utm_campaign=rss",
+        "id": "ba2c108085b45895",
+        "title": "STAT+: Does Revolution Medicines\u2019 pancreatic cancer drug have even greater potential?",
+        "url": "https://www.statnews.com/2026/06/04/revolution-medicines-daraxonrasib-pancreatic-cancer/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 03 Jun 2026 13:36:39 +0000",
-        "published_dt": "2026-06-03T13:36:39+00:00",
-        "summary": "New guidance for gene therapy developers, Lilly's deal for kidney drugs, and more biotech news from The Readout"
-      },
-      {
-        "id": "15a7ab06d24e65db",
-        "title": "STAT+: What the pope\u2019s encyclical on AI means for Catholic hospitals, and all of health care",
-        "url": "https://www.statnews.com/2026/06/03/pope-encyclical-catholic-health-system-implications-ai-prognosis/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 03 Jun 2026 14:00:47 +0000",
-        "published_dt": "2026-06-03T14:00:47+00:00",
-        "summary": "In this edition of STAT's AI Prognosis: Brittany Trang analyzes the pope's encyclical on artificial intelligence for takeaways relevant for health care."
-      },
-      {
-        "id": "645e5fef124ecb22",
-        "title": "The Download: Trump\u2019s new AI order, and smart glasses for warfare",
-        "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 03 Jun 2026 12:10:00 +0000",
-        "published_dt": "2026-06-03T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 5 key points in Trump&#8217;s new AI order Less than two weeks after scrapping an executive order on AI, President Donald Trump signed a new one on Tuesday. Promising to promote&#8230;"
-      },
-      {
-        "id": "b8d76a61e91413fe",
-        "title": "Is the military fueling eating disorders?",
-        "url": "https://www.statnews.com/2026/06/03/health-news-is-the-military-fueling-eating-disorders/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 03 Jun 2026 11:58:31 +0000",
-        "published_dt": "2026-06-03T11:58:31+00:00",
-        "summary": "A brief hantavirus update, some good news about death, and more health news from Morning Rounds"
+        "published": "Thu, 04 Jun 2026 10:30:00 +0000",
+        "published_dt": "2026-06-04T10:30:00+00:00",
+        "summary": "Revolution Medicines' pancreatic cancer drug has not yet been approved \u2014 and already talk has shifted to how (and when) its use might be expanded."
       },
       {
         "id": "04f00013d952100d",
@@ -57,94 +111,67 @@
         "summary": "Cardiff Oncology has shared updated results from its phase 2 colorectal cancer trial, revealing that the study drug has yet to reach the median progression-free survival as the biotech prepares to enter pivotal development."
       },
       {
-        "id": "ae769d877cf0171a",
-        "title": "<a href=\"https://www.fiercebiotech.com/cro/asco-ryght-ai-team-breast-cancer-trial-site-selection\" hreflang=\"en\">ASCO, Ryght AI team up for breast cancer trial site selection</a>",
-        "url": "https://www.fiercebiotech.com/cro/asco-ryght-ai-team-breast-cancer-trial-site-selection",
+        "id": "73fe43a062230065",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/divisive-bill-seeks-add-biotech-industry-law-limiting-investment-chinese-industry\" hreflang=\"en\">As China biotech crackdown calls reverberate in Washington, the pushback gets louder, too</a>",
+        "url": "https://www.fiercebiotech.com/biotech/divisive-bill-seeks-add-biotech-industry-law-limiting-investment-chinese-industry",
         "source": "Fierce Biotech",
-        "published": "Jun 1, 2026 12:42pm",
-        "published_dt": "2026-06-01T12:42:00+00:00",
-        "summary": "The American Society of Clinical Oncology (ASCO) and Ryght AI are teaming up to identify research sites for an ASCO clinical trial evaluating starting doses of CDK4/6 inhibitors in patients with metastatic breast cancer."
+        "published": "Jun 4, 2026 10:11am",
+        "published_dt": "2026-06-04T10:11:00+00:00",
+        "summary": "Two federal lawmakers have introduced a bill seeking to apply the review requirements of the Comprehensive Outbound Investment National Security (COINS) Act to investments in Chinese biotechnology."
       },
       {
-        "id": "b3c41bc36a3560d4",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/asco-telix-tees-pivotal-test-pluvicto-challenger-while-eyeing-white-space-radio-therapy\" hreflang=\"en\">ASCO: Telix tees up pivotal test for Pluvicto challenger while eyeing \u2018white space\u2019 on radiopharma canvas</a>",
-        "url": "https://www.fiercebiotech.com/biotech/asco-telix-tees-pivotal-test-pluvicto-challenger-while-eyeing-white-space-radio-therapy",
+        "id": "5a266be8c8726200",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/parabilis-preps-413m-ipo-fuel-desmoid-tumor-drug-phase-3\" hreflang=\"en\">Parabilis preps $413M IPO to fuel desmoid tumor drug into phase 3</a>",
+        "url": "https://www.fiercebiotech.com/biotech/parabilis-preps-413m-ipo-fuel-desmoid-tumor-drug-phase-3",
         "source": "Fierce Biotech",
-        "published": "May 31, 2026 3:07pm",
-        "published_dt": "2026-05-31T15:07:00+00:00",
-        "summary": "David Cade, the chief medical officer of Melbourne-based Telix Pharmaceuticals, traveled a long way to the American Society of Clinical Oncology meeting in Chicago with a singular goal in mind: spread the word about Telix\u2019s pivotal trial for a potential challenger to Novartis\u2019 Pluvicto."
+        "published": "Jun 4, 2026 9:47am",
+        "published_dt": "2026-06-04T09:47:00+00:00",
+        "summary": "Parabilis Medicines is gearing up for an IPO that could eventually bring in as much as $476 million to fund the phase 3 development of its desmoid tumor prospect."
       },
       {
-        "id": "d1915407926ef113",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/regeneron-pays-37m-adds-2b-biobucks-expand-cytomx-pact\" hreflang=\"en\">Regeneron pays $37M, adds $2B in biobucks to expand CytomX pact</a>",
-        "url": "https://www.fiercebiotech.com/biotech/regeneron-pays-37m-adds-2b-biobucks-expand-cytomx-pact",
-        "source": "Fierce Biotech",
-        "published": "Jun 3, 2026 9:32am",
-        "published_dt": "2026-06-03T09:32:00+00:00",
-        "summary": "Regeneron has expanded its research alliance with CytomX Therapeutics, paying $37 million to work on conditionally active bispecifics against two targets and secure options on more programs. The expansion swells the potential value of the deal to about $4 billion."
-      },
-      {
-        "id": "3c979a0a2a18df88",
-        "title": "STAT+: Longevity startup NewLimit raises $435 million ahead of first clinical trial",
-        "url": "https://www.statnews.com/2026/06/02/longevity-startup-newlimit-announces-435-million-clinical-trial-financing/?utm_campaign=rss",
+        "id": "d76cc35e9bb55d48",
+        "title": "STAT+: After hospitals, patients get a turn to bring AI into the doctor\u2019s office",
+        "url": "https://www.statnews.com/2026/06/04/after-doctors-patient-ai-scribes-track-visits/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 02 Jun 2026 17:00:00 +0000",
-        "published_dt": "2026-06-02T17:00:00+00:00",
-        "summary": "Longevity startup NewLimit plans to launch its first clinical trial of a liver medicine after raising a staggering $435 million in new funding."
+        "published": "Thu, 04 Jun 2026 08:30:00 +0000",
+        "published_dt": "2026-06-04T08:30:00+00:00",
+        "summary": "Ambient scribes were the first large-scale application of AI in health care. Now developers are pitching them as diligent note-takers for patients."
       },
       {
-        "id": "45e8bc11dfbf26bf",
-        "title": "Top ultra-processed food researchers call for sweeping policy change: \u2018The system is rigged\u2019",
-        "url": "https://www.statnews.com/2026/06/03/ultra-processed-food-experts-want-sweeping-policy-changes/?utm_campaign=rss",
+        "id": "2d23de3ab391468d",
+        "title": "Opinion: Lawmakers promised cancer patients would be protected from Medicaid cuts.\u00a0Now CMS says otherwise",
+        "url": "https://www.statnews.com/2026/06/04/medicaid-work-requirements-final-rule-cancer-patients/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 03 Jun 2026 09:00:00 +0000",
-        "published_dt": "2026-06-03T09:00:00+00:00",
-        "summary": "A survey finds that ultra-processed foods are a cross-partisan concern. And yet policy has been slow to follow."
+        "published": "Thu, 04 Jun 2026 08:30:00 +0000",
+        "published_dt": "2026-06-04T08:30:00+00:00",
+        "summary": "\u201cOne of the cancer community\u2019s worst fears is coming to pass,\u201d writes Gwen Nichols of Blood Cancer United."
       },
       {
-        "id": "67d21fa734622ff2",
-        "title": "STAT+: Trump\u2019s Medicaid work requirements have an unwelcome surprise for some states and patients",
-        "url": "https://www.statnews.com/2026/06/03/medicaid-work-requirements-experts-say-millions-will-lose-coverage/?utm_campaign=rss",
+        "id": "4bf678459f814b4d",
+        "title": "What happens at a longevity festival?",
+        "url": "https://www.statnews.com/2026/06/04/longevity-science-vitalist-bay-festival-status-report-alex-hogan/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 03 Jun 2026 08:30:00 +0000",
-        "published_dt": "2026-06-03T08:30:00+00:00",
-        "summary": "Advocates were already dreading Medicaid's work requirements. New rules are worse than they feared."
+        "published": "Thu, 04 Jun 2026 08:30:00 +0000",
+        "published_dt": "2026-06-04T08:30:00+00:00",
+        "summary": "What happens at a longevity festival? On this week's STATus Report, Alex Hogan gets a dispatch from STAT's Sarah Todd."
       },
       {
-        "id": "8c45e873a5c400b1",
-        "title": "STAT+: NIH cuts weakened network primed to respond to outbreaks like Ebola",
-        "url": "https://www.statnews.com/2026/06/03/nih-cuts-infectious-disease-research-funding-hampers-ebola-preparedness/?utm_campaign=rss",
+        "id": "7798e78b8869f036",
+        "title": "Male puberty is understudied \u2014 but when it starts may predict long-term health risks",
+        "url": "https://www.statnews.com/2026/06/04/male-puberty-timing-long-term-health-risk-prediction/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 03 Jun 2026 08:30:00 +0000",
-        "published_dt": "2026-06-03T08:30:00+00:00",
-        "summary": "While NIH-funded centers weren\u2019t on the front lines of virus responses like the CDC or USAID, some researchers involved in the network said the cuts have damaged relationships with experts&#8230;"
+        "published": "Thu, 04 Jun 2026 08:30:00 +0000",
+        "published_dt": "2026-06-04T08:30:00+00:00",
+        "summary": "Due to a significant gender gap, far less is known about the health risks of early or late puberty onset among boys than girls."
       },
       {
-        "id": "bbcaf5ec9a08e287",
-        "title": "Opinion: How the military may be fueling eating disorders in men",
-        "url": "https://www.statnews.com/2026/06/03/eating-disorders-men-military-troops-veterans/?utm_campaign=rss",
+        "id": "23a82712689e8011",
+        "title": "STAT+: Legend Biotech emerged as a rare market winner",
+        "url": "https://www.statnews.com/2026/06/03/biotech-news-legend-biotech-emerges-as-rare-market-winner/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 03 Jun 2026 08:30:00 +0000",
-        "published_dt": "2026-06-03T08:30:00+00:00",
-        "summary": "\u201cMuch of the rhetoric, imagery, and policy messaging from the Trump administration centers on extreme masculine ideals,\u201d First Opinion author writes."
-      },
-      {
-        "id": "ca1f6d62b3dd3406",
-        "title": "Opinion: The Amish way of health care",
-        "url": "https://www.statnews.com/2026/06/03/amish-public-health-vaccines-autism-first-opinion-podcast/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 03 Jun 2026 08:30:00 +0000",
-        "published_dt": "2026-06-03T08:30:00+00:00",
-        "summary": "\u201cPublic health is going to have to talk about the Amish more and more\u201d: Listen to STAT\u2019s \"First Opinion Podcast\" on the Amish and health care."
-      },
-      {
-        "id": "a2669419d60aa598",
-        "title": "Opinion: The medical-billing AI arms race between providers and insurance",
-        "url": "https://www.statnews.com/2026/06/03/ai-arms-race-medical-building-waste/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 03 Jun 2026 08:30:00 +0000",
-        "published_dt": "2026-06-03T08:30:00+00:00",
-        "summary": "\u201cThe financial side effects of care have become clinical ones,\u201d writes Darshak Sanghavi."
+        "published": "Wed, 03 Jun 2026 13:36:39 +0000",
+        "published_dt": "2026-06-03T13:36:39+00:00",
+        "summary": "New guidance for gene therapy developers, Lilly's deal for kidney drugs, and more biotech news from The Readout"
       },
       {
         "id": "04d4f1e9d6af9687",
@@ -174,15 +201,6 @@
         "summary": "Abivax has raised the efficacy bar in ulcerative colitis, linking obefazimod to a 40%, placebo-adjusted jump in clinical remission rates in a phase 3 trial. But the share price of the biotech, a reported takeover target for several Big Pharmas, collapsed after several patients on the high dose developed cancers."
       },
       {
-        "id": "49f27d53273b1db7",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/asco-long-term-early-data-backs-tremendous-potential-takedas-innovent-oncology-collab\" hreflang=\"en\">ASCO: Takeda touts \u2018tremendous potential\u2019 of Innovent\u2019s PD-1/IL-2 bispecific after seeing survival data</a>",
-        "url": "https://www.fiercebiotech.com/biotech/asco-long-term-early-data-backs-tremendous-potential-takedas-innovent-oncology-collab",
-        "source": "Fierce Biotech",
-        "published": "Jun 1, 2026 10:17pm",
-        "published_dt": "2026-06-01T22:17:00+00:00",
-        "summary": "Takeda and Innovent's long-term follow-up data from an early study of their collaborative PD-1/IL-2 bispecific colors the \"tremendous potential\" of the asset, Takeda's P.K. Morrow said in an interview."
-      },
-      {
         "id": "c800011341c92fa8",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/asco-10-billion-ambitions-celcuity-details-breast-cancer-win-over-piqray\" hreflang=\"en\">ASCO: Celcuity dares to dream of becoming $10B company after breast cancer win over Piqray</a>",
         "url": "https://www.fiercebiotech.com/biotech/asco-10-billion-ambitions-celcuity-details-breast-cancer-win-over-piqray",
@@ -192,43 +210,178 @@
         "summary": "While Revolution Medicines dominated this year\u2019s American Society of Clinical Oncology annual meeting by conquering the \u201cundruggable\u201d RAS pathway, another up-and-coming biotech hopes to do the same with a different vexing target that drives a plethora of cancers."
       },
       {
-        "id": "ebfb9a675e8a557c",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/asco-2026-paradigm-shift-rare-gut-cancer-looms\" hreflang=\"en\">At ASCO 2026, a \u2018paradigm shift\u2019 for a rare gut cancer looms</a>",
-        "url": "https://www.fiercebiotech.com/biotech/asco-2026-paradigm-shift-rare-gut-cancer-looms",
+        "id": "909621b52e13101f",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/why-autoimmune-car-t-player-cabaletta-looking-have-durability-its-business-and-therapies\" hreflang=\"en\">From business strategy to CAR-T responses, for Cabaletta it\u2019s all about \u2018durability\u2019</a>",
+        "url": "https://www.fiercebiotech.com/biotech/why-autoimmune-car-t-player-cabaletta-looking-have-durability-its-business-and-therapies",
         "source": "Fierce Biotech",
-        "published": "Jun 1, 2026 3:14pm",
-        "published_dt": "2026-06-01T15:14:00+00:00",
-        "summary": "For patients with a rare cancer that arises in the gut wall, standard treatment hasn\u2019t changed in the last 20 years. At the American Society of Clinical Oncology meeting in Chicago, GSK shared a first look at its attempt to change that."
+        "published": "Jun 4, 2026 5:29am",
+        "published_dt": "2026-06-04T05:29:00+00:00",
+        "summary": "Fierce sat down with Cabaletta's executives at EULAR to discuss their approval timeline and which areas of development they feel like they have a head start."
       },
       {
-        "id": "5fd5f4995f4ad272",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/imu-biosciences-nabs-53m-funding-round-decode-immune-system\" hreflang=\"en\">IMU Biosciences nabs $53M funding round to \u2018decode\u2019 the immune system</a>",
-        "url": "https://www.fiercebiotech.com/medtech/imu-biosciences-nabs-53m-funding-round-decode-immune-system",
+        "id": "2e9c7add8e8a6b11",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/alnylam-pays-inceptive-30m-transform-sirna-design-ai-pioneer\" hreflang=\"en\">Alnylam pens $2B deal with Inceptive to transform siRNA design with AI pioneer</a>",
+        "url": "https://www.fiercebiotech.com/biotech/alnylam-pays-inceptive-30m-transform-sirna-design-ai-pioneer",
         "source": "Fierce Biotech",
-        "published": "Jun 3, 2026 2:59am",
-        "published_dt": "2026-06-03T02:59:00+00:00",
-        "summary": "British medtech startup IMU Biosciences has landed a \u00a340 million ($53 million) series A as it looks to move immune system analysis from analog to \u201chigh definition.\u201d"
-      },
-      {
-        "id": "25161185a280a7ef",
-        "title": "Senior NIH scientist, research fellow charged with bringing deactivated mpox virus into U.S.",
-        "url": "https://www.statnews.com/2026/06/02/nih-scientist-federal-charges-mpox/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 03 Jun 2026 00:41:06 +0000",
-        "published_dt": "2026-06-03T00:41:06+00:00",
-        "summary": "A senior NIH scientist and his research fellow were charged with smuggling vials of deactivated mpox virus into the country from Africa and lying about it."
-      },
-      {
-        "id": "4ec9c10fa2d602f7",
-        "title": "<a href=\"https://www.fiercebiotech.com/pharma/akeso-takes-center-stage-asco-china-biotech-industry-cements-its-coming-age\" hreflang=\"en\">As Akeso takes center stage at ASCO, China biotech industry cements its coming of age</a>",
-        "url": "https://www.fiercebiotech.com/pharma/akeso-takes-center-stage-asco-china-biotech-industry-cements-its-coming-age",
-        "source": "Fierce Biotech",
-        "published": "Jun 2, 2026 10:54pm",
-        "published_dt": "2026-06-02T22:54:00+00:00",
-        "summary": "In 2017, a little-known company called Nanjing Legend Biotech walked into the ASCO annual meeting at the 11th hour, dropped a 100% objective response rate for a cell therapy that would become Carvykti, and single-handedly put Chinese biotech on the global map. Nearly a decade later, taking the center stage at ASCO 2026, Akeso\u2019s ivonescimab made history by offering the first-ever Chinese data set to command a coveted spot on the plenary session."
+        "published": "Jun 4, 2026 4:13am",
+        "published_dt": "2026-06-04T04:13:00+00:00",
+        "summary": "Alnylam has partnered with the person who helped put the \u201cT\u201d in ChatGPT, paying $30 million to work with Jakob Uszkoreit\u2019s Inceptive Nucleics on artificial intelligence-enabled drug design."
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "ca6dca451773f96a",
+        "title": "Delian Asparouhov and Philip Johnston on making the case for orbital data centers",
+        "url": "https://spacenews.com/delian-asparouhov-and-philip-johnston-on-making-the-case-for-orbital-data-centers/",
+        "source": "SpaceNews",
+        "published": "Thu, 04 Jun 2026 15:03:40 +0000",
+        "published_dt": "2026-06-04T15:03:40+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/space-minds-podcast-orbital-data-centers-starcloud-2000-1500.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>This episode of Space Minds is from SpaceNews\u2019 recent event on orbital data centers. There, Jeff Foust talks with talks with Founders Fund\u2019s Delian Asparouhov about why he\u2019s warming to [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/delian-asparouhov-and-philip-johnston-on-making-the-case-for-orbital-data-centers/\">Delian Asparouhov and Philip Johnston on making the case for orbital data centers</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "0887f54c5b968df1",
+        "title": "ASRock Rack expands AI infrastructure for agentic workloads",
+        "url": "https://www.engineering.com/asrock-rack-expands-ai-infrastructure-for-agentic-workloads/",
+        "source": "Engineering.com",
+        "published": "Thu, 04 Jun 2026 11:20:15 +0000",
+        "published_dt": "2026-06-04T11:20:15+00:00",
+        "summary": "<p>Its new portfolio spans liquid-cooled AI factory systems, inference servers and edge platforms for robotics and medical use.</p>\n<p>The post <a href=\"https://www.engineering.com/asrock-rack-expands-ai-infrastructure-for-agentic-workloads/\">ASRock Rack expands AI infrastructure for agentic workloads</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "7222c8b71b57f0e2",
+        "title": "NASA working to streamline development of nuclear electric propulsion demo mission",
+        "url": "https://spacenews.com/nasa-working-to-streamline-development-of-nuclear-electric-propulsion-demo-mission/",
+        "source": "SpaceNews",
+        "published": "Thu, 04 Jun 2026 10:55:56 +0000",
+        "published_dt": "2026-06-04T10:55:56+00:00",
+        "summary": "<figure><img alt=\"SR-1 Freedom\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"552\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/sr-1-freedom.jpeg?fit=1024%2C552&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA is working on a streamlined management approach for a nuclear electric propulsion demonstration mission the agency wants to launch in two and a half years.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-working-to-streamline-development-of-nuclear-electric-propulsion-demo-mission/\">NASA working to streamline development of nuclear electric propulsion demo mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "a74967011f145c86",
+        "title": "NVIDIA launches Cosmos 3 for physical AI models",
+        "url": "https://www.engineering.com/nvidia-launches-cosmos-3-for-physical-ai-models/",
+        "source": "Engineering.com",
+        "published": "Thu, 04 Jun 2026 11:27:50 +0000",
+        "published_dt": "2026-06-04T11:27:50+00:00",
+        "summary": "<p>The open model combines vision reasoning, world generation and action prediction for robots, AVs and vision agents.</p>\n<p>The post <a href=\"https://www.engineering.com/nvidia-launches-cosmos-3-for-physical-ai-models/\">NVIDIA launches Cosmos 3 for physical AI models</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "ef5ca32dabd2fbdf",
+        "title": "GMI Cloud backs NVIDIA-based agentic AI infrastructure",
+        "url": "https://www.engineering.com/gmi-cloud-backs-nvidia-based-agentic-ai-infrastructure/",
+        "source": "Engineering.com",
+        "published": "Thu, 04 Jun 2026 11:13:30 +0000",
+        "published_dt": "2026-06-04T11:13:30+00:00",
+        "summary": "<p>The platform targets multimodal inference, dedicated endpoints and secure orchestration for continuously running AI systems.</p>\n<p>The post <a href=\"https://www.engineering.com/gmi-cloud-backs-nvidia-based-agentic-ai-infrastructure/\">GMI Cloud backs NVIDIA-based agentic AI infrastructure</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "2f8a7f28b0c9b71f",
+        "title": "Siemens names Markus Grabmeier CEO of electrical products",
+        "url": "https://www.engineering.com/siemens-names-markus-grabmeier-ceo-of-electrical-products/",
+        "source": "Engineering.com",
+        "published": "Thu, 04 Jun 2026 10:12:19 +0000",
+        "published_dt": "2026-06-04T10:12:19+00:00",
+        "summary": "<p>Grabmeier takes over June 1, 2026 as Andreas Matth\u00e9 remains in an advisory role through September.</p>\n<p>The post <a href=\"https://www.engineering.com/siemens-names-markus-grabmeier-ceo-of-electrical-products/\">Siemens names Markus Grabmeier CEO of electrical products</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "6bb92c268e84ecbe",
+        "title": "Autodesk expands AWS collaboration for cloud workflows",
+        "url": "https://www.engineering.com/autodesk-expands-aws-collaboration-for-cloud-workflows/",
+        "source": "Engineering.com",
+        "published": "Thu, 04 Jun 2026 09:57:14 +0000",
+        "published_dt": "2026-06-04T09:57:14+00:00",
+        "summary": "<p>Fusion products will be available through AWS Marketplace, adding new purchasing and billing options for AWS customers.</p>\n<p>The post <a href=\"https://www.engineering.com/autodesk-expands-aws-collaboration-for-cloud-workflows/\">Autodesk expands AWS collaboration for cloud workflows</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "5eba4005f68284d2",
+        "title": "China builds institutional framework for space computing push",
+        "url": "https://spacenews.com/china-builds-institutional-framework-for-space-computing-push/",
+        "source": "SpaceNews",
+        "published": "Thu, 04 Jun 2026 09:51:01 +0000",
+        "published_dt": "2026-06-04T09:51:01+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/CZ12B-debut-sunset-JSLC-1-CASC.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>China is establishing an industrial policy framework to support a push to build space-based computing infrastructure, with the emergence of influential coordinating bodies.</p>\n<p>The post <a href=\"https://spacenews.com/china-builds-institutional-framework-for-space-computing-push/\">China builds institutional framework for space computing push</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "b181e36b961710f0",
+        "title": "Researchers call for regulations to protect low Earth orbit environment",
+        "url": "https://spacenews.com/researchers-call-for-regulations-to-protect-low-earth-orbit-environment/",
+        "source": "SpaceNews",
+        "published": "Tue, 02 Jun 2026 11:00:00 +0000",
+        "published_dt": "2026-06-02T11:00:00+00:00",
+        "summary": "<figure><img alt=\"A graphic detailing how spacecraft reentry introduces metals into the stratosphere. Credit: Chelsea Thompson, NOAA\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"843\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/graphic-space-debris-noaa-scaled.jpg?fit=1024%2C843&amp;ssl=1\" width=\"1024\" /></figure>\n<p>BOULDER, Colorado \u2014 Researchers are calling for increased attention and better protection against the rising introduction of exotic materials into Earth\u2019s atmosphere from satellite and space hardware re-entry, especially in [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/researchers-call-for-regulations-to-protect-low-earth-orbit-environment/\">Researchers call for regulations to protect low Earth orbit environment</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "4e8684e537550d3d",
+        "title": "binder introduces B23 hybrid automation connector",
+        "url": "https://www.engineering.com/binder-introduces-b23-hybrid-automation-connector/",
+        "source": "Engineering.com",
+        "published": "Thu, 04 Jun 2026 05:41:53 +0000",
+        "published_dt": "2026-06-04T05:41:53+00:00",
+        "summary": "<p>The connector combines power and Cat5 Ethernet in one interface and supports up to 28 A and 630 V.</p>\n<p>The post <a href=\"https://www.engineering.com/binder-introduces-b23-hybrid-automation-connector/\">binder introduces B23 hybrid automation connector</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "719f5e614ce6efc3",
+        "title": "SpaceX to raise at least $75 billion in IPO",
+        "url": "https://spacenews.com/spacex-to-raise-at-least-75-billion-in-ipo/",
+        "source": "SpaceNews",
+        "published": "Thu, 04 Jun 2026 02:54:32 +0000",
+        "published_dt": "2026-06-04T02:54:32+00:00",
+        "summary": "<figure><img alt=\"Starship Flight 12 liftoff\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"557\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/starship-flt12-liftoffcloseup.jpeg?fit=1024%2C557&amp;ssl=1\" width=\"1024\" /></figure>\n<p>SpaceX plans to raise at least $75 billion in its initial public offering, valuing the company at more than $1.75 trillion.</p>\n<p>The post <a href=\"https://spacenews.com/spacex-to-raise-at-least-75-billion-in-ipo/\">SpaceX to raise at least $75 billion in IPO</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "152959a934ff30e2",
+        "title": "NASA declares end to MAVEN Mars mission",
+        "url": "https://spacenews.com/nasa-declares-end-to-maven-mars-mission/",
+        "source": "SpaceNews",
+        "published": "Thu, 04 Jun 2026 00:20:49 +0000",
+        "published_dt": "2026-06-04T00:20:49+00:00",
+        "summary": "<figure><img alt=\"MAVEN\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"622\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/maven.jpeg?fit=1024%2C622&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA has formally ended a Mars mission that has been out of contact for six months while the investigation into the spacecraft\u2019s demise continues.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-declares-end-to-maven-mars-mission/\">NASA declares end to MAVEN Mars mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "41ff84c80e156b27",
+        "title": "Siemens unveils Intelligence Center X at Realize Live 2026",
+        "url": "https://www.engineering.com/siemens-unveils-intelligence-center-x-at-realize-live-2026/",
+        "source": "Engineering.com",
+        "published": "Wed, 03 Jun 2026 22:50:14 +0000",
+        "published_dt": "2026-06-03T22:50:14+00:00",
+        "summary": "<p>Find out what the new AI software has in common with wildfires, plus Autodesk\u2019s $3.6 billion acquisition and more engineering software news.</p>\n<p>The post <a href=\"https://www.engineering.com/siemens-unveils-intelligence-center-x-at-realize-live-2026/\">Siemens unveils Intelligence Center X at Realize Live 2026</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "065e574004bf7db8",
+        "title": "AST SpaceMobile sees New Glenn setback delaying initial commercial service into 2027",
+        "url": "https://spacenews.com/ast-spacemobile-sees-new-glenn-setback-delaying-initial-commercial-service-into-2027/",
+        "source": "SpaceNews",
+        "published": "Wed, 03 Jun 2026 21:12:58 +0000",
+        "published_dt": "2026-06-03T21:12:58+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"646\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2022/03/BlueBird-scaled.jpg?fit=1024%2C646&amp;ssl=1\" width=\"1024\" /></figure>\n<p>AST SpaceMobile expects Blue Origin\u2019s recent launchpad explosion will delay its direct-to-smartphone constellation by three to six months, investment bank William Blair said in an equity research note, pushing initial commercial services into the first half of 2027.</p>\n<p>The post <a href=\"https://spacenews.com/ast-spacemobile-sees-new-glenn-setback-delaying-initial-commercial-service-into-2027/\">AST SpaceMobile sees New Glenn setback delaying initial commercial service into 2027</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "1458deb1f2061429",
+        "title": "After cooperation on SMILE mission, ESA and China chart parallel but separate paths",
+        "url": "https://spacenews.com/after-cooperation-on-smile-mission-esa-and-china-chart-parallel-but-separate-paths/",
+        "source": "SpaceNews",
+        "published": "Wed, 03 Jun 2026 18:20:34 +0000",
+        "published_dt": "2026-06-03T18:20:34+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"718\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2023/02/SMILE-spacecraft-adapter-integration-tests-feb2023-CAS-1.png?fit=1024%2C718&amp;ssl=1\" width=\"1024\" /></figure>\n<p>ESA and China recently launched the joint SMILE magnetosphere mission after a decade of cooperation, but despite similar goals, another collaboration appears distant.</p>\n<p>The post <a href=\"https://spacenews.com/after-cooperation-on-smile-mission-esa-and-china-chart-parallel-but-separate-paths/\">After cooperation on SMILE mission, ESA and China chart parallel but separate paths</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "62832507e9c156f8",
+        "title": "Industrial AI isn\u2019t really about AI at all",
+        "url": "https://www.engineering.com/industrial-ai-isnt-really-about-ai-at-all/",
+        "source": "Engineering.com",
+        "published": "Wed, 03 Jun 2026 18:20:03 +0000",
+        "published_dt": "2026-06-03T18:20:03+00:00",
+        "summary": "<p>AI is not the transformation; it\u2019s the instrument revealing where transformation is needed.</p>\n<p>The post <a href=\"https://www.engineering.com/industrial-ai-isnt-really-about-ai-at-all/\">Industrial AI isn\u2019t really about AI at all</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "b58419bdbe3d6a6a",
+        "title": "U.S. Space Force to build new facility, move acquisition unit and expand officer training course in Colorado, lawmaker says",
+        "url": "https://aerospaceamerica.aiaa.org/u-s-space-force-to-build-new-facility-move-acquisition-unit-and-expand-officer-training-course-in-colorado-lawmaker-says/",
+        "source": "Aerospace America",
+        "published": "Wed, 03 Jun 2026 17:28:04 +0000",
+        "published_dt": "2026-06-03T17:28:04+00:00",
+        "summary": ""
+      },
       {
         "id": "1b2190e606f0fe0d",
         "title": "Electronics manufacturer Murata to explore Xona satellite timing service for telecom, data centers",
@@ -275,42 +428,6 @@
         "summary": "<p>It combines a Blackwell GPU, 20-core Grace CPU, 128GB unified memory and on-device agent security for AI workloads.</p>\n<p>The post <a href=\"https://www.engineering.com/nvidia-unveils-rtx-spark-superchip-for-windows-pcs/\">NVIDIA unveils RTX Spark superchip for Windows PCs</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "f1a0e33b92a10e4e",
-        "title": "Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration",
-        "url": "https://spacenews.com/bellatrix-and-telepix-plan-2028-air-breathing-vleo-imaging-demonstration/",
-        "source": "SpaceNews",
-        "published": "Fri, 29 May 2026 13:36:35 +0000",
-        "published_dt": "2026-05-29T13:36:35+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"931\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Bellatrix-ceremony-scaled.jpg?fit=1024%2C931&amp;ssl=1\" width=\"1024\" /></figure>\n<p>South Korean optical payload developer TelePIX and Indian propulsion specialist Bellatrix Aerospace have teamed up on a very low Earth orbit geospatial demonstration mission slated for 2028.</p>\n<p>The post <a href=\"https://spacenews.com/bellatrix-and-telepix-plan-2028-air-breathing-vleo-imaging-demonstration/\">Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "e28979f352d4138d",
-        "title": "Supermicro introduces Arm-based rack-scale AI systems",
-        "url": "https://www.engineering.com/supermicro-introduces-arm-based-rack-scale-ai-systems/",
-        "source": "Engineering.com",
-        "published": "Wed, 03 Jun 2026 11:03:37 +0000",
-        "published_dt": "2026-06-03T11:03:37+00:00",
-        "summary": "<p>The lineup includes air- and liquid-cooled servers with up to 136 cores per CPU and support for dense agentic AI deployments.</p>\n<p>The post <a href=\"https://www.engineering.com/supermicro-introduces-arm-based-rack-scale-ai-systems/\">Supermicro introduces Arm-based rack-scale AI systems</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "05ef4df46f7e65d1",
-        "title": "Schneider Electric launches Uniflair XCA chillers",
-        "url": "https://www.engineering.com/schneider-electric-launches-uniflair-xca-chillers/",
-        "source": "Engineering.com",
-        "published": "Wed, 03 Jun 2026 10:58:00 +0000",
-        "published_dt": "2026-06-03T10:58:00+00:00",
-        "summary": "<p>The 1,200 kW to 2,500 kW units target AI liquid-cooled data centers with oil-free compressors and free-cooling options.</p>\n<p>The post <a href=\"https://www.engineering.com/schneider-electric-launches-uniflair-xca-chillers/\">Schneider Electric launches Uniflair XCA chillers</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "a4b72fdd3f7cd93a",
-        "title": "Ayar Labs joins NVIDIA NVLink Fusion ecosystem",
-        "url": "https://www.engineering.com/ayar-labs-joins-nvidia-nvlink-fusion-ecosystem/",
-        "source": "Engineering.com",
-        "published": "Wed, 03 Jun 2026 10:53:09 +0000",
-        "published_dt": "2026-06-03T10:53:09+00:00",
-        "summary": "<p>Its co-packaged optics are intended to help scale bandwidth, reduce latency and ease power limits in rack-scale AI systems.</p>\n<p>The post <a href=\"https://www.engineering.com/ayar-labs-joins-nvidia-nvlink-fusion-ecosystem/\">Ayar Labs joins NVIDIA NVLink Fusion ecosystem</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
         "id": "c57b5716c84805b0",
         "title": "Blue Origin seeks to resume New Glenn launches by year\u2019s end",
         "url": "https://spacenews.com/blue-origin-seeks-to-resume-new-glenn-launches-by-years-end/",
@@ -318,24 +435,6 @@
         "published": "Wed, 03 Jun 2026 10:39:28 +0000",
         "published_dt": "2026-06-03T10:39:28+00:00",
         "summary": "<figure><img alt=\"New Glenn launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Gallery-NG3-liftoff3-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Blue Origin\u2019s CEO says damage to its New Glenn launch pad is not as bad as feared and the rocket could return to flight by the end of the year.</p>\n<p>The post <a href=\"https://spacenews.com/blue-origin-seeks-to-resume-new-glenn-launches-by-years-end/\">Blue Origin seeks to resume New Glenn launches by year\u2019s end</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "3085b25d2de5d84e",
-        "title": "Causaly, Microsoft link computation and scientific reasoning",
-        "url": "https://www.engineering.com/causaly-microsoft-link-computation-and-scientific-reasoning/",
-        "source": "Engineering.com",
-        "published": "Wed, 03 Jun 2026 10:20:56 +0000",
-        "published_dt": "2026-06-03T10:20:56+00:00",
-        "summary": "<p>The workflow aims to help biopharma teams assess targets, biomarkers, safety and mechanism questions with cited evidence.</p>\n<p>The post <a href=\"https://www.engineering.com/causaly-microsoft-link-computation-and-scientific-reasoning/\">Causaly, Microsoft link computation and scientific reasoning</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "9eb1d4fa5f44217c",
-        "title": "33DPQ Podcast \u2013 Eric Beardslee",
-        "url": "https://www.engineering.com/33dpq-podcast-eric-beardslee/",
-        "source": "Engineering.com",
-        "published": "Tue, 02 Jun 2026 23:20:25 +0000",
-        "published_dt": "2026-06-02T23:20:25+00:00",
-        "summary": "<p>AON3D product marketing and content manager says there\u2019s no silver bullet in additive manufacturing.</p>\n<p>The post <a href=\"https://www.engineering.com/33dpq-podcast-eric-beardslee/\">33DPQ Podcast \u2013 Eric Beardslee</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "04b005cc5d1c33f1",
@@ -347,24 +446,6 @@
         "summary": ""
       },
       {
-        "id": "b181e36b961710f0",
-        "title": "Researchers call for regulations to protect low Earth orbit environment",
-        "url": "https://spacenews.com/researchers-call-for-regulations-to-protect-low-earth-orbit-environment/",
-        "source": "SpaceNews",
-        "published": "Tue, 02 Jun 2026 11:00:00 +0000",
-        "published_dt": "2026-06-02T11:00:00+00:00",
-        "summary": "<figure><img alt=\"A graphic detailing how spacecraft reentry introduces metals into the stratosphere. Credit: Chelsea Thompson, NOAA\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"843\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/graphic-space-debris-noaa-scaled.jpg?fit=1024%2C843&amp;ssl=1\" width=\"1024\" /></figure>\n<p>BOULDER, Colorado \u2014 Researchers are calling for increased attention and better protection against the rising introduction of exotic materials into Earth\u2019s atmosphere from satellite and space hardware re-entry, especially in [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/researchers-call-for-regulations-to-protect-low-earth-orbit-environment/\">Researchers call for regulations to protect low Earth orbit environment</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "8935d8adfd0cb09d",
-        "title": "FAA documents outline SpaceX plans for Starfall reentry vehicles",
-        "url": "https://spacenews.com/faa-documents-outline-spacex-plans-for-starfall-reentry-vehicles/",
-        "source": "SpaceNews",
-        "published": "Sun, 31 May 2026 09:26:19 +0000",
-        "published_dt": "2026-05-31T09:26:19+00:00",
-        "summary": "<figure><img alt=\"Starfall\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"544\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/starfall.jpeg?fit=1024%2C544&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Federal Aviation Administration documents have provided new details about a SpaceX project to develop and test reentry vehicles that could be used to support in-space manufacturing projects.</p>\n<p>The post <a href=\"https://spacenews.com/faa-documents-outline-spacex-plans-for-starfall-reentry-vehicles/\">FAA documents outline SpaceX plans for Starfall reentry vehicles</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
         "id": "0517ec14ba7864e5",
         "title": "NRO nominee says commercial space, AI are reshaping spy satellite agency",
         "url": "https://spacenews.com/nro-nominee-says-commercial-space-ai-are-reshaping-spy-satellite-agency/",
@@ -372,87 +453,6 @@
         "published": "Tue, 02 Jun 2026 22:22:44 +0000",
         "published_dt": "2026-06-02T22:22:44+00:00",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"567\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Screenshot-2026-06-02-at-5.03.27-PM.png?fit=1024%2C567&amp;ssl=1\" width=\"1024\" /></figure>\n<p>In a confirmation hearing, Roger Mason said clear government demand signals are needed as private investment transforms the space intelligence market</p>\n<p>The post <a href=\"https://spacenews.com/nro-nominee-says-commercial-space-ai-are-reshaping-spy-satellite-agency/\">NRO nominee says commercial space, AI are reshaping spy satellite agency</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "e38e9cc863c42c38",
-        "title": "Stratasys and Markforged: \u2018The perfect match\u2019",
-        "url": "https://www.engineering.com/stratasys-and-markforged-the-perfect-match/",
-        "source": "Engineering.com",
-        "published": "Tue, 02 Jun 2026 20:23:13 +0000",
-        "published_dt": "2026-06-02T20:23:13+00:00",
-        "summary": "<p>Stratasys CEO Yoav Zeif discusses his company\u2019s recent acquisition of Markforged.</p>\n<p>The post <a href=\"https://www.engineering.com/stratasys-and-markforged-the-perfect-match/\">Stratasys and Markforged: \u2018The perfect match\u2019</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "9156a786e47ceff5",
-        "title": "Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety",
-        "url": "https://spacenews.com/global-ssa-market-to-reach-61b-as-governments-prioritize-space-security-resilience-and-orbital-safety/",
-        "source": "SpaceNews",
-        "published": "Tue, 02 Jun 2026 15:11:48 +0000",
-        "published_dt": "2026-06-02T15:11:48+00:00",
-        "summary": "<figure><img alt=\"Novaspace logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Paris, France \u2013 May 2026 \u2013 The 2nd edition of Novaspace\u2019s Space Situational Awareness (SSA) report points to a pivotal decade ahead, with cumulative global spending projected to reach $61 [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/global-ssa-market-to-reach-61b-as-governments-prioritize-space-security-resilience-and-orbital-safety/\">Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "b0588f2aca79838e",
-        "title": "Vertiv advances SmartRun digital twin for AI factories",
-        "url": "https://www.engineering.com/vertiv-advances-smartrun-digital-twin-for-ai-factories/",
-        "source": "Engineering.com",
-        "published": "Tue, 02 Jun 2026 14:32:29 +0000",
-        "published_dt": "2026-06-02T14:32:29+00:00",
-        "summary": "<p>Integrated with NVIDIA Omniverse DSX Blueprint, it enables infrastructure simulation and validation before build-out.</p>\n<p>The post <a href=\"https://www.engineering.com/vertiv-advances-smartrun-digital-twin-for-ai-factories/\">Vertiv advances SmartRun digital twin for AI factories</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "9e8f877bf6c5987f",
-        "title": "BE Networks, IREN simulate Blackwell Ultra AI cloud",
-        "url": "https://www.engineering.com/be-networks-iren-simulate-blackwell-ultra-ai-cloud/",
-        "source": "Engineering.com",
-        "published": "Tue, 02 Jun 2026 14:26:47 +0000",
-        "published_dt": "2026-06-02T14:26:47+00:00",
-        "summary": "<p>Using NVIDIA DSX Air and Verity, they will test topologies, workflows and operations before deploying 50,000-plus GPUs.</p>\n<p>The post <a href=\"https://www.engineering.com/be-networks-iren-simulate-blackwell-ultra-ai-cloud/\">BE Networks, IREN simulate Blackwell Ultra AI cloud</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "03853c61f607c37a",
-        "title": "The importance of determining an equilibrium state for space traffic management",
-        "url": "https://spacenews.com/the-importance-of-determining-an-equilibrium-state-for-space-traffic-management/",
-        "source": "SpaceNews",
-        "published": "Tue, 02 Jun 2026 13:00:00 +0000",
-        "published_dt": "2026-06-02T13:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"550\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/161021-D-ZZ999-998-e1771452020431.jpg?fit=1024%2C550&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The rapid expansion of human and robotic activity in low Earth orbit makes critically important the need to implement effective space traffic management (STM). This will be one of the [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/the-importance-of-determining-an-equilibrium-state-for-space-traffic-management/\">The importance of determining an equilibrium state for space traffic management</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "694f06fdbdf445e9",
-        "title": "UK explores Vast space station mission for astronaut with physical disability",
-        "url": "https://spacenews.com/uk-explores-vast-space-station-mission-for-astronaut-with-physical-disability/",
-        "source": "SpaceNews",
-        "published": "Tue, 02 Jun 2026 12:25:40 +0000",
-        "published_dt": "2026-06-02T12:25:40+00:00",
-        "summary": "<figure><img alt=\"McFall\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/Exploring_gravity_s_effects_parabolic_flights.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The U.K. government is exploring sending British astronaut John McFall to Vast\u2019s planned Haven-1 space station in a mission it says could make him the first person with a physical disability to live in orbit.</p>\n<p>The post <a href=\"https://spacenews.com/uk-explores-vast-space-station-mission-for-astronaut-with-physical-disability/\">UK explores Vast space station mission for astronaut with physical disability</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "c58bedb7a7aef4d3",
-        "title": "Impulse Space raises $500 million",
-        "url": "https://spacenews.com/impulse-space-raises-500-million/",
-        "source": "SpaceNews",
-        "published": "Tue, 02 Jun 2026 12:11:05 +0000",
-        "published_dt": "2026-06-02T12:11:05+00:00",
-        "summary": "<figure><img alt=\"Impulse GEO rideshare\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/08/Impulse-GEO-Rideshare.png?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Impulse Space has raised $500 million to expand production of orbital transfer vehicles and other spacecraft to support growing commercial and government demand.</p>\n<p>The post <a href=\"https://spacenews.com/impulse-space-raises-500-million/\">Impulse Space raises $500 million</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "dbcd3b5b8f540928",
-        "title": "Voyager to acquire lunar lander developer Astrobotic",
-        "url": "https://spacenews.com/voyager-to-acquire-lunar-lander-developer-astrobotic/",
-        "source": "SpaceNews",
-        "published": "Tue, 02 Jun 2026 11:54:21 +0000",
-        "published_dt": "2026-06-02T11:54:21+00:00",
-        "summary": "<figure><img alt=\"Griffin and FLIP\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/griffin-flip.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Voyager Technologies will acquire Astrobotic, a company developing lunar landers and reusable suborbital vehicles, in a deal worth up to $300 million.</p>\n<p>The post <a href=\"https://spacenews.com/voyager-to-acquire-lunar-lander-developer-astrobotic/\">Voyager to acquire lunar lander developer Astrobotic</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "59b3560bdda49c25",
-        "title": "NASA abandons \u2018core module\u2019 concept for commercial space station development",
-        "url": "https://spacenews.com/nasa-abandons-core-module-concept-for-commercial-space-station-development/",
-        "source": "SpaceNews",
-        "published": "Tue, 02 Jun 2026 07:51:59 +0000",
-        "published_dt": "2026-06-02T07:51:59+00:00",
-        "summary": "<figure><img alt=\"core module\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"555\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/isscoremodule.jpeg?fit=1024%2C555&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA is withdrawing a proposal to revamp its strategy for transitioning from the International Space Station to commercial stations, one that had been criticized by the companies developing such stations.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-abandons-core-module-concept-for-commercial-space-station-development/\">NASA abandons \u2018core module\u2019 concept for commercial space station development</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
@@ -493,6 +493,15 @@
         "summary": "Why did U.S. manufacturing productivity stop growing after 2010? Productivity growth disappeared, evaporating from an annual rate of +3.3 percent during 1987-2010 to -0.3 percent from 2010 to 2023. This paper shifts attention from 2010 as the start of the puzzle to a decade earlier when output stopped growing. This cessation of output growth in 2000 is attributed to the invasion of imports that closed domestic plants, destroyed jobs, and squeezed profits. Then followed a chain of causation that ultimately undermined productivity growth \u2013 from falling capacity utilization, to lower investment in fixed capital and R&amp;D, and to an erosion of innovation. Beyond the import invasion, the paper identifies a set of handicaps ranging from self-inflicted wounds by private manufacturing firms to a marked reduction in government-funded R&amp;D spending. Corporate funds were diverted from productive investment to share buybacks. Investment was distorted by environmental, health, safety, and fuel economy regulations. Innovation slowed not only because of diminishing returns to R&amp;D, but also because of a decline in public R&amp;D, and a diversion of private R&amp;D from basic science and process improvements to product refinements and brand extensions. Skilled worker shortages have plagued manufacturing for decades in the absence of sufficient public and private investment in vocational training."
       },
       {
+        "id": "047ff28ba40a0363",
+        "title": "Some billionaires pay too little tax",
+        "url": "https://www.economist.com/finance-and-economics/2026/06/04/some-billionaires-pay-too-little-tax",
+        "source": "Finance & economics",
+        "published": "Thu, 04 Jun 2026 09:18:42 +0000",
+        "published_dt": "2026-06-04T09:18:42+00:00",
+        "summary": "But the case for levies on wealth is unconvincing"
+      },
+      {
         "id": "fd333dbe0579c51b",
         "title": "Kevin Warsh\u2019s troublesome inflation in-tray",
         "url": "https://www.economist.com/finance-and-economics/2026/05/27/kevin-warshs-troublesome-inflation-in-tray",
@@ -500,6 +509,15 @@
         "published": "Wed, 27 May 2026 20:26:28 +0000",
         "published_dt": "2026-05-27T20:26:28+00:00",
         "summary": "The new Fed chair will struggle to appease his colleagues, the market and Donald Trump\u00a0all at once"
+      },
+      {
+        "id": "c08b3fbdd1e3a7b0",
+        "title": "Indians can now bet on the monsoon",
+        "url": "https://www.economist.com/finance-and-economics/2026/06/04/indians-can-now-bet-on-the-monsoon",
+        "source": "Finance & economics",
+        "published": "Thu, 04 Jun 2026 09:48:11 +0000",
+        "published_dt": "2026-06-04T09:48:11+00:00",
+        "summary": "Heatwaves may be more important"
       },
       {
         "id": "504f391ae1fac781",
@@ -610,9 +628,27 @@
         "summary": "This paper studies the role of economic participation via the labor market in enabling the political mobilization of an underrepresented group. Specifically, we study the wives and daughters of disabled Union Army soldiers after the U.S. Civil War. Linking Union Army enlistment records to the 1860 and 1870 U.S. censuses, we find that the wives and daughters of disabled veterans were significantly more likely to participate in the labor force than those of non-disabled veterans. Historical evidence suggests that disabled veterans were also more exposed to postwar alcohol and substance abuse, increasing the household burdens faced by women. Town-level data show that increases in women's labor force participation combined with higher shares of disabled veterans predict more Temperance Crusade activity in 1873-74. Information provision via newspapers and proximity to other protest towns amplify these effects. Using unit-level disability rates as an instrument for veterans' disability status supports a causal interpretation of the labor market effects. Our results suggest that labor force participation can be an important enabling factor for the political mobilization of underrepresented groups."
       },
       {
-        "id": "7b3cbc7a56378825",
-        "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-        "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+        "id": "eeb08a7c8832265e",
+        "title": "European electricity markets have too much power",
+        "url": "https://www.economist.com/finance-and-economics/2026/06/04/european-electricity-markets-have-too-much-power",
+        "source": "Finance & economics",
+        "published": "Thu, 04 Jun 2026 09:37:28 +0000",
+        "published_dt": "2026-06-04T09:37:28+00:00",
+        "summary": "They must learn to deal with it"
+      },
+      {
+        "id": "1fea1011e30bb448",
+        "title": "Gen-Z socialism, from Zohran to Zack and beyond",
+        "url": "https://www.economist.com/finance-and-economics/2026/06/04/gen-z-socialism-from-zohran-to-zack-and-beyond",
+        "source": "Finance & economics",
+        "published": "Thu, 04 Jun 2026 09:11:24 +0000",
+        "published_dt": "2026-06-04T09:11:24+00:00",
+        "summary": "The world\u2019s leftists are embracing a new set of economic ideas"
+      },
+      {
+        "id": "a5c0398280ad2de7",
+        "title": "Can the stockmarket swallow SpaceX, Anthropic and OpenAI?",
+        "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-spacex-anthropic-and-openai",
         "source": "Finance & economics",
         "published": "Mon, 01 Jun 2026 17:16:55 +0000",
         "published_dt": "2026-06-01T17:16:55+00:00",
@@ -644,45 +680,18 @@
         "published": "Tue, 19 May 2026 19:36:34 +0000",
         "published_dt": "2026-05-19T19:36:34+00:00",
         "summary": "So why aren\u2019t more buying inflation-protected bonds?"
-      },
-      {
-        "id": "e08572867018aa0b",
-        "title": "Where expat escapees from Dubai end up",
-        "url": "https://www.economist.com/finance-and-economics/2026/05/18/where-expat-escapees-from-dubai-end-up",
-        "source": "Finance & economics",
-        "published": "Mon, 18 May 2026 20:38:24 +0000",
-        "published_dt": "2026-05-18T20:38:24+00:00",
-        "summary": "Will they ever return?"
-      },
-      {
-        "id": "0b77be02baafd8d1",
-        "title": "How to share the AI windfall",
-        "url": "https://www.economist.com/finance-and-economics/2026/05/14/how-to-share-the-ai-windfall",
-        "source": "Finance & economics",
-        "published": "Thu, 14 May 2026 09:01:50 +0000",
-        "published_dt": "2026-05-14T09:01:50+00:00",
-        "summary": "Are taxes enough?"
-      },
-      {
-        "id": "0cbc17a83c17d5d2",
-        "title": "The jobs apocalypse: a (very) short history",
-        "url": "https://www.economist.com/finance-and-economics/2026/05/14/the-jobs-apocalypse-a-very-short-history",
-        "source": "Finance & economics",
-        "published": "Thu, 14 May 2026 08:58:08 +0000",
-        "published_dt": "2026-05-14T08:58:08+00:00",
-        "summary": "Mass unemployment induced by AI would be unprecedented"
-      },
-      {
-        "id": "bfecbca6ff8e7f79",
-        "title": "Is AI putting graduates out of work already?",
-        "url": "https://www.economist.com/finance-and-economics/2026/05/13/is-ai-putting-graduates-out-of-work-already",
-        "source": "Finance & economics",
-        "published": "Wed, 13 May 2026 18:44:01 +0000",
-        "published_dt": "2026-05-13T18:44:01+00:00",
-        "summary": "If you are studying coding, we might have some bad news"
       }
     ],
     "Cross-Disciplinary": [
+      {
+        "id": "ed36f4624f536493",
+        "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+        "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 04 Jun 2026 12:10:00 +0000",
+        "published_dt": "2026-06-04T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by&#8230;"
+      },
       {
         "id": "5afd185051308525",
         "title": "IEEE President\u2019s Note: Designing a Safer Digital World for Kids",
@@ -711,13 +720,13 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/conceptual-illustration-of-user-interface-layers-such-as-networking-information-assurance-and-design.jpg?id=66768355&amp;width=1245&amp;height=700&amp;coordinates=0%2C62%2C0%2C63\" /><br /><br /><p>Patients who use mobile applications to manage medical conditions including depression and chronic pain might assume the apps have been evaluated by regulatory agencies to be safe and effective. But that isn\u2019t necessarily the case.</p><p>Most of the more than 55,000 medical apps that claim to diagnose or treat a condition\u2014or ones that provide clinical decision support, known as \u201ctherapeutic\u201d apps\u2014have never been assessed by any trusted neutral bodies or regulatory agencies to evaluate them for technical soundness, ethical design, or clinical benefit. The apps often don\u2019t comply with regional data security and privacy laws to protect people\u2019s sensitive health information.</p><p>Medical apps differ from traditional wellness apps, which provide users with insights into becoming healthier by, for example, tracking fitness activities, monitoring blood pressure, and analyzing sleep patterns.</p><p>There is no reliable way to verify that therapeutic apps deliver the results they indicate. To help ensure such apps are credible, the <a href=\"https://standards.ieee.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Standards Association</a> (IEEE SA) recently launched the <a href=\"https://standards.ieee.org/products-programs/icap/mobile-health-app-registry/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Global Medical Mobile App Assessment and Registry</a>. The publicly searchable directory is designed to list apps that have been vetted by experts across several criteria including technical soundness, ethical design, compliance with data security and privacy regulations, and clinical efficacy, which is evidence of a clinical benefit for the patient.</p><p>\u201cPatients, clinicians, payers, and health care systems often struggle to distinguish clinically meaningful therapeutic apps from those that are simply well-marketed,\u201d says IEEE Senior Member <a href=\"https://research.bidmc.org/yuriquintana\" rel=\"noopener noreferrer\" target=\"_blank\">Yuri Quintana</a>, chair of the assessment and registry program. He is chief of the <a href=\"https://bidmc.org/departments-divisions/medicine/clinical-informatics\" rel=\"noopener noreferrer\" target=\"_blank\">clinical informatics division</a> at <a href=\"https://bidmc.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Beth Israel Deaconess Medical Center</a>, in Boston. \u201cOur goal is to establish a standardized review method using criteria developed by experts.\u201d</p><h2>Why regulation is lacking</h2><p>Because the apps are intended for medical use without being part of a medical implement, they fall under the designation of <a href=\"https://www.fda.gov/medical-devices/cdrh-international-affairs/international-medical-device-regulators-forum-imdrf\" rel=\"noopener noreferrer\" target=\"_blank\">software as a medical device</a> (SaMD), according to the <a href=\"https://www.fda.gov/medical-devices/cdrh-international-affairs/international-medical-device-regulators-forum-imdrf\" rel=\"noopener noreferrer\" target=\"_blank\">International Medical Device Regulators Forum</a>. SaMD is supposed to be regulated by public health agencies such as the U.S. <a href=\"https://www.fda.gov/\" rel=\"noopener noreferrer\" target=\"_blank\">Food and Drug Administration</a>, but the apps have developed and grown in popularity so quickly that regulators haven\u2019t been able to keep up, Quintana says. Some companies have received approval, but most have not, he says.</p><p>Many users are unaware of the regulatory gap, he says.</p><p>\u201cSeeing an app from a well-known company often creates the impression that it has been meaningfully vetted for safety and efficacy, even when that is not the case,\u201d he says.</p><p>Some companies are using deceptive advertising to sell their product, he adds. Marketing materials might claim that all of a company\u2019s health apps are certified, even though only one app has been approved by a regulatory body to treat a particular condition. Or the verbiage might imply the company has clinical evidence proving its application works, even though the app has never been tested independently.</p><p>Another concern is that updated apps aren\u2019t being vetted, says <a href=\"https://www.linkedin.com/in/mpalombini/\" rel=\"noopener noreferrer\" target=\"_blank\">Maria Palombini</a>, IEEE SA\u2019s director of health care and life sciences global practice lead.</p><p>\u201cThe original app might have received approval from a regulatory agency, but not the updated version,\u201d Palombini says. \u201cThere could have been significant changes from the original.\u201d</p><p>\u201cNot every medical-related app triggers the same regulatory classification or review across jurisdictions,\u201d Quintana adds. \u201cThat leaves a large gray zone of clinically relevant but lower-risk apps that haven\u2019t undergone an independent assessment. The IEEE registry was created to help fill these gaps.</p><p>\u201cIEEE is the best organization to address this problem because this is fundamentally a standards, trust, interoperability, and conformity assessment challenge,\u201d he says. IEEE \u201cis the world\u2019s largest technical professional organization, with deep expertise in developing globally recognized standards including in <a href=\"https://spectrum.ieee.org/ieee-standard-biomedical-devices-data\" target=\"_self\">health care</a>, <a href=\"https://standards.ieee.org/initiatives/cybersecurity-standards-projects/\" rel=\"noopener noreferrer\" target=\"_blank\">cybersecurity</a>, <a href=\"https://spectrum.ieee.org/two-new-ai-ethics-certifications\" target=\"_self\">AI ethics</a>, and <a href=\"https://standards.ieee.org/ieee/1547/5915/\" rel=\"noopener noreferrer\" target=\"_blank\">interoperability</a>.\u201d</p><p>\u201cThrough the <a href=\"https://standards.ieee.org/products-programs/icap/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Conformity Assessment Program</a>, we already run rigorous assessment and registry programs,\u201d Palombini says. \u201cOur neutral, consensus-driven, multidisciplinary approach\u2014bringing together clinicians, regulators, developers, and ethicists without commercial bias\u2014makes IEEE uniquely positioned to create trustworthy global guardrails that can scale across jurisdictions and support regulatory harmonization.\u201d</p><h2>How the registry works</h2><p>The assessment framework was developed by a multidisciplinary group of 35 volunteer experts from 10 countries, Quintana says. The panel includes academics, AI experts, app developers, clinicians, ethicists, mental health experts, patient advocates, regulators, researchers, technologists, and those who assess safety in health care.</p><p>The registry is for any app used for clinical care or therapeutics that claims to demonstrate a medical benefit. That includes apps designed for cardiology, diabetes, mental health, neurology, oncology, rehabilitation, and respiratory diseases, Quintana says.</p><p>Initially, he says, the focus will be on apps that aim to treat mental health conditions, given the large number of offerings in that area and the registry committee\u2019s expertise.</p><p>The submission of apps is voluntary. There is no government mandate that requires a company to use the IEEE registry.</p><p>The products will be evaluated against about 150 consensus-based criteria across three major areas: </p><ul><li><strong>Clinical efficacy</strong> including therapeutic effectiveness, any sustained benefits, risk management, comparison to standard care, user engagement, and real clinical value.</li><li><strong>Technical soundness</strong> including accessibility, privacy and security, error handling, interoperability, AI governance, usability, and operational quality.</li><li><strong>Ethical design</strong> including bias prevention, patient consent, data governance, conflict-of-interest transparency, responsible use of AI and large language models, and prioritization of public health benefits.</li></ul><p>IEEE charges a nonrefundable submission fee that covers the cost of the assessment plus the registry\u2019s annual subscription for the first year.</p><p>Developers first must demonstrate they are a legally established entity before they can complete the <a href=\"https://forms.zohopublic.com/healthappregistryie1/form/AppPublisherRegistrationForm/formperma/vKV62XuzwMV6hoOZnUv3QiFo8BDLpUSFp2CZlOOIOyM\" rel=\"noopener noreferrer\" target=\"_blank\">app publisher registration form</a> and then submit documentation and attestations about the product.</p><p>The IEEE review of an app is estimated to take six to eight weeks, Palombini says. The assessment results will be privately shared with the app publisher, she says, and to be listed in the registry, an app must achieve more than 85 percent compliance in each category.</p><p>Upgraded apps must be submitted and reassessed, Palombini says. Similar to how users are notified when an app on their smart devices has , the registry will be notified when listed apps have a new update available, she says.</p><p>Applicants who do not pass the assessment are to receive feedback explaining why. They will be given an opportunity to make changes or provide additional documentation, Palombini says.</p><p>\u201cIt\u2019s a pretty methodological process, with checks and balances,\u201d Quintana says. \u201cWe\u2019re being very transparent about the process.\u201d</p><p>Approved apps added to the registry receive an IEEE certification badge and submission identifier, which the company can display on its website, app store listings, and marketing materials.</p><p>\u201cThe badge serves as visible proof that the app has met the independent, consensus-based assessment for clinical value, technical robustness, and ethical design,\u201d Quintana says.</p><p>The registry will be publicly available at no cost, he says.</p><p>Patients and families seeking safe, trustworthy apps\u2014and payers and insurers evaluating reimbursement potential\u2014will find the registry helpful, he says.</p><p>The <a href=\"https://forms.zohopublic.com/healthappregistryie1/form/AppPublisherRegistrationForm/formperma/vKV62XuzwMV6hoOZnUv3QiFo8BDLpUSFp2CZlOOIOyM\" rel=\"noopener noreferrer\" target=\"_blank\">application website</a> is open. The public registry page does not yet list a specific count of approved apps because assessments are ongoing. Approved apps and their unique identifiers are to be published when the initial reviews are completed.</p><p>To learn more, you can watch a <a href=\"https://engagestandards.ieee.org/medical-app-registry-webinar.html?_gl=1*1bfk6ug*_gcl_au*MTcwMjc4NjczMy4xNzc2Mjc4MzQy*_ga*MTE2MjkxMjYxMC4xNzc2Mjc4MzQy*_ga_XDL2ME6570*czE3NzgwOTUwNTIkbzIzJGcxJHQxNzc4MDk1ODUzJGo2MCRsMCRoMA..\" rel=\"noopener noreferrer\" target=\"_blank\">webinar</a> recorded in March.</p>The assessment framework that underpins the registry is supporting the formal recognition of <a href=\"https://standards.ieee.org/products-programs/icap/mobile-health-app-registry/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE P3962 Standard for Criteria Assessment Framework f</a>"
       },
       {
-        "id": "645e5fef124ecb22",
-        "title": "The Download: Trump\u2019s new AI order, and smart glasses for warfare",
-        "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
+        "id": "3ab150c729626966",
+        "title": "How courts are coping with a flood of AI-generated lawsuits",
+        "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
         "source": "MIT Technology Review",
-        "published": "Wed, 03 Jun 2026 12:10:00 +0000",
-        "published_dt": "2026-06-03T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 5 key points in Trump&#8217;s new AI order Less than two weeks after scrapping an executive order on AI, President Donald Trump signed a new one on Tuesday. Promising to promote&#8230;"
+        "published": "Thu, 04 Jun 2026 10:50:18 +0000",
+        "published_dt": "2026-06-04T10:50:18+00:00",
+        "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can\u2019t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting&#8230;"
       },
       {
         "id": "80bcceddaabc093d",
@@ -729,13 +738,13 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/blue-lit-server-room-featuring-the-large-monash-maveric-supercomputer-installation.jpg?id=66718014&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C1\" /><br /><br /><p><em>This sponsored article is brought to you by </em><a href=\"https://www.melbournecb.com.au/?utm_source=ieee&amp;utm_medium=editorial&amp;utm_campaign=discover-melbourne-2026&amp;utm_term=maveric&amp;utm_content=link\" rel=\"noopener noreferrer\" target=\"_blank\"><em><span>Melbourne Convention Bureau (MCB)</span></em></a><em> supported by </em><a href=\"https://businessevents.australia.com/en\" target=\"_blank\"><em><span>Business Events Australia</span></em></a><em>.</em></p><p>Melbourne\u2019s reputation as a global events city, from the Australian Open tennis and Formula 1 Australian Grand Prix to hosting NFL regular season games, now intersects with a different form of scale: large-scale compute, data-intensive research, and advanced engineering. Long recognized for delivering complex international events, the city is applying the same organisational capability to the infrastructure that underpins modern AI research, positioning Melbourne at the convergence of global convening and high-performance digital systems.</p><p>Consistently ranked among the world\u2019s most livable cities, Melbourne was named <a href=\"https://www.timeout.com/travel/best-cities-2026\" target=\"_blank\"><span>Time Out\u2019s Best City in the World in 2026</span></a>, the first Australian city to hold the title.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Hot-air balloons over a riverside city skyline at sunrise with parks in the foreground\" class=\"rm-shortcode\" id=\"79f98\" src=\"https://spectrum.ieee.org/media-library/hot-air-balloons-over-a-riverside-city-skyline-at-sunrise-with-parks-in-the-foreground.jpg?id=66723254&amp;width=980\" /> <small class=\"image-media media-caption\">Melbourne, Australia\u2019s premier conference destination.</small> <small class=\"image-media media-photo-credit\">            Tourism Australia        </small> </p>More materially for research and innovation, Melbourne is also the nation\u2019s <a href=\"https://www.invest.vic.gov.au/understand-the-market/discover-consumer-and-business-markets/consumer-and-business-markets\" target=\"_blank\"><span>fastest\u2011growing capital</span></a>, attracting increasing concentrations of engineering and technology talent, investment and international engagement.<p><span>Australia\u2019s artificial intelligence (AI) ecosystem is entering a new phase, defined less by isolated initiatives and more by the convergence of compute infrastructure, research intensity and international collaboration. Melbourne sits at this intersection.</span></p><p class=\"pull-quote\"><span>Melbourne\u2019s trajectory highlights what enables research at scale: access to frontier-grade compute, proximity to industry-ready infrastructure, and repeated opportunities for global research communities to convene.</span></p><p>Sovereign AI compute, expanding hyperscale data center campuses and a growing pipeline of international research-led conferences are reshaping the city\u2019s research landscape. Together, these elements position Melbourne as a focal point for applied AI research, advanced engineering and data-intensive science.</p><p>The growing global influence of AI engineering, underscored by <a href=\"https://spectrum.ieee.org/2026-ieee-medal-of-honor\" target=\"_self\"><span>NVIDIA CEO Jensen Huang receiving the 2026 IEEE Medal of Honor</span></a>, reflects the scale of this shift. In Melbourne, these factors form a reinforcing research flywheel linking infrastructure, discovery and collaboration.</p><p>Rather than focusing on startup density or short-term commercial output, Melbourne\u2019s trajectory highlights what enables research at scale: access to frontier-grade compute, proximity to industry-ready infrastructure, and repeated opportunities for global research communities to convene.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Person in tuxedo holding an IEEE award plaque on a lit stage with floral decor\" class=\"rm-shortcode\" id=\"e6a57\" src=\"https://spectrum.ieee.org/media-library/person-in-tuxedo-holding-an-ieee-award-plaque-on-a-lit-stage-with-floral-decor.png?id=66718012&amp;width=980\" /> <small class=\"image-media media-caption\">NVIDIA CEO Jensen Huang received the 2026 IEEE Medal of Honor.</small><small class=\"image-media media-photo-credit\">IEEE</small></p><h2>Sovereign AI foundations</h2><p>The most recent cornerstone of Melbourne\u2019s AI capability is <a href=\"https://www.monash.edu/maveric\" target=\"_blank\"><span>MAVERIC</span></a> (Monash AdVanced Environment for Research and Intelligent Computing), Australia\u2019s largest university-based AI supercomputer. Built and deployed by Monash University in partnership with NVIDIA, Dell Technologies, and CDC Data Centres, MAVERIC has been engineered specifically for large scale AI and data intensive science, with medical research representing a key priority. Indeed, in these regards MAVERIC has been designed to function as a Next Generation Trusted Research Environment thus ensuring that it is state-of-the-art and provides a safe and secure framework for the analysis of large sensitive datasets.</p><p>Designed to support research projects including cancer and neurodegenerative disease detection, clinical trial analysis and drug discovery through to materials science and engineering, MAVERIC enables Australian researchers to train and evaluate large models domestically while keeping highly sensitive datasets secure and under national jurisdiction. This sovereign design is particularly relevant in fields such as medical research where privacy, regulation or intellectual property constraints limit the use of offshore cloud resources.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Professionals in business attire stand in a modern, arched lobby formation.\" class=\"rm-shortcode\" id=\"0aaca\" src=\"https://spectrum.ieee.org/media-library/professionals-in-business-attire-stand-in-a-modern-arched-lobby-formation.png?id=66718020&amp;width=980\" /> <small class=\"image-media media-caption\">Monash University Vice-Chancellor and President Professor Sharon Pickering with researchers [left to right] Professor Anton Peleg, Professor Victoria Mar, Professor James Whisstock, Vice-President (Strategy and Major Projects) Teresa Finlayson, and Professor Patrick Kwan.</small><small class=\"image-media media-photo-credit\">Eamon Gallagher (Australian Financial Review)</small></p><p><span>Technically, the system reflects the latest shifts in high performance AI architecture. Built on NVIDIA GB200 NVL72 platforms and integrated using Dell\u2019s rack scale infrastructure, MAVERIC employs closed loop liquid cooling to reduce water consumption compared with conventional air-cooled systems, aligning large scale compute growth with sustainability objectives while supporting high density, high throughput workloads.</span></p><p><a href=\"https://research.monash.edu/en/persons/james-whisstock/\" target=\"_blank\">Professor James Whisstock</a>, Deputy Dean Research of Monash\u2019s Faculty of Medicine, Nursing, and Health Sciences commented, \u201cMAVERIC provides a huge leap forward in our compute capability that will revolutionize our researchers\u2019 ability to address the most challenging and important research questions across the fields of medical research, information technology, and STEM disciplines. It will seed wonderful new cross-disciplinary collaborations, underpin the work of our best and brightest young researchers and will allow our scientists to continue to make major discoveries that positively impact the Australian and global population more broadly.\u201d</p><p class=\"pull-quote\">\u201cMAVERIC provides a huge leap forward in our compute capability that will revolutionize our researchers\u2019 ability to address the most challenging and important research questions across the fields of medical research, information technology, and STEM disciplines.\u201d <strong>\u2014Professor James Whisstock, Deputy Dean Research of Monash\u2019s Faculty of Medicine, Nursing, and Health Sciences</strong></p><p>Monash University frames MAVERIC not as a standalone asset, but as part of the national research infrastructure, intended to strengthen collaboration across academia, healthcare, government and industry. This approach positions Melbourne at the forefront of sovereign AI enabled research in the region.</p><h2>Data center scale as research infrastructure</h2><p>The infrastructure demands of modern AI research extend well beyond individual systems. Melbourne\u2019s expanding data center footprint now supports hyperscale compute, applied AI deployment and large-scale research workloads simultaneously.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Bar chart of 2024 data center investment; US leads, Australia second, then Japan, Singapore, UK, Canada.\" class=\"rm-shortcode\" id=\"a796d\" src=\"https://spectrum.ieee.org/media-library/bar-chart-of-2024-data-center-investment-us-leads-australia-second-then-japan-singapore-uk-canada.jpg?id=66718033&amp;width=980\" /> <small class=\"image-media media-caption\">Total data center investment, US$ billions.</small><small class=\"image-media media-photo-credit\">Source: <a href=\"\" target=\"_blank\">Data Centres Global Report 2025</a></small></p><p><span>In February 2026, CDC Data Centres opened its first Melbourne campus in Brooklyn, with two live facilities and a third in planning. Combined with CDC\u2019s Laverton campus, Melbourne is projected to host more than 800 megawatts of sovereign digital capacity, critical for AI workloads requiring sustained access to high-density power, cooling and secure environments.</span></p><p>Parallel investment is underway in Fishermans Bend, where <a href=\"https://www.nextdc.com/news/nextdc-announces-2-billion-ai-factory-and-technology-campus-at-fishermans-bend\" target=\"_blank\"><span>NEXTDC is developing a AUD $2 billion AI and digital infrastructure hub</span></a> adjacent to the Innovation Precinct. Planned facilities include an AI Factory, a Mission Critical Operations Center and a Technology Center of Excellence, enabling sovereign AI, high-performance computing and cross-sector collaboration across health, defence and finance.</p><p>Melbourne hosts Australia\u2019s <a href=\"https://www.invest.vic.gov.au/explore-your-sector/digital-technology/data-centres\" target=\"_blank\"><span>largest cluster of AI firms</span></a>, with 188 companies, and more than 40 data centers currently operate across Victoria. The Victorian Government has complemented this growth with an initial AUD $5.5 million investment in the Sustainable Data Center Action Plan.</p><p>Together, these developments reinforce Melbourne\u2019s role as a national and increasingly global hub for high-performance AI infrastructure as model complexity and infrastructure dependency continue to accelerate.</p><h2>Applied AI research at scale</h2><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"People talking beside colorful cone sculpture outside modern campus building on College Walk\" class=\"rm-shortcode\" id=\"8a533\" src=\"https://spectrum.ieee.org/media-library/people-talking-beside-colorful-cone-sculpture-outside-modern-campus-building-on-college-walk.jpg?id=66718043&amp;width=980\" /> <small class=\"image-media media-caption\">Monash University is home to MAVERIC, Australia\u2019s largest university-based AI supercomputer, built and deployed by Monash in partnership with NVIDIA, Dell Technologies, and CDC Data Centres.</small><small class=\"image-media media-photo-credit\">Monash University</small></p><p>Melbourne\u2019s research strength is underpinned by a dense university network with deep capability across AI, data science and engineering. Institutions including Monash University, the University of Melbourne, Deakin University, La Trobe University, RMIT University and Swinburne University of Technology collectively support research across machine learning, robotics, human-computer interaction, extended reality and advanced manufacturing.</p><p><span>This concentration fosters applied collaboration where AI intersects with medicine, sustainability, cognitive systems and immersive technologies. For visiting researchers, it provides access not only to academic expertise but also to live infrastructure environments where research can be tested and validated, reinforcing Melbourne\u2019s position as one of the Asia-Pacific\u2019s most integrated AI research ecosystems.</span></p><h2>Conferences as research accelerators</h2><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Large audience in modern auditorium watching speaker on brightly lit conference stage\" class=\"rm-shortcode\" id=\"5b02f\" src=\"https://spectrum.ieee.org/media-library/large-audience-in-modern-auditorium-watching-speaker-on-brightly-lit-conference-stage.jpg?id=66718051&amp;width=980\" /> <small class=\"image-media media-caption\">Plenary session at Melbourne Convention and Exhibition Center.</small><small class=\"image-media media-photo-credit\">Melbourne Convention Bureau</small></p><p>Melbourne\u2019s selection as host city for a growing number of international technology conferences reflects the convergence of research capability and infrastructure maturity.</p><p>In September 2026, <a href=\"https://datacenterworldaustralia.com/\" target=\"_blank\">Data Center World Australia</a> and <a href=\"https://australia.theaisummit.com/\" target=\"_blank\">The AI Summit Australia</a> will be co-located at the Melbourne Convention and Exhibition Center, bringing together global leaders across AI, digital infrastructure and enterprise technology. The pairing highlights a broader reality: advances in AI are inseparable from the infrastructure that enables them.</p><p class=\"pull-quote\">Melbourne\u2019s expanding data center footprint now supports hyperscale compute, applied AI deployment and large-scale research workloads simultaneously.</p><p>Research-led conferences are also expanding Melbourne\u2019s global footprint. <a href=\"https://www.iconip2026.org/\" target=\"_blank\">ICONIP 2026</a>, hosted by Deakin University, will bring up to 700 researchers in neural networks and machine learning, followed in 2027 by <a href=\"https://ieeevr.org/2027/\" target=\"_blank\">IEEE VR</a>, the leading conference on virtual reality and 3D user interfaces, attracting up to 1,000 delegates.</p><p>In this context, conferences function not simply as events, but as infrastructure for knowledge transfer, supporting standards exchange, collaboration and system-level learning at global scale.</p><h2>A global platform for advancing research</h2><p>Sovereign compute, data center scale and a strong conference pipeline create a reinforcing cycle, enabling researchers to engage directly with infrastructure and industry well beyond the event itself.</p><p>By closing the gap between theory and deployment, Melbourne supports deeper technical exchange and more enduring global research networks.</p><p>This role was recognized in 2025 when the IEEE awarded Melbourne Convention Bureau the 2025 Organisational Supporting Friend of <a href=\"https://www.ieee.org/communities/geographic-activities\" target=\"_blank\">IEEE Member and Geographic Activities (MGA)</a> \u2014 the first convention bureau in the Asia Pacific region to receive the acknowledgement as a result of the longstanding partnership with the <a href=\"https://r10.ieee.org/victorian/\" target=\"_blank\">IEEE Victorian Section</a>.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Two people hold an IEEE award in front of a 60 years Melbourne Convention banner\" class=\"rm-shortcode\" id=\"d8d38\" src=\"https://spectrum.ieee.org/media-library/two-people-hold-an-ieee-award-in-front-of-a-60-years-melbourne-convention-banner.jpg?id=66718119&amp;width=980\" /> <small class=\"image-media media-caption\">Melbourne Convention Bureau (MCB) representative Fatima Aboudrar, Senior Business Development Manager, with Vijay S. Paul, Immediate Past Chair, IEEE Victorian Section, receiving Supporting Friend Member recognition in 2025.</small></p><p><span>As AI research becomes increasingly dependent on infrastructure scale, sovereign capability, and global collaboration, Melbourne is moving beyond hosting conversations to actively enabling the systems that advance AI and data\u2011driven research at global scale.</span></p><h2>Conference support in Melbourne</h2><p class=\"shortcode-media shortcode-media-html5_video\"> <video class=\"rm-shortcode\" controls=\"\" id=\"c9d60\" width=\"100%\"> <source src=\"https://roar-assets-auto.rbl.ms/runner%2FBIDs_WhyMelbourne_and_MCB.mp4\" type=\"video/mp4\" /> Your browser does not support the video tag. </video> <small class=\"image-media media-caption\">Why host a conference in Melbourne, Australia.</small><small class=\"image-media media-photo-credit\">Melbourne Convention Bureau</small> </p><p>This ecosystem is underpinned by Melbourne\u2019s highly accessible city center, where world-class venues, research institutions and industry hubs are located in close proximity. Free public transport and a compact city footprint enable seamless movement from conference floor to real-world application.</p><p><a href=\"https://www.melbournecb.com.au/\" target=\"_blank\">Melbourne Convention Bureau (MCB)</a> is a not-for-profit state government agency with over 60 years\u2019 experience, that provides IEEE and its members with free support to bring international conferences to Melbourne, Australia. MCB\u2019s support spans early-stage exploration and international bidding through to securing government funding, connecting organizers with venues, accommodation and event suppliers, and providing destination support for conference planning and delivery. Organizations considering a conference in Australia are encouraged to connect with MCB\u2019s dedicated team, which supports IEEE conferences in Melbourne. Enquiries can be directed to info@melbournecb.com.au.</p>"
       },
       {
-        "id": "655143df9af5b361",
-        "title": "What It Takes for Future-Ready Power Distribution",
-        "url": "https://spectrum.ieee.org/distribution-grid-modernization",
+        "id": "17d221cbba073663",
+        "title": "7 Ways New Engineers Can Flourish in the Age of AI",
+        "url": "https://spectrum.ieee.org/7-ways-engineers-flourish-ai",
         "source": "IEEE Spectrum",
-        "published": "Wed, 03 Jun 2026 11:00:01 +0000",
-        "published_dt": "2026-06-03T11:00:01+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/utility-workers-inspect-electrical-equipment-beside-a-service-truck-on-a-grassy-site.jpg?id=66649065&amp;width=1245&amp;height=700&amp;coordinates=0%2C104%2C0%2C105\" /><br /><br /><p><em>This sponsored article is brought to you by <a href=\"https://www.bv.com/en-US/projects/georgia-power-grid-investment-plan?utm_campaign=portfolio_for_power_utilities-pp-grid_solutions-noia-26-100223&amp;utm_id=26-100223&amp;utm_source=publication&amp;utm_medium=qr-code&amp;utm_content=power-generation&amp;utm_tactic=na&amp;utm_term=brand-awareness_26-bolder-vision-spectrum-native-article\" rel=\"noopener noreferrer\" target=\"_blank\">Black & Veatch</a>.</em></p><p>The biggest challenge facing utilities today isn\u2019t what it seems. It\u2019s not demand, even as load growth accelerates. It\u2019s not extreme weather, even as \u201cmajor events\u201d become routine. It\u2019s not cybersecurity, even as connections expand across the grid.</p><h3></h3><br /><img alt=\"Man in gray blazer and blue shirt posed against a plain white background.\" class=\"rm-shortcode\" id=\"222cc\" src=\"https://spectrum.ieee.org/media-library/man-in-gray-blazer-and-blue-shirt-posed-against-a-plain-white-background.jpg?id=66649170&amp;width=980\" /><p>The real challenge is this: Distribution systems were designed for a different reality.</p><p>Long gone are the days of predictable demand, one-way power flow and isolated disruptions. At Black & Veatch, we see that leading utilities are no longer debating whether to modernize. They\u2019re deciding how quickly they can do it, and how to do it at scale.</p><p>Across grid modernization programs globally, three truths consistently emerge. They define what it takes to prepare the distribution system for what\u2019s next:</p><h2>1. Outage response is not a resilience strategy</h2><p>Resilience is being redefined in real time. A strategy centered on mobilizing crews and restoring service as quickly as possible is reactive, and increasingly insufficient.</p><p>Resilience has to shift upstream into integrated system design. That starts with hardening. Stronger poles, undergrounding and structural upgrades all have a role, particularly in high-risk corridors. We\u2019re also seeing meaningful gains from how the network is configured and how quickly it can respond without waiting on manual intervention.</p><p>This is where distribution automation programs can change outcomes. Strategically placed reclosers, automated switches and fault indicators help contain disruptions before they spread. When combined with feeder reconfiguration and updated protection strategies, distribution automation investments allow utilities to set more aggressive recovery targets and achieve measurable reductions in outage duration and customer impact.</p><h2>2. Future-readiness depends on DERs at scale</h2><p>Forecasting is less and less reliable. Only 19 percent of utilities report strong confidence in their ability to predict future load growth, according to the <a href=\"https://www.bv.com/en-US/resources/2025-electric-report\" target=\"_blank\">Black & Veatch 2025 Electric Report</a>.<strong> </strong>Distributed Energy Resources (DERs) like solar, storage, EVs and behind-the-meter generation are exciting solutions; but they fundamentally change how the system operates. Power is no longer just delivered. It\u2019s injected, stored and redirected in ways the system was never designed to manage.<strong></strong></p><p>At scale, these challenges show up quickly \u2014 particularly on feeders where distributed generation is approaching or exceeding hosting capacity. Protection coordination becomes more difficult when fault current comes from multiple directions. Voltage becomes less predictable as generation fluctuates throughout the day. And planning models must now account for highly variable, location-specific behavior.</p><p class=\"pull-quote\">Distribution modernization is fundamentally changing how the system is designed and operated so it can absorb disruption, manage bi-directional flows and respond in real time.</p><p>Adapting to bi-directional power flow requires more than incremental updates. Leading utilities are responding by building flexibility into the system, moving beyond static assumptions toward dynamic hosting capacity and interconnection studies, planning that incorporates DER, EV adoption and localized load growth, and infrastructure aligned with the communications and control needed to manage it.</p><h2>3. The edge must be intelligent, visible and secure</h2><p>As system stress and complexity increase, utilities need far greater visibility and control over the network. Historically, utilities relied on customer calls, Supervisory Control and Data Acquisition (SCADA) at the substation level and field crews to understand what was happening on the system. That model doesn\u2019t hold up. You can\u2019t effectively manage a system you can\u2019t see. Plus, the most critical events are increasingly happening beyond the substation \u2014 on feeders, laterals, and at the edge where DER and customer behavior are interacting with the grid.</p><p>Grid-edge technologies have become essential. Sensors, Advanced Metering Infrastructure (AMI) and automated switching provide the raw data and control needed to move from reactive to proactive operations. In more advanced deployments, utilities are creating centralized control environments that allow operators to see and manage the distribution system in near real time. That capability is enabled by:</p><ul><li>Advanced communications networks to form the backbone of real-time grid visibility</li><li>Distribution Management System (DMS) and Outage Management System (OMS) to enable faster, more coordinated system response</li><li>Analytics, AI and machine learning to improve situational awareness, anticipate system conditions, and support operational decision-making</li></ul><p>The same connectivity enabling this real-time visibility and control also introduces new vulnerabilities, blurring the line between physical and cyber risk, yet many utilities manage them separately. Only 22 percent have unified teams in place, even as threats continue to rise, including a 50 percent increase in substation attacks and growing exposure to malware and ransomware, according to the <a href=\"https://www.bv.com/en-US/resources/2025-electric-report\" target=\"_blank\">Black & Veatch 2025 Electric Report</a>. Cybersecurity and resilient network design must be embedded into the architecture from the outset\u2014not layered on after the fact.</p><h2>See what bolder vision looks like</h2><p>Distribution modernization is fundamentally changing how the system is designed and operated so it can absorb disruption, manage bi-directional flows and respond in real time.</p><p>To learn about a successful program, check out <a href=\"https://www.bv.com/en-US/projects/georgia-power-grid-investment-plan?utm_campaign=portfolio_for_power_utilities-pp-grid_solutions-noia-26-100223&amp;utm_id=26-100223&amp;utm_source=publication&amp;utm_medium=qr-code&amp;utm_content=power-generation&amp;utm_tactic=na&amp;utm_term=brand-awareness_26-bolder-vision-spectrum-native-article\" target=\"_blank\">Georgia Power\u2019s recent grid modernization program</a>. Black & Veatch partnered with the utility on large-scale infrastructure upgrades. The results? Outages are down 76 percent, restoration times have improved by more than 80 percent and communities across Georgia are powered by a grid built to meet the future head-on.</p><p>When the state faced the most destructive storm in the company\u2019s history, Hurricane Helene, Georgia Power deployed a rapid response team that utilized its \u201csmart grid\u201d and restored power to more than 1 million customers within days.</p>A grid built to meet the future head-on\u2014that\u2019s the result of bolder vision."
+        "published": "Wed, 03 Jun 2026 18:00:02 +0000",
+        "published_dt": "2026-06-03T18:00:02+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/collage-of-a-white-female-college-graduate-surrounded-by-technical-symbols.jpg?id=66852442&amp;width=1245&amp;height=700&amp;coordinates=0%2C288%2C0%2C289\" /><br /><br /><p>New graduates\u2019 careers are unfolding in an era when AI is not optional. The most successful engineers treat artificial intelligence as leverage, not competition.</p><p>Here are seven tips to help keep young professionals in demand no matter how quickly the field\u2019s tools evolve.</p><p><strong>1. Master the fundamentals first.</strong> AI tools can help you code, but you still need strong fundamentals in:</p><ul><li>Data structures and algorithms for problem-solving.</li><li>Operating systems, databases, and networking for system-level understanding.</li><li><a href=\"https://spectrum.ieee.org/top-programming-languages-2025\" target=\"_self\">Core programming languages</a> such as <a href=\"https://www.w3schools.com/cpp/\" target=\"_blank\">C++</a>, <a href=\"https://www.java.com/\" target=\"_blank\">Java</a>, and <a href=\"https://www.python.org/\" target=\"_blank\">Python</a>.</li></ul><p>AI can autocomplete syntax, but if you don\u2019t understand how things work under the hood, you\u2019re likely to struggle to debug or optimize.</p><p><strong>2. Learn how to work with AI, not against it.</strong> The best engineers will not try to out-code AI. Instead, they will learn to: </p><ul><li>Write clear prompts to generate better code snippets.</li><li>Review and debug AI-generated code for accuracy, performance, and security.</li><li>Use AI for productivity boosts while still exercising judgment.</li></ul><p>Think of AI as a teammate. The real skill is knowing when to trust it and when not to.</p><p><strong>3. Build projects that showcase end-to-end thinking.</strong> Employers increasingly look for engineers who can design and build systems, not just solve problems. Create projects that show you can: </p><ul><li>Define requirements clearly.</li><li>Use AI tools responsibly within the workflow.</li><li>Deliver a product that scales and is maintainable.</li></ul><p><strong>4. Sharpen your system design skills early.</strong> Even junior engineers are now asked questions about basic system design with AI. Expect to explain to prospective employers: </p><ul><li>How you would <a href=\"https://spectrum.ieee.org/ieee-online-mini-ai-mba\" target=\"_self\">responsibly integrate AI</a> into a system.</li><li>How to design fallbacks when AI fails.</li><li>How to ensure scalability and reliability.</li></ul><p><strong>5. Develop strong communication skills. </strong>Today\u2019s engineers don\u2019t just code in isolation. You will be expected to: </p><ul><li>Explain <a href=\"https://spectrum.ieee.org/ieee-course-technical-writing\" target=\"_self\">design choices</a> to teammates and stakeholders.</li><li>Document decisions clearly.</li><li>Collaborate effectively in cross-functional teams.</li></ul><p>This is one area where AI cannot replace you. Clear communication is a career accelerant.</p><p><strong>6. Stay curious and keep learning. </strong>The tech industry moves fast, and AI is accelerating that pace. Cultivate habits such as:</p><ul><li>Following industry news, blogs, and open-source projects.</li><li>Experimenting with new AI tools, frameworks, and libraries.</li><li>Engaging in communities such as <a href=\"https://github.com/\" target=\"_blank\">GitHub</a>, <a href=\"https://ieee-collabratec.ieee.org/\" target=\"_blank\">IEEE Collabratec</a>, <a href=\"https://www.linkedin.com/\" target=\"_blank\">LinkedIn</a>, and <a href=\"https://medium.com/\" target=\"_blank\">Medium</a>.</li></ul> <p>Employers value engineers who keep themselves sharp and relevant.</p><p><strong>7. Think beyond coding.</strong> AI will increasingly handle routine coding tasks. The differentiators for you will be: </p><ul><li>Problem-framing: Can you take a vague idea and turn it into a solution?</li><li>Architectural judgment: Can you design systems that scale and last?</li><li><a href=\"https://spectrum.ieee.org/two-new-ai-ethics-certifications\" target=\"_self\">Ethical awareness</a>: Can you spot risks in AI use and address them responsibly?</li></ul><p>For more career advice, subscribe to the <a href=\"https://spectrum.ieee.org/newsletters\" target=\"_blank\">IEEE Spectrum Career Alert Newsletter</a>. The biweekly newsletter features the latest information on jobs, education, management, and the engineering workplace.</p>"
       },
       {
         "id": "877677be56fdf017",
@@ -763,15 +772,6 @@
         "published": "Sun, 31 May 2026 13:00:01 +0000",
         "published_dt": "2026-05-31T13:00:01+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/two-photos-of-a-prototype-humanoid-robot-with-a-wooden-frame-and-wires-and-other-components-strung-on-its-body.jpg?id=66825613&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p>In 1987, <a href=\"https://shadowrobot.com/the-story-of-our-founder-richard-greenhill/\" rel=\"noopener noreferrer\" target=\"_blank\">Richard Greenhill</a>, a British photographer who was fascinated by (but had no actual training in) robotics, decided he wanted to build a life-size humanoid that could do useful things, like carrying luggage. He was working at a startup called Intergalactic Robots, but he couldn\u2019t convince anyone there to build such a machine, so he set about building one himself, in his attic.</p><div class=\"rm-embed embed-media\"></div><p>To help with his project, he organized a weekly get-together of a dozen or so like-minded folks. Every Wednesday night, his wife, Sally, would make a big pot of spaghetti, and the group would tinker with components scavenged from old printers and picked up from junkyards. They called themselves the Shadow Group. They eventually constructed several different robots, but their main project was the two-legged Shadow Walker.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Two color photos of a casually dressed white man in a workroom posing with a partially assembled wooden robot.\" class=\"rm-shortcode\" id=\"b189a\" src=\"https://spectrum.ieee.org/media-library/two-color-photos-of-a-casually-dressed-white-man-in-a-workroom-posing-with-a-partially-assembled-wooden-robot.jpg?id=66825888&amp;width=980\" /> <small class=\"image-media media-caption\">In 1987, photographer Richard Greenhill organized a weekly gathering of DIY enthusiasts to work on projects in his attic, including the Shadow Walker. </small><small class=\"image-media media-photo-credit\">Richard Greenhill and David Buckley</small></p><p>Greenhill\u2019s friend <a href=\"https://davidbuckley.net/DB/aboutme.htm\" target=\"_blank\">David Buckley</a>, a robotics and animatronics expert he\u2019d met at Intergalactic, sketched out a rough design based on medical textbooks of human bone structure and muscle movement. The robot\u2019s skeleton, made of maple, was greatly simplified\u2014only one bone in the lower leg and a single wide toe on each foot. The ankle\u2019s double-axis design allowed for two degrees of movement. The knee had no complicating kneecap.</p><p>Greenhill didn\u2019t want the robot to use motors, so its movement was controlled using compressed air to extend and contract 28 \u201cair-muscles\u201d\u2014his version of a McKibben muscle, invented in the 1950s to mimic musculature with pneumatics. The muscles were connected to the bones across eight joints (hips, knees, ankles, toes), which provided 12 degrees of freedom.</p><p class=\"ieee-inbody-related\">RELATED: <a href=\"https://spectrum.ieee.org/the-short-strange-life-of-the-first-friendly-robot\" target=\"_self\">The Short, Strange Life of the First Friendly Robot</a></p><p>The robot\u2019s headless torso held the control valves, electronics, and computer interfaces. It stood 168 centimeters tall and 46 cm wide and weighed about 38 kilograms. The group managed to get the robot to stand up reliably and balance itself; it could even regain its center if pushed a little. But walking turned out to be more of a challenge.</p><p><a href=\"https://www.linkedin.com/in/walkerrich/\" target=\"_blank\">Rich Walker</a> joined the group as a teenager and began writing software to get the robot to stand. He was particularly interested in using neural networks to solve balancing problems, although he ran into a number of hardware obstacles, including the unreliability of the sensors and the valves, and the robot\u2019s overall fragility. Over time, Walker and the team developed a standard library of routines to control the robot. Walker wrote a <a href=\"https://davidbuckley.net/DB/ShadowBiped/ShadBipedArchive/Shadow%20Robot%20Company%20Shadow%20Biped.htm\" target=\"_blank\">detailed description</a> of the Shadow Walker in 1999, which is available on David Buckley\u2019s website.</p><h2>The 1st International Robot Olympics</h2><p>By the time the Shadow Group began developing Shadow Walker, engineers in academia and industry had been working on robotics for several decades. The world\u2019s first industrial robot, the <a href=\"https://spectrum.ieee.org/unimation-robot\" target=\"_self\">Unimate</a>, debuted in 1961, and in 1967 Donald Michie and others began building a series of <a href=\"https://spectrum.ieee.org/freddy-robot-british-ai-winter\" target=\"_self\">Freddy </a>robots to investigate machine intelligence. The IEEE created its first dedicated robotics organization in 1984 when it established the IEEE Robotics and Automation Council, which became the <a href=\"https://www.ieee-ras.org/\" target=\"_blank\">IEEE Robotics and Automation Society</a> in 1987. Also in 1987, the nonprofit International Federation of Robotics was established to promote research, development, use, and cooperation in the field of robotics.</p><p>As Shadow Walker pushed the limits for a DIY humanoid robot, industrial humanoids were also gaining ground. In 1986, Honda began working on its experimental (E-series) and later the prototype (P-series) humanoid robots, finally unveiling the P2 in 1996. The P2 stood 183 cm tall and weighed 210 kg. It was the first humanoid capable of stable, autonomous walking. This work eventually led to the development of the groundbreaking <a href=\"https://spectrum.ieee.org/honda-p2-robot-ieee-milestone\" target=\"_self\">ASIMO</a>.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Two color photos of a casually dressed bearded white man posing with a wooden robot leg and with a computer and other equipment.\" class=\"rm-shortcode\" id=\"45b6e\" src=\"https://spectrum.ieee.org/media-library/two-color-photos-of-a-casually-dressed-bearded-white-man-posing-with-a-wooden-robot-leg-and-with-a-computer-and-other-equipment.jpg?id=66826216&amp;width=980\" /> <small class=\"image-media media-caption\">Greenhill\u2019s friend, roboticist David Buckley, consulted medical textbooks to create Shadow Walker\u2019s humanoid design.</small><small class=\"image-media media-photo-credit\">Richard Greenhill and David Buckley</small></p><p>In the late 1980s, the public was both fascinated and horrified by the potential of robots. Businesses saw robots as a way to increase productivity, while workers worried they would take their jobs. Children viewed them as wondrous toys, while people with disabilities embraced them as tools of liberation. Military experts hoped robots would fight wars without endangering human soldiers, while politicians pondered if robots might eventually get to vote. Philosophers thought robots could challenge our notions of intelligence (and stupidity), while the religious struggled with concerns about the human race in a robot-dominated future.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Photo of two articulated feet made of pieces of wood strung with wires and other components.\" class=\"rm-shortcode\" id=\"528f6\" src=\"https://spectrum.ieee.org/media-library/photo-of-two-articulated-feet-made-of-pieces-of-wood-strung-with-wires-and-other-components.jpg?id=66835726&amp;width=980\" /> <small class=\"image-media media-caption\">Shadow Walker\u2019s simplified anatomy included only one bone in the lower leg and a single wide toe on each foot.</small><small class=\"image-media media-photo-credit\">Science Museum Group</small></p>Peter Mowforth, cofounder of the <a href=\"https://en.wikipedia.org/wiki/Turing_Institute\" target=\"_blank\">Turing Institute</a> in Glasgow, noted these disparate visions for robots when he announced the 1st International Robot Olympics, to be held in 27 and 28 September 1990 and hosted by the Turing Institute and the University of Strathclyde. The Olympics would round up the world\u2019s best robots and showcase them head-to-head.<p>Mowforth himself thought all of the competing visions of robots were overblown. Steeped in machine learning research and robotics development, he knew firsthand the limitations of the state of the art: Robots rarely worked as intended, easily broke down, and glitched over seemingly trivial problems. He envisioned the Robot Olympics as a testbed to assess what the latest generation of robots could and could not do.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Photo of a headless and armless humanoid robot wearing red pants.\" class=\"rm-shortcode\" id=\"3135a\" src=\"https://spectrum.ieee.org/media-library/photo-of-a-headless-and-armless-humanoid-robot-wearing-red-pants.jpg?id=66826230&amp;width=980\" /> <small class=\"image-media media-caption\">At the 1990 Robot Olympics, held in Glasgow, Shadow Walker wore pants to conceal its pneumatic \u201cair-muscles\u201d from competitors.</small><small class=\"image-media media-photo-credit\">Adam Hart-Davis/Science Source</small></p><p>The call for participation was wide open. Instead of having predetermined categories of competition, the organizers opted to see who applied to compete and then group them based on their claimed capabilities. In addition to picking the winners of individual events, the judges would select an overall Olympic champion based on the quality of the hardware, the sophistication of behavior, and novelty. Other prizes were given for young competitors, technologies that showed commercial potential, and design. In the end, more than 50 robots were entered, from a mix of universities, industry, and hobbyist groups from Canada, France, India, Japan, Mexico, the Soviet Union, the United States, the United Kingdom, and Yugoslavia.</p><p>There were plenty of disappointments. Trolleyman, a golf-cart-like wheeled robot, suffered a power failure while carrying the opening Olympic torch through the streets of Glasgow. The pile rug in the arena tripped up many robots that had been trained only on flat, smooth floors. David Buckley later concluded that the events were too difficult, and that the Olympics didn\u2019t push development forward.</p><p class=\"shortcode-media shortcode-media-youtube\"> <span class=\"rm-shortcode\" style=\"display: block; padding-top: 56.25%;\"></span></p><p>Of course, there were winners. In a surprise triumph for vintage technology, the fully mechanical 19th-century Japanese Archer from the Museum of Automata in York, England, won gold in javelin, beating out competitors more than 100 years its junior. The overall Olympic Champion was Yamabico, Shoji Suzuki\u2019s entry from the University of Tsukuba, in Japan, which won bronze in obstacle avoidance and gold in wall following, but was disqualified in the talking category for not speaking English.</p><p>The Shadow Group had high hopes for Shadow Walker. Unfortunately, though, it failed to take a step, and the biped race was won by the Cardiff University Biped. Shadow Walker now resides in the <a href=\"https://collection.sciencemuseumgroup.org.uk/objects/co8366055/biped-robot\" target=\"_blank\">collections of the Science Museum</a> in London.</p><h2>The Legacy of Shadow Walker</h2><p>In 1997, a paying customer in search of a robotic leg compelled the Shadow Group to get serious and become a registered company. <a href=\"https://shadowrobot.com/\" target=\"_blank\">Shadow Robot</a> is now Britain\u2019s oldest robotics company. Rich Walker, who had left the Shadow Group to earn a B.A. in mathematics and a diploma in computer science at the University of Cambridge, joined Shadow Robot in 1999 as technical director. Today he\u2019s the director of the company.</p><p>Shadow Robot specializes in durable <a href=\"https://robotsguide.com/robots/shadow\" target=\"_blank\">robot hands</a> rather than walking robots. But the focus on hands is also a legacy of the Shadow Group. Walker remembers that the Shadow Group\u2019s first humanoid hand in the late 1990s was impressive simply for being able to pick up a pint of beer (a smooth-sided, thin-walled glass). Today, Shadow Robot\u2019s hands are <a href=\"https://shadowrobot.com/dexterous-hand-series/\" target=\"_blank\">testbeds for dexterity</a>. Gone are the pneumatic muscles, replaced by actuators that move each finger with precision. The classic model contains 20 motors, allowing for <a href=\"https://www.drugs.com/medical-answers/abduction-adduction-mean-3562250/\" target=\"_blank\">abductive and adductive </a>movement with 24 degrees of freedom.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Black and white photo of a two-legged humanoid robot with its left leg raised, next to a man with his right leg raised while another man looks on.\" class=\"rm-shortcode\" id=\"8e4ba\" src=\"https://spectrum.ieee.org/media-library/black-and-white-photo-of-a-two-legged-humanoid-robot-with-its-left-leg-raised-next-to-a-man-with-his-right-leg-raised-while-ano.jpg?id=66826242&amp;width=980\" /> <small class=\"image-media media-caption\">Shadow Walker\u2019s operator wore a data suit that captured his movements and allowed the robot to copy them.</small><small class=\"image-media media-photo-credit\">Richard Greenhill</small></p><p>In a <a href=\"https://shadowrobot.com/why-your-industry-needs-dexterity-not-humanoids/\" target=\"_blank\">recent blog post</a>, Sejal Parsotomo, senior marketing executive at Shadow Robot, wrote that while humanoid robots are great for public relations, specialized dexterity is key for success: A robot that can walk into your factory may be impressive, but a robot that can <a href=\"https://spectrum.ieee.org/robot-hand-shadow-robot-company\" target=\"_blank\">reliably manipulate objects</a> is transformative.</p><p>In its struggles to take more than a few steps, the Shadow Walker showed the inherent difficulty that robots had in mastering even low-level skills. In August 2025, Beijing hosted the <a href=\"https://www.whrgoc.com/about\" target=\"_blank\">World Humanoid Robot Games</a>. Competing in sports such as gymnastics, soccer, and track events, as well as more \u201cuseful\u201d tasks like hotel cleaning and sorting medicine, these robots could literally have run circles around the competitors in the first Robot Olympics 35 years earlier. And yet, there is still so much work needed in order for robots to navigate the human-built environment. Despite the astonishing progress, we\u2019re still not all that close to actually useful humanoid robots.</p><p><em><em>Part of a </em></em><a href=\"https://spectrum.ieee.org/collections/past-forward/\" target=\"_self\"><em><em>continuing series</em></em></a><em> </em><em><em>looking at historical artifacts that embrace the boundless potential of technology.</em></em></p><p><em>An abridged version of this article appears in the June 2026 print issue as \u201cLearning to Walk.\u201d</em></p><h3>References</h3><br /><p>Richard Greenhill gives an <a href=\"https://shadowrobot.com/the-story-of-our-founder-richard-greenhill/\" target=\"_blank\">overview of his life</a> and the founding of the Shadow Group in a post on Shadow Robot\u2019s corporate website.</p><p>David Buckley has a compilation of resources on the <a href=\"https://davidbuckley.net/DB/ShadowBiped/ShadBiped.htm\" target=\"_blank\">Shadow Biped Walker</a>, including <a href=\"https://davidbuckley.net/DB/ShadowBiped/ShadBipedArchive/Shadow%20Robot%20Company%20Shadow%20Biped.htm\" rel=\"noopener noreferrer\" target=\"_blank\">specifications</a> from the 1999 iteration and a <a href=\"https://davidbuckley.net/RS/History/Olympics90_files/Brochure.htm\" rel=\"noopener noreferrer\" target=\"_blank\">brochure</a> from the 1st International Robot Olympics.</p>There is coverage of the Robot Olympics worthy of a gossip sheet in <a href=\"https://ricerca.repubblica.it/repubblica/archivio/repubblica/1990/09/30/olimpiade-dei-robot.html\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>La Repubblica</em></em></a><em> </em>and lovely footage of the competition in <a href=\"https://www.youtube.com/watch?v=I37bUBVM854\" rel=\"noopener noreferrer\" target=\"_blank\">this TV-am interview</a> of Peter Mowforth by Lorraine Kelly."
-      },
-      {
-        "id": "3be76208ad03b8dd",
-        "title": "How the Pope\u2019s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-        "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 29 May 2026 10:00:00 +0000",
-        "published_dt": "2026-05-29T10:00:00+00:00",
-        "summary": "Pope Leo XIV\u2019s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: \u201cTechnology is never neutral.\u201d Magnifica Humanitas (\u201cMagnificent Humanity\u201d) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in&#8230;"
       },
       {
         "id": "e46d2f450bc8eed1",
@@ -817,6 +817,33 @@
         "published": "Thu, 14 May 2026 10:00:01 +0000",
         "published_dt": "2026-05-14T10:00:01+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/rohde-schwarz-logo-with-make-ideas-real-tagline-and-rs-monogram-in-diamond.png?id=66685385&amp;width=980\" /><br /><br /><p>A comprehensive review of how spectrum congestion, dynamic sharing, and cognitive radio systems are reshaping RF coexistence testing for military and commercial applications.</p><p><strong>What Attendees will Learn</strong></p><ol><li><span>Why spectrum congestion threatens wireless reliability \u2014 Explore how over 30 billion connected devices, more than 4,000 allocation changes worldwide, and the expansion from 11 to over 80 cellular bands are intensifying contention for finite RF spectrum resources.<br /></span></li><li><span>How real-world coexistence failures affect safety-critical systems \u2014 Understand the interference risks between 5G C band transmitters and aircraft radar altimeters, and between terrestrial L band networks and GPS receivers that were not designed for adjacent high-power signals.</span></li><li><span>Why tiered spectrum sharing frameworks are essential \u2014 Examine how CBRS uses a cloud-based Spectrum Access System (SAS) and environmental sensing to dynamically protect incumbent Navy radar while enabling commercial cellular services across three priority tiers.</span></li><li><span>What coexistence test architectures look like in practice \u2014 Learn how controlled environment testing with anechoic chambers, over-the-air signal generation, and standards such as ANSI C63.27 enable repeatable evaluation of RF device performance under real-world interference conditions.</span></li></ol><div><span><a href=\"https://content.knowledgehub.wiley.com/testing-for-coexistence-in-crowded-and-contested-rf-environments/\" target=\"_blank\">Download this free whitepaper now!</a></span></div>"
+      },
+      {
+        "id": "97ec5bfaad74179e",
+        "title": "How virtual power plants could provide energy for data centers",
+        "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 03 Jun 2026 16:51:38 +0000",
+        "published_dt": "2026-06-03T16:51:38+00:00",
+        "summary": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual power plant (VPP) in the largest power grid in the US. The agreement is with Voltus,&#8230;"
+      },
+      {
+        "id": "645e5fef124ecb22",
+        "title": "The Download: Trump\u2019s new AI order, and smart glasses for warfare",
+        "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 03 Jun 2026 12:10:00 +0000",
+        "published_dt": "2026-06-03T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 5 key points in Trump&#8217;s new AI order Less than two weeks after scrapping an executive order on AI, President Donald Trump signed a new one on Tuesday. Promising to promote&#8230;"
+      },
+      {
+        "id": "655143df9af5b361",
+        "title": "What It Takes for Future-Ready Power Distribution",
+        "url": "https://spectrum.ieee.org/distribution-grid-modernization",
+        "source": "IEEE Spectrum",
+        "published": "Wed, 03 Jun 2026 11:00:01 +0000",
+        "published_dt": "2026-06-03T11:00:01+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/utility-workers-inspect-electrical-equipment-beside-a-service-truck-on-a-grassy-site.jpg?id=66649065&amp;width=1245&amp;height=700&amp;coordinates=0%2C104%2C0%2C105\" /><br /><br /><p><em>This sponsored article is brought to you by <a href=\"https://www.bv.com/en-US/projects/georgia-power-grid-investment-plan?utm_campaign=portfolio_for_power_utilities-pp-grid_solutions-noia-26-100223&amp;utm_id=26-100223&amp;utm_source=publication&amp;utm_medium=qr-code&amp;utm_content=power-generation&amp;utm_tactic=na&amp;utm_term=brand-awareness_26-bolder-vision-spectrum-native-article\" rel=\"noopener noreferrer\" target=\"_blank\">Black & Veatch</a>.</em></p><p>The biggest challenge facing utilities today isn\u2019t what it seems. It\u2019s not demand, even as load growth accelerates. It\u2019s not extreme weather, even as \u201cmajor events\u201d become routine. It\u2019s not cybersecurity, even as connections expand across the grid.</p><h3></h3><br /><img alt=\"Man in gray blazer and blue shirt posed against a plain white background.\" class=\"rm-shortcode\" id=\"222cc\" src=\"https://spectrum.ieee.org/media-library/man-in-gray-blazer-and-blue-shirt-posed-against-a-plain-white-background.jpg?id=66649170&amp;width=980\" /><p>The real challenge is this: Distribution systems were designed for a different reality.</p><p>Long gone are the days of predictable demand, one-way power flow and isolated disruptions. At Black & Veatch, we see that leading utilities are no longer debating whether to modernize. They\u2019re deciding how quickly they can do it, and how to do it at scale.</p><p>Across grid modernization programs globally, three truths consistently emerge. They define what it takes to prepare the distribution system for what\u2019s next:</p><h2>1. Outage response is not a resilience strategy</h2><p>Resilience is being redefined in real time. A strategy centered on mobilizing crews and restoring service as quickly as possible is reactive, and increasingly insufficient.</p><p>Resilience has to shift upstream into integrated system design. That starts with hardening. Stronger poles, undergrounding and structural upgrades all have a role, particularly in high-risk corridors. We\u2019re also seeing meaningful gains from how the network is configured and how quickly it can respond without waiting on manual intervention.</p><p>This is where distribution automation programs can change outcomes. Strategically placed reclosers, automated switches and fault indicators help contain disruptions before they spread. When combined with feeder reconfiguration and updated protection strategies, distribution automation investments allow utilities to set more aggressive recovery targets and achieve measurable reductions in outage duration and customer impact.</p><h2>2. Future-readiness depends on DERs at scale</h2><p>Forecasting is less and less reliable. Only 19 percent of utilities report strong confidence in their ability to predict future load growth, according to the <a href=\"https://www.bv.com/en-US/resources/2025-electric-report\" target=\"_blank\">Black & Veatch 2025 Electric Report</a>.<strong> </strong>Distributed Energy Resources (DERs) like solar, storage, EVs and behind-the-meter generation are exciting solutions; but they fundamentally change how the system operates. Power is no longer just delivered. It\u2019s injected, stored and redirected in ways the system was never designed to manage.<strong></strong></p><p>At scale, these challenges show up quickly \u2014 particularly on feeders where distributed generation is approaching or exceeding hosting capacity. Protection coordination becomes more difficult when fault current comes from multiple directions. Voltage becomes less predictable as generation fluctuates throughout the day. And planning models must now account for highly variable, location-specific behavior.</p><p class=\"pull-quote\">Distribution modernization is fundamentally changing how the system is designed and operated so it can absorb disruption, manage bi-directional flows and respond in real time.</p><p>Adapting to bi-directional power flow requires more than incremental updates. Leading utilities are responding by building flexibility into the system, moving beyond static assumptions toward dynamic hosting capacity and interconnection studies, planning that incorporates DER, EV adoption and localized load growth, and infrastructure aligned with the communications and control needed to manage it.</p><h2>3. The edge must be intelligent, visible and secure</h2><p>As system stress and complexity increase, utilities need far greater visibility and control over the network. Historically, utilities relied on customer calls, Supervisory Control and Data Acquisition (SCADA) at the substation level and field crews to understand what was happening on the system. That model doesn\u2019t hold up. You can\u2019t effectively manage a system you can\u2019t see. Plus, the most critical events are increasingly happening beyond the substation \u2014 on feeders, laterals, and at the edge where DER and customer behavior are interacting with the grid.</p><p>Grid-edge technologies have become essential. Sensors, Advanced Metering Infrastructure (AMI) and automated switching provide the raw data and control needed to move from reactive to proactive operations. In more advanced deployments, utilities are creating centralized control environments that allow operators to see and manage the distribution system in near real time. That capability is enabled by:</p><ul><li>Advanced communications networks to form the backbone of real-time grid visibility</li><li>Distribution Management System (DMS) and Outage Management System (OMS) to enable faster, more coordinated system response</li><li>Analytics, AI and machine learning to improve situational awareness, anticipate system conditions, and support operational decision-making</li></ul><p>The same connectivity enabling this real-time visibility and control also introduces new vulnerabilities, blurring the line between physical and cyber risk, yet many utilities manage them separately. Only 22 percent have unified teams in place, even as threats continue to rise, including a 50 percent increase in substation attacks and growing exposure to malware and ransomware, according to the <a href=\"https://www.bv.com/en-US/resources/2025-electric-report\" target=\"_blank\">Black & Veatch 2025 Electric Report</a>. Cybersecurity and resilient network design must be embedded into the architecture from the outset\u2014not layered on after the fact.</p><h2>See what bolder vision looks like</h2><p>Distribution modernization is fundamentally changing how the system is designed and operated so it can absorb disruption, manage bi-directional flows and respond in real time.</p><p>To learn about a successful program, check out <a href=\"https://www.bv.com/en-US/projects/georgia-power-grid-investment-plan?utm_campaign=portfolio_for_power_utilities-pp-grid_solutions-noia-26-100223&amp;utm_id=26-100223&amp;utm_source=publication&amp;utm_medium=qr-code&amp;utm_content=power-generation&amp;utm_tactic=na&amp;utm_term=brand-awareness_26-bolder-vision-spectrum-native-article\" target=\"_blank\">Georgia Power\u2019s recent grid modernization program</a>. Black & Veatch partnered with the utility on large-scale infrastructure upgrades. The results? Outages are down 76 percent, restoration times have improved by more than 80 percent and communities across Georgia are powered by a grid built to meet the future head-on.</p><p>When the state faced the most destructive storm in the company\u2019s history, Hurricane Helene, Georgia Power deployed a rapid response team that utilized its \u201csmart grid\u201d and restored power to more than 1 million customers within days.</p>A grid built to meet the future head-on\u2014that\u2019s the result of bolder vision."
       },
       {
         "id": "bd94fa141f712b3c",
@@ -880,33 +907,6 @@
         "published": "Fri, 29 May 2026 13:00:01 +0000",
         "published_dt": "2026-05-29T13:00:01+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-desktop-with-a-red-silicone-surface-where-a-typical-clock-would-have-7-segment-leds-numbers-are-formed-from-concave-depressio.png?id=66826918&amp;width=1245&amp;height=700&amp;coordinates=38%2C0%2C38%2C0\" /><br /><br /><p>Electrons are <em><em>great</em></em>. We use them to move vehicles, illuminate cities, and, of course, compute. But computation is not confined to the world of electronics. And shifting to alternative nonelectronic realms can unlock unique advantages: Photonic chips, for instance, process information with light while generating little heat. Another compelling alternative is <a href=\"https://en.wikipedia.org/wiki/Fluidics\" rel=\"noopener noreferrer\" target=\"_blank\">fluidics</a>, which uses pressurized gases or liquids to build logic circuits. Pioneered in the 1960s but sidelined by microchips, the field reemerged in the 1990s as \u201c<a href=\"https://en.wikipedia.org/wiki/Microfluidics\" rel=\"noopener noreferrer\" target=\"_blank\">microfluidics</a>.\u201d This approach aims to shrink laboratories onto a single chip by creating microscopic fluid channels with integrated micropneumatic control systems.</p><p>Today, there is a second fluidic revival, this time in the domain of <a href=\"https://spectrum.ieee.org/tag/soft-robot\" target=\"_self\">soft robotics</a>. Scaling microfluidic designs up to the millimeter-scale range (millifluidics) enables the higher flow rates necessary to drive robotic actuators. These robots exploit the nonlinear behaviors of soft materials to create lifelike motion and safer interactions, often utilizing pressurized air.</p><p>By building systems that \u201cthink\u201d with the same air that powers them, we can drastically reduce the need for bulky electronic-to-pneumatic interfaces. This is the focus of my <a href=\"https://www.linkedin.com/company/soiboi/\" rel=\"noopener noreferrer\" target=\"_blank\">Soiboi Studio</a> robotics lab. With millifluidic logic, I have steadily scaled the complexity of my designs. What began with a simple oscillator has most recently evolved into a clock featuring a soft, four-digit, seven-segment display.</p><h2>What Is Millifluidics?</h2><p>Building on <a href=\"https://doi.org/10.1109/JMEMS.2007.906080\" rel=\"noopener noreferrer\" target=\"_blank\">microfluidics research from the early 2000s</a> and recent developments from the <a href=\"https://groverlab.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Grover Lab at the University of California, Riverside</a>, I\u2019ve developed millifluidic devices using standard 3D printing and silicone casting. The basic architecture is simple: A flexible membrane is sandwiched between rigid layers embedded with networks of air channels.</p><p>Just as electronics rely on differing voltage potentials, these fluidic circuits operate on the pressure difference between atmospheric pressure (logical 0) and a near-vacuum at around \u221260 kilopascals of relative pressure (logical 1). Using negative pressure means the membrane is pulled into openings. This creates robust seals that allow me to replicate electronic building blocks.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Major components of the soft clock. \" class=\"rm-shortcode\" id=\"cc1f8\" src=\"https://spectrum.ieee.org/media-library/major-components-of-the-soft-clock.png?id=66826949&amp;width=980\" /> <small class=\"image-media media-caption\">A cast silicone membrane forms the face of the clock [top], while behind it sits 3D-printed millifluidic blocks [middle rows]. An Arduino Uno controls driver boards that operate solenoids, which are connected to valves that are attached to a vacuum pump [bottom row].</small><small class=\"image-media media-photo-credit\">James Provost</small></p><p>While fluidic resistors are easily realized by adjusting the channel geometry, the heart of the system is a valve that mimics a metal-oxide-semiconductor field-effect transistor, or <a href=\"https://doi.org/10.1109/JMEMS.2002.803414\" target=\"_blank\">MOSFET</a>. This vacuum \u201c<a href=\"https://spectrum.ieee.org/transistor-timeline\" target=\"_blank\">transistor</a>\u201d features a flow layer with two chambers (the source and drain) divided by a central valve seat and a control layer containing a cavity (the gate). A membrane runs between the control and flow layers and normally prevents airflow between the source and drain chambers. To switch the transistor on, a vacuum is applied to the gate chamber, sucking the membrane into the cavity and lifting it off the seat. This opens a path for airflow, equivalent to closing an electric circuit. By adding a <a href=\"https://doi.org/10.1038/nphys1637\" rel=\"noopener noreferrer\" target=\"_blank\">small aperture to the membrane,</a> I created a check valve\u2014the fluidic equivalent of a diode. By combining transistors and resistive \u201cpull-down\u201d channels, I can build a full suite of logic gates.</p><p>The original microfluidic designs that inspired me were fabricated from <a href=\"https://doi.org/10.1016/S0925-4005(02)00468-9\" rel=\"noopener noreferrer\" target=\"_blank\">etched glass</a> and milled acrylic. Adapting them for a standard 3D printer required reengineering the logic elements and mastering two critical fabrication techniques.</p><p>First, I need airtight prints, yet printed plastic is notoriously porous. By printing at elevated temperatures, slow speeds, and slight overextrusion, I was able to fill microscopic gaps. When you\u2019re using transparent filament, there\u2019s a handy visual indicator: The more transparent the plastic appears, the lower its porosity.</p><p>Second, I used glass for my print bed. By printing the upper and lower chambers directly against this bed, I got the interface surface to become mirror smooth. This finish is essential for creating reliable, airtight seals. A 0.3-millimeter silicone membrane is placed between the layers and secured with screws. </p><h2>How Does the Soft Clock Work?</h2><p>The clockface is a cast silicone membrane. Each digit segment is formed by a small underlying cavity. When air is evacuated from this cavity, the membrane is sucked inward to create a concave hollow; when atmospheric pressure is restored, the silicone pops back flush with the surface. The result is a mesmerizing, organic motion.</p><p>The \u201cbrain\u201d of the clock is an <a href=\"https://spectrum.ieee.org/the-making-of-arduino\" target=\"_blank\">Arduino Uno</a>, while the fluidics significantly reduce the hardware footprint. A four-digit, seven-segment display with two separator dots would require 29 solenoid valves to control directly. My clock needs just 11 valves.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" rel=\"float: left;\" style=\"float: left;\"> <img alt=\"An illustration of the three chambers of a pneumatic transistor, with two lower chambers separated by a wall overlaid by a membrane, with an upper chamber straddling the wall.\" class=\"rm-shortcode\" id=\"b7db3\" src=\"https://spectrum.ieee.org/media-library/an-illustration-of-the-three-chambers-of-a-pneumatic-transistor-with-two-lower-chambers-separated-by-a-wall-overlaid-by-a-membr.png?id=66826932&amp;width=980\" /> <small class=\"image-media media-caption\">A pneumatic transistor is off when its upper control chamber is at atmospheric pressure [top]. When air is removed from the control chamber, it lifts a membrane, which allows air to flow between lower flow chambers and turns the transistor on [bottom]. </small><small class=\"image-media media-photo-credit\">James Provost</small></p><p>To understand how it works, consider a standard electronic <a href=\"https://cdn.sparkfun.com/datasheets/Components/LED/1LEDREDCC.pdf\" target=\"_blank\">four-digit, seven-segment LED display</a>. This also uses 11 pins to drive its digits. (In clockface displays, an additional pin is required to drive the separator dots.) Every digit is connected to a shared data bus with seven lines, one per segment. The four control lines select individual digits. Only one digit is illuminated at time, and strobing the digits at least 50 times per second creates the illusion that all four are simultaneously illuminated.</p><p>Such high-speed switching is not possible with air. Instead, I rely on memory. Each segment acts like a capacitor: By evacuating its cavity (logic 1), you \u201ccharge\u201d the segment; by restoring atmospheric pressure (logic 0), you discharge it. Hence, each digit acts as an independent 7-bit memory. If the system is sufficiently airtight, the segments maintain their state for several seconds.</p><p>Like the electronic display, the system utilizes a seven-line data bus. Each line connects to a solenoid valve that provides either vacuum or atmospheric pressure. To selectively address the individual digits, I placed a fluidic transistor between each segment and its data line. All the transistors\u2019 control inputs for a given digit are combined into one \u201cwrite enable\u201d line connected to its own solenoid valve. Activating this valve allows me to write data into the corresponding digit\u2019s memory.</p><p>The clock updates one digit per second, meaning a full cycle across the face takes 4 seconds. This cycle also drives the separator dots: A set of fluidic diodes connects the enable lines to the dots\u2019 cavities. Consequently, as each digit is addressed, the dots pulse automatically.</p><p>This display is more than a clock; it is a soft robot that happens to tell time. By offloading computation to the same air that powers movement, the clock approaches a new class of machines that are simpler, lighter, and more integrated. I\u2019m now developing a guide for getting started with vacuum-powered logic and may release a refined version of this clock in the future. <a href=\"https://www.youtube.com/watch?v=E1BLGpE5zH0\" target=\"_blank\">Watching the silicone skin morph</a> serves as a fascinating reminder that not all logic needs silicon; sometimes, all you need is flexible silicone and a flow of air. </p><p><em>This article appears in the June 2026 print issue as \u201cThe Soft Clock.\u201d</em></p>"
-      },
-      {
-        "id": "7b568e403884b4b6",
-        "title": "The Download: unlocking lithium and controlling Ebola",
-        "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 29 May 2026 12:10:00 +0000",
-        "published_dt": "2026-05-29T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How a new extraction process could unlock the world\u2019s lithium A new method for extracting lithium could cut costs and emissions from one of the world\u2019s most important materials for EVs&#8230;"
-      },
-      {
-        "id": "7b36648f96dc00fb",
-        "title": "The deadly Ebola outbreak is proving difficult to control",
-        "url": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 29 May 2026 11:19:52 +0000",
-        "published_dt": "2026-05-29T11:19:52+00:00",
-        "summary": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent to investigate, and tests at a research center in Kinshasa revealed the culprit: the Bundibugyo virus, one of the viruses&#8230;"
-      },
-      {
-        "id": "0e8035d0ad0fb410",
-        "title": "How a new extraction process could unlock the world\u2019s lithium",
-        "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 28 May 2026 18:01:00 +0000",
-        "published_dt": "2026-05-28T18:01:00+00:00",
-        "summary": "Researchers say they\u2019ve found a new way to extract lithium, a crucial metal used in the lithium-ion batteries that power electric vehicles and energy storage arrays. This new technique could be more environmentally friendly and cheaper than existing ones.&#160; The research was published today in Science, and a startup called Rock Zero is working to&#8230;"
       }
     ]
   }
