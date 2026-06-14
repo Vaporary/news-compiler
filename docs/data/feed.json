@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T14:13:39.900068+00:00",
+  "generated_at": "2026-06-14T14:18:06.165624+00:00",
   "categories": {
     "Biotech": [
       {
@@ -10,24 +10,6 @@
         "published": "Sat, 13 Jun 2026 13:22:44 +0000",
         "published_dt": "2026-06-13T13:22:44+00:00",
         "summary": "The FDA has approved a drug that was previously caught in a dispute between career staff and the political appointee head of the CDER."
-      },
-      {
-        "id": "9380f2fd0eac27ed",
-        "title": "WHO director-general is profoundly concerned after visit to Ebola outbreak area",
-        "url": "https://www.statnews.com/2026/06/13/who-director-general-in-drc-war-greater-concern-than-ebola/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 13 Jun 2026 13:00:00 +0000",
-        "published_dt": "2026-06-13T13:00:00+00:00",
-        "summary": "The director-general of the World Health Organization is profoundly worried about the Ebola outbreak in the DRC, he told STAT in an interview."
-      },
-      {
-        "id": "7f6f9316c0d794af",
-        "title": "Opinion: \u2018I\u2019m pretty much all in\u2019: An interview with a woman starting medical residency at almost 73",
-        "url": "https://www.statnews.com/2026/06/13/medical-residency-late-in-life-interview/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 13 Jun 2026 08:30:00 +0000",
-        "published_dt": "2026-06-13T08:30:00+00:00",
-        "summary": "\"There are some physicians that work to 100\u201d: Dawn Zuidgeest-Craft on becoming a medical doctor in her 70s."
       },
       {
         "id": "d5fb4913c6c9b9df",
@@ -66,6 +48,24 @@
         "summary": "Predicta Biosciences, a precision oncology specialist, is teaming with the Cl\u00ednica Universidad de Navarra\u2019s CIMA Lab Diagnostics clinic to offer an assay focused on blood cancers."
       },
       {
+        "id": "9380f2fd0eac27ed",
+        "title": "WHO director-general is profoundly concerned after visit to Ebola outbreak area",
+        "url": "https://www.statnews.com/2026/06/13/who-director-general-in-drc-war-greater-concern-than-ebola/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sat, 13 Jun 2026 13:00:00 +0000",
+        "published_dt": "2026-06-13T13:00:00+00:00",
+        "summary": "The director-general of the World Health Organization is profoundly worried about the Ebola outbreak in the DRC, he told STAT in an interview."
+      },
+      {
+        "id": "7f6f9316c0d794af",
+        "title": "Opinion: \u2018I\u2019m pretty much all in\u2019: An interview with a woman starting medical residency at almost 73",
+        "url": "https://www.statnews.com/2026/06/13/medical-residency-late-in-life-interview/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sat, 13 Jun 2026 08:30:00 +0000",
+        "published_dt": "2026-06-13T08:30:00+00:00",
+        "summary": "\"There are some physicians that work to 100\u201d: Dawn Zuidgeest-Craft on becoming a medical doctor in her 70s."
+      },
+      {
         "id": "b66c8715431de67b",
         "title": "STAT+: Trump administration revisits policy to close Medicare drug price negotiation loophole",
         "url": "https://www.statnews.com/2026/06/12/medicare-drug-price-negotiation-loophole-proposed-rule/?utm_campaign=rss",
@@ -73,6 +73,15 @@
         "published": "Fri, 12 Jun 2026 21:45:12 +0000",
         "published_dt": "2026-06-12T21:45:12+00:00",
         "summary": "Trump administration revisits policy to plug Medicare drug price negotiation loophole."
+      },
+      {
+        "id": "af7c6bff7a588ecf",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-23b-ajax-deal-first-clinical-data-jak-inhibitor-works-right-out-gate\" hreflang=\"en\">Lilly unveils first clinical data behind $2.3B Ajax deal, showing JAK inhibitor works \u2018right out of the gate\u2019 </a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-23b-ajax-deal-first-clinical-data-jak-inhibitor-works-right-out-gate",
+        "source": "Fierce Biotech",
+        "published": "Jun 12, 2026 9:24pm",
+        "published_dt": "2026-06-12T21:24:00+00:00",
+        "summary": "Eli Lilly\u2019s up-to-$2.3 billion acquisition of Ajax Therapeutics is facing its first major public test, and the initial clinical data show why the pharma giant made the bet."
       },
       {
         "id": "e3388dcfdeaf3358",
@@ -217,15 +226,6 @@
         "published": "Thu, 11 Jun 2026 20:26:14 +0000",
         "published_dt": "2026-06-11T20:26:14+00:00",
         "summary": "Can any of the new obesity medications in development stand out from the pack? Which company just broke records with its IPO? And will the Food and Drug Administration allow&#8230;"
-      },
-      {
-        "id": "9c39a14f752e7685",
-        "title": "RFK Jr. claims his calendar is publicly available. We\u2019ve been trying to get it for a year",
-        "url": "https://www.statnews.com/2026/06/11/rfk-jr-cites-publicly-available-calendar-never-released-foia-requests/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 11 Jun 2026 19:53:52 +0000",
-        "published_dt": "2026-06-11T19:53:52+00:00",
-        "summary": "None of STAT's requests for Kennedy's schedule have been completed, and some haven't even been acknowledged."
       }
     ],
     "Engineering & Aerospace": [
@@ -239,6 +239,15 @@
         "summary": "<figure><img alt=\"Apex assembly line\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"721\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/apex-aries-assemblyline.jpeg?fit=1024%2C721&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Aerospace executives see AI not as a replacement for workers but as a necessary tool for helping an overstretched industrial base</p>\n<p>The post <a href=\"https://spacenews.com/in-aerospace-ai-isnt-replacing-workers-its-filling-a-shortage/\">In aerospace, AI isn\u2019t replacing workers. It\u2019s filling a shortage</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
+        "id": "d7fe0aec1cca1f50",
+        "title": "Missile production push runs into solid rocket motor bottleneck",
+        "url": "https://spacenews.com/missile-production-push-runs-into-solid-rocket-motor-bottleneck/",
+        "source": "SpaceNews",
+        "published": "Sun, 14 Jun 2026 04:00:00 +0000",
+        "published_dt": "2026-06-14T04:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"685\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-13-2026-at-11_55_33-AM.png?fit=1024%2C685&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A new CSIS report says planned 2027 interceptor buys will test a supply chain still recovering from years of consolidation</p>\n<p>The post <a href=\"https://spacenews.com/missile-production-push-runs-into-solid-rocket-motor-bottleneck/\">Missile production push runs into solid rocket motor bottleneck</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
         "id": "f6687e5bac4543b9",
         "title": "Commercial Space Federation (CSF) Welcomes Two New Space Supply Chain Members",
         "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-space-supply-chain-members/",
@@ -248,13 +257,13 @@
         "summary": "<figure><img alt=\"Commercial Space Federation 20th anniversary logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"883\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Anniversary-Logo.jpg?fit=1024%2C883&amp;ssl=1\" width=\"1024\" /></figure>\n<p>June 8, 2026 \u2013 Washington, D.C.\u2014The Commercial Space Federation (CSF) is pleased to welcome Besxar and Charter Space as new space supply chain members, adding expertise in space-based semiconductor manufacturing [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-space-supply-chain-members/\">Commercial Space Federation (CSF) Welcomes Two New Space Supply Chain Members</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "a05ac1ae89c46ca8",
-        "title": "Spire to pursue space-based missile warning in partnership with German defense firm",
-        "url": "https://spacenews.com/spire-to-pursue-space-based-missile-warning-in-partnership-with-german-defense-firm/",
+        "id": "929d85f9c9743d2e",
+        "title": "Revised Artemis lunar lander plans take shape",
+        "url": "https://spacenews.com/revised-artemis-lunar-lander-plans-take-shape/",
         "source": "SpaceNews",
-        "published": "Wed, 10 Jun 2026 15:00:00 +0000",
-        "published_dt": "2026-06-10T15:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"536\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/02/Artist_impression_of_Spire_satellite_constellation_1.jpg?fit=1000%2C536&amp;ssl=1\" width=\"1000\" /></figure>\n<p>Diehl Defence will explore using Spire\u2019s constellation for detection of ballistic and hypersonic missile threats </p>\n<p>The post <a href=\"https://spacenews.com/spire-to-pursue-space-based-missile-warning-in-partnership-with-german-defense-firm/\">Spire to pursue space-based missile warning in partnership with German defense firm</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Sat, 13 Jun 2026 17:19:56 +0000",
+        "published_dt": "2026-06-13T17:19:56+00:00",
+        "summary": "<figure><img alt=\"Blue Moon Artemis 3\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"575\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/bluemoon-art3.jpeg?fit=1024%2C575&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA has provided more details about the revised approaches that Blue Origin and SpaceX are taking to accelerate work on Artemis lunar landers.</p>\n<p>The post <a href=\"https://spacenews.com/revised-artemis-lunar-lander-plans-take-shape/\">Revised Artemis lunar lander plans take shape</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "c4cbf08e52b327a7",
@@ -444,15 +453,6 @@
         "published": "Thu, 11 Jun 2026 17:33:50 +0000",
         "published_dt": "2026-06-11T17:33:50+00:00",
         "summary": "<figure><img alt=\"Parmitano\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"924\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/art3parmitano.jpeg?fit=1024%2C924&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The assignment of an ESA astronaut to Artemis 3 is part of negotiations for revised roles in the overall effort, with a goal of getting its astronauts on the moon.</p>\n<p>The post <a href=\"https://spacenews.com/esa-astronaut-assignment-on-artemis-3-part-of-negotiations-on-revised-artemis-roles/\">ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "294dd558dbe16a6e",
-        "title": "HyImpulse signs letter of intent with Oman\u2019s spaceport",
-        "url": "https://spacenews.com/hyimpulse-signs-letter-of-intent-with-omans-spaceport/",
-        "source": "SpaceNews",
-        "published": "Thu, 11 Jun 2026 16:43:48 +0000",
-        "published_dt": "2026-06-11T16:43:48+00:00",
-        "summary": "<figure><img alt=\"The maiden flight of the HyImpulse SR75 from the Koonibba Test Range in South Australia in May 2024. Credit: HyImpulse\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/HyImpulse-Liftoff-4.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>MILAN \u2014 Etlaq Spaceport, Oman\u2019s commercial spaceport, and German-based small launch provider HyImpulse have signed a letter of intent to explore future launch-related activities and a potential operational presence in [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/hyimpulse-signs-letter-of-intent-with-omans-spaceport/\">HyImpulse signs letter of intent with Oman\u2019s spaceport</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
