@@ -1,24 +1,69 @@
 {
-  "generated_at": "2026-06-24T14:44:38.920211+00:00",
+  "generated_at": "2026-06-25T14:43:55.232337+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "1c00be96d5dd10d2",
-        "title": "STAT+: At BIO, a glimpse behind Lilly and Chai\u2019s partnership",
-        "url": "https://www.statnews.com/2026/06/24/biotech-news-bio-2026-glimpse-behind-lilly-and-chai-partnership/?utm_campaign=rss",
+        "id": "7059007ffda89c9a",
+        "title": "STAT+: FDA\u2019s breakthrough pipeline fills up with generative AI devices",
+        "url": "https://www.statnews.com/2026/06/25/fda-breakthrough-generative-ai-devices-health-tech/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 24 Jun 2026 14:14:29 +0000",
-        "published_dt": "2026-06-24T14:14:29+00:00",
-        "summary": "RIP Sangamo, onshoring with drug manufacturing, and more biotech news from The Readout"
+        "published": "Thu, 25 Jun 2026 13:43:08 +0000",
+        "published_dt": "2026-06-25T13:43:08+00:00",
+        "summary": "In this edition of STAT Health Tech: FDA drops enforcement against Whoop, more AI devices get FDA 'breakthrough' label, and more."
       },
       {
-        "id": "a0a67f97f1aaf144",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about an FDA commissioner candidate, Germany\u2019s plans for drug prices, and more",
-        "url": "https://www.statnews.com/pharmalot/2026/06/24/fda-commissioner-candidate-germany-plans-for-drug-prices/?utm_campaign=rss",
+        "id": "8cc024724f9737b2",
+        "title": "STAT+: The China debate gets louder in Washington",
+        "url": "https://www.statnews.com/2026/06/25/biotech-news-the-china-debate-gets-louder-in-washington/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 24 Jun 2026 13:00:37 +0000",
-        "published_dt": "2026-06-24T13:00:37+00:00",
-        "summary": "Regenxbio plans to apply for accelerated approval for its gene therapy for Duchenne muscular dystrophy."
+        "published": "Thu, 25 Jun 2026 14:20:37 +0000",
+        "published_dt": "2026-06-25T14:20:37+00:00",
+        "summary": "A boom in GLP-1s and health care costs, AI-designed hair growth drugs, and more biotech news from The Readout"
+      },
+      {
+        "id": "8253231c7459ff2a",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about weight loss drug spending, launch prices for medicines, and much more",
+        "url": "https://www.statnews.com/pharmalot/2026/06/25/weight-loss-drug-spending-launch-prices-for-medicines/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 25 Jun 2026 13:03:07 +0000",
+        "published_dt": "2026-06-25T13:03:07+00:00",
+        "summary": "The latest pharmaceutical news from the Pharmalot campus via the Pharmalittle newsletter"
+      },
+      {
+        "id": "19ff30e5f354dcee",
+        "title": "STAT+: FDA gives generative AI in radiology two breakthrough designation nods",
+        "url": "https://www.statnews.com/2026/06/25/radiology-generative-ai-cognita-aidoc-fda-breakthrough-designation/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 25 Jun 2026 12:00:00 +0000",
+        "published_dt": "2026-06-25T12:00:00+00:00",
+        "summary": "FDA has granted breakthrough designation to two devices that use generative AI to interpret chest X-rays and draft the radiology reports."
+      },
+      {
+        "id": "f1f37706902d8f7e",
+        "title": "The Download: Europe\u2019s heat wave hits the grid, and IBM\u2019s chip targets Moore\u2019s Law",
+        "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 25 Jun 2026 12:10:00 +0000",
+        "published_dt": "2026-06-25T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe\u2019s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to&#8230;"
+      },
+      {
+        "id": "357a0d3ce7cb31c3",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/otsuka-posts-phase-3b-adhd-trial-win-ahead-looming-fda-approval-decision\" hreflang=\"en\">Otsuka posts phase 3b ADHD trial win ahead of looming FDA approval decision</a>",
+        "url": "https://www.fiercebiotech.com/biotech/otsuka-posts-phase-3b-adhd-trial-win-ahead-looming-fda-approval-decision",
+        "source": "Fierce Biotech",
+        "published": "Jun 25, 2026 9:14am",
+        "published_dt": "2026-06-25T09:14:00+00:00",
+        "summary": "A phase 3b trial of Otsuka\u2019s attention-deficit/hyperactivity disorder prospect has hit its primary endpoint, strengthening the drugmaker\u2019s hand weeks before a potential U.S. launch of the therapy."
+      },
+      {
+        "id": "9dfaa93342c18a77",
+        "title": "Another roadblock for DOJ campaign against trans health",
+        "url": "https://www.statnews.com/2026/06/25/health-news-another-roadblock-for-doj-campaign-against-trans-health/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 25 Jun 2026 11:48:40 +0000",
+        "published_dt": "2026-06-25T11:48:40+00:00",
+        "summary": "New bill proposes expanding methadone access, $5.7 trillion on U.S. health care, and more health news from Morning Rounds"
       },
       {
         "id": "0362eb260e3c3678",
@@ -30,6 +75,132 @@
         "summary": "Regenxbio plans to submit its Duchenne gene therapy for FDA approval, just a month after it said that regulators wanted to see another trial."
       },
       {
+        "id": "4f4857e7d73dd440",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/spurned-fda-passage-bio-finds-exit-through-merger-remix\" hreflang=\"en\">Spurned by FDA, Passage Bio finds exit through merger with Remix</a>",
+        "url": "https://www.fiercebiotech.com/biotech/spurned-fda-passage-bio-finds-exit-through-merger-remix",
+        "source": "Fierce Biotech",
+        "published": "Jun 24, 2026 5:09pm",
+        "published_dt": "2026-06-24T17:09:00+00:00",
+        "summary": "Passage Bio, the Philadelphia-based gene therapy outfit that launched a strategic review earlier this year after tough feedback from the FDA, has found an exit in an all-stock reverse merger with RNA specialist Remix Therapeutics."
+      },
+      {
+        "id": "ec2def7d68a76156",
+        "title": "What Europe\u2019s heat wave means for the power grid",
+        "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 25 Jun 2026 10:00:00 +0000",
+        "published_dt": "2026-06-25T10:00:00+00:00",
+        "summary": "It\u2019s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event about extreme heat.\u00a0 As the summer ramps up&#8230;"
+      },
+      {
+        "id": "c5a14c5b2b27c695",
+        "title": "IBM has unveiled chip technology that could help extend Moore\u2019s Law another decade",
+        "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 25 Jun 2026 10:00:00 +0000",
+        "published_dt": "2026-06-25T10:00:00+00:00",
+        "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company\u2019s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to come. For more than half&#8230;"
+      },
+      {
+        "id": "a0a67f97f1aaf144",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about an FDA commissioner candidate, Germany\u2019s plans for drug prices, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/06/24/fda-commissioner-candidate-germany-plans-for-drug-prices/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 24 Jun 2026 13:00:37 +0000",
+        "published_dt": "2026-06-24T13:00:37+00:00",
+        "summary": "Regenxbio plans to apply for accelerated approval for its gene therapy for Duchenne muscular dystrophy."
+      },
+      {
+        "id": "e0c169ca6d6c0646",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-drops-blood-pressure-device-enforcement-against-whoop\" hreflang=\"en\">FDA drops blood pressure device enforcement against Whoop</a>",
+        "url": "https://www.fiercebiotech.com/medtech/fda-drops-blood-pressure-device-enforcement-against-whoop",
+        "source": "Fierce Biotech",
+        "published": "Jun 25, 2026 3:40am",
+        "published_dt": "2026-06-25T03:40:00+00:00",
+        "summary": "The FDA has sent an End of Enforcement notice to consumer wearable device company Whoop, putting a formal end to the agency\u2019s investigation into its blood pressure tech use."
+      },
+      {
+        "id": "a1b0082309466d0b",
+        "title": "STAT+: Facing a brutal run, battered vaccine makers still see cause for hope",
+        "url": "https://www.statnews.com/2026/06/25/vaccine-industry-dark-period-causes-for-hope/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 25 Jun 2026 08:30:00 +0000",
+        "published_dt": "2026-06-25T08:30:00+00:00",
+        "summary": "It's an unusual time to be in the vaccine business. But in the view of those gathered at the BIO conference this week, it\u2019s not altogether a bleak one."
+      },
+      {
+        "id": "4dc6bbad95e7633b",
+        "title": "Opinion: My adult daughter has Down syndrome. Her life is entirely different from what experts expected",
+        "url": "https://www.statnews.com/2026/06/25/prenatal-down-syndrome-diagnosis-screening-life-expectancy-health-facts/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 25 Jun 2026 08:30:00 +0000",
+        "published_dt": "2026-06-25T08:30:00+00:00",
+        "summary": "\u201cWomen are fully capable of making difficult decisions, but meaningful choice requires trusted, vetted information,\u201d writes Michelle Sie Whitten of the Global Down Syndrome Foundation."
+      },
+      {
+        "id": "fa84a26fe2278231",
+        "title": "Bipartisan bill seeks to allow direct prescribing of methadone for opioid addiction",
+        "url": "https://www.statnews.com/2026/06/25/bipartisan-bill-methadone-prescription-pharmacy-pickup/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 25 Jun 2026 08:30:00 +0000",
+        "published_dt": "2026-06-25T08:30:00+00:00",
+        "summary": "Methadone for opioid addiction has been available only at specialty clinics. A bipartisan bill would greatly expand access."
+      },
+      {
+        "id": "43b601587221a9e1",
+        "title": "STAT+: Biosecure didn\u2019t stop China\u2019s rise in biotech. Some lawmakers want to do more",
+        "url": "https://www.statnews.com/2026/06/25/china-biotech-next-steps-after-biosecure-act/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 25 Jun 2026 08:30:00 +0000",
+        "published_dt": "2026-06-25T08:30:00+00:00",
+        "summary": "They're laying the groundwork for legislation and regulation to counter Chinese biopharma companies."
+      },
+      {
+        "id": "47c6dab0274a89a5",
+        "title": "Opinion: How a 1976 murder case changed doctor-patient confidentiality",
+        "url": "https://www.statnews.com/2026/06/25/tarasoff-50th-anniversary-murder-doctor-patient-confidentiality/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 25 Jun 2026 08:30:00 +0000",
+        "published_dt": "2026-06-25T08:30:00+00:00",
+        "summary": "The Tarasoff case remains a pivotal marker in bioethics at the bicentennial as we now reach the country\u2019s 250th birthday."
+      },
+      {
+        "id": "1d6896f8fee528f5",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bio-how-gut-feeling-transformed-cancer-treatment-forever\" hreflang=\"en\">BIO 2026: How a gut feeling transformed cancer treatment forever</a>",
+        "url": "https://www.fiercebiotech.com/biotech/bio-how-gut-feeling-transformed-cancer-treatment-forever",
+        "source": "Fierce Biotech",
+        "published": "Jun 24, 2026 10:01pm",
+        "published_dt": "2026-06-24T22:01:00+00:00",
+        "summary": "Dr. Israel Lowy remembers the days when he and his oncology immunotherapy colleagues were assigned tables in the distant east wing of the American Society of Clinical Oncology conference in Chicago. They would watch aficionados walk by, scoffing at these iconoclastic researchers pushing an alternative way to treat cancer."
+      },
+      {
+        "id": "3c32d51053494f07",
+        "title": "Clinical trial set to test two drugs for fast-growing Ebola outbreak",
+        "url": "https://www.statnews.com/2026/06/24/ebola-treatment-trials-gilead-remdesivir-mappbio-mbp-134/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 24 Jun 2026 16:32:20 +0000",
+        "published_dt": "2026-06-24T16:32:20+00:00",
+        "summary": "A clinical trial testing two drugs against the Bundibugyo ebolavirus, which is driving a fast-moving outbreak in Central Africa, is set to begin next week, WHO officials said."
+      },
+      {
+        "id": "1badb226a21818c5",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ionis-bags-30m-recordati-ex-us-rights-near-approval-rare-disease-prospect\" hreflang=\"en\">Ionis bags $30M from Recordati for ex-US rights to near-approval rare disease prospect</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ionis-bags-30m-recordati-ex-us-rights-near-approval-rare-disease-prospect",
+        "source": "Fierce Biotech",
+        "published": "Jun 25, 2026 6:59am",
+        "published_dt": "2026-06-25T06:59:00+00:00",
+        "summary": "Ionis Pharmaceuticals has offloaded regional rights to its near-approval rare disease asset zilganersen, pocketing $30 million upfront from Recordati for an ex-U.S. license to the drug candidate."
+      },
+      {
+        "id": "08104e7776b288d7",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/mapp-gilead-antivirals-be-deployed-drc-ebola-trial-who-chief\" hreflang=\"en\">Mapp, Gilead antivirals to be deployed in DRC Ebola trial: WHO chief</a>",
+        "url": "https://www.fiercebiotech.com/biotech/mapp-gilead-antivirals-be-deployed-drc-ebola-trial-who-chief",
+        "source": "Fierce Biotech",
+        "published": "Jun 24, 2026 2:51pm",
+        "published_dt": "2026-06-24T14:51:00+00:00",
+        "summary": "Officials are planning to study Mapp Biopharmaceutical\u2019s MBP134 and Gilead Sciences\u2019 remdesivir, which gained prominence during the COVID-19 pandemic, against the&nbsp;Bundibugyo ebolavirus."
+      },
+      {
         "id": "bff17b0b736a8ffc",
         "title": "FDA finally analyzed its own youth tobacco data",
         "url": "https://www.statnews.com/2026/06/24/health-news-fda-finally-analyzed-its-own-youth-tobacco-data/?utm_campaign=rss",
@@ -37,42 +208,6 @@
         "published": "Wed, 24 Jun 2026 11:53:25 +0000",
         "published_dt": "2026-06-24T11:53:25+00:00",
         "summary": "Government can't restrict SNAP dollars on candy, diminishing returns for IVF add-ons, and other health news"
-      },
-      {
-        "id": "e4d6d51eab344349",
-        "title": "The Download: introducing the Engineering issue",
-        "url": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 24 Jun 2026 12:10:00 +0000",
-        "published_dt": "2026-06-24T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Engineering issue We can\u2019t fix everything, but we can be ambitious. We can take on the challenge of making the world better through human ingenuity. That\u2019s what the new&#8230;"
-      },
-      {
-        "id": "1835538bc1472a0e",
-        "title": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
-        "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 24 Jun 2026 12:00:00 +0000",
-        "published_dt": "2026-06-24T12:00:00+00:00",
-        "summary": "The common cold comes for us all\u2014often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now, the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;"
-      },
-      {
-        "id": "8feaa8482c54b71f",
-        "title": "The emergence of the web data infrastructure layer for AI",
-        "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 24 Jun 2026 11:59:54 +0000",
-        "published_dt": "2026-06-24T11:59:54+00:00",
-        "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology\u2019s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&#8230;"
-      },
-      {
-        "id": "9e8f1315242ac8f1",
-        "title": "STAT+: What an abandoned heart failure trial says about \u2018breakthrough\u2019 devices that don\u2019t reach patients",
-        "url": "https://www.statnews.com/2026/06/24/fda-breakthrough-devices-what-we-learned-livanova-vitaria-results/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 24 Jun 2026 08:30:00 +0000",
-        "published_dt": "2026-06-24T08:30:00+00:00",
-        "summary": "An abandoned heart-failure trial offers a rare window into devices that the FDA deems \"breakthrough\" but never reach patients."
       },
       {
         "id": "7dfa49ca4ff36ca4",
@@ -84,123 +219,6 @@
         "summary": "Novartis is paying Antares Therapeutics $105 million upfront in a deal worth up to $1.9 billion to generate small molecules against historically undruggable oncology targets."
       },
       {
-        "id": "cf25a8e7effa6769",
-        "title": "STAT+: Ophthalmology venture grabs investors\u2019 attention, raises $330 million",
-        "url": "https://www.statnews.com/2026/06/24/ophthalmology-biotech-ollin-biosciences/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 24 Jun 2026 11:00:00 +0000",
-        "published_dt": "2026-06-24T11:00:00+00:00",
-        "summary": "A startup developing treatments for eye diseases has raised $330 million from investors as it readies for late-stage testing."
-      },
-      {
-        "id": "72f4c542c5f82352",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about FDA reforming clinical trials, a Pfizer setback, and much more news",
-        "url": "https://www.statnews.com/pharmalot/2026/06/23/fda-reforming-clinical-trials-pfizer-setback-lilly-trump-obesity/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 23 Jun 2026 13:20:58 +0000",
-        "published_dt": "2026-06-23T13:20:58+00:00",
-        "summary": "The latest pharmaceutical news from the Pharmalot campus via the Pharmalittle newsletter"
-      },
-      {
-        "id": "9bf9ecd603267c11",
-        "title": "HHS has sent drug for Ebola clinical trial",
-        "url": "https://www.statnews.com/2026/06/23/health-news-hhs-sent-drug-for-ebola-clinical-trial/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 23 Jun 2026 12:45:45 +0000",
-        "published_dt": "2026-06-23T12:45:45+00:00",
-        "summary": "FDA's early-stage clinical trial program, a mysterious single patient gets retatrutide access, and more health news from Morning Rounds"
-      },
-      {
-        "id": "add8d944277bd011",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/exelixis-cabometyx-successor-fails-primary-endpoint-colorectal-cancer-trial-amid-fda-review\" hreflang=\"en\">Exelixis\u2019 Cabometyx successor fails primary endpoint in colorectal cancer trial amid FDA review</a>",
-        "url": "https://www.fiercebiotech.com/biotech/exelixis-cabometyx-successor-fails-primary-endpoint-colorectal-cancer-trial-amid-fda-review",
-        "source": "Fierce Biotech",
-        "published": "Jun 22, 2026 3:20pm",
-        "published_dt": "2026-06-22T15:20:00+00:00",
-        "summary": "Exelixis\u2019 next franchise drug, zanzalintinib, has hit a clinical setback, although at least two groups of analysts suggested that an FDA approval is still on the table."
-      },
-      {
-        "id": "5b29be1b163f7a01",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/another-reversal-rare-disease-fda-reconsider-regenxbio-gene-therapy\" hreflang=\"en\">In another reversal for rare disease field, FDA to reconsider Regenxbio gene therapy</a>",
-        "url": "https://www.fiercebiotech.com/biotech/another-reversal-rare-disease-fda-reconsider-regenxbio-gene-therapy",
-        "source": "Fierce Biotech",
-        "published": "Jun 22, 2026 10:09am",
-        "published_dt": "2026-06-22T10:09:00+00:00",
-        "summary": "In another sign that the FDA is easing its stance toward rare disease drug candidates under new leadership, the agency will reconsider Regenxbio\u2019s gene therapy for an ultra-rare childhood disease, a reversal coming just about four months after a rejection."
-      },
-      {
-        "id": "f2885502861a11e6",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/rq-bio-reels-115m-take-long-acting-flu-prevention-antiviral-clinic\" hreflang=\"en\">RQ Bio reels in $115M to take long-acting flu prevention antiviral into clinic</a>",
-        "url": "https://www.fiercebiotech.com/biotech/rq-bio-reels-115m-take-long-acting-flu-prevention-antiviral-clinic",
-        "source": "Fierce Biotech",
-        "published": "Jun 24, 2026 9:28am",
-        "published_dt": "2026-06-24T09:28:00+00:00",
-        "summary": "Amid a bustling fundraising week for biotechs, the U.K.\u2019s RQ Bio is adding $115 million to its coffers to advance a long-acting antibody for flu prevention."
-      },
-      {
-        "id": "d46bc29881e1e211",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-pens-blood-based-alzheimers-testing-pact-alzpath\" hreflang=\"en\">Abbott pens blood-based Alzheimer's testing pact with ALZpath </a>",
-        "url": "https://www.fiercebiotech.com/medtech/abbott-pens-blood-based-alzheimers-testing-pact-alzpath",
-        "source": "Fierce Biotech",
-        "published": "Jun 24, 2026 9:03am",
-        "published_dt": "2026-06-24T09:03:00+00:00",
-        "summary": "Abbott has become the latest company to team up with Alzheimer\u2019s disease blood test developer ALZpath."
-      },
-      {
-        "id": "9930ee536c5a35ec",
-        "title": "This flying solar-powered platform could deliver better internet from the air",
-        "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 24 Jun 2026 09:00:00 +0000",
-        "published_dt": "2026-06-24T09:00:00+00:00",
-        "summary": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.&#160; Once there, the roughly 200-foot-long craft, built by the New Mexico\u2013based company Sceye, will park some 18 kilometers above the ocean\u2019s surface, in a wispy-thin&#8230;"
-      },
-      {
-        "id": "6a567031fa32c544",
-        "title": "All challenges big and small",
-        "url": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 24 Jun 2026 09:00:00 +0000",
-        "published_dt": "2026-06-24T09:00:00+00:00",
-        "summary": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos. There was little to no electricity, aside from generator power. Rubble and unexploded ordnance were everywhere. Massive oil fires lit up the desert and&#8230;"
-      },
-      {
-        "id": "359081eac70b92ae",
-        "title": "Opinion: How I used public radio to recruit 20,000 participants for a peer-reviewed study on walking breaks",
-        "url": "https://www.statnews.com/2026/06/24/short-walking-breaks-sitting-health-research/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 24 Jun 2026 08:30:00 +0000",
-        "published_dt": "2026-06-24T08:30:00+00:00",
-        "summary": "\u201cWith the right structure, Americans will roll up their sleeves, do the science, and trust the result,\u201d Manoush Zomorodi writes."
-      },
-      {
-        "id": "50355137b768f864",
-        "title": "Opinion: New human embryo editing advances require tough conversations on ethical boundaries",
-        "url": "https://www.statnews.com/2026/06/24/embryo-editing-dieter-egli-ethical-boundaries-moratorium/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 24 Jun 2026 08:30:00 +0000",
-        "published_dt": "2026-06-24T08:30:00+00:00",
-        "summary": "Scientists can\u2019t ignore the ethical complexities of new embryo editing advances."
-      },
-      {
-        "id": "185e5322aba98c5b",
-        "title": "STAT+: FDA drops enforcement against Whoop after it tweaks blood pressure feature",
-        "url": "https://www.statnews.com/2026/06/23/fda-drops-enforcement-against-wearable-maker-whoop/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 23 Jun 2026 23:36:09 +0000",
-        "published_dt": "2026-06-23T23:36:09+00:00",
-        "summary": "The FDA told wearable maker Whoop last week that it would not take further enforcement action over the company's blood pressure feature."
-      },
-      {
-        "id": "e34273e611d4a58f",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lilly-reunites-abbisko-19b-multitarget-rd-pact\" hreflang=\"en\">Eli Lilly reunites with Abbisko in $1.9B, multiple target R&amp;D pact</a>",
-        "url": "https://www.fiercebiotech.com/biotech/eli-lilly-reunites-abbisko-19b-multitarget-rd-pact",
-        "source": "Fierce Biotech",
-        "published": "Jun 24, 2026 7:48am",
-        "published_dt": "2026-06-24T07:48:00+00:00",
-        "summary": "Eli Lilly has expanded its relationship with Abbisko Therapeutics, committing up to $1.9 billion to get the Chinese biotech to apply its drug discovery and early development capabilities to multiple targets."
-      },
-      {
         "id": "5b8c7c88ebc777a7",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/ollin-hauls-330m-enlist-vabysmo-challenger-phase-3-eye-disease-gauntlet\" hreflang=\"en\">Ollin hauls in $330M to enlist Vabysmo challenger in phase 3 eye disease gauntlet</a>",
         "url": "https://www.fiercebiotech.com/biotech/ollin-hauls-330m-enlist-vabysmo-challenger-phase-3-eye-disease-gauntlet",
@@ -208,27 +226,117 @@
         "published": "Jun 23, 2026 6:10pm",
         "published_dt": "2026-06-23T18:10:00+00:00",
         "summary": "Half a year after toppling Genentech\u2019s eye medicine giant Vabysmo in an early trial, Texas biotech Ollin Biosciences has lassoed a $330 million series B to push its winning contender through a multi-trial phase 3 gauntlet."
-      },
-      {
-        "id": "7672d62fbed1a69b",
-        "title": "STAT+: Lilly\u2019s retatrutide has been offered to a single person via \u2018compassionate use\u2019 program",
-        "url": "https://www.statnews.com/2026/06/23/biotech-news-why-did-one-person-get-special-retatrutide-access-eli-lilly/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 23 Jun 2026 13:06:24 +0000",
-        "published_dt": "2026-06-23T13:06:24+00:00",
-        "summary": "The \"triple-G\" weight loss drug, Pfizer's lung cancer trial results, and more biotech news from The Readout"
-      },
-      {
-        "id": "3557d1f05a129d61",
-        "title": "STAT+: OpenEvidence will add FDA-cleared AI to detect heart disease",
-        "url": "https://www.statnews.com/2026/06/23/openevidence-fda-cleared-heart-disease-ai-health-tech/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 23 Jun 2026 12:54:26 +0000",
-        "published_dt": "2026-06-23T12:54:26+00:00",
-        "summary": "In this edition of STAT Health Tech: OpenEvidence adds AI to detect heart disease, and Cadence raises $100 million, and more."
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "16ff0cc380f5723a",
+        "title": "Startup readies for first launch of microgravity pods",
+        "url": "https://aerospaceamerica.aiaa.org/startup-readies-for-first-launch-of-microgravity-pods/",
+        "source": "Aerospace America",
+        "published": "Thu, 25 Jun 2026 13:13:00 +0000",
+        "published_dt": "2026-06-25T13:13:00+00:00",
+        "summary": ""
+      },
+      {
+        "id": "ca72f2ebe95470d7",
+        "title": "Vention and Teradyne Robotics expand modular automation",
+        "url": "https://www.engineering.com/vention-and-teradyne-robotics-expand-modular-automation/",
+        "source": "Engineering.com",
+        "published": "Thu, 25 Jun 2026 11:46:46 +0000",
+        "published_dt": "2026-06-25T11:46:46+00:00",
+        "summary": "<p>The platform adds digital twin design, 3D simulation and validated cobot cell templates to shorten design and deployment time.</p>\n<p>The post <a href=\"https://www.engineering.com/vention-and-teradyne-robotics-expand-modular-automation/\">Vention and Teradyne Robotics expand modular automation</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "398b90f571eaa69c",
+        "title": "BAE Systems to build imaging satellite buses for Vantor",
+        "url": "https://www.engineering.com/bae-systems-to-build-imaging-satellite-buses-for-vantor/",
+        "source": "Engineering.com",
+        "published": "Thu, 25 Jun 2026 11:40:38 +0000",
+        "published_dt": "2026-06-25T11:40:38+00:00",
+        "summary": "<p>The spacecraft will support 20 cm-class satellites for defense and intelligence programs, with integration and testing also included.</p>\n<p>The post <a href=\"https://www.engineering.com/bae-systems-to-build-imaging-satellite-buses-for-vantor/\">BAE Systems to build imaging satellite buses for Vantor</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "15fad851d5988f2c",
+        "title": "Sieyuan Electric unveils utility-scale esGrid 3.0 BESS",
+        "url": "https://www.engineering.com/sieyuan-electric-unveils-utility-scale-esgrid-3-0-bess/",
+        "source": "Engineering.com",
+        "published": "Thu, 25 Jun 2026 11:35:13 +0000",
+        "published_dt": "2026-06-25T11:35:13+00:00",
+        "summary": "<p>The system packs 6.311 MWh in a 20-foot container, with up to 90% round-trip efficiency and 30% faster installation.</p>\n<p>The post <a href=\"https://www.engineering.com/sieyuan-electric-unveils-utility-scale-esgrid-3-0-bess/\">Sieyuan Electric unveils utility-scale esGrid 3.0 BESS</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "228538f42eda68d1",
+        "title": "ExOne launches compact S-Print Pro sand 3D printer",
+        "url": "https://www.engineering.com/exone-launches-compact-s-print-pro-sand-3d-printer/",
+        "source": "Engineering.com",
+        "published": "Thu, 25 Jun 2026 11:34:36 +0000",
+        "published_dt": "2026-06-25T11:34:36+00:00",
+        "summary": "<p>The system fits in under 12 m\u00b2 and offers 400 dpi printing with optional StepX surface smoothing for foundry workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/exone-launches-compact-s-print-pro-sand-3d-printer/\">ExOne launches compact S-Print Pro sand 3D printer</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "5022c50e432d4f54",
+        "title": "Rockwell Automation Singapore plant joins WEF network",
+        "url": "https://www.engineering.com/rockwell-automation-singapore-plant-joins-wef-network/",
+        "source": "Engineering.com",
+        "published": "Thu, 25 Jun 2026 11:29:41 +0000",
+        "published_dt": "2026-06-25T11:29:41+00:00",
+        "summary": "<p>The site used more than 50 digital and AI tools to improve output efficiency, reduce defects and speed workforce onboarding.</p>\n<p>The post <a href=\"https://www.engineering.com/rockwell-automation-singapore-plant-joins-wef-network/\">Rockwell Automation Singapore plant joins WEF network</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "57b71316c972ce35",
+        "title": "ELEGOO launches Centauri 2 Series 3D printers",
+        "url": "https://www.engineering.com/elegoo-launches-centauri-2-series-3d-printers/",
+        "source": "Engineering.com",
+        "published": "Thu, 25 Jun 2026 11:27:09 +0000",
+        "published_dt": "2026-06-25T11:27:09+00:00",
+        "summary": "<p>The open-frame system supports four-color printing, speeds up to 500 mm/s and remote print management through app tools.</p>\n<p>The post <a href=\"https://www.engineering.com/elegoo-launches-centauri-2-series-3d-printers/\">ELEGOO launches Centauri 2 Series 3D printers</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "801301dbfa7d4fd8",
+        "title": "Siemens names PROLIM small business supplier of the year",
+        "url": "https://www.engineering.com/siemens-names-prolim-small-business-supplier-of-the-year/",
+        "source": "Engineering.com",
+        "published": "Thu, 25 Jun 2026 11:18:28 +0000",
+        "published_dt": "2026-06-25T11:18:28+00:00",
+        "summary": "<p>The 2026 award recognizes work in quality, operations and customer support across engineering and enterprise technology services.</p>\n<p>The post <a href=\"https://www.engineering.com/siemens-names-prolim-small-business-supplier-of-the-year/\">Siemens names PROLIM small business supplier of the year</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "154031e3e25e9f23",
+        "title": "House Appropriations Committee approves $55.5 billion for U.S. Space Force",
+        "url": "https://spacenews.com/house-appropriations-committee-approves-55-5-billion-for-u-s-space-force/",
+        "source": "SpaceNews",
+        "published": "Thu, 25 Jun 2026 11:17:40 +0000",
+        "published_dt": "2026-06-25T11:17:40+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"598\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-1.48.19-PM.png?fit=1024%2C598&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Committee urges more competition in satellite communications and criticizes reliance on reconciliation to fund Golden Dome</p>\n<p>The post <a href=\"https://spacenews.com/house-appropriations-committee-approves-55-5-billion-for-u-s-space-force/\">House Appropriations Committee approves $55.5 billion for U.S. Space Force</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "97821a37de776cfa",
+        "title": "Canceled NASA exploration projects suffered billions of dollars in overruns",
+        "url": "https://spacenews.com/canceled-nasa-exploration-projects-suffered-billions-of-dollars-in-overruns/",
+        "source": "SpaceNews",
+        "published": "Thu, 25 Jun 2026 11:02:47 +0000",
+        "published_dt": "2026-06-25T11:02:47+00:00",
+        "summary": "<figure><img alt=\"ML-2\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/ml2-march2026.jpeg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Four NASA exploration projects that the agency stopped earlier this year had suffered overruns that saw their costs more than double, with more than $1 billion in additional increases expected.</p>\n<p>The post <a href=\"https://spacenews.com/canceled-nasa-exploration-projects-suffered-billions-of-dollars-in-overruns/\">Canceled NASA exploration projects suffered billions of dollars in overruns</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "f42aaa7255070b59",
+        "title": "Meta selects Qualcomm data center CPU for future servers",
+        "url": "https://www.engineering.com/meta-selects-qualcomm-data-center-cpu-for-future-servers/",
+        "source": "Engineering.com",
+        "published": "Thu, 25 Jun 2026 10:36:03 +0000",
+        "published_dt": "2026-06-25T10:36:03+00:00",
+        "summary": "<p>Production is planned for the second half of 2028, targeting higher performance per watt and lower total cost of ownership.</p>\n<p>The post <a href=\"https://www.engineering.com/meta-selects-qualcomm-data-center-cpu-for-future-servers/\">Meta selects Qualcomm data center CPU for future servers</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "611b72effb88fec9",
+        "title": "China schedules Long March 10B rocket launch and recovery attempt",
+        "url": "https://spacenews.com/china-schedules-long-march-10b-rocket-launch-and-recovery-attempt/",
+        "source": "SpaceNews",
+        "published": "Thu, 25 Jun 2026 09:59:35 +0000",
+        "published_dt": "2026-06-25T09:59:35+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"643\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Mengzhou-in-flight-abort-CZ10-recovery-test-liftoff-11feb2026-casc.jpg?fit=1024%2C643&amp;ssl=1\" width=\"1024\" /></figure>\n<p>HELSINKI \u2014 China is set for a debut flight of its Long March 10B rocket in July and attempt to recover the first stage at sea. Recently issued airspace and [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/china-schedules-long-march-10b-rocket-launch-and-recovery-attempt/\">China schedules Long March 10B rocket launch and recovery attempt</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
       {
         "id": "db6969309a746c09",
         "title": "Vast signs additional partners for commercial space station microgravity research",
@@ -239,13 +347,85 @@
         "summary": "<figure><img alt=\"Haven-1 research\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/haven1-research.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Commercial space station company Vast announced June 24 the addition of several companies and organizations to its network of partners for microgravity research and manufacturing.</p>\n<p>The post <a href=\"https://spacenews.com/vast-signs-additional-partners-for-commercial-space-station-microgravity-research/\">Vast signs additional partners for commercial space station microgravity research</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "12903d6cd9af1905",
-        "title": "Kawasaki Robotics expands Dexterity warehouse robot work",
-        "url": "https://www.engineering.com/kawasaki-robotics-expands-dexterity-warehouse-robot-work/",
+        "id": "ff42b31389ef1184",
+        "title": "Vantor selects BAE Systems to build next-generation imaging satellites",
+        "url": "https://spacenews.com/vantor-selects-bae-systems-to-build-next-generation-imaging-satellites/",
+        "source": "SpaceNews",
+        "published": "Wed, 24 Jun 2026 12:30:00 +0000",
+        "published_dt": "2026-06-24T12:30:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"600\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Vantor-Vantage-Satellite-Announcement-2x3-Media.png?fit=900%2C600&amp;ssl=1\" width=\"900\" /></figure>\n<p>WASHINGTON \u2014 Vantor has chosen BAE Systems to build its next generation of high-resolution imaging satellites. The selection reunites Vantor with the former Ball Aerospace business that helped develop DigitalGlobe&#8217;s [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/vantor-selects-bae-systems-to-build-next-generation-imaging-satellites/\">Vantor selects BAE Systems to build next-generation imaging satellites</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "f1cf1ae7c79b2e0a",
+        "title": "Loft Orbital to test AI models on spacecraft for Earth observation",
+        "url": "https://spacenews.com/loft-orbital-to-test-ai-models-on-spacecraft-for-earth-observation/",
+        "source": "SpaceNews",
+        "published": "Tue, 23 Jun 2026 13:00:00 +0000",
+        "published_dt": "2026-06-23T13:00:00+00:00",
+        "summary": "<figure><img alt=\"Altair\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/loft-altair.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Loft Orbital is working with NASA\u2019s Jet Propulsion Laboratory to test the use of artificial intelligence on spacecraft to improve Earth science monitoring.</p>\n<p>The post <a href=\"https://spacenews.com/loft-orbital-to-test-ai-models-on-spacecraft-for-earth-observation/\">Loft Orbital to test AI models on spacecraft for Earth observation</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "91076095ec347883",
+        "title": "\u2018Space gun\u2019 startup hopes to offer U.S. military an affordable way to test hypersonic weapons",
+        "url": "https://aerospaceamerica.aiaa.org/space-gun-startup-hopes-to-offer-u-s-military-an-affordable-way-to-test-hypersonic-weapons/",
+        "source": "Aerospace America",
+        "published": "Fri, 19 Jun 2026 13:00:00 +0000",
+        "published_dt": "2026-06-19T13:00:00+00:00",
+        "summary": ""
+      },
+      {
+        "id": "1d1a7308f18002ea",
+        "title": "Space Force seeks fresh bidders for satellite-control antennas",
+        "url": "https://spacenews.com/space-force-seeks-fresh-bidders-for-satellite-control-antennas/",
+        "source": "SpaceNews",
+        "published": "Wed, 24 Jun 2026 21:26:29 +0000",
+        "published_dt": "2026-06-24T21:26:29+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/XzDvbuJg.jpeg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>After terminating $1.7 billion contract, Space Force to relaunch SCAR</p>\n<p>The post <a href=\"https://spacenews.com/space-force-seeks-fresh-bidders-for-satellite-control-antennas/\">Space Force seeks fresh bidders for satellite-control antennas</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "0f1a02512ebddc76",
+        "title": "Shield Space and ClearSpace partner to defend satellites from orbital threats",
+        "url": "https://spacenews.com/shield-space-and-clearspace-partner-to-defend-satellites-from-orbital-threats/",
+        "source": "SpaceNews",
+        "published": "Wed, 24 Jun 2026 21:10:40 +0000",
+        "published_dt": "2026-06-24T21:10:40+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/54598371-A1EF-44D0-8DEB-A9171236B0C3_1_102_o.jpeg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>British startup Shield Space plans to combine its autonomous satellite operations software with ClearSpace\u2019s in-orbit servicing capabilities to address emerging orbital threats.</p>\n<p>The post <a href=\"https://spacenews.com/shield-space-and-clearspace-partner-to-defend-satellites-from-orbital-threats/\">Shield Space and ClearSpace partner to defend satellites from orbital threats</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "6faa36f515811f8b",
+        "title": "MDA Space wins contract for Radarsat replenishment satellite",
+        "url": "https://spacenews.com/mda-space-wins-contract-for-radarsat-replenishment-satellite/",
+        "source": "SpaceNews",
+        "published": "Wed, 24 Jun 2026 19:30:43 +0000",
+        "published_dt": "2026-06-24T19:30:43+00:00",
+        "summary": "<figure><img alt=\"MDA Chorus\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"546\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/mda-chorus-scaled.jpeg?fit=1024%2C546&amp;ssl=1\" width=\"1024\" /></figure>\n<p>MDA Space will build a radar imaging satellite for the Canadian Space Agency as the government studies options for a next-generation satellite system.</p>\n<p>The post <a href=\"https://spacenews.com/mda-space-wins-contract-for-radarsat-replenishment-satellite/\">MDA Space wins contract for Radarsat replenishment satellite</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "649241b2925dd262",
+        "title": "The 3 AI features in Designcenter Solid Edge",
+        "url": "https://www.engineering.com/the-3-ai-features-in-designcenter-solid-edge/",
         "source": "Engineering.com",
-        "published": "Wed, 24 Jun 2026 12:52:38 +0000",
-        "published_dt": "2026-06-24T12:52:38+00:00",
-        "summary": "<p>The RL030N 8 DoF arm supports trailer loading tasks and connects to real-time AI control and orchestration systems.</p>\n<p>The post <a href=\"https://www.engineering.com/kawasaki-robotics-expands-dexterity-warehouse-robot-work/\">Kawasaki Robotics expands Dexterity warehouse robot work</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Wed, 24 Jun 2026 18:29:38 +0000",
+        "published_dt": "2026-06-24T18:29:38+00:00",
+        "summary": "<p>Siemens\u2019 CAD platform gets a bit smarter as its name gets a bit longer. That and more engineering software news.</p>\n<p>The post <a href=\"https://www.engineering.com/the-3-ai-features-in-designcenter-solid-edge/\">The 3 AI features in Designcenter Solid Edge</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "aa987dce3f2e9009",
+        "title": "Defense research facilities are \u2018deteriorating,\u2019 need funding reform, Pentagon report says",
+        "url": "https://aerospaceamerica.aiaa.org/defense-research-facilities-are-deteriorating-need-funding-reform-pentagon-report-says/",
+        "source": "Aerospace America",
+        "published": "Wed, 24 Jun 2026 16:27:29 +0000",
+        "published_dt": "2026-06-24T16:27:29+00:00",
+        "summary": ""
+      },
+      {
+        "id": "ab9f53271146ef54",
+        "title": "Siemens adds ECAD and project generation to engineering AI",
+        "url": "https://www.engineering.com/siemens-adds-ecad-and-project-generation-to-engineering-ai/",
+        "source": "Engineering.com",
+        "published": "Wed, 24 Jun 2026 15:26:06 +0000",
+        "published_dt": "2026-06-24T15:26:06+00:00",
+        "summary": "<p>The update reads XML and AML files, generates PLC tags and builds TIA Portal projects from machine descriptions.</p>\n<p>The post <a href=\"https://www.engineering.com/siemens-adds-ecad-and-project-generation-to-engineering-ai/\">Siemens adds ECAD and project generation to engineering AI</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "755d7c28792b254c",
@@ -266,33 +446,6 @@
         "summary": "<figure><img alt=\"A coronal mass ejection from August, 2012. Credit: NASA/GSFC/SDO\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/solar_flare-scaled.jpg?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>America&#8217;s electric grid is entering a period of unprecedented strain. Utilities across the country are scrambling to keep up as power-hungry AI data centers expand at a staggering pace, often [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/how-space-weather-could-bust-the-ai-boom/\">How space weather could bust the AI boom</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "712ba388910c4ea0",
-        "title": "ASUS launches deskside AI supercomputer for enterprises",
-        "url": "https://www.engineering.com/asus-launches-deskside-ai-supercomputer-for-enterprises/",
-        "source": "Engineering.com",
-        "published": "Wed, 24 Jun 2026 12:58:48 +0000",
-        "published_dt": "2026-06-24T12:58:48+00:00",
-        "summary": "<p>The system offers 748GB unified memory and up to 20 PFLOPS for local model tuning, inference and agentic AI workloads.</p>\n<p>The post <a href=\"https://www.engineering.com/asus-launches-deskside-ai-supercomputer-for-enterprises/\">ASUS launches deskside AI supercomputer for enterprises</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "ff42b31389ef1184",
-        "title": "Vantor selects BAE Systems to build next-generation imaging satellites",
-        "url": "https://spacenews.com/vantor-selects-bae-systems-to-build-next-generation-imaging-satellites/",
-        "source": "SpaceNews",
-        "published": "Wed, 24 Jun 2026 12:30:00 +0000",
-        "published_dt": "2026-06-24T12:30:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"600\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Vantor-Vantage-Satellite-Announcement-2x3-Media.png?fit=900%2C600&amp;ssl=1\" width=\"900\" /></figure>\n<p>WASHINGTON \u2014 Vantor has chosen BAE Systems to build its next generation of high-resolution imaging satellites. The selection reunites Vantor with the former Ball Aerospace business that helped develop DigitalGlobe&#8217;s [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/vantor-selects-bae-systems-to-build-next-generation-imaging-satellites/\">Vantor selects BAE Systems to build next-generation imaging satellites</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "c50dcaf77ac28557",
-        "title": "Schneider Electric launches industrial automation as a service",
-        "url": "https://www.engineering.com/schneider-electric-launches-industrial-automation-as-a-service/",
-        "source": "Engineering.com",
-        "published": "Wed, 24 Jun 2026 12:01:19 +0000",
-        "published_dt": "2026-06-24T12:01:19+00:00",
-        "summary": "<p>The offering combines open automation with hybrid cloud to cut commissioning time and support incremental upgrades.</p>\n<p>The post <a href=\"https://www.engineering.com/schneider-electric-launches-industrial-automation-as-a-service/\">Schneider Electric launches industrial automation as a service</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
         "id": "8b3477a8b8edd1be",
         "title": "SpaceX launches secretive Starfall reentry demo mission",
         "url": "https://spacenews.com/spacex-launches-secretive-starfall-reentry-demo-mission/",
@@ -300,159 +453,6 @@
         "published": "Wed, 24 Jun 2026 11:39:59 +0000",
         "published_dt": "2026-06-24T11:39:59+00:00",
         "summary": "<figure><img alt=\"F9 Starfall launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/f9-starfall-scaled.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>SpaceX launched the first test flight of its Starfall reentry capsule June 23, but the mission remained as secretive as the program itself.</p>\n<p>The post <a href=\"https://spacenews.com/spacex-launches-secretive-starfall-reentry-demo-mission/\">SpaceX launches secretive Starfall reentry demo mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "afd02bcfee1d2d92",
-        "title": "Apexon signs AWS deal for agentic AI in healthcare",
-        "url": "https://www.engineering.com/apexon-signs-aws-deal-for-agentic-ai-in-healthcare/",
-        "source": "Engineering.com",
-        "published": "Wed, 24 Jun 2026 11:36:24 +0000",
-        "published_dt": "2026-06-24T11:36:24+00:00",
-        "summary": "<p>The collaboration targets cloud modernization and regulated workflows across life sciences and clinical operations.</p>\n<p>The post <a href=\"https://www.engineering.com/apexon-signs-aws-deal-for-agentic-ai-in-healthcare/\">Apexon signs AWS deal for agentic AI in healthcare</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "81ebbddfa598905a",
-        "title": "Penguin Solutions joins NVIDIA AI Factory partner program",
-        "url": "https://www.engineering.com/penguin-solutions-joins-nvidia-ai-factory-partner-program/",
-        "source": "Engineering.com",
-        "published": "Wed, 24 Jun 2026 11:28:51 +0000",
-        "published_dt": "2026-06-24T11:28:51+00:00",
-        "summary": "<p>The designation reflects its experience building and operating enterprise and hyperscale AI infrastructure.</p>\n<p>The post <a href=\"https://www.engineering.com/penguin-solutions-joins-nvidia-ai-factory-partner-program/\">Penguin Solutions joins NVIDIA AI Factory partner program</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "c7dc47b9fb1153ef",
-        "title": "Additive aerospace and defense update: Divergent, EOS, Meltio, and more",
-        "url": "https://www.engineering.com/additive-aerospace-and-defense-update-divergent-eos-meltio-and-more/",
-        "source": "Engineering.com",
-        "published": "Tue, 23 Jun 2026 19:40:52 +0000",
-        "published_dt": "2026-06-23T19:40:52+00:00",
-        "summary": "<p>New metal 3D printers, materials, and partnerships for aerospace and defense.</p>\n<p>The post <a href=\"https://www.engineering.com/additive-aerospace-and-defense-update-divergent-eos-meltio-and-more/\">Additive aerospace and defense update: Divergent, EOS, Meltio, and more</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "31d6a3c531884334",
-        "title": "NGSO trade association launches without industry giant SpaceX",
-        "url": "https://spacenews.com/ngso-trade-association-launches-without-industry-giant-spacex/",
-        "source": "SpaceNews",
-        "published": "Wed, 24 Jun 2026 10:00:00 +0000",
-        "published_dt": "2026-06-24T10:00:00+00:00",
-        "summary": "<figure><img alt=\"A composite image of 33 exposures captures reflective Starlink satellites, making them appear to streak over the sky of southern Brazil. Credit: NASA / Egon Filter\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/03/Starlink-Satellite-Trails-over-Brazil-credit-NASA_Egon-Filter.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Amazon and several other non-geostationary satellite operators have formed a trade association to represent their fast-growing market, with SpaceX notably absent despite having by far the largest NGSO constellation.</p>\n<p>The post <a href=\"https://spacenews.com/ngso-trade-association-launches-without-industry-giant-spacex/\">NGSO trade association launches without industry giant SpaceX</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "7b8c5f5892ba38f5",
-        "title": "33DPQ Podcast \u2013 Brigitte de Vet-Veithen",
-        "url": "https://www.engineering.com/33dpq-podcast-brigitte-de-vet-veithen/",
-        "source": "Engineering.com",
-        "published": "Tue, 23 Jun 2026 21:09:53 +0000",
-        "published_dt": "2026-06-23T21:09:53+00:00",
-        "summary": "<p>Materialise CEO explains why additive manufacturing's potential is still underestimated and the difference it can make in people's lives.</p>\n<p>The post <a href=\"https://www.engineering.com/33dpq-podcast-brigitte-de-vet-veithen/\">33DPQ Podcast \u2013 Brigitte de Vet-Veithen</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "f1cf1ae7c79b2e0a",
-        "title": "Loft Orbital to test AI models on spacecraft for Earth observation",
-        "url": "https://spacenews.com/loft-orbital-to-test-ai-models-on-spacecraft-for-earth-observation/",
-        "source": "SpaceNews",
-        "published": "Tue, 23 Jun 2026 13:00:00 +0000",
-        "published_dt": "2026-06-23T13:00:00+00:00",
-        "summary": "<figure><img alt=\"Altair\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/loft-altair.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Loft Orbital is working with NASA\u2019s Jet Propulsion Laboratory to test the use of artificial intelligence on spacecraft to improve Earth science monitoring.</p>\n<p>The post <a href=\"https://spacenews.com/loft-orbital-to-test-ai-models-on-spacecraft-for-earth-observation/\">Loft Orbital to test AI models on spacecraft for Earth observation</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "36433f1e4fafa451",
-        "title": "NVIDIA launches Halos safety system for robotics",
-        "url": "https://www.engineering.com/nvidia-launches-halos-safety-system-for-robotics/",
-        "source": "Engineering.com",
-        "published": "Tue, 23 Jun 2026 10:12:25 +0000",
-        "published_dt": "2026-06-23T10:12:25+00:00",
-        "summary": "<p>Agility is using the platform in Digit humanoids, and Halos Core for IGX is available in early access for developers.</p>\n<p>The post <a href=\"https://www.engineering.com/nvidia-launches-halos-safety-system-for-robotics/\">NVIDIA launches Halos safety system for robotics</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "64997e836686b961",
-        "title": "Doosan Robotics to debut AI palletizing system",
-        "url": "https://www.engineering.com/doosan-robotics-to-debut-ai-palletizing-system/",
-        "source": "Engineering.com",
-        "published": "Tue, 23 Jun 2026 09:59:46 +0000",
-        "published_dt": "2026-06-23T09:59:46+00:00",
-        "summary": "<p>PalletizHD+ uses SwiftMove motion optimization and can process up to 11 boxes per minute with automated stacking setup.</p>\n<p>The post <a href=\"https://www.engineering.com/doosan-robotics-to-debut-ai-palletizing-system/\">Doosan Robotics to debut AI palletizing system</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "91076095ec347883",
-        "title": "\u2018Space gun\u2019 startup hopes to offer U.S. military an affordable way to test hypersonic weapons",
-        "url": "https://aerospaceamerica.aiaa.org/space-gun-startup-hopes-to-offer-u-s-military-an-affordable-way-to-test-hypersonic-weapons/",
-        "source": "Aerospace America",
-        "published": "Fri, 19 Jun 2026 13:00:00 +0000",
-        "published_dt": "2026-06-19T13:00:00+00:00",
-        "summary": ""
-      },
-      {
-        "id": "066aaeeacbd4c351",
-        "title": "OHB raises funding for expansion, acquisitions",
-        "url": "https://spacenews.com/ohb-raises-funding-for-expansion-acquisitions/",
-        "source": "SpaceNews",
-        "published": "Wed, 24 Jun 2026 03:09:48 +0000",
-        "published_dt": "2026-06-24T03:09:48+00:00",
-        "summary": "<figure><img alt=\"OHB\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"544\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/ohbhq.jpeg?fit=1024%2C544&amp;ssl=1\" width=\"1024\" /></figure>\n<p>German space company OHB will raise about half a billion euros through a stock sale to allow the company to expand facilities and pursue potential acquisitions.</p>\n<p>The post <a href=\"https://spacenews.com/ohb-raises-funding-for-expansion-acquisitions/\">OHB raises funding for expansion, acquisitions</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "05ff7205189a6922",
-        "title": "NASA\u2019s inspector general warns launch sites nearing capacity",
-        "url": "https://spacenews.com/nasas-inspector-general-warns-launch-sites-nearing-capacity/",
-        "source": "SpaceNews",
-        "published": "Tue, 23 Jun 2026 22:15:48 +0000",
-        "published_dt": "2026-06-23T22:15:48+00:00",
-        "summary": "<figure><img alt=\"Falcon Heavy launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/fh-viasat3f3-scaled.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A report by NASA\u2019s inspector general is the latest to highlight the problems that the increasing number of launches is posing to spaceports.</p>\n<p>The post <a href=\"https://spacenews.com/nasas-inspector-general-warns-launch-sites-nearing-capacity/\">NASA\u2019s inspector general warns launch sites nearing capacity</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "2620e362a9c994cf",
-        "title": "Boeing wins $2 billion Space Force contract for communications satellites",
-        "url": "https://spacenews.com/boeing-wins-2-billion-space-force-contract-for-communications-satellites/",
-        "source": "SpaceNews",
-        "published": "Tue, 23 Jun 2026 22:07:36 +0000",
-        "published_dt": "2026-06-23T22:07:36+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/01/8103353143_79569b1775_k.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>WASHINGTON \u2014 Boeing won a contract worth up to $2 billion to build two next-generation military communications satellites for the U.S. Space Force, prevailing over Lockheed Martin in a competition [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/boeing-wins-2-billion-space-force-contract-for-communications-satellites/\">Boeing wins $2 billion Space Force contract for communications satellites</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "258e86902475022a",
-        "title": "Commercial Space Federation (CSF) Welcomes New Associate Member",
-        "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-new-associate-member/",
-        "source": "SpaceNews",
-        "published": "Tue, 23 Jun 2026 19:00:00 +0000",
-        "published_dt": "2026-06-23T19:00:00+00:00",
-        "summary": "<figure><img alt=\"Commercial Space Federation 20th anniversary logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"883\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Anniversary-Logo.jpg?fit=1024%2C883&amp;ssl=1\" width=\"1024\" /></figure>\n<p>June 23, 2026 \u2013 Washington, D.C.\u2014The Commercial Space Federation (CSF) is pleased to welcome Sophia Space, a company advancing orbital computing infrastructure for the next generation of space-based data processing, [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/commercial-space-federation-csf-welcomes-new-associate-member/\">Commercial Space Federation (CSF) Welcomes New Associate Member</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "d9018eeaad8dc964",
-        "title": "Ubotica raises $11 million to scale maritime-intelligence platform",
-        "url": "https://spacenews.com/ubotica-raises-11-million-to-scale-maritime-intelligence-platform/",
-        "source": "SpaceNews",
-        "published": "Tue, 23 Jun 2026 17:48:22 +0000",
-        "published_dt": "2026-06-23T17:48:22+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"495\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/rsz_aubrey_dunne_cto_fintan_buckley_ceo_and_john_bourke_co-founder__cfo_with_a_satellite_model_of_cognisant-6_of_ubotica_picture__fergal_phillips.jpg?fit=879%2C495&amp;ssl=1\" width=\"879\" /></figure>\n<p>SAN FRANCISCO \u2013 Ubotica Technologies, an Irish company focused on artificial intelligence for spacecraft, has raised $11 million to expand commercial sales of its maritime-intelligence platform. The platform, Live Maritime [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/ubotica-raises-11-million-to-scale-maritime-intelligence-platform/\">Ubotica raises $11 million to scale maritime-intelligence platform</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "c6c77e6b36515885",
-        "title": "Sophia selects Apex bus for on-orbit computing demonstration",
-        "url": "https://spacenews.com/sophia-selects-apex-bus-for-on-orbit-computing-demonstration/",
-        "source": "SpaceNews",
-        "published": "Tue, 23 Jun 2026 15:56:58 +0000",
-        "published_dt": "2026-06-23T15:56:58+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"494\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/rsz_odc2.jpg?fit=879%2C494&amp;ssl=1\" width=\"879\" /></figure>\n<p>SAN FRANCISCO \u2013 Sophia Space announced the selection June 22 of an Apex bus for its first orbital computing node. Pasadena, California-based Sophia plans to demonstrate its Thermal Integrated LEO [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/sophia-selects-apex-bus-for-on-orbit-computing-demonstration/\">Sophia selects Apex bus for on-orbit computing demonstration</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "fb9a0d9a511bc32e",
-        "title": "Satellogic partners with SynMax to build intelligence services around upcoming Merlin constellation",
-        "url": "https://spacenews.com/satellogic-partners-with-synmax-to-build-intelligence-services-around-upcoming-merlin-constellation/",
-        "source": "SpaceNews",
-        "published": "Tue, 23 Jun 2026 12:00:00 +0000",
-        "published_dt": "2026-06-23T12:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"647\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Satellogic_Tabriz.jpg?fit=1024%2C647&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Companies are looking to fill demand from defense and intelligence agencies for persistent surveillance rather than one-off imagery purchases.</p>\n<p>The post <a href=\"https://spacenews.com/satellogic-partners-with-synmax-to-build-intelligence-services-around-upcoming-merlin-constellation/\">Satellogic partners with SynMax to build intelligence services around upcoming Merlin constellation</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "4a011a11224e1736",
-        "title": "Vention and FANUC expand collaboration on robot deployment",
-        "url": "https://www.engineering.com/vention-and-fanuc-expand-collaboration-on-robot-deployment/",
-        "source": "Engineering.com",
-        "published": "Tue, 23 Jun 2026 10:19:27 +0000",
-        "published_dt": "2026-06-23T10:19:27+00:00",
-        "summary": "<p>The platform supports digital twin simulation, no-code and Python programming and collision-free path planning across FANUC robot lines.</p>\n<p>The post <a href=\"https://www.engineering.com/vention-and-fanuc-expand-collaboration-on-robot-deployment/\">Vention and FANUC expand collaboration on robot deployment</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       }
     ],
     "Economics": [
@@ -464,6 +464,15 @@
         "published": null,
         "published_dt": null,
         "summary": "This paper studies the effect of unanticipated inflation in the labor market. When wages are contracted in nominal terms, inflation reduces real wages, leading workers to intensify on-the-job search to obtain wage-adjusting outside offers. Both the search effort and the resulting job mobility are costly, yet that same mobility raises output by moving workers toward more productive matches. To quantify these costs and benefits, we extend the canonical job ladder of Postel-Vinay and Robin (2002) to a nominal environment with privately chosen search effort, and calibrate it to standard moments from the pre-pandemic US labor market. A one-time inflation shock scaled to the COVID episode generates an average welfare loss of 0.44% of consumption, with workers at the top of the wage distribution bearing losses over six times those at the bottom. Once the offsetting transfer of surplus to firms and productivity gains from reallocation are accounted for, the net aggregate cost is close to zero. Second, inflation volatility imposes asymmetric costs: worker welfare is approximately invariant to the volatility regime because firms compensate workers for expected search costs at hiring, but social welfare declines meaningfully because the resource cost of search effort is not undone by compensation. This second finding identifies a distinct, labor-market source of welfare costs from inflation volatility, complementing the price-dispersion costs emphasized in the New Keynesian literature."
+      },
+      {
+        "id": "caae02a532f9eaf0",
+        "title": "Will AI lower interest rates?",
+        "url": "https://www.economist.com/finance-and-economics/2026/06/25/will-ai-lower-interest-rates",
+        "source": "Finance & economics",
+        "published": "Thu, 25 Jun 2026 09:39:49 +0000",
+        "published_dt": "2026-06-25T09:39:49+00:00",
+        "summary": "Kevin Warsh is drawing lessons about tech from Alan Greenspan\u2014but selectively"
       },
       {
         "id": "a105f15493d2ce93",
@@ -592,9 +601,9 @@
         "summary": "It will enrich an adversary"
       },
       {
-        "id": "4d27e1d8511970f8",
-        "title": "How to turn computing power into a financial asset",
-        "url": "https://www.economist.com/finance-and-economics/2026/06/22/how-to-turn-computing-power-into-a-financial-asset",
+        "id": "22a386bb77f3782f",
+        "title": "How to turn compute into a financial asset",
+        "url": "https://www.economist.com/finance-and-economics/2026/06/22/how-to-turn-compute-into-a-financial-asset",
         "source": "Finance & economics",
         "published": "Mon, 22 Jun 2026 18:09:55 +0000",
         "published_dt": "2026-06-22T18:09:55+00:00",
@@ -671,18 +680,45 @@
         "published": "Thu, 21 May 2026 09:27:37 +0000",
         "published_dt": "2026-05-21T09:27:37+00:00",
         "summary": "Sometimes it is more than merely an exogenous constraint"
-      },
-      {
-        "id": "833855b99670b133",
-        "title": "Investors fear another surge in inflation",
-        "url": "https://www.economist.com/finance-and-economics/2026/05/19/investors-fear-another-surge-in-inflation",
-        "source": "Finance & economics",
-        "published": "Tue, 19 May 2026 19:36:34 +0000",
-        "published_dt": "2026-05-19T19:36:34+00:00",
-        "summary": "So why aren\u2019t more buying inflation-protected bonds?"
       }
     ],
     "Cross-Disciplinary": [
+      {
+        "id": "f1f37706902d8f7e",
+        "title": "The Download: Europe\u2019s heat wave hits the grid, and IBM\u2019s chip targets Moore\u2019s Law",
+        "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 25 Jun 2026 12:10:00 +0000",
+        "published_dt": "2026-06-25T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe\u2019s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to&#8230;"
+      },
+      {
+        "id": "ec2def7d68a76156",
+        "title": "What Europe\u2019s heat wave means for the power grid",
+        "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 25 Jun 2026 10:00:00 +0000",
+        "published_dt": "2026-06-25T10:00:00+00:00",
+        "summary": "It\u2019s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event about extreme heat.\u00a0 As the summer ramps up&#8230;"
+      },
+      {
+        "id": "c5a14c5b2b27c695",
+        "title": "IBM has unveiled chip technology that could help extend Moore\u2019s Law another decade",
+        "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 25 Jun 2026 10:00:00 +0000",
+        "published_dt": "2026-06-25T10:00:00+00:00",
+        "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company\u2019s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to come. For more than half&#8230;"
+      },
+      {
+        "id": "abc657198c7f5711",
+        "title": "Europe\u2019s extreme heat is shutting down power plants",
+        "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 24 Jun 2026 15:25:28 +0000",
+        "published_dt": "2026-06-24T15:25:28+00:00",
+        "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won\u2019t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8230;"
+      },
       {
         "id": "e4d6d51eab344349",
         "title": "The Download: introducing the Engineering issue",
@@ -693,13 +729,13 @@
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Engineering issue We can\u2019t fix everything, but we can be ambitious. We can take on the challenge of making the world better through human ingenuity. That\u2019s what the new&#8230;"
       },
       {
-        "id": "1835538bc1472a0e",
-        "title": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
+        "id": "13b336261997e84d",
+        "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
         "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
         "source": "MIT Technology Review",
         "published": "Wed, 24 Jun 2026 12:00:00 +0000",
         "published_dt": "2026-06-24T12:00:00+00:00",
-        "summary": "The common cold comes for us all\u2014often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now, the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;"
+        "summary": "The common cold comes for us all\u2014often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;"
       },
       {
         "id": "8feaa8482c54b71f",
@@ -736,42 +772,6 @@
         "published": "Tue, 23 Jun 2026 21:00:00 +0000",
         "published_dt": "2026-06-23T21:00:00+00:00",
         "summary": "The Argentina v. France final of the 2022 Men\u2019s World Cup in Qatar was shaping up to be one of the most epic games in soccer history. With just 12 minutes remaining in the extra time added to the game to break a tie, the referee had a critical decision to make\u2014and fast. Lionel Messi,&#8230;"
-      },
-      {
-        "id": "85791d8108dd462b",
-        "title": "Super Mario is mathier than you think",
-        "url": "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 23 Jun 2026 21:00:00 +0000",
-        "published_dt": "2026-06-23T21:00:00+00:00",
-        "summary": "Here\u2019s a problem you probably didn\u2019t solve in school: You\u2019re an ambitious young plumber from Brooklyn in a world inhabited by violent human-size mushrooms called Goombas. The love of your life has been kidnapped, so you embark on a quest to rescue her, venturing through stretches of pipe-filled and monster-\u00adridden terrain where your only means&#8230;"
-      },
-      {
-        "id": "855d23386bb7a72e",
-        "title": "A man of many words",
-        "url": "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 23 Jun 2026 21:00:00 +0000",
-        "published_dt": "2026-06-23T21:00:00+00:00",
-        "summary": "Brian Sietsema has a favorite word. It\u2019s somewhat surprising that he can choose just one. He\u2019s the person spellers rely on to confirm pronunciations and answer questions about the roots of the words they\u2019re given at the Scripps National Spelling Bee\u2014arguably the world\u2019s most prestigious competition of its kind. The story of how the word&#8230;"
-      },
-      {
-        "id": "b09cfe871abebe8c",
-        "title": "Sharing a love for calculus",
-        "url": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 23 Jun 2026 21:00:00 +0000",
-        "published_dt": "2026-06-23T21:00:00+00:00",
-        "summary": "The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI.&#160; Whatever your own perspective on that debate, I hope you\u2019ll be glad to know that MIT is also working on a deeply important but comparatively old-fashioned challenge: American high school students\u2019 startlingly uneven access&#8230;"
-      },
-      {
-        "id": "21d710d47cd60e80",
-        "title": "Stand Up for Research, Innovation, and Education",
-        "url": "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 23 Jun 2026 21:00:00 +0000",
-        "published_dt": "2026-06-23T21:00:00+00:00",
-        "summary": "Right now, MIT alumni and friends are voicing their support for: America\u2019s scientific and technological leadership Merit-based admissions and affordable education Advances that increase US health, security, and prosperity Our community is standing up for MIT and its mission to serve the nation and the world. And we need you to join us at this&#8230;"
       }
     ]
   }
