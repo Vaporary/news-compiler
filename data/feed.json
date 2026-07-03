@@ -1,96 +1,24 @@
 {
-  "generated_at": "2026-07-02T14:17:52.694914+00:00",
+  "generated_at": "2026-07-03T14:22:24.509131+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "e3ad169b97488c78",
-        "title": "STAT+: Roche drug sets new standard for KRAS-driven lung cancer",
-        "url": "https://www.statnews.com/2026/07/02/biotech-news-roche-drug-sets-new-standard-for-kras-driven-lung-cancer/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 02 Jul 2026 14:13:27 +0000",
-        "published_dt": "2026-07-02T14:13:27+00:00",
-        "summary": "Biotech's bull market, Vertex's gene therapy expansion, and more news from The Readout"
-      },
-      {
-        "id": "d605cb9087e2037e",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about a court win for Amgen, Novo seeking supplier discounts, and more",
-        "url": "https://www.statnews.com/pharmalot/2026/07/02/amgen-court-win-novo-seeking-supplier-discounts/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 02 Jul 2026 13:25:04 +0000",
-        "published_dt": "2026-07-02T13:25:04+00:00",
-        "summary": "U.S. judge blocked a Colorado state panel from placing a cap on the price of Amgen's blockbuster drug Enbrel"
-      },
-      {
-        "id": "354f7f794ca56bb8",
-        "title": "Teaching AI to run with the turbines",
-        "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+        "id": "8b591f87b8842042",
+        "title": "The Download: a smoking \u201cendgame\u201d and a new Elizabeth Bear story",
+        "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
         "source": "MIT Technology Review",
-        "published": "Thu, 02 Jul 2026 12:51:44 +0000",
-        "published_dt": "2026-07-02T12:51:44+00:00",
-        "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&#8230;"
+        "published": "Fri, 03 Jul 2026 12:10:00 +0000",
+        "published_dt": "2026-07-03T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK\u2019s generational tobacco ban might not work. I\u2019m supporting it anyway. \u2014Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from&#8230;"
       },
       {
-        "id": "43ff2ba4ec8595ae",
-        "title": "STAT+: U.S. judge blocks Colorado\u2019s first-of-its-kind price cap on an Amgen drug",
-        "url": "https://www.statnews.com/pharmalot/2026/07/02/judge-blocks-colorado-price-cap-on-amgen-enbrel/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 02 Jul 2026 12:54:40 +0000",
-        "published_dt": "2026-07-02T12:54:40+00:00",
-        "summary": "A federal judge blocked a Colorado state panel from placing a cap on the price of Enbrel, a blockbuster drug sold by Amgen"
-      },
-      {
-        "id": "56b8db13c496a9ec",
-        "title": "The Download: a startup has a solution for AI\u2019s groupthink problem",
-        "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+        "id": "bd9b023baea03c90",
+        "title": "The UK\u2019s generational tobacco ban might not work. I\u2019m supporting it anyway.",
+        "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
         "source": "MIT Technology Review",
-        "published": "Thu, 02 Jul 2026 12:10:00 +0000",
-        "published_dt": "2026-07-02T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice\u2014Claude, ChatGPT, Gemini\u2014and type \u201cGive me a random number between 1&#8230;"
-      },
-      {
-        "id": "285845bc43bdef7d",
-        "title": "STAT+: More frequent, more intense, and longer heat waves pose health risks for Americans",
-        "url": "https://www.statnews.com/2026/07/02/health-news-frequent-intense-heat-waves-pose-health-risks-for-americans/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 02 Jul 2026 11:24:59 +0000",
-        "published_dt": "2026-07-02T11:24:59+00:00",
-        "summary": "The presidential fitness test is back, surprising new data on the health risks of obesity, and more Morning Rounds news"
-      },
-      {
-        "id": "a0df2e088124d36d",
-        "title": "STAT+: Halfway into the year, biotech is booming",
-        "url": "https://www.statnews.com/2026/07/02/biotech-sector-booms-capricor-fda-meeting/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 02 Jul 2026 10:30:00 +0000",
-        "published_dt": "2026-07-02T10:30:00+00:00",
-        "summary": "The biotech stock rally that began in April 2025 has not stopped, and if anything, has accelerated."
-      },
-      {
-        "id": "06cd03abddd46e89",
-        "title": "STAT+: A \u2018historic\u2019 FDA clearance raises the question: Is the LLM an interface or the decision-maker?",
-        "url": "https://www.statnews.com/2026/07/02/fda-clearance-raises-questions-updoc-use-generative-ai-diabetes-treatment/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 02 Jul 2026 08:30:00 +0000",
-        "published_dt": "2026-07-02T08:30:00+00:00",
-        "summary": "The newly cleared device is based around an app that helps a patient manage their diabetes using a treatment plan defined by their doctor."
-      },
-      {
-        "id": "d46e7543d2766188",
-        "title": "STAT+: A former AI regulator, now in industry, says biopharma is reading FDA\u2019s guidance wrong",
-        "url": "https://www.statnews.com/2026/07/02/fda-ai-guidance-pharma-industry-caution-tala-fakhouri-explains/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 02 Jul 2026 08:30:00 +0000",
-        "published_dt": "2026-07-02T08:30:00+00:00",
-        "summary": "Companies are being too conservative in how they interpret FDA's AI guidance, but the agency can do more to help, too, Tala Fakhouri says."
-      },
-      {
-        "id": "9c361128ae154dc9",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-orchestrates-phase-3-kras-lung-cancer-win-over-amgen-and-bristol-myers\" hreflang=\"en\">Roche orchestrates phase 3 KRAS lung cancer win over Amgen, BMS</a>",
-        "url": "https://www.fiercebiotech.com/biotech/roche-orchestrates-phase-3-kras-lung-cancer-win-over-amgen-and-bristol-myers",
-        "source": "Fierce Biotech",
-        "published": "Jul 2, 2026 5:16am",
-        "published_dt": "2026-07-02T05:16:00+00:00",
-        "summary": "Roche\u2019s investigational KRAS G12C inhibitor has beaten Amgen\u2019s Lumakras and Bristol Myers Squibb\u2019s Krazati in a phase 3 trial, furthering its ambitions to establish divarasib as a new standard of care."
+        "published": "Fri, 03 Jul 2026 09:00:00 +0000",
+        "published_dt": "2026-07-03T09:00:00+00:00",
+        "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevailing sentiment when I was young.&#8230;"
       },
       {
         "id": "b0b6fcd9e64da327",
@@ -111,58 +39,58 @@
         "summary": "Vistagen\u2019s social anxiety disorder drug candidate has flunked another phase 3 trial. But, with a post hoc subpopulation analysis linking fasedienol to a nominally statistically significant improvement, the biotech plans to talk to the FDA about a path to approval built around a single future phase 3 study and confirmatory evidence from its broader PALISADE program."
       },
       {
-        "id": "d9f1b42d7ca2a8b2",
-        "title": "Why California\u2019s carbon manure math doesn\u2019t add up",
-        "url": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
+        "id": "e3ad169b97488c78",
+        "title": "STAT+: Roche drug sets new standard for KRAS-driven lung cancer",
+        "url": "https://www.statnews.com/2026/07/02/biotech-news-roche-drug-sets-new-standard-for-kras-driven-lung-cancer/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 02 Jul 2026 14:13:27 +0000",
+        "published_dt": "2026-07-02T14:13:27+00:00",
+        "summary": "Biotech's bull market, Vertex's gene therapy expansion, and more news from The Readout"
+      },
+      {
+        "id": "354f7f794ca56bb8",
+        "title": "Teaching AI to run with the turbines",
+        "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
         "source": "MIT Technology Review",
-        "published": "Thu, 02 Jul 2026 09:00:00 +0000",
-        "published_dt": "2026-07-02T09:00:00+00:00",
-        "summary": "Something stinks in California\u2019s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It\u2019s become wildly popular because&#8230;"
+        "published": "Thu, 02 Jul 2026 12:51:44 +0000",
+        "published_dt": "2026-07-02T12:51:44+00:00",
+        "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&#8230;"
       },
       {
-        "id": "57a75e2baa223bb1",
-        "title": "The new presidential fitness test is a positive step, not the solution, experts say",
-        "url": "https://www.statnews.com/2026/07/02/presidential-fitness-test-will-it-boost-physical-activity-youth/?utm_campaign=rss",
+        "id": "06cd03abddd46e89",
+        "title": "STAT+: A \u2018historic\u2019 FDA clearance raises the question: Is the LLM an interface or the decision-maker?",
+        "url": "https://www.statnews.com/2026/07/02/fda-clearance-raises-questions-updoc-use-generative-ai-diabetes-treatment/?utm_campaign=rss",
         "source": "STAT",
         "published": "Thu, 02 Jul 2026 08:30:00 +0000",
         "published_dt": "2026-07-02T08:30:00+00:00",
-        "summary": "Physical activity needs to be fun to keep kids engaged. And the test risks embarrassing them, instead."
+        "summary": "The newly cleared device is based around an app that helps a patient manage their diabetes using a treatment plan defined by their doctor."
       },
       {
-        "id": "6a8ac33810b46752",
-        "title": "STAT+: A year after distressed buyout, what\u2019s become of Bluebird Bio?",
-        "url": "https://www.statnews.com/2026/07/02/genetix-david-meek-bluebird-bio-turnaround-effort/?utm_campaign=rss",
+        "id": "d46e7543d2766188",
+        "title": "STAT+: A former AI regulator, now in industry, says biopharma is reading FDA\u2019s guidance wrong",
+        "url": "https://www.statnews.com/2026/07/02/fda-ai-guidance-pharma-industry-caution-tala-fakhouri-explains/?utm_campaign=rss",
         "source": "STAT",
         "published": "Thu, 02 Jul 2026 08:30:00 +0000",
         "published_dt": "2026-07-02T08:30:00+00:00",
-        "summary": "Bluebird Bio was a dark biotech morality tale when David Meek bought it. He says the new company, Genetix, is already making money."
+        "summary": "Companies are being too conservative in how they interpret FDA's AI guidance, but the agency can do more to help, too, Tala Fakhouri says."
       },
       {
-        "id": "efb728d8f7c58191",
-        "title": "Opinion: CDC leadership continues to try to manufacture a scientific debate on vaccines where none exists",
-        "url": "https://www.statnews.com/2026/07/02/measuring-vaccine-effectiveness-test-negative-design-cdc/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 02 Jul 2026 08:30:00 +0000",
-        "published_dt": "2026-07-02T08:30:00+00:00",
-        "summary": "CDC leadership continues to try manufacture a scientific debate on vaccines where none exists, writes Ben Lopman."
-      },
-      {
-        "id": "2a67ef18a16517f4",
-        "title": "Opinion: Teens are turning to chatbots for mental health help. We need rules to keep them safe",
-        "url": "https://www.statnews.com/2026/07/02/teens-chatbots-mental-health-rules-bans/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 02 Jul 2026 08:30:00 +0000",
-        "published_dt": "2026-07-02T08:30:00+00:00",
-        "summary": "The share of young people using AI chatbots for mental health advice rose more than 40% in a single year, researcher writes."
-      },
-      {
-        "id": "77657fc54033874b",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fosun-pays-32m-join-lilly-and-novartis-fiercely-competitive-psoriasis-market\" hreflang=\"en\">Fosun pays $32M to join Lilly and Novartis in fiercely competitive psoriasis market</a>",
-        "url": "https://www.fiercebiotech.com/biotech/fosun-pays-32m-join-lilly-and-novartis-fiercely-competitive-psoriasis-market",
+        "id": "335c8160c79037e2",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/united-therapeutics-pays-140m-thymic-cell-therapy-startup\" hreflang=\"en\">United Therapeutics pays $140M for thymic cell therapy startup</a>",
+        "url": "https://www.fiercebiotech.com/biotech/united-therapeutics-pays-140m-thymic-cell-therapy-startup",
         "source": "Fierce Biotech",
-        "published": "Jul 2, 2026 6:56am",
-        "published_dt": "2026-07-02T06:56:00+00:00",
-        "summary": "A Fosun Pharma subsidiary has paid Junshi Biosciences 215 million yuan ($32 million) for Chinese rights to a near-approval autoimmune disease drug candidate."
+        "published": "Jul 3, 2026 5:50am",
+        "published_dt": "2026-07-03T05:50:00+00:00",
+        "summary": "United Therapeutics has paid $140 million to buy Thymmune Therapeutics for preclinical regenerative cell therapies focused on the thymus."
+      },
+      {
+        "id": "9c361128ae154dc9",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-orchestrates-phase-3-kras-lung-cancer-win-over-amgen-and-bristol-myers\" hreflang=\"en\">Roche orchestrates phase 3 KRAS lung cancer win over Amgen, BMS</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-orchestrates-phase-3-kras-lung-cancer-win-over-amgen-and-bristol-myers",
+        "source": "Fierce Biotech",
+        "published": "Jul 2, 2026 5:16am",
+        "published_dt": "2026-07-02T05:16:00+00:00",
+        "summary": "Roche\u2019s investigational KRAS G12C inhibitor has beaten Amgen\u2019s Lumakras and Bristol Myers Squibb\u2019s Krazati in a phase 3 trial, furthering its ambitions to establish divarasib as a new standard of care."
       },
       {
         "id": "19f643e7cb3cc599",
@@ -174,22 +102,13 @@
         "summary": "Merck &amp; Co. has nixed the phase 2 study of a potential Alzheimer\u2019s disease medicine after the drug underwhelmed in an interim analysis, marking another blow for the pharma\u2019s struggling partner Neuphoria Therapeutics."
       },
       {
-        "id": "591fd7acdf829e51",
-        "title": "FDA says Zyn can market its pouches as safer than cigarettes",
-        "url": "https://www.statnews.com/2026/07/01/health-news-fda-says-zyn-can-market-pouches-as-safer-than-cigarettes/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 01 Jul 2026 11:50:18 +0000",
-        "published_dt": "2026-07-01T11:50:18+00:00",
-        "summary": "The influence of the alcohol industry on policy, AI Claude for scientists, and more health news from Morning Rounds"
-      },
-      {
-        "id": "b30778c4b0d38c06",
-        "title": "STAT+: FDA approves Orca Bio\u2019s T cell therapy for blood cancer patients",
-        "url": "https://www.statnews.com/2026/07/01/fda-approves-orca-bio-treatment-blood-cancer/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 01 Jul 2026 11:38:17 +0000",
-        "published_dt": "2026-07-01T11:38:17+00:00",
-        "summary": "The FDA approved a T-cell therapy from Orca Bio that reduces the risk of a debilitating immune reaction in patients with blood cancers undergoing stem cell transplants."
+        "id": "a3795ca2d0819501",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-pays-go-chinese-partner-cspc-30m-form-kidney-drug-discovery-pact\" hreflang=\"en\">AstraZeneca pens $1.7B kidney drug discovery pact with go-to Chinese partner CSPC</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-pays-go-chinese-partner-cspc-30m-form-kidney-drug-discovery-pact",
+        "source": "Fierce Biotech",
+        "published": "Jul 3, 2026 4:26am",
+        "published_dt": "2026-07-03T04:26:00+00:00",
+        "summary": "AstraZeneca has added another piece to its sprawling interface with CSPC Pharmaceutical, paying the Chinese biotech $30 million upfront to jointly discover and develop two kidney disease drug candidates."
       },
       {
         "id": "df974f77ac4098f8",
@@ -226,9 +145,108 @@
         "published": "Jun 29, 2026 8:34am",
         "published_dt": "2026-06-29T08:34:00+00:00",
         "summary": "The FDA dealt Lantheus\u2019 bid to garner approval of its radiodiopharmaceutical diagnostic kit a setback due to manufacturing issues at a third-party facility."
+      },
+      {
+        "id": "6dfbed3be45a5357",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/united-therapeutics-nabs-fda-approval-donor-lungs-assessment-device\" hreflang=\"en\">United Therapeutics nabs FDA approval for donor-lung assessment device  </a>",
+        "url": "https://www.fiercebiotech.com/medtech/united-therapeutics-nabs-fda-approval-donor-lungs-assessment-device",
+        "source": "Fierce Biotech",
+        "published": "Jun 29, 2026 7:35am",
+        "published_dt": "2026-06-29T07:35:00+00:00",
+        "summary": "United Therapeutics has been given a premarket approval from the FDA for its LungFX device."
+      },
+      {
+        "id": "44a3d35c289c61da",
+        "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
+        "url": "https://www.statnews.com/2026/07/02/medicare-hospital-payment-340b-drugs-cut/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 02 Jul 2026 19:52:19 +0000",
+        "published_dt": "2026-07-02T19:52:19+00:00",
+        "summary": "Reducing Medicare payments for 340B drugs is the latest proposal focused on the hotly debated drug discount program."
+      },
+      {
+        "id": "023210a7a96fedbb",
+        "title": "STAT+: Lawmakers urge HHS to force Eli Lilly to provide 340B drug discounts to hospitals",
+        "url": "https://www.statnews.com/pharmalot/2026/07/02/lawmakers-urge-lilly-to-provide-340b-drug-discounts-to-hospitals/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 02 Jul 2026 19:52:14 +0000",
+        "published_dt": "2026-07-02T19:52:14+00:00",
+        "summary": "Lawmakers step into a dispute between Eli Lilly and hospitals about the 340b drug discount program."
+      },
+      {
+        "id": "12b6ffe6cb063985",
+        "title": "STAT+: Elevance sues government over $115 million tied to Medicare Advantage star ratings",
+        "url": "https://www.statnews.com/2026/07/02/elevance-lawsuit-medicare-advantage-star-ratings-clover/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 02 Jul 2026 18:34:05 +0000",
+        "published_dt": "2026-07-02T18:34:05+00:00",
+        "summary": "The health insurer says CMS didn't calculate its star ratings appropriately."
+      },
+      {
+        "id": "1ac10689c22cf00d",
+        "title": "STAT+: Up and down the ladder: The latest comings and goings",
+        "url": "https://www.statnews.com/pharmalot/2026/07/02/pharma-biotech-jobs-ladder-vertex-gilead-astrazeneca-lilly/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 02 Jul 2026 17:32:09 +0000",
+        "published_dt": "2026-07-02T17:32:09+00:00",
+        "summary": "Hired someone new and exciting? Promoted a rising star? Finally solved that hard-to-fill spot? Share the news with us, and we\u2019ll share it with others."
+      },
+      {
+        "id": "9f8d04f9c412e660",
+        "title": "STAT+: What does DeGette\u2019s loss mean for pharma?",
+        "url": "https://www.statnews.com/2026/07/02/degette-loses-to-kiros-pharma-presidential-fitness-test-dc-diagnosis/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 02 Jul 2026 16:09:48 +0000",
+        "published_dt": "2026-07-02T16:09:48+00:00",
+        "summary": "Colorado Democratic Rep. Diana DeGette, who lost her primary, was knowledgeable about biopharma, if not always a friend to the industry."
+      },
+      {
+        "id": "b1b2af342043c94a",
+        "title": "Achieving operational excellence with AI",
+        "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 02 Jul 2026 15:37:08 +0000",
+        "published_dt": "2026-07-02T15:37:08+00:00",
+        "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos\u2014a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to&#8230;"
+      },
+      {
+        "id": "d605cb9087e2037e",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about a court win for Amgen, Novo seeking supplier discounts, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/07/02/amgen-court-win-novo-seeking-supplier-discounts/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 02 Jul 2026 13:25:04 +0000",
+        "published_dt": "2026-07-02T13:25:04+00:00",
+        "summary": "U.S. judge blocked a Colorado state panel from placing a cap on the price of Amgen's blockbuster drug Enbrel"
+      },
+      {
+        "id": "43ff2ba4ec8595ae",
+        "title": "STAT+: U.S. judge blocks Colorado\u2019s first-of-its-kind price cap on an Amgen drug",
+        "url": "https://www.statnews.com/pharmalot/2026/07/02/judge-blocks-colorado-price-cap-on-amgen-enbrel/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 02 Jul 2026 12:54:40 +0000",
+        "published_dt": "2026-07-02T12:54:40+00:00",
+        "summary": "A federal judge blocked a Colorado state panel from placing a cap on the price of Enbrel, a blockbuster drug sold by Amgen"
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "2661e7c669bf0e02",
+        "title": "Chinese satellite manufacturer Hongqing raises $191 million",
+        "url": "https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/",
+        "source": "SpaceNews",
+        "published": "Fri, 03 Jul 2026 13:10:37 +0000",
+        "published_dt": "2026-07-03T13:10:37+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Zhuque-2E-Spacesail-DTC-ChinaMobile02-9june2026-landspace.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>HELSINKI \u2014 Hongqing Technology, the satellite manufacturing affiliate of launch firm Landspace, has secured one of the largest single raises for a Chinese commercial satellite maker. The funding round, announced [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/\">Chinese satellite manufacturer Hongqing raises $191 million</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "46311e29a63d78b1",
+        "title": "Isar Aerospace to launch German-built Planet imaging satellite",
+        "url": "https://spacenews.com/isar-aerospace-to-launch-german-built-planet-imaging-satellite/",
+        "source": "SpaceNews",
+        "published": "Thu, 02 Jul 2026 18:20:48 +0000",
+        "published_dt": "2026-07-02T18:20:48+00:00",
+        "summary": "<figure><img alt=\"Spectrum liftoff\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"551\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/spectrum-liftoff.jpeg?fit=1024%2C551&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Isar Aerospace won a contract from Planet\u2019s German subsidiary to launch an imaging satellite, demonstrating an end-to-end space capability for the country.</p>\n<p>The post <a href=\"https://spacenews.com/isar-aerospace-to-launch-german-built-planet-imaging-satellite/\">Isar Aerospace to launch German-built Planet imaging satellite</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
       {
         "id": "ad06dcf8c39f5883",
         "title": "Velo3D expands with new Livermore production facility",
@@ -239,15 +257,6 @@
         "summary": "<p>The 288,747-square-foot site is designed to support large-format metal additive systems and increase manufacturing capacity.</p>\n<p>The post <a href=\"https://www.engineering.com/velo3d-expands-with-new-livermore-production-facility/\">Velo3D expands with new Livermore production facility</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "638feecbf0a668dc",
-        "title": "Making satellite communications more resilient",
-        "url": "https://spacenews.com/making-satellite-communications-more-resilient/",
-        "source": "SpaceNews",
-        "published": "Thu, 02 Jul 2026 13:50:47 +0000",
-        "published_dt": "2026-07-02T13:50:47+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/space-minds-podcast-kymeta-2000-1500.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>In this episode of Space Minds, Mike Gruss talks with Kymeta\u2019s Ryan Stevenson. They discuss the benefits and challenges of multi-orbit and multi-band connectivity in a single terminal. About Space [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/making-satellite-communications-more-resilient/\">Making satellite communications more resilient</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
         "id": "fe6a996ece948d2f",
         "title": "Vertiv opens manufacturing facility in Malaysia",
         "url": "https://www.engineering.com/vertiv-opens-manufacturing-facility-in-malaysia/",
@@ -255,6 +264,69 @@
         "published": "Thu, 02 Jul 2026 13:08:09 +0000",
         "published_dt": "2026-07-02T13:08:09+00:00",
         "summary": "<p>The Johor site adds assembly and testing capacity for liquid cooling, power modules and prefabricated infrastructure systems.</p>\n<p>The post <a href=\"https://www.engineering.com/vertiv-opens-manufacturing-facility-in-malaysia/\">Vertiv opens manufacturing facility in Malaysia</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "8223b316f6df99c6",
+        "title": "Vast names Isakowitz as a senior adviser",
+        "url": "https://spacenews.com/vast-names-isakowitz-as-a-senior-adviser/",
+        "source": "SpaceNews",
+        "published": "Tue, 30 Jun 2026 13:00:00 +0000",
+        "published_dt": "2026-06-30T13:00:00+00:00",
+        "summary": "<figure><img alt=\"Haven-1 integration\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/haven1-integration.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Commercial space station developer Vast named the former president and chief executive of The Aerospace Corp. as an adviser while the company awaits the next phase of a NASA program.</p>\n<p>The post <a href=\"https://spacenews.com/vast-names-isakowitz-as-a-senior-adviser/\">Vast names Isakowitz as a senior adviser</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "160f2bb071919757",
+        "title": "U.S. Army expands advanced manufacturing of drone components at Pennsylvania depot",
+        "url": "https://aerospaceamerica.aiaa.org/u-s-army-expands-advanced-manufacturing-of-drone-components-at-pennsylvania-depot/",
+        "source": "Aerospace America",
+        "published": "Mon, 29 Jun 2026 21:13:23 +0000",
+        "published_dt": "2026-06-29T21:13:23+00:00",
+        "summary": ""
+      },
+      {
+        "id": "91076095ec347883",
+        "title": "\u2018Space gun\u2019 startup hopes to offer U.S. military an affordable way to test hypersonic weapons",
+        "url": "https://aerospaceamerica.aiaa.org/space-gun-startup-hopes-to-offer-u-s-military-an-affordable-way-to-test-hypersonic-weapons/",
+        "source": "Aerospace America",
+        "published": "Fri, 19 Jun 2026 13:00:00 +0000",
+        "published_dt": "2026-06-19T13:00:00+00:00",
+        "summary": ""
+      },
+      {
+        "id": "58d2452ff7bedc33",
+        "title": "Perovskite solar panel startup Verde Technologies shifts focus to space",
+        "url": "https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/",
+        "source": "SpaceNews",
+        "published": "Thu, 02 Jul 2026 19:27:36 +0000",
+        "published_dt": "2026-07-02T19:27:36+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/RTR-perovskite-manufaturing-scaled.jpeg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Verde Technologies is turning to space to commercialize perovskite-based solar panels, shifting its initial focus away from rooftops in a bet that the thin-film material can help power orbital data centers and other large constellations.</p>\n<p>The post <a href=\"https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/\">Perovskite solar panel startup Verde Technologies shifts focus to space</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "9be5a69eb6b97f77",
+        "title": "Polish space tech company Sybilla Technologies secures funds to enter U.S. market",
+        "url": "https://spacenews.com/polish-space-tech-company-sybilla-technologies-secures-funds-to-enter-u-s-market/",
+        "source": "SpaceNews",
+        "published": "Thu, 02 Jul 2026 17:38:50 +0000",
+        "published_dt": "2026-07-02T17:38:50+00:00",
+        "summary": "<figure><img alt=\"An optical system developed by Sybilla Technologies. Credit: Sybilla Technologies\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Photo-by-Sybilla-Technologies.jpg?fit=768%2C1024&amp;ssl=1\" width=\"768\" /></figure>\n<p>WARSAW, Poland \u2014 The Polish state-owned bank BGK and European venture capital firm 3TS Capital Partners have unveiled an investment of around 35 million zloty ($10 million) in Poland\u2019s space [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/polish-space-tech-company-sybilla-technologies-secures-funds-to-enter-u-s-market/\">Polish space tech company Sybilla Technologies secures funds to enter U.S. market</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "8128b2cf2f47e58a",
+        "title": "FAA releases draft of new commercial supersonic flight regulations",
+        "url": "https://aerospaceamerica.aiaa.org/faa-releases-draft-of-new-commercial-supersonic-flight-regulations/",
+        "source": "Aerospace America",
+        "published": "Thu, 02 Jul 2026 16:36:51 +0000",
+        "published_dt": "2026-07-02T16:36:51+00:00",
+        "summary": ""
+      },
+      {
+        "id": "638feecbf0a668dc",
+        "title": "Making satellite communications more resilient",
+        "url": "https://spacenews.com/making-satellite-communications-more-resilient/",
+        "source": "SpaceNews",
+        "published": "Thu, 02 Jul 2026 13:50:47 +0000",
+        "published_dt": "2026-07-02T13:50:47+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/space-minds-podcast-kymeta-2000-1500.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>In this episode of Space Minds, Mike Gruss talks with Kymeta\u2019s Ryan Stevenson. They discuss the benefits and challenges of multi-orbit and multi-band connectivity in a single terminal. About Space [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/making-satellite-communications-more-resilient/\">Making satellite communications more resilient</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "5c79f5f5173fc2d3",
@@ -329,33 +401,6 @@
         "summary": "<p>The recognition was presented at the EDS Leadership Summit, with a $5,000 donation going to a Massachusetts nonprofit.</p>\n<p>The post <a href=\"https://www.engineering.com/omron-names-sager-electronics-distributor-of-the-year/\">OMRON names Sager Electronics distributor of the year</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "8223b316f6df99c6",
-        "title": "Vast names Isakowitz as a senior adviser",
-        "url": "https://spacenews.com/vast-names-isakowitz-as-a-senior-adviser/",
-        "source": "SpaceNews",
-        "published": "Tue, 30 Jun 2026 13:00:00 +0000",
-        "published_dt": "2026-06-30T13:00:00+00:00",
-        "summary": "<figure><img alt=\"Haven-1 integration\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/haven1-integration.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Commercial space station developer Vast named the former president and chief executive of The Aerospace Corp. as an adviser while the company awaits the next phase of a NASA program.</p>\n<p>The post <a href=\"https://spacenews.com/vast-names-isakowitz-as-a-senior-adviser/\">Vast names Isakowitz as a senior adviser</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "160f2bb071919757",
-        "title": "U.S. Army expands advanced manufacturing of drone components at Pennsylvania depot",
-        "url": "https://aerospaceamerica.aiaa.org/u-s-army-expands-advanced-manufacturing-of-drone-components-at-pennsylvania-depot/",
-        "source": "Aerospace America",
-        "published": "Mon, 29 Jun 2026 21:13:23 +0000",
-        "published_dt": "2026-06-29T21:13:23+00:00",
-        "summary": ""
-      },
-      {
-        "id": "91076095ec347883",
-        "title": "\u2018Space gun\u2019 startup hopes to offer U.S. military an affordable way to test hypersonic weapons",
-        "url": "https://aerospaceamerica.aiaa.org/space-gun-startup-hopes-to-offer-u-s-military-an-affordable-way-to-test-hypersonic-weapons/",
-        "source": "Aerospace America",
-        "published": "Fri, 19 Jun 2026 13:00:00 +0000",
-        "published_dt": "2026-06-19T13:00:00+00:00",
-        "summary": ""
-      },
-      {
         "id": "23563e2f81f5be2c",
         "title": "Report links Starliner problems to overconfidence and unrealistic schedules",
         "url": "https://spacenews.com/report-links-starliner-problems-to-overconfidence-and-unrealistic-schedules/",
@@ -408,51 +453,6 @@
         "published": "Wed, 01 Jul 2026 12:30:00 +0000",
         "published_dt": "2026-07-01T12:30:00+00:00",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"651\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/rsz_worldview_3d_rapid_hoover_dam_before__after.png?fit=879%2C651&amp;ssl=1\" width=\"879\" /></figure>\n<p>SAN FRANCISCO \u2013 Vantor, the company previously known as Maxar Intelligence, unveiled WorldView 3D July 1, to provide customers with updated and high-definition imagery. \u201cWorldView 3D is driving towards currency,\u201d [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/vantor-offers-up-to-date-imagery-with-worldview-3d/\">Vantor offers up-to-date imagery with WorldView 3D</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "410c90c10f89a3be",
-        "title": "EchoStar\u2019s satellite TV and wireless subsidiaries file for bankruptcy",
-        "url": "https://spacenews.com/echostars-satellite-tv-and-wireless-subsidiaries-file-for-bankruptcy/",
-        "source": "SpaceNews",
-        "published": "Wed, 01 Jul 2026 12:22:10 +0000",
-        "published_dt": "2026-07-01T12:22:10+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/DISH_van_Newsroom3.webp?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>EchoStar subsidiaries tied to its satellite TV and abandoned 5G network businesses have filed for Chapter 11 bankruptcy protection, advancing a prepackaged restructuring plan to repay debt early after selling spectrum to SpaceX and AT&#038;T.</p>\n<p>The post <a href=\"https://spacenews.com/echostars-satellite-tv-and-wireless-subsidiaries-file-for-bankruptcy/\">EchoStar\u2019s satellite TV and wireless subsidiaries file for bankruptcy</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "9e7e8b3aa9e79636",
-        "title": "Latitude plans to conduct first launch from Oman",
-        "url": "https://spacenews.com/latitude-plans-to-conduct-first-launch-from-oman/",
-        "source": "SpaceNews",
-        "published": "Wed, 01 Jul 2026 12:03:58 +0000",
-        "published_dt": "2026-07-01T12:03:58+00:00",
-        "summary": "<figure><img alt=\"Latitude signing\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/latitude-etlaq.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>French startup Latitude intends to perform the first launch of its small launch vehicle from a spaceport in Oman in late 2027.</p>\n<p>The post <a href=\"https://spacenews.com/latitude-plans-to-conduct-first-launch-from-oman/\">Latitude plans to conduct first launch from Oman</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "9b252207a5f75758",
-        "title": "Blue Origin outlines new launch pad approach as it pushes to return New Glenn to flight",
-        "url": "https://spacenews.com/blue-origin-outlines-new-launch-pad-approach-as-it-pushes-to-return-new-glenn-to-flight/",
-        "source": "SpaceNews",
-        "published": "Wed, 01 Jul 2026 11:16:15 +0000",
-        "published_dt": "2026-07-01T11:16:15+00:00",
-        "summary": "<figure><img alt=\"New Glenn new pad ops\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"585\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/News_NG-ReturnToFlight_2-RocketLift.png?fit=1024%2C585&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A month after a devastating pad explosion, Blue Origin reiterated plans to return its New Glenn vehicle to flight from a rebuilt launch pad by the end of the year.</p>\n<p>The post <a href=\"https://spacenews.com/blue-origin-outlines-new-launch-pad-approach-as-it-pushes-to-return-new-glenn-to-flight/\">Blue Origin outlines new launch pad approach as it pushes to return New Glenn to flight</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "83f4f19abf4343a9",
-        "title": "The SpaceX IPO tells one story. Here is the more important one.",
-        "url": "https://spacenews.com/the-spacex-ipo-tells-one-story-here-is-the-more-important-one/",
-        "source": "SpaceNews",
-        "published": "Wed, 01 Jul 2026 11:00:00 +0000",
-        "published_dt": "2026-07-01T11:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"618\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2022/06/United-Kingdom.jpg?fit=1024%2C618&amp;ssl=1\" width=\"1024\" /></figure>\n<p>When SpaceX publicly listed, the coverage focused on the rockets, the valuation, and the personalities. That\u2019s understandable. But the more important story is what the IPO signals about where the [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/the-spacex-ipo-tells-one-story-here-is-the-more-important-one/\">The SpaceX IPO tells one story. Here is the more important one.</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "64b48bfd50d8b494",
-        "title": "NASA awards nearly $600 million in lunar lander missions",
-        "url": "https://spacenews.com/nasa-awards-nearly-600-million-in-lunar-lander-missions/",
-        "source": "SpaceNews",
-        "published": "Tue, 30 Jun 2026 23:57:29 +0000",
-        "published_dt": "2026-06-30T23:57:29+00:00",
-        "summary": "<figure><img alt=\"Lunar landers\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/landers-june2026.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA selected three companies to fly four lunar lander missions worth nearly $600 million as part of its lunar base ambitions, as it weighs also launching a spare Mars rover.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-awards-nearly-600-million-in-lunar-lander-missions/\">NASA awards nearly $600 million in lunar lander missions</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
@@ -464,33 +464,6 @@
         "published": null,
         "published_dt": null,
         "summary": "Modern theories of the business cycle do not allow for the simultaneous rational choice of both prices and quantities, instead assuming that an \u201cinvisible hand\u201d determines one of these variables to clear markets. In this paper, we develop a macroeconomic model in which both prices and quantities are chosen optimally by firms and exchange is both voluntary and efficient. As a consequence, individual markets will generically be in Walrasian disequilibrium: either slack (over-supplied) or rationed (under-supplied). The absence of market clearing changes pricing and production in qualitatively important ways: markups are governed by the probability of rationing rather than the elasticity of demand, and higher uncertainty reduces production and increases markups. Marrying the Old and New Keynesian traditions, we study general Walrasian disequilibrium with rational expectations and optimal firm decisions. On a technical level, we characterize cross-market spillovers arising from rationed demand with differentiated goods, overcoming the standard combinatorial problem that arises when studying multi-market disequilibrium. Unlike in New Keynesian economies, monetary shocks propagate by reducing product-market slack, raising aggregate labor productivity and consumption with muted effects on employment, while uncertainty shocks act as stagflationary cost-push shocks."
-      },
-      {
-        "id": "4d076fc28cd17681",
-        "title": "How much will a 4th of July cookout cost this year?",
-        "url": "https://www.economist.com/finance-and-economics/2026/07/02/how-much-will-a-4th-of-july-cookout-cost-this-year",
-        "source": "Finance & economics",
-        "published": "Thu, 02 Jul 2026 09:41:44 +0000",
-        "published_dt": "2026-07-02T09:41:44+00:00",
-        "summary": "We calculate the rising price of Americans\u2019 summer staples"
-      },
-      {
-        "id": "390fee91bb6c9849",
-        "title": "Are stablecoins money?",
-        "url": "https://www.economist.com/finance-and-economics/2026/07/02/are-stablecoins-money",
-        "source": "Finance & economics",
-        "published": "Thu, 02 Jul 2026 09:37:02 +0000",
-        "published_dt": "2026-07-02T09:37:02+00:00",
-        "summary": "Policymakers\u2019 job is to make them safe as well as useful"
-      },
-      {
-        "id": "8325ad0decb7e641",
-        "title": "Unpacking Venezuela\u2019s peculiar debt restructuring",
-        "url": "https://www.economist.com/finance-and-economics/2026/07/02/unpacking-venezuelas-peculiar-debt-restructuring",
-        "source": "Finance & economics",
-        "published": "Thu, 02 Jul 2026 09:36:54 +0000",
-        "published_dt": "2026-07-02T09:36:54+00:00",
-        "summary": "Hazy numbers and the absence of the IMF make for an unusual negotiation"
       },
       {
         "id": "fd333dbe0579c51b",
@@ -680,9 +653,63 @@
         "published": "Mon, 01 Jun 2026 17:16:55 +0000",
         "published_dt": "2026-06-01T17:16:55+00:00",
         "summary": "Watch out for indigestion"
+      },
+      {
+        "id": "bd620b1c90654264",
+        "title": "Japan, South Korea and Taiwan are suffering industrial rot",
+        "url": "https://www.economist.com/finance-and-economics/2026/05/27/japan-south-korea-and-taiwan-are-suffering-industrial-rot",
+        "source": "Finance & economics",
+        "published": "Wed, 27 May 2026 14:08:47 +0000",
+        "published_dt": "2026-05-27T14:08:47+00:00",
+        "summary": "Artificial intelligence is concealing a China shock"
+      },
+      {
+        "id": "a8c4c75041ed95b9",
+        "title": "How should economists treat morality?",
+        "url": "https://www.economist.com/finance-and-economics/2026/05/21/how-should-economists-treat-morality",
+        "source": "Finance & economics",
+        "published": "Thu, 21 May 2026 09:27:37 +0000",
+        "published_dt": "2026-05-21T09:27:37+00:00",
+        "summary": "Sometimes it is more than merely an exogenous constraint"
+      },
+      {
+        "id": "833855b99670b133",
+        "title": "Investors fear another surge in inflation",
+        "url": "https://www.economist.com/finance-and-economics/2026/05/19/investors-fear-another-surge-in-inflation",
+        "source": "Finance & economics",
+        "published": "Tue, 19 May 2026 19:36:34 +0000",
+        "published_dt": "2026-05-19T19:36:34+00:00",
+        "summary": "So why aren\u2019t more buying inflation-protected bonds?"
       }
     ],
     "Cross-Disciplinary": [
+      {
+        "id": "8b591f87b8842042",
+        "title": "The Download: a smoking \u201cendgame\u201d and a new Elizabeth Bear story",
+        "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 03 Jul 2026 12:10:00 +0000",
+        "published_dt": "2026-07-03T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK\u2019s generational tobacco ban might not work. I\u2019m supporting it anyway. \u2014Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from&#8230;"
+      },
+      {
+        "id": "bd9b023baea03c90",
+        "title": "The UK\u2019s generational tobacco ban might not work. I\u2019m supporting it anyway.",
+        "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 03 Jul 2026 09:00:00 +0000",
+        "published_dt": "2026-07-03T09:00:00+00:00",
+        "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevailing sentiment when I was young.&#8230;"
+      },
+      {
+        "id": "b1b2af342043c94a",
+        "title": "Achieving operational excellence with AI",
+        "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 02 Jul 2026 15:37:08 +0000",
+        "published_dt": "2026-07-02T15:37:08+00:00",
+        "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos\u2014a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to&#8230;"
+      },
       {
         "id": "354f7f794ca56bb8",
         "title": "Teaching AI to run with the turbines",
@@ -745,33 +772,6 @@
         "published": "Tue, 30 Jun 2026 17:36:48 +0000",
         "published_dt": "2026-06-30T17:36:48+00:00",
         "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity&#8217;s new focus. Speakers: Mary Beth Griggs, science editor and Jessica&#8230;"
-      },
-      {
-        "id": "4cf87956a74886d3",
-        "title": "The Download: AI \u201ccoworkers\u201d and stratospheric internet",
-        "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 30 Jun 2026 12:10:00 +0000",
-        "published_dt": "2026-06-30T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your \u201ccoworkers\u201d Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool\u2014one&#8230;"
-      },
-      {
-        "id": "3819f80abb4d0caf",
-        "title": "Agriculture is ready for AI, but its data isn\u2019t",
-        "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 30 Jun 2026 12:00:00 +0000",
-        "published_dt": "2026-06-30T12:00:00+00:00",
-        "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop&#8230;"
-      },
-      {
-        "id": "bfa1e5bb0dc2456f",
-        "title": "Building tech in the world\u2019s secret R&D hub",
-        "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 30 Jun 2026 10:23:30 +0000",
-        "published_dt": "2026-06-30T10:23:30+00:00",
-        "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people\u2014roughly half the size of San Francisco. Over the past two decades, however, many of the world&#8217;s most influential technology companies&#8230;"
       }
     ]
   }
