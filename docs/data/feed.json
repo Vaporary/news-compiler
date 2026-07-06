@@ -1,7 +1,70 @@
 {
-  "generated_at": "2026-07-05T13:53:16.675424+00:00",
+  "generated_at": "2026-07-06T15:46:58.402130+00:00",
   "categories": {
     "Biotech": [
+      {
+        "id": "1868fd0cae924927",
+        "title": "STAT+: Online GLP-1 prescriptions are often fast, easy \u2014 and low on clinical oversight",
+        "url": "https://www.statnews.com/2026/07/06/glp-1-telehealth-prescriptions-jama-yale-secret-shopper-study/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 06 Jul 2026 15:00:00 +0000",
+        "published_dt": "2026-07-06T15:00:00+00:00",
+        "summary": "A new secret-shopper study found that GLP-1 prescriptions from telehealth sites aren't often backed by appropriate clinical care."
+      },
+      {
+        "id": "5fc6a083e074c13d",
+        "title": "STAT+: Four major biotech updates to catch up on",
+        "url": "https://www.statnews.com/2026/07/06/biotech-news-anthropic-ceo-dario-amodei-tempers-expectations/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 06 Jul 2026 13:37:50 +0000",
+        "published_dt": "2026-07-06T13:37:50+00:00",
+        "summary": "Anthropic CEO talks drug discovery, Medicare proposes steep 340B drug payment cuts, and more biotech news"
+      },
+      {
+        "id": "bd9a9a2ea4136c87",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about a Novartis acquisition, Republicans backing clinical trial diversity, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/07/06/novartis-buys-myricx-republicans-back-clinical-trial-diversity/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 06 Jul 2026 12:56:19 +0000",
+        "published_dt": "2026-07-06T12:56:19+00:00",
+        "summary": "Novartis is pushing deeper into antibody-drug conjugate development, paying $1.1 billion upfront to buy Myricx Bio"
+      },
+      {
+        "id": "844233d3b1d930ed",
+        "title": "The Download: South Korea\u2019s hottest bachelors, and advancing eye transplants",
+        "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 06 Jul 2026 13:00:00 +0000",
+        "published_dt": "2026-07-06T13:00:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea\u2019s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a year ago. In a&#8230;"
+      },
+      {
+        "id": "0d4b9990c04cd761",
+        "title": "STAT+: GOP lawmakers push Trump\u2019s FDA to make sure clinical trials are diverse",
+        "url": "https://www.statnews.com/2026/07/06/republican-lawmakers-attempt-clinical-trial-diversity-protection/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 06 Jul 2026 08:30:00 +0000",
+        "published_dt": "2026-07-06T08:30:00+00:00",
+        "summary": "Supporters say clinical trial diversity is about making sure drugs and devices work, not about DEI."
+      },
+      {
+        "id": "4e646b0f55a1b02c",
+        "title": "The race for an Ebola therapy begins",
+        "url": "https://www.statnews.com/2026/07/06/health-news-race-for-an-ebola-therapy-begins/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 06 Jul 2026 12:08:48 +0000",
+        "published_dt": "2026-07-06T12:08:48+00:00",
+        "summary": "Male marathoners \"hit the wall,\" mental health in 2026, and more Morning Rounds news"
+      },
+      {
+        "id": "2f01f8b7c7fd96a5",
+        "title": "Opinion: The smart way to regulate the peptide boom",
+        "url": "https://www.statnews.com/2026/07/06/peptides-regulation-fda-middle-ground-ban/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 06 Jul 2026 08:30:00 +0000",
+        "published_dt": "2026-07-06T08:30:00+00:00",
+        "summary": "\u201cThe FDA should pursue a structured, clinician-guided framework\u201d on popular peptides, writes former surgeon general Jerome Adams."
+      },
       {
         "id": "b0b6fcd9e64da327",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-gene-therapy-regulator-vijay-kumar-steps-down-leadership-role\" hreflang=\"en\">FDA gene therapy regulator Vijay Kumar steps down from leadership role</a>",
@@ -19,6 +82,51 @@
         "published": "Jun 30, 2026 9:16am",
         "published_dt": "2026-06-30T09:16:00+00:00",
         "summary": "Vistagen\u2019s social anxiety disorder drug candidate has flunked another phase 3 trial. But, with a post hoc subpopulation analysis linking fasedienol to a nominally statistically significant improvement, the biotech plans to talk to the FDA about a path to approval built around a single future phase 3 study and confirmatory evidence from its broader PALISADE program."
+      },
+      {
+        "id": "df7d301033bb13d1",
+        "title": "South Korea\u2019s hottest new bachelors are chip workers",
+        "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 06 Jul 2026 09:00:00 +0000",
+        "published_dt": "2026-07-06T09:00:00+00:00",
+        "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to be&#8230;"
+      },
+      {
+        "id": "90d8290e0a676937",
+        "title": "STAT+: I spoke to Anthropic\u2019s CEO about how AI may affect biotech. Here\u2019s what I learned",
+        "url": "https://www.statnews.com/2026/07/06/anthropic-ai-biotech-impact/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 06 Jul 2026 08:30:00 +0000",
+        "published_dt": "2026-07-06T08:30:00+00:00",
+        "summary": "Call AI in biotech hype at your peril. There are real reasons that pharmaceutical companies are embracing this technology right now."
+      },
+      {
+        "id": "81b44144a45f5710",
+        "title": "Opinion: Stopping doctors from ordering unnecessary diagnostic tests requires a structural fix",
+        "url": "https://www.statnews.com/2026/07/06/unnecessary-medical-tests-diagnostic-stewardship/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 06 Jul 2026 08:30:00 +0000",
+        "published_dt": "2026-07-06T08:30:00+00:00",
+        "summary": "\u201cThe medical industry has spent enormous effort making more advanced tests but expended little effort learning how to use tests correctly,\u201d writes Daniel Morgan."
+      },
+      {
+        "id": "83c7e8d04b03f379",
+        "title": "What does content creation do to mental health?",
+        "url": "https://www.statnews.com/2026/07/06/vidcon-topic-mental-health-content-creators-status-report-alex-hogan/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 06 Jul 2026 08:00:00 +0000",
+        "published_dt": "2026-07-06T08:00:00+00:00",
+        "summary": "This year at Vidcon, I was struck by how much of the conference\u2019s programming was dedicated to the mental health of content creators."
+      },
+      {
+        "id": "5728afa78d3f932b",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/scribe-pens-ipo-ambitions-push-lipid-lowering-genetic-meds-through-clinic-trials\" hreflang=\"en\">Scribe notes down IPO ambition to fund lipid-lowering genetic meds through clinical trials</a>",
+        "url": "https://www.fiercebiotech.com/biotech/scribe-pens-ipo-ambitions-push-lipid-lowering-genetic-meds-through-clinic-trials",
+        "source": "Fierce Biotech",
+        "published": "Jul 3, 2026 11:11am",
+        "published_dt": "2026-07-03T11:11:00+00:00",
+        "summary": "Scribe Therapeutics is the latest biotech to prepare a public listing, as the company looks to propel its lipid-lowering medicines through clinical trials."
       },
       {
         "id": "e3ad169b97488c78",
@@ -39,6 +147,15 @@
         "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&#8230;"
       },
       {
+        "id": "8aa7232d328d9c93",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/caris-life-sciences-launches-cancer-blood-test-caris-detect\" hreflang=\"en\">Caris Life Sciences launches cancer blood test \u2018Caris Detect\u2019</a>",
+        "url": "https://www.fiercebiotech.com/medtech/caris-life-sciences-launches-cancer-blood-test-caris-detect",
+        "source": "Fierce Biotech",
+        "published": "Jul 2, 2026 9:22am",
+        "published_dt": "2026-07-02T09:22:00+00:00",
+        "summary": "Caris Life Sciences has launched a new oncology blood test designed alongside AI modelling to pick up cancer at earlier stages."
+      },
+      {
         "id": "06cd03abddd46e89",
         "title": "STAT+: A \u2018historic\u2019 FDA clearance raises the question: Is the LLM an interface or the decision-maker?",
         "url": "https://www.statnews.com/2026/07/02/fda-clearance-raises-questions-updoc-use-generative-ai-diabetes-treatment/?utm_campaign=rss",
@@ -46,15 +163,6 @@
         "published": "Thu, 02 Jul 2026 08:30:00 +0000",
         "published_dt": "2026-07-02T08:30:00+00:00",
         "summary": "The newly cleared device is based around an app that helps a patient manage their diabetes using a treatment plan defined by their doctor."
-      },
-      {
-        "id": "d46e7543d2766188",
-        "title": "STAT+: A former AI regulator, now in industry, says biopharma is reading FDA\u2019s guidance wrong",
-        "url": "https://www.statnews.com/2026/07/02/fda-ai-guidance-pharma-industry-caution-tala-fakhouri-explains/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 02 Jul 2026 08:30:00 +0000",
-        "published_dt": "2026-07-02T08:30:00+00:00",
-        "summary": "Companies are being too conservative in how they interpret FDA's AI guidance, but the agency can do more to help, too, Tala Fakhouri says."
       },
       {
         "id": "9c361128ae154dc9",
@@ -75,49 +183,22 @@
         "summary": "Merck &amp; Co. has nixed the phase 2 study of a potential Alzheimer\u2019s disease medicine after the drug underwhelmed in an interim analysis, marking another blow for the pharma\u2019s struggling partner Neuphoria Therapeutics."
       },
       {
-        "id": "df974f77ac4098f8",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/praxis-faces-fda-delay-analysts-point-finger-agency-layoffs\" hreflang=\"en\">Praxis faces FDA decision delay as analysts point finger at agency layoffs</a>",
-        "url": "https://www.fiercebiotech.com/biotech/praxis-faces-fda-delay-analysts-point-finger-agency-layoffs",
+        "id": "5fec5e4a56f34414",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-pay-11b-upfront-myricx-expand-adc-pipeline\" hreflang=\"en\">Novartis to pay $1.1B upfront for UK biotech Myricx to expand the pharma's ADC pipeline</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-pay-11b-upfront-myricx-expand-adc-pipeline",
         "source": "Fierce Biotech",
-        "published": "Jun 30, 2026 4:14am",
-        "published_dt": "2026-06-30T04:14:00+00:00",
-        "summary": "The FDA has delayed a decision on the approval of Praxis Precision Medicine\u2019s rare epilepsy prospect by three months. TD Cowen analysts said they \u201cstrongly believe FDA bandwidth constraints from last year\u2019s agency downsizing likely contributed to the delay.\u201d"
+        "published": "Jul 6, 2026 4:22am",
+        "published_dt": "2026-07-06T04:22:00+00:00",
+        "summary": "Novartis is pushing deeper into antibody-drug conjugate development, paying $1.1 billion upfront to buy Myricx Bio for a pipeline based on a novel payload."
       },
       {
-        "id": "861e11fab568d25b",
-        "title": "<a href=\"https://www.fiercebiotech.com/manufacturing/fda-rejects-sobi-gout-drug-over-manufacturing-issues-sparing-amgen-blockbuster\" hreflang=\"en\">FDA rejects Sobi\u2019s gout drug over manufacturing issues, sparing Amgen blockbuster</a>",
-        "url": "https://www.fiercebiotech.com/manufacturing/fda-rejects-sobi-gout-drug-over-manufacturing-issues-sparing-amgen-blockbuster",
+        "id": "5330118d4287fa31",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/genentech-sees-103-roles-impacted-gred-rethink-pens-490m-breast-cancer-collab\" hreflang=\"en\">Genentech lays off 103 alongside gRED rethink, pens $490M breast cancer collab</a>",
+        "url": "https://www.fiercebiotech.com/biotech/genentech-sees-103-roles-impacted-gred-rethink-pens-490m-breast-cancer-collab",
         "source": "Fierce Biotech",
-        "published": "Jun 29, 2026 10:53am",
-        "published_dt": "2026-06-29T10:53:00+00:00",
-        "summary": "Sobi\u2019s plan to introduce a challenger to Amgen\u2019s blockbuster gout drug Krystexxa has been put on hold by the FDA."
-      },
-      {
-        "id": "890761cc3693db90",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/evommunes-phase-2b-flops-ending-challenge-novartis-hives\" hreflang=\"en\">Evommune\u2019s phase 2b trial flops, ending challenge to Novartis in hives</a>",
-        "url": "https://www.fiercebiotech.com/biotech/evommunes-phase-2b-flops-ending-challenge-novartis-hives",
-        "source": "Fierce Biotech",
-        "published": "Jun 29, 2026 9:38am",
-        "published_dt": "2026-06-29T09:38:00+00:00",
-        "summary": "A phase 2b trial of Evommune\u2019s EVO756 has missed its primary endpoint, wiping out a would-be rival to Novartis for the chronic spontaneous urticaria market."
-      },
-      {
-        "id": "870e26d5cbb9f36c",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/production-problems-hamper-lantheus-bid-fda-approval-radiopharma-dx-kit\" hreflang=\"en\">Production problems hamper Lantheus bid for FDA approval of radiopharma dx kit</a>",
-        "url": "https://www.fiercebiotech.com/medtech/production-problems-hamper-lantheus-bid-fda-approval-radiopharma-dx-kit",
-        "source": "Fierce Biotech",
-        "published": "Jun 29, 2026 8:34am",
-        "published_dt": "2026-06-29T08:34:00+00:00",
-        "summary": "The FDA dealt Lantheus\u2019 bid to garner approval of its radiodiopharmaceutical diagnostic kit a setback due to manufacturing issues at a third-party facility."
-      },
-      {
-        "id": "6dfbed3be45a5357",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/united-therapeutics-nabs-fda-approval-donor-lungs-assessment-device\" hreflang=\"en\">United Therapeutics nabs FDA approval for donor-lung assessment device  </a>",
-        "url": "https://www.fiercebiotech.com/medtech/united-therapeutics-nabs-fda-approval-donor-lungs-assessment-device",
-        "source": "Fierce Biotech",
-        "published": "Jun 29, 2026 7:35am",
-        "published_dt": "2026-06-29T07:35:00+00:00",
-        "summary": "United Therapeutics has been given a premarket approval from the FDA for its LungFX device."
+        "published": "Jul 5, 2026 9:01am",
+        "published_dt": "2026-07-05T09:01:00+00:00",
+        "summary": "A month after Genentech confirmed the restructuring of its early development group, the Roche subsidiary has now disclosed that this has formed part of a round of 103 layoffs."
       },
       {
         "id": "e9d4a7b772175cb6",
@@ -138,97 +219,133 @@
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK\u2019s generational tobacco ban might not work. I\u2019m supporting it anyway. \u2014Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from&#8230;"
       },
       {
-        "id": "bd9b023baea03c90",
-        "title": "The UK\u2019s generational tobacco ban might not work. I\u2019m supporting it anyway.",
-        "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 03 Jul 2026 09:00:00 +0000",
-        "published_dt": "2026-07-03T09:00:00+00:00",
-        "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevailing sentiment when I was young.&#8230;"
-      },
-      {
-        "id": "335c8160c79037e2",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/united-therapeutics-pays-140m-thymic-cell-therapy-startup\" hreflang=\"en\">United Therapeutics pays $140M for thymic cell therapy startup</a>",
-        "url": "https://www.fiercebiotech.com/biotech/united-therapeutics-pays-140m-thymic-cell-therapy-startup",
+        "id": "8c1b6aeb07954031",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/exact-imaging-boosts-us-commercial-team-next-gen-prostate-cancer-testing-tech\" hreflang=\"en\">Exact Imaging boosts U.S. commercial team for next-gen prostate cancer testing tech</a>",
+        "url": "https://www.fiercebiotech.com/medtech/exact-imaging-boosts-us-commercial-team-next-gen-prostate-cancer-testing-tech",
         "source": "Fierce Biotech",
-        "published": "Jul 3, 2026 5:50am",
-        "published_dt": "2026-07-03T05:50:00+00:00",
-        "summary": "United Therapeutics has paid $140 million to buy Thymmune Therapeutics for preclinical regenerative cell therapies focused on the thymus."
-      },
-      {
-        "id": "a3795ca2d0819501",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-pays-go-chinese-partner-cspc-30m-form-kidney-drug-discovery-pact\" hreflang=\"en\">AstraZeneca pens $1.7B kidney drug discovery pact with go-to Chinese partner CSPC</a>",
-        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-pays-go-chinese-partner-cspc-30m-form-kidney-drug-discovery-pact",
-        "source": "Fierce Biotech",
-        "published": "Jul 3, 2026 4:26am",
-        "published_dt": "2026-07-03T04:26:00+00:00",
-        "summary": "AstraZeneca has added another piece to its sprawling interface with CSPC Pharmaceutical, paying the Chinese biotech $30 million upfront to jointly discover and develop two kidney disease drug candidates."
-      },
-      {
-        "id": "44a3d35c289c61da",
-        "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
-        "url": "https://www.statnews.com/2026/07/02/medicare-hospital-payment-340b-drugs-cut/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 02 Jul 2026 19:52:19 +0000",
-        "published_dt": "2026-07-02T19:52:19+00:00",
-        "summary": "Reducing Medicare payments for 340B drugs is the latest proposal focused on the hotly debated drug discount program."
-      },
-      {
-        "id": "023210a7a96fedbb",
-        "title": "STAT+: Lawmakers urge HHS to force Eli Lilly to provide 340B drug discounts to hospitals",
-        "url": "https://www.statnews.com/pharmalot/2026/07/02/lawmakers-urge-lilly-to-provide-340b-drug-discounts-to-hospitals/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 02 Jul 2026 19:52:14 +0000",
-        "published_dt": "2026-07-02T19:52:14+00:00",
-        "summary": "Lawmakers step into a dispute between Eli Lilly and hospitals about the 340b drug discount program."
-      },
-      {
-        "id": "12b6ffe6cb063985",
-        "title": "STAT+: Elevance sues government over $115 million tied to Medicare Advantage star ratings",
-        "url": "https://www.statnews.com/2026/07/02/elevance-lawsuit-medicare-advantage-star-ratings-clover/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 02 Jul 2026 18:34:05 +0000",
-        "published_dt": "2026-07-02T18:34:05+00:00",
-        "summary": "The health insurer says CMS didn't calculate its star ratings appropriately."
-      },
-      {
-        "id": "1ac10689c22cf00d",
-        "title": "STAT+: Up and down the ladder: The latest comings and goings",
-        "url": "https://www.statnews.com/pharmalot/2026/07/02/pharma-biotech-jobs-ladder-vertex-gilead-astrazeneca-lilly/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 02 Jul 2026 17:32:09 +0000",
-        "published_dt": "2026-07-02T17:32:09+00:00",
-        "summary": "Hired someone new and exciting? Promoted a rising star? Finally solved that hard-to-fill spot? Share the news with us, and we\u2019ll share it with others."
-      },
-      {
-        "id": "9f8d04f9c412e660",
-        "title": "STAT+: What does DeGette\u2019s loss mean for pharma?",
-        "url": "https://www.statnews.com/2026/07/02/degette-loses-to-kiros-pharma-presidential-fitness-test-dc-diagnosis/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 02 Jul 2026 16:09:48 +0000",
-        "published_dt": "2026-07-02T16:09:48+00:00",
-        "summary": "Colorado Democratic Rep. Diana DeGette, who lost her primary, was knowledgeable about biopharma, if not always a friend to the industry."
-      },
-      {
-        "id": "b1b2af342043c94a",
-        "title": "Achieving operational excellence with AI",
-        "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 02 Jul 2026 15:37:08 +0000",
-        "published_dt": "2026-07-02T15:37:08+00:00",
-        "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos\u2014a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to&#8230;"
-      },
-      {
-        "id": "d605cb9087e2037e",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about a court win for Amgen, Novo seeking supplier discounts, and more",
-        "url": "https://www.statnews.com/pharmalot/2026/07/02/amgen-court-win-novo-seeking-supplier-discounts/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 02 Jul 2026 13:25:04 +0000",
-        "published_dt": "2026-07-02T13:25:04+00:00",
-        "summary": "U.S. judge blocked a Colorado state panel from placing a cap on the price of Amgen's blockbuster drug Enbrel"
+        "published": "Jul 3, 2026 10:48am",
+        "published_dt": "2026-07-03T10:48:00+00:00",
+        "summary": "Exact Imaging is looking to broaden uptake of its high-resolution micro-ultrasound system for prostate cancer screening and is boosting its commercial team to help."
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "01c2830e2544daf5",
+        "title": "Castelion readies for U.S. Army, Navy demos of its hypersonic missiles",
+        "url": "https://aerospaceamerica.aiaa.org/castelion-readies-for-u-s-army-navy-demos-of-its-hypersonic-missiles/",
+        "source": "Aerospace America",
+        "published": "Mon, 06 Jul 2026 13:17:41 +0000",
+        "published_dt": "2026-07-06T13:17:41+00:00",
+        "summary": ""
+      },
+      {
+        "id": "d9521b65dcd20941",
+        "title": "The term \u2018dual-use\u2019 is misleading and dangerous",
+        "url": "https://spacenews.com/the-term-dual-use-is-misleading-and-dangerous/",
+        "source": "SpaceNews",
+        "published": "Mon, 06 Jul 2026 13:00:00 +0000",
+        "published_dt": "2026-07-06T13:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"618\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2022/06/United-Kingdom.jpg?fit=1024%2C618&amp;ssl=1\" width=\"1024\" /></figure>\n<p>There is only technology. How it is employed is a question of intent, context and political will, not of the technology itself. A precision optical payload captures imagery whether the [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/the-term-dual-use-is-misleading-and-dangerous/\">The term \u2018dual-use&#8217; is misleading and dangerous</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "b933c486dbc3f4f5",
+        "title": "BAE microchip designed for strategic defense missions passes radiation test",
+        "url": "https://spacenews.com/bae-microchip-designed-for-strategic-defense-missions-passes-radiation-test/",
+        "source": "SpaceNews",
+        "published": "Mon, 06 Jul 2026 13:00:00 +0000",
+        "published_dt": "2026-07-06T13:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Endura_3_gold_26_a57_169.webp?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The company is positioning its Endura computing for classified and missile-defense satellite programs</p>\n<p>The post <a href=\"https://spacenews.com/bae-microchip-designed-for-strategic-defense-missions-passes-radiation-test/\">BAE microchip designed for strategic defense missions passes radiation test</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "23b46f8357be66fa",
+        "title": "Mouser receives HARTING distributor award for 2026",
+        "url": "https://www.engineering.com/mouser-receives-harting-distributor-award-for-2026/",
+        "source": "Engineering.com",
+        "published": "Mon, 06 Jul 2026 12:23:40 +0000",
+        "published_dt": "2026-07-06T12:23:40+00:00",
+        "summary": "<p>The distributor also received a separate award for new product sales growth and has carried HARTING products since 2003.</p>\n<p>The post <a href=\"https://www.engineering.com/mouser-receives-harting-distributor-award-for-2026/\">Mouser receives HARTING distributor award for 2026</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "36ead5dcf3735ec3",
+        "title": "Connected Aircraft Fleet Set to Exceed 70,000 by 2035",
+        "url": "https://spacenews.com/connected-aircraft-fleet-set-to-exceed-70000-by-2035/",
+        "source": "SpaceNews",
+        "published": "Mon, 06 Jul 2026 12:00:00 +0000",
+        "published_dt": "2026-07-06T12:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Untitled-1080-x-1080-px-1.png?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Paris, France\u00a0&#124; May 2026 \u2013\u00a0Novaspace\u2019s\u00a0latest\u00a0In-Flight Connectivity\u00a0report points to sustained, long-term growth in the In-Flight Connectivity (IFC) market, with\u00a0connected\u00a0aircraft\u00a0numbers to\u00a0exceed 70,000 by 2035.\u00a0Simultaneously, IFC penetration is expected to rise from 48% [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/connected-aircraft-fleet-set-to-exceed-70000-by-2035/\">Connected Aircraft Fleet Set to Exceed 70,000 by 2035</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "4325bb94b2319ec8",
+        "title": "Pomini Tenova and Siemens expand roll grinder partnership",
+        "url": "https://www.engineering.com/pomini-tenova-and-siemens-expand-roll-grinder-partnership/",
+        "source": "Engineering.com",
+        "published": "Mon, 06 Jul 2026 11:53:46 +0000",
+        "published_dt": "2026-07-06T11:53:46+00:00",
+        "summary": "<p>The collaboration focuses on machine revamps, predictive maintenance, digital monitoring and more autonomous grinder operation.</p>\n<p>The post <a href=\"https://www.engineering.com/pomini-tenova-and-siemens-expand-roll-grinder-partnership/\">Pomini Tenova and Siemens expand roll grinder partnership</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "432ac4530b60552b",
+        "title": "Nemetschek completes acquisition of HCSS",
+        "url": "https://www.engineering.com/nemetschek-completes-acquisition-of-hcss/",
+        "source": "Engineering.com",
+        "published": "Mon, 06 Jul 2026 11:40:00 +0000",
+        "published_dt": "2026-07-06T11:40:00+00:00",
+        "summary": "<p>HCSS joins the Build &#038; Construct segment, where Thoma Bravo now holds a 28% minority stake after the transaction.</p>\n<p>The post <a href=\"https://www.engineering.com/nemetschek-completes-acquisition-of-hcss/\">Nemetschek completes acquisition of HCSS</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "347b686173201d64",
+        "title": "Verkada collaborates with NVIDIA on physical AI",
+        "url": "https://www.engineering.com/verkada-collaborates-with-nvidia-on-physical-ai/",
+        "source": "Engineering.com",
+        "published": "Mon, 06 Jul 2026 11:18:37 +0000",
+        "published_dt": "2026-07-06T11:18:37+00:00",
+        "summary": "<p>NVIDIA also invested in Verkada as the companies work on video search, synthetic data and AI models for site monitoring.</p>\n<p>The post <a href=\"https://www.engineering.com/verkada-collaborates-with-nvidia-on-physical-ai/\">Verkada collaborates with NVIDIA on physical AI</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "1ea2e88b22c50a4f",
+        "title": "Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard",
+        "url": "https://spacenews.com/centre-for-space-futures-novaspace-and-spacetech-gulf-sign-agreement-to-develop-global-space-capability-mapping-dashboard/",
+        "source": "SpaceNews",
+        "published": "Mon, 06 Jul 2026 10:00:00 +0000",
+        "published_dt": "2026-07-06T10:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Untitled-1080-x-1080-px.png?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Riyadh, Saudi Arabia \u2013 June, 2026 The Centre for Space Futures (CSF), together with leading international partners including Novaspace, and SpaceTech Gulf, have signed a Memorandum of Cooperation (MoC) to [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/centre-for-space-futures-novaspace-and-spacetech-gulf-sign-agreement-to-develop-global-space-capability-mapping-dashboard/\">Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "9cbe60838fc137e9",
+        "title": "Infineon opens Dresden semiconductor fab ahead of schedule",
+        "url": "https://www.engineering.com/infineon-opens-dresden-semiconductor-fab-ahead-of-schedule/",
+        "source": "Engineering.com",
+        "published": "Mon, 06 Jul 2026 09:37:00 +0000",
+        "published_dt": "2026-07-06T09:37:00+00:00",
+        "summary": "<p>The 5 billion-euro plant adds 1,000 direct jobs and expands chip production for industrial, automotive and AI-related uses.</p>\n<p>The post <a href=\"https://www.engineering.com/infineon-opens-dresden-semiconductor-fab-ahead-of-schedule/\">Infineon opens Dresden semiconductor fab ahead of schedule</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "32e05206bc9a3930",
+        "title": "Tianwen-2 arrives at asteroid Kamo\u2019oalewa, first image revealed",
+        "url": "https://spacenews.com/tianwen-2-arrives-at-asteroid-kamooalewa-first-image-revealed/",
+        "source": "SpaceNews",
+        "published": "Mon, 06 Jul 2026 09:14:36 +0000",
+        "published_dt": "2026-07-06T09:14:36+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"611\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Tianwen2-kamooalewa-20km-july-2026-CNSA.jpg?fit=592%2C611&amp;ssl=1\" width=\"592\" /></figure>\n<p>HELSINKI \u2014 China\u2019s Tianwen-2 sample return spacecraft has arrived at Kamo\u02bboalewa, revealing the near Earth asteroid to be a small, elongated rocky body. Tianwen-2 launched May 29, 2025, and traveled [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/tianwen-2-arrives-at-asteroid-kamooalewa-first-image-revealed/\">Tianwen-2 arrives at asteroid Kamo&#8217;oalewa, first image revealed\u00a0</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "2af485179421e3d9",
+        "title": "SiTime completes acquisition of Renesas timing assets",
+        "url": "https://www.engineering.com/sitime-completes-acquisition-of-renesas-timing-assets/",
+        "source": "Engineering.com",
+        "published": "Mon, 06 Jul 2026 08:47:00 +0000",
+        "published_dt": "2026-07-06T08:47:00+00:00",
+        "summary": "<p>The deal expands SiTime\u2019s clocking portfolio and adds a customer base focused largely on AI, datacenter and communications markets.</p>\n<p>The post <a href=\"https://www.engineering.com/sitime-completes-acquisition-of-renesas-timing-assets/\">SiTime completes acquisition of Renesas timing assets</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "2f6d2e6f15351770",
+        "title": "Keysight and WIN link design tools for GaN MMIC workflow",
+        "url": "https://www.engineering.com/keysight-and-win-link-design-tools-for-gan-mmic-workflow/",
+        "source": "Engineering.com",
+        "published": "Mon, 06 Jul 2026 08:42:00 +0000",
+        "published_dt": "2026-07-06T08:42:00+00:00",
+        "summary": "<p>The setup combines chip simulation, layout verification and evaluation board design to reduce respins before fabrication.</p>\n<p>The post <a href=\"https://www.engineering.com/keysight-and-win-link-design-tools-for-gan-mmic-workflow/\">Keysight and WIN link design tools for GaN MMIC workflow</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
       {
         "id": "2661e7c669bf0e02",
         "title": "Chinese satellite manufacturer Hongqing raises $191 million",
@@ -266,15 +383,6 @@
         "summary": "<p>The Johor site adds assembly and testing capacity for liquid cooling, power modules and prefabricated infrastructure systems.</p>\n<p>The post <a href=\"https://www.engineering.com/vertiv-opens-manufacturing-facility-in-malaysia/\">Vertiv opens manufacturing facility in Malaysia</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "8223b316f6df99c6",
-        "title": "Vast names Isakowitz as a senior adviser",
-        "url": "https://spacenews.com/vast-names-isakowitz-as-a-senior-adviser/",
-        "source": "SpaceNews",
-        "published": "Tue, 30 Jun 2026 13:00:00 +0000",
-        "published_dt": "2026-06-30T13:00:00+00:00",
-        "summary": "<figure><img alt=\"Haven-1 integration\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/haven1-integration.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Commercial space station developer Vast named the former president and chief executive of The Aerospace Corp. as an adviser while the company awaits the next phase of a NASA program.</p>\n<p>The post <a href=\"https://spacenews.com/vast-names-isakowitz-as-a-senior-adviser/\">Vast names Isakowitz as a senior adviser</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
         "id": "160f2bb071919757",
         "title": "U.S. Army expands advanced manufacturing of drone components at Pennsylvania depot",
         "url": "https://aerospaceamerica.aiaa.org/u-s-army-expands-advanced-manufacturing-of-drone-components-at-pennsylvania-depot/",
@@ -291,6 +399,24 @@
         "published": "Fri, 19 Jun 2026 13:00:00 +0000",
         "published_dt": "2026-06-19T13:00:00+00:00",
         "summary": ""
+      },
+      {
+        "id": "d43774c6fae198ad",
+        "title": "NASA and Small Business Administration partner on funding key space technologies",
+        "url": "https://spacenews.com/nasa-and-small-business-administration-partner-on-funding-key-space-technologies/",
+        "source": "SpaceNews",
+        "published": "Mon, 06 Jul 2026 01:43:42 +0000",
+        "published_dt": "2026-07-06T01:43:42+00:00",
+        "summary": "<figure><img alt=\"NASA SBA signing\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/55364807011_9b87d7fd6c_k.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA is partnering with the U.S. Small Business Administration (SBA) on an effort to attract capital to invest in companies producing critical space components.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-and-small-business-administration-partner-on-funding-key-space-technologies/\">NASA and Small Business Administration partner on funding key space technologies</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "1a8abb3983d36647",
+        "title": "Airbus to build Aeolus-2 wind-monitoring satellite",
+        "url": "https://spacenews.com/airbus-to-build-aeolus-2-wind-monitoring-satellite/",
+        "source": "SpaceNews",
+        "published": "Sun, 05 Jul 2026 15:17:47 +0000",
+        "published_dt": "2026-07-05T15:17:47+00:00",
+        "summary": "<figure><img alt=\"Aeolus-2\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"724\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/aeolus2.jpeg?fit=1024%2C724&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The European Space Agency has selected Airbus Defence and Space to start work on the successor to a wind-monitoring satellite.</p>\n<p>The post <a href=\"https://spacenews.com/airbus-to-build-aeolus-2-wind-monitoring-satellite/\">Airbus to build Aeolus-2 wind-monitoring satellite</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "803684de55c010ea",
@@ -327,143 +453,26 @@
         "published": "Thu, 02 Jul 2026 17:38:50 +0000",
         "published_dt": "2026-07-02T17:38:50+00:00",
         "summary": "<figure><img alt=\"An optical system developed by Sybilla Technologies. Credit: Sybilla Technologies\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Photo-by-Sybilla-Technologies.jpg?fit=768%2C1024&amp;ssl=1\" width=\"768\" /></figure>\n<p>WARSAW, Poland \u2014 The Polish state-owned bank BGK and European venture capital firm 3TS Capital Partners have unveiled an investment of around 35 million zloty ($10 million) in Poland\u2019s space [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/polish-space-tech-company-sybilla-technologies-secures-funds-to-enter-u-s-market/\">Polish space tech company Sybilla Technologies secures funds to enter U.S. market</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "8128b2cf2f47e58a",
-        "title": "FAA releases draft of new commercial supersonic flight regulations",
-        "url": "https://aerospaceamerica.aiaa.org/faa-releases-draft-of-new-commercial-supersonic-flight-regulations/",
-        "source": "Aerospace America",
-        "published": "Thu, 02 Jul 2026 16:36:51 +0000",
-        "published_dt": "2026-07-02T16:36:51+00:00",
-        "summary": ""
-      },
-      {
-        "id": "638feecbf0a668dc",
-        "title": "Making satellite communications more resilient",
-        "url": "https://spacenews.com/making-satellite-communications-more-resilient/",
-        "source": "SpaceNews",
-        "published": "Thu, 02 Jul 2026 13:50:47 +0000",
-        "published_dt": "2026-07-02T13:50:47+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/space-minds-podcast-kymeta-2000-1500.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>In this episode of Space Minds, Mike Gruss talks with Kymeta\u2019s Ryan Stevenson. They discuss the benefits and challenges of multi-orbit and multi-band connectivity in a single terminal. About Space [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/making-satellite-communications-more-resilient/\">Making satellite communications more resilient</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "5c79f5f5173fc2d3",
-        "title": "Mastercam 2027 adds automation and setup updates",
-        "url": "https://www.engineering.com/mastercam-2027-adds-automation-and-setup-updates/",
-        "source": "Engineering.com",
-        "published": "Thu, 02 Jul 2026 11:50:59 +0000",
-        "published_dt": "2026-07-02T11:50:59+00:00",
-        "summary": "<p>The release includes smoother toolpath motion, expanded deburring controls and revised Mill-Turn configuration workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/mastercam-2027-adds-automation-and-setup-updates/\">Mastercam 2027 adds automation and setup updates</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "c81f8846cf1bfbde",
-        "title": "ScanSource expands HPE networking partnership",
-        "url": "https://www.engineering.com/scansource-expands-hpe-networking-partnership/",
-        "source": "Engineering.com",
-        "published": "Thu, 02 Jul 2026 11:46:24 +0000",
-        "published_dt": "2026-07-02T11:46:24+00:00",
-        "summary": "<p>ScanSource, Inc. announced an expanded partnership with HPE, which includes HPE Juniper Networking, a leader in essential enterprise technology. The addition of the combined HPE Networking portfolio enhances ScanSource\u2019s ability to seamlessly connect networking and security solutions for partners, allowing for improved network performance, simplified operations and increased efficiency for their end users. The partnership [&#8230;]</p>\n<p>The post <a href=\"https://www.engineering.com/scansource-expands-hpe-networking-partnership/\">ScanSource expands HPE networking partnership</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "c8a02d9293292b9a",
-        "title": "Sirin Software joins Alif partner ecosystem",
-        "url": "https://www.engineering.com/sirin-software-joins-alif-partner-ecosystem/",
-        "source": "Engineering.com",
-        "published": "Thu, 02 Jul 2026 11:41:27 +0000",
-        "published_dt": "2026-07-02T11:41:27+00:00",
-        "summary": "<p>The company will support OEMs with firmware, drivers and middleware for IoT and EdgeAI processor integration.</p>\n<p>The post <a href=\"https://www.engineering.com/sirin-software-joins-alif-partner-ecosystem/\">Sirin Software joins Alif partner ecosystem</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "37b57a83a22cf069",
-        "title": "Mitsubishi Electric acquires Infostellar for ground services",
-        "url": "https://www.engineering.com/mitsubishi-electric-acquires-infostellar-for-ground-services/",
-        "source": "Engineering.com",
-        "published": "Thu, 02 Jul 2026 11:15:00 +0000",
-        "published_dt": "2026-07-02T11:15:00+00:00",
-        "summary": "<p>The deal adds cloud-based GSaaS capabilities to support satellite operators using small constellation networks.</p>\n<p>The post <a href=\"https://www.engineering.com/mitsubishi-electric-acquires-infostellar-for-ground-services/\">Mitsubishi Electric acquires Infostellar for ground services</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "43b1a004f8618442",
-        "title": "Roland DG introduces EUV-H UV hard ink",
-        "url": "https://www.engineering.com/roland-dg-introduces-euv-h-uv-hard-ink/",
-        "source": "Engineering.com",
-        "published": "Thu, 02 Jul 2026 10:53:24 +0000",
-        "published_dt": "2026-07-02T10:53:24+00:00",
-        "summary": "<p>The formulation adds scratch, chemical and weather resistance for printing on plastic, glass and metal surfaces.</p>\n<p>The post <a href=\"https://www.engineering.com/roland-dg-introduces-euv-h-uv-hard-ink/\">Roland DG introduces EUV-H UV hard ink</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "9ec009a4c2fa234e",
-        "title": "Oasys PRIMER 23 adds broader CAD import support",
-        "url": "https://www.engineering.com/oasys-primer-23-adds-broader-cad-import-support/",
-        "source": "Engineering.com",
-        "published": "Thu, 02 Jul 2026 10:34:00 +0000",
-        "published_dt": "2026-07-02T10:34:00+00:00",
-        "summary": "<p>The update expands file handling from three to 16 formats to reduce CAD conversion steps in LS-DYNA model preparation.</p>\n<p>The post <a href=\"https://www.engineering.com/oasys-primer-23-adds-broader-cad-import-support/\">Oasys PRIMER 23 adds broader CAD import support</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "89c77df062fa851b",
-        "title": "Final Atlas 5 Amazon Leo mission launches",
-        "url": "https://spacenews.com/final-atlas-5-amazon-leo-mission-launches/",
-        "source": "SpaceNews",
-        "published": "Thu, 02 Jul 2026 09:54:25 +0000",
-        "published_dt": "2026-07-02T09:54:25+00:00",
-        "summary": "<figure><img alt=\"Atlas 5 launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/ULA_AtlasV_AmazonLeo8_Launch_070226.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>An Atlas 5 lifted off July 2 carrying a set of Amazon Leo satellites in the final launch by that vehicle to carry a satellite payload.</p>\n<p>The post <a href=\"https://spacenews.com/final-atlas-5-amazon-leo-mission-launches/\">Final Atlas 5 Amazon Leo mission launches</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "a9ff6a508ebf761d",
-        "title": "OMRON names Sager Electronics distributor of the year",
-        "url": "https://www.engineering.com/omron-names-sager-electronics-distributor-of-the-year/",
-        "source": "Engineering.com",
-        "published": "Thu, 02 Jul 2026 05:07:40 +0000",
-        "published_dt": "2026-07-02T05:07:40+00:00",
-        "summary": "<p>The recognition was presented at the EDS Leadership Summit, with a $5,000 donation going to a Massachusetts nonprofit.</p>\n<p>The post <a href=\"https://www.engineering.com/omron-names-sager-electronics-distributor-of-the-year/\">OMRON names Sager Electronics distributor of the year</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "23563e2f81f5be2c",
-        "title": "Report links Starliner problems to overconfidence and unrealistic schedules",
-        "url": "https://spacenews.com/report-links-starliner-problems-to-overconfidence-and-unrealistic-schedules/",
-        "source": "SpaceNews",
-        "published": "Wed, 01 Jul 2026 22:19:01 +0000",
-        "published_dt": "2026-07-01T22:19:01+00:00",
-        "summary": "<figure><img alt=\"Starliner undocking\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/53988402529_bec93e5a26_k.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A new report links the long-running technical problems with Boeing\u2019s CST-100 Starliner commercial crew vehicle to a combination of overconfidence, unrealistic schedules and NASA\u2019s lack of insight into the vehicle.</p>\n<p>The post <a href=\"https://spacenews.com/report-links-starliner-problems-to-overconfidence-and-unrealistic-schedules/\">Report links Starliner problems to overconfidence and unrealistic schedules</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "735719d1a742e9b1",
-        "title": "FCC to vote on satellite licensing overhaul July 22",
-        "url": "https://spacenews.com/fcc-to-vote-on-satellite-licensing-overhaul-july-22/",
-        "source": "SpaceNews",
-        "published": "Wed, 01 Jul 2026 19:45:36 +0000",
-        "published_dt": "2026-07-01T19:45:36+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"704\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/FCC-chairman-scaled.jpeg?fit=1024%2C704&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The FCC is set to vote July 22 on an order to overhaul its satellite application process, creating a \u201clicensing assembly line\u201d to keep up with increasingly large and complex constellation plans.</p>\n<p>The post <a href=\"https://spacenews.com/fcc-to-vote-on-satellite-licensing-overhaul-july-22/\">FCC to vote on satellite licensing overhaul July 22</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "6fd6c72b39c3c2f5",
-        "title": "Space Force\u2019s proposed budget increase would largely go to existing programs, official says",
-        "url": "https://aerospaceamerica.aiaa.org/space-forces-proposed-budget-increase-would-largely-go-to-existing-programs-official-says/",
-        "source": "Aerospace America",
-        "published": "Wed, 01 Jul 2026 19:25:43 +0000",
-        "published_dt": "2026-07-01T19:25:43+00:00",
-        "summary": ""
-      },
-      {
-        "id": "3fd5351fa75ca93b",
-        "title": "ENGYS partners with RBF Morph on simulation workflows",
-        "url": "https://www.engineering.com/engys-partners-with-rbf-morph-on-simulation-workflows/",
-        "source": "Engineering.com",
-        "published": "Wed, 01 Jul 2026 14:24:31 +0000",
-        "published_dt": "2026-07-01T14:24:31+00:00",
-        "summary": "<p>The agreement adds rbfCAE mesh morphing and optimization tools to HELYX and ELEMENTS-based design processes.</p>\n<p>The post <a href=\"https://www.engineering.com/engys-partners-with-rbf-morph-on-simulation-workflows/\">ENGYS partners with RBF Morph on simulation workflows</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       }
     ],
     "Economics": [
       {
-        "id": "372e0c882a65a40b",
-        "title": "Pricing and Production Without the Invisible Hand -- by Joel P. Flynn, George Nikolakoudis, Karthik Sastry",
-        "url": "https://www.nber.org/papers/w35390#fromrss",
+        "id": "78f8ccd3a699091b",
+        "title": "How Does Monetary and Fiscal Policy Affect the Economy in the Face of Large Shocks? -- by Greg Kaplan, Ken Miyahara",
+        "url": "https://www.nber.org/papers/w35400#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "Modern theories of the business cycle do not allow for the simultaneous rational choice of both prices and quantities, instead assuming that an \u201cinvisible hand\u201d determines one of these variables to clear markets. In this paper, we develop a macroeconomic model in which both prices and quantities are chosen optimally by firms and exchange is both voluntary and efficient. As a consequence, individual markets will generically be in Walrasian disequilibrium: either slack (over-supplied) or rationed (under-supplied). The absence of market clearing changes pricing and production in qualitatively important ways: markups are governed by the probability of rationing rather than the elasticity of demand, and higher uncertainty reduces production and increases markups. Marrying the Old and New Keynesian traditions, we study general Walrasian disequilibrium with rational expectations and optimal firm decisions. On a technical level, we characterize cross-market spillovers arising from rationed demand with differentiated goods, overcoming the standard combinatorial problem that arises when studying multi-market disequilibrium. Unlike in New Keynesian economies, monetary shocks propagate by reducing product-market slack, raising aggregate labor productivity and consumption with muted effects on employment, while uncertainty shocks act as stagflationary cost-push shocks."
+        "summary": "We build a model that combines (i) heterogeneous households with incomplete markets, and (ii) state-dependent pricing with strategic complementarities by firms, to analyze the effects of large macroeconomic shocks and policy interventions. Both features significantly influence the transmission of fiscal stimulus and monetary policy\u2014heterogeneous households because of failures of Ricardian equivalence, and state-dependent pricing because of its nonlinear effects on inflation. We use our model to quantify how monetary and fiscal policy shaped macroeconomic dynamics in response to the large shocks of 2020, and how alternative policy choices could have led to different aggregate and distributional outcomes. We find large departures from Ricardian equivalence and strong stepping-on-a-rake effects of interest rate changes. The large unfunded fiscal transfer program helped prevent deflation in 2020 and significantly raised output throughout 2021 and 2022, but led to permanently higher prices. The monetary easing through 2020 and 2021 also contributed to preventing deflation, but had a minimal impact on GDP. The monetary tightening from 2022 lowered the maximum inflation rate, but contributed to persistently above-trend inflation. These policies led to net welfare gains for low-wealth households and net welfare losses for high-wealth households, but those welfare effects are due to incomplete markets for idiosyncratic risk not aggregate stabilization. Alternative commitments to funding fiscal stimulus could have achieved similar short-term effects on inflation and output with a much smaller long-term increase in the price level."
+      },
+      {
+        "id": "ae6e5c67e0e56caa",
+        "title": "Baby Busts and Growth Booms: Demographic Change and the Macroeconomy -- by Daron Acemoglu, David Autor, Keelan Beirne, Andrew Scott",
+        "url": "https://www.nber.org/papers/w35401#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "The secular decline in birth rates across the globe over the past seven decades has slowed population growth, raised average ages, and reshaped labor markets and the macroeconomy. Contrary to the widespread expectation that these trends hamper economic growth, we find lower birth rates are associated with higher growth in GDP per working-age adult across countries and higher wage growth across US commuting zones, with no negative impact on aggregate GDP or earnings. These patterns are not explained by educational upgrading, rising female labor force participation, the declining importance of agriculture, or neoclassical-Solow mechanisms. We argue that they reflect the endogenous, labor-saving response of technology to the scarcity of younger workers. Consistent with this interpretation, countries and regions with lower birth rates exhibit more labor-saving patents and growing high-tech activity. There is also higher TFP growth across countries and industries. Exploiting cross-country variation in WWII military and civilian deaths, we find that declines in younger population, rather than population size per se, drive our results."
       },
       {
         "id": "fd333dbe0579c51b",
@@ -502,67 +511,58 @@
         "summary": "Artificial intelligence is improving fast. Its effect on output, not so much"
       },
       {
-        "id": "c615878bdb5e0409",
-        "title": "Labor Market Responses to Tariffs: Frictions, Dynamics, and Policy Responses -- by Rafael Dix-Carneiro, Brian K. Kovak",
-        "url": "https://www.nber.org/papers/w35377#fromrss",
+        "id": "14ecd134749048ea",
+        "title": "Seemingly Anchored Inflation Expectations -- by Ulrike Malmendier, Stefan Nagel",
+        "url": "https://www.nber.org/papers/w35395#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "This article introduces the evidence and associated modeling frameworks contemporary economists use to understand the effects of trade and trade policy on labor markets, with a particular emphasis on labor-market frictions and adjustment dynamics.  The effects of trade shocks differ across industries, regions, and occupations, implying the presence of important adjustment frictions in labor markets, and these effects evolve slowly over time, implying the need for dynamic frameworks rationalizing slow transitions.  After reviewing the key insights from this literature, we discuss policies aimed at mitigating costs to workers and ensuring that the gains from trade are shared more equitably."
+        "summary": "Empirical evidence commonly cited as indicating that inflation expectations have become better anchored includes the declining sensitivity of expectations to inflation surprises over time, particularly around the adoption of inflation targeting. These patterns are typically attributed to the influence of explicit or implicit inflation targets on inflation expectations. We show that this evidence is consistent with a model of experience-based learning in which individuals learn solely from their life-time history of realized inflation, without anchoring their expectations to an announced inflation target. In this model, the prolonged experience of low short-run inflation persistence in the pre-COVID decades renders long-run expectations insensitive to inflation surprises, matching the patterns observed in empirical anchoring tests. A unique prediction of the experience-based learning model is also borne out in the data: the decline in surprise sensitivity since the 1980s is strongest among younger individuals. The memory of low inflation persistence experiences further explains why long-run inflation expectations remained stable in the face of the post-COVID inflation surge. At the same time, simulations indicate that the sensitivity of long-run expectations to inflation surprises would rise sharply if individuals were to experience another sustained episode of highly persistent inflation. Overall, long-run inflation expectations may be less firmly anchored than commonly believed."
       },
       {
-        "id": "0a9b1ecf25f14a81",
-        "title": "Leaning Against Inflation Experiences -- by Stefan Nagel",
-        "url": "https://www.nber.org/papers/w35379#fromrss",
+        "id": "bf58e3eec1fe4f52",
+        "title": "Literature Review and Evidence Aggregation: a Toolkit for Applied Micro -- by Peter Ganong, Avik Garg, Maximilian Kasy",
+        "url": "https://www.nber.org/papers/w35403#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "A large share of secular variation in real interest rates can be understood as the effect of monetary policy leaning against experience-based long-run inflation expectations. Survey microdata show that adaptive learning from experienced inflation generates highly persistent, slow-moving long-run inflation expectations. When expectations are shaped by experience, central banks cannot anchor them through communication. Instead, when expectations deviate from the inflation target, monetary policy must remain persistently hawkish or dovish to generate realized inflation outcomes that, through agents\u2019 belief updating, gradually pull long-run expectations back toward the target. Consistent with this mechanism, I find a strong positive relationship between experience-based long-run inflation expectations and real interest rates in the U.S., Germany, the U.K., and Japan. Under their subjective expectations, private-sector agents do not anticipate future reversals in inflation and short-term real interest rates. As a result, long-term real interest rates move with experience-based long-run inflation expectations about as much as short-term real interest rates do, consistent with the data. Secular movements in real rates are also accompanied by persistent patterns in interest-rate forecast errors. Overall, the interaction of monetary policy and  learning from experience generates a distinct source of secular real-rate variation, beyond movements in the natural rate of interest."
+        "summary": "Consider an analyst interested in predicting the size of an effect. She has identified a set of prior published studies of similar effects. We provide a toolkit for (i) summarizing the prior literature, (ii) making predictions of effects in new contexts, and (iii) correcting for the bias from selectivity in the prior literature. We illustrate these methods with empirical examples from labor, public, behavioral, environmental, and development economics. Some of the tools are relevant even when only three prior studies are available. We show how it is possible to use covariates to transparently make predictions for a new context by reweighting prior estimates. The mean effect\u2014after correcting for selectivity\u2014is between 12% and 21% of the simple mean in our empirical examples. We conclude with a cookbook for practitioners producing meta-analyses."
       },
       {
-        "id": "ea70d216a76137ff",
-        "title": "When GDP Misleads: Inferring Living Standards from the Value of a Statistical Life -- by Philip Trammell, Charles I. Jones",
-        "url": "https://www.nber.org/papers/w35382#fromrss",
+        "id": "440cca51e608f568",
+        "title": "International Trade in an Uncertain World -- by Benny Kleinman, Ernest Liu, Stephen J. Redding, David Xu",
+        "url": "https://www.nber.org/papers/w35416#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "Real GDP per person is a widely used proxy for living standards, but it can be a poor welfare measure when new goods or quality improvements matter, when nonmarket goods are significant, and when preferences are nonhomothetic --- all of which are true in practice. We propose an alternative that is robust to these concerns: under weak conditions, the growth rate of the value of a statistical life (VSL), together with standard Euler-equation objects, identifies the growth rate of lifetime utility. The intuition is that people routinely trade off consumption against mortality risk, and their willingness to pay for small risk reductions reveals the value of remaining lifetime utility. Implementing this approach for the United States suggests that lifetime utility may have risen by more than a factor of five since 1940, whereas conventional consumption-based calculations using a stable log/CRRA flow utility imply much smaller gains, on the order of a doubling. This calculation is sensitive to measures of the growth rate of the VSL, the rate of time preference, and the interest rate. For example, if the correct interest rate is 4 percentage points higher than the T-bill rate, then lifetime utility would be measured to have declined by more than half since 1940."
+        "summary": "We develop a tractable quantitative model of international trade in which agents make bilateral investments in resilience under general equilibrium uncertainty. Under both complete and incomplete financial markets, we show that these bilateral investments solve a portfolio problem of choosing trade partners. Countries' risk profiles become determinants of trade flows, income and welfare, whose first moments are affected by the second moments of productivity and trade costs. Changes in global economic uncertainty have heterogeneous effects across countries, depending on how they affect real hedging opportunities. The opening of trade can raise or reduce income volatility, but is revealed-preferred to autarky."
       },
       {
-        "id": "e260ad11a0da70a8",
-        "title": "The Fragility of Semi-Liquid Private Credit Funds -- by Chuck Fang, Itay Goldstein, Yao Zeng",
-        "url": "https://www.nber.org/papers/w35385#fromrss",
+        "id": "6d3d826969bc49a8",
+        "title": "Tax Incentives and Venture Capital Risk-Taking: Evidence from the QSBS Program -- by Murillo Campello, Guilherme Junqueira",
+        "url": "https://www.nber.org/papers/w35418#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We study fragility in semi-liquid private credit funds, which have expanded rapidly and now manage over $300 billion in assets. These funds perform liquidity transformation by holding far more illiquid loans than traditional loan mutual funds while allowing investors to redeem at NAV through quarterly repurchase offers, typically capped at 5% of shares outstanding. We show that cash buffers and contractual loan repayments are insufficient to fund repeated 5% quarterly redemptions; inflows decline precisely when outflows rise; and net outflows are met with sales of illiquid loans, external borrowing, and delayed payments through repurchases payable. As a result, strategic complementarity arises, because redemptions impose liquidation and leverage costs on the remaining investors. We show that loan liquidation, leverage increase, and NAV inflation play an important role in amplifying the current episodes of run-like redemptions. Overall, our evidence suggests that quarterly gates and redemption caps do not eliminate run-like fragility in semi-liquid private credit funds, raising cautions about expanding retail access to private credit markets."
+        "summary": "Do tax subsidies prompt investors to take on risk? We address this question by looking at investors' responses to changes to the Qualified Small Business Stock (QSBS) program, which reduces capital gains taxes on startup investing. We do so under a framework in which some startup investors \u2014 venture capitalists (VCs) \u2014 combine outside funding with incentive-based compensation, while others invest their own funds. Using bunching, triple-differences, and matching designs that exploit industry eligibility, investment vintage, and holding-period requirements, we analyze data from 158 thousand investor\u2013firm pairings over two decades. We identify strategic investment timing, with subsidies prompting bunching at tax-eligible holding-period thresholds. Most notably, when and where tax subsidies apply, VCs shift their project selection toward riskier ventures: they invest more in pre-commercial stage startups, become more likely to provide startups with their initial capital, and invest more in startups with pre-existing debt, while becoming less likely to co-syndicate their investments. Tax-subsidized VC-backed ventures show higher failure rates, but on the flip side, attain higher valuations at exit and are more likely to reach \"unicorn status.\" None of these patterns are observed for comparable non-VC investors in startups exposed to the same tax subsidies. Our tests further show that tax incentives lead to reallocation toward more innovative industries, yielding more impactful patents. Our study is the first to show that tax policy can shift entrepreneurial financing toward riskier, more innovative, and valuable startups."
       },
       {
-        "id": "844dc2ff8fb238b0",
-        "title": "Government Funding Costs Under Financial Repression -- by Roberto G\u00f3mez-Cram, Howard Kung, Hanno Lustig, David Zeke",
-        "url": "https://www.nber.org/papers/w35391#fromrss",
+        "id": "ef1d68717c7a2773",
+        "title": "Analyzing Occupational Licensing Across Nations -- by Jonathan S. Hartley, Morris M. Kleiner",
+        "url": "https://www.nber.org/papers/w35424#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We study the equilibrium effects of financial repression on government funding costs in an endowment economy with limited asset market participation. We show how a broad set of repression policies operates through a wedge in the Euler equation responsive to government size or by affecting fiscal redistribution between agents. Repression intensity is captured by a policy feedback rule that depends positively on net government spending. When fiscal policy is profligate and monetary policy accommodates, we show that such a repression policy raises bond values, reduces the inflationary cost of unfunded fiscal expansions, and lowers bond risk premia. Repression is not a free lunch for bondholders---they pay a lower inflation tax but also earn lower future real returns. When monetary policy does not accommodate fiscal policy, repression can provide stopgap funding for deficits, allowing the central bank to retain control over inflation while making government debt a hedge for fiscal inflation."
+        "summary": "Relatively little is known about occupational licensing across nations. We assemble harmonized estimates of licensing prevalence for 44 countries using nationally representative surveys, including new surveys for previously unstudied countries. Licensing ranges from roughly 14 percent of workers in Denmark to more than 40 percent in India and South Africa. Licensed workers earn 6 to 19 percent higher wages than comparable unlicensed workers across specifications. Licensing prevalence is negatively associated with GDP per capita and governance quality, and positively associated with informal employment, suggesting occupational licensing is intertwined with labor market efficiency, formalization, and long-run economic development."
       },
       {
-        "id": "02e2a3bafe42bb37",
-        "title": "Immigration, Innovation, and the Geography of Growth -- by Costas Arkolakis, Sun Kyoung Lee, Michael Peters",
-        "url": "https://www.nber.org/papers/w35392#fromrss",
+        "id": "4bf392a54066cb20",
+        "title": "Benefit-Based Taxation can Include Substantial Redistribution -- by Jo Ellery, Matthew C. Weinzierl",
+        "url": "https://www.nber.org/papers/w35429#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "Between 1880 and 1920, more than 20 million immigrants settled in the United States. We study how this migration wave affected innovation and growth. Using a newly constructed dataset linking individual census records to historical immigration records and the universe of US patents, we highlight a new channel through which immigrants contributed to growth: they disproportionately settled in urban innovation hubs. To quantify the aggregate and regional effects of this mass migration episode, we develop a new spatial growth model in which skilled workers have a comparative advantage in innovation and sort endogenously across space. We find that international arrivals after 1880 raised US income per capita by 8.2% by 1940. Removing the subsequent immigration restrictions of the 1920s would have raised income per capita by a further 1.7% by 2000. Immigrants' skill composition and their concentration in urban hubs are key drivers of these effects."
-      },
-      {
-        "id": "e66743def6484e99",
-        "title": "Safer Driving for a Price: Evidence on Behavior and Habits in Kenyan Minibuses -- by David Sch\u00f6nholzer, Gregory Lane, Erin M. Kelley",
-        "url": "https://www.nber.org/papers/w35394#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "Road traffic injuries are the leading cause of death among people aged 5\u201329. Where traffic laws are weakly enforced, it is unclear whether road safety interventions can change behavior. We run a randomized controlled trial among 203 Kenyan minibuses, testing whether an incentive scheme improves safety overall or merely shifts unsafe driving to unmonitored times. Drivers reduce speeding by 29 percent and harsh braking by 13 percent, improving a safety index by 0.096 standard deviations. Labor-supply and earnings effects are modest, with little displacement across times or places. Improvements fade quickly, suggesting lasting change requires sustained enforcement or stronger incentives."
+        "summary": "Contrary to a long-standing concern, we present evidence that classical benefit-based labor income taxation in the tradition of Smith (1776) is consistent with income redistribution through transfers and negative average tax rates both theoretically and---in plausibly-specified simulations---quantitatively at levels which reflect U.S. policy over the past several decades. As redistribution is widespread in practice, our results remove an obstacle to the benefit principle\u2019s plausibility as a prevailing normative foundation of tax policy."
       },
       {
         "id": "5998e54d8c96579e",
@@ -684,6 +684,24 @@
     ],
     "Cross-Disciplinary": [
       {
+        "id": "69b42f176ca68058",
+        "title": "VHF Propagation: What Every RF Engineer Should Know",
+        "url": "https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/",
+        "source": "IEEE Spectrum",
+        "published": "Mon, 06 Jul 2026 13:54:01 +0000",
+        "published_dt": "2026-07-06T13:54:01+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/rohde-schwarz-logo-with-slogan-make-ideas-real-and-rs-monogram-in-diamond.png?id=67100642&amp;width=980\" /><br /><br /><p>A practical educational guide to common and uncommon VHF propagation modes, covering the <span>physics, range implications, and real-world behaviors engineers need to understand.</span></p><p>What Attendees will Learn</p><p>1. Why \u201cline of sight\u201d fails as a practical VHF planning model.</p><p>2. How refraction, reflection, diffraction, and scattering deliver or destroy signals where geometry alone cannot predict.3. How tropospheric refraction extends the VHF radio horizon roughly one-third beyond optical line of sight.</p><p>4. How temperature inversions form ducts that can carry VHF signals over 1,500 km.5. How sporadic E, meteor burst, and EME propagate VHF signals across hundreds to thousands of kilometers.</p><p>6. What frequency limits, distance ranges, and environmental triggers apply to each <span>propagation mode.</span></p><p>7. How to apply this knowledge to link budgeting, interference prediction, and contingency planning.</p><p><span><a href=\"https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/\" target=\"_blank\">Download this free whitepaper now!</a></span></p>"
+      },
+      {
+        "id": "844233d3b1d930ed",
+        "title": "The Download: South Korea\u2019s hottest bachelors, and advancing eye transplants",
+        "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 06 Jul 2026 13:00:00 +0000",
+        "published_dt": "2026-07-06T13:00:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea\u2019s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a year ago. In a&#8230;"
+      },
+      {
         "id": "9c7f5ae6c724587c",
         "title": "As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration",
         "url": "https://spectrum.ieee.org/ai-energy-systems-melbourne",
@@ -754,6 +772,15 @@
         "published": "Wed, 17 Jun 2026 18:00:02 +0000",
         "published_dt": "2026-06-17T18:00:02+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-black-woman-speaking-into-a-microphone-in-front-of-a-presentation-screen.jpg?id=66951490&amp;width=1245&amp;height=700&amp;coordinates=0%2C197%2C0%2C197\" /><br /><br /><p>The rapid evolution of the global engineering landscape requires continuous education. For one week in April, the IEEE community focuses on its educational frameworks. <a href=\"https://educationweek.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Education Week</a>, which just concluded its fifth year, provided a comprehensive overview of the resources available to professionals and students.</p><p>From 11 to 19 April, the organization supplied a variety of <a href=\"https://educationweek.ieee.org/events/\" rel=\"noopener noreferrer\" target=\"_blank\">live and virtual events</a>, <a href=\"https://educationweek.ieee.org/resources/\" rel=\"noopener noreferrer\" target=\"_blank\">online resources</a>, and <a href=\"https://educationweek.ieee.org/special-offers/\" rel=\"noopener noreferrer\" target=\"_blank\">promotions</a> that champion the cycle of lifelong learning.</p><p><a href=\"https://spectrum.ieee.org/u/maryellen-randall\" target=\"_self\">IEEE President Mary Ellen Randall</a> kicked off the week with the keynote: \u201cInspiring Tomorrow\u2019s Innovators: How IEEE Educational Resources Can Open Pathways Into STEM.\u201d The event served as a central point for programs that run throughout the year.</p><p>\u201cEducation Week allows different units to share resources with members and the public, covering everything from preuniversity programs to advanced professional training,\u201d says <a href=\"https://www.ieee.org/jamie-moesch\" rel=\"noopener noreferrer\" target=\"_blank\">Jamie Moesch</a>, managing director of <a href=\"https://ea.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Educational Activities</a>.</p><h2>Coordination across the organization</h2><p>The event relied on the cooperation of 120 IEEE partners. Involved organizational units included the <a href=\"https://www.comsoc.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Communications Society</a>, the <a href=\"https://ieee-edusociety.org/home\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Education Society</a>, and chapters and sections from around the world, including in <a href=\"https://educationweek.ieee.org/event/epics-in-ieee/\" rel=\"noopener noreferrer\" target=\"_blank\">Brazil</a>, <a href=\"https://events.vtools.ieee.org/m/549648\" rel=\"noopener noreferrer\" target=\"_blank\">Colombia</a>, and <a href=\"https://gnsu.ac.in/ieee\" rel=\"noopener noreferrer\" target=\"_blank\">India</a>. They produced 114 events, 23 resources, and 11 special offers.</p><p>\u201cThese collaborations help members remain current in a changing technological environment,\u201d says <a href=\"https://www.ieee.org/about/assembly/vp-of-ea\" rel=\"noopener noreferrer\" target=\"_blank\">Timothy Kurzweg</a>, vice president of <a href=\"https://ea.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Educational Activities</a>. \u201cThe goal is to provide accessible tools that assist members in both their own professional development and their efforts to mentor new engineers.\u201d</p><p class=\"pull-quote\">\u201cThe week allows different units to share resources with members and the public, covering everything from preuniversity programs to advanced professional training.\u201d <strong>\u2014Jamie Moesch, managing director of IEEE Educational Activities</strong></p><p>The participation metrics reflect a broad geographic interest. The IEEE Education Week website recorded more than 4,770 visitors, with primary engagement coming from India, Nigeria, and the United States. Nearly 240 digital badges were issued to people who completed educational quizzes.</p><p>To encourage participation, organizers enlisted 72 volunteer ambassadors to promote the week\u2019s activities across their local networks and share key resources on social media.</p><h2>Available educational tools</h2><p>Here are a few of the <a href=\"https://educationweek.ieee.org/events/\" target=\"_blank\">virtual events</a> held during Education Week\u2014most of which are available on demand:</p><ul><li><a href=\"https://www.youtube.com/watch?v=jIJICVfsk8A&amp;t=55s\" rel=\"noopener noreferrer\" target=\"_blank\">Celebrating Excellence: The EPICS in IEEE Contributor Awards and Service Learning Showcase.</a></li><li><a href=\"https://www.airmeet.com/e/0dea9e90-279b-11f1-ac08-e5de564d93ce\" rel=\"noopener noreferrer\" target=\"_blank\">Classroom to Startup: Uniting Academia and Industry.</a></li><li><a href=\"https://ieee-edusociety.org/post/announcement/ieee-education-week-2026\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE\u2019s Role in Shaping AI-Ready Engineering Education Globally.</a></li><li><a href=\"https://www.youtube.com/watch?v=AE1mOgejM9M&amp;t=167s\" rel=\"noopener noreferrer\" target=\"_blank\">Leveraging IEEE Standards to Enhance Engineering Service Learning Projects (EPICS in IEEE).</a></li><li><a href=\"https://www.youtube.com/watch?v=G4Ac2ugTEJo&amp;t=1s\" rel=\"noopener noreferrer\" target=\"_blank\">Mastering the Modern Job Market: The Power of IEEE Microcredentials.</a></li><li><a href=\"https://www.airmeet.com/e/8da7cd00-0da7-11f1-8218-ef26d078c8ee\" rel=\"noopener noreferrer\" target=\"_blank\">TryEngineering Volunteers Making an Impact in STEM.</a></li></ul><p>The Education Week website highlights <a href=\"https://educationweek.ieee.org/resources/\" rel=\"noopener noreferrer\" target=\"_blank\">resources</a> and <a href=\"https://educationweek.ieee.org/special-offers/\" rel=\"noopener noreferrer\" target=\"_blank\">offers</a> shared by IEEE organizational units, including:</p><ul><li><a href=\"https://www.ieee.org/education/mud.html\" rel=\"noopener noreferrer\" target=\"_blank\">A half-off discount for members on IEEE e-learning courses.</a> The catalog covers such topics as computing, power and energy, and telecommunications. </li><li><a href=\"https://www.comsoc.org/education-training/demand-training\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Communications Society on-demand webinars.</a> Learn the latest trends and innovations.</li><li><a href=\"https://ieeetv.ieee.org/channels/wie\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Women in Engineering career-focused, upskill, and reskill webinars.</a> The presentations cover a variety of topics including agentic AI, leadership, and robots.</li><li><a href=\"https://innovationatwork.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Innovation at Work.</a> The e-newsletter covers emerging technologies, education, and training for technical professionals.</li><li><a href=\"https://iln.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Learning Network.</a> Hundreds of <a href=\"https://spectrum.ieee.org/ieee-professional-development-suite\" target=\"_self\">continuing education courses</a>, all in one place.</li><li><a href=\"https://tryengineering.org/teachers/lesson-plans/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE TryEngineering lesson plans.</a> The easy-to-use, <a href=\"https://spectrum.ieee.org/tryengineering-oncampus-expansion\" target=\"_self\">engaging activities</a> and plans help teach engineering concepts to preuniversity students.</li><li><a href=\"https://tryengineering.org/explore-resources/collections/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE TryEngineering collections.</a> The lesson plans and multimedia resources, developed with partners and IEEE technical societies, are designed to introduce technical topics and deepen student understanding.</li></ul><p>Individuals who were unable to attend the live sessions can find the archived content on the IEEE Education Week website.</p><p>The website also accepts <a href=\"https://secure.ieeefoundation.org/site/Donation2;jsessionid=00000000.app30118b?mfc_pref=T&amp;1980.donation=form1&amp;idb=615936264&amp;df_id=1980&amp;NONCE_TOKEN=0B9ED08DC05E53935E33CB9C4B08F5C2&amp;mfc_pref=T\" rel=\"noopener noreferrer\" target=\"_blank\">donations for education-related funds</a> managed by the <a href=\"https://www.ieeefoundation.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Foundation</a>.</p><p>Updates and technical resources continue to be shared through the #EducationAtIEEE hashtag on social media channels.</p><p>Planning for IEEE Education Week 2027, scheduled for 3 to 11 April, is underway.</p>"
+      },
+      {
+        "id": "df7d301033bb13d1",
+        "title": "South Korea\u2019s hottest new bachelors are chip workers",
+        "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 06 Jul 2026 09:00:00 +0000",
+        "published_dt": "2026-07-06T09:00:00+00:00",
+        "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to be&#8230;"
       },
       {
         "id": "529206126b1b671f",
@@ -880,33 +907,6 @@
         "published": "Thu, 02 Jul 2026 09:00:00 +0000",
         "published_dt": "2026-07-02T09:00:00+00:00",
         "summary": "Something stinks in California\u2019s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It\u2019s become wildly popular because&#8230;"
-      },
-      {
-        "id": "25f5e50b4b560730",
-        "title": "Why Public Speaking Skills Are Worth Investing In",
-        "url": "https://spectrum.ieee.org/improve-public-speaking-skills",
-        "source": "IEEE Spectrum",
-        "published": "Wed, 01 Jul 2026 18:15:02 +0000",
-        "published_dt": "2026-07-01T18:15:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&amp;width=1245&amp;height=700&amp;coordinates=0%2C112%2C0%2C113\" /><br /><br /><p><em>This article is crossposted from </em>IEEE Spectrum<em>\u2019s careers newsletter. <a href=\"https://engage.ieee.org/Career-Alert-Sign-Up.html\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Sign up now</em></a><em> to get insider tips, expert advice, and practical strategies, <em><em>written i<em>n partnership with tech career development company <a href=\"https://www.parsity.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Parsity</a> and </em></em></em>delivered to your inbox for free!</em></em></p><p>You want to become a senior developer. A CTO, maybe. Start your own company, perhaps. Or maybe you just want to land your first role in tech.</p><p>You will not get there from raw engineering skill alone.</p><p>There\u2019s a skill that\u2019s quietly essential to technical leadership and yet consistently overlooked: public speaking.</p><p>If you\u2019re anything like I used to be, you\u2019re already listing reasons not to. \u201cI got into this to code, not to give presentations.\u201d \u201cI don\u2019t want to lead.\u201d \u201cI\u2019m too junior to speak about anything.\u201d No, no, and no again. There\u2019s a ceiling on the return from technical skill alone.</p><p>I was terrified of public speaking for the first three years of my career. I wanted to hide behind code, and for the most part it worked. I did my job and did it well.</p><p>Then I joined a startup where hiding wasn\u2019t an option. The whole company was five people. I was one of two developers. I had to form opinions on our technical direction and defend them, and the CTO told me directly that I needed to speak up more.</p><p>A few things happened once I did. I took more pride in my work. I said some cringe-worthy stuff, lived through the mini-anxiety attacks, and got better. To my own disbelief, I\u2019m now an engineering manager whose job is largely speaking to groups of developers and leading presentations, online and in person.</p><p>Here\u2019s why this is worth your time:</p><p><strong>Leadership.</strong> Communicating ideas clearly, influencing decisions, and aligning your team are core leadership functions, and they matter more the further you climb.</p><p><strong>Visibility.</strong> Speaking lets you show your expertise, build a reputation, and connect with people who open doors to better roles.</p><p><strong>Durability.</strong> As automation absorbs more routine technical work, skills rooted in human interaction and judgment are far harder to replace.</p><p>The good news is you can build this deliberately, in low-stakes steps.</p><p><strong>Record yourself.</strong> Use a screen-recording tool to walk through your work, explain a concept, or narrate your code. You can edit, re-record, and over-think it as much as you want. That\u2019s the point. It gets you comfortable on camera before the stakes are real.</p><p><strong>Volunteer for demos.</strong> Next time you ship a feature or fix a bug, ask your manager for a short time slot to walk the team through it. No format for that on your team? Suggest a monthly lunch-and-learn and kick it off with a 15-minute lightning talk on something you know.</p><p><strong>Start small\u2014really small.</strong> If your anxiety is spiking, don\u2019t jump into the deep end. In your next meeting, ask one question. Write it down beforehand if you have to. Then be the first to break the awkward silence when someone else asks one. Developers are a famously quiet bunch, so it doesn\u2019t take much to stand out.</p><p>The further you grow, the more you\u2019ll be expected to hold opinions and voice them publicly. So start now. Record yourself, ask questions, get uncomfortable, and notice that it gets easier every time you do it.</p><p>\u2014Brian</p><h2><a href=\"https://spectrum.ieee.org/topic/careers/\" target=\"_self\">War Taught this Ukrainian Entrepreneur the Value of Resilience</a></h2><p>Salome Mikadze-Struk built her tech company Movadex as an undergraduate student at the height of the COVID-19 pandemic\u2014then kept it running during the outbreak of war in her native Ukraine. Now, she\u2019s channeling what she learned into mentoring tech founders and speaking about the importance of resilience as AI upends the software industry. </p><p><a href=\"https://spectrum.ieee.org/topic/careers/\" target=\"_blank\">Read more here. </a></p><h2><a href=\"https://spectrum.ieee.org/large-language-models-ieee-course\" target=\"_self\">IEEE Rolls Out Large Language Models Virtual Training Course</a></h2><p>LLMs are now part of many engineers\u2019 daily workflow, and the demand for technical expertise in implementing and securing the models is rising. But to build tools that work consistently, developers must have a strong understanding of the core principles that govern how the models work. IEEE is now offering a five-course program to teach how to use LLMs effectively, starting with the fundamental engineering behind the technology. </p><p><a href=\"https://spectrum.ieee.org/large-language-models-ieee-course\" target=\"_blank\">Read more here. </a></p><h2><a href=\"https://spectrum.ieee.org/origami-circuit-boards\" target=\"_self\">Make an Origami Circuit Board</a></h2><p>Two researchers at the City University of Hong Kong developed a method to make a circuit trace by simply bending a piece of paperlike material. With the right ingredients\u2014isopropanol and liquid metal\u2014you can make your own origami circuit board. The researchers also created a toolkit, called LiqMetCraft, with software tools and instructions to make it easy for beginners, whether in papercraft or electronics. </p><p><a href=\"https://spectrum.ieee.org/origami-circuit-boards\" target=\"_blank\">Read more here. </a></p>"
-      },
-      {
-        "id": "1ce8a9f87000e8c3",
-        "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-        "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 01 Jul 2026 14:35:16 +0000",
-        "published_dt": "2026-07-01T14:35:16+00:00",
-        "summary": "Let\u2019s start with a game. Open up your chatbot of choice\u2014Claude, ChatGPT, Gemini\u2014and type \u201cGive me a random number between 1 and 10.\u201d You\u2019re going to get 7. Almost always. Now type \u201cAnother\u201d and you\u2019ll get 3 or 4. Type \u201cAnother\u201d again and you\u2019ll get 8 or 9. That won\u2019t work every time\u2014but if it&#8230;"
-      },
-      {
-        "id": "fba0cd1dcad1d5c7",
-        "title": "The Download: Anthropic launches Claude Science, and California\u2019s carbon manure math",
-        "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 01 Jul 2026 12:10:00 +0000",
-        "published_dt": "2026-07-01T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic\u2019s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announced Claude Science, a major new product intended to support scientific research&#8230;"
       }
     ]
   }
