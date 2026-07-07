@@ -1,42 +1,69 @@
 {
-  "generated_at": "2026-07-06T15:46:58.402130+00:00",
+  "generated_at": "2026-07-07T14:50:44.799562+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "1868fd0cae924927",
-        "title": "STAT+: Online GLP-1 prescriptions are often fast, easy \u2014 and low on clinical oversight",
-        "url": "https://www.statnews.com/2026/07/06/glp-1-telehealth-prescriptions-jama-yale-secret-shopper-study/?utm_campaign=rss",
+        "id": "7c64d50b588d8f43",
+        "title": "STAT+: \u2018Secret shopper\u2019 study probes GLP-1 telehealth sites",
+        "url": "https://www.statnews.com/2026/07/07/secret-shopper-study-glp-1-telehealth-sites-health-tech/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Mon, 06 Jul 2026 15:00:00 +0000",
-        "published_dt": "2026-07-06T15:00:00+00:00",
-        "summary": "A new secret-shopper study found that GLP-1 prescriptions from telehealth sites aren't often backed by appropriate clinical care."
+        "published": "Tue, 07 Jul 2026 13:47:51 +0000",
+        "published_dt": "2026-07-07T13:47:51+00:00",
+        "summary": "In this edition of STAT Health Tech: A 'secret shopper' study of telehealth sites prescribing GLP-1s, news about Epic, Anthropic, and brain implants."
       },
       {
-        "id": "5fc6a083e074c13d",
-        "title": "STAT+: Four major biotech updates to catch up on",
-        "url": "https://www.statnews.com/2026/07/06/biotech-news-anthropic-ceo-dario-amodei-tempers-expectations/?utm_campaign=rss",
+        "id": "d9735271d8adb886",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about a $10 billion Vertex deal, the pace of FDA drug approvals, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/07/07/vertex-buying-crinetics-fda-drug-approvals-kept-pace/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Mon, 06 Jul 2026 13:37:50 +0000",
-        "published_dt": "2026-07-06T13:37:50+00:00",
-        "summary": "Anthropic CEO talks drug discovery, Medicare proposes steep 340B drug payment cuts, and more biotech news"
+        "published": "Tue, 07 Jul 2026 13:14:01 +0000",
+        "published_dt": "2026-07-07T13:14:01+00:00",
+        "summary": "Vertex Pharmaceuticals will spend $10 billion to acquire Crinetics Pharmaceuticals and its drug for a rare endocrine disorder"
       },
       {
-        "id": "bd9a9a2ea4136c87",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about a Novartis acquisition, Republicans backing clinical trial diversity, and more",
-        "url": "https://www.statnews.com/pharmalot/2026/07/06/novartis-buys-myricx-republicans-back-clinical-trial-diversity/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 06 Jul 2026 12:56:19 +0000",
-        "published_dt": "2026-07-06T12:56:19+00:00",
-        "summary": "Novartis is pushing deeper into antibody-drug conjugate development, paying $1.1 billion upfront to buy Myricx Bio"
-      },
-      {
-        "id": "844233d3b1d930ed",
-        "title": "The Download: South Korea\u2019s hottest bachelors, and advancing eye transplants",
-        "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+        "id": "c170d471e8f2dfc0",
+        "title": "The Download: your stake in OpenAI, and the Treasury\u2019s AI warning",
+        "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
         "source": "MIT Technology Review",
-        "published": "Mon, 06 Jul 2026 13:00:00 +0000",
-        "published_dt": "2026-07-06T13:00:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea\u2019s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a year ago. In a&#8230;"
+        "published": "Tue, 07 Jul 2026 12:10:00 +0000",
+        "published_dt": "2026-07-07T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family\u2019s $300 stake in OpenAI Sam Altman\u2019s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving&#8230;"
+      },
+      {
+        "id": "098b4658f8827bcf",
+        "title": "Ebola outbreak exposes a fractured outbreak response system",
+        "url": "https://www.statnews.com/2026/07/07/health-news-ebola-outbreak-exposes-a-fractured-outbreak-response-system/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 07 Jul 2026 12:06:47 +0000",
+        "published_dt": "2026-07-07T12:06:47+00:00",
+        "summary": "The costly threat to employer-based health care, Gen Z doctors, and more health news"
+      },
+      {
+        "id": "5786331c6dbd0785",
+        "title": "The foundational elements of AI architecture that IT leaders need to scale",
+        "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 07 Jul 2026 11:10:52 +0000",
+        "published_dt": "2026-07-07T11:10:52+00:00",
+        "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture\u2014the&#8230;"
+      },
+      {
+        "id": "af8e3fdf7accc982",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kaileras-oral-glp-1-asset-hits-goals-chinese-phase-3-obesity-and-diabetes-trials\" hreflang=\"en\">Kailera\u2019s oral GLP-1 asset sees 11% weight loss, hits goals in Chinese phase 3 obesity and diabetes trials</a>",
+        "url": "https://www.fiercebiotech.com/biotech/kaileras-oral-glp-1-asset-hits-goals-chinese-phase-3-obesity-and-diabetes-trials",
+        "source": "Fierce Biotech",
+        "published": "Jul 7, 2026 8:44am",
+        "published_dt": "2026-07-07T08:44:00+00:00",
+        "summary": "Phase 3 trials of Kailera Therapeutics\u2019 oral GLP-1 prospect have hit their primary endpoints, positioning the biotech\u2019s partner Hengrui Pharma to seek approval in obesity and diabetes in China.<br />"
+      },
+      {
+        "id": "522c1c4937315934",
+        "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+        "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 07 Jul 2026 10:00:00 +0000",
+        "published_dt": "2026-07-07T10:00:00+00:00",
+        "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family\u2019s land in Hickman, a tiny town in the state\u2019s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squirming red earthworms.&#8230;"
       },
       {
         "id": "0d4b9990c04cd761",
@@ -48,13 +75,103 @@
         "summary": "Supporters say clinical trial diversity is about making sure drugs and devices work, not about DEI."
       },
       {
-        "id": "4e646b0f55a1b02c",
-        "title": "The race for an Ebola therapy begins",
-        "url": "https://www.statnews.com/2026/07/06/health-news-race-for-an-ebola-therapy-begins/?utm_campaign=rss",
+        "id": "1e350e8958ec6213",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/us-lawmakers-increase-scrutiny-chinese-trials-industry-fears-huge-distraction-and-expense\" hreflang=\"en\">As US lawmakers increase scrutiny of Chinese trials, industry fears \u2018huge distraction and expense\u2019 </a>",
+        "url": "https://www.fiercebiotech.com/biotech/us-lawmakers-increase-scrutiny-chinese-trials-industry-fears-huge-distraction-and-expense",
+        "source": "Fierce Biotech",
+        "published": "Jul 7, 2026 6:08am",
+        "published_dt": "2026-07-07T06:08:00+00:00",
+        "summary": "As U.S. lawmakers continue to scrutinize the consequences of China\u2019s expanding role in biotech innovation, industry insiders have been left debating how they can navigate this shifting landscape\u2014or even whether biotechs should abandon China altogether."
+      },
+      {
+        "id": "86e0e602df48b266",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/boehringer-bags-pvts-viral-vector-platform-cancer-vaccine-rd\" hreflang=\"en\">Boehringer bags PVT\u2019s viral vector platform for cancer vaccine R&amp;D</a>",
+        "url": "https://www.fiercebiotech.com/biotech/boehringer-bags-pvts-viral-vector-platform-cancer-vaccine-rd",
+        "source": "Fierce Biotech",
+        "published": "Jul 7, 2026 9:42am",
+        "published_dt": "2026-07-07T09:42:00+00:00",
+        "summary": "Boehringer Ingelheim has landed an exclusive license to Prime Vector Technologies\u2019 viral vector platform for developing next-generation cancer vaccines."
+      },
+      {
+        "id": "1b1bb16be14a0a5c",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/novo-nordisk-pens-glp-1-long-acting-implant-tech-deal-vivani-medical\" hreflang=\"en\">Novo Nordisk pens long-acting GLP-1 implant tech deal with Vivani Medical</a>",
+        "url": "https://www.fiercebiotech.com/medtech/novo-nordisk-pens-glp-1-long-acting-implant-tech-deal-vivani-medical",
+        "source": "Fierce Biotech",
+        "published": "Jul 7, 2026 8:53am",
+        "published_dt": "2026-07-07T08:53:00+00:00",
+        "summary": "As Novo Nordisk looks for new ways to broaden its semaglutide GLP-1 franchise, the Danish drugmaker has signed a new deal with Californian medtech Vivani Medical to help."
+      },
+      {
+        "id": "75e3cfc4a3d04606",
+        "title": "5 takeaways from STAT\u2019s series on the soaring cost of health insurance",
+        "url": "https://www.statnews.com/2026/07/07/why-health-insurance-costs-so-much-out-of-pocket-series-key-takeaways/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Mon, 06 Jul 2026 12:08:48 +0000",
-        "published_dt": "2026-07-06T12:08:48+00:00",
-        "summary": "Male marathoners \"hit the wall,\" mental health in 2026, and more Morning Rounds news"
+        "published": "Tue, 07 Jul 2026 08:30:00 +0000",
+        "published_dt": "2026-07-07T08:30:00+00:00",
+        "summary": "Read the 5 key takeaways from STAT's series \"Out of Pocket, Out of Reach,\" an examination of workplace health insurance."
+      },
+      {
+        "id": "7e240b28883bf4b7",
+        "title": "Opinion: What if this Ebola outbreak can\u2019t be stopped?",
+        "url": "https://www.statnews.com/2026/07/07/ebola-outbreak-drc-uganda-endemic-control/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 07 Jul 2026 08:30:00 +0000",
+        "published_dt": "2026-07-07T08:30:00+00:00",
+        "summary": "In the past, the possibility of endemic Ebola was unthinkable. This time is different, write Ivan Buendia Gayton and Eric D. Perakslis."
+      },
+      {
+        "id": "ccfc4d1b3f439949",
+        "title": "STAT+: This whistleblower took on a health insurance giant and a political machine. She\u2019s not stopping there",
+        "url": "https://www.statnews.com/2026/07/07/employer-based-insurance-whistleblower-out-of-pocket-series-part-3/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 07 Jul 2026 08:30:00 +0000",
+        "published_dt": "2026-07-07T08:30:00+00:00",
+        "summary": "America\u2019s employers must stop acting helpless in the face of health care industry profiteering, Chris Deacon says."
+      },
+      {
+        "id": "ca55f6ca85ff0814",
+        "title": "STAT+: America\u2019s small businesses are giving up on health insurance",
+        "url": "https://www.statnews.com/2026/07/07/small-business-health-insurance-costs-out-of-pocket-series-part-1/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 07 Jul 2026 08:30:00 +0000",
+        "published_dt": "2026-07-07T08:30:00+00:00",
+        "summary": "America's employer-based health insurance system is crumbling. STAT investigates why, in our new series, \u201cOut of Pocket, Out of Reach.\u201d"
+      },
+      {
+        "id": "2cd77b1abea446d1",
+        "title": "STAT+: For a Georgia entrepreneur, health coverage has never been affordable",
+        "url": "https://www.statnews.com/2026/07/07/aca-health-insurance-small-business-out-of-pocket-series-part-2/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 07 Jul 2026 08:30:00 +0000",
+        "published_dt": "2026-07-07T08:30:00+00:00",
+        "summary": "Amy Bielawski is one of the 30 million people who run their own businesses. She's gone most of her life without health insurance."
+      },
+      {
+        "id": "18d55dafe7fed885",
+        "title": "Opinion: Medicine thinks Gen Z is too soft. It\u2019s wrong",
+        "url": "https://www.statnews.com/2026/07/07/gen-z-doctors-too-soft/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 07 Jul 2026 08:30:00 +0000",
+        "published_dt": "2026-07-07T08:30:00+00:00",
+        "summary": "\u201cGen Z physicians are on a collision course with institutions still built around older assumptions,\u201d writes Frantz M. Berthaud."
+      },
+      {
+        "id": "de1f128eacdd8809",
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/vertex-acquires-endocrine-disease-specialist-crinetics-10b\" hreflang=\"en\">Vertex, in its largest-ever deal, acquires endocrine disease specialist Crinetics for $10B </a>",
+        "url": "https://www.fiercebiotech.com/pharma/vertex-acquires-endocrine-disease-specialist-crinetics-10b",
+        "source": "Fierce Biotech",
+        "published": "Jul 7, 2026 7:17am",
+        "published_dt": "2026-07-07T07:17:00+00:00",
+        "summary": "Vertex Pharmaceuticals has struck a $10 billion deal\u2014its largest ever\u2014to&nbsp;acquire endocrine disease specialist Crinetics Pharmaceuticals. The transaction's two focuses, Palsonify and atumelnant, have combined peak sales potential of more than $5 billion, Vertex said."
+      },
+      {
+        "id": "bd9a9a2ea4136c87",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about a Novartis acquisition, Republicans backing clinical trial diversity, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/07/06/novartis-buys-myricx-republicans-back-clinical-trial-diversity/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 06 Jul 2026 12:56:19 +0000",
+        "published_dt": "2026-07-06T12:56:19+00:00",
+        "summary": "Novartis is pushing deeper into antibody-drug conjugate development, paying $1.1 billion upfront to buy Myricx Bio"
       },
       {
         "id": "2f01f8b7c7fd96a5",
@@ -66,60 +183,6 @@
         "summary": "\u201cThe FDA should pursue a structured, clinician-guided framework\u201d on popular peptides, writes former surgeon general Jerome Adams."
       },
       {
-        "id": "b0b6fcd9e64da327",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-gene-therapy-regulator-vijay-kumar-steps-down-leadership-role\" hreflang=\"en\">FDA gene therapy regulator Vijay Kumar steps down from leadership role</a>",
-        "url": "https://www.fiercebiotech.com/biotech/fda-gene-therapy-regulator-vijay-kumar-steps-down-leadership-role",
-        "source": "Fierce Biotech",
-        "published": "Jun 30, 2026 10:38am",
-        "published_dt": "2026-06-30T10:38:00+00:00",
-        "summary": "Vijay Kumar, the acting head of the FDA office that oversees new gene therapies, is stepping down from his role after a year in the job."
-      },
-      {
-        "id": "02ae56b8da21771a",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/vistagen-fails-another-phase-3-social-anxiety-trial-spies-path-market\" hreflang=\"en\">Vistagen fails another phase 3 social anxiety trial but spies path to market</a>",
-        "url": "https://www.fiercebiotech.com/biotech/vistagen-fails-another-phase-3-social-anxiety-trial-spies-path-market",
-        "source": "Fierce Biotech",
-        "published": "Jun 30, 2026 9:16am",
-        "published_dt": "2026-06-30T09:16:00+00:00",
-        "summary": "Vistagen\u2019s social anxiety disorder drug candidate has flunked another phase 3 trial. But, with a post hoc subpopulation analysis linking fasedienol to a nominally statistically significant improvement, the biotech plans to talk to the FDA about a path to approval built around a single future phase 3 study and confirmatory evidence from its broader PALISADE program."
-      },
-      {
-        "id": "df7d301033bb13d1",
-        "title": "South Korea\u2019s hottest new bachelors are chip workers",
-        "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 06 Jul 2026 09:00:00 +0000",
-        "published_dt": "2026-07-06T09:00:00+00:00",
-        "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to be&#8230;"
-      },
-      {
-        "id": "90d8290e0a676937",
-        "title": "STAT+: I spoke to Anthropic\u2019s CEO about how AI may affect biotech. Here\u2019s what I learned",
-        "url": "https://www.statnews.com/2026/07/06/anthropic-ai-biotech-impact/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 06 Jul 2026 08:30:00 +0000",
-        "published_dt": "2026-07-06T08:30:00+00:00",
-        "summary": "Call AI in biotech hype at your peril. There are real reasons that pharmaceutical companies are embracing this technology right now."
-      },
-      {
-        "id": "81b44144a45f5710",
-        "title": "Opinion: Stopping doctors from ordering unnecessary diagnostic tests requires a structural fix",
-        "url": "https://www.statnews.com/2026/07/06/unnecessary-medical-tests-diagnostic-stewardship/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 06 Jul 2026 08:30:00 +0000",
-        "published_dt": "2026-07-06T08:30:00+00:00",
-        "summary": "\u201cThe medical industry has spent enormous effort making more advanced tests but expended little effort learning how to use tests correctly,\u201d writes Daniel Morgan."
-      },
-      {
-        "id": "83c7e8d04b03f379",
-        "title": "What does content creation do to mental health?",
-        "url": "https://www.statnews.com/2026/07/06/vidcon-topic-mental-health-content-creators-status-report-alex-hogan/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 06 Jul 2026 08:00:00 +0000",
-        "published_dt": "2026-07-06T08:00:00+00:00",
-        "summary": "This year at Vidcon, I was struck by how much of the conference\u2019s programming was dedicated to the mental health of content creators."
-      },
-      {
         "id": "5728afa78d3f932b",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/scribe-pens-ipo-ambitions-push-lipid-lowering-genetic-meds-through-clinic-trials\" hreflang=\"en\">Scribe notes down IPO ambition to fund lipid-lowering genetic meds through clinical trials</a>",
         "url": "https://www.fiercebiotech.com/biotech/scribe-pens-ipo-ambitions-push-lipid-lowering-genetic-meds-through-clinic-trials",
@@ -129,40 +192,13 @@
         "summary": "Scribe Therapeutics is the latest biotech to prepare a public listing, as the company looks to propel its lipid-lowering medicines through clinical trials."
       },
       {
-        "id": "e3ad169b97488c78",
-        "title": "STAT+: Roche drug sets new standard for KRAS-driven lung cancer",
-        "url": "https://www.statnews.com/2026/07/02/biotech-news-roche-drug-sets-new-standard-for-kras-driven-lung-cancer/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 02 Jul 2026 14:13:27 +0000",
-        "published_dt": "2026-07-02T14:13:27+00:00",
-        "summary": "Biotech's bull market, Vertex's gene therapy expansion, and more news from The Readout"
-      },
-      {
-        "id": "354f7f794ca56bb8",
-        "title": "Teaching AI to run with the turbines",
-        "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 02 Jul 2026 12:51:44 +0000",
-        "published_dt": "2026-07-02T12:51:44+00:00",
-        "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&#8230;"
-      },
-      {
         "id": "8aa7232d328d9c93",
         "title": "<a href=\"https://www.fiercebiotech.com/medtech/caris-life-sciences-launches-cancer-blood-test-caris-detect\" hreflang=\"en\">Caris Life Sciences launches cancer blood test \u2018Caris Detect\u2019</a>",
         "url": "https://www.fiercebiotech.com/medtech/caris-life-sciences-launches-cancer-blood-test-caris-detect",
         "source": "Fierce Biotech",
         "published": "Jul 2, 2026 9:22am",
         "published_dt": "2026-07-02T09:22:00+00:00",
-        "summary": "Caris Life Sciences has launched a new oncology blood test designed alongside AI modelling to pick up cancer at earlier stages."
-      },
-      {
-        "id": "06cd03abddd46e89",
-        "title": "STAT+: A \u2018historic\u2019 FDA clearance raises the question: Is the LLM an interface or the decision-maker?",
-        "url": "https://www.statnews.com/2026/07/02/fda-clearance-raises-questions-updoc-use-generative-ai-diabetes-treatment/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 02 Jul 2026 08:30:00 +0000",
-        "published_dt": "2026-07-02T08:30:00+00:00",
-        "summary": "The newly cleared device is based around an app that helps a patient manage their diabetes using a treatment plan defined by their doctor."
+        "summary": "Caris Life Sciences has launched a new oncology blood test designed alongside AI modeling to pick up cancer at earlier stages."
       },
       {
         "id": "9c361128ae154dc9",
@@ -183,52 +219,124 @@
         "summary": "Merck &amp; Co. has nixed the phase 2 study of a potential Alzheimer\u2019s disease medicine after the drug underwhelmed in an interim analysis, marking another blow for the pharma\u2019s struggling partner Neuphoria Therapeutics."
       },
       {
-        "id": "5fec5e4a56f34414",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-pay-11b-upfront-myricx-expand-adc-pipeline\" hreflang=\"en\">Novartis to pay $1.1B upfront for UK biotech Myricx to expand the pharma's ADC pipeline</a>",
-        "url": "https://www.fiercebiotech.com/biotech/novartis-pay-11b-upfront-myricx-expand-adc-pipeline",
-        "source": "Fierce Biotech",
-        "published": "Jul 6, 2026 4:22am",
-        "published_dt": "2026-07-06T04:22:00+00:00",
-        "summary": "Novartis is pushing deeper into antibody-drug conjugate development, paying $1.1 billion upfront to buy Myricx Bio for a pipeline based on a novel payload."
-      },
-      {
-        "id": "5330118d4287fa31",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/genentech-sees-103-roles-impacted-gred-rethink-pens-490m-breast-cancer-collab\" hreflang=\"en\">Genentech lays off 103 alongside gRED rethink, pens $490M breast cancer collab</a>",
-        "url": "https://www.fiercebiotech.com/biotech/genentech-sees-103-roles-impacted-gred-rethink-pens-490m-breast-cancer-collab",
-        "source": "Fierce Biotech",
-        "published": "Jul 5, 2026 9:01am",
-        "published_dt": "2026-07-05T09:01:00+00:00",
-        "summary": "A month after Genentech confirmed the restructuring of its early development group, the Roche subsidiary has now disclosed that this has formed part of a round of 103 layoffs."
-      },
-      {
-        "id": "e9d4a7b772175cb6",
-        "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
-        "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 03 Jul 2026 17:34:37 +0000",
-        "published_dt": "2026-07-03T17:34:37+00:00",
-        "summary": "It\u2019s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they\u2019ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn\u2019t able to see. But researchers believe they might have a solution: a device that maintains&#8230;"
-      },
-      {
-        "id": "8b591f87b8842042",
-        "title": "The Download: a smoking \u201cendgame\u201d and a new Elizabeth Bear story",
-        "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 03 Jul 2026 12:10:00 +0000",
-        "published_dt": "2026-07-03T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK\u2019s generational tobacco ban might not work. I\u2019m supporting it anyway. \u2014Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from&#8230;"
-      },
-      {
-        "id": "8c1b6aeb07954031",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/exact-imaging-boosts-us-commercial-team-next-gen-prostate-cancer-testing-tech\" hreflang=\"en\">Exact Imaging boosts U.S. commercial team for next-gen prostate cancer testing tech</a>",
-        "url": "https://www.fiercebiotech.com/medtech/exact-imaging-boosts-us-commercial-team-next-gen-prostate-cancer-testing-tech",
-        "source": "Fierce Biotech",
-        "published": "Jul 3, 2026 10:48am",
-        "published_dt": "2026-07-03T10:48:00+00:00",
-        "summary": "Exact Imaging is looking to broaden uptake of its high-resolution micro-ultrasound system for prostate cancer screening and is boosting its commercial team to help."
+        "id": "84b4de5e209afeae",
+        "title": "STAT+: Vertex acquires Crinetics Pharmaceuticals for $10 billion as biotech M&A booms",
+        "url": "https://www.statnews.com/2026/07/06/vertex-acquires-crinetics-pharmaceuticals/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 06 Jul 2026 20:52:29 +0000",
+        "published_dt": "2026-07-06T20:52:29+00:00",
+        "summary": "Vertex Pharmaceuticals will spend $10 billion to acquire Crinetics Pharmaceuticals and its drug for a rare endocrine disorder, the companies said."
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "d06716d8134ad33e",
+        "title": "Bentley Systems expands Japan investment and local team",
+        "url": "https://www.engineering.com/bentley-systems-expands-japan-investment-and-local-team/",
+        "source": "Engineering.com",
+        "published": "Tue, 07 Jul 2026 14:03:40 +0000",
+        "published_dt": "2026-07-07T14:03:40+00:00",
+        "summary": "<p>The company opened a Tokyo headquarters to support 3D digital delivery under Japan\u2019s i-Construction 2029 initiative.</p>\n<p>The post <a href=\"https://www.engineering.com/bentley-systems-expands-japan-investment-and-local-team/\">Bentley Systems expands Japan investment and local team</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "48e3f082259dd368",
+        "title": "ORECA selects Siemens software for racing simulation",
+        "url": "https://www.engineering.com/oreca-selects-siemens-software-for-racing-simulation/",
+        "source": "Engineering.com",
+        "published": "Tue, 07 Jul 2026 13:43:35 +0000",
+        "published_dt": "2026-07-07T13:43:35+00:00",
+        "summary": "<p>The tools support CFD, multiphysics analysis and carbon-fiber layup optimization in vehicle development programs.</p>\n<p>The post <a href=\"https://www.engineering.com/oreca-selects-siemens-software-for-racing-simulation/\">ORECA selects Siemens software for racing simulation</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "aaef0fe7383d898b",
+        "title": "Trimble adds AI tools to MEP estimating software",
+        "url": "https://www.engineering.com/trimble-adds-ai-tools-to-mep-estimating-software/",
+        "source": "Engineering.com",
+        "published": "Tue, 07 Jul 2026 13:03:16 +0000",
+        "published_dt": "2026-07-07T13:03:16+00:00",
+        "summary": "<p>New features automate setup, symbol counts and conduit measurement, with availability in North America and the United Kingdom.</p>\n<p>The post <a href=\"https://www.engineering.com/trimble-adds-ai-tools-to-mep-estimating-software/\">Trimble adds AI tools to MEP estimating software</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "00db4f4bef73a282",
+        "title": "Echodyne expands production of drone-detecting radars",
+        "url": "https://aerospaceamerica.aiaa.org/echodyne-expands-production-of-drone-detecting-radars/",
+        "source": "Aerospace America",
+        "published": "Tue, 07 Jul 2026 12:57:06 +0000",
+        "published_dt": "2026-07-07T12:57:06+00:00",
+        "summary": ""
+      },
+      {
+        "id": "d485768e5d6c0586",
+        "title": "Simera Sense to provide imagers for Canary Islands constellation",
+        "url": "https://spacenews.com/simera-sense-to-provide-imagers-for-canary-islands-constellation/",
+        "source": "SpaceNews",
+        "published": "Tue, 07 Jul 2026 12:01:41 +0000",
+        "published_dt": "2026-07-07T12:01:41+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Canary-Islands.png?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Belgium\u2019s Simera Sense has won a contract to provide multispectral imagers for a small constellation being designed to track wildfires, volcanic activity and other regional priorities for the Canary Islands off the coast of Spain.</p>\n<p>The post <a href=\"https://spacenews.com/simera-sense-to-provide-imagers-for-canary-islands-constellation/\">Simera Sense to provide imagers for Canary Islands constellation</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "9fbb761ceec48fcc",
+        "title": "Treon vibration sensor wins Red Dot product design award",
+        "url": "https://www.engineering.com/treon-vibration-sensor-wins-red-dot-product-design-award/",
+        "source": "Engineering.com",
+        "published": "Tue, 07 Jul 2026 12:00:27 +0000",
+        "published_dt": "2026-07-07T12:00:27+00:00",
+        "summary": "<p>Industrial Node X monitors vibration, temperature and rotation speed, with edge processing and hazardous-area certification.</p>\n<p>The post <a href=\"https://www.engineering.com/treon-vibration-sensor-wins-red-dot-product-design-award/\">Treon vibration sensor wins Red Dot product design award</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "6b63a5ba405326fe",
+        "title": "Schneider Electric to deploy SF\u2086-free switchgear in California",
+        "url": "https://www.engineering.com/schneider-electric-to-deploy-sf%e2%82%86-free-switchgear-in-california/",
+        "source": "Engineering.com",
+        "published": "Tue, 07 Jul 2026 11:35:07 +0000",
+        "published_dt": "2026-07-07T11:35:07+00:00",
+        "summary": "<p>Southern California Edison plans to use modular substation systems to expand capacity within existing footprints starting in 2027.</p>\n<p>The post <a href=\"https://www.engineering.com/schneider-electric-to-deploy-sf%e2%82%86-free-switchgear-in-california/\">Schneider Electric to deploy SF\u2086-free switchgear in California</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "6632b8dced752da4",
+        "title": "Buildots adds superstructure tracking to its platform",
+        "url": "https://www.engineering.com/buildots-adds-superstructure-tracking-to-its-platform/",
+        "source": "Engineering.com",
+        "published": "Tue, 07 Jul 2026 11:29:25 +0000",
+        "published_dt": "2026-07-07T11:29:25+00:00",
+        "summary": "<p>The feature uses drones and 360-degree cameras to analyze structural-phase progress and flag schedule risks earlier.</p>\n<p>The post <a href=\"https://www.engineering.com/buildots-adds-superstructure-tracking-to-its-platform/\">Buildots adds superstructure tracking to its platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "7fb727745993d288",
+        "title": "Lockheed Martin signs deal to acquire Ultra Maritime",
+        "url": "https://www.engineering.com/lockheed-martin-signs-deal-to-acquire-ultra-maritime/",
+        "source": "Engineering.com",
+        "published": "Tue, 07 Jul 2026 11:24:31 +0000",
+        "published_dt": "2026-07-07T11:24:31+00:00",
+        "summary": "<p>The $3.45 billion agreement adds sonar, sonobuoy and torpedo defense systems for undersea and anti-submarine warfare.</p>\n<p>The post <a href=\"https://www.engineering.com/lockheed-martin-signs-deal-to-acquire-ultra-maritime/\">Lockheed Martin signs deal to acquire Ultra Maritime</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "7c37232c77c80801",
+        "title": "CurifyLabs raises $14 million in Series A funding",
+        "url": "https://www.engineering.com/curifylabs-raises-14-million-in-series-a-funding/",
+        "source": "Engineering.com",
+        "published": "Tue, 07 Jul 2026 11:19:31 +0000",
+        "published_dt": "2026-07-07T11:19:31+00:00",
+        "summary": "<p>The funding will support U.S. expansion and development of 3D printing systems for non-sterile personalized drug compounding.</p>\n<p>The post <a href=\"https://www.engineering.com/curifylabs-raises-14-million-in-series-a-funding/\">CurifyLabs raises $14 million in Series A funding</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "0461d7e205875f1e",
+        "title": "SpaceX satellite wins test Pentagon\u2019s commitment to competition",
+        "url": "https://spacenews.com/spacexs-wins-test-pentagons-commitment-to-competition/",
+        "source": "SpaceNews",
+        "published": "Tue, 07 Jul 2026 11:00:00 +0000",
+        "published_dt": "2026-07-07T11:00:00+00:00",
+        "summary": "<figure><img alt=\"A SpaceX Falcon 9 launches 24 Starlink satellites from California on June 15. Credit: SpaceX\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"643\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/HK3nvbNWoAAlR2p-scaled.jpeg?fit=1024%2C643&amp;ssl=1\" width=\"1024\" /></figure>\n<p>As the military rushes to deploy proliferated networks, SpaceX\u2019s dominance is attracting congressional scrutiny </p>\n<p>The post <a href=\"https://spacenews.com/spacexs-wins-test-pentagons-commitment-to-competition/\">SpaceX satellite wins test Pentagon\u2019s commitment to competition</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "bd9da8542d319881",
+        "title": "Isar Aerospace signs agreement for Canadian launch site",
+        "url": "https://spacenews.com/isar-aerospace-signs-agreement-for-canadian-launch-site/",
+        "source": "SpaceNews",
+        "published": "Tue, 07 Jul 2026 08:00:00 +0000",
+        "published_dt": "2026-07-07T08:00:00+00:00",
+        "summary": "<figure><img alt=\"Spectrum launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"684\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/spectrum-1stlaunch-kenniston.jpeg?fit=1024%2C684&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Isar Aerospace has signed a contract to develop a Canadian launch site for its Spectrum rocket, an agreement linked to a deal to sell submarines to the Canadian military.</p>\n<p>The post <a href=\"https://spacenews.com/isar-aerospace-signs-agreement-for-canadian-launch-site/\">Isar Aerospace signs agreement for Canadian launch site</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
       {
         "id": "01c2830e2544daf5",
         "title": "Castelion readies for U.S. Army, Navy demos of its hypersonic missiles",
@@ -237,6 +345,60 @@
         "published": "Mon, 06 Jul 2026 13:17:41 +0000",
         "published_dt": "2026-07-06T13:17:41+00:00",
         "summary": ""
+      },
+      {
+        "id": "2661e7c669bf0e02",
+        "title": "Chinese satellite manufacturer Hongqing raises $191 million",
+        "url": "https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/",
+        "source": "SpaceNews",
+        "published": "Fri, 03 Jul 2026 13:10:37 +0000",
+        "published_dt": "2026-07-03T13:10:37+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Zhuque-2E-Spacesail-DTC-ChinaMobile02-9june2026-landspace.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>HELSINKI \u2014 Hongqing Technology, the satellite manufacturing affiliate of launch firm Landspace, has secured one of the largest single raises for a Chinese commercial satellite maker. The funding round, announced [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/\">Chinese satellite manufacturer Hongqing raises $191 million</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "46311e29a63d78b1",
+        "title": "Isar Aerospace to launch German-built Planet imaging satellite",
+        "url": "https://spacenews.com/isar-aerospace-to-launch-german-built-planet-imaging-satellite/",
+        "source": "SpaceNews",
+        "published": "Thu, 02 Jul 2026 18:20:48 +0000",
+        "published_dt": "2026-07-02T18:20:48+00:00",
+        "summary": "<figure><img alt=\"Spectrum liftoff\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"551\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/spectrum-liftoff.jpeg?fit=1024%2C551&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Isar Aerospace won a contract from Planet\u2019s German subsidiary to launch an imaging satellite, demonstrating an end-to-end space capability for the country.</p>\n<p>The post <a href=\"https://spacenews.com/isar-aerospace-to-launch-german-built-planet-imaging-satellite/\">Isar Aerospace to launch German-built Planet imaging satellite</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "160f2bb071919757",
+        "title": "U.S. Army expands advanced manufacturing of drone components at Pennsylvania depot",
+        "url": "https://aerospaceamerica.aiaa.org/u-s-army-expands-advanced-manufacturing-of-drone-components-at-pennsylvania-depot/",
+        "source": "Aerospace America",
+        "published": "Mon, 29 Jun 2026 21:13:23 +0000",
+        "published_dt": "2026-06-29T21:13:23+00:00",
+        "summary": ""
+      },
+      {
+        "id": "f9444a44dfad0536",
+        "title": "Blue Origin continues work on lunar landers during recovery from New Glenn explosion",
+        "url": "https://spacenews.com/blue-origin-continues-work-on-lunar-landers-during-recovery-from-new-glenn-explosion/",
+        "source": "SpaceNews",
+        "published": "Mon, 06 Jul 2026 20:09:47 +0000",
+        "published_dt": "2026-07-06T20:09:47+00:00",
+        "summary": "<figure><img alt=\"Mark 2 Alpha\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"720\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/mk2alpha.jpeg?fit=1024%2C720&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Blue Origin is continuing to develop its Blue Moon lunar landers, with seven vehicles in production, while recovering from the New Glenn pad explosion more than a month ago.</p>\n<p>The post <a href=\"https://spacenews.com/blue-origin-continues-work-on-lunar-landers-during-recovery-from-new-glenn-explosion/\">Blue Origin continues work on lunar landers during recovery from New Glenn explosion</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "044909e693cc091f",
+        "title": "Iridium folds Aireon aviation safety service into Rocket Lab-bound business",
+        "url": "https://spacenews.com/iridium-folds-aireon-aviation-safety-service-into-rocket-lab-bound-business/",
+        "source": "SpaceNews",
+        "published": "Mon, 06 Jul 2026 19:02:32 +0000",
+        "published_dt": "2026-07-06T19:02:32+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/AIR-0001-Data-Services-v2.00_01_36_17.Still001.webp?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Iridium Communications has completed its takeover of Aireon, bringing the aircraft-tracking venture fully in-house ahead of the satellite operator\u2019s planned $8 billion sale to Rocket Lab.</p>\n<p>The post <a href=\"https://spacenews.com/iridium-folds-aireon-aviation-safety-service-into-rocket-lab-bound-business/\">Iridium folds Aireon aviation safety service into Rocket Lab-bound business</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "46fb685f1c75223a",
+        "title": "NASA adds three European firms to the commercial data program",
+        "url": "https://spacenews.com/nasa-adds-three-european-firms-to-the-commercial-data-program/",
+        "source": "SpaceNews",
+        "published": "Mon, 06 Jul 2026 15:57:10 +0000",
+        "published_dt": "2026-07-06T15:57:10+00:00",
+        "summary": "<figure><img alt=\"An illustration of a satellite communications network. Credit: NASA\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"410\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/csda-program-hero-2500x1000-200dpi.webp?fit=1024%2C410&amp;ssl=1\" width=\"1024\" /></figure>\n<p>MILAN \u2014 NASA\u2019s Commercial Satellite Data Acquisition program (CSDA) announced June 23 contract awards with eight new commercial satellite data providers, three of which are European: Kuva Space (Finland), OroraTech [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/nasa-adds-three-european-firms-to-the-commercial-data-program/\">NASA adds three European firms to the commercial data program</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "d9521b65dcd20941",
@@ -284,24 +446,6 @@
         "summary": "<p>The collaboration focuses on machine revamps, predictive maintenance, digital monitoring and more autonomous grinder operation.</p>\n<p>The post <a href=\"https://www.engineering.com/pomini-tenova-and-siemens-expand-roll-grinder-partnership/\">Pomini Tenova and Siemens expand roll grinder partnership</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "432ac4530b60552b",
-        "title": "Nemetschek completes acquisition of HCSS",
-        "url": "https://www.engineering.com/nemetschek-completes-acquisition-of-hcss/",
-        "source": "Engineering.com",
-        "published": "Mon, 06 Jul 2026 11:40:00 +0000",
-        "published_dt": "2026-07-06T11:40:00+00:00",
-        "summary": "<p>HCSS joins the Build &#038; Construct segment, where Thoma Bravo now holds a 28% minority stake after the transaction.</p>\n<p>The post <a href=\"https://www.engineering.com/nemetschek-completes-acquisition-of-hcss/\">Nemetschek completes acquisition of HCSS</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "347b686173201d64",
-        "title": "Verkada collaborates with NVIDIA on physical AI",
-        "url": "https://www.engineering.com/verkada-collaborates-with-nvidia-on-physical-ai/",
-        "source": "Engineering.com",
-        "published": "Mon, 06 Jul 2026 11:18:37 +0000",
-        "published_dt": "2026-07-06T11:18:37+00:00",
-        "summary": "<p>NVIDIA also invested in Verkada as the companies work on video search, synthetic data and AI models for site monitoring.</p>\n<p>The post <a href=\"https://www.engineering.com/verkada-collaborates-with-nvidia-on-physical-ai/\">Verkada collaborates with NVIDIA on physical AI</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
         "id": "1ea2e88b22c50a4f",
         "title": "Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard",
         "url": "https://spacenews.com/centre-for-space-futures-novaspace-and-spacetech-gulf-sign-agreement-to-develop-global-space-capability-mapping-dashboard/",
@@ -309,150 +453,6 @@
         "published": "Mon, 06 Jul 2026 10:00:00 +0000",
         "published_dt": "2026-07-06T10:00:00+00:00",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Untitled-1080-x-1080-px.png?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Riyadh, Saudi Arabia \u2013 June, 2026 The Centre for Space Futures (CSF), together with leading international partners including Novaspace, and SpaceTech Gulf, have signed a Memorandum of Cooperation (MoC) to [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/centre-for-space-futures-novaspace-and-spacetech-gulf-sign-agreement-to-develop-global-space-capability-mapping-dashboard/\">Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "9cbe60838fc137e9",
-        "title": "Infineon opens Dresden semiconductor fab ahead of schedule",
-        "url": "https://www.engineering.com/infineon-opens-dresden-semiconductor-fab-ahead-of-schedule/",
-        "source": "Engineering.com",
-        "published": "Mon, 06 Jul 2026 09:37:00 +0000",
-        "published_dt": "2026-07-06T09:37:00+00:00",
-        "summary": "<p>The 5 billion-euro plant adds 1,000 direct jobs and expands chip production for industrial, automotive and AI-related uses.</p>\n<p>The post <a href=\"https://www.engineering.com/infineon-opens-dresden-semiconductor-fab-ahead-of-schedule/\">Infineon opens Dresden semiconductor fab ahead of schedule</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "32e05206bc9a3930",
-        "title": "Tianwen-2 arrives at asteroid Kamo\u2019oalewa, first image revealed",
-        "url": "https://spacenews.com/tianwen-2-arrives-at-asteroid-kamooalewa-first-image-revealed/",
-        "source": "SpaceNews",
-        "published": "Mon, 06 Jul 2026 09:14:36 +0000",
-        "published_dt": "2026-07-06T09:14:36+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"611\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Tianwen2-kamooalewa-20km-july-2026-CNSA.jpg?fit=592%2C611&amp;ssl=1\" width=\"592\" /></figure>\n<p>HELSINKI \u2014 China\u2019s Tianwen-2 sample return spacecraft has arrived at Kamo\u02bboalewa, revealing the near Earth asteroid to be a small, elongated rocky body. Tianwen-2 launched May 29, 2025, and traveled [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/tianwen-2-arrives-at-asteroid-kamooalewa-first-image-revealed/\">Tianwen-2 arrives at asteroid Kamo&#8217;oalewa, first image revealed\u00a0</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "2af485179421e3d9",
-        "title": "SiTime completes acquisition of Renesas timing assets",
-        "url": "https://www.engineering.com/sitime-completes-acquisition-of-renesas-timing-assets/",
-        "source": "Engineering.com",
-        "published": "Mon, 06 Jul 2026 08:47:00 +0000",
-        "published_dt": "2026-07-06T08:47:00+00:00",
-        "summary": "<p>The deal expands SiTime\u2019s clocking portfolio and adds a customer base focused largely on AI, datacenter and communications markets.</p>\n<p>The post <a href=\"https://www.engineering.com/sitime-completes-acquisition-of-renesas-timing-assets/\">SiTime completes acquisition of Renesas timing assets</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "2f6d2e6f15351770",
-        "title": "Keysight and WIN link design tools for GaN MMIC workflow",
-        "url": "https://www.engineering.com/keysight-and-win-link-design-tools-for-gan-mmic-workflow/",
-        "source": "Engineering.com",
-        "published": "Mon, 06 Jul 2026 08:42:00 +0000",
-        "published_dt": "2026-07-06T08:42:00+00:00",
-        "summary": "<p>The setup combines chip simulation, layout verification and evaluation board design to reduce respins before fabrication.</p>\n<p>The post <a href=\"https://www.engineering.com/keysight-and-win-link-design-tools-for-gan-mmic-workflow/\">Keysight and WIN link design tools for GaN MMIC workflow</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "2661e7c669bf0e02",
-        "title": "Chinese satellite manufacturer Hongqing raises $191 million",
-        "url": "https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/",
-        "source": "SpaceNews",
-        "published": "Fri, 03 Jul 2026 13:10:37 +0000",
-        "published_dt": "2026-07-03T13:10:37+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Zhuque-2E-Spacesail-DTC-ChinaMobile02-9june2026-landspace.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>HELSINKI \u2014 Hongqing Technology, the satellite manufacturing affiliate of launch firm Landspace, has secured one of the largest single raises for a Chinese commercial satellite maker. The funding round, announced [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/\">Chinese satellite manufacturer Hongqing raises $191 million</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "46311e29a63d78b1",
-        "title": "Isar Aerospace to launch German-built Planet imaging satellite",
-        "url": "https://spacenews.com/isar-aerospace-to-launch-german-built-planet-imaging-satellite/",
-        "source": "SpaceNews",
-        "published": "Thu, 02 Jul 2026 18:20:48 +0000",
-        "published_dt": "2026-07-02T18:20:48+00:00",
-        "summary": "<figure><img alt=\"Spectrum liftoff\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"551\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/spectrum-liftoff.jpeg?fit=1024%2C551&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Isar Aerospace won a contract from Planet\u2019s German subsidiary to launch an imaging satellite, demonstrating an end-to-end space capability for the country.</p>\n<p>The post <a href=\"https://spacenews.com/isar-aerospace-to-launch-german-built-planet-imaging-satellite/\">Isar Aerospace to launch German-built Planet imaging satellite</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "ad06dcf8c39f5883",
-        "title": "Velo3D expands with new Livermore production facility",
-        "url": "https://www.engineering.com/velo3d-expands-with-new-livermore-production-facility/",
-        "source": "Engineering.com",
-        "published": "Thu, 02 Jul 2026 13:18:06 +0000",
-        "published_dt": "2026-07-02T13:18:06+00:00",
-        "summary": "<p>The 288,747-square-foot site is designed to support large-format metal additive systems and increase manufacturing capacity.</p>\n<p>The post <a href=\"https://www.engineering.com/velo3d-expands-with-new-livermore-production-facility/\">Velo3D expands with new Livermore production facility</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "fe6a996ece948d2f",
-        "title": "Vertiv opens manufacturing facility in Malaysia",
-        "url": "https://www.engineering.com/vertiv-opens-manufacturing-facility-in-malaysia/",
-        "source": "Engineering.com",
-        "published": "Thu, 02 Jul 2026 13:08:09 +0000",
-        "published_dt": "2026-07-02T13:08:09+00:00",
-        "summary": "<p>The Johor site adds assembly and testing capacity for liquid cooling, power modules and prefabricated infrastructure systems.</p>\n<p>The post <a href=\"https://www.engineering.com/vertiv-opens-manufacturing-facility-in-malaysia/\">Vertiv opens manufacturing facility in Malaysia</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "160f2bb071919757",
-        "title": "U.S. Army expands advanced manufacturing of drone components at Pennsylvania depot",
-        "url": "https://aerospaceamerica.aiaa.org/u-s-army-expands-advanced-manufacturing-of-drone-components-at-pennsylvania-depot/",
-        "source": "Aerospace America",
-        "published": "Mon, 29 Jun 2026 21:13:23 +0000",
-        "published_dt": "2026-06-29T21:13:23+00:00",
-        "summary": ""
-      },
-      {
-        "id": "91076095ec347883",
-        "title": "\u2018Space gun\u2019 startup hopes to offer U.S. military an affordable way to test hypersonic weapons",
-        "url": "https://aerospaceamerica.aiaa.org/space-gun-startup-hopes-to-offer-u-s-military-an-affordable-way-to-test-hypersonic-weapons/",
-        "source": "Aerospace America",
-        "published": "Fri, 19 Jun 2026 13:00:00 +0000",
-        "published_dt": "2026-06-19T13:00:00+00:00",
-        "summary": ""
-      },
-      {
-        "id": "d43774c6fae198ad",
-        "title": "NASA and Small Business Administration partner on funding key space technologies",
-        "url": "https://spacenews.com/nasa-and-small-business-administration-partner-on-funding-key-space-technologies/",
-        "source": "SpaceNews",
-        "published": "Mon, 06 Jul 2026 01:43:42 +0000",
-        "published_dt": "2026-07-06T01:43:42+00:00",
-        "summary": "<figure><img alt=\"NASA SBA signing\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/55364807011_9b87d7fd6c_k.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NASA is partnering with the U.S. Small Business Administration (SBA) on an effort to attract capital to invest in companies producing critical space components.</p>\n<p>The post <a href=\"https://spacenews.com/nasa-and-small-business-administration-partner-on-funding-key-space-technologies/\">NASA and Small Business Administration partner on funding key space technologies</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "1a8abb3983d36647",
-        "title": "Airbus to build Aeolus-2 wind-monitoring satellite",
-        "url": "https://spacenews.com/airbus-to-build-aeolus-2-wind-monitoring-satellite/",
-        "source": "SpaceNews",
-        "published": "Sun, 05 Jul 2026 15:17:47 +0000",
-        "published_dt": "2026-07-05T15:17:47+00:00",
-        "summary": "<figure><img alt=\"Aeolus-2\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"724\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/aeolus2.jpeg?fit=1024%2C724&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The European Space Agency has selected Airbus Defence and Space to start work on the successor to a wind-monitoring satellite.</p>\n<p>The post <a href=\"https://spacenews.com/airbus-to-build-aeolus-2-wind-monitoring-satellite/\">Airbus to build Aeolus-2 wind-monitoring satellite</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "803684de55c010ea",
-        "title": "GAO flags satellite costs, launch risks in Space Force portfolio",
-        "url": "https://spacenews.com/gao-flags-satellite-costs-launch-risks-in-space-force-portfolio/",
-        "source": "SpaceNews",
-        "published": "Sat, 04 Jul 2026 10:17:06 +0000",
-        "published_dt": "2026-07-04T10:17:06+00:00",
-        "summary": "<figure><img alt=\"Lockheed Martin Next Gen OPIR GEO (NGG) satellite\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"467\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2022/07/FYsxAiQVQAE6yUJ.jpg?fit=800%2C467&amp;ssl=1\" width=\"800\" /></figure>\n<p>Watchdog cites growing costs for missile-warning satellites, digital engineering gaps and workforce reductions that could slow national security launches</p>\n<p>The post <a href=\"https://spacenews.com/gao-flags-satellite-costs-launch-risks-in-space-force-portfolio/\">GAO flags satellite costs, launch risks in Space Force portfolio</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "8a6c0e63251bfe92",
-        "title": "Pegasus launches Swift reboost mission",
-        "url": "https://spacenews.com/pegasus-launches-swift-reboost-mission/",
-        "source": "SpaceNews",
-        "published": "Fri, 03 Jul 2026 20:55:34 +0000",
-        "published_dt": "2026-07-03T20:55:34+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/pegasus-swift.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A Pegasus XL launched a mission to reboost a NASA astrophysics spacecraft on what may be the final flight of that rocket.</p>\n<p>The post <a href=\"https://spacenews.com/pegasus-launches-swift-reboost-mission/\">Pegasus launches Swift reboost mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "58d2452ff7bedc33",
-        "title": "Perovskite solar panel startup Verde Technologies shifts focus to space",
-        "url": "https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/",
-        "source": "SpaceNews",
-        "published": "Thu, 02 Jul 2026 19:27:36 +0000",
-        "published_dt": "2026-07-02T19:27:36+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/RTR-perovskite-manufaturing-scaled.jpeg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Verde Technologies is turning to space to commercialize perovskite-based solar panels, shifting its initial focus away from rooftops in a bet that the thin-film material can help power orbital data centers and other large constellations.</p>\n<p>The post <a href=\"https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/\">Perovskite solar panel startup Verde Technologies shifts focus to space</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "9be5a69eb6b97f77",
-        "title": "Polish space tech company Sybilla Technologies secures funds to enter U.S. market",
-        "url": "https://spacenews.com/polish-space-tech-company-sybilla-technologies-secures-funds-to-enter-u-s-market/",
-        "source": "SpaceNews",
-        "published": "Thu, 02 Jul 2026 17:38:50 +0000",
-        "published_dt": "2026-07-02T17:38:50+00:00",
-        "summary": "<figure><img alt=\"An optical system developed by Sybilla Technologies. Credit: Sybilla Technologies\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Photo-by-Sybilla-Technologies.jpg?fit=768%2C1024&amp;ssl=1\" width=\"768\" /></figure>\n<p>WARSAW, Poland \u2014 The Polish state-owned bank BGK and European venture capital firm 3TS Capital Partners have unveiled an investment of around 35 million zloty ($10 million) in Poland\u2019s space [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/polish-space-tech-company-sybilla-technologies-secures-funds-to-enter-u-s-market/\">Polish space tech company Sybilla Technologies secures funds to enter U.S. market</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
@@ -684,22 +684,22 @@
     ],
     "Cross-Disciplinary": [
       {
-        "id": "69b42f176ca68058",
-        "title": "VHF Propagation: What Every RF Engineer Should Know",
-        "url": "https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/",
-        "source": "IEEE Spectrum",
-        "published": "Mon, 06 Jul 2026 13:54:01 +0000",
-        "published_dt": "2026-07-06T13:54:01+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/rohde-schwarz-logo-with-slogan-make-ideas-real-and-rs-monogram-in-diamond.png?id=67100642&amp;width=980\" /><br /><br /><p>A practical educational guide to common and uncommon VHF propagation modes, covering the <span>physics, range implications, and real-world behaviors engineers need to understand.</span></p><p>What Attendees will Learn</p><p>1. Why \u201cline of sight\u201d fails as a practical VHF planning model.</p><p>2. How refraction, reflection, diffraction, and scattering deliver or destroy signals where geometry alone cannot predict.3. How tropospheric refraction extends the VHF radio horizon roughly one-third beyond optical line of sight.</p><p>4. How temperature inversions form ducts that can carry VHF signals over 1,500 km.5. How sporadic E, meteor burst, and EME propagate VHF signals across hundreds to thousands of kilometers.</p><p>6. What frequency limits, distance ranges, and environmental triggers apply to each <span>propagation mode.</span></p><p>7. How to apply this knowledge to link budgeting, interference prediction, and contingency planning.</p><p><span><a href=\"https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/\" target=\"_blank\">Download this free whitepaper now!</a></span></p>"
+        "id": "c170d471e8f2dfc0",
+        "title": "The Download: your stake in OpenAI, and the Treasury\u2019s AI warning",
+        "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 07 Jul 2026 12:10:00 +0000",
+        "published_dt": "2026-07-07T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family\u2019s $300 stake in OpenAI Sam Altman\u2019s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving&#8230;"
       },
       {
-        "id": "844233d3b1d930ed",
-        "title": "The Download: South Korea\u2019s hottest bachelors, and advancing eye transplants",
-        "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+        "id": "5786331c6dbd0785",
+        "title": "The foundational elements of AI architecture that IT leaders need to scale",
+        "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
         "source": "MIT Technology Review",
-        "published": "Mon, 06 Jul 2026 13:00:00 +0000",
-        "published_dt": "2026-07-06T13:00:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea\u2019s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a year ago. In a&#8230;"
+        "published": "Tue, 07 Jul 2026 11:10:52 +0000",
+        "published_dt": "2026-07-07T11:10:52+00:00",
+        "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture\u2014the&#8230;"
       },
       {
         "id": "9c7f5ae6c724587c",
@@ -727,6 +727,15 @@
         "published": "Fri, 19 Jun 2026 18:00:01 +0000",
         "published_dt": "2026-06-19T18:00:01+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-middle-aged-black-man-taking-a-virtual-coding-class-in-his-home-office.jpg?id=66951841&amp;width=1245&amp;height=700&amp;coordinates=0%2C156%2C0%2C157\" /><br /><br /><p><a href=\"https://spectrum.ieee.org/recursive-self-improvement\" target=\"_self\">Large language models</a> have moved out of the research lab and into engineers\u2019 daily workflow. LLMs serve as reasoning engines that can orchestrate complex tasks including identifying vulnerabilities in source code and transforming fragmented project discussions into rigorous technical specifications.</p><p>While the general public uses AI tools to write email and plan vacations, technical professionals use LLMs as core architectural elements that are fundamentally changing how digital infrastructures are built and maintained. As the AI models move into mainstream engineering practice, the demand for technical expertise is rising.</p><p>The LLM technology market is expected to grow by <a href=\"https://www.marketsandmarkets.com/Market-Reports/large-language-model-llm-market-102137956.html\" rel=\"noopener noreferrer\" target=\"_blank\">about 33 percent every year through 2030</a>, according to <a href=\"https://www.marketsandmarkets.com/AboutUs-8.html\" rel=\"noopener noreferrer\" target=\"_blank\">MarketsandMarkets</a>. The rapid expansion suggests that proficiency in implementing and securing the models is transitioning from a niche into a core requirement for technologists.</p><h2>More than just a better search engine</h2><p>To use LLMs effectively, technical professionals must move beyond treating them as conversational robots. At a fundamental level, the AI systems are built on the <a href=\"https://ieeexplore.ieee.org/document/10245906\" rel=\"noopener noreferrer\" target=\"_blank\">transformer architecture</a>, a framework that replaced the older method of processing data in a fixed, sequential order. Unlike earlier models that analyzed information one step at a time, transformers use self-attention mechanisms to ingest vast datasets simultaneously.</p><p class=\"pull-quote\">For technical professionals, LLMs are core architectural elements that are fundamentally changing how digital infrastructures are built and maintained.</p><p>Relying on such LLMs without understanding their internal logic creates a significant reliability risk. To build tools that work consistently, developers must understand the core principles that govern how the models process information and generate results. By mastering how a model processes information and how its internal settings influence the result, developers can move away from a trial-and-error approach toward a more precise one to ensure the AI tool handles complex data reliably.</p><h2>Four ways LLMs are changing jobs</h2><p>Here are areas that integrate large language models.</p><p><strong>Moving past basic prompts. </strong>Developers are using application program interfaces (APIs) to connect LLMs directly to their databases and software tools. Employing the APIs allows AI to perform work such as executing code or searching through internal repositories.</p><p><strong>Fixing the \u201challucination\u201d problem. </strong>LLMs are at risk of <a href=\"https://spectrum.ieee.org/ai-agent-benchmarks\" target=\"_self\">hallucinations</a>, which are generated facts or code that looks correct but actually is wrong or broken. To fix the problem, retrieval-augmented generation (RAG) forces AI to look up information in a trusted source such as a company\u2019s database.</p><p><strong>Prioritizing data security. </strong>When using AI with proprietary code, <a href=\"https://spectrum.ieee.org/two-new-ai-ethics-certifications\" target=\"_self\">security</a> is a major concern. Engineers must learn how to set up \u201cprivate\u201d instances of the models to ensure that sensitive company data stays within a secure cloud environment and is not used to train public versions.</p><p><strong>The future of collaboration. </strong>By automating repetitive coding tasks and summarizing thousands of pages of documentation, LLMs let engineers spend more time on high-level designs and solving important issues.</p><h2>Online course program helps with mastering the tech</h2><p>The gap between people who use AI and those who understand how to build with it is growing wider. To help technical professionals stay ahead, IEEE offers a five-course online program, <a href=\"https://iln.ieee.org/public/contentdetails.aspx?id=B570F53B5DA44B258042A12AE5BD6846\" target=\"_blank\">Large Language Models Demystified</a>, available through the <a href=\"https://iln.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Learning Network</a>.</p><p>The program, developed by <a href=\"https://ea.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Educational Activities</a> in partnership with the <a href=\"https://computer.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Computer Society</a>, is built for people who want to understand the \u201chow\u201d and the \u201cwhy\u201d behind the technology. Rather than just teaching basic prompting, the curriculum dives into the engineering behind generative AI, including:</p><ul><li><strong>Evolution, impact, and hands-on exercises: </strong>the shift from statistical methods to modern transformers, including hands-on model optimization.</li><li><strong>Understanding transformer architectures:</strong> the mathematical core of self-attention and positional encoding, implemented in <a href=\"https://numpy.org/\" rel=\"noopener noreferrer\" target=\"_blank\">NumPy</a> and <a href=\"https://www.python.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Python</a>.</li><li><strong>Architectural analysis and implementation:</strong> advanced LLM design with practical model-building exercises.</li><li><strong>Training and modeling with PyTorch:</strong> end-to-end pipelines in <a href=\"https://pytorch.org/\" rel=\"noopener noreferrer\" target=\"_blank\">PyTorch</a>, leveraging parameter-efficient techniques such as <a href=\"https://arxiv.org/abs/2106.09685\" rel=\"noopener noreferrer\" target=\"_blank\">low-rank adaptation</a> and quantization.</li><li><strong>Optimization, alignment, and deployment:</strong> performance scaling, <a href=\"https://aws.amazon.com/what-is/reinforcement-learning-from-human-feedback/\" rel=\"noopener noreferrer\" target=\"_blank\">reinforcement learning from human feedback (RLHF)</a>, <a href=\"https://cameronrwolfe.substack.com/p/grpo\" rel=\"noopener noreferrer\" target=\"_blank\">group-relative policy optimization</a>, RAG, and agentic AI.</li></ul><p>Upon completion of the program, participants earn professional development credits and a digital badge from IEEE to verify their expertise.</p><p><a href=\"https://iln.ieee.org/public/contentdetails.aspx?id=B570F53B5DA44B258042A12AE5BD6846\" rel=\"noopener noreferrer\" target=\"_blank\">Enroll in the course program</a> on the IEEE Learning Network.</p><p>Organizations looking to prepare their teams to work on LLMs can connect with an <a href=\"https://forms1.ieee.org/Large-Language-Models-Demystified.html\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE content specialist</a> to discuss group enrollment and tailored training paths.</p>"
+      },
+      {
+        "id": "522c1c4937315934",
+        "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+        "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 07 Jul 2026 10:00:00 +0000",
+        "published_dt": "2026-07-07T10:00:00+00:00",
+        "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family\u2019s land in Hickman, a tiny town in the state\u2019s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squirming red earthworms.&#8230;"
       },
       {
         "id": "28232bf9bb11dd5f",
@@ -774,15 +783,6 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-black-woman-speaking-into-a-microphone-in-front-of-a-presentation-screen.jpg?id=66951490&amp;width=1245&amp;height=700&amp;coordinates=0%2C197%2C0%2C197\" /><br /><br /><p>The rapid evolution of the global engineering landscape requires continuous education. For one week in April, the IEEE community focuses on its educational frameworks. <a href=\"https://educationweek.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Education Week</a>, which just concluded its fifth year, provided a comprehensive overview of the resources available to professionals and students.</p><p>From 11 to 19 April, the organization supplied a variety of <a href=\"https://educationweek.ieee.org/events/\" rel=\"noopener noreferrer\" target=\"_blank\">live and virtual events</a>, <a href=\"https://educationweek.ieee.org/resources/\" rel=\"noopener noreferrer\" target=\"_blank\">online resources</a>, and <a href=\"https://educationweek.ieee.org/special-offers/\" rel=\"noopener noreferrer\" target=\"_blank\">promotions</a> that champion the cycle of lifelong learning.</p><p><a href=\"https://spectrum.ieee.org/u/maryellen-randall\" target=\"_self\">IEEE President Mary Ellen Randall</a> kicked off the week with the keynote: \u201cInspiring Tomorrow\u2019s Innovators: How IEEE Educational Resources Can Open Pathways Into STEM.\u201d The event served as a central point for programs that run throughout the year.</p><p>\u201cEducation Week allows different units to share resources with members and the public, covering everything from preuniversity programs to advanced professional training,\u201d says <a href=\"https://www.ieee.org/jamie-moesch\" rel=\"noopener noreferrer\" target=\"_blank\">Jamie Moesch</a>, managing director of <a href=\"https://ea.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Educational Activities</a>.</p><h2>Coordination across the organization</h2><p>The event relied on the cooperation of 120 IEEE partners. Involved organizational units included the <a href=\"https://www.comsoc.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Communications Society</a>, the <a href=\"https://ieee-edusociety.org/home\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Education Society</a>, and chapters and sections from around the world, including in <a href=\"https://educationweek.ieee.org/event/epics-in-ieee/\" rel=\"noopener noreferrer\" target=\"_blank\">Brazil</a>, <a href=\"https://events.vtools.ieee.org/m/549648\" rel=\"noopener noreferrer\" target=\"_blank\">Colombia</a>, and <a href=\"https://gnsu.ac.in/ieee\" rel=\"noopener noreferrer\" target=\"_blank\">India</a>. They produced 114 events, 23 resources, and 11 special offers.</p><p>\u201cThese collaborations help members remain current in a changing technological environment,\u201d says <a href=\"https://www.ieee.org/about/assembly/vp-of-ea\" rel=\"noopener noreferrer\" target=\"_blank\">Timothy Kurzweg</a>, vice president of <a href=\"https://ea.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Educational Activities</a>. \u201cThe goal is to provide accessible tools that assist members in both their own professional development and their efforts to mentor new engineers.\u201d</p><p class=\"pull-quote\">\u201cThe week allows different units to share resources with members and the public, covering everything from preuniversity programs to advanced professional training.\u201d <strong>\u2014Jamie Moesch, managing director of IEEE Educational Activities</strong></p><p>The participation metrics reflect a broad geographic interest. The IEEE Education Week website recorded more than 4,770 visitors, with primary engagement coming from India, Nigeria, and the United States. Nearly 240 digital badges were issued to people who completed educational quizzes.</p><p>To encourage participation, organizers enlisted 72 volunteer ambassadors to promote the week\u2019s activities across their local networks and share key resources on social media.</p><h2>Available educational tools</h2><p>Here are a few of the <a href=\"https://educationweek.ieee.org/events/\" target=\"_blank\">virtual events</a> held during Education Week\u2014most of which are available on demand:</p><ul><li><a href=\"https://www.youtube.com/watch?v=jIJICVfsk8A&amp;t=55s\" rel=\"noopener noreferrer\" target=\"_blank\">Celebrating Excellence: The EPICS in IEEE Contributor Awards and Service Learning Showcase.</a></li><li><a href=\"https://www.airmeet.com/e/0dea9e90-279b-11f1-ac08-e5de564d93ce\" rel=\"noopener noreferrer\" target=\"_blank\">Classroom to Startup: Uniting Academia and Industry.</a></li><li><a href=\"https://ieee-edusociety.org/post/announcement/ieee-education-week-2026\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE\u2019s Role in Shaping AI-Ready Engineering Education Globally.</a></li><li><a href=\"https://www.youtube.com/watch?v=AE1mOgejM9M&amp;t=167s\" rel=\"noopener noreferrer\" target=\"_blank\">Leveraging IEEE Standards to Enhance Engineering Service Learning Projects (EPICS in IEEE).</a></li><li><a href=\"https://www.youtube.com/watch?v=G4Ac2ugTEJo&amp;t=1s\" rel=\"noopener noreferrer\" target=\"_blank\">Mastering the Modern Job Market: The Power of IEEE Microcredentials.</a></li><li><a href=\"https://www.airmeet.com/e/8da7cd00-0da7-11f1-8218-ef26d078c8ee\" rel=\"noopener noreferrer\" target=\"_blank\">TryEngineering Volunteers Making an Impact in STEM.</a></li></ul><p>The Education Week website highlights <a href=\"https://educationweek.ieee.org/resources/\" rel=\"noopener noreferrer\" target=\"_blank\">resources</a> and <a href=\"https://educationweek.ieee.org/special-offers/\" rel=\"noopener noreferrer\" target=\"_blank\">offers</a> shared by IEEE organizational units, including:</p><ul><li><a href=\"https://www.ieee.org/education/mud.html\" rel=\"noopener noreferrer\" target=\"_blank\">A half-off discount for members on IEEE e-learning courses.</a> The catalog covers such topics as computing, power and energy, and telecommunications. </li><li><a href=\"https://www.comsoc.org/education-training/demand-training\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Communications Society on-demand webinars.</a> Learn the latest trends and innovations.</li><li><a href=\"https://ieeetv.ieee.org/channels/wie\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Women in Engineering career-focused, upskill, and reskill webinars.</a> The presentations cover a variety of topics including agentic AI, leadership, and robots.</li><li><a href=\"https://innovationatwork.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Innovation at Work.</a> The e-newsletter covers emerging technologies, education, and training for technical professionals.</li><li><a href=\"https://iln.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Learning Network.</a> Hundreds of <a href=\"https://spectrum.ieee.org/ieee-professional-development-suite\" target=\"_self\">continuing education courses</a>, all in one place.</li><li><a href=\"https://tryengineering.org/teachers/lesson-plans/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE TryEngineering lesson plans.</a> The easy-to-use, <a href=\"https://spectrum.ieee.org/tryengineering-oncampus-expansion\" target=\"_self\">engaging activities</a> and plans help teach engineering concepts to preuniversity students.</li><li><a href=\"https://tryengineering.org/explore-resources/collections/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE TryEngineering collections.</a> The lesson plans and multimedia resources, developed with partners and IEEE technical societies, are designed to introduce technical topics and deepen student understanding.</li></ul><p>Individuals who were unable to attend the live sessions can find the archived content on the IEEE Education Week website.</p><p>The website also accepts <a href=\"https://secure.ieeefoundation.org/site/Donation2;jsessionid=00000000.app30118b?mfc_pref=T&amp;1980.donation=form1&amp;idb=615936264&amp;df_id=1980&amp;NONCE_TOKEN=0B9ED08DC05E53935E33CB9C4B08F5C2&amp;mfc_pref=T\" rel=\"noopener noreferrer\" target=\"_blank\">donations for education-related funds</a> managed by the <a href=\"https://www.ieeefoundation.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Foundation</a>.</p><p>Updates and technical resources continue to be shared through the #EducationAtIEEE hashtag on social media channels.</p><p>Planning for IEEE Education Week 2027, scheduled for 3 to 11 April, is underway.</p>"
       },
       {
-        "id": "df7d301033bb13d1",
-        "title": "South Korea\u2019s hottest new bachelors are chip workers",
-        "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 06 Jul 2026 09:00:00 +0000",
-        "published_dt": "2026-07-06T09:00:00+00:00",
-        "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to be&#8230;"
-      },
-      {
         "id": "529206126b1b671f",
         "title": "IEEE\u2019s Global Museum Brings Engineering History to You",
         "url": "https://spectrum.ieee.org/ieees-global-museum-engineering-history",
@@ -798,7 +798,7 @@
         "source": "IEEE Spectrum",
         "published": "Fri, 03 Jul 2026 12:00:01 +0000",
         "published_dt": "2026-07-03T12:00:01+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/aerial-view-of-a-large-industrial-complex-near-housing-and-power-lines-in-autumn.jpg?id=67080460&amp;width=1245&amp;height=700&amp;coordinates=0%2C62%2C0%2C63\" /><br /><br /><p>The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem. <a href=\"https://spectrum.ieee.org/5gw-data-center\" target=\"_self\">Data centers</a> are projected to consume a growing share of global electricity demand: The <a href=\"https://www.iea.org/about\" rel=\"noopener noreferrer\" target=\"_blank\">International Energy Agency</a><a href=\"https://www.iea.org/reports/electricity-2024\" rel=\"noopener noreferrer\" target=\"_blank\"> estimates</a> they could account for 3 to 4 percent of total global consumption within this decade.</p><p>Utilities are already adjusting long-term forecasts to accommodate anticipated growth from hyperscale facilities and high-density compute clusters.</p><p>This framing captures scale. It misses behavior.</p><p>The emerging issue is not simply how much power large-scale compute systems consume, but how increasingly dense and synchronized computational workloads are beginning to alter the operating characteristics of the electrical grid itself through increasingly unpredictable demand that varies rapidly in both time and location, creating new operational challenges for grid operators.</p><h2>AI\u2019s capricious energy needs</h2><p>Traditional grid planning assumes relatively predictable demand behavior. Industrial, commercial, and residential loads generally follow established profiles that can be forecast with reasonable accuracy. Even substantial demand growth has historically been manageable through reserve planning, transmission upgrades, and demand management programs.</p><p>Large-scale compute infrastructure introduces a different class of electrical load. Training\u2014the computational task of making AI models\u2014tends to be highly synchronized across clusters of GPUs, TPUs, and specialized accelerators operating in parallel, computationally dense, and relatively scheduled. Inference\u2014the process of actually using those models\u2014is generally more distributed and user-driven, making demand less predictable both in time and location. Both differ materially from traditional industrial demand profiles, though for different reasons. Unlike many conventional industrial processes, these workloads can ramp rapidly depending on model training cycles, distributed compute coordination, and workload scheduling strategies.</p><p>From the perspective of the grid, this is not simply higher demand. It is more abrupt demand. High-density compute workloads can produce substantial step-changes in electricity consumption over extremely short intervals, including rapid fluctuations occurring within milliseconds. Data center operators are already deploying mitigation technologies, including batteries, power-conditioning systems, and <a href=\"https://spectrum.ieee.org/supercapacitor-2671883490\" target=\"_self\">supercapacitors</a>. Collectively, however, data centers\u2019 rapid load changes can place additional stress on backup generation reserves, systems that adjust supply as demand changes, frequency-control mechanisms that maintain grid stability, and local transmission infrastructure.</p><p>Compute-related variability differs from the intermittency introduced through renewable energy integration. Wind and solar variability originate primarily on the supply side and is tied to environmental conditions. Compute-related variability emerges on the demand side, driven by workload synchronization, scheduling behavior, and computational intensity. The interaction between increasingly dynamic supply and demand conditions introduces additional uncertainty into forecasting, reserve management, congestion planning, and balancing operations.</p><p>Research organizations including the <a href=\"https://www.energy.gov/ea/national-renewable-energy-laboratory\" rel=\"noopener noreferrer\" target=\"_blank\">National Renewable Energy Laboratory</a> (NREL) have <a href=\"https://www.nrel.gov/grid/\" rel=\"noopener noreferrer\" target=\"_blank\">emphasized</a> the growing complexity associated with integrating highly dynamic resources into modern grid operations.</p><h2>Location, location, location</h2><p>The issue becomes more significant when compute activity is geographically concentrated. Large-scale data centers tend to cluster in regions with favorable conditions such as fiber connectivity, access to markets, tax incentives, and historically low electricity costs. Northern Virginia, often referred to as \u201cData Center Alley,\u201d remains the most prominent example. The region hosts the world\u2019s <a href=\"https://www.vedp.org/industry/data-centers\" rel=\"noopener noreferrer\" target=\"_blank\">largest</a> concentration of data centers and carries a substantial share of global internet traffic.</p><p>Utilities operating in these regions have already identified data center growth as a primary driver of future load expansion. Virginia-based electricity supplier <a href=\"https://www.dominionenergy.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Dominion Energy</a>, for example, has repeatedly highlighted hyperscale demand growth in its integrated resource <a href=\"https://www.dominionenergy.com/about/our-company/irp\" rel=\"noopener noreferrer\" target=\"_blank\">planning documents</a>.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Aerial view of sprawling data center and warehouse complex surrounded by greenery\" class=\"rm-shortcode\" id=\"d0616\" src=\"https://spectrum.ieee.org/media-library/aerial-view-of-sprawling-data-center-and-warehouse-complex-surrounded-by-greenery.jpg?id=67080499&amp;width=980\" /> <small class=\"image-media media-caption\">Virginia has seen one of the largest data center buildouts worldwide. Here, Amazon Web Services and iron mountain data centers dominate the landscape in Manassas, Virginia. </small><small class=\"image-media media-photo-credit\">Nathan Howard/Bloomberg/Getty Images</small></p><p>A sudden increase in electricity consumption within a constrained geographic area can stress substations, transmission corridors, and local balancing operations even if the broader grid maintains sufficient aggregate capacity. This creates localized reliability challenges that are not always visible through system-wide demand metrics alone.</p><p>Thermal management systems further intensify these effects. Cooling infrastructure in high-density compute facilities must respond dynamically to changing workloads. As processing intensity <a href=\"https://www.dominionenergy.com/about-us/electric-projects-and-programs/integrated-resource-plan\" target=\"_blank\">rises</a>, cooling demand rises with it, often nonlinearly. This coupling between compute and thermal systems means that fluctuations in workload can propagate through multiple layers of facility power consumption simultaneously.</p><p>High-density compute clusters may also introduce power quality concerns at the local level. Large concentrations of accelerators, switching power supplies, and high-frequency compute equipment can generate harmonics and nonlinear load behavior that place additional stress on distribution infrastructure. While modern facilities incorporate mitigation technologies, the scale and concentration of next-generation compute facilities may require utilities and operators to revisit assumptions surrounding localized power conditioning, harmonics management, and infrastructure resilience. These conditions can also contribute to short-duration electrical transients that place additional stress on localized infrastructure and power-conditioning systems.</p><h2>Regulations need updating</h2><p>Part of the challenge is that many existing regulatory and operational frameworks were designed around relatively stable industrial demand profiles. Large rapidly fluctuating loads have historically been constrained because abrupt cycling can complicate balancing operations, increase stress on transmission equipment, and reduce predictability in system operations. High-density compute clusters do not fit neatly within those assumptions.</p><p>This creates pressure for both operational adaptation and regulatory reassessment.</p><p>Demand response mechanisms may allow certain compute workloads to be shifted or curtailed during periods of system stress. Data-center operators are exploring <a href=\"https://spectrum.ieee.org/distributed-inference-data-centers\" target=\"_self\">flexible scheduling</a>, battery storage, and <a href=\"https://spectrum.ieee.org/ai-data-centers\" target=\"_self\">behind-the-meter generation</a>. Grid operators, meanwhile, are evaluating planning frameworks and interconnection approaches for increasingly large flexible loads.</p><p><a href=\"https://www.ercot.com/\" rel=\"noopener noreferrer\" target=\"_blank\">The Electric Reliability Counsil of Texas</a> (ERCOT), for example, has <a href=\"https://www.ercot.com/gridinfo/resource\" rel=\"noopener noreferrer\" target=\"_blank\">publicly acknowledged</a> the growing implications of large flexible loads, including data centers, for long-term grid planning and operational stability. Interconnection queues across the United States continue to <a href=\"https://emp.lbl.gov/queues\" rel=\"noopener noreferrer\" target=\"_blank\">expand significantly</a>, reflecting mounting pressure on both generation and transmission infrastructure. Grid expansion timelines, however, are measured in years rather than quarters.</p><p>This creates a structural mismatch. Compute infrastructure can scale rapidly. Electrical infrastructure generally cannot.</p><p>The broader implication is that large-scale compute infrastructure is not simply another industrial load category. It represents a shift in the temporal and spatial characteristics of electricity demand itself.</p><p>Framing the issue solely in terms of aggregate energy consumption risks overlooking these second-order operational effects. Capacity expansion alone does not fully address rapid ramping behavior, synchronization, localized congestion, transient instability, reserve compression, or increasingly demanding load-following requirements.</p><p>The challenge is not just how much electricity these systems consume. It is how they are beginning to change the operating conditions of the grid itself. The call is not to slow AI development but to recognize that hyperscale computing represents a new category of electrical demand. As AI infrastructure continues to scale, planning frameworks may need to account not only for total energy consumption but also for demand volatility, synchronization effects, and geographic concentration. Grid resilience will increasingly depend on understanding how these facilities consume power, not simply how much power they consume.</p>"
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/aerial-view-of-a-large-industrial-complex-near-housing-and-power-lines-in-autumn.jpg?id=67080460&amp;width=1245&amp;height=700&amp;coordinates=0%2C62%2C0%2C63\" /><br /><br /><p>The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem. <a href=\"https://spectrum.ieee.org/5gw-data-center\" target=\"_self\">Data centers</a> are projected to consume a growing share of global electricity demand: The <a href=\"https://www.iea.org/about\" rel=\"noopener noreferrer\" target=\"_blank\">International Energy Agency</a><a href=\"https://www.iea.org/reports/electricity-2024\" rel=\"noopener noreferrer\" target=\"_blank\"> estimates</a> they could account for 3 to 4 percent of total global consumption within this decade.</p><p>Utilities are already adjusting long-term forecasts to accommodate anticipated growth from hyperscale facilities and high-density compute clusters.</p><p>This framing captures scale. It misses behavior.</p><p>The emerging issue is not simply how much power large-scale compute systems consume, but how increasingly dense and synchronized computational workloads are beginning to alter the operating characteristics of the electrical grid itself through increasingly unpredictable demand that varies rapidly in both time and location, creating new operational challenges for grid operators.</p><h2>AI\u2019s Capricious Energy Needs</h2><p>Traditional grid planning assumes relatively predictable demand behavior. Industrial, commercial, and residential loads generally follow established profiles that can be forecast with reasonable accuracy. Even substantial demand growth has historically been manageable through reserve planning, transmission upgrades, and demand management programs.</p><p>Large-scale compute infrastructure introduces a different class of electrical load. Training\u2014the computational task of making AI models\u2014tends to be highly synchronized across clusters of GPUs, TPUs, and specialized accelerators operating in parallel, computationally dense, and relatively scheduled. Inference\u2014the process of actually using those models\u2014is generally more distributed and user-driven, making demand less predictable both in time and location. Both differ materially from traditional industrial demand profiles, though for different reasons. Unlike many conventional industrial processes, these workloads can ramp rapidly depending on model training cycles, distributed compute coordination, and workload scheduling strategies.</p><p>From the perspective of the grid, this is not simply higher demand. It is more abrupt demand. High-density compute workloads can produce substantial step changes in electricity consumption over extremely short intervals, including rapid fluctuations occurring within milliseconds. Data-center operators are already deploying mitigation technologies, including batteries, power-conditioning systems, and <a href=\"https://spectrum.ieee.org/supercapacitor-2671883490\" target=\"_self\">supercapacitors</a>. Collectively, however, data centers\u2019 rapid load changes can place additional stress on backup-generation reserves, systems that adjust supply as demand changes, frequency-control mechanisms that maintain grid stability, and local transmission infrastructure.</p><p>Compute-related variability differs from the intermittency introduced through renewable energy integration. Wind and solar variability originate primarily on the supply side and is tied to environmental conditions. Compute-related variability emerges on the demand side, driven by workload synchronization, scheduling behavior, and computational intensity. The interaction between increasingly dynamic supply and demand conditions introduces additional uncertainty into forecasting, reserve management, congestion planning, and balancing operations.</p><p>Research organizations including the <a href=\"https://www.energy.gov/ea/national-renewable-energy-laboratory\" rel=\"noopener noreferrer\" target=\"_blank\">National Renewable Energy Laboratory</a> have <a href=\"https://www.nrel.gov/grid/\" rel=\"noopener noreferrer\" target=\"_blank\">emphasized</a> the growing complexity associated with integrating highly dynamic resources into modern grid operations.</p><h2>Location, Location, Location</h2><p>The issue becomes more significant when compute activity is geographically concentrated. Large-scale data centers tend to cluster in regions with favorable conditions such as fiber connectivity, access to markets, tax incentives, and historically low electricity costs. Northern Virginia, often referred to as Data Center Alley, remains the most prominent example. The region hosts the world\u2019s <a href=\"https://www.vedp.org/industry/data-centers\" rel=\"noopener noreferrer\" target=\"_blank\">largest</a> concentration of data centers and carries a substantial share of global internet traffic.</p><p>Utilities operating in these regions have already identified data-center growth as a primary driver of future load expansion. Virginia-based electricity supplier <a href=\"https://www.dominionenergy.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Dominion Energy</a>, for example, has repeatedly highlighted hyperscale demand growth in its integrated resource <a href=\"https://www.dominionenergy.com/about/our-company/irp\" rel=\"noopener noreferrer\" target=\"_blank\">planning documents</a>.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Aerial view of sprawling data center and warehouse complex surrounded by greenery\" class=\"rm-shortcode\" id=\"d0616\" src=\"https://spectrum.ieee.org/media-library/aerial-view-of-sprawling-data-center-and-warehouse-complex-surrounded-by-greenery.jpg?id=67080499&amp;width=980\" /> <small class=\"image-media media-caption\">Virginia has seen one of the largest data center buildouts worldwide. Here, Amazon Web Services and Iron Mountain data centers dominate the landscape in Manassas, Va. </small><small class=\"image-media media-photo-credit\">Nathan Howard/Bloomberg/Getty Images</small></p><p>A sudden increase in electricity consumption within a constrained geographic area can stress substations, transmission corridors, and local balancing operations even if the broader grid maintains sufficient aggregate capacity. This creates localized reliability challenges that are not always visible through system-wide demand metrics alone.</p><p>Thermal management systems further intensify these effects. Cooling infrastructure in high-density compute facilities must respond dynamically to changing workloads. As processing intensity <a href=\"https://www.dominionenergy.com/about-us/electric-projects-and-programs/integrated-resource-plan\" target=\"_blank\">rises</a>, cooling demand rises as well, often nonlinearly. This coupling between compute and thermal systems means that fluctuations in workload can propagate through multiple layers of facility power consumption simultaneously.</p><p>High-density compute clusters may also introduce power-quality concerns at the local level. Large concentrations of accelerators, switching power supplies, and high-frequency compute equipment can generate harmonics and nonlinear load behavior that place additional stress on distribution infrastructure. While modern facilities incorporate mitigation technologies, the scale and concentration of next-generation compute facilities may require utilities and operators to revisit assumptions surrounding localized power conditioning, harmonics management, and infrastructure resilience. These conditions can also contribute to short-duration electrical transients that place additional stress on localized infrastructure and power-conditioning systems.</p><h2>Regulations Need Updating</h2><p>Part of the challenge is that many existing regulatory and operational frameworks were designed around relatively stable industrial demand profiles. Large rapidly fluctuating loads have historically been constrained because abrupt cycling can complicate balancing operations, increase stress on transmission equipment, and reduce predictability in system operations. High-density compute clusters do not fit neatly within those assumptions.</p><p>This creates pressure for both operational adaptation and regulatory reassessment.</p><p>Demand-response mechanisms may allow certain compute workloads to be shifted or curtailed during periods of system stress. Data-center operators are exploring <a href=\"https://spectrum.ieee.org/distributed-inference-data-centers\" target=\"_self\">flexible scheduling</a>, battery storage, and <a href=\"https://spectrum.ieee.org/ai-data-centers\" target=\"_self\">behind-the-meter generation</a>. Grid operators, meanwhile, are evaluating planning frameworks and interconnection approaches for increasingly large flexible loads.</p><p><a href=\"https://www.ercot.com/\" target=\"_blank\">The Electric Reliability Council of Texas</a> (ERCOT), for example, has <a href=\"https://www.ercot.com/gridinfo/resource\" rel=\"noopener noreferrer\" target=\"_blank\">publicly acknowledged</a> the growing implications of large flexible loads, including data centers, for long-term grid planning and operational stability. Interconnection queues across the United States continue to <a href=\"https://emp.lbl.gov/queues\" rel=\"noopener noreferrer\" target=\"_blank\">expand significantly</a>, reflecting mounting pressure on both generation and transmission infrastructure. Grid expansion timelines, however, are measured in years rather than quarters.</p><p>This creates a structural mismatch. Compute infrastructure can scale rapidly. Electrical infrastructure generally cannot.</p><p>The broader implication is that large-scale compute infrastructure is not simply another industrial load category. It represents a shift in the temporal and spatial characteristics of electricity demand itself.</p><p>Framing the issue solely in terms of aggregate energy consumption risks overlooking these second-order operational effects. Capacity expansion alone does not fully address rapid ramping behavior, synchronization, localized congestion, transient instability, reserve compression, or increasingly demanding load-following requirements.</p><p>The challenge is not just how much electricity these systems consume. It is how they are beginning to change the operating conditions of the grid itself. The call is not to slow AI development but to recognize that hyperscale computing represents a new category of electrical demand. As AI infrastructure continues to scale, planning frameworks may need to account not only for total energy consumption but also for demand volatility, synchronization effects, and geographic concentration. Grid resilience will increasingly depend on understanding how these facilities consume power, not simply how much power they consume.</p>"
       },
       {
         "id": "f5e9abcff3abca4c",
@@ -846,6 +846,42 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/conceptual-illustration-of-two-quarter-note-stems-going-through-an-s-resembling-a-dollar-sign.jpg?id=66750724&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p>Musicians are accustomed to getting paid each time their creative work is used. Across vinyl/CD sales, streams, radio, cover versions, and those numerous niches like karaoke, there are agreements in place about what \u201cuse\u201d means. Underlying this is a simple economic principle: The more something is used, the more money it makes.</p><p><span>Generative AI has <a href=\"https://spectrum.ieee.org/ai-art-generator\" target=\"_blank\">complicated the definition of use</a>. On the one hand, you could argue that the use of a piece of musical training data happens just once, at the point of training. On the other hand, creators would be right to complain that the creative essence of their work lives on in the structure of the model, used every time the model produces an output.</span></p><p><span></span><span>Now, companies like Sureel and SoundVerse are working to re-create the essential economic principle that motivates creativity in an era of AI. Such initiatives aim to turn the generative AI industry from one guilty of \u201cthe biggest act of copyright theft in history\u201d into one that coexists harmoniously with hardworking artists.</span></p><h2>Music Royalties for the AI era </h2><p><a href=\"https://www.sureel.ai/\" target=\"_blank\">Sureel</a>, a startup Warner Music Group just <a href=\"https://www.musicbusinessworldwide.com/warner-music-group-acquires-sureel-ai-the-attribution-startup-that-traces-how-ai-models-use-artists-work/\" target=\"_blank\">acquired</a>, has partnered with the Swedish copyright agency <a href=\"https://www.stim.se/\" target=\"_blank\">STIM</a> to explore the potential for<a href=\"https://www.stim.se/en/news/stim-launches-the-worlds-first-ai-license-for-music\" rel=\"noopener noreferrer\" target=\"_blank\"> music creators to get paid when their music is used to train generative AI tools</a>. Sureel\u2019s software labels online media, such as a music file, with instructions determined by the owner. The instructions specify whether an AI company may use the media freely in training, limit its influence in any given training set, or avoid it altogether. The software then tracks how the AI company uses the media in training and sets licensing fees accordingly. </p><p>Meanwhile, the founders of the AI music company SoundVerse \u201c[reject] one-time royalty buyouts as insufficient and [advocate] for ongoing participation of artists in the AI lifecycle,\u201d they wrote in a <a href=\"https://www.soundverse.ai/whitepaper.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">2025 white paper</a>. They argue that each time a generative AI system produces an output, certain pieces of training data play a greater role than others. If the system outputs music resembling jazz, the jazz in the training set has arguably contributed more than, say, the folk music. You can therefore differentially reward each piece of training data for each output.</p><p> Sureel\u2019s copresident Benji Rogers told me, \u201cAttribution isn\u2019t about re-creating the old economics. It\u2019s about measuring, for the first time, the thing the old economics only approximated.\u201d</p><p>Such influence attribution needs to do more than superficially measure how similar a training data point is to the AI output. The challenge is to attribute causality, or a relationship between the training data and the trained AI, Sureel CEO Tamay Aykut says. </p><p> Even if the AI industry achieved that, however, it might encourage people to create music designed to maximize training-data royalties. While all creative markets lead to new incentives (music streaming, for example, has driven songs to have shorter intros), the industry could do without another economic structure that is easily gamed, in which someone\u2019s reverse-engineered pastiche diverts royalties away from original works of creative expression.</p><p class=\"ieee-inbody-related\">RELATED: <a href=\"https://spectrum.ieee.org/midjourney-copyright\" target=\"_self\">Generative AI Has a Visual Plagiarism Problem</a></p><p>Inferring the influence of a particular piece of music on a generated piece of music, if a well-defined problem at all, may involve more advanced information theoretic principles, or modeling the actual historical role and impact of individual works. Aykut proposes that in carefully designed attribution systems, more unusual and unpolished musical works could even have more inherent value than radio standards.</p><p> Simon Gozzi, head of business development at STIM, says the company is in the process of seeing how Sureel\u2019s attribution reports could underlie licensing agreements between musicians and AI companies. Could generative-AI attribution strategies not only sustain the economic logic that \u201cpopularity pays,\u201d but also motivate musical experimentation and diversity? It\u2019s a compelling concept when public sentiment rightly fears generative AI\u2019s threat to cultural vibrancy, pushing power toward tech companies, deskilling creative workers, shrinking revenue in the creative sector, and filling the internet with slop. \u201cAttribution is one of the few credible tools we have,\u201d Rogers says.</p><p class=\"pull-quote\"> There\u2019s a window of opportunity to debate and establish approaches to paying for AI training data that serve a vibrant and sustainable creative sector.</p><p>The technical problem of training-data attribution is both complex and ill-defined. Just as a simplistic attribution strategy based on measuring similarity might motivate people to reverse-engineer the canonical works of a genre to capture royalties, a more complex attribution strategy based on some information theory of originality might be easily gamed or fail to reward human cultural production. </p><p> For creative workers, there\u2019s good reason to fear that even with the best intentions, AI attribution will only compound the baroque and opaque arms races that they are already weary of navigating. Some voices within the music AI sector are also skeptical. Drew Silverstein, president of SourceAudio, says, \u201cAttribution would seem to be the obvious answer, but it\u2019s flawed in AI, so we have to look at other models.\u201d He advocates simple negotiated agreements with an agreed or annually recurring price at the point of training.</p><p>Meanwhile, the copyright lawsuits that have dominated the generative AI revolution are beginning to give way to an increasing number of privately negotiated agreements, such as those between <a href=\"https://www.theverge.com/news/790405/warner-universal-music-ai-deals\" rel=\"noopener noreferrer\" target=\"_blank\">Universal, Warner, and major AI companies</a> to work together on training models with copyright consent. Although <a href=\"https://www.musicbusinessworldwide.com/sunos-licensing-talks-with-major-labels-in-limbo-with-no-path-forward-report/\" rel=\"noopener noreferrer\" target=\"_blank\">little is certain</a>, these agreements may have considerable influence over the industry norms that arise. </p><p>Right now, there\u2019s a window of opportunity to debate and establish approaches that pay for AI training data while also sustaining a vibrant creative sector. Sophisticated engineering solutions will have a role to play, but they need to take into account the cultural complexity of the challenge, and enable fairness and transparency through good design. </p><h2>Making AI Training Pay Off </h2><p> It remains to be seen whether monolithic generative models such as Suno actually have as much credibility as first touted. In many creative applications of AI, there\u2019s a renewed focus on smaller customized models that are tailored for specific human creative expressive needs such as <a href=\"https://forum.ircam.fr/projects/detail/rave/\" rel=\"noopener noreferrer\" target=\"_blank\">IRCAM\u2019s RAVE</a> model or <a href=\"https://www.jenmusic.ai/stylefilters\" rel=\"noopener noreferrer\" target=\"_blank\">Jen\u2019s Style Filters</a>. Meanwhile, more mainstream \u201cend user\u201d creative applications may be shifting towards a focus on fan engagement. <a href=\"https://www.nytimes.com/2026/03/24/technology/openai-shutting-down-sora.html\" rel=\"noopener noreferrer\" target=\"_blank\">OpenAI\u2019s sudden dropping of Sora</a>, despite being in negotiations with Disney and <a href=\"https://www.youtube.com/watch?v=-XZQx4PFqvs\" rel=\"noopener noreferrer\" target=\"_blank\">Suno\u2019s recent emphasis on building fan-engagement experiences that draw directly on the work of artists</a>, following its deal with Universal, both point to teething troubles in the creative AI sector. </p><p> A move to smaller, more targeted models and applications would give more room for creator alliances. For example, collectives of musicians might band together to provide the training data for a smaller custom model, for which revenue splits might be egalitarian or based on other principles of fairness.</p><p>The same may possibly be true of hybrid model architectures and structured training regimes where different data sources are used at different points in the training process, as well as retrieval-augmented generation, which mixes context-specific information with training data to improve results. An approach that produces worse results but enables fairer or more transparent paths of attribution may be more successful if it brings creators on board with more lucrative royalty flows and even clear credits.</p><p> Also, no matter how sophisticated an attribution algorithm is, it will always be grounded in human decisions, ranging from the wise and the fair to the arbitrary and corrupt. Ask a music industry insider to explain how the percentage split between recording and songwriting royalties is determined, and you\u2019re in for a long answer. At best, the machinery of training data attribution will enable open and informed discussion about what makes our creative and cultural sectors fair and vibrant. At worst, it will conceal already opaque private agreements in complex black boxes.</p><p> This is where national policies are vital. Attribution must be \u201cmulti-layered and auditable, open to expert and regulatory scrutiny,\u201d Rogers says. Crafting such policies will take expertise from computer science, musicology, law, and economics. AI-competitive governments will be able to boost their cultural and creative sectors by supporting institutions that fulfil this purpose. </p><p> Even the most neoliberal economies look beyond markets to sustain cultural expression, whether through public arts funding or measures like local music quotas for radio. As the economic impact of generative AI in the creative sector takes form, taxation, redistribution, and active support of cultural infrastructures may still be the most effective way to support positive social outcomes. Taxing big AI and redistributing that revenue back to the creative workers that contributed to the industry\u2019s wealth is, after all, another \u201cAI attribution strategy.\u201d </p>"
       },
       {
+        "id": "919bc8ceb058450b",
+        "title": "Your family\u2019s $300 stake in OpenAI",
+        "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 06 Jul 2026 18:00:00 +0000",
+        "published_dt": "2026-07-06T18:00:00+00:00",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. OpenAI CEO Sam Altman\u2019s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in&#8230;"
+      },
+      {
+        "id": "69b42f176ca68058",
+        "title": "VHF Propagation: What Every RF Engineer Should Know",
+        "url": "https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/",
+        "source": "IEEE Spectrum",
+        "published": "Mon, 06 Jul 2026 13:54:01 +0000",
+        "published_dt": "2026-07-06T13:54:01+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/rohde-schwarz-logo-with-slogan-make-ideas-real-and-rs-monogram-in-diamond.png?id=67100642&amp;width=980\" /><br /><br /><p>A practical educational guide to common and uncommon VHF propagation modes, covering the <span>physics, range implications, and real-world behaviors engineers need to understand.</span></p><p>What Attendees will Learn</p><p>1. Why \u201cline of sight\u201d fails as a practical VHF planning model.</p><p>2. How refraction, reflection, diffraction, and scattering deliver or destroy signals where geometry alone cannot predict.3. How tropospheric refraction extends the VHF radio horizon roughly one-third beyond optical line of sight.</p><p>4. How temperature inversions form ducts that can carry VHF signals over 1,500 km.5. How sporadic E, meteor burst, and EME propagate VHF signals across hundreds to thousands of kilometers.</p><p>6. What frequency limits, distance ranges, and environmental triggers apply to each <span>propagation mode.</span></p><p>7. How to apply this knowledge to link budgeting, interference prediction, and contingency planning.</p><p><span><a href=\"https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/\" target=\"_blank\">Download this free whitepaper now!</a></span></p>"
+      },
+      {
+        "id": "844233d3b1d930ed",
+        "title": "The Download: South Korea\u2019s hottest bachelors, and advancing eye transplants",
+        "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 06 Jul 2026 13:00:00 +0000",
+        "published_dt": "2026-07-06T13:00:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea\u2019s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a year ago. In a&#8230;"
+      },
+      {
+        "id": "df7d301033bb13d1",
+        "title": "South Korea\u2019s hottest new bachelors are chip workers",
+        "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 06 Jul 2026 09:00:00 +0000",
+        "published_dt": "2026-07-06T09:00:00+00:00",
+        "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to be&#8230;"
+      },
+      {
         "id": "e9d4a7b772175cb6",
         "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
         "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
@@ -871,42 +907,6 @@
         "published": "Fri, 03 Jul 2026 09:00:00 +0000",
         "published_dt": "2026-07-03T09:00:00+00:00",
         "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevailing sentiment when I was young.&#8230;"
-      },
-      {
-        "id": "b1b2af342043c94a",
-        "title": "Achieving operational excellence with AI",
-        "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 02 Jul 2026 15:37:08 +0000",
-        "published_dt": "2026-07-02T15:37:08+00:00",
-        "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos\u2014a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to&#8230;"
-      },
-      {
-        "id": "354f7f794ca56bb8",
-        "title": "Teaching AI to run with the turbines",
-        "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 02 Jul 2026 12:51:44 +0000",
-        "published_dt": "2026-07-02T12:51:44+00:00",
-        "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&#8230;"
-      },
-      {
-        "id": "56b8db13c496a9ec",
-        "title": "The Download: a startup has a solution for AI\u2019s groupthink problem",
-        "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 02 Jul 2026 12:10:00 +0000",
-        "published_dt": "2026-07-02T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice\u2014Claude, ChatGPT, Gemini\u2014and type \u201cGive me a random number between 1&#8230;"
-      },
-      {
-        "id": "d9f1b42d7ca2a8b2",
-        "title": "Why California\u2019s carbon manure math doesn\u2019t add up",
-        "url": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 02 Jul 2026 09:00:00 +0000",
-        "published_dt": "2026-07-02T09:00:00+00:00",
-        "summary": "Something stinks in California\u2019s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It\u2019s become wildly popular because&#8230;"
       }
     ]
   }
