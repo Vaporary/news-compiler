@@ -1,15 +1,132 @@
 {
-  "generated_at": "2026-07-07T14:50:44.799562+00:00",
+  "generated_at": "2026-07-08T14:28:46.132147+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "7c64d50b588d8f43",
-        "title": "STAT+: \u2018Secret shopper\u2019 study probes GLP-1 telehealth sites",
-        "url": "https://www.statnews.com/2026/07/07/secret-shopper-study-glp-1-telehealth-sites-health-tech/?utm_campaign=rss",
+        "id": "a68f1d80b180e1d3",
+        "title": "STAT+: Europe will accelerate its\u00a0review of RevMed\u2019s drug",
+        "url": "https://www.statnews.com/2026/07/08/biotech-news-europe-will-accelerate-its-review-of-revmed-cancer-drug/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 07 Jul 2026 13:47:51 +0000",
-        "published_dt": "2026-07-07T13:47:51+00:00",
-        "summary": "In this edition of STAT Health Tech: A 'secret shopper' study of telehealth sites prescribing GLP-1s, news about Epic, Anthropic, and brain implants."
+        "published": "Wed, 08 Jul 2026 14:24:53 +0000",
+        "published_dt": "2026-07-08T14:24:53+00:00",
+        "summary": "Kailera's GLP-1 pill data raises concerns, FDA clears Vera autoimmune therapy, and more biotech news from The Readout"
+      },
+      {
+        "id": "e1143707fef468c9",
+        "title": "STAT+: Prime Medicine claims victory in dispute over gene-editing technology with Beam Therapeutics",
+        "url": "https://www.statnews.com/2026/07/08/prime-medicine-beam-therapeutics-arbitration-outcome/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 08 Jul 2026 13:52:55 +0000",
+        "published_dt": "2026-07-08T13:52:55+00:00",
+        "summary": "Prime Medicine said it had won an arbitration dispute against Beam Therapeutics, a clash that had pitted two well-backed gene-editing companies against each other."
+      },
+      {
+        "id": "4712dc9838ec1b5c",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about a Vera kidney drug approval, a U.K. Enhertu pricing deal, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/07/08/fda-approves-vera-kidney-drug-uk-enhertu-pricing-deal/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 08 Jul 2026 13:11:36 +0000",
+        "published_dt": "2026-07-08T13:11:36+00:00",
+        "summary": "The FDA approved a kidney disease drug from Vera Therapeutics called Trutakna, to treat IgA nephropathy"
+      },
+      {
+        "id": "a5909e3e9bac9612",
+        "title": "Another big premium hike on the horizon",
+        "url": "https://www.statnews.com/2026/07/08/health-news-more-big-premium-hikes-on-the-horizon/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 08 Jul 2026 11:43:19 +0000",
+        "published_dt": "2026-07-08T11:43:19+00:00",
+        "summary": "FDA's crackdown on online ketamine retailers, unprecedented health care premium hikes, and more health news from Morning Rounds"
+      },
+      {
+        "id": "851ad44764f57435",
+        "title": "The Download: worms fight pollution, and geoengineering faces reality",
+        "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 08 Jul 2026 12:10:00 +0000",
+        "published_dt": "2026-07-08T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips to&#8230;"
+      },
+      {
+        "id": "58fb78c9d5f2cf75",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/satellos-intriguing-duchenne-data-raise-hopes-ahead-key-readout\" hreflang=\"en\">Satellos\u2019 \u2018intriguing\u2019 Duchenne data raise hopes ahead of key readout</a>",
+        "url": "https://www.fiercebiotech.com/biotech/satellos-intriguing-duchenne-data-raise-hopes-ahead-key-readout",
+        "source": "Fierce Biotech",
+        "published": "Jul 8, 2026 9:49am",
+        "published_dt": "2026-07-08T09:49:00+00:00",
+        "summary": "Satellos Bioscience has shared evidence that its Duchenne muscular dystrophy drug candidate is active in adults, leading analysts to predict the molecule \u201ccould re-imagine the ... therapeutic landscape\u201d if the biotech replicates the data in children."
+      },
+      {
+        "id": "930160b2ad49cb99",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/scipher-picks-chemomabs-ra-drug-nasdaq-listing-all-stock-merger\" hreflang=\"en\">Scipher picks up Chemomab\u2019s rheumatoid arthritis drug, Nasdaq listing in all-stock merger</a>",
+        "url": "https://www.fiercebiotech.com/biotech/scipher-picks-chemomabs-ra-drug-nasdaq-listing-all-stock-merger",
+        "source": "Fierce Biotech",
+        "published": "Jul 8, 2026 9:13am",
+        "published_dt": "2026-07-08T09:13:00+00:00",
+        "summary": "Precision immunology company Scipher Medicine will absorb Chemomab Therapeutics after having identified the Israeli biotech\u2019s rheumatoid arthritis drug as the ideal fit for its own expertise."
+      },
+      {
+        "id": "8801853e7feeffda",
+        "title": "STAT+: Trump administration pursues more durable changes to science policy after setbacks in court",
+        "url": "https://www.statnews.com/2026/07/08/trump-research-funding-scientists-see-omb-overreach-control/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 08 Jul 2026 08:30:00 +0000",
+        "published_dt": "2026-07-08T08:30:00+00:00",
+        "summary": "The White House has proposed sweeping changes to the bedrock regulation undergirding all federal contracts, empowering the executive branch to direct research, terminate grants, and external scientific reviews."
+      },
+      {
+        "id": "85a40d087d4b1e52",
+        "title": "Are glucose monitors a good thing for 2-year-olds?\u00a0Experts look at risks, benefits",
+        "url": "https://www.statnews.com/2026/07/08/dexcom-stelo-cgm-risk-benefit-otc-glucose-monitoring-children/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 08 Jul 2026 08:30:00 +0000",
+        "published_dt": "2026-07-08T08:30:00+00:00",
+        "summary": "The newly approved over-the-counter CGM offers a new approach to tackling childhood obesity but also raises a host of questions."
+      },
+      {
+        "id": "13e1182f5641099f",
+        "title": "Opinion: The AI licensure debate is missing the point of licensure",
+        "url": "https://www.statnews.com/2026/07/08/licensing-ai-medicine-physician-responsibility/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 08 Jul 2026 08:30:00 +0000",
+        "published_dt": "2026-07-08T08:30:00+00:00",
+        "summary": "\u201cAI will reshape medicine. The physicians who answer for the outcome must lead the way it enters patient care,\" write Afnan R. Tariq and Ami Bhatt."
+      },
+      {
+        "id": "a91a15c54b8cc4db",
+        "title": "Opinion: STAT+: What\u2019s the right role for AI in dementia care?",
+        "url": "https://www.statnews.com/2026/07/08/dementia-care-ai-artificial-intelligence-chatbots/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 08 Jul 2026 08:30:00 +0000",
+        "published_dt": "2026-07-08T08:30:00+00:00",
+        "summary": "Three tricky questions about using AI in dementia care."
+      },
+      {
+        "id": "5e929b7537ff0d7a",
+        "title": "<a href=\"https://www.fiercebiotech.com/health-tech/leo-cancer-care-secures-65m-series-d-advance-upright-radiotherapy-system\" hreflang=\"en\">Leo Cancer Care secures $65M series D to advance upright radiotherapy system</a>",
+        "url": "https://www.fiercebiotech.com/health-tech/leo-cancer-care-secures-65m-series-d-advance-upright-radiotherapy-system",
+        "source": "Fierce Biotech",
+        "published": "Jul 8, 2026 8:00am",
+        "published_dt": "2026-07-08T08:00:00+00:00",
+        "summary": "Medical technology company Leo Cancer Care closed a $65 million series D financing round to scale its radiotherapy solution that uses groundbreaking upright treatment technology."
+      },
+      {
+        "id": "d1771276c28a6953",
+        "title": "STAT+: FDA approves Vera Therapeutics kidney disease treatment",
+        "url": "https://www.statnews.com/2026/07/07/vera-therapeutics-kidney-disease-treatment-approval/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 07 Jul 2026 16:44:36 +0000",
+        "published_dt": "2026-07-07T16:44:36+00:00",
+        "summary": "The FDA approved a new medicine from the biotech company Vera Therapeutics for patients with a type of chronic autoimmune kidney disease."
+      },
+      {
+        "id": "e175a9009212065a",
+        "title": "STAT+: The crumbling employer-based health insurance system",
+        "url": "https://www.statnews.com/2026/07/07/health-policy-news-today-dc-diagnosis-newsletter-john-wilkerson/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 07 Jul 2026 15:40:29 +0000",
+        "published_dt": "2026-07-07T15:40:29+00:00",
+        "summary": "Today's D.C. Diagnosis newsletter covers maintaining diversity in drug trials and troubling trends in employer-based health insurance."
       },
       {
         "id": "d9735271d8adb886",
@@ -21,33 +138,6 @@
         "summary": "Vertex Pharmaceuticals will spend $10 billion to acquire Crinetics Pharmaceuticals and its drug for a rare endocrine disorder"
       },
       {
-        "id": "c170d471e8f2dfc0",
-        "title": "The Download: your stake in OpenAI, and the Treasury\u2019s AI warning",
-        "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 07 Jul 2026 12:10:00 +0000",
-        "published_dt": "2026-07-07T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family\u2019s $300 stake in OpenAI Sam Altman\u2019s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving&#8230;"
-      },
-      {
-        "id": "098b4658f8827bcf",
-        "title": "Ebola outbreak exposes a fractured outbreak response system",
-        "url": "https://www.statnews.com/2026/07/07/health-news-ebola-outbreak-exposes-a-fractured-outbreak-response-system/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 07 Jul 2026 12:06:47 +0000",
-        "published_dt": "2026-07-07T12:06:47+00:00",
-        "summary": "The costly threat to employer-based health care, Gen Z doctors, and more health news"
-      },
-      {
-        "id": "5786331c6dbd0785",
-        "title": "The foundational elements of AI architecture that IT leaders need to scale",
-        "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 07 Jul 2026 11:10:52 +0000",
-        "published_dt": "2026-07-07T11:10:52+00:00",
-        "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture\u2014the&#8230;"
-      },
-      {
         "id": "af8e3fdf7accc982",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/kaileras-oral-glp-1-asset-hits-goals-chinese-phase-3-obesity-and-diabetes-trials\" hreflang=\"en\">Kailera\u2019s oral GLP-1 asset sees 11% weight loss, hits goals in Chinese phase 3 obesity and diabetes trials</a>",
         "url": "https://www.fiercebiotech.com/biotech/kaileras-oral-glp-1-asset-hits-goals-chinese-phase-3-obesity-and-diabetes-trials",
@@ -55,24 +145,6 @@
         "published": "Jul 7, 2026 8:44am",
         "published_dt": "2026-07-07T08:44:00+00:00",
         "summary": "Phase 3 trials of Kailera Therapeutics\u2019 oral GLP-1 prospect have hit their primary endpoints, positioning the biotech\u2019s partner Hengrui Pharma to seek approval in obesity and diabetes in China.<br />"
-      },
-      {
-        "id": "522c1c4937315934",
-        "title": "Why worms (and microbes) are catching on as a manure pollution solution",
-        "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 07 Jul 2026 10:00:00 +0000",
-        "published_dt": "2026-07-07T10:00:00+00:00",
-        "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family\u2019s land in Hickman, a tiny town in the state\u2019s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squirming red earthworms.&#8230;"
-      },
-      {
-        "id": "0d4b9990c04cd761",
-        "title": "STAT+: GOP lawmakers push Trump\u2019s FDA to make sure clinical trials are diverse",
-        "url": "https://www.statnews.com/2026/07/06/republican-lawmakers-attempt-clinical-trial-diversity-protection/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 06 Jul 2026 08:30:00 +0000",
-        "published_dt": "2026-07-06T08:30:00+00:00",
-        "summary": "Supporters say clinical trial diversity is about making sure drugs and devices work, not about DEI."
       },
       {
         "id": "1e350e8958ec6213",
@@ -84,105 +156,6 @@
         "summary": "As U.S. lawmakers continue to scrutinize the consequences of China\u2019s expanding role in biotech innovation, industry insiders have been left debating how they can navigate this shifting landscape\u2014or even whether biotechs should abandon China altogether."
       },
       {
-        "id": "86e0e602df48b266",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/boehringer-bags-pvts-viral-vector-platform-cancer-vaccine-rd\" hreflang=\"en\">Boehringer bags PVT\u2019s viral vector platform for cancer vaccine R&amp;D</a>",
-        "url": "https://www.fiercebiotech.com/biotech/boehringer-bags-pvts-viral-vector-platform-cancer-vaccine-rd",
-        "source": "Fierce Biotech",
-        "published": "Jul 7, 2026 9:42am",
-        "published_dt": "2026-07-07T09:42:00+00:00",
-        "summary": "Boehringer Ingelheim has landed an exclusive license to Prime Vector Technologies\u2019 viral vector platform for developing next-generation cancer vaccines."
-      },
-      {
-        "id": "1b1bb16be14a0a5c",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/novo-nordisk-pens-glp-1-long-acting-implant-tech-deal-vivani-medical\" hreflang=\"en\">Novo Nordisk pens long-acting GLP-1 implant tech deal with Vivani Medical</a>",
-        "url": "https://www.fiercebiotech.com/medtech/novo-nordisk-pens-glp-1-long-acting-implant-tech-deal-vivani-medical",
-        "source": "Fierce Biotech",
-        "published": "Jul 7, 2026 8:53am",
-        "published_dt": "2026-07-07T08:53:00+00:00",
-        "summary": "As Novo Nordisk looks for new ways to broaden its semaglutide GLP-1 franchise, the Danish drugmaker has signed a new deal with Californian medtech Vivani Medical to help."
-      },
-      {
-        "id": "75e3cfc4a3d04606",
-        "title": "5 takeaways from STAT\u2019s series on the soaring cost of health insurance",
-        "url": "https://www.statnews.com/2026/07/07/why-health-insurance-costs-so-much-out-of-pocket-series-key-takeaways/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 07 Jul 2026 08:30:00 +0000",
-        "published_dt": "2026-07-07T08:30:00+00:00",
-        "summary": "Read the 5 key takeaways from STAT's series \"Out of Pocket, Out of Reach,\" an examination of workplace health insurance."
-      },
-      {
-        "id": "7e240b28883bf4b7",
-        "title": "Opinion: What if this Ebola outbreak can\u2019t be stopped?",
-        "url": "https://www.statnews.com/2026/07/07/ebola-outbreak-drc-uganda-endemic-control/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 07 Jul 2026 08:30:00 +0000",
-        "published_dt": "2026-07-07T08:30:00+00:00",
-        "summary": "In the past, the possibility of endemic Ebola was unthinkable. This time is different, write Ivan Buendia Gayton and Eric D. Perakslis."
-      },
-      {
-        "id": "ccfc4d1b3f439949",
-        "title": "STAT+: This whistleblower took on a health insurance giant and a political machine. She\u2019s not stopping there",
-        "url": "https://www.statnews.com/2026/07/07/employer-based-insurance-whistleblower-out-of-pocket-series-part-3/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 07 Jul 2026 08:30:00 +0000",
-        "published_dt": "2026-07-07T08:30:00+00:00",
-        "summary": "America\u2019s employers must stop acting helpless in the face of health care industry profiteering, Chris Deacon says."
-      },
-      {
-        "id": "ca55f6ca85ff0814",
-        "title": "STAT+: America\u2019s small businesses are giving up on health insurance",
-        "url": "https://www.statnews.com/2026/07/07/small-business-health-insurance-costs-out-of-pocket-series-part-1/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 07 Jul 2026 08:30:00 +0000",
-        "published_dt": "2026-07-07T08:30:00+00:00",
-        "summary": "America's employer-based health insurance system is crumbling. STAT investigates why, in our new series, \u201cOut of Pocket, Out of Reach.\u201d"
-      },
-      {
-        "id": "2cd77b1abea446d1",
-        "title": "STAT+: For a Georgia entrepreneur, health coverage has never been affordable",
-        "url": "https://www.statnews.com/2026/07/07/aca-health-insurance-small-business-out-of-pocket-series-part-2/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 07 Jul 2026 08:30:00 +0000",
-        "published_dt": "2026-07-07T08:30:00+00:00",
-        "summary": "Amy Bielawski is one of the 30 million people who run their own businesses. She's gone most of her life without health insurance."
-      },
-      {
-        "id": "18d55dafe7fed885",
-        "title": "Opinion: Medicine thinks Gen Z is too soft. It\u2019s wrong",
-        "url": "https://www.statnews.com/2026/07/07/gen-z-doctors-too-soft/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 07 Jul 2026 08:30:00 +0000",
-        "published_dt": "2026-07-07T08:30:00+00:00",
-        "summary": "\u201cGen Z physicians are on a collision course with institutions still built around older assumptions,\u201d writes Frantz M. Berthaud."
-      },
-      {
-        "id": "de1f128eacdd8809",
-        "title": "<a href=\"https://www.fiercebiotech.com/pharma/vertex-acquires-endocrine-disease-specialist-crinetics-10b\" hreflang=\"en\">Vertex, in its largest-ever deal, acquires endocrine disease specialist Crinetics for $10B </a>",
-        "url": "https://www.fiercebiotech.com/pharma/vertex-acquires-endocrine-disease-specialist-crinetics-10b",
-        "source": "Fierce Biotech",
-        "published": "Jul 7, 2026 7:17am",
-        "published_dt": "2026-07-07T07:17:00+00:00",
-        "summary": "Vertex Pharmaceuticals has struck a $10 billion deal\u2014its largest ever\u2014to&nbsp;acquire endocrine disease specialist Crinetics Pharmaceuticals. The transaction's two focuses, Palsonify and atumelnant, have combined peak sales potential of more than $5 billion, Vertex said."
-      },
-      {
-        "id": "bd9a9a2ea4136c87",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about a Novartis acquisition, Republicans backing clinical trial diversity, and more",
-        "url": "https://www.statnews.com/pharmalot/2026/07/06/novartis-buys-myricx-republicans-back-clinical-trial-diversity/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 06 Jul 2026 12:56:19 +0000",
-        "published_dt": "2026-07-06T12:56:19+00:00",
-        "summary": "Novartis is pushing deeper into antibody-drug conjugate development, paying $1.1 billion upfront to buy Myricx Bio"
-      },
-      {
-        "id": "2f01f8b7c7fd96a5",
-        "title": "Opinion: The smart way to regulate the peptide boom",
-        "url": "https://www.statnews.com/2026/07/06/peptides-regulation-fda-middle-ground-ban/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 06 Jul 2026 08:30:00 +0000",
-        "published_dt": "2026-07-06T08:30:00+00:00",
-        "summary": "\u201cThe FDA should pursue a structured, clinician-guided framework\u201d on popular peptides, writes former surgeon general Jerome Adams."
-      },
-      {
         "id": "5728afa78d3f932b",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/scribe-pens-ipo-ambitions-push-lipid-lowering-genetic-meds-through-clinic-trials\" hreflang=\"en\">Scribe notes down IPO ambition to fund lipid-lowering genetic meds through clinical trials</a>",
         "url": "https://www.fiercebiotech.com/biotech/scribe-pens-ipo-ambitions-push-lipid-lowering-genetic-meds-through-clinic-trials",
@@ -190,6 +163,15 @@
         "published": "Jul 3, 2026 11:11am",
         "published_dt": "2026-07-03T11:11:00+00:00",
         "summary": "Scribe Therapeutics is the latest biotech to prepare a public listing, as the company looks to propel its lipid-lowering medicines through clinical trials."
+      },
+      {
+        "id": "d4edbe43b55301dc",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-pays-sino-200m-challenger-mercks-copd-drug-ohtuvayre\" hreflang=\"en\">AstraZeneca pens $2.1B Sino deal for challenger to Merck\u2019s COPD drug Ohtuvayre</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-pays-sino-200m-challenger-mercks-copd-drug-ohtuvayre",
+        "source": "Fierce Biotech",
+        "published": "Jul 8, 2026 3:41am",
+        "published_dt": "2026-07-08T03:41:00+00:00",
+        "summary": "AstraZeneca is paying Sino Biopharmaceutical $200 million upfront for ex-China rights to a late-phase challenger to Merck &amp; Co.\u2019s chronic obstructive pulmonary disease drug Ohtuvayre."
       },
       {
         "id": "8aa7232d328d9c93",
@@ -201,132 +183,186 @@
         "summary": "Caris Life Sciences has launched a new oncology blood test designed alongside AI modeling to pick up cancer at earlier stages."
       },
       {
-        "id": "9c361128ae154dc9",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-orchestrates-phase-3-kras-lung-cancer-win-over-amgen-and-bristol-myers\" hreflang=\"en\">Roche orchestrates phase 3 KRAS lung cancer win over Amgen, BMS</a>",
-        "url": "https://www.fiercebiotech.com/biotech/roche-orchestrates-phase-3-kras-lung-cancer-win-over-amgen-and-bristol-myers",
+        "id": "bfc337d1fc6b9d0d",
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/caidya-and-simbec-orion-unite-global-cro-combo\" hreflang=\"en\">Caidya and Simbec-Orion unite in global CRO combo</a>",
+        "url": "https://www.fiercebiotech.com/cro/caidya-and-simbec-orion-unite-global-cro-combo",
         "source": "Fierce Biotech",
-        "published": "Jul 2, 2026 5:16am",
-        "published_dt": "2026-07-02T05:16:00+00:00",
-        "summary": "Roche\u2019s investigational KRAS G12C inhibitor has beaten Amgen\u2019s Lumakras and Bristol Myers Squibb\u2019s Krazati in a phase 3 trial, furthering its ambitions to establish divarasib as a new standard of care."
+        "published": "Jul 7, 2026 4:01pm",
+        "published_dt": "2026-07-07T16:01:00+00:00",
+        "summary": "Contract research organizations (CROs) Caidya and Simbec-Orion have united to create a new platform aimed at helping drug development programs accelerate and scale."
       },
       {
-        "id": "19f643e7cb3cc599",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-halts-ph-2-alzheimers-trial-after-neuphoria-small-molecule-underwhelms\" hreflang=\"en\">Merck halts ph. 2 Alzheimer\u2019s trial after Neuphoria small molecule underwhelms</a>",
-        "url": "https://www.fiercebiotech.com/biotech/merck-halts-ph-2-alzheimers-trial-after-neuphoria-small-molecule-underwhelms",
-        "source": "Fierce Biotech",
-        "published": "Jul 1, 2026 2:23pm",
-        "published_dt": "2026-07-01T14:23:00+00:00",
-        "summary": "Merck &amp; Co. has nixed the phase 2 study of a potential Alzheimer\u2019s disease medicine after the drug underwhelmed in an interim analysis, marking another blow for the pharma\u2019s struggling partner Neuphoria Therapeutics."
-      },
-      {
-        "id": "84b4de5e209afeae",
-        "title": "STAT+: Vertex acquires Crinetics Pharmaceuticals for $10 billion as biotech M&A booms",
-        "url": "https://www.statnews.com/2026/07/06/vertex-acquires-crinetics-pharmaceuticals/?utm_campaign=rss",
+        "id": "72171ec5cc96b6f7",
+        "title": "STAT+: Compass says depression drug has long-lasting benefits",
+        "url": "https://www.statnews.com/2026/07/07/biotech-news-compass-reports-depression-drug-has-long-lasting-benefits/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Mon, 06 Jul 2026 20:52:29 +0000",
-        "published_dt": "2026-07-06T20:52:29+00:00",
-        "summary": "Vertex Pharmaceuticals will spend $10 billion to acquire Crinetics Pharmaceuticals and its drug for a rare endocrine disorder, the companies said."
+        "published": "Tue, 07 Jul 2026 15:04:50 +0000",
+        "published_dt": "2026-07-07T15:04:50+00:00",
+        "summary": "Vertex makes its largest-ever deal, skyrocketing health insurance costs, and more biotech news from The Readout"
+      },
+      {
+        "id": "002b109f1c2e2dc4",
+        "title": "STAT+: America\u2019s employer health insurance is decaying",
+        "url": "https://www.statnews.com/2026/07/07/insurance-affordability-crisis-health-care-inc-newsletter/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 07 Jul 2026 14:58:06 +0000",
+        "published_dt": "2026-07-07T14:58:06+00:00",
+        "summary": "STAT's Bob Herman examines the under-the-radar crisis brewing in employer-based health insurance."
+      },
+      {
+        "id": "7968d401b91a4294",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/meiragtx-scores-400m-oberland-capital-help-get-2-gene-therapies-commercialization\" hreflang=\"en\">MeiraGTx scores $400M from Oberland Capital to help get 2 gene therapies to commercialization </a>",
+        "url": "https://www.fiercebiotech.com/biotech/meiragtx-scores-400m-oberland-capital-help-get-2-gene-therapies-commercialization",
+        "source": "Fierce Biotech",
+        "published": "Jul 7, 2026 1:52pm",
+        "published_dt": "2026-07-07T13:52:00+00:00",
+        "summary": "As MeiraGTx lines up the pieces for a commercial push, the company has new funding to work with."
+      },
+      {
+        "id": "7c64d50b588d8f43",
+        "title": "STAT+: \u2018Secret shopper\u2019 study probes GLP-1 telehealth sites",
+        "url": "https://www.statnews.com/2026/07/07/secret-shopper-study-glp-1-telehealth-sites-health-tech/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 07 Jul 2026 13:47:51 +0000",
+        "published_dt": "2026-07-07T13:47:51+00:00",
+        "summary": "In this edition of STAT Health Tech: A 'secret shopper' study of telehealth sites prescribing GLP-1s, news about Epic, Anthropic, and brain implants."
       }
     ],
     "Engineering & Aerospace": [
       {
-        "id": "d06716d8134ad33e",
-        "title": "Bentley Systems expands Japan investment and local team",
-        "url": "https://www.engineering.com/bentley-systems-expands-japan-investment-and-local-team/",
-        "source": "Engineering.com",
-        "published": "Tue, 07 Jul 2026 14:03:40 +0000",
-        "published_dt": "2026-07-07T14:03:40+00:00",
-        "summary": "<p>The company opened a Tokyo headquarters to support 3D digital delivery under Japan\u2019s i-Construction 2029 initiative.</p>\n<p>The post <a href=\"https://www.engineering.com/bentley-systems-expands-japan-investment-and-local-team/\">Bentley Systems expands Japan investment and local team</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "48e3f082259dd368",
-        "title": "ORECA selects Siemens software for racing simulation",
-        "url": "https://www.engineering.com/oreca-selects-siemens-software-for-racing-simulation/",
-        "source": "Engineering.com",
-        "published": "Tue, 07 Jul 2026 13:43:35 +0000",
-        "published_dt": "2026-07-07T13:43:35+00:00",
-        "summary": "<p>The tools support CFD, multiphysics analysis and carbon-fiber layup optimization in vehicle development programs.</p>\n<p>The post <a href=\"https://www.engineering.com/oreca-selects-siemens-software-for-racing-simulation/\">ORECA selects Siemens software for racing simulation</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "aaef0fe7383d898b",
-        "title": "Trimble adds AI tools to MEP estimating software",
-        "url": "https://www.engineering.com/trimble-adds-ai-tools-to-mep-estimating-software/",
-        "source": "Engineering.com",
-        "published": "Tue, 07 Jul 2026 13:03:16 +0000",
-        "published_dt": "2026-07-07T13:03:16+00:00",
-        "summary": "<p>New features automate setup, symbol counts and conduit measurement, with availability in North America and the United Kingdom.</p>\n<p>The post <a href=\"https://www.engineering.com/trimble-adds-ai-tools-to-mep-estimating-software/\">Trimble adds AI tools to MEP estimating software</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "00db4f4bef73a282",
-        "title": "Echodyne expands production of drone-detecting radars",
-        "url": "https://aerospaceamerica.aiaa.org/echodyne-expands-production-of-drone-detecting-radars/",
-        "source": "Aerospace America",
-        "published": "Tue, 07 Jul 2026 12:57:06 +0000",
-        "published_dt": "2026-07-07T12:57:06+00:00",
-        "summary": ""
-      },
-      {
-        "id": "d485768e5d6c0586",
-        "title": "Simera Sense to provide imagers for Canary Islands constellation",
-        "url": "https://spacenews.com/simera-sense-to-provide-imagers-for-canary-islands-constellation/",
+        "id": "55a172592891705a",
+        "title": "Fi expands Starlink direct-to-device capability into dog-tracking",
+        "url": "https://spacenews.com/fi-expands-starlink-direct-to-device-capability-into-dog-tracking/",
         "source": "SpaceNews",
-        "published": "Tue, 07 Jul 2026 12:01:41 +0000",
-        "published_dt": "2026-07-07T12:01:41+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Canary-Islands.png?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Belgium\u2019s Simera Sense has won a contract to provide multispectral imagers for a small constellation being designed to track wildfires, volcanic activity and other regional priorities for the Canary Islands off the coast of Spain.</p>\n<p>The post <a href=\"https://spacenews.com/simera-sense-to-provide-imagers-for-canary-islands-constellation/\">Simera Sense to provide imagers for Canary Islands constellation</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Wed, 08 Jul 2026 13:00:00 +0000",
+        "published_dt": "2026-07-08T13:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"593\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Fi-Ultra-scaled.jpg?fit=1024%2C593&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Pet technology company Fi launched a dog tracker July 8 that uses T-Mobile\u2019s Starlink-enabled T-Satellite service to remain connected across the United States, even outside the telco\u2019s terrestrial network.</p>\n<p>The post <a href=\"https://spacenews.com/fi-expands-starlink-direct-to-device-capability-into-dog-tracking/\">Fi expands Starlink direct-to-device capability into dog-tracking</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "9fbb761ceec48fcc",
-        "title": "Treon vibration sensor wins Red Dot product design award",
-        "url": "https://www.engineering.com/treon-vibration-sensor-wins-red-dot-product-design-award/",
-        "source": "Engineering.com",
-        "published": "Tue, 07 Jul 2026 12:00:27 +0000",
-        "published_dt": "2026-07-07T12:00:27+00:00",
-        "summary": "<p>Industrial Node X monitors vibration, temperature and rotation speed, with edge processing and hazardous-area certification.</p>\n<p>The post <a href=\"https://www.engineering.com/treon-vibration-sensor-wins-red-dot-product-design-award/\">Treon vibration sensor wins Red Dot product design award</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "6b63a5ba405326fe",
-        "title": "Schneider Electric to deploy SF\u2086-free switchgear in California",
-        "url": "https://www.engineering.com/schneider-electric-to-deploy-sf%e2%82%86-free-switchgear-in-california/",
-        "source": "Engineering.com",
-        "published": "Tue, 07 Jul 2026 11:35:07 +0000",
-        "published_dt": "2026-07-07T11:35:07+00:00",
-        "summary": "<p>Southern California Edison plans to use modular substation systems to expand capacity within existing footprints starting in 2027.</p>\n<p>The post <a href=\"https://www.engineering.com/schneider-electric-to-deploy-sf%e2%82%86-free-switchgear-in-california/\">Schneider Electric to deploy SF\u2086-free switchgear in California</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "6632b8dced752da4",
-        "title": "Buildots adds superstructure tracking to its platform",
-        "url": "https://www.engineering.com/buildots-adds-superstructure-tracking-to-its-platform/",
-        "source": "Engineering.com",
-        "published": "Tue, 07 Jul 2026 11:29:25 +0000",
-        "published_dt": "2026-07-07T11:29:25+00:00",
-        "summary": "<p>The feature uses drones and 360-degree cameras to analyze structural-phase progress and flag schedule risks earlier.</p>\n<p>The post <a href=\"https://www.engineering.com/buildots-adds-superstructure-tracking-to-its-platform/\">Buildots adds superstructure tracking to its platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "7fb727745993d288",
-        "title": "Lockheed Martin signs deal to acquire Ultra Maritime",
-        "url": "https://www.engineering.com/lockheed-martin-signs-deal-to-acquire-ultra-maritime/",
-        "source": "Engineering.com",
-        "published": "Tue, 07 Jul 2026 11:24:31 +0000",
-        "published_dt": "2026-07-07T11:24:31+00:00",
-        "summary": "<p>The $3.45 billion agreement adds sonar, sonobuoy and torpedo defense systems for undersea and anti-submarine warfare.</p>\n<p>The post <a href=\"https://www.engineering.com/lockheed-martin-signs-deal-to-acquire-ultra-maritime/\">Lockheed Martin signs deal to acquire Ultra Maritime</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "7c37232c77c80801",
-        "title": "CurifyLabs raises $14 million in Series A funding",
-        "url": "https://www.engineering.com/curifylabs-raises-14-million-in-series-a-funding/",
-        "source": "Engineering.com",
-        "published": "Tue, 07 Jul 2026 11:19:31 +0000",
-        "published_dt": "2026-07-07T11:19:31+00:00",
-        "summary": "<p>The funding will support U.S. expansion and development of 3D printing systems for non-sterile personalized drug compounding.</p>\n<p>The post <a href=\"https://www.engineering.com/curifylabs-raises-14-million-in-series-a-funding/\">CurifyLabs raises $14 million in Series A funding</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "0461d7e205875f1e",
-        "title": "SpaceX satellite wins test Pentagon\u2019s commitment to competition",
-        "url": "https://spacenews.com/spacexs-wins-test-pentagons-commitment-to-competition/",
+        "id": "c416707a38b0a79f",
+        "title": "The satellite industry\u2019s most expensive problem isn\u2019t in orbit",
+        "url": "https://spacenews.com/the-satellite-industrys-most-expensive-problem-isnt-in-orbit/",
         "source": "SpaceNews",
-        "published": "Tue, 07 Jul 2026 11:00:00 +0000",
-        "published_dt": "2026-07-07T11:00:00+00:00",
-        "summary": "<figure><img alt=\"A SpaceX Falcon 9 launches 24 Starlink satellites from California on June 15. Credit: SpaceX\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"643\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/HK3nvbNWoAAlR2p-scaled.jpeg?fit=1024%2C643&amp;ssl=1\" width=\"1024\" /></figure>\n<p>As the military rushes to deploy proliferated networks, SpaceX\u2019s dominance is attracting congressional scrutiny </p>\n<p>The post <a href=\"https://spacenews.com/spacexs-wins-test-pentagons-commitment-to-competition/\">SpaceX satellite wins test Pentagon\u2019s commitment to competition</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Wed, 08 Jul 2026 13:00:00 +0000",
+        "published_dt": "2026-07-08T13:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"573\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/LMV3-B62.jpg?fit=1024%2C573&amp;ssl=1\" width=\"1024\" /></figure>\n<p>AST SpaceMobile recently deployed three more BlueBird satellites into low Earth orbit as it advances plans for a space-based cellular broadband network of 45 to 60 satellites by the end [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/the-satellite-industrys-most-expensive-problem-isnt-in-orbit/\">The satellite industry&#8217;s most expensive problem isn&#8217;t in orbit</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "fddf1038672c86a2",
+        "title": "Graitec launches steel design and detailing platform",
+        "url": "https://www.engineering.com/graitec-launches-steel-design-and-detailing-platform/",
+        "source": "Engineering.com",
+        "published": "Wed, 08 Jul 2026 12:41:40 +0000",
+        "published_dt": "2026-07-08T12:41:40+00:00",
+        "summary": "<p>The software combines existing tools, supports Autodesk workflows and became available June 25, 2026.</p>\n<p>The post <a href=\"https://www.engineering.com/graitec-launches-steel-design-and-detailing-platform/\">Graitec launches steel design and detailing platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "dd792b320fbf2535",
+        "title": "Siemens names Europe Techcellence Awards 2026 winners",
+        "url": "https://www.engineering.com/siemens-names-europe-techcellence-awards-2026-winners/",
+        "source": "Engineering.com",
+        "published": "Wed, 08 Jul 2026 12:29:13 +0000",
+        "published_dt": "2026-07-08T12:29:13+00:00",
+        "summary": "<p>New categories highlighted responsible AI, sustainability, innovation leadership and community contributions at Realize LIVE Europe.</p>\n<p>The post <a href=\"https://www.engineering.com/siemens-names-europe-techcellence-awards-2026-winners/\">Siemens names Europe Techcellence Awards 2026 winners</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "6083f8bebac8642b",
+        "title": "Venus Aerospace raises $91 million to scale rocket engine technology",
+        "url": "https://spacenews.com/venus-aerospace-raises-91-million-to-scale-rocket-engine-technology/",
+        "source": "SpaceNews",
+        "published": "Wed, 08 Jul 2026 12:00:00 +0000",
+        "published_dt": "2026-07-08T12:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/VenusAero_RDRE_Rocket_02.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Funding will support development and production of the company\u2019s rotating detonation rocket engine</p>\n<p>The post <a href=\"https://spacenews.com/venus-aerospace-raises-91-million-to-scale-rocket-engine-technology/\">Venus Aerospace raises $91 million to scale rocket engine technology</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "f9b88103e583cbb1",
+        "title": "Blink imaging laser scanner receives iF Design Award 2026",
+        "url": "https://www.engineering.com/blink-imaging-laser-scanner-receives-if-design-award-2026/",
+        "source": "Engineering.com",
+        "published": "Wed, 08 Jul 2026 12:22:19 +0000",
+        "published_dt": "2026-07-08T12:22:19+00:00",
+        "summary": "<p>The scanner was recognized in Product Design and Industry categories from a field of more than 10,000 entries.</p>\n<p>The post <a href=\"https://www.engineering.com/blink-imaging-laser-scanner-receives-if-design-award-2026/\">Blink imaging laser scanner receives iF Design Award 2026</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "ed94f7798ec23b71",
+        "title": "Mastercam completes acquisition of channel partner in India",
+        "url": "https://www.engineering.com/mastercam-completes-acquisition-of-channel-partner-in-india/",
+        "source": "Engineering.com",
+        "published": "Wed, 08 Jul 2026 10:58:39 +0000",
+        "published_dt": "2026-07-08T10:58:39+00:00",
+        "summary": "<p>The move keeps the local team in place while adding access to global technical resources and support for manufacturing customers.</p>\n<p>The post <a href=\"https://www.engineering.com/mastercam-completes-acquisition-of-channel-partner-in-india/\">Mastercam completes acquisition of channel partner in India</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "795871a484f76d30",
+        "title": "Whatfix partners with PTC on PLM software adoption",
+        "url": "https://www.engineering.com/whatfix-partners-with-ptc-on-plm-software-adoption/",
+        "source": "Engineering.com",
+        "published": "Wed, 08 Jul 2026 10:54:19 +0000",
+        "published_dt": "2026-07-08T10:54:19+00:00",
+        "summary": "<p>The deal adds in-app guidance and analytics for Windchill users in automotive, industrial equipment and medical device manufacturing.</p>\n<p>The post <a href=\"https://www.engineering.com/whatfix-partners-with-ptc-on-plm-software-adoption/\">Whatfix partners with PTC on PLM software adoption</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "5f0e87c7c6707d7e",
+        "title": "SimX adds AI Assistant to healthcare VR training",
+        "url": "https://www.engineering.com/simx-adds-ai-assistant-to-healthcare-vr-training/",
+        "source": "Engineering.com",
+        "published": "Wed, 08 Jul 2026 11:18:15 +0000",
+        "published_dt": "2026-07-08T11:18:15+00:00",
+        "summary": "<p>The tool automates patient and team interactions in scenario-based training while allowing educators to monitor and intervene.</p>\n<p>The post <a href=\"https://www.engineering.com/simx-adds-ai-assistant-to-healthcare-vr-training/\">SimX adds AI Assistant to healthcare VR training</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "fd03e3097b512d7a",
+        "title": "Teadit expands gasket focus for data center infrastructure",
+        "url": "https://www.engineering.com/teadit-expands-gasket-focus-for-data-center-infrastructure/",
+        "source": "Engineering.com",
+        "published": "Wed, 08 Jul 2026 11:13:32 +0000",
+        "published_dt": "2026-07-08T11:13:32+00:00",
+        "summary": "<p>The sealing portfolio covers heat exchangers, cooling loops, pumps, valves and HVAC systems tied to liquid cooling and PUE.</p>\n<p>The post <a href=\"https://www.engineering.com/teadit-expands-gasket-focus-for-data-center-infrastructure/\">Teadit expands gasket focus for data center infrastructure</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "cbbdadeabf2a3e0f",
+        "title": "Parasail deploys d-Matrix accelerators for AI inference",
+        "url": "https://www.engineering.com/parasail-deploys-d-matrix-accelerators-for-ai-inference/",
+        "source": "Engineering.com",
+        "published": "Wed, 08 Jul 2026 11:07:09 +0000",
+        "published_dt": "2026-07-08T11:07:09+00:00",
+        "summary": "<p>The setup pairs Corsair with NVIDIA Hopper and Blackwell systems to split prefill and decode workloads in data centers.</p>\n<p>The post <a href=\"https://www.engineering.com/parasail-deploys-d-matrix-accelerators-for-ai-inference/\">Parasail deploys d-Matrix accelerators for AI inference</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "8734fd2667378110",
+        "title": "The government\u2019s options to address strained spaceports",
+        "url": "https://spacenews.com/the-governments-options-to-address-strained-spaceports/",
+        "source": "SpaceNews",
+        "published": "Wed, 08 Jul 2026 11:00:00 +0000",
+        "published_dt": "2026-07-08T11:00:00+00:00",
+        "summary": "<figure><img alt=\"A Falcon 9 launches a set of Starlink satellites April 26 from Vandenberg Space Force Base in California. Credit: SpaceX\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"657\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/f9-20260426.webp?fit=1024%2C657&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The May 28 explosion of a Blue Origin New Glenn rocket at Cape Canaveral\u2019s Launch Complex 36 did more than destroy a rocket and severely damage a launch pad. The [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/the-governments-options-to-address-strained-spaceports/\">The government&#8217;s options to address strained spaceports</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "86784c6c1fbe1cb5",
+        "title": "Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs",
+        "url": "https://spacenews.com/spirit-electronics-announces-managed-access-to-u-s-based-advanced-semiconductor-manufacturing-for-aerospace-and-defense-programs/",
+        "source": "SpaceNews",
+        "published": "Tue, 07 Jul 2026 18:46:40 +0000",
+        "published_dt": "2026-07-07T18:46:40+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Spirit-Electronics-Logo-1x1-Black-Background.jpg?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>PHOENIX, AZ \u2014 June 09, 2026 \u2014&#160;Spirit Electronics today announced a new managed-access offering that provides aerospace and defense customers with a secure pathway to advanced, U.S.-based semiconductor manufacturing in [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/spirit-electronics-announces-managed-access-to-u-s-based-advanced-semiconductor-manufacturing-for-aerospace-and-defense-programs/\">Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "88ee777dc51f29e0",
+        "title": "Skyroot prepares for first orbital launch attempt",
+        "url": "https://spacenews.com/skyroot-prepares-for-first-orbital-launch-attempt/",
+        "source": "SpaceNews",
+        "published": "Wed, 08 Jul 2026 02:10:30 +0000",
+        "published_dt": "2026-07-08T02:10:30+00:00",
+        "summary": "<figure><img alt=\"Skyroot flag-off ceremony\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/vikram1-flagoff.jpeg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Indian launch startup Skyroot Aerospace is preparing for its first orbital launch attempt as soon as July 12, with plans to quickly scale up to monthly launches.</p>\n<p>The post <a href=\"https://spacenews.com/skyroot-prepares-for-first-orbital-launch-attempt/\">Skyroot prepares for first orbital launch attempt</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "f42a7b831981eae4",
+        "title": "Space Force adds Relativity, Impulse Space to national security launch program",
+        "url": "https://spacenews.com/space-force-adds-relativity-impulse-space-to-national-security-launch-program/",
+        "source": "SpaceNews",
+        "published": "Wed, 08 Jul 2026 07:48:02 +0000",
+        "published_dt": "2026-07-08T07:48:02+00:00",
+        "summary": "<figure><img alt=\"Impulse GEO rideshare\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/08/Impulse-GEO-Rideshare.png?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The NSSL Phase 3 Lane 1 program opens door to newer companies competing for military missions</p>\n<p>The post <a href=\"https://spacenews.com/space-force-adds-relativity-impulse-space-to-national-security-launch-program/\">Space Force adds Relativity, Impulse Space to national security launch program</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "bd9da8542d319881",
@@ -347,24 +383,6 @@
         "summary": ""
       },
       {
-        "id": "2661e7c669bf0e02",
-        "title": "Chinese satellite manufacturer Hongqing raises $191 million",
-        "url": "https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/",
-        "source": "SpaceNews",
-        "published": "Fri, 03 Jul 2026 13:10:37 +0000",
-        "published_dt": "2026-07-03T13:10:37+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Zhuque-2E-Spacesail-DTC-ChinaMobile02-9june2026-landspace.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>HELSINKI \u2014 Hongqing Technology, the satellite manufacturing affiliate of launch firm Landspace, has secured one of the largest single raises for a Chinese commercial satellite maker. The funding round, announced [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/\">Chinese satellite manufacturer Hongqing raises $191 million</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "46311e29a63d78b1",
-        "title": "Isar Aerospace to launch German-built Planet imaging satellite",
-        "url": "https://spacenews.com/isar-aerospace-to-launch-german-built-planet-imaging-satellite/",
-        "source": "SpaceNews",
-        "published": "Thu, 02 Jul 2026 18:20:48 +0000",
-        "published_dt": "2026-07-02T18:20:48+00:00",
-        "summary": "<figure><img alt=\"Spectrum liftoff\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"551\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/spectrum-liftoff.jpeg?fit=1024%2C551&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Isar Aerospace won a contract from Planet\u2019s German subsidiary to launch an imaging satellite, demonstrating an end-to-end space capability for the country.</p>\n<p>The post <a href=\"https://spacenews.com/isar-aerospace-to-launch-german-built-planet-imaging-satellite/\">Isar Aerospace to launch German-built Planet imaging satellite</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
         "id": "160f2bb071919757",
         "title": "U.S. Army expands advanced manufacturing of drone components at Pennsylvania depot",
         "url": "https://aerospaceamerica.aiaa.org/u-s-army-expands-advanced-manufacturing-of-drone-components-at-pennsylvania-depot/",
@@ -374,85 +392,67 @@
         "summary": ""
       },
       {
-        "id": "f9444a44dfad0536",
-        "title": "Blue Origin continues work on lunar landers during recovery from New Glenn explosion",
-        "url": "https://spacenews.com/blue-origin-continues-work-on-lunar-landers-during-recovery-from-new-glenn-explosion/",
+        "id": "b43b847381f905df",
+        "title": "D-Orbit signs launch-services contract with ArkEdge Space",
+        "url": "https://spacenews.com/d-orbit-signs-launch-services-contract-with-arkedge-space/",
         "source": "SpaceNews",
-        "published": "Mon, 06 Jul 2026 20:09:47 +0000",
-        "published_dt": "2026-07-06T20:09:47+00:00",
-        "summary": "<figure><img alt=\"Mark 2 Alpha\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"720\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/mk2alpha.jpeg?fit=1024%2C720&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Blue Origin is continuing to develop its Blue Moon lunar landers, with seven vehicles in production, while recovering from the New Glenn pad explosion more than a month ago.</p>\n<p>The post <a href=\"https://spacenews.com/blue-origin-continues-work-on-lunar-landers-during-recovery-from-new-glenn-explosion/\">Blue Origin continues work on lunar landers during recovery from New Glenn explosion</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Wed, 08 Jul 2026 01:00:00 +0000",
+        "published_dt": "2026-07-08T01:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"494\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_render_of_gea_-_d-orbits_in-orbit_servicing_vehicle-1.jpg?fit=879%2C494&amp;ssl=1\" width=\"879\" /></figure>\n<p>SAN FRANCISCO \u2013 Italian space logistics specialist D-Orbit will provide a series of launches aboard its ION Satellite Carrier for Japanese startup ArkEdge Space, under a contract announced July 8 [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/d-orbit-signs-launch-services-contract-with-arkedge-space/\">D-Orbit signs launch-services contract with ArkEdge Space</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "044909e693cc091f",
-        "title": "Iridium folds Aireon aviation safety service into Rocket Lab-bound business",
-        "url": "https://spacenews.com/iridium-folds-aireon-aviation-safety-service-into-rocket-lab-bound-business/",
+        "id": "61ec29249795517d",
+        "title": "Orbit Fab hires new CEO and raises funding to support satellite refueling business",
+        "url": "https://spacenews.com/orbit-fab-hires-new-ceo-and-raises-funding-to-support-satellite-refueling-business/",
         "source": "SpaceNews",
-        "published": "Mon, 06 Jul 2026 19:02:32 +0000",
-        "published_dt": "2026-07-06T19:02:32+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/AIR-0001-Data-Services-v2.00_01_36_17.Still001.webp?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Iridium Communications has completed its takeover of Aireon, bringing the aircraft-tracking venture fully in-house ahead of the satellite operator\u2019s planned $8 billion sale to Rocket Lab.</p>\n<p>The post <a href=\"https://spacenews.com/iridium-folds-aireon-aviation-safety-service-into-rocket-lab-bound-business/\">Iridium folds Aireon aviation safety service into Rocket Lab-bound business</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Tue, 07 Jul 2026 22:45:09 +0000",
+        "published_dt": "2026-07-07T22:45:09+00:00",
+        "summary": "<figure><img alt=\"Orbit Fab refueling shuttle\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"697\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2023/04/orbittfab-shuttle.jpg?fit=1024%2C697&amp;ssl=1\" width=\"1024\" /></figure>\n<p>With a new chief executive and funding round, satellite refueling company Orbit Fab hopes to make the transition from technology development to operations.</p>\n<p>The post <a href=\"https://spacenews.com/orbit-fab-hires-new-ceo-and-raises-funding-to-support-satellite-refueling-business/\">Orbit Fab hires new CEO and raises funding to support satellite refueling business</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "46fb685f1c75223a",
-        "title": "NASA adds three European firms to the commercial data program",
-        "url": "https://spacenews.com/nasa-adds-three-european-firms-to-the-commercial-data-program/",
-        "source": "SpaceNews",
-        "published": "Mon, 06 Jul 2026 15:57:10 +0000",
-        "published_dt": "2026-07-06T15:57:10+00:00",
-        "summary": "<figure><img alt=\"An illustration of a satellite communications network. Credit: NASA\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"410\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/csda-program-hero-2500x1000-200dpi.webp?fit=1024%2C410&amp;ssl=1\" width=\"1024\" /></figure>\n<p>MILAN \u2014 NASA\u2019s Commercial Satellite Data Acquisition program (CSDA) announced June 23 contract awards with eight new commercial satellite data providers, three of which are European: Kuva Space (Finland), OroraTech [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/nasa-adds-three-european-firms-to-the-commercial-data-program/\">NASA adds three European firms to the commercial data program</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "id": "314f5b73e637e2db",
+        "title": "AIAA Honorary Fellow Jameson Died in June 2026",
+        "url": "https://aerospaceamerica.aiaa.org/aiaa-honorary-fellow-jameson-died-in-june-2026/",
+        "source": "Aerospace America",
+        "published": "Tue, 07 Jul 2026 20:21:36 +0000",
+        "published_dt": "2026-07-07T20:21:36+00:00",
+        "summary": ""
       },
       {
-        "id": "d9521b65dcd20941",
-        "title": "The term \u2018dual-use\u2019 is misleading and dangerous",
-        "url": "https://spacenews.com/the-term-dual-use-is-misleading-and-dangerous/",
+        "id": "077182c883ac0c53",
+        "title": "Apolink makes contact with first relay satellite",
+        "url": "https://spacenews.com/apolink-makes-contact-with-first-relay-satellite/",
         "source": "SpaceNews",
-        "published": "Mon, 06 Jul 2026 13:00:00 +0000",
-        "published_dt": "2026-07-06T13:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"618\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2022/06/United-Kingdom.jpg?fit=1024%2C618&amp;ssl=1\" width=\"1024\" /></figure>\n<p>There is only technology. How it is employed is a question of intent, context and political will, not of the technology itself. A precision optical payload captures imagery whether the [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/the-term-dual-use-is-misleading-and-dangerous/\">The term \u2018dual-use&#8217; is misleading and dangerous</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Tue, 07 Jul 2026 18:11:41 +0000",
+        "published_dt": "2026-07-07T18:11:41+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/DSC04781-1-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Apolink has made contact with its first satellite after launching on SpaceX\u2019s July 7 rideshare mission, clearing the way for a data relay demonstration using a novel experimental license from the Federal Communications Commission.</p>\n<p>The post <a href=\"https://spacenews.com/apolink-makes-contact-with-first-relay-satellite/\">Apolink makes contact with first relay satellite</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "b933c486dbc3f4f5",
-        "title": "BAE microchip designed for strategic defense missions passes radiation test",
-        "url": "https://spacenews.com/bae-microchip-designed-for-strategic-defense-missions-passes-radiation-test/",
+        "id": "4fba5e08427b34ee",
+        "title": "Arianespace opens door to GEO rideshare opportunities from 2029",
+        "url": "https://spacenews.com/arianespace-opens-door-to-geo-rideshare-opportunities-from-2029/",
         "source": "SpaceNews",
-        "published": "Mon, 06 Jul 2026 13:00:00 +0000",
-        "published_dt": "2026-07-06T13:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Endura_3_gold_26_a57_169.webp?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The company is positioning its Endura computing for classified and missile-defense satellite programs</p>\n<p>The post <a href=\"https://spacenews.com/bae-microchip-designed-for-strategic-defense-missions-passes-radiation-test/\">BAE microchip designed for strategic defense missions passes radiation test</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Tue, 07 Jul 2026 17:52:30 +0000",
+        "published_dt": "2026-07-07T17:52:30+00:00",
+        "summary": "<figure><img alt=\"Arianespace and Infinite Orbits signed a memorandum of understanding July 7 to explore future collaboration on multiple direct-to-GEO rideshare launch services. Credit: Arianespace\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Signing-of-MoU_InfiniteOrbits_ArianeSpace-scaled.webp?fit=768%2C1024&amp;ssl=1\" width=\"768\" /></figure>\n<p>MILAN \u2014 Arianespace has signed a Memorandum of Understanding with French in-orbit servicing company Infinite Orbits to explore future collaboration on multiple direct-to-GEO rideshare launch services, the companies announced July [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/arianespace-opens-door-to-geo-rideshare-opportunities-from-2029/\">Arianespace opens door to GEO rideshare opportunities from 2029</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "23b46f8357be66fa",
-        "title": "Mouser receives HARTING distributor award for 2026",
-        "url": "https://www.engineering.com/mouser-receives-harting-distributor-award-for-2026/",
+        "id": "dfe0a57cd1aa83a6",
+        "title": "SpaceX launches Transporter-17 amid concerns about rideshare program\u2019s future",
+        "url": "https://spacenews.com/spacex-launches-transporter-17-amid-concerns-about-rideshare-programs-future/",
+        "source": "SpaceNews",
+        "published": "Tue, 07 Jul 2026 15:31:35 +0000",
+        "published_dt": "2026-07-07T15:31:35+00:00",
+        "summary": "<figure><img alt=\"Falcon 9 Transporter-17\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"575\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/f9-t17.jpeg?fit=1024%2C575&amp;ssl=1\" width=\"1024\" /></figure>\n<p>SpaceX launched the latest in its Transporter series of rideshare missions July 7 as industry concerns about the program\u2019s future reach what one rival company executive called a panic.</p>\n<p>The post <a href=\"https://spacenews.com/spacex-launches-transporter-17-amid-concerns-about-rideshare-programs-future/\">SpaceX launches Transporter-17 amid concerns about rideshare program\u2019s future</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "d06716d8134ad33e",
+        "title": "Bentley Systems expands Japan investment and local team",
+        "url": "https://www.engineering.com/bentley-systems-expands-japan-investment-and-local-team/",
         "source": "Engineering.com",
-        "published": "Mon, 06 Jul 2026 12:23:40 +0000",
-        "published_dt": "2026-07-06T12:23:40+00:00",
-        "summary": "<p>The distributor also received a separate award for new product sales growth and has carried HARTING products since 2003.</p>\n<p>The post <a href=\"https://www.engineering.com/mouser-receives-harting-distributor-award-for-2026/\">Mouser receives HARTING distributor award for 2026</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "36ead5dcf3735ec3",
-        "title": "Connected Aircraft Fleet Set to Exceed 70,000 by 2035",
-        "url": "https://spacenews.com/connected-aircraft-fleet-set-to-exceed-70000-by-2035/",
-        "source": "SpaceNews",
-        "published": "Mon, 06 Jul 2026 12:00:00 +0000",
-        "published_dt": "2026-07-06T12:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Untitled-1080-x-1080-px-1.png?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Paris, France\u00a0&#124; May 2026 \u2013\u00a0Novaspace\u2019s\u00a0latest\u00a0In-Flight Connectivity\u00a0report points to sustained, long-term growth in the In-Flight Connectivity (IFC) market, with\u00a0connected\u00a0aircraft\u00a0numbers to\u00a0exceed 70,000 by 2035.\u00a0Simultaneously, IFC penetration is expected to rise from 48% [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/connected-aircraft-fleet-set-to-exceed-70000-by-2035/\">Connected Aircraft Fleet Set to Exceed 70,000 by 2035</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "4325bb94b2319ec8",
-        "title": "Pomini Tenova and Siemens expand roll grinder partnership",
-        "url": "https://www.engineering.com/pomini-tenova-and-siemens-expand-roll-grinder-partnership/",
-        "source": "Engineering.com",
-        "published": "Mon, 06 Jul 2026 11:53:46 +0000",
-        "published_dt": "2026-07-06T11:53:46+00:00",
-        "summary": "<p>The collaboration focuses on machine revamps, predictive maintenance, digital monitoring and more autonomous grinder operation.</p>\n<p>The post <a href=\"https://www.engineering.com/pomini-tenova-and-siemens-expand-roll-grinder-partnership/\">Pomini Tenova and Siemens expand roll grinder partnership</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "1ea2e88b22c50a4f",
-        "title": "Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard",
-        "url": "https://spacenews.com/centre-for-space-futures-novaspace-and-spacetech-gulf-sign-agreement-to-develop-global-space-capability-mapping-dashboard/",
-        "source": "SpaceNews",
-        "published": "Mon, 06 Jul 2026 10:00:00 +0000",
-        "published_dt": "2026-07-06T10:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Untitled-1080-x-1080-px.png?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Riyadh, Saudi Arabia \u2013 June, 2026 The Centre for Space Futures (CSF), together with leading international partners including Novaspace, and SpaceTech Gulf, have signed a Memorandum of Cooperation (MoC) to [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/centre-for-space-futures-novaspace-and-spacetech-gulf-sign-agreement-to-develop-global-space-capability-mapping-dashboard/\">Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Tue, 07 Jul 2026 14:03:40 +0000",
+        "published_dt": "2026-07-07T14:03:40+00:00",
+        "summary": "<p>The company opened a Tokyo headquarters to support 3D digital delivery under Japan\u2019s i-Construction 2029 initiative.</p>\n<p>The post <a href=\"https://www.engineering.com/bentley-systems-expands-japan-investment-and-local-team/\">Bentley Systems expands Japan investment and local team</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       }
     ],
     "Economics": [
@@ -565,6 +565,15 @@
         "summary": "Contrary to a long-standing concern, we present evidence that classical benefit-based labor income taxation in the tradition of Smith (1776) is consistent with income redistribution through transfers and negative average tax rates both theoretically and---in plausibly-specified simulations---quantitatively at levels which reflect U.S. policy over the past several decades. As redistribution is widespread in practice, our results remove an obstacle to the benefit principle\u2019s plausibility as a prevailing normative foundation of tax policy."
       },
       {
+        "id": "992ebfbd0f2684fa",
+        "title": "AI has taken over the stock market. The bond market is next",
+        "url": "https://www.economist.com/finance-and-economics/2026/07/07/ai-has-taken-over-the-stock-market-the-bond-market-is-next",
+        "source": "Finance & economics",
+        "published": "Tue, 07 Jul 2026 20:08:30 +0000",
+        "published_dt": "2026-07-07T20:08:30+00:00",
+        "summary": "Judging credit risk of the AI boom is difficult"
+      },
+      {
         "id": "5998e54d8c96579e",
         "title": "China cracks down on rule-bending offshore investments",
         "url": "https://www.economist.com/finance-and-economics/2026/06/28/china-cracks-down-on-rule-bending-offshore-investments",
@@ -671,35 +680,17 @@
         "published": "Thu, 21 May 2026 09:27:37 +0000",
         "published_dt": "2026-05-21T09:27:37+00:00",
         "summary": "Sometimes it is more than merely an exogenous constraint"
-      },
-      {
-        "id": "833855b99670b133",
-        "title": "Investors fear another surge in inflation",
-        "url": "https://www.economist.com/finance-and-economics/2026/05/19/investors-fear-another-surge-in-inflation",
-        "source": "Finance & economics",
-        "published": "Tue, 19 May 2026 19:36:34 +0000",
-        "published_dt": "2026-05-19T19:36:34+00:00",
-        "summary": "So why aren\u2019t more buying inflation-protected bonds?"
       }
     ],
     "Cross-Disciplinary": [
       {
-        "id": "c170d471e8f2dfc0",
-        "title": "The Download: your stake in OpenAI, and the Treasury\u2019s AI warning",
-        "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+        "id": "851ad44764f57435",
+        "title": "The Download: worms fight pollution, and geoengineering faces reality",
+        "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
         "source": "MIT Technology Review",
-        "published": "Tue, 07 Jul 2026 12:10:00 +0000",
-        "published_dt": "2026-07-07T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family\u2019s $300 stake in OpenAI Sam Altman\u2019s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving&#8230;"
-      },
-      {
-        "id": "5786331c6dbd0785",
-        "title": "The foundational elements of AI architecture that IT leaders need to scale",
-        "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 07 Jul 2026 11:10:52 +0000",
-        "published_dt": "2026-07-07T11:10:52+00:00",
-        "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture\u2014the&#8230;"
+        "published": "Wed, 08 Jul 2026 12:10:00 +0000",
+        "published_dt": "2026-07-08T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips to&#8230;"
       },
       {
         "id": "9c7f5ae6c724587c",
@@ -727,15 +718,6 @@
         "published": "Fri, 19 Jun 2026 18:00:01 +0000",
         "published_dt": "2026-06-19T18:00:01+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-middle-aged-black-man-taking-a-virtual-coding-class-in-his-home-office.jpg?id=66951841&amp;width=1245&amp;height=700&amp;coordinates=0%2C156%2C0%2C157\" /><br /><br /><p><a href=\"https://spectrum.ieee.org/recursive-self-improvement\" target=\"_self\">Large language models</a> have moved out of the research lab and into engineers\u2019 daily workflow. LLMs serve as reasoning engines that can orchestrate complex tasks including identifying vulnerabilities in source code and transforming fragmented project discussions into rigorous technical specifications.</p><p>While the general public uses AI tools to write email and plan vacations, technical professionals use LLMs as core architectural elements that are fundamentally changing how digital infrastructures are built and maintained. As the AI models move into mainstream engineering practice, the demand for technical expertise is rising.</p><p>The LLM technology market is expected to grow by <a href=\"https://www.marketsandmarkets.com/Market-Reports/large-language-model-llm-market-102137956.html\" rel=\"noopener noreferrer\" target=\"_blank\">about 33 percent every year through 2030</a>, according to <a href=\"https://www.marketsandmarkets.com/AboutUs-8.html\" rel=\"noopener noreferrer\" target=\"_blank\">MarketsandMarkets</a>. The rapid expansion suggests that proficiency in implementing and securing the models is transitioning from a niche into a core requirement for technologists.</p><h2>More than just a better search engine</h2><p>To use LLMs effectively, technical professionals must move beyond treating them as conversational robots. At a fundamental level, the AI systems are built on the <a href=\"https://ieeexplore.ieee.org/document/10245906\" rel=\"noopener noreferrer\" target=\"_blank\">transformer architecture</a>, a framework that replaced the older method of processing data in a fixed, sequential order. Unlike earlier models that analyzed information one step at a time, transformers use self-attention mechanisms to ingest vast datasets simultaneously.</p><p class=\"pull-quote\">For technical professionals, LLMs are core architectural elements that are fundamentally changing how digital infrastructures are built and maintained.</p><p>Relying on such LLMs without understanding their internal logic creates a significant reliability risk. To build tools that work consistently, developers must understand the core principles that govern how the models process information and generate results. By mastering how a model processes information and how its internal settings influence the result, developers can move away from a trial-and-error approach toward a more precise one to ensure the AI tool handles complex data reliably.</p><h2>Four ways LLMs are changing jobs</h2><p>Here are areas that integrate large language models.</p><p><strong>Moving past basic prompts. </strong>Developers are using application program interfaces (APIs) to connect LLMs directly to their databases and software tools. Employing the APIs allows AI to perform work such as executing code or searching through internal repositories.</p><p><strong>Fixing the \u201challucination\u201d problem. </strong>LLMs are at risk of <a href=\"https://spectrum.ieee.org/ai-agent-benchmarks\" target=\"_self\">hallucinations</a>, which are generated facts or code that looks correct but actually is wrong or broken. To fix the problem, retrieval-augmented generation (RAG) forces AI to look up information in a trusted source such as a company\u2019s database.</p><p><strong>Prioritizing data security. </strong>When using AI with proprietary code, <a href=\"https://spectrum.ieee.org/two-new-ai-ethics-certifications\" target=\"_self\">security</a> is a major concern. Engineers must learn how to set up \u201cprivate\u201d instances of the models to ensure that sensitive company data stays within a secure cloud environment and is not used to train public versions.</p><p><strong>The future of collaboration. </strong>By automating repetitive coding tasks and summarizing thousands of pages of documentation, LLMs let engineers spend more time on high-level designs and solving important issues.</p><h2>Online course program helps with mastering the tech</h2><p>The gap between people who use AI and those who understand how to build with it is growing wider. To help technical professionals stay ahead, IEEE offers a five-course online program, <a href=\"https://iln.ieee.org/public/contentdetails.aspx?id=B570F53B5DA44B258042A12AE5BD6846\" target=\"_blank\">Large Language Models Demystified</a>, available through the <a href=\"https://iln.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Learning Network</a>.</p><p>The program, developed by <a href=\"https://ea.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Educational Activities</a> in partnership with the <a href=\"https://computer.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Computer Society</a>, is built for people who want to understand the \u201chow\u201d and the \u201cwhy\u201d behind the technology. Rather than just teaching basic prompting, the curriculum dives into the engineering behind generative AI, including:</p><ul><li><strong>Evolution, impact, and hands-on exercises: </strong>the shift from statistical methods to modern transformers, including hands-on model optimization.</li><li><strong>Understanding transformer architectures:</strong> the mathematical core of self-attention and positional encoding, implemented in <a href=\"https://numpy.org/\" rel=\"noopener noreferrer\" target=\"_blank\">NumPy</a> and <a href=\"https://www.python.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Python</a>.</li><li><strong>Architectural analysis and implementation:</strong> advanced LLM design with practical model-building exercises.</li><li><strong>Training and modeling with PyTorch:</strong> end-to-end pipelines in <a href=\"https://pytorch.org/\" rel=\"noopener noreferrer\" target=\"_blank\">PyTorch</a>, leveraging parameter-efficient techniques such as <a href=\"https://arxiv.org/abs/2106.09685\" rel=\"noopener noreferrer\" target=\"_blank\">low-rank adaptation</a> and quantization.</li><li><strong>Optimization, alignment, and deployment:</strong> performance scaling, <a href=\"https://aws.amazon.com/what-is/reinforcement-learning-from-human-feedback/\" rel=\"noopener noreferrer\" target=\"_blank\">reinforcement learning from human feedback (RLHF)</a>, <a href=\"https://cameronrwolfe.substack.com/p/grpo\" rel=\"noopener noreferrer\" target=\"_blank\">group-relative policy optimization</a>, RAG, and agentic AI.</li></ul><p>Upon completion of the program, participants earn professional development credits and a digital badge from IEEE to verify their expertise.</p><p><a href=\"https://iln.ieee.org/public/contentdetails.aspx?id=B570F53B5DA44B258042A12AE5BD6846\" rel=\"noopener noreferrer\" target=\"_blank\">Enroll in the course program</a> on the IEEE Learning Network.</p><p>Organizations looking to prepare their teams to work on LLMs can connect with an <a href=\"https://forms1.ieee.org/Large-Language-Models-Demystified.html\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE content specialist</a> to discuss group enrollment and tailored training paths.</p>"
-      },
-      {
-        "id": "522c1c4937315934",
-        "title": "Why worms (and microbes) are catching on as a manure pollution solution",
-        "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 07 Jul 2026 10:00:00 +0000",
-        "published_dt": "2026-07-07T10:00:00+00:00",
-        "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family\u2019s land in Hickman, a tiny town in the state\u2019s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squirming red earthworms.&#8230;"
       },
       {
         "id": "28232bf9bb11dd5f",
@@ -781,6 +763,15 @@
         "published": "Wed, 17 Jun 2026 18:00:02 +0000",
         "published_dt": "2026-06-17T18:00:02+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-black-woman-speaking-into-a-microphone-in-front-of-a-presentation-screen.jpg?id=66951490&amp;width=1245&amp;height=700&amp;coordinates=0%2C197%2C0%2C197\" /><br /><br /><p>The rapid evolution of the global engineering landscape requires continuous education. For one week in April, the IEEE community focuses on its educational frameworks. <a href=\"https://educationweek.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Education Week</a>, which just concluded its fifth year, provided a comprehensive overview of the resources available to professionals and students.</p><p>From 11 to 19 April, the organization supplied a variety of <a href=\"https://educationweek.ieee.org/events/\" rel=\"noopener noreferrer\" target=\"_blank\">live and virtual events</a>, <a href=\"https://educationweek.ieee.org/resources/\" rel=\"noopener noreferrer\" target=\"_blank\">online resources</a>, and <a href=\"https://educationweek.ieee.org/special-offers/\" rel=\"noopener noreferrer\" target=\"_blank\">promotions</a> that champion the cycle of lifelong learning.</p><p><a href=\"https://spectrum.ieee.org/u/maryellen-randall\" target=\"_self\">IEEE President Mary Ellen Randall</a> kicked off the week with the keynote: \u201cInspiring Tomorrow\u2019s Innovators: How IEEE Educational Resources Can Open Pathways Into STEM.\u201d The event served as a central point for programs that run throughout the year.</p><p>\u201cEducation Week allows different units to share resources with members and the public, covering everything from preuniversity programs to advanced professional training,\u201d says <a href=\"https://www.ieee.org/jamie-moesch\" rel=\"noopener noreferrer\" target=\"_blank\">Jamie Moesch</a>, managing director of <a href=\"https://ea.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Educational Activities</a>.</p><h2>Coordination across the organization</h2><p>The event relied on the cooperation of 120 IEEE partners. Involved organizational units included the <a href=\"https://www.comsoc.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Communications Society</a>, the <a href=\"https://ieee-edusociety.org/home\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Education Society</a>, and chapters and sections from around the world, including in <a href=\"https://educationweek.ieee.org/event/epics-in-ieee/\" rel=\"noopener noreferrer\" target=\"_blank\">Brazil</a>, <a href=\"https://events.vtools.ieee.org/m/549648\" rel=\"noopener noreferrer\" target=\"_blank\">Colombia</a>, and <a href=\"https://gnsu.ac.in/ieee\" rel=\"noopener noreferrer\" target=\"_blank\">India</a>. They produced 114 events, 23 resources, and 11 special offers.</p><p>\u201cThese collaborations help members remain current in a changing technological environment,\u201d says <a href=\"https://www.ieee.org/about/assembly/vp-of-ea\" rel=\"noopener noreferrer\" target=\"_blank\">Timothy Kurzweg</a>, vice president of <a href=\"https://ea.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Educational Activities</a>. \u201cThe goal is to provide accessible tools that assist members in both their own professional development and their efforts to mentor new engineers.\u201d</p><p class=\"pull-quote\">\u201cThe week allows different units to share resources with members and the public, covering everything from preuniversity programs to advanced professional training.\u201d <strong>\u2014Jamie Moesch, managing director of IEEE Educational Activities</strong></p><p>The participation metrics reflect a broad geographic interest. The IEEE Education Week website recorded more than 4,770 visitors, with primary engagement coming from India, Nigeria, and the United States. Nearly 240 digital badges were issued to people who completed educational quizzes.</p><p>To encourage participation, organizers enlisted 72 volunteer ambassadors to promote the week\u2019s activities across their local networks and share key resources on social media.</p><h2>Available educational tools</h2><p>Here are a few of the <a href=\"https://educationweek.ieee.org/events/\" target=\"_blank\">virtual events</a> held during Education Week\u2014most of which are available on demand:</p><ul><li><a href=\"https://www.youtube.com/watch?v=jIJICVfsk8A&amp;t=55s\" rel=\"noopener noreferrer\" target=\"_blank\">Celebrating Excellence: The EPICS in IEEE Contributor Awards and Service Learning Showcase.</a></li><li><a href=\"https://www.airmeet.com/e/0dea9e90-279b-11f1-ac08-e5de564d93ce\" rel=\"noopener noreferrer\" target=\"_blank\">Classroom to Startup: Uniting Academia and Industry.</a></li><li><a href=\"https://ieee-edusociety.org/post/announcement/ieee-education-week-2026\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE\u2019s Role in Shaping AI-Ready Engineering Education Globally.</a></li><li><a href=\"https://www.youtube.com/watch?v=AE1mOgejM9M&amp;t=167s\" rel=\"noopener noreferrer\" target=\"_blank\">Leveraging IEEE Standards to Enhance Engineering Service Learning Projects (EPICS in IEEE).</a></li><li><a href=\"https://www.youtube.com/watch?v=G4Ac2ugTEJo&amp;t=1s\" rel=\"noopener noreferrer\" target=\"_blank\">Mastering the Modern Job Market: The Power of IEEE Microcredentials.</a></li><li><a href=\"https://www.airmeet.com/e/8da7cd00-0da7-11f1-8218-ef26d078c8ee\" rel=\"noopener noreferrer\" target=\"_blank\">TryEngineering Volunteers Making an Impact in STEM.</a></li></ul><p>The Education Week website highlights <a href=\"https://educationweek.ieee.org/resources/\" rel=\"noopener noreferrer\" target=\"_blank\">resources</a> and <a href=\"https://educationweek.ieee.org/special-offers/\" rel=\"noopener noreferrer\" target=\"_blank\">offers</a> shared by IEEE organizational units, including:</p><ul><li><a href=\"https://www.ieee.org/education/mud.html\" rel=\"noopener noreferrer\" target=\"_blank\">A half-off discount for members on IEEE e-learning courses.</a> The catalog covers such topics as computing, power and energy, and telecommunications. </li><li><a href=\"https://www.comsoc.org/education-training/demand-training\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Communications Society on-demand webinars.</a> Learn the latest trends and innovations.</li><li><a href=\"https://ieeetv.ieee.org/channels/wie\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Women in Engineering career-focused, upskill, and reskill webinars.</a> The presentations cover a variety of topics including agentic AI, leadership, and robots.</li><li><a href=\"https://innovationatwork.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Innovation at Work.</a> The e-newsletter covers emerging technologies, education, and training for technical professionals.</li><li><a href=\"https://iln.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Learning Network.</a> Hundreds of <a href=\"https://spectrum.ieee.org/ieee-professional-development-suite\" target=\"_self\">continuing education courses</a>, all in one place.</li><li><a href=\"https://tryengineering.org/teachers/lesson-plans/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE TryEngineering lesson plans.</a> The easy-to-use, <a href=\"https://spectrum.ieee.org/tryengineering-oncampus-expansion\" target=\"_self\">engaging activities</a> and plans help teach engineering concepts to preuniversity students.</li><li><a href=\"https://tryengineering.org/explore-resources/collections/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE TryEngineering collections.</a> The lesson plans and multimedia resources, developed with partners and IEEE technical societies, are designed to introduce technical topics and deepen student understanding.</li></ul><p>Individuals who were unable to attend the live sessions can find the archived content on the IEEE Education Week website.</p><p>The website also accepts <a href=\"https://secure.ieeefoundation.org/site/Donation2;jsessionid=00000000.app30118b?mfc_pref=T&amp;1980.donation=form1&amp;idb=615936264&amp;df_id=1980&amp;NONCE_TOKEN=0B9ED08DC05E53935E33CB9C4B08F5C2&amp;mfc_pref=T\" rel=\"noopener noreferrer\" target=\"_blank\">donations for education-related funds</a> managed by the <a href=\"https://www.ieeefoundation.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Foundation</a>.</p><p>Updates and technical resources continue to be shared through the #EducationAtIEEE hashtag on social media channels.</p><p>Planning for IEEE Education Week 2027, scheduled for 3 to 11 April, is underway.</p>"
+      },
+      {
+        "id": "160577a9659b7d97",
+        "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
+        "url": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda",
+        "source": "IEEE Spectrum",
+        "published": "Tue, 07 Jul 2026 19:02:42 +0000",
+        "published_dt": "2026-07-07T19:02:42+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/three-men-in-suits-onstage-smiling-as-one-presents-an-award-medal-in-a-box.jpg?id=67107362&amp;width=1245&amp;height=700&amp;coordinates=0%2C469%2C0%2C469\" /><br /><br /><p><a href=\"https://ethw.org/Toshio_Fukuda\" rel=\"noopener noreferrer\" target=\"_blank\">Toshio Fukuda</a> has been blazing trails for most of his career. He is considered to be one of the most prolific scholars in <a href=\"https://spectrum.ieee.org/topic/robotics/\" target=\"_self\">robotics</a>, writing more than 2,000 research papers and authoring several books on the field. He\u2019s an influential figure thanks to his pioneering work developing biomedical robotic systems, industrial robots, micro-nano robotics, mechatronics, and AI-driven automation.</p><p>Fukuda launched one of the first robotics conferences, the <a href=\"https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE/RSJ International Conference on Intelligent Robots and Systems</a> (IROS). It is still popular almost 40 years later.</p><h3>Toshio Fukuda</h3><br /><p><strong>Employer</strong></p><p>Egypt-Japan University of Science and Technology, in Alexandria</p>\n<p><strong>Title</strong></p><p>Professor and vice president of research</p>\n<p><strong>Member grade</strong></p><p>Life Fellow</p>\n<p><strong>Alma maters</strong></p><p>Waseda University, in Tokyo; University of Tokyo </p><p>An IEEE Life Fellow, he is a professor emeritus in the department of micro-nano systems engineering and a visiting professor at <a href=\"https://en.nagoya-u.ac.jp/\" rel=\"noopener noreferrer\" target=\"_blank\">Nagoya University</a>, in Japan, where he taught for nearly 25 years. Currently, he is a vice president of research at the <a href=\"https://ejust.edu.eg/\" rel=\"noopener noreferrer\" target=\"_blank\">Egypt-Japan University of Science and Technology</a>, in Alexandria, Egypt.</p><p>Within IEEE, Fukuda has held top volunteer positions including the organization\u2019s highest office: He served as <a href=\"https://spectrum.ieee.org/u/toshio-fukuda\" target=\"_self\">IEEE president</a> in 2020, becoming the first person of Asian descent to hold the role.</p><p>He\u2019s a former program director of Japan\u2019s <a href=\"https://www.jst.go.jp/moonshot/en/about.html\" rel=\"noopener noreferrer\" target=\"_blank\">Moonshot program</a>, which by 2050 intends to develop advanced AI robots.</p><p>Born in Japan, Fukuda has been recognized by the country for his contributions to science with two of its highest awards: the <a href=\"https://en.wikipedia.org/wiki/Medals_of_Honor_(Japan)\" rel=\"noopener noreferrer\" target=\"_blank\">Medal of Honor with a purple ribbon</a> in 2015 and the <a href=\"https://en.wikipedia.org/wiki/Order_of_the_Sacred_Treasure\" rel=\"noopener noreferrer\" target=\"_blank\">Order of the Sacred Treasure</a> in 2022.</p><p>IEEE honored him with this year\u2019s <a href=\"https://corporate-awards.ieee.org/award/ieee-richard-m-emberson-award/\" rel=\"noopener noreferrer\" target=\"_blank\">Richard M. Emberson Award</a> for \u201cdistinguished service advancing the technical objectives of IEEE, especially in the area of robotics.\u201d The IEEE Board-level award is sponsored by the <a href=\"https://ta.ieee.org/technical-activities-board\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Technical Activities Board</a>. Fukuda received the award on 24 April at a <a href=\"https://spectrum.ieee.org/ieee-celebrates-honors-ceremony-2026\" target=\"_self\">ceremony</a> in New York City.</p><p>As a former IEEE president who has served as a master of ceremonies at several of the organization\u2019s major award events, Fukuda noted that he is more accustomed to bestowing awards than receiving them.</p><p>\u201cIt\u2019s very interesting to be on the receiving end,\u201d he says.</p><h2>The journey into robotics research</h2><p>As a teenager, Fukuda spent his summer breaks teaching himself how to build things including transistor radios and steam engines.</p><p>\u201cIt was very nice to have a hands-on hobby and make these kinds of things myself,\u201d he says. His experimentation led him to study engineering.</p><p>He earned a bachelor\u2019s degree in engineering in 1971 from <a href=\"https://www.waseda.jp/top/en/\" rel=\"noopener noreferrer\" target=\"_blank\">Waseda University</a>, in Tokyo. He says one of his professors there\u2014<a href=\"https://www.humanoid.waseda.ac.jp/history.html\" rel=\"noopener noreferrer\" target=\"_blank\">Ichiro Kato</a>, regarded as the father of Japanese robotics research\u2014was a good mentor who made a positive impact.</p><p>Fukuda\u2019s research interests were robotics and mechatronics, a field that combines robotics, electronics, computer science, and control systems.</p><p>He went on to earn a master\u2019s degree and a doctorate in science from the <a href=\"https://www.u-tokyo.ac.jp/en/\" rel=\"noopener noreferrer\" target=\"_blank\">University of Tokyo</a>, in 1971 and 1977. During those years, he also attended <a href=\"https://www.yale.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">Yale</a>, where he conducted research on advanced control theory in 1973.</p><p>He reflects fondly on his time at Yale: \u201cIt was a very nice environment and a kind of free-thinking atmosphere. It motivated me to study more.\u201d</p><p class=\"pull-quote\">\u201cIEEE doesn\u2019t care who you are, what you do, what country you are from, or whether you are male or female. IEEE accepts people who have energy and passion.\u201d</p><p>While at Yale, Fukuda served as an assistant to his advisor\u2014which led him to consider a career in academia, he says, because he enjoyed the freedom that research work afforded him.</p><p>But he realized that such freedom comes with a price. University researchers are expected to raise the money that funds their work. He compares researchers to small-business owners who have to bring in money to keep their enterprise afloat.</p><p>That realization led him to select robotics as his field because he intended to develop technologies useful to industry, he says.</p><p>After earning his doctorate, he returned to Japan in 1977 to work as a research scientist at the government\u2019s Mechanical Engineering Laboratory, later renamed the <a href=\"https://www.aist.go.jp/aist_e/about_aist/\" target=\"_blank\">National Institute of Advanced Industrial Science and Technology</a>, in Tsukuba.</p><p>\u201cThere was a lot of research going on at the lab, including practical robotics and theory,\u201d he says.</p><p>He left Japan in 1979 to become a visiting research fellow at the <a href=\"https://www.uni-stuttgart.de/en/\" rel=\"noopener noreferrer\" target=\"_blank\">University of Stuttgart</a>, in Germany. During his year there, he studied systems, software problems, and related topics.</p><p>He returned to Japan and was hired as an associate professor of mechanical engineering at the <a href=\"https://www.tus.ac.jp/en/\" rel=\"noopener noreferrer\" target=\"_blank\">Tokyo University of Science</a>. He conducted research into practical uses for robots by visiting industrial plants. He decided to develop robots that inspect industrial equipment such as those used in assembly plants, oil refineries, and power stations\u2014places that \u201ccan be hostile environments for humans,\u201d he says.</p><p>His work drew interest from chemical, oil, and utility companies.</p><p>\u201cI got a lot of money from them for this very practical application, which funded my research,\u201d he says, laughing.</p><h2>Developing popular robotic systems</h2><p>Fukuda grew tired of making those robots, he says, so he switched to creating ones for scientific applications. He developed many techniques, but he probably is best known for his modular, <a href=\"https://www.sciencedirect.com/science/article/abs/pii/004579069290029D\" rel=\"noopener noreferrer\" target=\"_blank\">cellular robotic systems</a> (CEBOTs), which he introduced in 1985.</p><p>He has described how <a href=\"https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&amp;queryText=CEBOT\" rel=\"noopener noreferrer\" target=\"_blank\">CEBOTs work</a> in numerous papers published in the <a href=\"https://ieeexplore.ieee.org/Xplore/home.jsp\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Xplore Digital Library</a>.</p><p>The CEBOT system is composed of a number of autonomous robotic cells that stick together like interlocking <a href=\"https://www.lego.com/en-us\" rel=\"noopener noreferrer\" target=\"_blank\">Lego</a> plastic bricks, he says.</p><p>Each cell is a fundamental modular unit that has a function. When a simple task is given, the system can analyze it and generate the structure of the cellular manipulator. The cells connect to and detach from each other through connection mechanisms and cooperate mutually, creating complex structures and configurations.</p><p>\u201cYou start developing from the component-wise to the cell-wise to a small functional unit\u2014and then you come up with clusters that make bigger systems. We can make a society of robot beings like that,\u201d he explained in his <a href=\"https://ethw.org/Oral-History:Toshio_Fukuda\" rel=\"noopener noreferrer\" target=\"_blank\">oral history</a> published on the <a href=\"https://ethw.org/Main_Page\" rel=\"noopener noreferrer\" target=\"_blank\">Engineering and Technology History Wiki</a>. \u201cIt\u2019s a distributed robotic system, a self-organized robotic system, and also an evolutionary robotic system.</p><p>\u201cIt\u2019s also a fault-tolerant robot system because if something is wrong, you just remove those things and make a new one. You keep the system working. That\u2019s a great thing.\u201d</p><p>Today CEBOTs are used for a variety of tasks such as delivering medication in hospitals, assisting with planting crops, and transporting products in distribution centers. Check out <a href=\"https://spectrum.ieee.org/\" target=\"_self\"><em><em>IEEE Spectrum</em></em></a>\u2019s <a href=\"https://robotsguide.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Robots Guide</a> for news from the world of robotics.</p><p>In 1989 Fukuda joined Nagoya University as a professor of mechanical engineering and micro-nano systems engineering. During his 24-year career there, he was director of the university\u2019s <a href=\"https://en.nagoya-u.ac.jp/assets/pdf/pages/about/communications/schools/about_communications_schools_7.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Center for Micro-Nano Mechatronics</a>. He developed a long list of technologies at the university, including many for medical applications. He also conducted groundbreaking research into intelligent robotic systems and micro- and nano-robotics.</p><p>Another technology he is known for is <a href=\"https://ieeexplore.ieee.org/document/240556\" rel=\"noopener noreferrer\" target=\"_blank\">brachiation robots</a>, which he helped develop in 1988. He calls them <em><em>monkey robots</em></em> because they\u2019re based on the pendulum-like movement of monkeys swinging from tree to tree. The gravity-based locomotion enables continuous movement.</p><p>Brachiation robots now are inspecting high-voltage transmission towers and bridges, searching damaged buildings for survivors, and performing maintenance on pipelines and cables.</p><p>Fukuda retired from the university in 2013 and was named professor emeritus.</p><p>He didn\u2019t stay retired for long, though. He next held a teaching appointment at <a href=\"https://www.meijo-u.ac.jp/english/\" rel=\"noopener noreferrer\" target=\"_blank\">Meijo University</a>, in Nagoya, until he left in 2022 to join the Egypt-Japan University.</p><h2>A prominent volunteer</h2><p>He joined IEEE in 1980 at the encouragement of one of his research advisors, Professor <a href=\"https://ethw.org/Fumio_Harashima\" rel=\"noopener noreferrer\" target=\"_blank\">Fumio Harashima</a>, now an IEEE Life Fellow. After attending conferences and reading the organization\u2019s publications, Fukuda says, he looked forward to becoming more involved.</p><p>\u201cI wanted to know how to organize a conference and how to edit a paper for one of its <em><em>Transactions</em></em>,\u201d he says. \u201cI wanted to know what was going on from inside the organization, not just the outside.\u201d</p><p>In 1988 he was the founding chair and organizer of IROS, in Tokyo. The conference had 330 attendees that year, and was supported by Harashima. Today it is one of the largest and most prestigious conferences on the topic, attracting more than 9,000 people annually. Out of 120,000 conferences, it was the only conference in the <a href=\"https://www.nature.com/nature-index/faq\" rel=\"noopener noreferrer\" target=\"_blank\">Nature Index</a> database for this year, Fukuda says.</p><p>In 1996 he and other members launched <a href=\"https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>IEEE Transactions on Mechatronics</em></em></a>.</p><p>He was the founding president of the <a href=\"https://ieeenano.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Nanotechnology Council</a>, which was established in 2002. He is considered a pioneer in nanotechnology research, particularly regarding how it relates to robotics.</p><p>Over the years, he has held numerous volunteer positions on IEEE editorial boards and committees.</p><p>He was the 1998\u20131999 president of the <a href=\"https://www.ieee-ras.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Robotics and Automation Society</a>, becoming the first non-U.S. member to hold the title.</p><p>He was director of <a href=\"https://ta.ieee.org/society-council-resources/society-and-council-operations/divisions-society-groupings\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Division X</a> (2001\u20132002 and 2017\u20132018), which covers intelligent systems, biological engineering, robotics, control systems, and photonic technologies. He served as the 2013\u20132014 director of <a href=\"https://www.ieeer10.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Region 10</a> (Asia-Pacific).</p><p>As the 2020 IEEE president, Fukuda saw the organization through the early part of the <a href=\"https://spectrum.ieee.org/ieee-presidents-column-strength-and-solidarity-in-responding-to-the-challenges-of-covid19\" target=\"_self\">COVID-19 pandemic</a>. Because of travel restrictions, he realized IEEE should change how it offered its in-person services, specifically educational programs. He encouraged <a href=\"https://ea.ieee.org/ea-programs\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Educational Activities</a> to develop an online learning platform. The <a href=\"https://spectrum.ieee.org/ieee-president-lets-focus-on-continuing-education\" target=\"_self\">IEEE Learning Network</a> started with just three courses and now offers nearly 2,000 courses, webinars, and learning materials.</p><h2>An award-winning member</h2><p>The Emberson Award joins a slew of other recognitions Fukuda has received from IEEE. They include several from the IEEE Robotics and Automation Society: a 2004 <a href=\"https://www.ieee-ras.org/awards-recognition/society-awards/pioneer-in-robotics-and-automation-award/\" rel=\"noopener noreferrer\" target=\"_blank\">Pioneer Award</a>, a 2009 <a href=\"https://www.ieee-ras.org/2026-ieee-ras-award-recipients-announced/\" rel=\"noopener noreferrer\" target=\"_blank\">Saridis Leadership Award</a>, and the 2011 <a href=\"https://www.ieee-ras.org/awards-recognition/conference-awards/iros-harashima-award-for-innovative-technologies/\" rel=\"noopener noreferrer\" target=\"_blank\">Harashima Award for Innovative Technologies</a>. He is also a recipient of the Board-level 2010 IEEE Robotics and Automation <a href=\"https://www.ieee-ras.org/awards-recognition/ieee-awards/ieee-robotics-and-automation-technical-field-award-tfa/\" rel=\"noopener noreferrer\" target=\"_blank\">Technical Field Award</a>.</p><p>He says he feels strongly that IEEE should be a diverse organization that is welcoming to all. As IEEE president, he led efforts to devise a <a href=\"https://spectrum.ieee.org/ieee-diversity-and-inclusion-efforts\" target=\"_self\">diversity, equity, and inclusion program</a>. Several policies, procedures, and bylaws were revised to give members a safe, inclusive place for discourse.</p><p>\u201cIt\u2019s important for IEEE to make everyone feel comfortable,\u201d he says. \u201cDEI programs are important. All people should be equal. IEEE doesn\u2019t care who you are, what you do, what country you are from, or whether you are male or female. IEEE accepts people who have energy and passion.</p><p>\u201cIt accepted me, from the Far East. That\u2019s why I like it.\u201d</p><p>You can learn more about Fukuda and his career from the <a href=\"https://ethw.org/Oral-History:Toshio_Fukuda\" rel=\"noopener noreferrer\" target=\"_blank\">oral history</a> conducted by the <a href=\"https://www.ieee.org/about/history-center\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE History Center</a>.</p>"
       },
       {
         "id": "529206126b1b671f",
@@ -837,13 +828,31 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/collage-of-obscured-person-with-power-grid-diagrams-and-demand-peak-shift-charts.png?id=66957832&amp;width=1245&amp;height=700&amp;coordinates=0%2C114%2C0%2C114\" /><br /><br /><p>By most accounts, the United States appears poised to fall woefully short of meeting new electricity demand over the next five years as <a href=\"https://spectrum.ieee.org/nuclear-powered-data-center\" target=\"_self\">data centers</a> and <a href=\"https://gridstrategiesllc.com/wp-content/uploads/Grid-Strategies-National-Load-Growth-Report-2025.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">domestic manufacturing</a> proliferate.</p><h3>Ian Magruder</h3><br /><p>Ian Magruder is the founder of Utilize Coalition and previously served as director of market mobilization at Rewiring America, an affordable electrification advocacy group.</p><p>Building new power plants and transmission lines may seem like the obvious solution, but there are other options, says <a href=\"https://www.linkedin.com/in/ianmagruder/\" rel=\"noopener noreferrer\" target=\"_blank\">Ian Magruder</a>, founder of <a href=\"https://www.utilizecoalition.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Utilize Coalition</a>, a nonprofit based in Washington, D.C. The U.S. uses only about half of its grid capacity, and a lot more power could be tapped by deploying a spate of newly available technologies.</p><p>Backed by <a href=\"https://about.google/\" rel=\"noopener noreferrer\" target=\"_blank\">Google</a>, <a href=\"https://www.tesla.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Tesla</a>, HVAC systems manufacturer <a href=\"https://www.carrier.com/us/en/\" rel=\"noopener noreferrer\" target=\"_blank\">Carrier</a>, and several other companies, Utilize Coalition advocates for more thorough use of grid capacity through policy change and new technologies. Magruder spoke with <em><em>IEEE Spectrum</em></em> about those efforts.</p><p><strong>Why does the United States use only half of its grid?</strong></p><p><strong>Ian Magruder: </strong>Most studies have found that average utilization rates are between 40 and 55 percent across different geographies. And the reason is that we\u2019ve built our grid to meet peak demand. We have to ensure that on the hottest summer day or the coldest winter morning we have enough power. But in many parts of the country, we really only hit peak a few days a year, and it\u2019s really only a few specific hours within those days.</p><p><strong>It didn\u2019t used to be this way. What\u2019s changed?</strong></p><p><strong>Magruder: </strong>Over the last 20 years we\u2019ve seen the gap between average use and peak use grow wider. There are a variety of reasons for that. Grid operators have become more conservative following major blackouts and reliability events. And with more variable-generation sources such as wind and solar, grid operators are building in more capacity. But this also presents us with an incredible opportunity to get more out of the grid using new technologies.</p><p><strong>What technologies are being deployed to address the problem?</strong></p><p><strong>Magruder:</strong> Pairing <a href=\"https://spectrum.ieee.org/co2-battery-energy-storage\" target=\"_self\">battery storage</a> with energy generation is a key part of this, as are other kinds of distributed energy resources, like managed [electric vehicle] charging and smart thermostats. I would also say that transmission technologies that safely <a href=\"https://spectrum.ieee.org/dynamic-line-rating-grid-congestion\" target=\"_self\">maximize the current in power lines</a>, <a href=\"https://spectrum.ieee.org/grid-enhancing-technologies\" target=\"_self\">increase conductivity</a>, and <a href=\"https://spectrum.ieee.org/grid-congestion-uk\" target=\"_self\">optimize power routes</a> all play a critical role here. And then there\u2019s demand flexibility, which is when utility customers adapt their power use to accommodate the grid during peak hours. Some really good work is being done around <a href=\"https://spectrum.ieee.org/distributed-inference-data-centers\" target=\"_self\">flexible data centers</a>.</p><p><strong>Is grid underutilization also happening elsewhere in the world?</strong></p><p><strong>Magruder:</strong> It\u2019s a global phenomenon, but it varies widely by country. European grids face similar dynamics as [those in] the U.S., and in some places utilization is even lower. But Australia and the United Kingdom are further ahead in measuring and managing utilization with new technologies.</p><p><strong>What\u2019s the downside to overbuilding our grids?</strong></p><p><strong>Magruder: </strong>Mainly cost. Electricity rates have gone up, and we [at Utilize Coalition] think it\u2019s because utilization has gone down. <a href=\"https://www.brattle.com/the-untapped-grid/\" rel=\"noopener noreferrer\" target=\"_blank\">A report</a> that we released earlier this year shows that a 10 percent increase in grid utilization could save Americans over US $100 billion over the next decade.</p>"
       },
       {
-        "id": "c0eae14a09e803e1",
-        "title": "How Musicians Can Get Paid for Training AI",
-        "url": "https://spectrum.ieee.org/ai-music-attribution",
-        "source": "IEEE Spectrum",
-        "published": "Wed, 17 Jun 2026 15:04:23 +0000",
-        "published_dt": "2026-06-17T15:04:23+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/conceptual-illustration-of-two-quarter-note-stems-going-through-an-s-resembling-a-dollar-sign.jpg?id=66750724&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p>Musicians are accustomed to getting paid each time their creative work is used. Across vinyl/CD sales, streams, radio, cover versions, and those numerous niches like karaoke, there are agreements in place about what \u201cuse\u201d means. Underlying this is a simple economic principle: The more something is used, the more money it makes.</p><p><span>Generative AI has <a href=\"https://spectrum.ieee.org/ai-art-generator\" target=\"_blank\">complicated the definition of use</a>. On the one hand, you could argue that the use of a piece of musical training data happens just once, at the point of training. On the other hand, creators would be right to complain that the creative essence of their work lives on in the structure of the model, used every time the model produces an output.</span></p><p><span></span><span>Now, companies like Sureel and SoundVerse are working to re-create the essential economic principle that motivates creativity in an era of AI. Such initiatives aim to turn the generative AI industry from one guilty of \u201cthe biggest act of copyright theft in history\u201d into one that coexists harmoniously with hardworking artists.</span></p><h2>Music Royalties for the AI era </h2><p><a href=\"https://www.sureel.ai/\" target=\"_blank\">Sureel</a>, a startup Warner Music Group just <a href=\"https://www.musicbusinessworldwide.com/warner-music-group-acquires-sureel-ai-the-attribution-startup-that-traces-how-ai-models-use-artists-work/\" target=\"_blank\">acquired</a>, has partnered with the Swedish copyright agency <a href=\"https://www.stim.se/\" target=\"_blank\">STIM</a> to explore the potential for<a href=\"https://www.stim.se/en/news/stim-launches-the-worlds-first-ai-license-for-music\" rel=\"noopener noreferrer\" target=\"_blank\"> music creators to get paid when their music is used to train generative AI tools</a>. Sureel\u2019s software labels online media, such as a music file, with instructions determined by the owner. The instructions specify whether an AI company may use the media freely in training, limit its influence in any given training set, or avoid it altogether. The software then tracks how the AI company uses the media in training and sets licensing fees accordingly. </p><p>Meanwhile, the founders of the AI music company SoundVerse \u201c[reject] one-time royalty buyouts as insufficient and [advocate] for ongoing participation of artists in the AI lifecycle,\u201d they wrote in a <a href=\"https://www.soundverse.ai/whitepaper.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">2025 white paper</a>. They argue that each time a generative AI system produces an output, certain pieces of training data play a greater role than others. If the system outputs music resembling jazz, the jazz in the training set has arguably contributed more than, say, the folk music. You can therefore differentially reward each piece of training data for each output.</p><p> Sureel\u2019s copresident Benji Rogers told me, \u201cAttribution isn\u2019t about re-creating the old economics. It\u2019s about measuring, for the first time, the thing the old economics only approximated.\u201d</p><p>Such influence attribution needs to do more than superficially measure how similar a training data point is to the AI output. The challenge is to attribute causality, or a relationship between the training data and the trained AI, Sureel CEO Tamay Aykut says. </p><p> Even if the AI industry achieved that, however, it might encourage people to create music designed to maximize training-data royalties. While all creative markets lead to new incentives (music streaming, for example, has driven songs to have shorter intros), the industry could do without another economic structure that is easily gamed, in which someone\u2019s reverse-engineered pastiche diverts royalties away from original works of creative expression.</p><p class=\"ieee-inbody-related\">RELATED: <a href=\"https://spectrum.ieee.org/midjourney-copyright\" target=\"_self\">Generative AI Has a Visual Plagiarism Problem</a></p><p>Inferring the influence of a particular piece of music on a generated piece of music, if a well-defined problem at all, may involve more advanced information theoretic principles, or modeling the actual historical role and impact of individual works. Aykut proposes that in carefully designed attribution systems, more unusual and unpolished musical works could even have more inherent value than radio standards.</p><p> Simon Gozzi, head of business development at STIM, says the company is in the process of seeing how Sureel\u2019s attribution reports could underlie licensing agreements between musicians and AI companies. Could generative-AI attribution strategies not only sustain the economic logic that \u201cpopularity pays,\u201d but also motivate musical experimentation and diversity? It\u2019s a compelling concept when public sentiment rightly fears generative AI\u2019s threat to cultural vibrancy, pushing power toward tech companies, deskilling creative workers, shrinking revenue in the creative sector, and filling the internet with slop. \u201cAttribution is one of the few credible tools we have,\u201d Rogers says.</p><p class=\"pull-quote\"> There\u2019s a window of opportunity to debate and establish approaches to paying for AI training data that serve a vibrant and sustainable creative sector.</p><p>The technical problem of training-data attribution is both complex and ill-defined. Just as a simplistic attribution strategy based on measuring similarity might motivate people to reverse-engineer the canonical works of a genre to capture royalties, a more complex attribution strategy based on some information theory of originality might be easily gamed or fail to reward human cultural production. </p><p> For creative workers, there\u2019s good reason to fear that even with the best intentions, AI attribution will only compound the baroque and opaque arms races that they are already weary of navigating. Some voices within the music AI sector are also skeptical. Drew Silverstein, president of SourceAudio, says, \u201cAttribution would seem to be the obvious answer, but it\u2019s flawed in AI, so we have to look at other models.\u201d He advocates simple negotiated agreements with an agreed or annually recurring price at the point of training.</p><p>Meanwhile, the copyright lawsuits that have dominated the generative AI revolution are beginning to give way to an increasing number of privately negotiated agreements, such as those between <a href=\"https://www.theverge.com/news/790405/warner-universal-music-ai-deals\" rel=\"noopener noreferrer\" target=\"_blank\">Universal, Warner, and major AI companies</a> to work together on training models with copyright consent. Although <a href=\"https://www.musicbusinessworldwide.com/sunos-licensing-talks-with-major-labels-in-limbo-with-no-path-forward-report/\" rel=\"noopener noreferrer\" target=\"_blank\">little is certain</a>, these agreements may have considerable influence over the industry norms that arise. </p><p>Right now, there\u2019s a window of opportunity to debate and establish approaches that pay for AI training data while also sustaining a vibrant creative sector. Sophisticated engineering solutions will have a role to play, but they need to take into account the cultural complexity of the challenge, and enable fairness and transparency through good design. </p><h2>Making AI Training Pay Off </h2><p> It remains to be seen whether monolithic generative models such as Suno actually have as much credibility as first touted. In many creative applications of AI, there\u2019s a renewed focus on smaller customized models that are tailored for specific human creative expressive needs such as <a href=\"https://forum.ircam.fr/projects/detail/rave/\" rel=\"noopener noreferrer\" target=\"_blank\">IRCAM\u2019s RAVE</a> model or <a href=\"https://www.jenmusic.ai/stylefilters\" rel=\"noopener noreferrer\" target=\"_blank\">Jen\u2019s Style Filters</a>. Meanwhile, more mainstream \u201cend user\u201d creative applications may be shifting towards a focus on fan engagement. <a href=\"https://www.nytimes.com/2026/03/24/technology/openai-shutting-down-sora.html\" rel=\"noopener noreferrer\" target=\"_blank\">OpenAI\u2019s sudden dropping of Sora</a>, despite being in negotiations with Disney and <a href=\"https://www.youtube.com/watch?v=-XZQx4PFqvs\" rel=\"noopener noreferrer\" target=\"_blank\">Suno\u2019s recent emphasis on building fan-engagement experiences that draw directly on the work of artists</a>, following its deal with Universal, both point to teething troubles in the creative AI sector. </p><p> A move to smaller, more targeted models and applications would give more room for creator alliances. For example, collectives of musicians might band together to provide the training data for a smaller custom model, for which revenue splits might be egalitarian or based on other principles of fairness.</p><p>The same may possibly be true of hybrid model architectures and structured training regimes where different data sources are used at different points in the training process, as well as retrieval-augmented generation, which mixes context-specific information with training data to improve results. An approach that produces worse results but enables fairer or more transparent paths of attribution may be more successful if it brings creators on board with more lucrative royalty flows and even clear credits.</p><p> Also, no matter how sophisticated an attribution algorithm is, it will always be grounded in human decisions, ranging from the wise and the fair to the arbitrary and corrupt. Ask a music industry insider to explain how the percentage split between recording and songwriting royalties is determined, and you\u2019re in for a long answer. At best, the machinery of training data attribution will enable open and informed discussion about what makes our creative and cultural sectors fair and vibrant. At worst, it will conceal already opaque private agreements in complex black boxes.</p><p> This is where national policies are vital. Attribution must be \u201cmulti-layered and auditable, open to expert and regulatory scrutiny,\u201d Rogers says. Crafting such policies will take expertise from computer science, musicology, law, and economics. AI-competitive governments will be able to boost their cultural and creative sectors by supporting institutions that fulfil this purpose. </p><p> Even the most neoliberal economies look beyond markets to sustain cultural expression, whether through public arts funding or measures like local music quotas for radio. As the economic impact of generative AI in the creative sector takes form, taxation, redistribution, and active support of cultural infrastructures may still be the most effective way to support positive social outcomes. Taxing big AI and redistributing that revenue back to the creative workers that contributed to the industry\u2019s wealth is, after all, another \u201cAI attribution strategy.\u201d </p>"
+        "id": "c170d471e8f2dfc0",
+        "title": "The Download: your stake in OpenAI, and the Treasury\u2019s AI warning",
+        "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 07 Jul 2026 12:10:00 +0000",
+        "published_dt": "2026-07-07T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family\u2019s $300 stake in OpenAI Sam Altman\u2019s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving&#8230;"
+      },
+      {
+        "id": "5786331c6dbd0785",
+        "title": "The foundational elements of AI architecture that IT leaders need to scale",
+        "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 07 Jul 2026 11:10:52 +0000",
+        "published_dt": "2026-07-07T11:10:52+00:00",
+        "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture\u2014the&#8230;"
+      },
+      {
+        "id": "522c1c4937315934",
+        "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+        "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 07 Jul 2026 10:00:00 +0000",
+        "published_dt": "2026-07-07T10:00:00+00:00",
+        "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family\u2019s land in Hickman, a tiny town in the state\u2019s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squirming red earthworms.&#8230;"
       },
       {
         "id": "919bc8ceb058450b",
@@ -852,7 +861,7 @@
         "source": "MIT Technology Review",
         "published": "Mon, 06 Jul 2026 18:00:00 +0000",
         "published_dt": "2026-07-06T18:00:00+00:00",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. OpenAI CEO Sam Altman\u2019s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in&#8230;"
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI CEO Sam Altman\u2019s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in&#8230;"
       },
       {
         "id": "69b42f176ca68058",
@@ -898,15 +907,6 @@
         "published": "Fri, 03 Jul 2026 12:10:00 +0000",
         "published_dt": "2026-07-03T12:10:00+00:00",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK\u2019s generational tobacco ban might not work. I\u2019m supporting it anyway. \u2014Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from&#8230;"
-      },
-      {
-        "id": "bd9b023baea03c90",
-        "title": "The UK\u2019s generational tobacco ban might not work. I\u2019m supporting it anyway.",
-        "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 03 Jul 2026 09:00:00 +0000",
-        "published_dt": "2026-07-03T09:00:00+00:00",
-        "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevailing sentiment when I was young.&#8230;"
       }
     ]
   }
