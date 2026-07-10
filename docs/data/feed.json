@@ -1,7 +1,97 @@
 {
-  "generated_at": "2026-07-09T15:23:36.506627+00:00",
+  "generated_at": "2026-07-10T14:41:08.373649+00:00",
   "categories": {
     "Biotech": [
+      {
+        "id": "a45110a788f3b104",
+        "title": "STAT+: Roche ends Huntington\u2019s gene-silencing programs",
+        "url": "https://www.statnews.com/2026/07/10/biotech-news-roche-ends-huntingtons-gene-silencing-program/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 10 Jul 2026 13:35:37 +0000",
+        "published_dt": "2026-07-10T13:35:37+00:00",
+        "summary": "ARPA-H launches bespoke gene therapy push, Lilly and Novo to promote Bridge program, and more biotech news from The Readout"
+      },
+      {
+        "id": "60dd4fd80b2aafbf",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about bigger drug discounts in Germany, drugmakers embracing secrecy, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/07/10/germany-seeks-bigger-drug-discounts-drugmakers-embracing-secrecy/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 10 Jul 2026 13:13:20 +0000",
+        "published_dt": "2026-07-10T13:13:20+00:00",
+        "summary": "German lawmakers passed a bill that would more than double the discount on branded medicines drugmakers must provide the government"
+      },
+      {
+        "id": "13cb91a2cae57f53",
+        "title": "FDA quietly pushes back deadline on electric shock ban",
+        "url": "https://www.statnews.com/2026/07/10/health-news-fda-quietly-pushes-back-deadline-on-electric-shock-ban/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 10 Jul 2026 11:51:52 +0000",
+        "published_dt": "2026-07-10T11:51:52+00:00",
+        "summary": "Massachusetts' biggest nursing strike ever, tackling the male loneliness epidemic, and other health news for Morning Rounds"
+      },
+      {
+        "id": "47a96e0deb1bdb2a",
+        "title": "The Download: Claude\u2019s inner workings and OpenAI\u2019s \u201csuper app\u201d",
+        "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 10 Jul 2026 12:10:00 +0000",
+        "published_dt": "2026-07-10T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what\u2019s really going on inside large language models as they&#8230;"
+      },
+      {
+        "id": "d728abea4e71f51e",
+        "title": "Sperm donors need limits, says a European fertility group",
+        "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 10 Jul 2026 09:00:00 +0000",
+        "published_dt": "2026-07-10T09:00:00+00:00",
+        "summary": "Ties van der Meer doesn\u2019t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have identified those donors, he says. He&#8230;"
+      },
+      {
+        "id": "b682af1a85eb5473",
+        "title": "STAT+: How a Boston doctor built a following as a \u2018loud and unafraid\u2019 voice in the Trump era",
+        "url": "https://www.statnews.com/2026/07/10/jeremy-faust-inside-medicine-trump-era/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 10 Jul 2026 08:30:00 +0000",
+        "published_dt": "2026-07-10T08:30:00+00:00",
+        "summary": "Jeremy Faust saves lives in the ER and breaks stories with his Inside Medicine newsletter. He\u2019s also testing the bounds of news reporting."
+      },
+      {
+        "id": "88a8e82cb5840639",
+        "title": "New York boys club has a time-tested recipe to protect members\u2019 mental health",
+        "url": "https://www.statnews.com/2026/07/10/bcny-approach-boys-mental-health-connection-belonging-mentors/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 10 Jul 2026 08:30:00 +0000",
+        "published_dt": "2026-07-10T08:30:00+00:00",
+        "summary": "At a time when attention is deservedly being turned to the mental health crisis in boys, the Boys' Club of New York is a shelter from the storm for many&#8230;"
+      },
+      {
+        "id": "6516934cc6674c2f",
+        "title": "Opinion: The primary care crisis paradox",
+        "url": "https://www.statnews.com/2026/07/10/primary-care-data-pcps-health-care-crisis-investment/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 10 Jul 2026 08:30:00 +0000",
+        "published_dt": "2026-07-10T08:30:00+00:00",
+        "summary": "\u201cSolving the health crisis in the United States will require confronting things far harder than readjusting a fee schedule.\u201d"
+      },
+      {
+        "id": "77b44b89328aacd0",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-sees-phase-3-win-hansoh-partnered-adc-china-justifying-hype\" hreflang=\"en\">GSK sees phase 3 win for Hansoh-partnered ADC in China as validating its \u2018priority asset\u2019</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gsk-sees-phase-3-win-hansoh-partnered-adc-china-justifying-hype",
+        "source": "Fierce Biotech",
+        "published": "Jul 10, 2026 8:17am",
+        "published_dt": "2026-07-10T08:17:00+00:00",
+        "summary": "Hansoh Pharmaceutical\u2019s pair of much-hyped ADCs continue to justify partner GSK\u2019s decision to make them priority programs."
+      },
+      {
+        "id": "9d0d552d9e569a69",
+        "title": "Whistleblower takes on health insurance and FDA commissioner candidates",
+        "url": "https://www.statnews.com/2026/07/09/readout-loud-podcast-fda-commissioner-candidates-health-insurance-costs/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 09 Jul 2026 20:07:54 +0000",
+        "published_dt": "2026-07-09T20:07:54+00:00",
+        "summary": "This week on \"The Readout LOUD\" podcast: Why does getting family health insurance through a job cost as much as buying a new car? And who might be the new&#8230;"
+      },
       {
         "id": "5d6f2ea1974f3b8c",
         "title": "STAT+: FDA finalists under review",
@@ -10,24 +100,6 @@
         "published": "Thu, 09 Jul 2026 14:50:49 +0000",
         "published_dt": "2026-07-09T14:50:49+00:00",
         "summary": "Three top contenders to run the FDA are under review by the White House"
-      },
-      {
-        "id": "6d9455664110113e",
-        "title": "Outbreak of diarrhea-causing parasite grows to more than 1,000 cases",
-        "url": "https://www.statnews.com/2026/07/09/cyclospora-outbreak-faq-diarrhea-causing-parasite/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 09 Jul 2026 15:01:27 +0000",
-        "published_dt": "2026-07-09T15:01:27+00:00",
-        "summary": "An outbreak of diarrhea-causing parasite has grown to more than 1,000 cases, making it one of the nation\u2019s largest such outbreaks in years."
-      },
-      {
-        "id": "d312c3df3b4ae50d",
-        "title": "STAT+: ARPA-H launches $160 million effort to develop custom gene editing drugs",
-        "url": "https://www.statnews.com/2026/07/09/arpa-h-160-million-custom-gene-editing-funding-rare-disease/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 09 Jul 2026 15:00:00 +0000",
-        "published_dt": "2026-07-09T15:00:00+00:00",
-        "summary": "An ARPA-H program to jump-start custom gene editing treatments was delayed by a change in administrations. Now seven labs will get sizable grants."
       },
       {
         "id": "bc40b84ed021b743",
@@ -48,15 +120,6 @@
         "summary": "The White House is reviewing a list of three top contenders for the FDA commissioner post"
       },
       {
-        "id": "52aa6450b94f9e00",
-        "title": "STAT+: OpenEvidence backs study that finds it beats LLMs",
-        "url": "https://www.statnews.com/2026/07/09/openevidence-backs-study-that-finds-it-beats-llms-health-tech/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 09 Jul 2026 13:05:54 +0000",
-        "published_dt": "2026-07-09T13:05:54+00:00",
-        "summary": "In this edition of STAT Health Tech: Dueling research pitting OpenEvidence against general purpose LLMs, use of Dexcom's CGM in children, and more."
-      },
-      {
         "id": "3150485fa664ddc5",
         "title": "Who\u2019s going to run the FDA?",
         "url": "https://www.statnews.com/2026/07/09/health-news-whos-going-to-run-the-fda/?utm_campaign=rss",
@@ -64,15 +127,6 @@
         "published": "Thu, 09 Jul 2026 11:24:36 +0000",
         "published_dt": "2026-07-09T11:24:36+00:00",
         "summary": "RFK Jr.'s list of Covid vaccine injuries, a father's quest to cure his daughter, and more health news from Morning Rounds"
-      },
-      {
-        "id": "a79d4a99bd2d7297",
-        "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
-        "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 09 Jul 2026 12:10:00 +0000",
-        "published_dt": "2026-07-09T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US \u2014Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This year&#8230;"
       },
       {
         "id": "e76224f89fe39dff",
@@ -93,24 +147,6 @@
         "summary": "How a father\u2019s quest may shape the future of rare disease gene therapy."
       },
       {
-        "id": "8677b39062761144",
-        "title": "STAT+: 931 days. The drug approval scandal hiding in plain sight",
-        "url": "https://www.statnews.com/2026/07/09/northwest-biotherapeutics-brain-cancer-treatment/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 09 Jul 2026 10:30:00 +0000",
-        "published_dt": "2026-07-09T10:30:00+00:00",
-        "summary": "Two years, six months, and 18 days have elapsed since Northwest Biotherapeutics submitted its brain cancer treatment for regulatory approval."
-      },
-      {
-        "id": "25c05258569dd00f",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fates-shelf-car-t-cell-therapy-shows-early-promise-treatment-resistant-autoimmune-disease\" hreflang=\"en\">Fate\u2019s off-the-shelf CAR-T therapy shows early promise in treatment-resistant autoimmune disease </a>",
-        "url": "https://www.fiercebiotech.com/biotech/fates-shelf-car-t-cell-therapy-shows-early-promise-treatment-resistant-autoimmune-disease",
-        "source": "Fierce Biotech",
-        "published": "Jul 9, 2026 10:04am",
-        "published_dt": "2026-07-09T10:04:00+00:00",
-        "summary": "\u201cWe were not expecting to see clinical responses so early,\u201d Vaneet Sandhu, M.D., rheumatologist and vice president of clinical development at Fate Therapeutics, told Fierce."
-      },
-      {
         "id": "23221cff53d570be",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-cuts-losses-700m-upfront-alzheimers-collab-alector-following-two-clinical-failures\" hreflang=\"en\">GSK cuts losses on $700M upfront Alzheimer\u2019s collab with Alector following 2 clinical failures</a>",
         "url": "https://www.fiercebiotech.com/biotech/gsk-cuts-losses-700m-upfront-alzheimers-collab-alector-following-two-clinical-failures",
@@ -118,51 +154,6 @@
         "published": "Jul 9, 2026 2:50am",
         "published_dt": "2026-07-09T02:50:00+00:00",
         "summary": "GSK has walked away from a $2.2 billion biobucks neurodegenerative disease pact with Alector that has seen both \u201cnext generation\u201d drugs involved flunk clinical trials."
-      },
-      {
-        "id": "d1e5d9867f5d5934",
-        "title": "What happens on \u2018MAHA Monday\u2019?",
-        "url": "https://www.statnews.com/2026/07/09/maha-mondays-great-american-state-fair-status-report-alex-hogan/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 09 Jul 2026 08:30:00 +0000",
-        "published_dt": "2026-07-09T08:30:00+00:00",
-        "summary": "STAT's Alex Hogan and Chelsea Cirruzzo stopped by \"MAHA Monday\" at the Great American State Fair. Watch their report in this week's STATus Report."
-      },
-      {
-        "id": "3d049646f16db825",
-        "title": "Opinion: Who benefits from classifying obesity as a disease?",
-        "url": "https://www.statnews.com/2026/07/09/obesity-disease-classification-glp-1-eli-lilly-novo-nordisk/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 09 Jul 2026 08:30:00 +0000",
-        "published_dt": "2026-07-09T08:30:00+00:00",
-        "summary": "\u201cThe new wave of obesity pharmacotherapy has leaned heavily on disease framing,\u201d writes Max Moser, drawing comparisons to the antidepressant revolution."
-      },
-      {
-        "id": "2f3048abe669f1a9",
-        "title": "Opinion: Your grandparents are using cannabis. Doctors can help them do it safely",
-        "url": "https://www.statnews.com/2026/07/09/cannabis-seniors-medical-marijuana-legal-thc-cbd-chronic-pain/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 09 Jul 2026 08:30:00 +0000",
-        "published_dt": "2026-07-09T08:30:00+00:00",
-        "summary": "Over the past 25 years, I have treated thousands of medical cannabis patients with extremely few ill effects, one doctor writes."
-      },
-      {
-        "id": "947b270c57731488",
-        "title": "Four nuclear reactors hit a big milestone in the US",
-        "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 09 Jul 2026 08:00:00 +0000",
-        "published_dt": "2026-07-09T08:00:00+00:00",
-        "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can&#8230;"
-      },
-      {
-        "id": "f279a20cf14edfd4",
-        "title": "STAT+: White House reviewing top contenders to lead FDA",
-        "url": "https://www.statnews.com/2026/07/08/new-fda-commissioner-finalists-under-white-house-review/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 08 Jul 2026 18:51:54 +0000",
-        "published_dt": "2026-07-08T18:51:54+00:00",
-        "summary": "The White House is reviewing finalists for FDA commissioner, suggesting the highly anticipated decision may come soon."
       },
       {
         "id": "7e87648051a55d9f",
@@ -174,6 +165,15 @@
         "summary": "The FDA has paused a controversial policy of releasing letters describing its rationale for rejecting drugs, Fierce Biotech has learned, following a citizen\u2019s petition from an unnamed pharma company in April."
       },
       {
+        "id": "a11209487d610ea6",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bausch-lomb-gives-next-breakthrough-glaucoma-eye-drops-after-phase-2-fail\" hreflang=\"en\">Bausch + Lomb gives up on glaucoma eye drop hopeful after phase 2 fail</a>",
+        "url": "https://www.fiercebiotech.com/biotech/bausch-lomb-gives-next-breakthrough-glaucoma-eye-drops-after-phase-2-fail",
+        "source": "Fierce Biotech",
+        "published": "Jul 10, 2026 5:14am",
+        "published_dt": "2026-07-10T05:14:00+00:00",
+        "summary": "Bausch + Lomb has abandoned its next great hope in glaucoma after the eye drops flunked a phase 2 study."
+      },
+      {
         "id": "cfff6b64fb5e19a5",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/unseen-impact-how-one-big-beautiful-bill-act-could-hamper-drug-development\" hreflang=\"en\">Why biotech revenue projections \u2018won\u2019t look as sunny\u2019 once Trump tax bill hits Medicaid enrollment</a>",
         "url": "https://www.fiercebiotech.com/biotech/unseen-impact-how-one-big-beautiful-bill-act-could-hamper-drug-development",
@@ -181,15 +181,6 @@
         "published": "Jul 8, 2026 12:22pm",
         "published_dt": "2026-07-08T12:22:00+00:00",
         "summary": "Insurance coverage losses caused by the Trump administration's tax and spend law could make it harder for biotechs to secure funding and recruit patients for trials, experts have told Fierce."
-      },
-      {
-        "id": "af8e3fdf7accc982",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kaileras-oral-glp-1-asset-hits-goals-chinese-phase-3-obesity-and-diabetes-trials\" hreflang=\"en\">Kailera\u2019s oral GLP-1 asset sees 11% weight loss, hits goals in Chinese phase 3 obesity and diabetes trials</a>",
-        "url": "https://www.fiercebiotech.com/biotech/kaileras-oral-glp-1-asset-hits-goals-chinese-phase-3-obesity-and-diabetes-trials",
-        "source": "Fierce Biotech",
-        "published": "Jul 7, 2026 8:44am",
-        "published_dt": "2026-07-07T08:44:00+00:00",
-        "summary": "Phase 3 trials of Kailera Therapeutics\u2019 oral GLP-1 prospect have hit their primary endpoints, positioning the biotech\u2019s partner Hengrui Pharma to seek approval in obesity and diabetes in China.<br />"
       },
       {
         "id": "1e350e8958ec6213",
@@ -201,34 +192,232 @@
         "summary": "As U.S. lawmakers continue to scrutinize the consequences of China\u2019s expanding role in biotech innovation, industry insiders have been left debating how they can navigate this shifting landscape\u2014or even whether biotechs should abandon China altogether."
       },
       {
-        "id": "5728afa78d3f932b",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/scribe-pens-ipo-ambitions-push-lipid-lowering-genetic-meds-through-clinic-trials\" hreflang=\"en\">Scribe notes down IPO ambition to fund lipid-lowering genetic meds through clinical trials</a>",
-        "url": "https://www.fiercebiotech.com/biotech/scribe-pens-ipo-ambitions-push-lipid-lowering-genetic-meds-through-clinic-trials",
-        "source": "Fierce Biotech",
-        "published": "Jul 3, 2026 11:11am",
-        "published_dt": "2026-07-03T11:11:00+00:00",
-        "summary": "Scribe Therapeutics is the latest biotech to prepare a public listing, as the company looks to propel its lipid-lowering medicines through clinical trials."
+        "id": "e6e3b3e482e2237d",
+        "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+        "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 09 Jul 2026 20:22:28 +0000",
+        "published_dt": "2026-07-09T20:22:28+00:00",
+        "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what\u2019s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or&#8230;"
       },
       {
-        "id": "8aa7232d328d9c93",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/caris-life-sciences-launches-cancer-blood-test-caris-detect\" hreflang=\"en\">Caris Life Sciences launches cancer blood test \u2018Caris Detect\u2019</a>",
-        "url": "https://www.fiercebiotech.com/medtech/caris-life-sciences-launches-cancer-blood-test-caris-detect",
+        "id": "ce9aeb19c330aaec",
+        "title": "<a href=\"https://www.fiercebiotech.com/research/arpa-h-awards-160m-scientists-developing-custom-genetic-medicines\" hreflang=\"en\">ARPA-H awards up to $160M to scientists developing custom genetic medicines</a>",
+        "url": "https://www.fiercebiotech.com/research/arpa-h-awards-160m-scientists-developing-custom-genetic-medicines",
         "source": "Fierce Biotech",
-        "published": "Jul 2, 2026 9:22am",
-        "published_dt": "2026-07-02T09:22:00+00:00",
-        "summary": "Caris Life Sciences has launched a new oncology blood test designed alongside AI modeling to pick up cancer at earlier stages."
+        "published": "Jul 9, 2026 5:50pm",
+        "published_dt": "2026-07-09T17:50:00+00:00",
+        "summary": "The Advanced Research Projects Agency for Health has awarded a new tranche of funds for companies and institutions developing personalized genetic medicines, with the recipient list dominated by high-profile players in the buzzy field."
       },
       {
-        "id": "457e4016ebe7d6ca",
-        "title": "STAT+: RFK Jr. plans to create list of injuries caused by Covid-19 vaccines",
-        "url": "https://www.statnews.com/2026/07/08/hhs-to-propose-covid-19-countermeasures-injury-table/?utm_campaign=rss",
+        "id": "499a1f3bf42278e5",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-idorsia-locks-new-ceo-after-shakeup\" hreflang=\"en\">Chutes &amp; Ladders\u2014Idorsia locks in new CEO after shakeup</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-idorsia-locks-new-ceo-after-shakeup",
+        "source": "Fierce Biotech",
+        "published": "Jul 9, 2026 5:17pm",
+        "published_dt": "2026-07-09T17:17:00+00:00",
+        "summary": "After Idorsia\u2019s former chief, Srishti Gupta, M.D., left the company upon \u201cmutual agreement\u201d in March, the Swiss drugmaker has now tapped a new leader, Roland Wandeler, Ph.D. Wandeler will officially take over from interim CEO and board chairman Jean-Paul Clozel, M.D., come October 1."
+      },
+      {
+        "id": "6d9455664110113e",
+        "title": "Outbreak of diarrhea-causing parasite grows to more than 1,000 cases",
+        "url": "https://www.statnews.com/2026/07/09/cyclospora-outbreak-faq-diarrhea-causing-parasite/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 08 Jul 2026 20:41:01 +0000",
-        "published_dt": "2026-07-08T20:41:01+00:00",
-        "summary": "It's not clear what conditions may make the list, but outside experts are watching it closely."
+        "published": "Thu, 09 Jul 2026 15:01:27 +0000",
+        "published_dt": "2026-07-09T15:01:27+00:00",
+        "summary": "An outbreak of diarrhea-causing parasite has grown to more than 1,000 cases, making it one of the nation\u2019s largest such outbreaks in years."
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "357e204178f3846c",
+        "title": "The space industry is weighing ambitious hiring against heritage",
+        "url": "https://spacenews.com/the-space-industry-is-weighing-ambitious-hiring-against-heritage/",
+        "source": "SpaceNews",
+        "published": "Fri, 10 Jul 2026 14:05:00 +0000",
+        "published_dt": "2026-07-10T14:05:00+00:00",
+        "summary": "<figure><img alt=\"A series of momentous landings in the space industry. Here, SpaceX Super Heavy Booster 12 approached the Mechazilla chopstick arms for a RTLS landing on Starship Flight Test 5. Credit: Steve Jurvetson via Flickr, CC BY 2.0\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Starship_Booster_Return_on_Final_Approach_54063904149-scaled.jpg?fit=736%2C1024&amp;ssl=1\" width=\"736\" /></figure>\n<p>Space is hard, as the decades-old adage goes. For much of the industry\u2019s history, \u201crocket science\u201d was as much a barrier to entry as a byword for difficulty. But now [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/the-space-industry-is-weighing-ambitious-hiring-against-heritage/\">The space industry is weighing ambitious hiring against heritage</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "73cc3b573b239b54",
+        "title": "Qivurn expands global AI data center network",
+        "url": "https://www.engineering.com/qivurn-expands-global-ai-data-center-network/",
+        "source": "Engineering.com",
+        "published": "Fri, 10 Jul 2026 13:07:05 +0000",
+        "published_dt": "2026-07-10T13:07:05+00:00",
+        "summary": "<p>The company operates nodes in New York, Silicon Valley, Singapore, Tokyo and Kuala Lumpur, with more planned in Dubai and Frankfurt.</p>\n<p>The post <a href=\"https://www.engineering.com/qivurn-expands-global-ai-data-center-network/\">Qivurn expands global AI data center network</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "625a3880384ea4c3",
+        "title": "Startup testing nuclear battery technology in orbit",
+        "url": "https://spacenews.com/startup-testing-nuclear-battery-technology-in-orbit/",
+        "source": "SpaceNews",
+        "published": "Fri, 10 Jul 2026 13:00:00 +0000",
+        "published_dt": "2026-07-10T13:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"660\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/BOHR_Assembly_Finished.png.webp?fit=539%2C660&amp;ssl=1\" width=\"539\" /></figure>\n<p>A City Labs mission aims to validate a tritium-powered electrical source for satellites and lunar systems that could operate where solar power falls short</p>\n<p>The post <a href=\"https://spacenews.com/startup-testing-nuclear-battery-technology-in-orbit/\">Startup testing nuclear battery technology in orbit</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "369e9b209bd412b0",
+        "title": "Space capitalism needs more than a bull market",
+        "url": "https://spacenews.com/space-capitalism-needs-more-than-a-bull-market/",
+        "source": "SpaceNews",
+        "published": "Fri, 10 Jul 2026 13:00:00 +0000",
+        "published_dt": "2026-07-10T13:00:00+00:00",
+        "summary": "<figure><img alt=\"SpaceX IPO celebration\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"467\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/spacexipo-celebration.jpeg?fit=1024%2C467&amp;ssl=1\" width=\"1024\" /></figure>\n<p>By most measures, commercial space is thriving. Washington produced a flurry of activity over the past year: two major executive orders, a raft of directives, and &#8220;space superiority&#8221; elevated to [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/space-capitalism-needs-more-than-a-bull-market/\">Space capitalism needs more than a bull market</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "9a5f984679ef817d",
+        "title": "ABB completes acquisition of Specialtrasfo",
+        "url": "https://www.engineering.com/abb-completes-acquisition-of-specialtrasfo/",
+        "source": "Engineering.com",
+        "published": "Fri, 10 Jul 2026 12:42:25 +0000",
+        "published_dt": "2026-07-10T12:42:25+00:00",
+        "summary": "<p>The deal adds three Italian production sites and specialized medium-voltage transformer capabilities to ABB\u2019s portfolio.</p>\n<p>The post <a href=\"https://www.engineering.com/abb-completes-acquisition-of-specialtrasfo/\">ABB completes acquisition of Specialtrasfo</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "7d6345b82ae6f625",
+        "title": "Flex and Cerebras expand CS-3 manufacturing in California",
+        "url": "https://www.engineering.com/flex-and-cerebras-expand-partnership/",
+        "source": "Engineering.com",
+        "published": "Fri, 10 Jul 2026 12:03:58 +0000",
+        "published_dt": "2026-07-10T12:03:58+00:00",
+        "summary": "<p>New lines, testing infrastructure and floor space will help boost AI accelerator system production capacity sevenfold by 2026.</p>\n<p>The post <a href=\"https://www.engineering.com/flex-and-cerebras-expand-partnership/\">Flex and Cerebras expand CS-3 manufacturing in California</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "63692cf7e51c61a3",
+        "title": "Siemens and FuelCell Energy plan fuel cell collaboration",
+        "url": "https://www.engineering.com/siemens-and-fuelcell-energy-plan-fuel-cell-collaboration/",
+        "source": "Engineering.com",
+        "published": "Fri, 10 Jul 2026 12:26:03 +0000",
+        "published_dt": "2026-07-10T12:26:03+00:00",
+        "summary": "<p>The agreement covers EBOP systems, pilot projects and distributed energy deployments for commercial applications.</p>\n<p>The post <a href=\"https://www.engineering.com/siemens-and-fuelcell-energy-plan-fuel-cell-collaboration/\">Siemens and FuelCell Energy plan fuel cell collaboration</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "fda9da16de4c2626",
+        "title": "Keysight launches APS-ONE-400 cybersecurity test platform",
+        "url": "https://www.engineering.com/keysight-launches-aps-one-400-cybersecurity-test-platform/",
+        "source": "Engineering.com",
+        "published": "Fri, 10 Jul 2026 11:41:09 +0000",
+        "published_dt": "2026-07-10T11:41:09+00:00",
+        "summary": "<p>The 1RU system supports 4x100GE testing for encrypted traffic, Elephant Flows, ZTNA and hyperscale network validation.</p>\n<p>The post <a href=\"https://www.engineering.com/keysight-launches-aps-one-400-cybersecurity-test-platform/\">Keysight launches APS-ONE-400 cybersecurity test platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "5cac203834003d38",
+        "title": "Roland DG products win three 2026 Pinnacle Awards",
+        "url": "https://www.engineering.com/roland-dg-products-win-three-2026-pinnacle-awards/",
+        "source": "Engineering.com",
+        "published": "Fri, 10 Jul 2026 11:37:48 +0000",
+        "published_dt": "2026-07-10T11:37:48+00:00",
+        "summary": "<p>Dimense Media, EUV-H inks and Connect Designer were recognized for innovation across media, UV ink and web-based design.</p>\n<p>The post <a href=\"https://www.engineering.com/roland-dg-products-win-three-2026-pinnacle-awards/\">Roland DG products win three 2026 Pinnacle Awards</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "b33dda4cf21476c4",
+        "title": "ElevationSpace advances work on commercial reentry vehicle",
+        "url": "https://spacenews.com/elevationspace-advances-work-on-commercial-reentry-vehicle/",
+        "source": "SpaceNews",
+        "published": "Fri, 10 Jul 2026 11:25:14 +0000",
+        "published_dt": "2026-07-10T11:25:14+00:00",
+        "summary": "<figure><img alt=\"ElevationSpace ELS-R\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"458\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/els-r.jpeg?fit=1024%2C458&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A Japanese startup developing reentry vehicles is signing up customers and preparing for its first mission while keeping a watchful eye on SpaceX\u2019s entry into the market.</p>\n<p>The post <a href=\"https://spacenews.com/elevationspace-advances-work-on-commercial-reentry-vehicle/\">ElevationSpace advances work on commercial reentry vehicle</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "f6c1121f60e749fc",
+        "title": "Velo3D and Mears strengthen advanced manufacturing ties",
+        "url": "https://www.engineering.com/velo3d-and-mears-strengthen-advanced-manufacturing-ties/",
+        "source": "Engineering.com",
+        "published": "Fri, 10 Jul 2026 09:51:00 +0000",
+        "published_dt": "2026-07-10T09:51:00+00:00",
+        "summary": "<p>The partnership helps customers scale complex metal part production while improving lead times and supply chain resilience.</p>\n<p>The post <a href=\"https://www.engineering.com/velo3d-and-mears-strengthen-advanced-manufacturing-ties/\">Velo3D and Mears strengthen advanced manufacturing ties</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "35e94bbd1cb3ff8b",
+        "title": "Lattice named among America\u2019s Best Companies 2026",
+        "url": "https://www.engineering.com/lattice-named-among-americas-best-companies-2026/",
+        "source": "Engineering.com",
+        "published": "Fri, 10 Jul 2026 08:29:00 +0000",
+        "published_dt": "2026-07-10T08:29:00+00:00",
+        "summary": "<p>TIME and Statista evaluated U.S. companies on employee satisfaction, revenue growth and sustainability transparency.</p>\n<p>The post <a href=\"https://www.engineering.com/lattice-named-among-americas-best-companies-2026/\">Lattice named among America\u2019s Best Companies 2026</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "57aa600f5f0b55d9",
+        "title": "China becomes second country to recover orbital booster with Long March 10B",
+        "url": "https://spacenews.com/china-becomes-second-country-to-recover-orbital-booster-with-long-march-10b/",
+        "source": "SpaceNews",
+        "published": "Fri, 10 Jul 2026 06:55:42 +0000",
+        "published_dt": "2026-07-10T06:55:42+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"684\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/LongMarch10B-liftoff-10july2026-Ourspace.jpg?fit=1024%2C684&amp;ssl=1\" width=\"1024\" /></figure>\n<p>HELSINKI \u2014 China launched its Long March 10B rocket early Friday and successfully recovered the first stage, marking a huge step for the country\u2019s reusable rocket efforts. The first Long [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/china-becomes-second-country-to-recover-orbital-booster-with-long-march-10b/\">China becomes second country to recover orbital booster with Long March 10B</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "6083f8bebac8642b",
+        "title": "Venus Aerospace raises $91 million to scale rocket engine technology",
+        "url": "https://spacenews.com/venus-aerospace-raises-91-million-to-scale-rocket-engine-technology/",
+        "source": "SpaceNews",
+        "published": "Wed, 08 Jul 2026 12:00:00 +0000",
+        "published_dt": "2026-07-08T12:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/VenusAero_RDRE_Rocket_02.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Funding will support development and production of the company\u2019s rotating detonation rocket engine</p>\n<p>The post <a href=\"https://spacenews.com/venus-aerospace-raises-91-million-to-scale-rocket-engine-technology/\">Venus Aerospace raises $91 million to scale rocket engine technology</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "01c2830e2544daf5",
+        "title": "Castelion readies for U.S. Army, Navy demos of its hypersonic missiles",
+        "url": "https://aerospaceamerica.aiaa.org/castelion-readies-for-u-s-army-navy-demos-of-its-hypersonic-missiles/",
+        "source": "Aerospace America",
+        "published": "Mon, 06 Jul 2026 13:17:41 +0000",
+        "published_dt": "2026-07-06T13:17:41+00:00",
+        "summary": ""
+      },
+      {
+        "id": "160f2bb071919757",
+        "title": "U.S. Army expands advanced manufacturing of drone components at Pennsylvania depot",
+        "url": "https://aerospaceamerica.aiaa.org/u-s-army-expands-advanced-manufacturing-of-drone-components-at-pennsylvania-depot/",
+        "source": "Aerospace America",
+        "published": "Mon, 29 Jun 2026 21:13:23 +0000",
+        "published_dt": "2026-06-29T21:13:23+00:00",
+        "summary": ""
+      },
+      {
+        "id": "e529146eb7d3125c",
+        "title": "Interior Department requests information on offshore launch options",
+        "url": "https://spacenews.com/interior-department-requests-information-on-offshore-launch-options/",
+        "source": "SpaceNews",
+        "published": "Thu, 09 Jul 2026 23:20:58 +0000",
+        "published_dt": "2026-07-09T23:20:58+00:00",
+        "summary": "<figure><img alt=\"Illustration of a Seagate Space offshore launch platform that would support uncrewed launches of liquid-fueled orbital rockets. Credit: Seagate Space\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Seagate-Space-Platform-Firefly-Alpha-Rocket-Render-1024x576.jpg.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>An office of the U.S. Department of the Interior is seeking information on concepts for performing offshore orbital launches, part of a broader effort to reduce congestion at existing spaceports.</p>\n<p>The post <a href=\"https://spacenews.com/interior-department-requests-information-on-offshore-launch-options/\">Interior Department requests information on offshore launch options</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "0fbdb5ef3c647dd7",
+        "title": "SDA TAP Lab Evolves Into BMC3I TAP Lab And In Partnership With Catalyst Campus Launches A New Multi-Phased Program To Accelerate Mission-Focused Technology Development",
+        "url": "https://spacenews.com/sda-tap-lab-evolves-into-bmc3i-tap-lab-and-in-partnership-with-catalyst-campus-launches-a-new-multi-phased-program-to-accelerate-mission-focused-technology-development/",
+        "source": "SpaceNews",
+        "published": "Thu, 09 Jul 2026 22:35:28 +0000",
+        "published_dt": "2026-07-09T22:35:28+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/BMC3I-TAP-Lab.png?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Catalyst Campus for Technology and Innovation (CCTI) and the BMC3I TAP Lab Colorado are excited to announce a new multi-phased program designed to strengthen collaboration between commercial innovators and government [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/sda-tap-lab-evolves-into-bmc3i-tap-lab-and-in-partnership-with-catalyst-campus-launches-a-new-multi-phased-program-to-accelerate-mission-focused-technology-development/\">SDA TAP Lab Evolves Into BMC3I TAP Lab And In Partnership With Catalyst Campus Launches A New Multi-Phased Program To Accelerate Mission-Focused Technology Development</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "ae60b83f798000f7",
+        "title": "The Exploration Company establishes US entity to pursue government contracts",
+        "url": "https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/",
+        "source": "SpaceNews",
+        "published": "Thu, 09 Jul 2026 20:12:33 +0000",
+        "published_dt": "2026-07-09T20:12:33+00:00",
+        "summary": "<figure><img alt=\"Nyx drop test\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/nyx-droptest.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>JOHANNESBURG \u2014 The Exploration Company, a space transportation company based in Germany, established TEC Federal, a United States-based entity that will enable it to compete for government programs and contracts. [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/\">The Exploration Company establishes US entity to pursue government contracts</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "6d07108fc2573862",
+        "title": "Environmental groups urge FCC to pause orbital data center applications",
+        "url": "https://spacenews.com/environmental-groups-seek-fcc-pause-on-orbital-data-center-constellations/",
+        "source": "SpaceNews",
+        "published": "Thu, 09 Jul 2026 19:39:42 +0000",
+        "published_dt": "2026-07-09T19:39:42+00:00",
+        "summary": "<figure><img alt=\"SpaceX ODC Sat\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/soacex-odcsat.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Environmental and scientific groups are calling for a halt to processing orbital data center applications, arguing the rush to move computing infrastructure into space has raised the stakes in a broader push for more megaconstellation oversight.</p>\n<p>The post <a href=\"https://spacenews.com/environmental-groups-seek-fcc-pause-on-orbital-data-center-constellations/\">Environmental groups urge FCC to pause orbital data center applications</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "bc69a64f3c2f30fb",
+        "title": "Xona unveils program to verify Pulsar-compatible devices",
+        "url": "https://spacenews.com/xona-unveils-program-to-verify-pulsar-compatible-devices/",
+        "source": "SpaceNews",
+        "published": "Thu, 09 Jul 2026 15:00:00 +0000",
+        "published_dt": "2026-07-09T15:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"586\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_2dsc02617.jpg?fit=879%2C586&amp;ssl=1\" width=\"879\" /></figure>\n<p>SAN FRANCISCO \u2013 Xona, the Silicon Valley startup establishing Pulsar, a precision positioning, navigation and timing (PNT) constellation, announced a high-profile roster of partners developing compatible equipment. Xona unveiled the [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/xona-unveils-program-to-verify-pulsar-compatible-devices/\">Xona unveils program to verify Pulsar-compatible devices</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
       {
         "id": "f0d4739d98b9ca67",
         "title": "Volatility is often the price of ambition",
@@ -264,195 +453,6 @@
         "published": "Thu, 09 Jul 2026 13:00:00 +0000",
         "published_dt": "2026-07-09T13:00:00+00:00",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"569\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Screenshot-2026-07-08-at-10.15.51-PM.png?fit=1024%2C569&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The startup is developing laser systems that transmit power and data between spacecraft</p>\n<p>The post <a href=\"https://spacenews.com/space-force-awards-pulse-space-40-million-to-advance-laser-power-technology/\">Space Force awards Pulse Space $40 million to advance laser power technology</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "fa260c29dfe563df",
-        "title": "Researchers design crash-resistant locator beacons for nuclear spacecraft",
-        "url": "https://aerospaceamerica.aiaa.org/researchers-design-crash-resistant-locator-beacons-for-nuclear-spacecraft/",
-        "source": "Aerospace America",
-        "published": "Thu, 09 Jul 2026 13:00:00 +0000",
-        "published_dt": "2026-07-09T13:00:00+00:00",
-        "summary": ""
-      },
-      {
-        "id": "70fb653ce23ea3f2",
-        "title": "FARO CREAFORM expands HandySCAN 3D lineup",
-        "url": "https://www.engineering.com/faro-creaform-expands-handyscan-3d-lineup/",
-        "source": "Engineering.com",
-        "published": "Thu, 09 Jul 2026 12:44:30 +0000",
-        "published_dt": "2026-07-09T12:44:30+00:00",
-        "summary": "<p>New EVO and MAX models add wireless scanning, guided workflows and metrology-grade measurement for large parts.</p>\n<p>The post <a href=\"https://www.engineering.com/faro-creaform-expands-handyscan-3d-lineup/\">FARO CREAFORM expands HandySCAN 3D lineup</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "a4ab31c490777e0f",
-        "title": "Capvidia 2026 R1 adds Creo and NX workflow updates",
-        "url": "https://www.engineering.com/capvidia-2026-r1-adds-creo-and-nx-workflow-updates/",
-        "source": "Engineering.com",
-        "published": "Thu, 09 Jul 2026 12:34:17 +0000",
-        "published_dt": "2026-07-09T12:34:17+00:00",
-        "summary": "<p>The release includes STEP AP242 Edition 3 support plus changes to BoC, 2D ballooning and inspection data handling.</p>\n<p>The post <a href=\"https://www.engineering.com/capvidia-2026-r1-adds-creo-and-nx-workflow-updates/\">Capvidia 2026 R1 adds Creo and NX workflow updates</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "84cf0f714d6763f9",
-        "title": "Golden Dome and the search for new space markets",
-        "url": "https://spacenews.com/golden-dome-and-the-search-for-new-space-markets/",
-        "source": "SpaceNews",
-        "published": "Thu, 09 Jul 2026 12:00:00 +0000",
-        "published_dt": "2026-07-09T12:00:00+00:00",
-        "summary": "<figure><img alt=\"An illustration of the Golden Dome. Credit: Arcfield\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/Golden-Dome-scaled.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Even as many details of Golden Dome remain unsettled, the missile-defense program has become a focal point for space and defense startups looking for new markets</p>\n<p>The post <a href=\"https://spacenews.com/golden-dome-and-the-search-for-new-space-markets/\">Golden Dome and the search for new space markets</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "ec3c8e4d4bf1e6c7",
-        "title": "Blue Origin seeks to raise $10 billion in outside capital",
-        "url": "https://spacenews.com/blue-origin-seeks-to-raise-10-billion-in-outside-capital/",
-        "source": "SpaceNews",
-        "published": "Thu, 09 Jul 2026 11:57:38 +0000",
-        "published_dt": "2026-07-09T11:57:38+00:00",
-        "summary": "<figure><img alt=\"New Glenn launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Gallery-NG3-liftoff3-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Blue Origin is planning to raise $10 billion in the company\u2019s first outside investment to support its ambitions in launch services and satellite constellations.</p>\n<p>The post <a href=\"https://spacenews.com/blue-origin-seeks-to-raise-10-billion-in-outside-capital/\">Blue Origin seeks to raise $10 billion in outside capital</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "c587a3ea43c1caee",
-        "title": "Supermicro outlines HPC blueprint for Rubin NVL4",
-        "url": "https://www.engineering.com/supermicro-outlines-hpc-blueprint-for-rubin-nvl4/",
-        "source": "Engineering.com",
-        "published": "Thu, 09 Jul 2026 11:46:50 +0000",
-        "published_dt": "2026-07-09T11:46:50+00:00",
-        "summary": "<p>The design scales from 3.2 MW to 1 GW and combines liquid cooling, InfiniBand networking and rack-level power systems.</p>\n<p>The post <a href=\"https://www.engineering.com/supermicro-outlines-hpc-blueprint-for-rubin-nvl4/\">Supermicro outlines HPC blueprint for Rubin NVL4</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "26d6c34596d50ac7",
-        "title": "Protolabs expands manufacturing for drone components",
-        "url": "https://www.engineering.com/protolabs-expands-manufacturing-for-drone-components/",
-        "source": "Engineering.com",
-        "published": "Thu, 09 Jul 2026 09:45:01 +0000",
-        "published_dt": "2026-07-09T09:45:01+00:00",
-        "summary": "<p>The company added CNC and MJF capacity for lightweight parts, tighter tolerances and quick-turn production for UAV programs.</p>\n<p>The post <a href=\"https://www.engineering.com/protolabs-expands-manufacturing-for-drone-components/\">Protolabs expands manufacturing for drone components</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "bcf7f4d5cf9a1287",
-        "title": "Partron, Syntiant to develop on-sensor AI systems",
-        "url": "https://www.engineering.com/partron-syntiant-to-develop-on-sensor-ai-systems/",
-        "source": "Engineering.com",
-        "published": "Thu, 09 Jul 2026 09:23:48 +0000",
-        "published_dt": "2026-07-09T09:23:48+00:00",
-        "summary": "<p>The work targets healthcare, robotics and automotive applications with local data processing and reduced cloud dependence.</p>\n<p>The post <a href=\"https://www.engineering.com/partron-syntiant-to-develop-on-sensor-ai-systems/\">Partron, Syntiant to develop on-sensor AI systems</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "c9bd4ab80c3b5ee3",
-        "title": "MDA Space buys French Earth data analytics company CLS",
-        "url": "https://spacenews.com/mda-space-buys-french-earth-data-analytics-company-cls/",
-        "source": "SpaceNews",
-        "published": "Thu, 09 Jul 2026 11:18:22 +0000",
-        "published_dt": "2026-07-09T11:18:22+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"560\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/Chorus.png?fit=1024%2C560&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Canadian company MDA Space is buying a French Earth data analytics company in its second big acquisition in recent weeks, part of wave of mergers and acquisitions in the industry.</p>\n<p>The post <a href=\"https://spacenews.com/mda-space-buys-french-earth-data-analytics-company-cls/\">MDA Space buys French Earth data analytics company CLS</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "86784c6c1fbe1cb5",
-        "title": "Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs",
-        "url": "https://spacenews.com/spirit-electronics-announces-managed-access-to-u-s-based-advanced-semiconductor-manufacturing-for-aerospace-and-defense-programs/",
-        "source": "SpaceNews",
-        "published": "Tue, 07 Jul 2026 18:46:40 +0000",
-        "published_dt": "2026-07-07T18:46:40+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Spirit-Electronics-Logo-1x1-Black-Background.jpg?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>PHOENIX, AZ \u2014 June 09, 2026 \u2014\u00a0Spirit Electronics today announced a new managed-access offering that provides aerospace and defense customers with a secure pathway to advanced, U.S.-based semiconductor manufacturing in [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/spirit-electronics-announces-managed-access-to-u-s-based-advanced-semiconductor-manufacturing-for-aerospace-and-defense-programs/\">Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "d2fcff5a97263f18",
-        "title": "SkyDrive signs Japan eVTOL operations MoU with JBZ",
-        "url": "https://www.engineering.com/skydrive-signs-japan-evtol-operations-mou-with-jbz/",
-        "source": "Engineering.com",
-        "published": "Thu, 09 Jul 2026 09:40:46 +0000",
-        "published_dt": "2026-07-09T09:40:46+00:00",
-        "summary": "<p>The agreement covers aircraft ownership models, operator roles and a roadmap for entry into service in Japan.</p>\n<p>The post <a href=\"https://www.engineering.com/skydrive-signs-japan-evtol-operations-mou-with-jbz/\">SkyDrive signs Japan eVTOL operations MoU with JBZ</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "8f122742f604e6c7",
-        "title": "Supermicro launches Kubernetes edge AI appliances",
-        "url": "https://www.engineering.com/supermicro-launches-kubernetes-edge-ai-appliances/",
-        "source": "Engineering.com",
-        "published": "Thu, 09 Jul 2026 09:34:20 +0000",
-        "published_dt": "2026-07-09T09:34:20+00:00",
-        "summary": "<p>The systems combine Red Hat OpenShift and Portworx software for AI inference, storage and management at distributed sites.</p>\n<p>The post <a href=\"https://www.engineering.com/supermicro-launches-kubernetes-edge-ai-appliances/\">Supermicro launches Kubernetes edge AI appliances</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "6083f8bebac8642b",
-        "title": "Venus Aerospace raises $91 million to scale rocket engine technology",
-        "url": "https://spacenews.com/venus-aerospace-raises-91-million-to-scale-rocket-engine-technology/",
-        "source": "SpaceNews",
-        "published": "Wed, 08 Jul 2026 12:00:00 +0000",
-        "published_dt": "2026-07-08T12:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/VenusAero_RDRE_Rocket_02.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Funding will support development and production of the company\u2019s rotating detonation rocket engine</p>\n<p>The post <a href=\"https://spacenews.com/venus-aerospace-raises-91-million-to-scale-rocket-engine-technology/\">Venus Aerospace raises $91 million to scale rocket engine technology</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "88ee777dc51f29e0",
-        "title": "Skyroot prepares for first orbital launch attempt",
-        "url": "https://spacenews.com/skyroot-prepares-for-first-orbital-launch-attempt/",
-        "source": "SpaceNews",
-        "published": "Wed, 08 Jul 2026 02:10:30 +0000",
-        "published_dt": "2026-07-08T02:10:30+00:00",
-        "summary": "<figure><img alt=\"Skyroot flag-off ceremony\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/vikram1-flagoff.jpeg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Indian launch startup Skyroot Aerospace is preparing for its first orbital launch attempt as soon as July 12, with plans to quickly scale up to monthly launches.</p>\n<p>The post <a href=\"https://spacenews.com/skyroot-prepares-for-first-orbital-launch-attempt/\">Skyroot prepares for first orbital launch attempt</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "01c2830e2544daf5",
-        "title": "Castelion readies for U.S. Army, Navy demos of its hypersonic missiles",
-        "url": "https://aerospaceamerica.aiaa.org/castelion-readies-for-u-s-army-navy-demos-of-its-hypersonic-missiles/",
-        "source": "Aerospace America",
-        "published": "Mon, 06 Jul 2026 13:17:41 +0000",
-        "published_dt": "2026-07-06T13:17:41+00:00",
-        "summary": ""
-      },
-      {
-        "id": "160f2bb071919757",
-        "title": "U.S. Army expands advanced manufacturing of drone components at Pennsylvania depot",
-        "url": "https://aerospaceamerica.aiaa.org/u-s-army-expands-advanced-manufacturing-of-drone-components-at-pennsylvania-depot/",
-        "source": "Aerospace America",
-        "published": "Mon, 29 Jun 2026 21:13:23 +0000",
-        "published_dt": "2026-06-29T21:13:23+00:00",
-        "summary": ""
-      },
-      {
-        "id": "ba1a745a159fc55c",
-        "title": "New Singapore space agency seeks to build up the country\u2019s space industry",
-        "url": "https://spacenews.com/new-singapore-space-agency-seeks-to-build-up-the-countrys-space-industry/",
-        "source": "SpaceNews",
-        "published": "Thu, 09 Jul 2026 03:31:50 +0000",
-        "published_dt": "2026-07-09T03:31:50+00:00",
-        "summary": "<figure><img alt=\"NSAS JAXA MOU\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"709\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/nsas-jaxa-scaled.jpeg?fit=1024%2C709&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Singapore\u2019s new space agency signed a cooperation agreement with its Japanese counterpart as part of its efforts to build up the country\u2019s space industry.</p>\n<p>The post <a href=\"https://spacenews.com/new-singapore-space-agency-seeks-to-build-up-the-countrys-space-industry/\">New Singapore space agency seeks to build up the country\u2019s space industry</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "fe163abdcb6102f5",
-        "title": "ispace to send larger payloads to the moon on SpaceX\u2019s Starship",
-        "url": "https://spacenews.com/ispace-to-send-larger-payloads-to-the-moon-on-spacexs-starship/",
-        "source": "SpaceNews",
-        "published": "Wed, 08 Jul 2026 21:28:16 +0000",
-        "published_dt": "2026-07-08T21:28:16+00:00",
-        "summary": "<figure><img alt=\"ispace mobile cargo system\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"724\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/ispace-mobilecargo.jpeg?fit=1024%2C724&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Japanese lunar exploration company ispace is buying space on a future Starship lunar lander mission to deliver larger payloads to the moon.</p>\n<p>The post <a href=\"https://spacenews.com/ispace-to-send-larger-payloads-to-the-moon-on-spacexs-starship/\">ispace to send larger payloads to the moon on SpaceX\u2019s Starship</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "1d63170349704eb4",
-        "title": "Additive business update: EOS, Protolabs, Velo3D, and more",
-        "url": "https://www.engineering.com/additive-business-update-eos-protolabs-velo3d-and-more/",
-        "source": "Engineering.com",
-        "published": "Wed, 08 Jul 2026 19:02:11 +0000",
-        "published_dt": "2026-07-08T19:02:11+00:00",
-        "summary": "<p>New partnerships, upscaling capacities, and startups to watch.</p>\n<p>The post <a href=\"https://www.engineering.com/additive-business-update-eos-protolabs-velo3d-and-more/\">Additive business update: EOS, Protolabs, Velo3D, and more</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "3f7bee44ba152b6f",
-        "title": "Is this the year for a NASA authorization bill?",
-        "url": "https://spacenews.com/is-this-the-year-for-a-nasa-authorization-bill/",
-        "source": "SpaceNews",
-        "published": "Wed, 08 Jul 2026 18:06:39 +0000",
-        "published_dt": "2026-07-08T18:06:39+00:00",
-        "summary": "<figure><img alt=\"House Science Committee markup\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/housesci-20260204.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Appropriators, like fans of hard-luck sports teams, say every year that this year will be different. That this will be the year that \u201cregular order\u201d returns to the appropriations process, [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/is-this-the-year-for-a-nasa-authorization-bill/\">Is this the year for a NASA authorization bill?</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "55a172592891705a",
-        "title": "Fi expands Starlink direct-to-device capability into dog-tracking",
-        "url": "https://spacenews.com/fi-expands-starlink-direct-to-device-capability-into-dog-tracking/",
-        "source": "SpaceNews",
-        "published": "Wed, 08 Jul 2026 13:00:00 +0000",
-        "published_dt": "2026-07-08T13:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"593\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Fi-Ultra-scaled.jpg?fit=1024%2C593&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Pet technology company Fi launched a dog tracker July 8 that uses T-Mobile\u2019s Starlink-enabled T-Satellite service to remain connected across the United States, even outside the telco\u2019s terrestrial network.</p>\n<p>The post <a href=\"https://spacenews.com/fi-expands-starlink-direct-to-device-capability-into-dog-tracking/\">Fi expands Starlink direct-to-device capability into dog-tracking</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
@@ -565,24 +565,6 @@
         "summary": "Contrary to a long-standing concern, we present evidence that classical benefit-based labor income taxation in the tradition of Smith (1776) is consistent with income redistribution through transfers and negative average tax rates both theoretically and---in plausibly-specified simulations---quantitatively at levels which reflect U.S. policy over the past several decades. As redistribution is widespread in practice, our results remove an obstacle to the benefit principle\u2019s plausibility as a prevailing normative foundation of tax policy."
       },
       {
-        "id": "14a487c1a7c4400e",
-        "title": "China may struggle to fund Xi Jinping\u2019s tech ambitions",
-        "url": "https://www.economist.com/finance-and-economics/2026/07/09/china-may-struggle-to-fund-xi-jinpings-tech-ambitions",
-        "source": "Finance & economics",
-        "published": "Thu, 09 Jul 2026 08:27:02 +0000",
-        "published_dt": "2026-07-09T08:27:02+00:00",
-        "summary": "The comeback capital markets are staging may not be enough"
-      },
-      {
-        "id": "ec59c386c07f0068",
-        "title": "An ageing society might not cost too much",
-        "url": "https://www.economist.com/finance-and-economics/2026/07/09/an-ageing-society-might-not-cost-too-much",
-        "source": "Finance & economics",
-        "published": "Thu, 09 Jul 2026 08:26:42 +0000",
-        "published_dt": "2026-07-09T08:26:42+00:00",
-        "summary": "A dystopian vision of the future may not come to pass"
-      },
-      {
         "id": "992ebfbd0f2684fa",
         "title": "AI has taken over the stock market. The bond market is next",
         "url": "https://www.economist.com/finance-and-economics/2026/07/07/ai-has-taken-over-the-stock-market-the-bond-market-is-next",
@@ -680,26 +662,35 @@
         "published": "Mon, 01 Jun 2026 17:16:55 +0000",
         "published_dt": "2026-06-01T17:16:55+00:00",
         "summary": "Watch out for indigestion"
+      },
+      {
+        "id": "bd620b1c90654264",
+        "title": "Japan, South Korea and Taiwan are suffering industrial rot",
+        "url": "https://www.economist.com/finance-and-economics/2026/05/27/japan-south-korea-and-taiwan-are-suffering-industrial-rot",
+        "source": "Finance & economics",
+        "published": "Wed, 27 May 2026 14:08:47 +0000",
+        "published_dt": "2026-05-27T14:08:47+00:00",
+        "summary": "Artificial intelligence is concealing a China shock"
+      },
+      {
+        "id": "a8c4c75041ed95b9",
+        "title": "How should economists treat morality?",
+        "url": "https://www.economist.com/finance-and-economics/2026/05/21/how-should-economists-treat-morality",
+        "source": "Finance & economics",
+        "published": "Thu, 21 May 2026 09:27:37 +0000",
+        "published_dt": "2026-05-21T09:27:37+00:00",
+        "summary": "Sometimes it is more than merely an exogenous constraint"
       }
     ],
     "Cross-Disciplinary": [
       {
-        "id": "a79d4a99bd2d7297",
-        "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
-        "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
+        "id": "47a96e0deb1bdb2a",
+        "title": "The Download: Claude\u2019s inner workings and OpenAI\u2019s \u201csuper app\u201d",
+        "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
         "source": "MIT Technology Review",
-        "published": "Thu, 09 Jul 2026 12:10:00 +0000",
-        "published_dt": "2026-07-09T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US \u2014Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This year&#8230;"
-      },
-      {
-        "id": "9ed1c10900ef26ad",
-        "title": "The Rebirth of High Frequency",
-        "url": "https://content.knowledgehub.wiley.com/the-rebirth-of-high-frequency/",
-        "source": "IEEE Spectrum",
-        "published": "Thu, 09 Jul 2026 10:00:03 +0000",
-        "published_dt": "2026-07-09T10:00:03+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/rohde-schwarz-logo-with-slogan-make-ideas-real-and-rs-monogram-in-diamond.png?id=67100960&amp;width=980\" /><br /><br /><p>An examination of how satellite vulnerabilities, modern wideband waveforms, and automatic link establishment are driving renewed military and government investment in HF communications.</p><p>What Attendees will Learn</p><ol><li>Why HF (High Frequency) declined \u2014 and what has changed \u2014 How satellites overtook HF for global communications from the 1970s onward, and why growing awareness of satellite vulnerabilities to anti-satellite weapons, jamming, solar storms, and coverage gaps is reviving interest in skywave propagation as a resilient alternative.</li><li>How the ionosphere enables and limits global HF communication \u2014 Understand the roles of the D, E, and F ionospheric layers in refracting and absorbing signals, the concepts of maximum usable frequency (MUF) and lowest usable frequency (LUF), and how sunspot number, solar flux index, and A/K geomagnetic indices are used to quantify and predict propagation conditions.</li><li>How automatic link establishment transforms HF operability \u2014 Trace the evolution from proprietary first-generation ALE through interoperable second- and third-generation standards to fourth-generation wideband ALE, which automates frequency selection, link setup, and adaptation to changing channel conditions \u2014 removing the dependency on highly skilled operators.</li><li>How wideband HF is closing the throughput.</li></ol><div><span><a href=\"https://content.knowledgehub.wiley.com/the-rebirth-of-high-frequency/\" target=\"_blank\">Download this free whitepaper now!</a></span></div>"
+        "published": "Fri, 10 Jul 2026 12:10:00 +0000",
+        "published_dt": "2026-07-10T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what\u2019s really going on inside large language models as they&#8230;"
       },
       {
         "id": "9c7f5ae6c724587c",
@@ -727,6 +718,15 @@
         "published": "Fri, 19 Jun 2026 18:00:01 +0000",
         "published_dt": "2026-06-19T18:00:01+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-middle-aged-black-man-taking-a-virtual-coding-class-in-his-home-office.jpg?id=66951841&amp;width=1245&amp;height=700&amp;coordinates=0%2C156%2C0%2C157\" /><br /><br /><p><a href=\"https://spectrum.ieee.org/recursive-self-improvement\" target=\"_self\">Large language models</a> have moved out of the research lab and into engineers\u2019 daily workflow. LLMs serve as reasoning engines that can orchestrate complex tasks including identifying vulnerabilities in source code and transforming fragmented project discussions into rigorous technical specifications.</p><p>While the general public uses AI tools to write email and plan vacations, technical professionals use LLMs as core architectural elements that are fundamentally changing how digital infrastructures are built and maintained. As the AI models move into mainstream engineering practice, the demand for technical expertise is rising.</p><p>The LLM technology market is expected to grow by <a href=\"https://www.marketsandmarkets.com/Market-Reports/large-language-model-llm-market-102137956.html\" rel=\"noopener noreferrer\" target=\"_blank\">about 33 percent every year through 2030</a>, according to <a href=\"https://www.marketsandmarkets.com/AboutUs-8.html\" rel=\"noopener noreferrer\" target=\"_blank\">MarketsandMarkets</a>. The rapid expansion suggests that proficiency in implementing and securing the models is transitioning from a niche into a core requirement for technologists.</p><h2>More than just a better search engine</h2><p>To use LLMs effectively, technical professionals must move beyond treating them as conversational robots. At a fundamental level, the AI systems are built on the <a href=\"https://ieeexplore.ieee.org/document/10245906\" rel=\"noopener noreferrer\" target=\"_blank\">transformer architecture</a>, a framework that replaced the older method of processing data in a fixed, sequential order. Unlike earlier models that analyzed information one step at a time, transformers use self-attention mechanisms to ingest vast datasets simultaneously.</p><p class=\"pull-quote\">For technical professionals, LLMs are core architectural elements that are fundamentally changing how digital infrastructures are built and maintained.</p><p>Relying on such LLMs without understanding their internal logic creates a significant reliability risk. To build tools that work consistently, developers must understand the core principles that govern how the models process information and generate results. By mastering how a model processes information and how its internal settings influence the result, developers can move away from a trial-and-error approach toward a more precise one to ensure the AI tool handles complex data reliably.</p><h2>Four ways LLMs are changing jobs</h2><p>Here are areas that integrate large language models.</p><p><strong>Moving past basic prompts. </strong>Developers are using application program interfaces (APIs) to connect LLMs directly to their databases and software tools. Employing the APIs allows AI to perform work such as executing code or searching through internal repositories.</p><p><strong>Fixing the \u201challucination\u201d problem. </strong>LLMs are at risk of <a href=\"https://spectrum.ieee.org/ai-agent-benchmarks\" target=\"_self\">hallucinations</a>, which are generated facts or code that looks correct but actually is wrong or broken. To fix the problem, retrieval-augmented generation (RAG) forces AI to look up information in a trusted source such as a company\u2019s database.</p><p><strong>Prioritizing data security. </strong>When using AI with proprietary code, <a href=\"https://spectrum.ieee.org/two-new-ai-ethics-certifications\" target=\"_self\">security</a> is a major concern. Engineers must learn how to set up \u201cprivate\u201d instances of the models to ensure that sensitive company data stays within a secure cloud environment and is not used to train public versions.</p><p><strong>The future of collaboration. </strong>By automating repetitive coding tasks and summarizing thousands of pages of documentation, LLMs let engineers spend more time on high-level designs and solving important issues.</p><h2>Online course program helps with mastering the tech</h2><p>The gap between people who use AI and those who understand how to build with it is growing wider. To help technical professionals stay ahead, IEEE offers a five-course online program, <a href=\"https://iln.ieee.org/public/contentdetails.aspx?id=B570F53B5DA44B258042A12AE5BD6846\" target=\"_blank\">Large Language Models Demystified</a>, available through the <a href=\"https://iln.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Learning Network</a>.</p><p>The program, developed by <a href=\"https://ea.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Educational Activities</a> in partnership with the <a href=\"https://computer.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Computer Society</a>, is built for people who want to understand the \u201chow\u201d and the \u201cwhy\u201d behind the technology. Rather than just teaching basic prompting, the curriculum dives into the engineering behind generative AI, including:</p><ul><li><strong>Evolution, impact, and hands-on exercises: </strong>the shift from statistical methods to modern transformers, including hands-on model optimization.</li><li><strong>Understanding transformer architectures:</strong> the mathematical core of self-attention and positional encoding, implemented in <a href=\"https://numpy.org/\" rel=\"noopener noreferrer\" target=\"_blank\">NumPy</a> and <a href=\"https://www.python.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Python</a>.</li><li><strong>Architectural analysis and implementation:</strong> advanced LLM design with practical model-building exercises.</li><li><strong>Training and modeling with PyTorch:</strong> end-to-end pipelines in <a href=\"https://pytorch.org/\" rel=\"noopener noreferrer\" target=\"_blank\">PyTorch</a>, leveraging parameter-efficient techniques such as <a href=\"https://arxiv.org/abs/2106.09685\" rel=\"noopener noreferrer\" target=\"_blank\">low-rank adaptation</a> and quantization.</li><li><strong>Optimization, alignment, and deployment:</strong> performance scaling, <a href=\"https://aws.amazon.com/what-is/reinforcement-learning-from-human-feedback/\" rel=\"noopener noreferrer\" target=\"_blank\">reinforcement learning from human feedback (RLHF)</a>, <a href=\"https://cameronrwolfe.substack.com/p/grpo\" rel=\"noopener noreferrer\" target=\"_blank\">group-relative policy optimization</a>, RAG, and agentic AI.</li></ul><p>Upon completion of the program, participants earn professional development credits and a digital badge from IEEE to verify their expertise.</p><p><a href=\"https://iln.ieee.org/public/contentdetails.aspx?id=B570F53B5DA44B258042A12AE5BD6846\" rel=\"noopener noreferrer\" target=\"_blank\">Enroll in the course program</a> on the IEEE Learning Network.</p><p>Organizations looking to prepare their teams to work on LLMs can connect with an <a href=\"https://forms1.ieee.org/Large-Language-Models-Demystified.html\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE content specialist</a> to discuss group enrollment and tailored training paths.</p>"
+      },
+      {
+        "id": "d728abea4e71f51e",
+        "title": "Sperm donors need limits, says a European fertility group",
+        "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 10 Jul 2026 09:00:00 +0000",
+        "published_dt": "2026-07-10T09:00:00+00:00",
+        "summary": "Ties van der Meer doesn\u2019t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have identified those donors, he says. He&#8230;"
       },
       {
         "id": "28232bf9bb11dd5f",
@@ -765,22 +765,22 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/pixel-art-figure-in-a-colorful-digital-cube-with-shadow-and-connected-emoji-faces.png?id=66966345&amp;width=1245&amp;height=700&amp;coordinates=0%2C237%2C0%2C238\" /><br /><br /><p><strong>Imagine sitting down at </strong>your desk and logging in for a performance review, with an AI system analyzing the conversation. You\u2019ve been working long hours, balancing deadlines, and your manager asks how you\u2019re doing. You say you\u2019re fine, and maybe even smile, but there\u2019s a hint of hesitation and your voice wavers. As you shift your posture, your shoulders slump.</p><div class=\"rm-embed embed-media\"></div><p><span>These are subtle cues that to the human eye might hint at underlying stress. But to an AI model that\u2019s been trained only to categorize emotions as \u201chappy\u201d or \u201csad,\u201d such nuances are likely lost. It logs the words and a smile and moves on\u2014and unless your human manager intervenes, the fact that you\u2019re tired, unfocused, and maybe a couple of days from burnout never enters the equation.</span></p><p>\u201c<a href=\"https://spectrum.ieee.org/building-an-ai-that-feels\" target=\"_blank\">Emotion AI</a>,\u201d which estimates how people feel based on facial expressions, voice tone, and behavior, seems to be suddenly everywhere; it\u2019s being used in employee well-being and recruitment interviews, education platforms, and driver-monitoring systems. Technology call-center platforms such as <a href=\"https://www.nice.com/\" target=\"_blank\">NiCE</a> and <a href=\"https://www.genesys.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Genesys</a> use AI to detect when a customer sounds frustrated and prompt agents in real time to slow down or respond with more empathy. Giant companies like <a href=\"https://raveintelligence.com/meta-voice-ai-surge-emotional-intelligence/\" rel=\"noopener noreferrer\" target=\"_blank\">Meta</a> and startups such as <a href=\"https://www.hume.ai/\" rel=\"noopener noreferrer\" target=\"_blank\">Hume AI</a> are developing more-expressive voice AI systems that can detect emotional cues in the person they\u2019re \u201ctalking\u201d to and adjust how they communicate.</p><p>What\u2019s more, hundreds of companies already offer virtual AI companionship apps, a fast-growing market that may be worth an <a href=\"https://www.sphericalinsights.com/reports/ai-companion-market#:~:text=Table_content:%20header:%20%7C%20Base%20Year:%20%7C%202024,CAGR:%20%7C%202024:%20CAGR%20of%2031.05%25%20%7C\" rel=\"noopener noreferrer\" target=\"_blank\">estimated US $555 billion</a> by 2035\u2014and robot buddies have also entered the picture. Intuition Robotics\u2019s <a href=\"https://elliq.com/?srsltid=AfmBOoqjBb7RoBuC0piFi5F-u5d64LbS_BVhLwG79xwEbTnrZwBx86fR\" rel=\"noopener noreferrer\" target=\"_blank\">ElliQ</a>, for example, is a small device vaguely resembling a white desk lamp that\u2019s now being used to engage older adults in conversation in hopes of reducing loneliness.</p><p>But while the field of emotion AI is advancing at a rapid clip, most existing systems are focused on detecting a limited number of signals to label one specific emotion at a time\u2014which is insufficient if you\u2019re trying to understand the human condition. In the real world, human signals and emotions are contextual, overlapping, and constantly changing. A laugh can signal joy, nervousness, or both; a raised voice might signal enthusiasm just as easily as frustration. To make the job of emotion detection even more difficult, reactions differ greatly from one individual to the next, depending on demographics, cultural background, and countless other variables.</p><p>In other words, there\u2019s a gap between what we\u2019re expecting AI to pick up on and what AI can actually deliver. That\u2019s the gap a new field of research\u2014what we call human-context AI\u2014is working to close. Instead of looking at just one input and labeling it, human-context AI increasingly has the capacity to take stock of an individual\u2019s personality and character, and to track emotions in real time while combining <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC12292624/\" rel=\"noopener noreferrer\" target=\"_blank\">multiple inputs</a>, including facial dynamics, voice, tone, language, and behavior. Crucially, responses are also evaluated in the context of a specific environment, such as a performance review or professional coaching session. The result? Computers are learning to read the scene, rather than just the screen.</p><h2>The Origins of Emotion AI</h2><p>The story of emotion-sensing AI began almost three decades ago in the MIT Media Lab, where the American electrical engineer and computer scientist <a href=\"https://spectrum.ieee.org/how-and-why-companies-will-engineer-your-emotions\" rel=\"noopener noreferrer\" target=\"_blank\">Rosalind Picard</a> coined the term \u201caffective computing.\u201d Her work introduced the radical idea that computers could be taught to recognize and respond to human emotions.</p><p>Picard\u2019s <a href=\"https://cs.uwaterloo.ca/~jhoey/teaching/cs886-affect/papers/Picard-AffectiveComputing/9780262281584_chap6.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">early experiments</a> focused on single modalities: facial expressions, tone of voice, and physiological signals, such as skin conductance or heart rate. The goal was to give machines a window into human feeling, helping them become more empathetic. It was an exciting vision, but back then the science and hardware weren\u2019t ready. Computing power was limited, sensors were crude, and datasets were narrow and biased.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Pixel art of three party-hatted figures in a box, each losing a slice of cake.\" class=\"rm-shortcode\" id=\"af91e\" src=\"https://spectrum.ieee.org/media-library/pixel-art-of-three-party-hatted-figures-in-a-box-each-losing-a-slice-of-cake.png?id=66966369&amp;width=980\" /> <small class=\"image-media media-photo-credit\">Josie Norton</small></p><p>Over the next decades, researchers and companies got better at measuring the many ways in which humans express themselves. In the 2010s, <a href=\"https://en.wikipedia.org/wiki/Sentiment_analysis\" target=\"_blank\">sentiment analysis</a>\u2014the processing of large volumes of text to suss out emotional undertones\u2014began to reach the mainstream. At the same time, marketing firms, including my company, <a href=\"https://www.neurologyca.com/\" target=\"_blank\">Neurologyca</a>, began using video and webcams to measure and catalogue customer reactions. Biometric devices and activity trackers, such as Fitbits and Apple watches, also became ubiquitous, generating new streams of data about people\u2019s sleep, step counts, stress levels, and more.</p><p>Unsurprisingly, scientists soon confirmed that larger volumes of personalized data led to greater accuracy in reading human emotions. In 2019, researchers at Cornell demonstrated that <a href=\"https://arxiv.org/abs/1905.07039\" target=\"_blank\">combining multiple types of signals</a> improves emotion sensing. Their system joined physiological data, such as brain activity measured by electroencephalography (EEG) and heart rate, with visual cues like facial expression, outperforming systems that relied on just one input. Around the same time, Picard and her team at MIT found that humanoid robots <a href=\"https://news.mit.edu/2018/personalized-deep-learning-equips-robots-autism-therapy-0627\" rel=\"noopener noreferrer\" target=\"_blank\">trained on data unique to a specific person</a> were substantially better at reading that person\u2019s reactions and feelings than robots acting without personalized data.</p><p><span>More recent studies align with these findings. In 2024, <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S095741742400589X\" target=\"_blank\">scientists in South Korea</a> showed that fusing physiological, environmental, and personal data to recognize emotion resulted in a 32 percent error reduction. <a href=\"https://dl.acm.org/doi/10.1145/3746270.3760232\" target=\"_blank\">Another paper, published in 2025</a>, demonstrated that user-specific information significantly enhances emotion recognition performance.</span></p><p>Today, our devices know who we are; our habits and tendencies, likes and dislikes. They\u2019ve also gotten smaller and more efficient. Tiny, low-power cameras and microphones embedded in phones, laptops, and virtual-reality and augmented-reality devices can detect dozens of human signals simultaneously, from eye movements and micro-expressions to breathing rhythms, voice modulation, and posture. Advances in computing have also made it possible to integrate audio, video, biometric, and text data, often without even transmitting raw data to the cloud. And researchers at <a href=\"https://vhil.stanford.edu/publications/predictive-analytics/cognitive-load-inference-using-physiological-markers-virtual\" rel=\"noopener noreferrer\" target=\"_blank\">Stanford</a>, <a href=\"https://www.cl.cam.ac.uk/~pr10/publications/ptb09.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Cambridge and MIT</a>, and <a href=\"https://sap.ist.i.kyoto-u.ac.jp/lab/bib/intl/LAL-AAAI-sympo17.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Kyoto University</a>, in Japan, as well as <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC12292624/\" rel=\"noopener noreferrer\" target=\"_blank\">the Software College of Northeastern University </a>in Shenyang, China, are exploring how fusing such inputs can refine the sensitivity and accuracy of human-machine interactions.</p><p>And yet, despite so many breakthroughs, machines still can\u2019t reliably interpret emotion or even physical stress. Just last year, a survey published in the<a href=\"https://psycnet.apa.org/doiLanding?doi=10.1037%2Fabn0001013\" rel=\"noopener noreferrer\" target=\"_blank\"> <em><em>Journal of Psychopathology and Clinical Science</em></em></a> revealed that stress scores on smartwatches rarely, if ever, matched the level of stress that users were experiencing. In fact, a quarter of those surveyed reported feeling the direct opposite of what their smartwatches were reporting.</p><p>Why the disconnect? We\u2019ve gotten very good at capturing signals, but not at interpreting them. A fitness tracker might infer from your heart rate that you\u2019re stressed and recommend easing off training, but it doesn\u2019t know if your increased heart rate is due to excitement, tiredness, or an extra cup of coffee. Gauging emotions in real-world settings is even more difficult. To solve this complex problem, machines need context.</p><h2>From Neuromarketing to Emotion-Sensing AI</h2><p>My company, Neurologyca, was founded in Spain in 2015, and started out in neuromarketing. Working with major European brands and conglomerates, our cofounder, Juan Gra\u00f1a, had realized that companies lacked solid data on consumers. At the time, most customer feedback came through surveys, which posed questions such as, \u201cOn a scale of 1 to 10, how joyful does this car advertisement make you feel?\u201d or \u201cWhich emoji best describes your mood?\u201d Naturally, these overly simplistic tools led to high levels of self-reporting bias, as people often misjudge or misstate their own reactions.</p><p>To get around this problem, Neurologyca set up labs, using neuroscience and cognitive science to more accurately capture human responses to products, logos, advertisements, and experiences. In addition to using biometric tools such as heart monitors, eye trackers, and EEG, we recorded millions of video frames of human reactions, logging each specific context and the resulting facial and bodily movements. To do this, we mapped over 790 points of reference, including corners of the mouth, size of the eyes and pupils, blink rate, and angling of the head. All of this data was collected and stored anonymously under strict European privacy standards.</p><p>Next, we paired this information with findings from decades of neuroscience and behavioral science studies on how biometrics, speech patterns, and human movement are related to emotion\u2014research we continue to gather from academic institutions across Europe. We also created a database of situational contexts\u2014for example, \u201cwatching a dog food commercial\u201d or \u201chearing a new song\u201d\u2014and the human feelings they engendered.</p><p>In our work with companies, not only did this approach allow us to recognize nuanced emotions, it also let us identify which reactions indicated positive or negative outcomes. Take, for example, the context of horror-film trailers: Our research helped us figure out that the most successful elicit a very specific mix of emotions, namely a little bit of fear, a little bit of anxiety, but also some joy. With this knowledge, we could quickly rate viewer reactions to help a film company figure out how to tweak its trailer for the desired impact.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Colorful 3D blocks explain Neurologyca\\u2019s behavioral, situational, and personal context layers\" class=\"rm-shortcode\" id=\"8096e\" src=\"https://spectrum.ieee.org/media-library/colorful-3d-blocks-explain-neurologyca-u2019s-behavioral-situational-and-personal-context-layers.png?id=66966347&amp;width=980\" /> <small class=\"image-media media-photo-credit\">Neurologyca</small></p><p>Within a few years, we discovered that a model trained on our database could accurately evaluate emotion using just a webcam. We stopped needing to host focus groups in rooms full of equipment. Instead, we were able to do such things as sending out a new perfume sample to paid participants around the world along with a link. When people opened the link, it turned on their cameras, allowing us to record their faces as they sniffed the perfume for the first time. Suddenly, we had expanded our reach: Rather than using small focus groups in one or two countries, we could quickly assess 1,000 people across the planet, comparing how someone in Japan, India, or Germany might feel about a certain product.</p><p>About four years ago, as AI was becoming pervasive, we realized that our models had applications well beyond neuromarketing. Importantly, these models are grounded in directly observed human behavior rather than inferred patterns or loosely labeled open datasets. Looking beyond brands and companies, we established that our model could be integrated into AI systems to help them understand human emotion at a much more granular level. In other words, we could provide a layer of context.</p><h2>For Empathetic AI, Context Is Key</h2><p>When we talk about \u201ca layer of context,\u201d we mean three different types of context. The first is situational or environmental context; for example, a performance review, a telemedicine session, or a horror-film viewing. The second is personal context, which includes an individual\u2019s specific history, goals, and baseline state. The third is behavioral context, which covers the individual\u2019s reaction over the course of the event or interaction by evaluating real-time changes in attention, confidence, engagement, and cognitive load.</p><p>Most systems today focus on only situational context, although some are starting to include personal context. Very few include behavioral context or combine all three in a meaningful way. What we\u2019ve built at Neurologyca is a logic layer that fuses the three and translates them into structured, machine-readable information that allows AI systems and agents to respond more effectively. Our technology is being used to enhance systems in development, as well as some that have already been deployed, including driver-safety apps like <a href=\"https://www.netradyne.com/\" target=\"_blank\">Netradyne</a>, home assistants like <a href=\"https://alexa.amazon.com/about\" target=\"_blank\">Amazon Alexa</a>, and health-care AI platforms like <a href=\"https://www.sully.ai/\" target=\"_blank\">Sully.ai</a>.</p><p>It works as follows: Situational context is determined by the platform or application, be it a professional coaching session, a meditation app, or a driver\u2019s safety monitor. Personal context already lives within each respective platform\u2014or if not, it can be created through sharing of personal data or monitoring via camera. (Most wellness and professional-development apps, for example, contain each user\u2019s profile, history, and prior sessions.) Last but not least, behavioral context is collected and analyzed in real time using our models. In the end, our logic layer fuses these three streams of information.</p><p>Our system doesn\u2019t assign fixed weights to the three contexts. Instead, it provides a continuous calibration, with the balance shifting depending on the specific situation. For example, a pause in speech might signal uncertainty in a performance review, but something entirely different in a relaxation setting. If signals are ambiguous or overlapping, our system reflects that uncertainty through lower confidence scores rather than forcing a definitive interpretation.</p><p>What\u2019s more, our system can work without ever sending raw data to the cloud, thereby easing privacy concerns. In many cases, video, audio, and biometric signals never leave the device. Instead, our lightweight models extract information locally and share only what\u2019s necessary. Cloud systems, meanwhile, are used for training, pattern analysis, and model improvement. The result is a hybrid architecture: edge-based processing for speed and privacy combined with cloud-based learning for continuous improvement.</p><p>The result? By incorporating context, AI systems are beginning to interpret aspects of the human state as interactions unfold, dynamically adapting to emotions rather than reacting after the fact. The range of potential applications is broad and still evolving. Picture a professional-development platform that uses a human avatar to perform a mock interview and then provide feedback and tips on how to appear more confident, likeable, and well-informed. Or a meditation app that knows exactly how well you slept and how anxious you\u2019re feeling, and can recommend an appropriate breathing meditation. Or a humanoid robot teacher that can tell when a student is confused or bored and step in to get them back on track.</p><h2>Avoiding Potential Dangers on the Road Ahead</h2><p>There have long been debates about the ethics of emotion-sensing AI. Some critics question whether systems should attempt to infer human feelings from external signals at all. They argue that reducing people to measurable outputs risks oversimplifying human experience while opening the door to manipulation, surveillance, and unfair judgments in workplaces, schools, and public spaces.</p><p>We take those risks extremely seriously. In fact, our technology aims to reduce the dangers of oversimplifying human emotion. Human-context AI is not based on the assumption that a machine can definitively know what someone is feeling. Rather, it is an attempt to move beyond simplistic labels by incorporating situational, personal, and behavioral context, while explicitly representing uncertainty when signals are ambiguous or incomplete.</p><p>That said, ethical concerns regarding implementation are real and have shaped the kinds of projects we pursue. We would never, for example, accept military engagements to help with interrogations. Not only for ethical reasons: E<span>motion AI cannot reliably detect deception, and claiming otherwise would be overstating what the technology can actually do.</span> And while our technology can be used to gauge crowd behavior and predict things like when a football stadium is at risk of becoming destructively rowdy, we don\u2019t want our technology deployed for surveillance. In short, we believe that using our logic layer on anyone who hasn\u2019t opted in would be intrusive and ethically problematic.</p><p><span>In Europe, our systems are designed to comply with the EU AI Act\u2019s restrictions on emotion recognition in workplaces and schools; as we expand into the United States, we apply jurisdiction-specific guidelines while maintaining the same core ethical commitments.</span></p><p>We also don\u2019t advise companies to become overly reliant on our technology. Hiring and firing decisions should not be based on our outputs alone. Instead, our logic layer is designed to support human understanding and surface emotions that might otherwise go unnoticed.</p><p>Let\u2019s return to the scenario of the performance review. Never mind basic AI\u2014all humans, and even great managers, miss things during conversations. There\u2019s a lot happening at once, as people process what\u2019s being said, how to respond, and the greater context of the situation. These days, many exchanges also occur virtually or via video, adding more distractions while shared context is stripped away.</p><p>While we would never claim that our models understand humans better than their fellow humans, we believe we can offer an added layer to help managers capture and interpret behavioral signals that might otherwise get lost, providing greater visibility into how a conversation is unfolding.</p><p>Our model can track patterns moment to moment, picking up, for example, a shift in engagement, an instance when something didn\u2019t land, or a change in how someone is behaving. The model won\u2019t tell the manager what these moments mean or what to do about them; it simply makes them easier to see and follow up.</p><p>Human-context AI is at an early stage. The use cases, the adoption patterns, and the actual impact are all still evolving. At the same time, emotion-sensing systems are quickly being incorporated into real products and platforms. And without context\u2014without knowing <em><em>why</em></em> people feel the way they do\u2014AI risks misunderstanding us in critical moments. <span class=\"ieee-end-mark\"></span></p>"
       },
       {
-        "id": "947b270c57731488",
-        "title": "Four nuclear reactors hit a big milestone in the US",
-        "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 09 Jul 2026 08:00:00 +0000",
-        "published_dt": "2026-07-09T08:00:00+00:00",
-        "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can&#8230;"
+        "id": "9ed1c10900ef26ad",
+        "title": "The Rebirth of High Frequency",
+        "url": "https://content.knowledgehub.wiley.com/the-rebirth-of-high-frequency/",
+        "source": "IEEE Spectrum",
+        "published": "Thu, 09 Jul 2026 10:00:03 +0000",
+        "published_dt": "2026-07-09T10:00:03+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/rohde-schwarz-logo-with-slogan-make-ideas-real-and-rs-monogram-in-diamond.png?id=67100960&amp;width=980\" /><br /><br /><p>An examination of how satellite vulnerabilities, modern wideband waveforms, and automatic link establishment are driving renewed military and government investment in HF communications.</p><p>What Attendees will Learn</p><ol><li>Why HF (High Frequency) declined \u2014 and what has changed \u2014 How satellites overtook HF for global communications from the 1970s onward, and why growing awareness of satellite vulnerabilities to anti-satellite weapons, jamming, solar storms, and coverage gaps is reviving interest in skywave propagation as a resilient alternative.</li><li>How the ionosphere enables and limits global HF communication \u2014 Understand the roles of the D, E, and F ionospheric layers in refracting and absorbing signals, the concepts of maximum usable frequency (MUF) and lowest usable frequency (LUF), and how sunspot number, solar flux index, and A/K geomagnetic indices are used to quantify and predict propagation conditions.</li><li>How automatic link establishment transforms HF operability \u2014 Trace the evolution from proprietary first-generation ALE through interoperable second- and third-generation standards to fourth-generation wideband ALE, which automates frequency selection, link setup, and adaptation to changing channel conditions \u2014 removing the dependency on highly skilled operators.</li><li>How wideband HF is closing the throughput.</li></ol><div><span><a href=\"https://content.knowledgehub.wiley.com/the-rebirth-of-high-frequency/\" target=\"_blank\">Download this free whitepaper now!</a></span></div>"
       },
       {
-        "id": "bd4e92a7137e7417",
-        "title": "Inside the Race to Electrify Semi Trailers for Long Haul Freight",
+        "id": "8c0851b8edca2f6f",
+        "title": "Inside the Race to Electrify Semitrailers for Long-Haul Freight",
         "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
         "source": "IEEE Spectrum",
         "published": "Wed, 08 Jul 2026 17:58:34 +0000",
         "published_dt": "2026-07-08T17:58:34+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-large-battery-installed-on-the-undercarriage-of-an-electric-semi-trailer.jpg?id=67112537&amp;width=1245&amp;height=700&amp;coordinates=0%2C62%2C0%2C63\" /><br /><br /><p>A semi-trailer that helps propel itself entered commercial road testing in late May, when a powertrain kit developed by<a href=\"https://nivalisenergy.com/\" rel=\"noopener noreferrer\" target=\"_blank\"> Nivalis Energy Europe</a>, headquartered in Luxembourg with engineering operations in Germany, was fitted to a trailer supplied by Amsterdam-based<a href=\"https://www.tip-group.com/en\" rel=\"noopener noreferrer\" target=\"_blank\"> TIP Group</a>. The self-powered trailer was handed over to German transport operator<a href=\"https://www.sommer-online.de/index.php?id=3&amp;L=1&amp;cHash=e4f22bfe1ffee70d4675cc8b03e2d616&amp;no_cache=1&amp;sword_list%5B0%5D=tas\" rel=\"noopener noreferrer\" target=\"_blank\"> Sommer</a> for use in its working fleet. </p><p>The Nivalis Powered Trailer Kit centers on an electric axle co-developed with Wiehl, Germany\u2013based running gear specialist<a href=\"https://www.bpw.de/en/products/axle-running-gears\" rel=\"noopener noreferrer\" target=\"_blank\"> BPW</a>, rated at 50 kilowatts peak, capable of both propulsion assistance and<a href=\"https://spectrum.ieee.org/tag/regenerative-braking\" target=\"_self\"> regenerative braking</a>. That axle draws on a 60-kilowatt-hour, 400-volt<a href=\"https://spectrum.ieee.org/tag/lithium-ion-batteries\" target=\"_self\"> lithium-ion battery</a> pack charged from three sources: the axle itself during braking and deceleration, a full-rooftop array of<a href=\"https://spectrum.ieee.org/tag/photovoltaics\" target=\"_self\"> photovoltaic panels</a> generating up to 3.7 kilowatts-peak, and a 32-amp, three-phase AC grid connection available during parking stops. The driver\u2019s only window into the system is a small display readable from the cab\u2019s side mirror that shows the system status and battery charge level. Nothing about the trailer\u2019s handling or licensing requirements changes.<br /><br /> The partners project savings of up to 7,000 liters of diesel per trailer per year, which is enough to keep about 19 tonnes of carbon dioxide out of the air. These figures are based on a trailer running 100,000 kilometers annually at payloads between 20 and 24 tonnes, on a mix of long-haul and hub-to-hub routes.</p><p><a href=\"https://de.linkedin.com/in/pavel-gilman/en\" rel=\"noopener noreferrer\" target=\"_blank\">Pavel Gilman</a>, vice president of sales and marketing at Nivalis, breaks down where those savings come from: roughly 30 to 35 percent from the electric axle during braking and deceleration, 11 to 15 percent from the rooftop solar panels, and the remainder (roughly half) from grid charging during parking stops. The pilot is planned to run for more than a year, spanning multiple seasons. The retrofit cost has not been disclosed, and the pilot is running on a single trailer. But the underlying assumptions are now on the table and they represent a specific, high-utilization use case (meaning a truck that\u2019s almost always on the move, filled to capacity with freight) not a universal one.<br /><br /> Across Europe and North America, a growing number of companies have concluded that electrifying the trailer, rather than replacing the tractor unit, may be the fastest and most cost-effective path to decarbonizing long-haul freight. A new<a href=\"https://spectrum.ieee.org/electric-hgv\" target=\"_self\"> battery-electric heavy truck</a> carries a high upfront cost and demands charging infrastructure that most freight corridors do not yet reliably provide. A retrofit kit fitted to an existing trailer is meant to sidestep both problems. </p><p>The question the industry has been working to answer is whether the energy harvested from regenerative braking,<a href=\"https://spectrum.ieee.org/solar-powered-cars\" target=\"_self\"> rooftop solar</a>, and grid charging in short bursts when the vehicle is parked for loading and unloading is enough to produce savings that recover the kit\u2019s cost in a reasonable timeframe. Several companies now believe the answer is yes, and they are accumulating field data to prove it\u2014though not all of them are going about it the same way.</p><h2> Trailer industry places its bets</h2><p> The competitive landscape has taken shape most visibly in Germany.<a href=\"https://www.iru.org/news-resources/members-directory/trailer-dynamics\" rel=\"noopener noreferrer\" target=\"_blank\"> Trailer Dynamics</a>, an Aachen-based company, has conducted field tests with<a href=\"https://www.bmwgroup.jobs/apac/en/jobfields/logistics.html\" rel=\"noopener noreferrer\" target=\"_blank\"> BMW Logistics</a>,<a href=\"https://www.dbschenker.com/global\" rel=\"noopener noreferrer\" target=\"_blank\"> DB Schenker</a>,<a href=\"https://www.duvenbeck.de/en\" rel=\"noopener noreferrer\" target=\"_blank\"> Duvenbeck</a>, and<a href=\"https://www.volkswagen-group.com/en/enhancing-sustainability-in-volkswagen-group-logistics-18669\" rel=\"noopener noreferrer\" target=\"_blank\"> Volkswagen Konzernlogistik</a>, reporting average fuel savings of around 40 percent for diesel tractor combinations, substantially higher than the up to 18 percent reduction implied by the Nivalis projection. The difference traces directly to battery size, but Trailer Dynamics frames the choice as an economic question rather than an architectural one.<br /><br /> \u201cThe discussion should not start with battery size, but with the economics of the transport operation,\u201d the company said in response to written questions. \u201cThere is no single battery capacity that is universally right for every fleet.\u201d<br /><br /> Trailer Dynamics\u2019s modular system offers three configurations ranging from 187 to 551 kilowatt-hours, sized to match route profile, annual mileage, payload, and charging access. The M300 version, whose designation reflects the capacity of its 300-kilowatt-hour lithium iron phosphate battery supplied by Chinese battery manufacturer<a href=\"https://www.catl.com/en/\" rel=\"noopener noreferrer\" target=\"_blank\"> CATL</a>, adds approximately four tonnes to the trailer, roughly three times the one-to-1.4\u2013tonnes added to a trailer by the Nivalis system.<br /><br /> Both companies\u2019 systems would extend the range of a battery-electric tractor by reducing the energy demand on the tractor\u2019s motor. But Trailer Dynamics explicitly targets that use case, claiming its self-propelled trailer yields combined ranges of up to 850 kilometers\u2014enough to eliminate intermediate charging stops on many long-haul routes. Nivalis has not published range extension figures for electric tractor combinations, and its smaller battery and peak lower output suggest the effect would be more modest.<br /><br /> That higher energy storage capability widens the addressable market for Trailer Dynamics considerably and helps explain the investment flowing into the self-propelled trailer space. In November 2025, the<a href=\"https://www.eib.org/en/index\" rel=\"noopener noreferrer\" target=\"_blank\"> European Investment Bank</a> extended a<a href=\"https://www.eib.org/en/press/all/2025-459-eib-backs-game-changing-electric-trailer-rollout-for-europe-s-freight-sector-invests-eur25-million-in-trailer-dynamics\" rel=\"noopener noreferrer\" target=\"_blank\"> \u20ac25 million loan to the company</a>, backed by the European Union\u2019s<a href=\"https://investeu.europa.eu/investeu-programme_en\" rel=\"noopener noreferrer\" target=\"_blank\"> InvestEU program</a>, to support commercialization. Trailer Dynamics says it plans to begin industrial-scale production in 2028, with adoption expected to accelerate as<a href=\"https://climate.ec.europa.eu/eu-action/european-climate-law_en\" rel=\"noopener noreferrer\" target=\"_blank\"> European carbon dioxide reduction requirements</a> tighten toward 2030.<br /><br /><a href=\"https://www.zf.com/mobile/en/homepage/homepage.html\" rel=\"noopener noreferrer\" target=\"_blank\"> ZF</a>, the German automotive supplier, entered the space with its<a href=\"https://press.zf.com/press/en/releases/release_75585.html\" rel=\"noopener noreferrer\" target=\"_blank\"> TrailTrax</a> system, using an electric axle rated at up to 210 kilowatts continuous power. ZF claims that, between onboard battery storage and energy recovered via regenerative braking, the self-propelled trailer system yields up to 16 percent in energy and carbon dioxide savings when combined with an ICE powered truck. The company also says TrailTrax can reduce carbon dioxide emissions by as much as 40 percent with opportunistic plug-in charging. Trailer manufacturers<a href=\"https://kaessbohrer.com/en\" target=\"_blank\"> K\u00e4ssbohrer</a> and<a href=\"https://www.krone-trailer.com/en/\" target=\"_blank\"> Krone</a> have adopted the platform, as has BPW\u2014the same running gear specialist co-developing the Nivalis axle.<br /><br /> In North America,<a href=\"https://www.range.energy/post/cost-effective-fleet-building-leveraging-electric-trailers-for-practical-decarbonization\" rel=\"noopener noreferrer\" target=\"_blank\"> Range Energy</a> is developing a system with up to 300 kilowatt-hours of onboard energy capacity, compatible with diesel, battery-electric, and hydrogen fuel cell tractors. Range, which has announced a<a href=\"https://press.zf.com/press/en/releases/release_81026.html\" rel=\"noopener noreferrer\" target=\"_blank\"> partnership with ZF</a>, to help drive the development and adoption of the Range eTrailer System within the North American commercial trucking industry, is now equipping its trailers with<a href=\"https://www.zf.com/products/en/cv/products_75841.html\" rel=\"noopener noreferrer\" target=\"_blank\"> ZF\u2019s AxTrax 2 e-axle</a> for battery-powered propulsion. Range Energy has a separate pilot agreement with DB Schenker, the German logistics company that is also among the European operators that tested the Trailer Dynamics system. Range and DB Schenker say they plan to deploy a powered trailer in commercial trucking operations in North America, with first deliveries scheduled for later this year. The breadth of activity across continents reflects a field that has moved well past the question of whether powered trailers work. The argument now is about which architecture works best and at what cost.<br /><br /> What the field does not yet have is a common standard for measuring and reporting savings. The figures from various pilots\u2014an average of 40 percent from Trailer Dynamics, up to 18 percent implied by the Nivalis projection\u2014reflect different routes, loads, seasons, and battery sizes. In some cases, they represent short validation runs rather than sustained operational data. Fleet operators evaluating competing systems are working with numbers that are difficult to interpret and impossible to rank against one another.</p><p> Both architectures reduce available payload, but by very different margins. The M300\u2019s roughly four-tonne addition dwarfs the one-to-1.4-tonne addition of the Nivalis system. Trailer Dynamics argues the weight penalty is largely academic in practice, because more than 90 percent of trailer movements are constrained by cargo volume before they approach legal weight limits. Under<a href=\"https://transport.ec.europa.eu/transport-modes/road/weights-and-dimensions_en\" rel=\"noopener noreferrer\" target=\"_blank\"> current European regulations</a>, both systems reduce payload on a one-for-one basis. Frameworks under discussion would change that. New rules could allow up to four extra tonnes for electric trucks, with proposals to extend the provision to electric trailers. If amended, the payload effect would turn positive for both systems. Until then, every kilogram of kit is a kilogram unavailable for freight.</p><h2>Small versus large battery systems</h2><p>The choice between large-battery and small-battery powered trailers is a bet on which cost will fall faster: battery pack prices or the cost of grid charging infrastructure. A large-battery system delivers higher savings but requires reliable charging access across the operating cycle. If infrastructure buildout stalls\u2014as it has repeatedly in heavy-duty transport\u2014operators face the same dependency problem that has slowed battery-electric truck adoption. The Nivalis architecture hedges against that risk: its 32-amp connection requires only a standard industrial outlet, and the solar array and regenerative braking handle significant energy input without infrastructure at all. Gilman frames the design philosophy in terms of the industry it serves.<br /><br /> \u201cLogistics lives with low margins,\u201d he said. \u201cWe are focused on the product which fits the industry technically and financially. It overcomes the capital expenditure hurdle and maximizes financial benefit by adding sources of energy which are symbiotic to each other.\u201d And because Nivalis\u2019s axle is comparatively light, he says, operators won\u2019t be forced to reduce payload.<br /><br /> Trailer Dynamics sees it differently.<br /><br /> \u201cLong-haul transport will increasingly move toward depot-based and destination-based charging models,\u201d says Michael W. Nimtsch, the company\u2019s Managing Director. \u201cThe question is not how small a battery can be made, but how much economic value each additional kilowatt-hour can generate over the life of the vehicle.\u201d<br /><br /> On solar and regenerative recovery, Nimtsch argues both are useful complements to stored battery energy rather than substitutes for it.</p><p>\u201cCompared with the daily energy demand of a long-haul truck, solar generation remains relatively modest,\u201d he says. The Nivalis energy breakdown supports that view in relative terms: Grid charging contributes the largest share of projected savings, regenerative braking second, and solar third. That hierarchy means performance depends more on charging access during dwell time than the multi-source framing might suggest even if that access requires only a standard industrial outlet.<br /><br /> Trailer Dynamics prices its system between \u20ac145,000 and \u20ac195,000 and targets a payback period of no more than five years. Nivalis targets five to six years at current costs, falling to three to four years as volumes grow. Asked exactly what the price tag says, the company declined to answer. The minimum annual savings needed, Gilman said, is between \u20ac5,000 and \u20ac6,000 per trailer. Until someone publishes a full year of results from a trailer running in normal commercial rotation, fleet operators cannot answer the two questions that actually drives adoption: What does this cost, and when does it pay back?</p>"
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-large-battery-installed-on-the-undercarriage-of-an-electric-semi-trailer.jpg?id=67112537&amp;width=1245&amp;height=700&amp;coordinates=0%2C62%2C0%2C63\" /><br /><br /><p>A semitrailer that helps propel itself entered commercial road testing in late May, when a power-train kit developed by<a href=\"https://nivalisenergy.com/\" rel=\"noopener noreferrer\" target=\"_blank\"> Nivalis Energy Europe</a>, headquartered in Luxembourg with engineering operations in Germany, was fitted to a trailer supplied by the Amsterdam-based<a href=\"https://www.tip-group.com/en\" rel=\"noopener noreferrer\" target=\"_blank\"> TIP Group</a>. The self-powered trailer was handed over to the German transport operator<a href=\"https://www.sommer-online.de/index.php?id=3&amp;L=1&amp;cHash=e4f22bfe1ffee70d4675cc8b03e2d616&amp;no_cache=1&amp;sword_list%5B0%5D=tas\" rel=\"noopener noreferrer\" target=\"_blank\"> Sommer</a> for use in its working fleet. </p><p>The Nivalis Powered Trailer Kit centers on an electric axle codeveloped with the running-gear specialist<a href=\"https://www.bpw.de/en/products/axle-running-gears\" rel=\"noopener noreferrer\" target=\"_blank\"> BPW</a>, based in Wiehl, Germany. The axle, rated at 50 kilowatts-peak, is capable of both propulsion assistance and<a href=\"https://spectrum.ieee.org/tag/regenerative-braking\" target=\"_self\"> regenerative braking</a>. It draws on a 60-kilowatt-hour, 400-volt<a href=\"https://spectrum.ieee.org/tag/lithium-ion-batteries\" target=\"_self\"> lithium-ion battery</a> pack charged from three sources: the axle itself during braking and deceleration, a full-rooftop array of<a href=\"https://spectrum.ieee.org/tag/photovoltaics\" target=\"_self\"> photovoltaic panels</a> generating up to 3.7 kilowatts-peak, and a 32-ampere, three-phase AC grid connection available during parking stops. The driver\u2019s only window into the system is a small display readable from the cab\u2019s side mirror that shows the system status and battery charge level. Nothing about the trailer\u2019s handling or licensing requirements changes.<br /><br /> The partners project savings of up to 7,000 liters of diesel per trailer per year, which is enough to keep about 19 tonnes of carbon dioxide out of the air. These figures are based on a trailer running 100,000 kilometers annually at payloads between 20 and 24 tonnes, on a mix of long-haul and hub-to-hub routes.</p><p><a href=\"https://de.linkedin.com/in/pavel-gilman/en\" rel=\"noopener noreferrer\" target=\"_blank\">Pavel Gilman</a>, vice president of sales and marketing at Nivalis, breaks down where those savings come from: roughly 30 to 35 percent from the electric axle during braking and deceleration, 11 to 15 percent from the rooftop solar panels, and the remainder (roughly half) from grid charging during parking stops. The pilot is planned to run for more than a year, spanning multiple seasons. The retrofit cost has not been disclosed, and the pilot is running on a single trailer. But the underlying assumptions are now on the table and they represent a specific, high-utilization use case (meaning a truck that\u2019s almost always on the move, filled to capacity with freight) not a universal one.<br /><br /> Across Europe and North America, a growing number of companies have concluded that electrifying the trailer, rather than replacing the tractor unit, may be the fastest and most cost-effective path to decarbonizing long-haul freight. A new<a href=\"https://spectrum.ieee.org/electric-hgv\" target=\"_self\"> battery-electric heavy truck</a> carries a high upfront cost and demands charging infrastructure that most freight corridors do not yet reliably provide. A retrofit kit fitted to an existing trailer is meant to sidestep both problems. </p><p>The question the industry has been working to answer is whether the energy harvested from regenerative braking,<a href=\"https://spectrum.ieee.org/solar-powered-cars\" target=\"_self\"> rooftop solar</a>, and grid charging in short bursts when the vehicle is parked for loading and unloading is enough to produce savings that recover the kit\u2019s cost in a reasonable time frame. Several companies now believe the answer is yes, and they are accumulating field data to prove it\u2014though not all of them are going about it the same way.</p><h2> Trailer industry places its bets</h2><p> The competitive landscape has taken shape most visibly in Germany.<a href=\"https://www.iru.org/news-resources/members-directory/trailer-dynamics\" rel=\"noopener noreferrer\" target=\"_blank\"> Trailer Dynamics</a>, an Aachen-based company, has conducted field tests with<a href=\"https://www.bmwgroup.jobs/apac/en/jobfields/logistics.html\" rel=\"noopener noreferrer\" target=\"_blank\"> BMW Logistics</a>,<a href=\"https://www.dbschenker.com/global\" rel=\"noopener noreferrer\" target=\"_blank\"> DB Schenker</a>,<a href=\"https://www.duvenbeck.de/en\" rel=\"noopener noreferrer\" target=\"_blank\"> Duvenbeck</a>, and<a href=\"https://www.volkswagen-group.com/en/enhancing-sustainability-in-volkswagen-group-logistics-18669\" rel=\"noopener noreferrer\" target=\"_blank\"> Volkswagen Konzernlogistik</a>, reporting average fuel savings of around 40 percent for diesel tractor combinations, substantially higher than the up to 18 percent reduction implied by the Nivalis projection. The difference traces directly to battery size, but Trailer Dynamics frames the choice as an economic question rather than an architectural one.<br /><br /> \u201cThe discussion should not start with battery size, but with the economics of the transport operation,\u201d the company said in response to written questions. \u201cThere is no single battery capacity that is universally right for every fleet.\u201d<br /><br /> Trailer Dynamics\u2019s modular system offers three configurations ranging from 187 to 551 kWh, sized to match route profile, annual mileage, payload, and charging access. The M300 version, whose designation reflects the capacity of its 300-kWh lithium iron phosphate battery supplied by the Chinese battery manufacturer<a href=\"https://www.catl.com/en/\" rel=\"noopener noreferrer\" target=\"_blank\"> CATL</a>, adds approximately 4 tonnes to the trailer, roughly three times the one to 1.4 tonnes added to a trailer by the Nivalis system.<br /><br /> Both companies\u2019 systems would extend the range of a battery-electric tractor by reducing the energy demand on the tractor\u2019s motor. But Trailer Dynamics explicitly targets that use case, claiming its self-propelled trailer yields combined ranges of up to 850 km\u2014enough to eliminate intermediate charging stops on many long-haul routes. Nivalis has not published range extension figures for electric tractor combinations, and its smaller battery and peak lower output suggest the effect would be more modest.<br /><br /> That higher energy-storage capability widens the addressable market for Trailer Dynamics considerably and helps explain the investment flowing into the self-propelled trailer space. In November 2025, the<a href=\"https://www.eib.org/en/index\" rel=\"noopener noreferrer\" target=\"_blank\"> European Investment Bank</a> extended a<a href=\"https://www.eib.org/en/press/all/2025-459-eib-backs-game-changing-electric-trailer-rollout-for-europe-s-freight-sector-invests-eur25-million-in-trailer-dynamics\" rel=\"noopener noreferrer\" target=\"_blank\"> \u20ac25 million loan to the company</a>, backed by the European Union\u2019s<a href=\"https://investeu.europa.eu/investeu-programme_en\" rel=\"noopener noreferrer\" target=\"_blank\"> InvestEU program</a>, to support commercialization. Trailer Dynamics says it plans to begin industrial-scale production in 2028, with adoption expected to accelerate as<a href=\"https://climate.ec.europa.eu/eu-action/european-climate-law_en\" rel=\"noopener noreferrer\" target=\"_blank\"> European carbon-dioxide reduction requirements</a> tighten toward 2030.<br /><br /><a href=\"https://www.zf.com/mobile/en/homepage/homepage.html\" rel=\"noopener noreferrer\" target=\"_blank\"> ZF</a>, the German automotive supplier, entered the space with its<a href=\"https://press.zf.com/press/en/releases/release_75585.html\" rel=\"noopener noreferrer\" target=\"_blank\"> TrailTrax</a> system, using an electric axle rated at up to 210 kW continuous power. ZF claims that between onboard battery storage and energy recovered via regenerative braking, the self-propelled trailer system yields up to 16 percent in energy and carbon-dioxide savings when combined with a truck powered by an internal combustion engine. The company also says TrailTrax can reduce carbon-dioxide emissions by as much as 40 percent with opportunistic plug-in charging. Trailer manufacturers<a href=\"https://kaessbohrer.com/en\" target=\"_blank\"> K\u00e4ssbohrer</a> and<a href=\"https://www.krone-trailer.com/en/\" target=\"_blank\"> Krone</a> have adopted the platform, as has BPW\u2014the same running-gear specialist codeveloping the Nivalis axle.<br /><br /> In North America,<a href=\"https://www.range.energy/post/cost-effective-fleet-building-leveraging-electric-trailers-for-practical-decarbonization\" rel=\"noopener noreferrer\" target=\"_blank\"> Range Energy</a> is developing a system with up to 300 kWh of onboard energy capacity, compatible with diesel, battery-electric, and hydrogen fuel cell tractors. Range, which has announced a<a href=\"https://press.zf.com/press/en/releases/release_81026.html\" rel=\"noopener noreferrer\" target=\"_blank\"> partnership with ZF</a> to help drive the development and adoption of the Range eTrailer System within the North American commercial trucking industry, is now equipping its trailers with<a href=\"https://www.zf.com/products/en/cv/products_75841.html\" rel=\"noopener noreferrer\" target=\"_blank\"> ZF\u2019s AxTrax 2 e-axle</a> for battery-powered propulsion. Range Energy has a separate pilot agreement with DB Schenker, the German logistics company that is also among the European operators that tested the Trailer Dynamics system. Range and DB Schenker say they plan to deploy a powered trailer in commercial trucking operations in North America, with first deliveries scheduled for later this year. The breadth of activity across continents reflects a field that has moved well past the question of whether powered trailers work. The argument now is about which architecture works best and at what cost.<br /><br /> What the field does not yet have is a common standard for measuring and reporting savings. The figures from various pilots\u2014an average of 40 percent from Trailer Dynamics, up to 18 percent implied by the Nivalis projection\u2014reflect different routes, loads, seasons, and battery sizes. In some cases, they represent short validation runs rather than sustained operational data. Fleet operators evaluating competing systems are working with numbers that are difficult to interpret and impossible to rank against one another.</p><p> Both architectures reduce available payload, but by very different margins. The M300\u2019s roughly 4-tonne addition dwarfs the one-to-1.4-tonne addition of the Nivalis system. Trailer Dynamics argues the weight penalty is largely academic in practice, because more than 90 percent of trailer movements are constrained by cargo volume before they approach legal weight limits. Under<a href=\"https://transport.ec.europa.eu/transport-modes/road/weights-and-dimensions_en\" rel=\"noopener noreferrer\" target=\"_blank\"> current European regulations</a>, both systems reduce payload on a one-for-one basis. Frameworks under discussion would change that. New rules could allow up to 4 extra tonnes for electric trucks, with proposals to extend the provision to electric trailers. If amended, the payload effect would turn positive for both systems. Until then, every kilogram of kit is a kilogram unavailable for freight.</p><h2>Small versus large battery systems</h2><p>The choice between large-battery and small-battery powered trailers is a bet on which cost will fall faster: battery pack prices or the cost of grid-charging infrastructure. A large-battery system delivers higher savings but requires reliable charging access across the operating cycle. If infrastructure buildout stalls\u2014as it has repeatedly in heavy-duty transport\u2014operators face the same dependency problem that has slowed battery-electric truck adoption. The Nivalis architecture hedges against that risk: Its 32-A connection requires only a standard industrial outlet, and the solar array and regenerative braking handle significant energy input without infrastructure at all. Gilman frames the design philosophy in terms of the industry it serves.<br /><br /> \u201cLogistics lives with low margins,\u201d he said. \u201cWe are focused on the product which fits the industry technically and financially. It overcomes the capital expenditure hurdle and maximizes financial benefit by adding sources of energy which are symbiotic to each other.\u201d And because Nivalis\u2019s axle is comparatively light, he says, operators won\u2019t be forced to reduce payload.<br /><br /> Trailer Dynamics sees it differently.<br /><br /> \u201cLong-haul transport will increasingly move toward depot-based and destination-based charging models,\u201d says Michael W. Nimtsch, the company\u2019s managing director. \u201cThe question is not how small a battery can be made, but how much economic value each additional kilowatt-hour can generate over the life of the vehicle.\u201d<br /><br /> On solar and regenerative recovery, Nimtsch argues that both are useful complements to stored battery energy rather than substitutes for it.</p><p>\u201cCompared with the daily energy demand of a long-haul truck, solar generation remains relatively modest,\u201d he says. The Nivalis energy breakdown supports that view in relative terms: Grid charging contributes the largest share of projected savings, regenerative braking second, and solar third. That hierarchy means performance depends more on charging access during dwell time than the multisource framing might suggest, even if that access requires only a standard industrial outlet.<br /><br /> Trailer Dynamics prices its system between \u20ac145,000 and \u20ac195,000 and targets a payback period of no more than five years. Nivalis targets five to six years at current costs, falling to three to four years as volumes grow. Asked exactly what the price tag says, the company declined to answer. The minimum annual savings needed, Gilman said, is between \u20ac5,000 and \u20ac6,000 per trailer. Until someone publishes a full year of results from a trailer running in normal commercial rotation, fleet operators cannot answer the two questions that actually drive adoption: What does this cost, and when does it pay back?</p>"
       },
       {
         "id": "160577a9659b7d97",
@@ -846,6 +846,33 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/collage-of-obscured-person-with-power-grid-diagrams-and-demand-peak-shift-charts.png?id=66957832&amp;width=1245&amp;height=700&amp;coordinates=0%2C114%2C0%2C114\" /><br /><br /><p>By most accounts, the United States appears poised to fall woefully short of meeting new electricity demand over the next five years as <a href=\"https://spectrum.ieee.org/nuclear-powered-data-center\" target=\"_self\">data centers</a> and <a href=\"https://gridstrategiesllc.com/wp-content/uploads/Grid-Strategies-National-Load-Growth-Report-2025.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">domestic manufacturing</a> proliferate.</p><h3>Ian Magruder</h3><br /><p>Ian Magruder is the founder of Utilize Coalition and previously served as director of market mobilization at Rewiring America, an affordable electrification advocacy group.</p><p>Building new power plants and transmission lines may seem like the obvious solution, but there are other options, says <a href=\"https://www.linkedin.com/in/ianmagruder/\" rel=\"noopener noreferrer\" target=\"_blank\">Ian Magruder</a>, founder of <a href=\"https://www.utilizecoalition.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Utilize Coalition</a>, a nonprofit based in Washington, D.C. The U.S. uses only about half of its grid capacity, and a lot more power could be tapped by deploying a spate of newly available technologies.</p><p>Backed by <a href=\"https://about.google/\" rel=\"noopener noreferrer\" target=\"_blank\">Google</a>, <a href=\"https://www.tesla.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Tesla</a>, HVAC systems manufacturer <a href=\"https://www.carrier.com/us/en/\" rel=\"noopener noreferrer\" target=\"_blank\">Carrier</a>, and several other companies, Utilize Coalition advocates for more thorough use of grid capacity through policy change and new technologies. Magruder spoke with <em><em>IEEE Spectrum</em></em> about those efforts.</p><p><strong>Why does the United States use only half of its grid?</strong></p><p><strong>Ian Magruder: </strong>Most studies have found that average utilization rates are between 40 and 55 percent across different geographies. And the reason is that we\u2019ve built our grid to meet peak demand. We have to ensure that on the hottest summer day or the coldest winter morning we have enough power. But in many parts of the country, we really only hit peak a few days a year, and it\u2019s really only a few specific hours within those days.</p><p><strong>It didn\u2019t used to be this way. What\u2019s changed?</strong></p><p><strong>Magruder: </strong>Over the last 20 years we\u2019ve seen the gap between average use and peak use grow wider. There are a variety of reasons for that. Grid operators have become more conservative following major blackouts and reliability events. And with more variable-generation sources such as wind and solar, grid operators are building in more capacity. But this also presents us with an incredible opportunity to get more out of the grid using new technologies.</p><p><strong>What technologies are being deployed to address the problem?</strong></p><p><strong>Magruder:</strong> Pairing <a href=\"https://spectrum.ieee.org/co2-battery-energy-storage\" target=\"_self\">battery storage</a> with energy generation is a key part of this, as are other kinds of distributed energy resources, like managed [electric vehicle] charging and smart thermostats. I would also say that transmission technologies that safely <a href=\"https://spectrum.ieee.org/dynamic-line-rating-grid-congestion\" target=\"_self\">maximize the current in power lines</a>, <a href=\"https://spectrum.ieee.org/grid-enhancing-technologies\" target=\"_self\">increase conductivity</a>, and <a href=\"https://spectrum.ieee.org/grid-congestion-uk\" target=\"_self\">optimize power routes</a> all play a critical role here. And then there\u2019s demand flexibility, which is when utility customers adapt their power use to accommodate the grid during peak hours. Some really good work is being done around <a href=\"https://spectrum.ieee.org/distributed-inference-data-centers\" target=\"_self\">flexible data centers</a>.</p><p><strong>Is grid underutilization also happening elsewhere in the world?</strong></p><p><strong>Magruder:</strong> It\u2019s a global phenomenon, but it varies widely by country. European grids face similar dynamics as [those in] the U.S., and in some places utilization is even lower. But Australia and the United Kingdom are further ahead in measuring and managing utilization with new technologies.</p><p><strong>What\u2019s the downside to overbuilding our grids?</strong></p><p><strong>Magruder: </strong>Mainly cost. Electricity rates have gone up, and we [at Utilize Coalition] think it\u2019s because utilization has gone down. <a href=\"https://www.brattle.com/the-untapped-grid/\" rel=\"noopener noreferrer\" target=\"_blank\">A report</a> that we released earlier this year shows that a 10 percent increase in grid utilization could save Americans over US $100 billion over the next decade.</p>"
       },
       {
+        "id": "e6e3b3e482e2237d",
+        "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+        "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 09 Jul 2026 20:22:28 +0000",
+        "published_dt": "2026-07-09T20:22:28+00:00",
+        "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what\u2019s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or&#8230;"
+      },
+      {
+        "id": "a79d4a99bd2d7297",
+        "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+        "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 09 Jul 2026 12:10:00 +0000",
+        "published_dt": "2026-07-09T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US \u2014Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This year&#8230;"
+      },
+      {
+        "id": "947b270c57731488",
+        "title": "Four nuclear reactors hit a big milestone in the US",
+        "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 09 Jul 2026 08:00:00 +0000",
+        "published_dt": "2026-07-09T08:00:00+00:00",
+        "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can&#8230;"
+      },
+      {
         "id": "220e4ee39962a814",
         "title": "STEM Needs Leaders From Every Generation at the Table",
         "url": "https://spectrum.ieee.org/stem-leaders-ieee-ilc",
@@ -880,33 +907,6 @@
         "published": "Tue, 07 Jul 2026 12:10:00 +0000",
         "published_dt": "2026-07-07T12:10:00+00:00",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family\u2019s $300 stake in OpenAI Sam Altman\u2019s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving&#8230;"
-      },
-      {
-        "id": "5786331c6dbd0785",
-        "title": "The foundational elements of AI architecture that IT leaders need to scale",
-        "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 07 Jul 2026 11:10:52 +0000",
-        "published_dt": "2026-07-07T11:10:52+00:00",
-        "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture\u2014the&#8230;"
-      },
-      {
-        "id": "522c1c4937315934",
-        "title": "Why worms (and microbes) are catching on as a manure pollution solution",
-        "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 07 Jul 2026 10:00:00 +0000",
-        "published_dt": "2026-07-07T10:00:00+00:00",
-        "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family\u2019s land in Hickman, a tiny town in the state\u2019s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squirming red earthworms.&#8230;"
-      },
-      {
-        "id": "919bc8ceb058450b",
-        "title": "Your family\u2019s $300 stake in OpenAI",
-        "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 06 Jul 2026 18:00:00 +0000",
-        "published_dt": "2026-07-06T18:00:00+00:00",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI CEO Sam Altman\u2019s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in&#8230;"
       }
     ]
   }
