@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T13:39:53.666122+00:00",
+  "generated_at": "2026-07-12T13:40:22.232933+00:00",
   "categories": {
     "Biotech": [
       {
@@ -19,6 +19,15 @@
         "published": "Fri, 10 Jul 2026 11:51:52 +0000",
         "published_dt": "2026-07-10T11:51:52+00:00",
         "summary": "Massachusetts' biggest nursing strike ever, tackling the male loneliness epidemic, and other health news for Morning Rounds"
+      },
+      {
+        "id": "f92594d65b033b87",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/ihealthscreen-garners-fda-nod-ai-backed-dx-spot-mild-diabetic-retinopathy\" hreflang=\"en\">IHealthScreen nabs FDA nod for AI-backed dx to spot mild diabetic retinopathy</a>",
+        "url": "https://www.fiercebiotech.com/medtech/ihealthscreen-garners-fda-nod-ai-backed-dx-spot-mild-diabetic-retinopathy",
+        "source": "Fierce Biotech",
+        "published": "Jul 10, 2026 8:58am",
+        "published_dt": "2026-07-10T08:58:00+00:00",
+        "summary": "IHealthScreen hauled in FDA 510(k) clearance for its AI-powered diagnostic that detects mild diabetic retinopathy in diabetic adults who have gone undiagnosed with the condition."
       },
       {
         "id": "9d0d552d9e569a69",
@@ -147,6 +156,15 @@
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what\u2019s really going on inside large language models as they&#8230;"
       },
       {
+        "id": "1bd465bbbe25cfcb",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/kkr-backed-allyntra-debuts-serve-medtech-industry-announces-new-ceo\" hreflang=\"en\">KKR-backed Allyntra debuts to serve medtech industry as it announces new CEO</a>",
+        "url": "https://www.fiercebiotech.com/medtech/kkr-backed-allyntra-debuts-serve-medtech-industry-announces-new-ceo",
+        "source": "Fierce Biotech",
+        "published": "Jul 10, 2026 10:01am",
+        "published_dt": "2026-07-10T10:01:00+00:00",
+        "summary": "KKR, the global investment giant, has launched Allyntra as a new, precision-engineered solutions platform for the medtech industry while also announcing several senior management changes."
+      },
+      {
         "id": "d728abea4e71f51e",
         "title": "Sperm donors need limits, says a European fertility group",
         "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
@@ -208,24 +226,6 @@
         "published": "Thu, 09 Jul 2026 20:22:28 +0000",
         "published_dt": "2026-07-09T20:22:28+00:00",
         "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what\u2019s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or&#8230;"
-      },
-      {
-        "id": "ce9aeb19c330aaec",
-        "title": "<a href=\"https://www.fiercebiotech.com/research/arpa-h-awards-160m-scientists-developing-custom-genetic-medicines\" hreflang=\"en\">ARPA-H awards up to $160M to scientists developing custom genetic medicines</a>",
-        "url": "https://www.fiercebiotech.com/research/arpa-h-awards-160m-scientists-developing-custom-genetic-medicines",
-        "source": "Fierce Biotech",
-        "published": "Jul 9, 2026 5:50pm",
-        "published_dt": "2026-07-09T17:50:00+00:00",
-        "summary": "The Advanced Research Projects Agency for Health has awarded a new tranche of funds for companies and institutions developing personalized genetic medicines, with the recipient list dominated by high-profile players in the buzzy field."
-      },
-      {
-        "id": "499a1f3bf42278e5",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-idorsia-locks-new-ceo-after-shakeup\" hreflang=\"en\">Chutes &amp; Ladders\u2014Idorsia locks in new CEO after shakeup</a>",
-        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-idorsia-locks-new-ceo-after-shakeup",
-        "source": "Fierce Biotech",
-        "published": "Jul 9, 2026 5:17pm",
-        "published_dt": "2026-07-09T17:17:00+00:00",
-        "summary": "After Idorsia\u2019s former chief, Srishti Gupta, M.D., left the company upon \u201cmutual agreement\u201d in March, the Swiss drugmaker has now tapped a new leader, Roland Wandeler, Ph.D. Wandeler will officially take over from interim CEO and board chairman Jean-Paul Clozel, M.D., come October 1."
       }
     ],
     "Engineering & Aerospace": [
