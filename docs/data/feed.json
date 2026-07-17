@@ -1,7 +1,70 @@
 {
-  "generated_at": "2026-07-16T14:07:13.828951+00:00",
+  "generated_at": "2026-07-17T13:50:58.437874+00:00",
   "categories": {
     "Biotech": [
+      {
+        "id": "162c09c638be5008",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about rising drug shortages, GSK coughing up a trial loss, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/07/17/rising-drug-shortages-gsk-abandons-chronic-cough-medication/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 17 Jul 2026 13:02:11 +0000",
+        "published_dt": "2026-07-17T13:02:11+00:00",
+        "summary": "The number of active medication shortages in the U.S. rose to 227 in the second quarter of 2026"
+      },
+      {
+        "id": "0a11b96971a49ffd",
+        "title": "STAT+: Up and down the ladder: The latest comings and goings",
+        "url": "https://www.statnews.com/pharmalot/2026/07/17/up-down-ladder-jobs-comings-goings/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 17 Jul 2026 13:04:34 +0000",
+        "published_dt": "2026-07-17T13:04:34+00:00",
+        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
+      },
+      {
+        "id": "2099002b1c9edeee",
+        "title": "The Download: perimenopause misinformation and China\u2019s latest AI leap",
+        "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 17 Jul 2026 12:10:00 +0000",
+        "published_dt": "2026-07-17T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There\u2019s a lot of hype around perimenopause. Don\u2019t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV doctors and social media influencers,&#8230;"
+      },
+      {
+        "id": "b22097eef513a3d9",
+        "title": "Who can access testosterone hormone medication in the U.S.?",
+        "url": "https://www.statnews.com/2026/07/17/health-news-who-can-access-testosterone-hormone-therapy-in-us/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 17 Jul 2026 11:53:20 +0000",
+        "published_dt": "2026-07-17T11:53:20+00:00",
+        "summary": "Wildfire smoke health hazards, a new idea for treating Duchenne, and more health news from Morning Rounds"
+      },
+      {
+        "id": "d4d9129efdc05958",
+        "title": "STAT+: Can ultrasound unlock the power of gene therapy? A startup makes big claims",
+        "url": "https://www.statnews.com/2026/07/17/sonathera-ultrasound-duchenne-muscular-dystrophy-treatment/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 17 Jul 2026 08:30:00 +0000",
+        "published_dt": "2026-07-17T08:30:00+00:00",
+        "summary": "Sonothera is developing a new way to deliver genes into cells that, if borne out, could have a big impact on muscular dystrophy and other diseases."
+      },
+      {
+        "id": "7f9da5badda365d5",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/5-emerging-biotech-hubs\" hreflang=\"en\">5 emerging biotech hubs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/5-emerging-biotech-hubs",
+        "source": "Fierce Biotech",
+        "published": "Jul 17, 2026 9:37am",
+        "published_dt": "2026-07-17T09:37:00+00:00",
+        "summary": "Boston. San Francisco. Beijing? The global biotech industry has long been concentrated in a handful of cities. But which emerging hubs could become dominant forces in biotech in the decades ahead?"
+      },
+      {
+        "id": "b304d4ea7640d69d",
+        "title": "Predicting biotech clinical trials and a new Alzheimer\u2019s drug controversy",
+        "url": "https://www.statnews.com/2026/07/16/readout-loud-podcast-predicting-clinical-trials-biogen-alzheimers-tau/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 16 Jul 2026 20:06:43 +0000",
+        "published_dt": "2026-07-16T20:06:43+00:00",
+        "summary": "This week on \"The Readout LOUD\" podcast: a new Alzheimer's drug controversy and prediction markets for clinical trials and FDA drug reviews. Listen now."
+      },
       {
         "id": "add9e897a952c8cd",
         "title": "STAT+: FDA approves Merck\u2019s oral PCSK9 drug, a first",
@@ -10,15 +73,6 @@
         "published": "Thu, 16 Jul 2026 13:04:36 +0000",
         "published_dt": "2026-07-16T13:04:36+00:00",
         "summary": "Kalshi allows bets on clinical trial outcomes, Eli Lilly buys a psychedelic medicine, and more biotech news from The Readout"
-      },
-      {
-        "id": "7c49c5a7424975ec",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about Kalshi bets on clinical trials, a Merck cholesterol pill, and more",
-        "url": "https://www.statnews.com/pharmalot/2026/07/16/kalshi-bets-on-clinical-trials-merck-cholesterol-pill/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 16 Jul 2026 13:14:44 +0000",
-        "published_dt": "2026-07-16T13:14:44+00:00",
-        "summary": "Kalshi, one of the world\u2019s largest prediction market exchanges, plans to take bets on clinical trials and regulatory approvals"
       },
       {
         "id": "19b93558d0e0967a",
@@ -30,94 +84,103 @@
         "summary": "Prediction markets have permeated the worlds of sports, politics, and reality television shows. Now, the biopharma industry could be next."
       },
       {
-        "id": "307a241c676df51b",
-        "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-        "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+        "id": "e2487889850d42ea",
+        "title": "There\u2019s a lot of hype around perimenopause. Don\u2019t buy it.",
+        "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
         "source": "MIT Technology Review",
-        "published": "Thu, 16 Jul 2026 12:10:00 +0000",
-        "published_dt": "2026-07-16T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other&#8230;"
+        "published": "Fri, 17 Jul 2026 09:00:00 +0000",
+        "published_dt": "2026-07-17T09:00:00+00:00",
+        "summary": "Perimenopause has entered the chat. Perimenopause\u2014and its better-known relative, menopause\u2014used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it\u2019s my age, but these days, both my algorithm and my conversations with friends increasingly swing toward perimenopause. Menopause is defined as the life stage that&#8230;"
       },
       {
-        "id": "e9f1dc89e7d5e5e1",
-        "title": "STAT+: Eli Lilly to acquire psychedelics-focused biotech AtaiBeckley",
-        "url": "https://www.statnews.com/2026/07/16/eli-lilly-acquire-ataibeckley-psychedelics-depression/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 16 Jul 2026 11:28:27 +0000",
-        "published_dt": "2026-07-16T11:28:27+00:00",
-        "summary": "Eli Lilly is buying the psychedelics-focused biotech AtaiBeckley for $2.8 billion upfront, a move that will expand its neuroscience pipeline."
-      },
-      {
-        "id": "35eecdd79037c650",
-        "title": "STAT+: Spring forward forever?\u00a0Another daylight saving debate arrives in Congress",
-        "url": "https://www.statnews.com/2026/07/16/health-news-another-daylight-savings-debate-arrives-in-congress/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 16 Jul 2026 11:09:27 +0000",
-        "published_dt": "2026-07-16T11:09:27+00:00",
-        "summary": "Trump's pandemic preparedness nominee testifies, the \"fang-to-pharmacy\" pipeline, and more health news from Morning Rounds"
-      },
-      {
-        "id": "d981d48f4a5fb39b",
-        "title": "STAT+: Amylyx nears pivotal endocrine drug study readout",
-        "url": "https://www.statnews.com/2026/07/16/amylyx-bph-avexitide-biogen-diranersen-agios/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 16 Jul 2026 10:30:00 +0000",
-        "published_dt": "2026-07-16T10:30:00+00:00",
-        "summary": "Amylyx Pharmaceuticals will soon read out results from a study evaluating a new treatment for a rare endocrine disorder, a pivotal moment for patients and the company."
-      },
-      {
-        "id": "aa4e48816a6961a0",
-        "title": "Why heat pumps are still so hot in the US",
-        "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
+        "id": "e54facadb8b94f8d",
+        "title": "The risk of weather data sabotage is rising",
+        "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
         "source": "MIT Technology Review",
-        "published": "Thu, 16 Jul 2026 10:00:00 +0000",
-        "published_dt": "2026-07-16T10:00:00+00:00",
-        "summary": "It feels as if it should be illegal to even think about heating appliances during the height of summer\u2014seriously, these heat waves in New York have been brutal\u2014but we need to talk about heat pumps. The appliances use electricity for heating, they\u2019re incredibly efficient, and they\u2019re on the rise. (For what it\u2019s worth, many heat&#8230;"
+        "published": "Fri, 17 Jul 2026 08:57:32 +0000",
+        "published_dt": "2026-07-17T08:57:32+00:00",
+        "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives at stake. Farmers use&#8230;"
       },
       {
-        "id": "6fc168785573011e",
-        "title": "STAT+: CMS signals intent to revamp how it pays for clinical software and AI",
-        "url": "https://www.statnews.com/2026/07/16/cms-to-revamp-payments-for-clinical-software-ai/?utm_campaign=rss",
+        "id": "30fe6c3f56ed920b",
+        "title": "Why affirming trans identities can be critical for suicide prevention counseling",
+        "url": "https://www.statnews.com/2026/07/17/trevor-project-suicide-prevention-counseling-for-trans-youth/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Thu, 16 Jul 2026 08:30:00 +0000",
-        "published_dt": "2026-07-16T08:30:00+00:00",
-        "summary": "CMS wants to build a standardized payment structure for clinical software and AI that factors in their impact on patient outcomes."
+        "published": "Fri, 17 Jul 2026 08:30:00 +0000",
+        "published_dt": "2026-07-17T08:30:00+00:00",
+        "summary": "Advocates worry that excluding trans youth in some way from LGBTQ+ counseling services provided through the 988 crisis line could be harmful."
       },
       {
-        "id": "b5be4d7e0132cbcb",
-        "title": "Opinion: Medicaid and SNAP cuts are exacerbating the intertwined problems of hunger and mental illness",
-        "url": "https://www.statnews.com/2026/07/16/snap-cuts-mental-illness-hunger-psychiatric-emergency/?utm_campaign=rss",
+        "id": "0e4ddfa30f3de497",
+        "title": "STAT+: MDCalc is scoring the clinical calculators used by millions of doctors",
+        "url": "https://www.statnews.com/2026/07/17/mdcalc-quality-ratings-clinical-algorithms-for-bias-validity/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Thu, 16 Jul 2026 08:30:00 +0000",
-        "published_dt": "2026-07-16T08:30:00+00:00",
-        "summary": "\u201cNo one built a psychiatric unit to solve hunger,\u201d writes clinical dietician Cole Hanson. But patients come anyway."
+        "published": "Fri, 17 Jul 2026 08:30:00 +0000",
+        "published_dt": "2026-07-17T08:30:00+00:00",
+        "summary": "MDCalc is launching a quality-rating system for the more than 800 clinical calculators used to assess disease risk, transplant eligibility, and more."
       },
       {
-        "id": "42191f371e698a3e",
-        "title": "Opinion: The growing fang-to-pharmacy pipeline",
-        "url": "https://www.statnews.com/2026/07/16/glp-1-weight-loss-drugs-gila-monster-venom-pharmaceuticals/?utm_campaign=rss",
+        "id": "44120df97b01c23c",
+        "title": "Opinion: MAHA is rewriting the vocabulary of American mental health care",
+        "url": "https://www.statnews.com/2026/07/17/maha-mental-health-care-vocabulary-rhetoric-wellness/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Thu, 16 Jul 2026 08:30:00 +0000",
-        "published_dt": "2026-07-16T08:30:00+00:00",
-        "summary": "\u201cSome of the most powerful medicines we will ever find are already here, carried in the fangs, stingers, and saliva of creatures we\u2019ve been taught to fear,\u201d writes Steve Midway."
+        "published": "Fri, 17 Jul 2026 08:30:00 +0000",
+        "published_dt": "2026-07-17T08:30:00+00:00",
+        "summary": "\u201c\u2018Deprescribing\u2019 elevated into a movement, and a cultural default, is a clinical hazard,\u201d writes Sunny Patel."
       },
       {
-        "id": "000e1581827f9044",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lilly-inks-28b-ataibeckley-buyout-challenge-jj-psychedelic-mental-health-market\" hreflang=\"en\">Lilly buys AtaiBeckley for $2.8B upfront to challenge J&amp;J for psychedelic mental health market</a>",
-        "url": "https://www.fiercebiotech.com/biotech/eli-lilly-inks-28b-ataibeckley-buyout-challenge-jj-psychedelic-mental-health-market",
+        "id": "7c49c5a7424975ec",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about Kalshi bets on clinical trials, a Merck cholesterol pill, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/07/16/kalshi-bets-on-clinical-trials-merck-cholesterol-pill/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 16 Jul 2026 13:14:44 +0000",
+        "published_dt": "2026-07-16T13:14:44+00:00",
+        "summary": "Kalshi, one of the world\u2019s largest prediction market exchanges, plans to take bets on clinical trials and regulatory approvals"
+      },
+      {
+        "id": "be7892fa9b5d52ac",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-axes-key-cough-drug-candidate-after-phase-3-data-disappoint\" hreflang=\"en\">GSK axes key cough drug candidate after phase 3 data end blockbuster hopes</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gsk-axes-key-cough-drug-candidate-after-phase-3-data-disappoint",
         "source": "Fierce Biotech",
-        "published": "Jul 16, 2026 7:33am",
-        "published_dt": "2026-07-16T07:33:00+00:00",
-        "summary": "Eli Lilly has struck a deal to buy AtaiBeckley for $2.8 billion upfront, continuing its takeover spree to move into a psychedelic mental health sector targeted by companies including Johnson &amp; Johnson."
+        "published": "Jul 17, 2026 5:47am",
+        "published_dt": "2026-07-17T05:47:00+00:00",
+        "summary": "GSK has ended development of camlipixant in chronic cough after delivering mixed phase 3 data, dealing a major blow to a potential blockbuster that analysts saw as the key 2026 catalyst for the drugmaker."
       },
       {
-        "id": "5a19c33eb6ff6e7b",
-        "title": "STAT+: Celcuity\u2019s breast cancer drug approved, its first",
-        "url": "https://www.statnews.com/2026/07/15/biotech-news-celcuity-breast-cancer-drug-approved-in-a-first/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 15 Jul 2026 15:09:21 +0000",
-        "published_dt": "2026-07-15T15:09:21+00:00",
-        "summary": "FDA's new CBER chief promises normalcy, an weight loss drug without GLP-1s, and more biotech news from The Readout"
+        "id": "fd49fff4383f2294",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/takedas-zasocitinib-proves-top-notch-difficult-treat-psoriasis-phase-3-update\" hreflang=\"en\">Takeda\u2019s zasocitinib proves \u2018top-notch\u2019 for difficult-to-treat psoriasis in phase 3 update</a>",
+        "url": "https://www.fiercebiotech.com/biotech/takedas-zasocitinib-proves-top-notch-difficult-treat-psoriasis-phase-3-update",
+        "source": "Fierce Biotech",
+        "published": "Jul 16, 2026 10:18am",
+        "published_dt": "2026-07-16T10:18:00+00:00",
+        "summary": "Takeda has unveiled more data from its phase 3 trials of zasocitinib, demonstrating that the once-daily pill was able to clear or almost clear scalp psoriasis in 75% of patients."
+      },
+      {
+        "id": "48d02184a572fc43",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/racing-takeda-innocare-reports-tyk2-inhibitor-win-phase-2-vitiligo-trial\" hreflang=\"en\">Racing Takeda, InnoCare reports TYK2 inhibitor win in phase 2 vitiligo trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/racing-takeda-innocare-reports-tyk2-inhibitor-win-phase-2-vitiligo-trial",
+        "source": "Fierce Biotech",
+        "published": "Jul 16, 2026 9:38am",
+        "published_dt": "2026-07-16T09:38:00+00:00",
+        "summary": "A phase 2 trial of InnoCare Pharma\u2019s TYK2 inhibitor soficitinib in nonsegmental vitiligo has hit its primary endpoint, clearing the Chinese biotech to advance into the phase 3 part of the study.<br />"
+      },
+      {
+        "id": "a36c380ff0b483a4",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/dimerix-snaps-missions-stalled-phase-2-ready-kidney-disease-candidate-5m-upfront\" hreflang=\"en\">Dimerix snaps up Mission\u2019s stalled, phase 2-ready kidney disease candidate in $292M deal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/dimerix-snaps-missions-stalled-phase-2-ready-kidney-disease-candidate-5m-upfront",
+        "source": "Fierce Biotech",
+        "published": "Jul 17, 2026 4:52am",
+        "published_dt": "2026-07-17T04:52:00+00:00",
+        "summary": "Dimerix has bought an acute kidney injury drug from Mission Therapeutics, paying $5 million upfront and committing up to $287 million in milestones for the phase 2-ready asset."
+      },
+      {
+        "id": "49d949968bf5519c",
+        "title": "<a href=\"https://www.fiercebiotech.com/research/nobel-laureate-jennifer-doudna-enters-ai-protein-design-arena\" hreflang=\"en\">Nobel Laureate Jennifer Doudna enters AI protein design arena</a>",
+        "url": "https://www.fiercebiotech.com/research/nobel-laureate-jennifer-doudna-enters-ai-protein-design-arena",
+        "source": "Fierce Biotech",
+        "published": "Jul 15, 2026 3:32pm",
+        "published_dt": "2026-07-15T15:32:00+00:00",
+        "summary": "Jennifer Doudna, Ph.D., the Nobel Laureate best known for co-inventing the CRISPR system that has become the foundation for gene-editing, is dipping her toes into a new, buzzy field: AI-powered protein design."
       },
       {
         "id": "0d5e92d696fef5b8",
@@ -127,15 +190,6 @@
         "published": "Jul 15, 2026 10:27am",
         "published_dt": "2026-07-15T10:27:00+00:00",
         "summary": "Johnson &amp; Johnson has stopped development of an eye disease gene therapy after reviewing data from one of its key readouts for 2026."
-      },
-      {
-        "id": "b88908b53f54f251",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/vogenx-joins-ipo-queue-fund-phase-2-stage-metabolic-drug\" hreflang=\"en\">Vogenx joins the IPO queue to fund phase 2-stage metabolic drug</a>",
-        "url": "https://www.fiercebiotech.com/biotech/vogenx-joins-ipo-queue-fund-phase-2-stage-metabolic-drug",
-        "source": "Fierce Biotech",
-        "published": "Jul 16, 2026 5:20am",
-        "published_dt": "2026-07-16T05:20:00+00:00",
-        "summary": "Vogenx has joined the growing queue for the Nasdaq, as the metabolic biotech eyes an IPO to fund its SGLT1 inhibitor."
       },
       {
         "id": "0fc89c1429de5356",
@@ -165,70 +219,214 @@
         "summary": "The first vaccine against the Bundibugyo ebola virus is poised to enter phase 1 clinical trial."
       },
       {
-        "id": "08dd23d038f8a63e",
-        "title": "<a href=\"https://www.fiercebiotech.com/cro/over-half-clinical-trial-sites-seeing-recruitment-hindered-inefficiencies-survey\" hreflang=\"en\">Over half of clinical trial sites see recruitment hindered by inefficiencies: survey</a>",
-        "url": "https://www.fiercebiotech.com/cro/over-half-clinical-trial-sites-seeing-recruitment-hindered-inefficiencies-survey",
-        "source": "Fierce Biotech",
-        "published": "Jul 13, 2026 11:06am",
-        "published_dt": "2026-07-13T11:06:00+00:00",
-        "summary": "A total of 59% of clinical trial sites are seeing fewer eligible patients recruited due to inefficiencies with their recruitment process, according to a recent survey."
-      },
-      {
-        "id": "b8ceb7227ce5699a",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-releases-14-new-drug-rejection-letters-after-transparency-policy-paused-april\" hreflang=\"en\">FDA releases 14 new drug rejection letters after 3-month pause in transparency policy</a>",
-        "url": "https://www.fiercebiotech.com/biotech/fda-releases-14-new-drug-rejection-letters-after-transparency-policy-paused-april",
-        "source": "Fierce Biotech",
-        "published": "Jul 13, 2026 11:02am",
-        "published_dt": "2026-07-13T11:02:00+00:00",
-        "summary": "The FDA has published 14 new rejection letters for drug applications, mere days after confirming to Fierce that a policy of releasing the documents had been paused in April."
-      },
-      {
-        "id": "09b50f9d6e192db1",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/spero-shifts-focus-ii-11b-biobucks-antibody-licensing-deal-innovent-and-105m-raise\" hreflang=\"en\">Spero pivots to I&amp;I with $1.1B deal for Innovent antibody, sells slice of Utebzi royalties for $105M</a>",
-        "url": "https://www.fiercebiotech.com/biotech/spero-shifts-focus-ii-11b-biobucks-antibody-licensing-deal-innovent-and-105m-raise",
-        "source": "Fierce Biotech",
-        "published": "Jul 13, 2026 10:40am",
-        "published_dt": "2026-07-13T10:40:00+00:00",
-        "summary": "Spero Therapeutics is pivoting to immune and inflammation indications through a license agreement for a CD40L antibody with Innovent Biologics in a deal worth up to $1.1 billion."
-      },
-      {
-        "id": "0e39d35d71c0bddd",
-        "title": "Graham\u2019s death from aortic dissection raises questions about preventing the rare disorder",
-        "url": "https://www.statnews.com/2026/07/15/lindsey-graham-death-aortic-dissection-risk-prediction-warning-signs/?utm_campaign=rss",
+        "id": "ac1c8879645a8431",
+        "title": "STAT+: Fresh turmoil roils American Diabetes Association following controversy at conference",
+        "url": "https://www.statnews.com/2026/07/16/american-diabetes-association-annual-conference-controversy-continues/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Wed, 15 Jul 2026 23:02:48 +0000",
-        "published_dt": "2026-07-15T23:02:48+00:00",
-        "summary": "When the body\u2019s most important blood vessel tears from the inside, it\u2019s a medical emergency that can be years in the making."
-      },
-      {
-        "id": "7e3f544b7d969c33",
-        "title": "STAT+: At key hearing, Kennedy\u2019s ouster of former CDC director looms over nominee to replace her",
-        "url": "https://www.statnews.com/2026/07/15/schwartz-kaufman-senate-confirmation-hearing-key-takeaways/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 15 Jul 2026 20:26:04 +0000",
-        "published_dt": "2026-07-15T20:26:04+00:00",
-        "summary": "Erica Schwartz and Sean Kaufman navigated tough questions about vaccines, political independence, and pushing back on RFK Jr."
-      },
-      {
-        "id": "0e4ee8e42f7b39e9",
-        "title": "STAT+: New study untangles how Epstein-Barr viral infection triggers immune response in multiple sclerosis",
-        "url": "https://www.statnews.com/2026/07/15/epstein-barr-virus-immune-response-multiple-sclerosis-new-study/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 15 Jul 2026 18:17:51 +0000",
-        "published_dt": "2026-07-15T18:17:51+00:00",
-        "summary": "A new study claims to have uncovered how Epstein-Barr virus launches immune responses seen in people with multiple sclerosis."
-      },
-      {
-        "id": "bda6f5ad0ba4e80d",
-        "title": "STAT+: Improvements in Alzheimer\u2019s testing could make diagnostics more accessible, informative",
-        "url": "https://www.statnews.com/2026/07/15/aaic-in-30-alzheimers-treaatments-dementia-conference-diagnostics-treatments/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 15 Jul 2026 18:08:44 +0000",
-        "published_dt": "2026-07-15T18:08:44+00:00",
-        "summary": "Alzheimer's research is moving in new directions, finding ways to make testing much more accessible, and offering more nuanced results."
+        "published": "Thu, 16 Jul 2026 21:38:04 +0000",
+        "published_dt": "2026-07-16T21:38:04+00:00",
+        "summary": "Turmoil at the ADA has taken a fresh turn, with leaders blocking editors at its flagship journal from publishing pieces detailing a controversy at the group\u2019s annual meeting."
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "24a5ade58a32fc76",
+        "title": "SpaceX\u2019s only problem is finding more space to work with",
+        "url": "https://spacenews.com/spacexs-only-problem-is-finding-more-space-to-work-with/",
+        "source": "SpaceNews",
+        "published": "Fri, 17 Jul 2026 13:00:00 +0000",
+        "published_dt": "2026-07-17T13:00:00+00:00",
+        "summary": "<figure><img alt=\"Illustration of satellite coverage for telecommunications services.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"761\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2021/04/megaconstellation-coverage-ESA-science-office.jpg?fit=1024%2C761&amp;ssl=1\" width=\"1024\" /></figure>\n<p>SpaceX\u2019s IPO marks the moment the space dream became a mainstream capital markets story. For decades, it has sold a vision of interplanetary civilization on behalf of the wider space [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/spacexs-only-problem-is-finding-more-space-to-work-with/\">SpaceX\u2019s only problem is finding more space to work with</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "48fccc8e397a0935",
+        "title": "Joint DARPA-Northrop robotic servicing spacecraft to launch in late July",
+        "url": "https://aerospaceamerica.aiaa.org/joint-darpa-northrop-robotic-servicing-spacecraft-to-launch-in-late-july/",
+        "source": "Aerospace America",
+        "published": "Fri, 17 Jul 2026 13:37:26 +0000",
+        "published_dt": "2026-07-17T13:37:26+00:00",
+        "summary": ""
+      },
+      {
+        "id": "e214f30b196fe88d",
+        "title": "PTC recognized in Gartner PLM software report",
+        "url": "https://www.engineering.com/ptc-recognized-in-gartner-plm-software-report/",
+        "source": "Engineering.com",
+        "published": "Fri, 17 Jul 2026 11:38:53 +0000",
+        "published_dt": "2026-07-17T11:38:53+00:00",
+        "summary": "<p>Windchill and Arena were assessed for discrete manufacturing PLM, including product data management and quality workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/ptc-recognized-in-gartner-plm-software-report/\">PTC recognized in Gartner PLM software report</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "76912b3adaeb5871",
+        "title": "NVIDIA and Noetra plan Vera Rubin AI factory in Japan",
+        "url": "https://www.engineering.com/nvidia-and-noetra-plan-vera-rubin-ai-factory-in-japan/",
+        "source": "Engineering.com",
+        "published": "Fri, 17 Jul 2026 11:33:00 +0000",
+        "published_dt": "2026-07-17T11:33:00+00:00",
+        "summary": "<p>The facility will support Japan\u2019s FRONTia Project for multimodal foundation models used in robotics and physical AI.</p>\n<p>The post <a href=\"https://www.engineering.com/nvidia-and-noetra-plan-vera-rubin-ai-factory-in-japan/\">NVIDIA and Noetra plan Vera Rubin AI factory in Japan</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "98b935364d05547a",
+        "title": "Grid Dynamics partners with Doosan Robotics",
+        "url": "https://www.engineering.com/grid-dynamics-partners-with-doosan-robotics/",
+        "source": "Engineering.com",
+        "published": "Fri, 17 Jul 2026 11:13:52 +0000",
+        "published_dt": "2026-07-17T11:13:52+00:00",
+        "summary": "<p>The companies will offer physical AI tools for cobot workflows, robotic line monitoring and digital twin-based optimization.</p>\n<p>The post <a href=\"https://www.engineering.com/grid-dynamics-partners-with-doosan-robotics/\">Grid Dynamics partners with Doosan Robotics</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "aa467491e931fe7b",
+        "title": "Siemens and Cloudberry VC partner on deep-tech startups",
+        "url": "https://www.engineering.com/siemens-and-cloudberry-vc-partner-on-deep-tech-startups/",
+        "source": "Engineering.com",
+        "published": "Fri, 17 Jul 2026 11:05:19 +0000",
+        "published_dt": "2026-07-17T11:05:19+00:00",
+        "summary": "<p>The collaboration will support industrial validation for work in semiconductors, photonics, robotics, AI hardware and sensing.</p>\n<p>The post <a href=\"https://www.engineering.com/siemens-and-cloudberry-vc-partner-on-deep-tech-startups/\">Siemens and Cloudberry VC partner on deep-tech startups</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "e72c4d777313ae03",
+        "title": "Siemens Energy to transition to Omterra brand",
+        "url": "https://www.engineering.com/siemens-energy-to-transition-to-omterra-brand/",
+        "source": "Engineering.com",
+        "published": "Fri, 17 Jul 2026 11:26:20 +0000",
+        "published_dt": "2026-07-17T11:26:20+00:00",
+        "summary": "<p>The rebrand follows the 2020 spin-off from Siemens AG and a time-limited agreement to use the Siemens Energy name.</p>\n<p>The post <a href=\"https://www.engineering.com/siemens-energy-to-transition-to-omterra-brand/\">Siemens Energy to transition to Omterra brand</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "e312bbf78569821e",
+        "title": "Maya HTT acquires Friendship Systems",
+        "url": "https://www.engineering.com/maya-htt-acquires-friendship-systems/",
+        "source": "Engineering.com",
+        "published": "Fri, 17 Jul 2026 11:19:31 +0000",
+        "published_dt": "2026-07-17T11:19:31+00:00",
+        "summary": "<p>The deal adds CAESES software for parametric geometry, design automation and simulation-driven optimization workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/maya-htt-acquires-friendship-systems/\">Maya HTT acquires Friendship Systems</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "9f807491251f5469",
+        "title": "Renishaw introduces RMP400S machine tool probe",
+        "url": "https://www.engineering.com/renishaw-introduces-rmp400s-machine-tool-probe/",
+        "source": "Engineering.com",
+        "published": "Fri, 17 Jul 2026 11:14:28 +0000",
+        "published_dt": "2026-07-17T11:14:28+00:00",
+        "summary": "<p>The probe combines touch-trigger measurement, scanning and surface finish verification for on-machine inspection.</p>\n<p>The post <a href=\"https://www.engineering.com/renishaw-introduces-rmp400s-machine-tool-probe/\">Renishaw introduces RMP400S machine tool probe</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "55198f06ac32e389",
+        "title": "Serbia signs the Artemis Accords",
+        "url": "https://spacenews.com/serbia-signs-the-artemis-accords/",
+        "source": "SpaceNews",
+        "published": "Fri, 17 Jul 2026 10:15:48 +0000",
+        "published_dt": "2026-07-17T10:15:48+00:00",
+        "summary": "<figure><img alt=\"Serbia AA signing\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/55398808195_7d36a4bcd4_k.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Serbia is the latest nation to sign the Artemis Accords, joining the U.S.-led effort more than two years after signing on to China\u2019s lunar base project.</p>\n<p>The post <a href=\"https://spacenews.com/serbia-signs-the-artemis-accords/\">Serbia signs the Artemis Accords</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "90c468fe895b7a45",
+        "title": "New Frontier Aerospace plans sales of 3D-printed hypersonic rocket engine",
+        "url": "https://aerospaceamerica.aiaa.org/new-frontier-aerospace-plans-sales-of-3d-printed-hypersonic-rocket-engine/",
+        "source": "Aerospace America",
+        "published": "Tue, 14 Jul 2026 19:00:00 +0000",
+        "published_dt": "2026-07-14T19:00:00+00:00",
+        "summary": ""
+      },
+      {
+        "id": "159946cb23621e30",
+        "title": "In conversation with AMUG\u2019s new president",
+        "url": "https://www.engineering.com/in-conversation-with-amugs-new-president/",
+        "source": "Engineering.com",
+        "published": "Thu, 16 Jul 2026 18:59:43 +0000",
+        "published_dt": "2026-07-16T18:59:43+00:00",
+        "summary": "<p>William \u201cDallas\u201d Martin discusses the past, present, and future of additive manufacturing.</p>\n<p>The post <a href=\"https://www.engineering.com/in-conversation-with-amugs-new-president/\">In conversation with AMUG\u2019s new president</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "936d124d1711e202",
+        "title": "Swissto12 raises $70 million to accelerate small GEO satellite production",
+        "url": "https://spacenews.com/swissto12-raises-70-million-to-accelerate-small-geo-satellite-production/",
+        "source": "SpaceNews",
+        "published": "Thu, 16 Jul 2026 07:00:00 +0000",
+        "published_dt": "2026-07-16T07:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"577\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/SWISSto12_SeriesC-scaled.jpg?fit=1024%2C577&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Swissto12 said it has raised $70 million in fresh funding to keep up with growing demand for its small geostationary satellite manufacturing business.</p>\n<p>The post <a href=\"https://spacenews.com/swissto12-raises-70-million-to-accelerate-small-geo-satellite-production/\">Swissto12 raises $70 million to accelerate small GEO satellite production</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "e77cf1f60f636810",
+        "title": "Icarus Robotics taps KULR to provide batteries for Space Station robots",
+        "url": "https://spacenews.com/icarus-robotics-taps-kulr-to-provide-batteries-for-space-station-robots/",
+        "source": "SpaceNews",
+        "published": "Wed, 15 Jul 2026 13:00:00 +0000",
+        "published_dt": "2026-07-15T13:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"493\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rsz_image_3-26-26_at_459-pm_1.jpg?fit=879%2C493&amp;ssl=1\" width=\"879\" /></figure>\n<p>NAPA, Calif. \u2013 Icarus Robotics, the New York startup developing dexterous mobile robots for space missions, selected KULR Technology Group to provide batteries for Joy, a free-flying platform destined for [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/icarus-robotics-taps-kulr-to-provide-batteries-for-space-station-robots/\">Icarus Robotics taps KULR to provide batteries for Space Station robots</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "8d83bfbf67a0b83d",
+        "title": "SpaceX aborts Starship Flight 13 launch attempt",
+        "url": "https://spacenews.com/spacex-aborts-starship-flight-13-launch-attempt/",
+        "source": "SpaceNews",
+        "published": "Fri, 17 Jul 2026 00:40:05 +0000",
+        "published_dt": "2026-07-17T00:40:05+00:00",
+        "summary": "<figure><img alt=\"Starship Flight 13 scrub\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"571\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/starship-lft13-scrub.jpeg?fit=1024%2C571&amp;ssl=1\" width=\"1024\" /></figure>\n<p>SpaceX aborted the launch of its latest Starship test flight July 16 when some of the vehicle\u2019s engines failed to ignite.</p>\n<p>The post <a href=\"https://spacenews.com/spacex-aborts-starship-flight-13-launch-attempt/\">SpaceX aborts Starship Flight 13 launch attempt</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "c74be594f99c370e",
+        "title": "SpaceX launches 21 satellites for military data network",
+        "url": "https://spacenews.com/spacex-launches-21-satellites-for-military-data-network/",
+        "source": "SpaceNews",
+        "published": "Thu, 16 Jul 2026 21:00:10 +0000",
+        "published_dt": "2026-07-16T21:00:10+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"762\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-10.32.57-PM.png?fit=1024%2C762&amp;ssl=1\" width=\"1024\" /></figure>\n<p>With the launch of 21 York Space Systems satellites, the Space Development Agency has now placed half of its planned Tranche 1 Transport Layer constellation in orbit</p>\n<p>The post <a href=\"https://spacenews.com/spacex-launches-21-satellites-for-military-data-network/\">SpaceX launches 21 satellites for military data network\u00a0</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "bad5a25d0556690f",
+        "title": "APL installing electronics, readying to add insulation on NASA\u2019s Dragonfly spacecraft",
+        "url": "https://aerospaceamerica.aiaa.org/apl-installing-electronics-readying-to-add-insulation-on-nasas-dragonfly-spacecraft/",
+        "source": "Aerospace America",
+        "published": "Thu, 16 Jul 2026 20:55:56 +0000",
+        "published_dt": "2026-07-16T20:55:56+00:00",
+        "summary": ""
+      },
+      {
+        "id": "612e864575565fc6",
+        "title": "Nature study identifies a new way to spot nuclear weapons in orbit",
+        "url": "https://spacenews.com/nature-study-identifies-a-new-way-to-spot-nuclear-weapons-in-orbit/",
+        "source": "SpaceNews",
+        "published": "Thu, 16 Jul 2026 20:36:12 +0000",
+        "published_dt": "2026-07-16T20:36:12+00:00",
+        "summary": "<figure><img alt=\"Russia&#039;s Kosmos-2553 spacecraft, alleged to be part of a nuclear weapons program, prior to launch. Credit: Ministry of Defense of the Russian Federation\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/cosmos-2553.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NEW YORK \u2014 A study published last week in Nature Astronomy has proposed a new satellite design and technique to detect thermonuclear warheads in space. Funded in part by the [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/nature-study-identifies-a-new-way-to-spot-nuclear-weapons-in-orbit/\">Nature study identifies a new way to spot nuclear weapons in orbit</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "4bf64e02377a9874",
+        "title": "Senate Armed Services Committee moves to codify new defense innovation advisory board",
+        "url": "https://aerospaceamerica.aiaa.org/senate-armed-services-committee-moves-to-codify-new-defense-innovation-advisory-board/",
+        "source": "Aerospace America",
+        "published": "Thu, 16 Jul 2026 16:00:00 +0000",
+        "published_dt": "2026-07-16T16:00:00+00:00",
+        "summary": ""
+      },
+      {
+        "id": "909d5625fa39698c",
+        "title": "Defense Innovation Unit seeks commercial path to deliver electrical power from orbit",
+        "url": "https://spacenews.com/defense-innovation-unit-seeks-commercial-path-to-deliver-electrical-power-from-orbit/",
+        "source": "SpaceNews",
+        "published": "Thu, 16 Jul 2026 15:29:45 +0000",
+        "published_dt": "2026-07-16T15:29:45+00:00",
+        "summary": "<figure><img alt=\"Star Catcher grid\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/starcatcher-grid.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>DIU solicitation aims to move long-studied technology toward military use by fiscal 2030</p>\n<p>The post <a href=\"https://spacenews.com/defense-innovation-unit-seeks-commercial-path-to-deliver-electrical-power-from-orbit/\">Defense Innovation Unit seeks commercial path to deliver electrical power from orbit</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "2409d5c88cd00656",
+        "title": "Building the infrastructure for a shifting space economy with Massi Ladovaz",
+        "url": "https://spacenews.com/building-the-infrastructure-for-a-shifting-space-economy-with-massi-ladovaz/",
+        "source": "SpaceNews",
+        "published": "Thu, 16 Jul 2026 15:24:00 +0000",
+        "published_dt": "2026-07-16T15:24:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/space-minds-podcast-spinlaunch-2000-1500.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>In this episode, David Ariosto speaks with SpinLaunch CEO Massi Ladovaz. They discuss what attracted Ladovaz to reimagining how to launch spacecraft, the changing needs and challenges of building constellations [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/building-the-infrastructure-for-a-shifting-space-economy-with-massi-ladovaz/\">Building the infrastructure for a shifting space economy with Massi Ladovaz</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "5e2117d3931ab08b",
+        "title": "Trump\u2019s pick to lead Space Force defends plan to more than double budget",
+        "url": "https://spacenews.com/trumps-pick-to-lead-space-force-defends-plan-to-more-than-double-budget/",
+        "source": "SpaceNews",
+        "published": "Thu, 16 Jul 2026 15:03:16 +0000",
+        "published_dt": "2026-07-16T15:03:16+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"571\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-3.39.50-PM.png?fit=1024%2C571&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Lt. Gen. Douglas Schiess, to be the next chief of space operations of the U.S. Space Force, testified July 16 before the Senate Armed Services Committee in a confirmation hearing</p>\n<p>The post <a href=\"https://spacenews.com/trumps-pick-to-lead-space-force-defends-plan-to-more-than-double-budget/\">Trump&#8217;s pick to lead Space Force defends plan to more than double budget</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
       {
         "id": "22530b29f080c536",
         "title": "Siemens expands Saskatoon R&D hub for EDA work",
@@ -237,15 +435,6 @@
         "published": "Thu, 16 Jul 2026 12:48:52 +0000",
         "published_dt": "2026-07-16T12:48:52+00:00",
         "summary": "<p>The added 10,000 sq ft will support AI software development for advanced semiconductor design and verification.</p>\n<p>The post <a href=\"https://www.engineering.com/siemens-expands-saskatoon-rd-hub-for-eda-work/\">Siemens expands Saskatoon R&amp;D hub for EDA work</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "a9a176a9589541ad",
-        "title": "NVIDIA supports AI development in Japan with Nemotron",
-        "url": "https://www.engineering.com/nvidia-supports-ai-development-in-japan-with-nemotron/",
-        "source": "Engineering.com",
-        "published": "Thu, 16 Jul 2026 12:17:57 +0000",
-        "published_dt": "2026-07-16T12:17:57+00:00",
-        "summary": "<p>Japanese companies are using open models and datasets for language, telecom, energy, manufacturing and enterprise workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/nvidia-supports-ai-development-in-japan-with-nemotron/\">NVIDIA supports AI development in Japan with Nemotron</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "f0152a802a14d41f",
@@ -264,207 +453,9 @@
         "published": "Thu, 16 Jul 2026 12:06:00 +0000",
         "published_dt": "2026-07-16T12:06:00+00:00",
         "summary": "<figure><img alt=\"Jordan\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/jordan-housesci260715.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The Office of Space Commerce defended its proposal for a mission authorization scheme for novel space activities, arguing it would provide certainty for companies while limiting regulatory burdens.</p>\n<p>The post <a href=\"https://spacenews.com/office-of-space-commerce-makes-its-case-for-mission-authorization/\">Office of Space Commerce makes its case for mission authorization</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "6a5900a812923933",
-        "title": "Bluestaq Launches BLUESTAQ / ARQ Defense-Grade Data Infrastructure Now Available for Commercial, Government, and Enterprise Organizations",
-        "url": "https://spacenews.com/bluestaq-launches-bluestaq-arq-defense-grade-data-infrastructure-now-available-for-commercial-government-and-enterprise-organizations/",
-        "source": "SpaceNews",
-        "published": "Thu, 16 Jul 2026 12:00:00 +0000",
-        "published_dt": "2026-07-16T12:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"239\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/TM-STAQ.png?fit=262%2C239&amp;ssl=1\" width=\"262\" /></figure>\n<p>COLORADO SPRINGS, CO, July 16, 2026 &#8211; Bluestaq today announced the launch of BLUESTAQ / ARQ, the company&#8217;s commercial data infrastructure platform.&#160; / ARQ is built for organizations in healthcare, [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/bluestaq-launches-bluestaq-arq-defense-grade-data-infrastructure-now-available-for-commercial-government-and-enterprise-organizations/\">Bluestaq Launches BLUESTAQ / ARQ Defense-Grade Data Infrastructure Now Available for Commercial, Government, and Enterprise Organizations</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "7154a9205411208d",
-        "title": "Cadence introduces AuraStack AI Super Agent",
-        "url": "https://www.engineering.com/cadence-introduces-aurastack-ai-super-agent/",
-        "source": "Engineering.com",
-        "published": "Thu, 16 Jul 2026 11:12:00 +0000",
-        "published_dt": "2026-07-16T11:12:00+00:00",
-        "summary": "<p>The platform coordinates AI agents across planning, implementation and multiphysics analysis for PCB and packaging design.</p>\n<p>The post <a href=\"https://www.engineering.com/cadence-introduces-aurastack-ai-super-agent/\">Cadence introduces AuraStack AI Super Agent</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "865f8bb3c8c1058f",
-        "title": "FEATool Multiphysics update improves CFD workflows",
-        "url": "https://www.engineering.com/featool-multiphysics-update-improves-cfd-workflows/",
-        "source": "Engineering.com",
-        "published": "Thu, 16 Jul 2026 11:09:10 +0000",
-        "published_dt": "2026-07-16T11:09:10+00:00",
-        "summary": "<p>Version 1.18.1 adds pressure normalization, mean pressure outflow options and a heat-transfer optimization example.</p>\n<p>The post <a href=\"https://www.engineering.com/featool-multiphysics-update-improves-cfd-workflows/\">FEATool Multiphysics update improves CFD workflows</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "027d383d5d005bdb",
-        "title": "Supermicro expands rear door heat exchanger portfolio",
-        "url": "https://www.engineering.com/supermicro-expands-rear-door-heat-exchanger-portfolio/",
-        "source": "Engineering.com",
-        "published": "Thu, 16 Jul 2026 10:50:29 +0000",
-        "published_dt": "2026-07-16T10:50:29+00:00",
-        "summary": "<p>The RDHx lineup supports 10kW to 120kW per rack for AI and HPC cooling in new or existing data centers.</p>\n<p>The post <a href=\"https://www.engineering.com/supermicro-expands-rear-door-heat-exchanger-portfolio/\">Supermicro expands rear door heat exchanger portfolio</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "92bfe33e5fd2e53f",
-        "title": "3M and Microsoft partner on AI data center infrastructure",
-        "url": "https://www.engineering.com/3m-and-microsoft-partner-on-ai-data-center-infrastructure/",
-        "source": "Engineering.com",
-        "published": "Thu, 16 Jul 2026 10:41:32 +0000",
-        "published_dt": "2026-07-16T10:41:32+00:00",
-        "summary": "<p>Azure will deploy 3M\u2019s expanded beam optical technology to support fiber connections in dense cloud environments.</p>\n<p>The post <a href=\"https://www.engineering.com/3m-and-microsoft-partner-on-ai-data-center-infrastructure/\">3M and Microsoft partner on AI data center infrastructure</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "e5586c405d4851a8",
-        "title": "MathWorks adds tools for agent-driven MATLAB workflows",
-        "url": "https://www.engineering.com/mathworks-adds-tools-for-agent-driven-matlab-workflows/",
-        "source": "Engineering.com",
-        "published": "Thu, 16 Jul 2026 10:34:47 +0000",
-        "published_dt": "2026-07-16T10:34:47+00:00",
-        "summary": "<p>New open-source tools let AI agents run MATLAB code, review outputs and errors, and refine workflows through iteration.</p>\n<p>The post <a href=\"https://www.engineering.com/mathworks-adds-tools-for-agent-driven-matlab-workflows/\">MathWorks adds tools for agent-driven MATLAB workflows</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "936d124d1711e202",
-        "title": "Swissto12 raises $70 million to accelerate small GEO satellite production",
-        "url": "https://spacenews.com/swissto12-raises-70-million-to-accelerate-small-geo-satellite-production/",
-        "source": "SpaceNews",
-        "published": "Thu, 16 Jul 2026 07:00:00 +0000",
-        "published_dt": "2026-07-16T07:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"577\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/SWISSto12_SeriesC-scaled.jpg?fit=1024%2C577&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Swissto12 said it has raised $70 million in fresh funding to keep up with growing demand for its small geostationary satellite manufacturing business.</p>\n<p>The post <a href=\"https://spacenews.com/swissto12-raises-70-million-to-accelerate-small-geo-satellite-production/\">Swissto12 raises $70 million to accelerate small GEO satellite production</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "90c468fe895b7a45",
-        "title": "New Frontier Aerospace plans sales of 3D-printed hypersonic rocket engine",
-        "url": "https://aerospaceamerica.aiaa.org/new-frontier-aerospace-plans-sales-of-3d-printed-hypersonic-rocket-engine/",
-        "source": "Aerospace America",
-        "published": "Tue, 14 Jul 2026 19:00:00 +0000",
-        "published_dt": "2026-07-14T19:00:00+00:00",
-        "summary": ""
-      },
-      {
-        "id": "e77cf1f60f636810",
-        "title": "Icarus Robotics taps KULR to provide batteries for Space Station robots",
-        "url": "https://spacenews.com/icarus-robotics-taps-kulr-to-provide-batteries-for-space-station-robots/",
-        "source": "SpaceNews",
-        "published": "Wed, 15 Jul 2026 13:00:00 +0000",
-        "published_dt": "2026-07-15T13:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"493\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rsz_image_3-26-26_at_459-pm_1.jpg?fit=879%2C493&amp;ssl=1\" width=\"879\" /></figure>\n<p>NAPA, Calif. \u2013 Icarus Robotics, the New York startup developing dexterous mobile robots for space missions, selected KULR Technology Group to provide batteries for Joy, a free-flying platform destined for [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/icarus-robotics-taps-kulr-to-provide-batteries-for-space-station-robots/\">Icarus Robotics taps KULR to provide batteries for Space Station robots</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "8e6da0fe2c26e19c",
-        "title": "Office of Space Commerce\u2019s new authorization framework should balance innovation with safety, lawmakers say",
-        "url": "https://aerospaceamerica.aiaa.org/office-of-space-commerces-new-authorization-framework-should-balance-innovation-with-safety-lawmakers-say/",
-        "source": "Aerospace America",
-        "published": "Wed, 15 Jul 2026 19:05:46 +0000",
-        "published_dt": "2026-07-15T19:05:46+00:00",
-        "summary": ""
-      },
-      {
-        "id": "b25850194869c333",
-        "title": "Space Force awards Slingshot $69 million for AI-enabled training technology",
-        "url": "https://spacenews.com/space-force-awards-slingshot-69-million-for-ai-enabled-training-technology/",
-        "source": "SpaceNews",
-        "published": "Wed, 15 Jul 2026 19:04:17 +0000",
-        "published_dt": "2026-07-15T19:04:17+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"684\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Split_Talos_Satellite_safe_large_notcompressed.jpg?fit=1024%2C684&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The 4\u00bd-year award will fund simulated satellite-defense scenarios </p>\n<p>The post <a href=\"https://spacenews.com/space-force-awards-slingshot-69-million-for-ai-enabled-training-technology/\">Space Force awards Slingshot $69 million for AI-enabled training technology</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "ad57163cd0cb66e3",
-        "title": "Saltzman\u2019s farewell warning: Prepare for war in space to preserve peace",
-        "url": "https://spacenews.com/saltzmans-farewell-warning-prepare-for-war-in-space-to-preserve-peace/",
-        "source": "SpaceNews",
-        "published": "Wed, 15 Jul 2026 18:14:20 +0000",
-        "published_dt": "2026-07-15T18:14:20+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"498\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-2.53.21-PM-e1784138636569.png?fit=1024%2C498&amp;ssl=1\" width=\"1024\" /></figure>\n<p>In his final public speech as Space Force chief, Gen. Chance Saltzman called for combat credibility, stronger alliances and realism about the limits of procurement reform</p>\n<p>The post <a href=\"https://spacenews.com/saltzmans-farewell-warning-prepare-for-war-in-space-to-preserve-peace/\">Saltzman\u2019s farewell warning: Prepare for war in space to preserve peace</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "c41498345d3ef216",
-        "title": "Commercial Space Federation Launches State and Local Council to Align States on National Space Capacity and Strengthen the U.S. Industrial Base",
-        "url": "https://spacenews.com/commercial-space-federation-launches-state-and-local-council-to-align-states-on-national-space-capacity-and-strengthen-the-u-s-industrial-base/",
-        "source": "SpaceNews",
-        "published": "Wed, 15 Jul 2026 18:00:00 +0000",
-        "published_dt": "2026-07-15T18:00:00+00:00",
-        "summary": "<figure><img alt=\"Commercial Space Federation 20th anniversary logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"883\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Anniversary-Logo.jpg?fit=1024%2C883&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Washington, D.C. \u2014 July 15, 2026 \u2014 The Commercial Space Federation (CSF), the leading trade association representing the commercial space industry, today announced the launch of its State and Local [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/commercial-space-federation-launches-state-and-local-council-to-align-states-on-national-space-capacity-and-strengthen-the-u-s-industrial-base/\">Commercial Space Federation Launches State and Local Council to Align States on National Space Capacity and Strengthen the U.S. Industrial Base</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "8d8937ed2a171539",
-        "title": "SDA to resume satellite launches this week after months-long pause, agency chief says",
-        "url": "https://aerospaceamerica.aiaa.org/sda-to-resume-satellite-launches-this-week-after-months-long-pause-agency-chief-says/",
-        "source": "Aerospace America",
-        "published": "Wed, 15 Jul 2026 16:02:28 +0000",
-        "published_dt": "2026-07-15T16:02:28+00:00",
-        "summary": ""
-      },
-      {
-        "id": "6a171911ef5396d1",
-        "title": "Industrial Automation Accelerates with Increased Capital Spending",
-        "url": "https://www.engineering.com/industrial-automation-accelerates-with-increased-capital-spending/",
-        "source": "Engineering.com",
-        "published": "Wed, 15 Jul 2026 16:00:00 +0000",
-        "published_dt": "2026-07-15T16:00:00+00:00",
-        "summary": "<p>Roland Berger reports that 2026 is the start of 5 years of strong growth as manufacturers are forced to move from traditional automation toward intelligent systems.</p>\n<p>The post <a href=\"https://www.engineering.com/industrial-automation-accelerates-with-increased-capital-spending/\">Industrial Automation Accelerates with Increased Capital Spending\u00a0</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "664a7f57a3ff0542",
-        "title": "Remote supervisors can oversee three autonomous aircraft at a time, Wisk study concludes",
-        "url": "https://aerospaceamerica.aiaa.org/remote-supervisors-can-oversee-three-autonomous-aircraft-at-a-time-wisk-study-concludes/",
-        "source": "Aerospace America",
-        "published": "Wed, 15 Jul 2026 15:00:00 +0000",
-        "published_dt": "2026-07-15T15:00:00+00:00",
-        "summary": ""
-      },
-      {
-        "id": "75bb3cba42671e6e",
-        "title": "Startup working with University of Texas focuses on trapping small debris",
-        "url": "https://spacenews.com/new-startup-working-with-university-of-texas-seeks-to-trap-small-debris/",
-        "source": "SpaceNews",
-        "published": "Wed, 15 Jul 2026 14:00:00 +0000",
-        "published_dt": "2026-07-15T14:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"659\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_jones_felt_signing.jpg?fit=879%2C659&amp;ssl=1\" width=\"879\" /></figure>\n<p>NAPA, Calif. \u2013 Florida startup Satellite Orbital Access and Removal (SOAR) announced a partnership July 15 with the University of Texas, El Paso, (UTEP) to develop a passive system to [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/new-startup-working-with-university-of-texas-seeks-to-trap-small-debris/\">Startup working with University of Texas focuses on trapping small debris</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "6672cbb27af3dd5e",
-        "title": "Laying the groundwork for the first human mission to Mars",
-        "url": "https://spacenews.com/laying-the-groundwork-for-the-first-human-mission-to-mars/",
-        "source": "SpaceNews",
-        "published": "Wed, 15 Jul 2026 13:00:00 +0000",
-        "published_dt": "2026-07-15T13:00:00+00:00",
-        "summary": "<figure><img alt=\"Illustration representing NASA&#039;s moon-to-Mars ambitions. Credit: NASA\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/moon-to-mars-scaled.png?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Sending humans to Mars and returning them safely to Earth would be one of the most complex endeavors that humans have ever carried out. The number of issues that must [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/laying-the-groundwork-for-the-first-human-mission-to-mars/\">Laying the groundwork for the first human mission to Mars</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "ee0ec6448e5f729e",
-        "title": "Satellite investment sets annual record halfway through 2026",
-        "url": "https://spacenews.com/satellite-investment-sets-annual-record-halfway-through-2026/",
-        "source": "SpaceNews",
-        "published": "Wed, 15 Jul 2026 11:06:12 +0000",
-        "published_dt": "2026-07-15T11:06:12+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"508\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Infrastructure-chart-1-1.png?fit=1024%2C508&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Investment in satellite companies reached $8.1 billion in the first half of 2026, already surpassing every previous annual total tracked by early-stage investor Space Capital.</p>\n<p>The post <a href=\"https://spacenews.com/satellite-investment-sets-annual-record-halfway-through-2026/\">Satellite investment sets annual record halfway through 2026</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "b812155441e09318",
-        "title": "PTC adds early-access AI program to Onshape",
-        "url": "https://www.engineering.com/ptc-adds-early-access-ai-program-to-onshape/",
-        "source": "Engineering.com",
-        "published": "Wed, 15 Jul 2026 10:34:05 +0000",
-        "published_dt": "2026-07-15T10:34:05+00:00",
-        "summary": "<p>Onshape Labs includes AI Quick Render, Isaac Sim workflows and planned tools for drawing checks and Text-to-Code-to-CAD.</p>\n<p>The post <a href=\"https://www.engineering.com/ptc-adds-early-access-ai-program-to-onshape/\">PTC adds early-access AI program to Onshape</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "b965c6bc828647b1",
-        "title": "Japan seeks to ramp up launch activity",
-        "url": "https://spacenews.com/japan-seeks-to-ramp-up-launch-activity/",
-        "source": "SpaceNews",
-        "published": "Wed, 15 Jul 2026 10:27:58 +0000",
-        "published_dt": "2026-07-15T10:27:58+00:00",
-        "summary": "<figure><img alt=\"H3 launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/h3-30s.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The Japanese government wants to sharply increase the number of launches despite struggles with both current and new launch vehicles.</p>\n<p>The post <a href=\"https://spacenews.com/japan-seeks-to-ramp-up-launch-activity/\">Japan seeks to ramp up launch activity</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
-      {
-        "id": "48117d557765ad2d",
-        "title": "Can Kevin Warsh\u2019s Fed force 5 reimagine monetary policymaking?",
-        "url": "https://www.economist.com/finance-and-economics/2026/07/16/can-kevin-warshs-fed-force-5-reimagine-monetary-policymaking",
-        "source": "Finance & economics",
-        "published": "Thu, 16 Jul 2026 09:02:38 +0000",
-        "published_dt": "2026-07-16T09:02:38+00:00",
-        "summary": "The new chairman enlists heavy-hitters to fight a handful of gnarly problems"
-      },
       {
         "id": "6f688b66e29160d5",
         "title": "Multi-Project Collaborations -- by Charles Angelucci, Roi Orzach",
@@ -473,15 +464,6 @@
         "published": null,
         "published_dt": null,
         "summary": "We analyze collaborative experimentation across multiple independent domains. Each domain contains infinitely many potential projects with asymmetric benefits. In each period and in each domain, two players can idle, jointly explore a new project, or jointly exploit a known one, with voluntary transfers. For intermediate discount factors, treating domains as independent during experimentation is suboptimal. The optimal experimentation policy exhibits common features of collaborative experimentation: lengthy exploration, temporary project exploitation, recall of past projects, and inefficient initial or terminal idling within certain domains. We connect these findings to research on buyer-supplier dynamics and persistent productivity differences."
-      },
-      {
-        "id": "1030e2607c76e664",
-        "title": "How to shrink the Fed\u2019s $7trn balance-sheet",
-        "url": "https://www.economist.com/finance-and-economics/2026/07/16/how-to-shrink-the-feds-7trn-balance-sheet",
-        "source": "Finance & economics",
-        "published": "Thu, 16 Jul 2026 09:06:46 +0000",
-        "published_dt": "2026-07-16T09:06:46+00:00",
-        "summary": "Kevin Warsh will struggle to reverse the effects of bond-buying"
       },
       {
         "id": "fd333dbe0579c51b",
@@ -572,6 +554,15 @@
         "published": null,
         "published_dt": null,
         "summary": "We interpret exchange rate and yield curve responses to the April 2, 2025 U.S. tariff announcement through the lens of an equilibrium model capturing the portfolio balance mechanism. Disciplined by price elasticities from QE announcements, a 3-12% decline in the demand for dollar bonds (relative to annual U.S. GDP) accounts for the dollar depreciation and rise in dollar yields during this episode. News of a gradual rebalancing out of dollar bonds is consistent with immediate price impact since asset prices are forward-looking. Lower dollar bond demand was accompanied by higher risk aversion, which explains the cross-section of responses across currencies."
+      },
+      {
+        "id": "48117d557765ad2d",
+        "title": "Can Kevin Warsh\u2019s Fed force 5 reimagine monetary policymaking?",
+        "url": "https://www.economist.com/finance-and-economics/2026/07/16/can-kevin-warshs-fed-force-5-reimagine-monetary-policymaking",
+        "source": "Finance & economics",
+        "published": "Thu, 16 Jul 2026 09:02:38 +0000",
+        "published_dt": "2026-07-16T09:02:38+00:00",
+        "summary": "The new chairman enlists heavy-hitters to fight a handful of gnarly problems"
       },
       {
         "id": "add082a21387d9f8",
@@ -680,26 +671,26 @@
         "published": "Mon, 01 Jun 2026 17:16:55 +0000",
         "published_dt": "2026-06-01T17:16:55+00:00",
         "summary": "Watch out for indigestion"
+      },
+      {
+        "id": "bd620b1c90654264",
+        "title": "Japan, South Korea and Taiwan are suffering industrial rot",
+        "url": "https://www.economist.com/finance-and-economics/2026/05/27/japan-south-korea-and-taiwan-are-suffering-industrial-rot",
+        "source": "Finance & economics",
+        "published": "Wed, 27 May 2026 14:08:47 +0000",
+        "published_dt": "2026-05-27T14:08:47+00:00",
+        "summary": "Artificial intelligence is concealing a China shock"
       }
     ],
     "Cross-Disciplinary": [
       {
-        "id": "307a241c676df51b",
-        "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-        "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+        "id": "2099002b1c9edeee",
+        "title": "The Download: perimenopause misinformation and China\u2019s latest AI leap",
+        "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
         "source": "MIT Technology Review",
-        "published": "Thu, 16 Jul 2026 12:10:00 +0000",
-        "published_dt": "2026-07-16T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other&#8230;"
-      },
-      {
-        "id": "e7999776629e89f9",
-        "title": "Digital Surveillance Reshapes Fishery Enforcement in Indonesia",
-        "url": "https://spectrum.ieee.org/fishery-satellite-surveillance",
-        "source": "IEEE Spectrum",
-        "published": "Thu, 16 Jul 2026 12:00:01 +0000",
-        "published_dt": "2026-07-16T12:00:01+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/an-overhead-drone-photo-shows-an-array-of-closely-placed-fishing-boats-at-sea.jpg?id=67101579&amp;width=1245&amp;height=700&amp;coordinates=0%2C62%2C0%2C63\" /><br /><br /><p>In the eastern Indian Ocean, south of Java in the vast sea stretching toward Australia, a fishing vessel slightly alters its course while operating near the boundary of its authorized fishing ground. Nothing appears unusual on deck. Nets remain in the water. Engines maintain a steady speed. To the crew, it is an ordinary day at sea.</p><p>Yet hundreds of kilometers above, satellites continuously record the vessel\u2019s position. At Indonesia\u2019s Marine and Fisheries Resources Surveillance Station in Cilacap, where I work, a monitoring platform receives the signal and automatically compares it against fishing permits, designated fishing grounds, vessel characteristics, and historical movement patterns. Within minutes, the system identifies a potential violation. Before any patrol vessel leaves port, before any inspector boards a vessel, and before any warning is issued, we have begun enforcement.</p><p>This transformation reflects a profound shift in maritime governance. The ocean has historically been opaque to regulators. States could only enforce laws where patrol vessels happened to be present. Today, however, integrated systems combining data from Vessel Monitoring Systems (VMS), <a href=\"https://spectrum.ieee.org/earth-observation-satellites-small-constellations\" target=\"_blank\">satellite remote sensing</a>, geospatial analytics, and increasingly sophisticated data-processing tools are making marine activity visible at an <a href=\"https://www.science.org/doi/10.1126/science.aao5646\" rel=\"noopener noreferrer\" target=\"_blank\">unprecedented scale</a>. Global Fishing Watch alone tracks <a href=\"https://globalfishingwatch.org/research/annual-report-2025/\" rel=\"noopener noreferrer\" target=\"_blank\">hundreds of thousands of vessels</a> worldwide, generating a near real-time picture of fishing activity across the world\u2019s oceans.\u00b9</p><p>Indonesia has emerged as one of the most ambitious examples of this transition. As the world\u2019s largest archipelagic state, managing more than six million square kilometers of maritime space, Indonesia faces a challenge familiar to many coastal nations: there are never enough patrol vessels. Digital surveillance is a practical necessity that makes my job possible, even as it creates new challenges.</p><h2>The Law of the Sea Meets Digital Reality</h2><p>The international legal framework governing the oceans was designed in an era when maritime enforcement depended almost entirely on physical presence. The <a href=\"https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">United Nations Convention on the Law of the Sea (UNCLOS), adopted in 1982,</a> assumes that states exercise authority through patrols, inspections, vessel boardings, and direct observation.\u00b2</p><p>For countries with extensive coastlines and limited enforcement resources, this model has always faced practical constraints. Indonesia\u2019s Fisheries Management Areas (WPP-NRI) span waters ranging from the Indian Ocean to the Pacific and from the Malacca Strait to the maritime boundaries adjacent to Australia and Papua New Guinea. Monitoring such a vast domain solely through patrol operations is both expensive and operationally impossible.</p><p>Beginning in the late 2010s, Indonesia accelerated the integration of satellite-based monitoring into fisheries enforcement. Vessel Monitoring Systems became a cornerstone of this strategy. By early 2026, a total of <a href=\"https://ppid.kkp.go.id/upt/pelabuhan-perikanan-samudera-kendari/news/detail/9394-kapal-perikanan-sudah-pasang-vms/\" rel=\"noopener noreferrer\" target=\"_blank\">9,394 Indonesian fishing vessels</a> were actively transmitting through the national Vessel Monitoring System (VMS), representing an increase of 2,880 vessels during the 2021\u20132025 period.\u00b3 As part of Indonesia\u2019s broader maritime surveillance architecture, VMS data are complemented by satellite remote sensing and other monitoring tools to help identify suspicious activities involving vessels operating without active transponders or outside the national VMS network.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"A man in an Indonesian military uniform points to a large monitor showing an overview of thousands of fishing boats at sea near Indonesia.\" class=\"rm-shortcode\" id=\"1d12e\" src=\"https://spectrum.ieee.org/media-library/a-man-in-an-indonesian-military-uniform-points-to-a-large-monitor-showing-an-overview-of-thousands-of-fishing-boats-at-sea-near.jpg?id=67101591&amp;width=980\" /> <small class=\"image-media media-caption\">Indonesian fisheries officials plan fishery patrols using data from tracking devices, satellites, and their understanding of the patterns of illegal fishing.</small><small class=\"image-media media-photo-credit\">Indonesian Ministry of Marine Affairs and Fisheries</small></p><p>The implications extend far beyond vessel tracking. Continuous digital monitoring enables authorities to reconstruct vessel movements, identify suspicious behavioral patterns, detect unauthorized fishing activity, and verify compliance with licensing conditions. Rather than waiting to discover violations during patrol operations, regulators can increasingly prioritize inspections based on data-derived risk assessments.</p><p>Maritime governance is shifting from reactive enforcement toward predictive oversight.</p><h2>The Surprising Geography of Digital Enforcement</h2><p>The expansion of surveillance infrastructure has already generated measurable enforcement outcomes.</p><p>The Ministry of Marine and Fisheries Affairs Indonesia <a href=\"https://kkp.go.id/unit-kerja/djpsdkp/akuntabilitas-kinerja/pelaporan-kinerja/detail/laporan-kinerja-direktorat-jenderal-psdkp-tahun-20256a042458a936b.html\" target=\"_blank\">imposed 2,550 administrative sanctions during 2025</a>, many involving violations detected through the Vessel Monitoring System, including fishing outside authorized fishing grounds and deliberate deactivation of monitoring transmitters.\u2074</p><p>This statistic is significant because many of these violations would have been extremely difficult to detect under traditional patrol-based enforcement. A vessel that briefly crosses into a prohibited fishing zone may never encounter an enforcement vessel. Likewise, a captain who temporarily disables a transmitter may escape detection if oversight depends solely on physical inspections.</p><p>Digital monitoring fundamentally changes this equation. Every vessel movement creates a data trail. Authorities can reconstruct routes, identify anomalous behavior, and compare activities against permit conditions long after the event itself has occurred.</p><p>The first quarter of 2026 demonstrates the scale of this surveillance capability. During just three months, Indonesia\u2019s fisheries monitoring system tracked 14,571 fishing vessels, 182 fishing gear units, and 208 registered home ports while identifying <a href=\"https://kkp.go.id/download-pdf-akuntabilitas-kinerja/akuntabilitas-kinerja-pelaporan-kinerja-laporan-kinerja-direktorat-jenderal-psdkp-twi-tahun-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">491 suspected violations</a> across the country\u2019s fisheries management areas.\u2075 These violations included unauthorized fishing grounds, illegal high-seas operations, transshipment-related offenses, port-base discrepancies, licensing irregularities, and indications of poaching.</p><p>Such numbers reveal a fundamental transformation. Enforcement is no longer limited by the number of patrol vessels available at sea. Instead, surveillance capacity increasingly depends on the ability to collect, process, and interpret big data.</p><h2>Illegal Fishing Is Learning Too</h2><p>Yet greater visibility does not eliminate illegal fishing. But it does change how illegal fishers operate.</p><p>Indonesia\u2019s expanding digital surveillance network, and a 2023 requirement that even small vessels use VMS when 12 nautical miles offshore, appears to have improved compliance among licensed fishing vessels. However, as enforcement capabilities become more sophisticated, some actors engaged in illegal fishing have also become more adept at exploiting technological and operational gaps.</p><p>Deliberately disabling VMS transmitters remains one of the most common enforcement concerns. While temporary signal losses, whether intentional or caused by technical failures\u2014can complicate the reconstruction of vessel movements, they do not necessarily prevent authorities from detecting potentially illegal activity. Indonesia increasingly combines VMS with satellite-based observations, other maritime surveillance systems, intelligence-led analysis, and reports from <a href=\"https://repository.seafdec.org/bitstream/handle/20.500.12066/7649/Fish-surveillance-Indonesia.pdf?sequence=1&amp;isAllowed=y\" rel=\"noopener noreferrer\" target=\"_blank\">community-based surveillance groups</a> (<em>Pokmaswas</em>) to corroborate suspicious behavior and direct patrol resources where they are most needed. This layered approach\u2014integrating digital technologies with local knowledge from coastal communities\u2014helps reduce opportunities for illegal, unreported, and unregulated (IUU) fishing even when a single monitoring system is compromised.</p><p class=\"pull-quote\">A compromised surveillance network could potentially disrupt enforcement operations just as effectively as a vessel evading patrol detection.</p><p>As digital surveillance expands, one lesson from Indonesia\u2019s experience is that stronger monitoring does not eliminate illegal fishing\u2014it changes how illegal operators behave. Improved compliance across much of the fishing fleet has been accompanied by increasingly sophisticated attempts by a smaller group of offenders to avoid detection. This reflects a broader reality of technology-enabled enforcement: as monitoring capabilities evolve, so do the strategies used to circumvent them.</p><p>The result is a technological arms race. Every improvement in surveillance capability encourages <a href=\"https://www.science.org/doi/10.1126/science.aad5686\" rel=\"noopener noreferrer\" target=\"_blank\">new methods of avoidance</a>, whether through disabling tracking devices, manipulating vessel identities, or exploiting gaps between different monitoring systems. Enforcement agencies must therefore continuously refine their analytical methods, integrate multiple sources of maritime information, and adapt their operational strategies to keep pace with evolving behavior at sea. Effective digital fisheries governance is not defined by a single technology, but by the ability to combine data, human expertise, and operational intelligence into a resilient and adaptive enforcement system.</p><h2>The Next Battle May Be Over Data Integrity</h2><p>The future of fisheries enforcement may ultimately depend less on detecting vessels and more on ensuring confidence in the digital systems that generate enforcement decisions.</p><p>As surveillance networks become increasingly integrated, questions surrounding cybersecurity, algorithmic accountability, and data integrity become more important. What happens if vessel tracking data are manipulated? How should authorities verify automated risk assessments? What safeguards exist when enforcement actions increasingly originate from algorithmic analysis rather than direct human observation?</p><p>These questions are no longer theoretical.</p><p>Modern fisheries governance increasingly depends on interconnected networks of satellites, communication systems, databases, cloud infrastructure, and analytical platforms. While these technologies dramatically improve visibility, they also create new vulnerabilities. A compromised surveillance network could potentially disrupt enforcement operations just as effectively as a vessel evading patrol detection.</p><p>For Indonesia, this means that investment in digital surveillance must be accompanied by investment in digital resilience. The effectiveness of a monitoring system ultimately depends not only on the volume of data collected but also on the credibility, security, and <a href=\"https://spectrum.ieee.org/data-integrity\" target=\"_blank\">reliability of the information produced</a>.</p><h2>Governing Oceans Through Data</h2><p>Indonesia\u2019s experience illustrates a broader global transformation in maritime governance. The ocean is becoming increasingly transparent to regulators. Activities that once occurred beyond the reach of enforcement agencies can now be observed, analyzed, and investigated through interconnected digital systems.</p><p>The benefits are substantial. Expanded VMS adoption, improved monitoring coverage, and thousands of administrative enforcement actions demonstrate that digital surveillance can significantly enhance fisheries governance. Yet the transition also introduces new challenges involving data quality, cybersecurity, algorithmic accountability, and adaptive <a href=\"https://doi.org/10.3389/fmars.2018.00240\" rel=\"noopener noreferrer\" target=\"_blank\">criminal behavior</a>.</p><p>The central question facing maritime regulators is how governments can ensure that increasingly powerful monitoring systems remain transparent, secure, and accountable while preserving public trust and legal legitimacy. The most important lesson may be that digital surveillance does not replace traditional enforcement. It changes where enforcement begins. For generations, maritime law enforcement started when a patrol vessel encountered a suspected violator. Today, it often starts when an algorithm detects a pattern.</p><p>That shift may prove as significant for ocean governance as the invention of radar was for maritime navigation.</p>"
+        "published": "Fri, 17 Jul 2026 12:10:00 +0000",
+        "published_dt": "2026-07-17T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There\u2019s a lot of hype around perimenopause. Don\u2019t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV doctors and social media influencers,&#8230;"
       },
       {
         "id": "9c7f5ae6c724587c",
@@ -711,13 +702,22 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/glowing-digital-network-map-of-australia-and-surrounding-asia-pacific-region.png?id=66945530&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C1\" /><br /><br /><p><em>This article is brought to you by <a href=\"https://www.melbournecb.com.au/?utm_source=ieee&amp;utm_medium=editorial&amp;utm_campaign=discover-melbourne-2026&amp;utm_term=maveric&amp;utm_content=link\" rel=\"noopener noreferrer\" target=\"_blank\">Melbourne Convention Bureau (MCB)</a> supported by <a href=\"https://businessevents.australia.com/en\" target=\"_blank\">Business Events Australia</a>.</em></p><p><span>As artificial intelligence accelerates global demand for compute, a parallel constraint is emerging with equal urgency: energy.</span></p><p>From hyperscale data centers to electrified industries, AI is driving a step change in electricity demand. This is not a future challenge, it is a present, system-level issue requiring coordinated action across energy, infrastructure, and engineering disciplines.</p><p>Around the world, the question is no longer whether AI will scale, but whether energy systems can scale with it.</p><p>Melbourne, Australia is moving beyond participation to become a globally connected leader helping define how these challenges are addressed.</p><h2>A national challenge with global implications</h2><p>Australia\u2019s ambition to lead in artificial intelligence is sharpening focus on the infrastructure required to support it. Data centers are projected to account for up to <a href=\"https://www.cefc.com.au/media/hs5ner3s/getting-the-balance-right-data-centres-and-the-energy-transition-full-report.pdf\" target=\"_blank\"><span>11 percent</span></a> of the nation\u2019s electricity consumption by 2035, placing increasing pressure on generation, transmission, and system reliability.</p><p>At the same time, <a href=\"https://ieee-pes.org/climate-change/the-future-of-energy-quantified-2026-global-member-survey-results/\" target=\"_blank\"><span>insight from the IEEE Power and Energy Society (PES)</span></a> highlights that meeting energy demand from AI and digital infrastructure is one of the most significant challenges facing engineers over the next decade.</p><p>The implications are clear. In addition to computing challenges, AI poses major energy systems challenges.</p><p class=\"pull-quote\">\u201cAs artificial intelligence continues to scale globally, the challenge is no longer just computational power, it is the energy systems required to support it\u201d <strong>\u2014Professor Thas (Ampalavanapillai) Nirmalathas, University of Melbourne</strong></p><h2>Why Melbourne is leading on the global stage</h2><p>Victoria has developed one of the most advanced and integrated energy ecosystems in Australia and globally, spanning renewable generation, battery storage, grid modernization, and advanced materials.</p><p>What distinguishes Melbourne globally is how these capabilities are connected and applied at system scale.</p><p>The city brings together world class engineering research, a rapidly evolving clean energy sector, advanced digital infrastructure, and strong alignment between government, industry, and academia. This convergence is critical in the AI era, where energy, networks and computing systems must be designed together.</p><p>Victoria\u2019s coordinated investment across these areas is positioning Melbourne not only as a national leader, but also as a reference point in the global energy system transformation.</p><h2>Engineering the systems behind the AI economy</h2><p>The challenge ahead is that generating more power won\u2019t be enough, as engineers need to design systems that respond dynamically to new patterns of demand.</p><p>Three priorities are emerging globally:</p><ul><li>Aligning data center development with grid capacity and renewable supply</li><li>Embedding flexibility through storage, demand response, and system optimization</li><li>Balancing digital growth with decarbonization and long-term reliability</li></ul><p>Addressing these priorities requires engineering expertise to be embedded earlier in planning ensuring energy systems, digital infrastructure, and policy are designed in parallel.</p><p>Melbourne\u2019s strength lies in its ability to integrate this expertise across research, infrastructure, and real-world application.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image image-crop-custom\"> <img alt=\"Crowd mingling in a modern glass courtyard during an outdoor social event\" class=\"rm-shortcode\" id=\"e734f\" src=\"https://spectrum.ieee.org/media-library/crowd-mingling-in-a-modern-glass-courtyard-during-an-outdoor-social-event.jpg?id=66945563&amp;width=2000&amp;height=1335&amp;quality=100&amp;coordinates=0%2C606%2C0%2C0\" /> <small class=\"image-media media-caption\">Melbourne Connect is a University of Melbourne\u2013led innovation precinct, supported by government and industry, designed to bring together research, business and policy to deliver real-world solutions.</small><small class=\"image-media media-photo-credit\">Atlantic Group</small></p><h2>Research leadership shaping global solutions</h2><p>At the centre of this capability is the <a href=\"https://www.unimelb.edu.au/\" target=\"_blank\"><span>University of Melbourne</span></a>, where interdisciplinary research is advancing the systems required to support AI driven energy demand.</p><p>Through the Melbourne Energy Institute, for example, researchers are examining how energy technologies interact across entire systems from generation and networks through to end use.</p><p>\u201cAs artificial intelligence continues to scale globally, the challenge is no longer just computational power, it is the energy systems required to support it,\u201d says <a href=\"https://about.unimelb.edu.au/leadership/senior-leadership/dean-feit\" target=\"_blank\">Professor Thas (Ampalavanapillai) Nirmalathas</a>, Dean of the Faculty of Engineering and Information Technology at the University of Melbourne.</p><p>\u201cThis is driving a new level of convergence between digital infrastructure and power systems engineering, where integrated, system level thinking is essential.\u201d</p><h2>Converging energy, networks and AI</h2><p>Melbourne\u2019s leadership is further strengthened by world-class interdisciplinary facilities such as the <a href=\"https://electrical.eng.unimelb.edu.au/power-energy/smart-grid-lab\" target=\"_blank\"><span>Smart Grid Lab</span></a> in the Department of Electrical and Electronic Engineering, which enables real-time simulation of power systems, allowing engineers to test how solar, batteries, electric vehicles and other distributed resources interact within future grids. This supports the design of more resilient, efficient energy systems before they are deployed at scale.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Control room with server racks, workstations, and a large grid monitoring display.\" class=\"rm-shortcode\" id=\"b628c\" src=\"https://spectrum.ieee.org/media-library/control-room-with-server-racks-workstations-and-a-large-grid-monitoring-display.jpg?id=67073323&amp;width=980\" /> <small class=\"image-media media-caption\">Melbourne\u2019s Smart Grid Lab in the Department of Electrical and Electronic Engineering enables real-time simulation of power systems. </small><small class=\"image-media media-photo-credit\">University of Melbourne</small></p><p>These capabilities will become increasingly important as data centers are integrated into the grid.</p><p><span>\u201cAI driven demand is not only increasing computing requirements, but also placing new pressures on underlying energy systems,\u201d says <a href=\"https://findanexpert.unimelb.edu.au/profile/1024365-glen-farivar\" target=\"_blank\">Glen Farivar</a>, Senior Lecturer in Power Electronics at the University of Melbourne. \u201cDesigning these systems together is essential to achieving both performance and sustainability outcomes.\u201d</span></p><p>This reflects a critical shift. Future infrastructure must be co designed across energy and digital systems, not developed in isolation.</p><h2>A living ecosystem delivering real-world outcomes</h2><p>Victoria\u2019s broader energy ecosystem is translating these insights into practice.</p><p>Investment in renewable energy, grid infrastructure and storage is enabling higher levels of clean energy while maintaining reliability. Battery deployment is supporting the flexibility needed to manage both renewable variability and growing AI-driven demand.</p><p>At its core, Melbourne offers an integrated environment where research, industry and government collaborate to solve complex system challenges.</p><h2>Why engineering collaboration matters</h2><p>Solving the energy demands of the AI era cannot be achieved in isolation.</p><p>It requires engineers, researchers, utilities, and policymakers to work together earlier and more often. More than ever, engineering collaboration is a critical enabler of future energy systems.</p><p>Environments that bring together global expertise are becoming essential to how solutions are designed and delivered.</p><p class=\"pull-quote\">\u201cDeveloping future energy systems that are affordable, sustainable, and resilient is a truly grand challenge\u201d <strong>\u2014Professor Pierluigi Mancarella, University of Melbourne</strong></p><p>In this context, the University of Melbourne is co-leading, alongside Johns Hopkins University and Imperial College London, one of only seven <a href=\"https://www.unimelb.edu.au/newsroom/news/2023/september/new-global-research-centre-to-provide-epic-clean-energy-boost\" target=\"_blank\"><span>Global Centres in Climate Change and Clean Energy</span></a>. Through the Electric Power Innovation for a Carbon Free Society (EPICS) Centre, the University is also the Australian technical lead in advancing future energy systems, with EPICS the only Global Centre focused on future energy infrastructure.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Large solar farm in green fields with wind turbines on the horizon under blue sky\" class=\"rm-shortcode\" id=\"29346\" src=\"https://spectrum.ieee.org/media-library/large-solar-farm-in-green-fields-with-wind-turbines-on-the-horizon-under-blue-sky.jpg?id=66945577&amp;width=980\" /> <small class=\"image-media media-caption\">The new Electric Power Innovation for a Carbon-Free Society (EPICS) Centre will address challenges in clean energy production and storage.</small><small class=\"image-media media-photo-credit\">University of Melbourne</small></p><p><span>\u201cDeveloping future energy systems that are affordable, sustainable, and resilient is a truly grand challenge,\u201d says <a href=\"https://energy.unimelb.edu.au/about-us/our-team/executive/pierluigi-mancarella\" target=\"_blank\">Professor Pierluigi Mancarella</a>, Chair Professor of Electrical Power Systems at the University of Melbourne and Australian director and international co-director of EPICS.</span></p><p>\u201cAs electricity grids are increasingly becoming the backbone of future energy systems, optimizing their interactions with other sectors, including AI and digitalization, and fostering interdisciplinary and international collaborations are essential,\u201d he adds.</p><h2>Global conferences as part of the solution</h2><p>International conferences are increasingly recognized as critical platforms for advancing engineering solutions at scale. Melbourne\u2019s ability to convene global expertise is central to its leadership.</p><p>In 2027, the city will host the <a href=\"https://www.ieeegtd2027.org\" target=\"_blank\"><span>IEEE PES Generation Transmission and Distribution (GTD) Asia 2027</span></a> Conference and Exposition, bringing together engineers, utilities, researchers and policymakers from across the world to address the challenges shaping the future of power systems.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Four men pose at a 2025 GTD conference booth with energy-themed backdrop.\" class=\"rm-shortcode\" id=\"24eaf\" src=\"https://spectrum.ieee.org/media-library/four-men-pose-at-a-2025-gtd-conference-booth-with-energy-themed-backdrop.jpg?id=66945590&amp;width=980\" /> <small class=\"image-media media-caption\">IEEE PES GTD Asia 2027 Melbourne Committee (left to right): Dr. Mehdi Ghazavi Dozein (Monash University), Dr. Glen Farivar & Professor Pierluigi Mancarella (University of Melbourne) , Dr. Mohammad Mohammadi (Australian Energy Market Operator (AEMO)).</small><small class=\"image-media media-photo-credit\">MCB</small></p><p><span>\u201cMelbourne offers a unique environment where world-class research, industry capability and policy leadership come together,\u201d notes the IEEE PES GTD Asia 2027 Local Organising Committee, which includes Professor Pierluigi Mancarella and Dr. Glen Farivar from the University of Melbourne, as well as Dr. <a href=\"https://www.monash.edu/engineering/mehdighazavidozein\" target=\"_blank\">Mehdi Ghazavi Dozein</a> of Monash University and Dr. Mohammad Mohammadi of the Australian Energy Market Operator.</span></p><p>\u201cHosting this event creates an opportunity to advance global collaboration on the systems and technologies required to deliver the energy transition at scale.\u201d</p><p>These forums enable knowledge exchange, standards development and interdisciplinary collaboration, accelerating progress on complex engineering challenges.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Two people view a circular digital art installation of glowing screens and green light.\" class=\"rm-shortcode\" id=\"9b439\" src=\"https://spectrum.ieee.org/media-library/two-people-view-a-circular-digital-art-installation-of-glowing-screens-and-green-light.jpg?id=66986093&amp;width=980\" /> <small class=\"image-media media-caption\">Attendees view a digital installation at AIME 2025 at Melbourne Connect.</small><small class=\"image-media media-photo-credit\">MCB</small></p><h2>Why Melbourne, and why now</h2><p>As AI, electrification and digital infrastructure converge, the future of global energy systems will depend on the ability of engineers to collaborate and innovate at scale.</p><p>Melbourne provides a proven platform for that collaboration, combining world-class research, a rapidly evolving energy ecosystem, and the infrastructure to connect global expertise.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Group standing with award outside historic brick building and garden walkway\" class=\"rm-shortcode\" id=\"6eed5\" src=\"https://spectrum.ieee.org/media-library/group-standing-with-award-outside-historic-brick-building-and-garden-walkway.jpg?id=66945594&amp;width=980\" /> <small class=\"image-media media-caption\">Melbourne Convention Bureau, IEEE Communications Society, and University of Melbourne Representatives.</small><small class=\"image-media media-photo-credit\">University of Melbourne</small></p><p><span>For IEEE members, hosting a conference in Melbourne is more than an event decision.</span></p><p>It is an opportunity to engage with a globally connected engineering community and contribute directly to solving one of the most significant challenges facing the profession today.</p><p>Through the support of the <a href=\"https://www.melbournecb.com.au/contact-us?utm_source=ieee&amp;utm_medium=editorial&amp;utm_campaign=discover-melbourne-2026&amp;utm_term=power-and-energy&amp;utm_content=contact-us\" target=\"_blank\"><span>Melbourne Convention Bureau</span></a>, professionals can access tailored, free support to bid for and deliver international conferences, bringing global expertise together in a city actively shaping the future of energy systems.</p><p><strong>To explore hosting your next conference in Melbourne, contact the Melbourne Convention Bureau at info@melbournecb.com.</strong></p>"
       },
       {
-        "id": "aa4e48816a6961a0",
-        "title": "Why heat pumps are still so hot in the US",
-        "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
+        "id": "e2487889850d42ea",
+        "title": "There\u2019s a lot of hype around perimenopause. Don\u2019t buy it.",
+        "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
         "source": "MIT Technology Review",
-        "published": "Thu, 16 Jul 2026 10:00:00 +0000",
-        "published_dt": "2026-07-16T10:00:00+00:00",
-        "summary": "It feels as if it should be illegal to even think about heating appliances during the height of summer\u2014seriously, these heat waves in New York have been brutal\u2014but we need to talk about heat pumps. The appliances use electricity for heating, they\u2019re incredibly efficient, and they\u2019re on the rise. (For what it\u2019s worth, many heat&#8230;"
+        "published": "Fri, 17 Jul 2026 09:00:00 +0000",
+        "published_dt": "2026-07-17T09:00:00+00:00",
+        "summary": "Perimenopause has entered the chat. Perimenopause\u2014and its better-known relative, menopause\u2014used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it\u2019s my age, but these days, both my algorithm and my conversations with friends increasingly swing toward perimenopause. Menopause is defined as the life stage that&#8230;"
+      },
+      {
+        "id": "e54facadb8b94f8d",
+        "title": "The risk of weather data sabotage is rising",
+        "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 17 Jul 2026 08:57:32 +0000",
+        "published_dt": "2026-07-17T08:57:32+00:00",
+        "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives at stake. Farmers use&#8230;"
       },
       {
         "id": "4137707578d44053",
@@ -828,6 +828,33 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/vintage-collage-of-18th-19th-century-inventions-including-looms-telegraph-rifle-and-typewriter.jpg?id=66985778&amp;width=1245&amp;height=700&amp;coordinates=0%2C16%2C0%2C16\" /><br /><br /><p>In 1839, J.M.W. Turner painted <a href=\"https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-the-fighting-temeraire\" rel=\"noopener noreferrer\" target=\"_blank\"><em>The Fighting Temeraire</em></a>. The old warship, once a hero of the Battle of Trafalgar in 1805, glides like a ghost across the canvas, towed by a small steam tug belching smoke on its final voyage to the ship-breakers. The image shows a clear moment of change: sail giving way to steam, and with it, a major shift in power. The ship relied on timber, rope, canvas, and Britain\u2019s seafaring towns. The tug depended on coal mines and iron foundries that supplied machine shops in the Midlands. Turner showed the tension of this time, when new technology changed who held power.</p><p>By Turner\u2019s time, the United States had already defeated Britain\u2019s navy in two wars\u2014one for liberty on land, another for freedom of the seas. The 13 colonies used new technology in creative ways to win their freedom, and by keeping up with innovation, they managed to defend their freedom. Now, as the U.S. celebrates its 250th anniversary, we can ask: What does it really mean for a country to be independent? </p><p>We tend to focus on how nations and individuals defend freedom but rarely turn that focus to the tools and systems that sustain freedom. Declaring independence is only the beginning: Independence must still be engineered.</p><h2>Forging freedom</h2><p>Long before the first shots were fired at Lexington and Concord in 1775, Britain had drawn the lines of conflict through technology. The Wool Act of 1699 choked colonial textile exports. The Hat Act of 1732 crushed local hat-making. The Iron Act of 1750 forbade finished iron goods. Each statute tightened the knot: Colonial capability existed only at Britain\u2019s discretion. The Boston Tea Party may have been a loud response, but resistance also took subtler, more empowering forms. At a 1769 Virginia ball, more than a hundred women arrived in homespun gowns. Every thread was defiance.</p><p>When war came, everyday tradespeople pivoted to the fight. Farmers turned plowshares into gun barrels, while clockmakers turned their precision skills to making firing mechanisms. By 1777, two weapons production models had emerged\u2014centralized sites like the Springfield Armory that could produce high-quality guns in large quantities, and household workshops that were more agile and could meet local needs. In parallel, the new nation developed an equally important source of supplies and support: France sent gunpowder and loans and eventually opened a second naval front in 1781, which proved as decisive as any weapon. </p><p>After the war, the young republic pursued industrial strength with the same resolve it had shown in battle. In 1789, Samuel Slater arrived from England with textile-spinning technology that he\u2019d memorized, sowing the seeds of U.S. manufacturing, whose early growth rested on domestic cotton, slave labor, and copied techniques. By 1816, gun manufacturer Simeon North\u2019s milling machines were producing interchangeable metal parts, allowing the armed forces to cannibalize parts. In 1822, Thomas Blanchard\u2019s copying lathe automated the shaping of gunstocks. In the 1830s, the federal government imposed tariffs that shielded infant industries, fulfilling Alexander Hamilton\u2019s vision for industrial policy: Build capacity first, then compete.</p><p>At the 1851 Great Exhibition in London, American revolvers and reapers with swappable parts stunned international observers. By the 1860s, land-grant colleges were spreading technical education across the nation. Engineering moved into the mainstream, from niche to national necessity, driving broad, though uneven, prosperity. As the Industrial Revolution bloomed, the early U.S. focus on industrial capacity via farms, factories, and formidable wealth positioned the country to compete with the most advanced industrial powers in the world.</p><h2>The right and responsibility to repair</h2><p>For nearly two centuries, that ethos endured, with government-guided infrastructure and markets deciding the details. But around the U.S. bicentennial, in 1976, a conviction took hold across party lines. Finance began to outrank fabrication, and Wall Street prioritized futures contracts over companies owning the factories that made up their supply chains. Domestic factories closed or moved offshore, and companies turned to just-in-time manufacturing and shipping, ostensibly as a way to save on costs. Shipbuilding felt this shift as much as any industry. Shipyards closed, and suppliers of specialized castings and components disappeared along with them, as did skilled technical workers who retired without replacement. Now the U.S. Navy struggles to build submarines fast enough to replace its aging fleet. </p><p>Other changes took hold, among them the idea that the company that builds your tractor or medical equipment could prevent you from fixing it yourself. Invasive \u201cterms of service\u201d prevented customers from reaching for a wrench, instead allowing companies to keep reaching into customers\u2019 pockets. These changes are symptoms of both structural and infrastructural fragility. When we lose the ability to understand and sustain the systems we rely on, we lose control\u2014bit by bit.</p><p class=\"ieee-inbody-related\">RELATED: <a href=\"https://spectrum.ieee.org/why-we-must-fight-for-the-right-to-repair-our-electronics\" target=\"_self\">Why We Must Fight for the Right to Repair Our Electronics</a></p><p>No nation can build everything alone, of course. From hand-forged muskets to finely printed microchips, the sovereignty etched into our tools demands a prudent calculus: what to make at home, what and with whom to trade. Engineering is how a nation keeps its independence alive. Independence requires both the courage to innovate and the stewardship to maintain what has been built. The American Revolution was itself an act of engineering\u2014daring in vision and deliberate in pairing anvil and alliance. Generations later, can a nation that cannot see its own <a href=\"https://spectrum.ieee.org/chinese-robots-us-ban\" target=\"_blank\">dependencies</a>, build and maintain its critical tools, or <a href=\"https://spectrum.ieee.org/why-we-must-fight-for-the-right-to-repair-our-electronics\" target=\"_blank\">repair what breaks</a> still call itself free?</p><p>Turner\u2019s <a href=\"https://www.tate.org.uk/art/artworks/turner-snow-storm-steam-boat-off-a-harbours-mouth-n00530\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Snow Storm\u2014Steam-Boat off a Harbour\u2019s Mouth</em></a>, completed three years after <em>The Fighting Temeraire</em>, captures this part of the story. Sea and sky dissolve into a churning vortex around the ship. Turner claimed he had himself lashed to the ship\u2019s mast for four hours so that he could paint the sensation of standing inside a system too vast and tangled to comprehend. A nation that loses sight of what it depends on stands there too: lashed to nothing except the churn.</p>"
       },
       {
+        "id": "307a241c676df51b",
+        "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+        "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 16 Jul 2026 12:10:00 +0000",
+        "published_dt": "2026-07-16T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other&#8230;"
+      },
+      {
+        "id": "e7999776629e89f9",
+        "title": "Digital Surveillance Reshapes Fishery Enforcement in Indonesia",
+        "url": "https://spectrum.ieee.org/fishery-satellite-surveillance",
+        "source": "IEEE Spectrum",
+        "published": "Thu, 16 Jul 2026 12:00:01 +0000",
+        "published_dt": "2026-07-16T12:00:01+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/an-overhead-drone-photo-shows-an-array-of-closely-placed-fishing-boats-at-sea.jpg?id=67101579&amp;width=1245&amp;height=700&amp;coordinates=0%2C62%2C0%2C63\" /><br /><br /><p>In the eastern Indian Ocean, south of Java in the vast sea stretching toward Australia, a fishing vessel slightly alters its course while operating near the boundary of its authorized fishing ground. Nothing appears unusual on deck. Nets remain in the water. Engines maintain a steady speed. To the crew, it is an ordinary day at sea.</p><p>Yet hundreds of kilometers above, satellites continuously record the vessel\u2019s position. At Indonesia\u2019s Marine and Fisheries Resources Surveillance Station, in Cilacap, where I work, a monitoring platform receives the signal and automatically compares it against fishing permits, designated fishing grounds, vessel characteristics, and historical movement patterns. Within minutes, the system identifies a potential violation. Before any patrol vessel leaves port, before any inspector boards a vessel, and before any warning is issued, we have begun enforcement.</p><p>This transformation reflects a profound shift in maritime governance. The ocean has historically been opaque to regulators. States could only enforce laws where patrol vessels happened to be present. Today, however, integrated systems combining data from vessel monitoring systems (VMS), <a href=\"https://spectrum.ieee.org/earth-observation-satellites-small-constellations\" target=\"_blank\">satellite remote sensing</a>, geospatial analytics, and increasingly sophisticated data-processing tools are making marine activity visible at an <a href=\"https://www.science.org/doi/10.1126/science.aao5646\" rel=\"noopener noreferrer\" target=\"_blank\">unprecedented scale</a>. Global Fishing Watch alone tracks <a href=\"https://globalfishingwatch.org/research/annual-report-2025/\" rel=\"noopener noreferrer\" target=\"_blank\">hundreds of thousands of vessels</a> worldwide, generating a near real-time picture of fishing activity across the world\u2019s oceans.</p><p>Indonesia has emerged as one of the most ambitious examples of this transition. As the world\u2019s largest archipelagic state, managing more than 6 million square kilometers of maritime space, Indonesia faces a challenge familiar to many coastal nations: There are never enough patrol vessels. Digital surveillance is a practical necessity that makes my job possible, even as it creates new challenges.</p><h2>The Law of the Sea Meets Digital Reality</h2><p>The international legal framework governing the oceans was designed in an era when maritime enforcement depended almost entirely on physical presence. The <a href=\"https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">United Nations Convention on the Law of the Sea (UNCLOS), adopted in 1982,</a> assumes that states exercise authority through patrols, inspections, vessel boardings, and direct observation.</p><p>For countries with extensive coastlines and limited enforcement resources, this model has always faced practical constraints. Indonesia\u2019s Fisheries Management Areas (WPP-NRI) span waters ranging from the Indian Ocean to the Pacific and from the Strait of Malacca to the maritime boundaries adjacent to Australia and Papua New Guinea. Monitoring such a vast domain solely through patrol operations is both expensive and operationally impossible.</p><p>Beginning in the late 2010s, Indonesia accelerated the integration of satellite-based monitoring into fisheries enforcement. Vessel monitoring systems became a cornerstone of this strategy. By early 2026, a total of <a href=\"https://ppid.kkp.go.id/upt/pelabuhan-perikanan-samudera-kendari/news/detail/9394-kapal-perikanan-sudah-pasang-vms/\" rel=\"noopener noreferrer\" target=\"_blank\">9,394 Indonesian fishing vessels</a> were actively transmitting through the national VMS, representing an increase of 2,880 vessels during the 2021\u20132025 period. As part of Indonesia\u2019s broader maritime surveillance architecture, VMS data are complemented by satellite remote sensing and other monitoring tools to help identify suspicious activities involving vessels operating without active transponders or outside the national VMS network.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"A man in an Indonesian military uniform points to a large monitor showing an overview of thousands of fishing boats at sea near Indonesia.\" class=\"rm-shortcode\" id=\"1d12e\" src=\"https://spectrum.ieee.org/media-library/a-man-in-an-indonesian-military-uniform-points-to-a-large-monitor-showing-an-overview-of-thousands-of-fishing-boats-at-sea-near.jpg?id=67101591&amp;width=980\" /> <small class=\"image-media media-caption\">Indonesian fisheries officials plan fishery patrols using data from tracking devices, satellites, and their understanding of the patterns of illegal fishing.</small><small class=\"image-media media-photo-credit\">Indonesian Ministry of Marine Affairs and Fisheries</small></p><p>The implications extend far beyond vessel tracking. Continuous digital monitoring enables authorities to reconstruct vessel movements, identify suspicious behavioral patterns, detect unauthorized fishing activity, and verify compliance with licensing conditions. Rather than waiting to discover violations during patrol operations, regulators can increasingly prioritize inspections based on data-derived risk assessments.</p><p>Maritime governance is shifting from reactive enforcement toward predictive oversight.</p><h2>The Surprising Geography of Digital Enforcement</h2><p>The expansion of surveillance infrastructure has already generated measurable enforcement outcomes.</p><p>The Ministry of Marine and Fisheries Affairs Indonesia <a href=\"https://kkp.go.id/unit-kerja/djpsdkp/akuntabilitas-kinerja/pelaporan-kinerja/detail/laporan-kinerja-direktorat-jenderal-psdkp-tahun-20256a042458a936b.html\" target=\"_blank\">imposed 2,550 administrative sanctions during 2025</a>, many involving violations detected through the vessel monitoring system, including fishing outside authorized fishing grounds and deliberate deactivation of monitoring transmitters.</p><p>This statistic is significant because many of these violations would have been extremely difficult to detect under traditional patrol-based enforcement. A vessel that briefly crosses into a prohibited fishing zone may never encounter an enforcement vessel. Likewise, a captain who temporarily disables a transmitter may escape detection if oversight depends solely on physical inspections.</p><p>Digital monitoring fundamentally changes this equation. Every vessel movement creates a data trail. Authorities can reconstruct routes, identify anomalous behavior, and compare activities against permit conditions long after the event itself has occurred.</p><p>The first quarter of 2026 demonstrates the scale of this surveillance capability. During just three months, Indonesia\u2019s fisheries monitoring system tracked 14,571 fishing vessels, 182 fishing gear units, and 208 registered home ports while identifying <a href=\"https://kkp.go.id/download-pdf-akuntabilitas-kinerja/akuntabilitas-kinerja-pelaporan-kinerja-laporan-kinerja-direktorat-jenderal-psdkp-twi-tahun-2026.pdf\" target=\"_blank\">491 suspected violations</a> across the country\u2019s fisheries management areas. These violations included unauthorized fishing grounds, illegal high-seas operations, transshipment-related offenses, port-base discrepancies, licensing irregularities, and indications of poaching.</p><p>Such numbers reveal a fundamental transformation. Enforcement is no longer limited by the number of patrol vessels available at sea. Instead, surveillance capacity increasingly depends on the ability to collect, process, and interpret big data.</p><h2>Illegal Operators Are Learning Too</h2><p>Yet greater visibility does not eliminate illegal fishing. But it does change how poachers operate.</p><p>Indonesia\u2019s expanding digital surveillance network, and a 2023 requirement that even small vessels use VMS when 12 nautical miles offshore, appears to have improved compliance among licensed fishing vessels. However, as enforcement capabilities become more sophisticated, some actors engaged in illegal fishing have also become more adept at exploiting technological and operational gaps.</p><p>Deliberately disabling VMS transmitters remains one of the most common enforcement concerns. While temporary signal losses, whether intentional or caused by technical failures\u2014can complicate the reconstruction of vessel movements, they do not necessarily prevent authorities from detecting potentially illegal activity. Indonesia increasingly combines VMS with satellite-based observations, other maritime surveillance systems, intelligence-led analysis, and reports from <a href=\"https://repository.seafdec.org/bitstream/handle/20.500.12066/7649/Fish-surveillance-Indonesia.pdf?sequence=1&amp;isAllowed=y\" target=\"_blank\">community-based surveillance groups</a> (<em>Pokmaswas</em>) to corroborate suspicious behavior and direct patrol resources where they are most needed. This layered approach\u2014integrating digital technologies with local knowledge from coastal communities\u2014helps reduce opportunities for illegal, unreported, and unregulated (IUU) fishing even when a single monitoring system is compromised.</p><p class=\"pull-quote\">A compromised surveillance network could potentially disrupt enforcement operations just as effectively as a vessel evading patrol detection.</p><p>As digital surveillance expands, one lesson from Indonesia\u2019s experience is that stronger monitoring does not eliminate illegal fishing\u2014it changes how illegal operators behave. Improved compliance across much of the fishing fleet has been accompanied by increasingly sophisticated attempts by a smaller group of offenders to avoid detection. This reflects a broader reality of technology-enabled enforcement: As monitoring capabilities evolve, so do the strategies used to circumvent them.</p><p>The result is a technological arms race. Every improvement in surveillance capability encourages <a href=\"https://www.science.org/doi/10.1126/science.aad5686\" target=\"_blank\">new methods of avoidance</a>, whether through disabling tracking devices, manipulating vessel identities, or exploiting gaps between different monitoring systems. Enforcement agencies must therefore continuously refine their analytical methods, integrate multiple sources of maritime information, and adapt their operational strategies to keep pace with evolving behavior at sea. Effective digital fisheries governance is not defined by a single technology but by the ability to combine data, human expertise, and operational intelligence into a resilient and adaptive enforcement system.</p><h2>The Next Battle May Be Over Data Integrity</h2><p>The future of fisheries enforcement may ultimately depend less on detecting vessels and more on ensuring confidence in the digital systems that generate enforcement decisions.</p><p>As surveillance networks become increasingly integrated, questions surrounding cybersecurity, algorithmic accountability, and data integrity become more important. What happens if vessel tracking data are manipulated? How should authorities verify automated risk assessments? What safeguards exist when enforcement actions increasingly originate from algorithmic analysis rather than direct human observation?</p><p>These questions are no longer theoretical.</p><p>Modern fisheries governance increasingly depends on interconnected networks of satellites, communication systems, databases, cloud infrastructure, and analytical platforms. While these technologies dramatically improve visibility, they also create new vulnerabilities. A compromised surveillance network could potentially disrupt enforcement operations just as effectively as a vessel evading patrol detection.</p><p>For Indonesia, this means that investment in digital surveillance must be accompanied by investment in digital resilience. The effectiveness of a monitoring system ultimately depends not only on the volume of data collected but also on the credibility, security, and <a href=\"https://spectrum.ieee.org/data-integrity\" target=\"_blank\">reliability of the information produced</a>.</p><h2>Governing Oceans Through Data</h2><p>Indonesia\u2019s experience illustrates a broader global transformation in maritime governance. The ocean is becoming increasingly transparent to regulators. Activities that once occurred beyond the reach of enforcement agencies can now be observed, analyzed, and investigated through interconnected digital systems.</p><p>The benefits are substantial. Expanded VMS adoption, improved monitoring coverage, and thousands of administrative enforcement actions demonstrate that digital surveillance can significantly enhance fisheries governance. Yet the transition also introduces new challenges involving data quality, cybersecurity, algorithmic accountability, and adaptive <a href=\"https://doi.org/10.3389/fmars.2018.00240\" rel=\"noopener noreferrer\" target=\"_blank\">criminal behavior</a>.</p><p>The central question facing maritime regulators is how governments can ensure that increasingly powerful monitoring systems remain transparent, secure, and accountable while preserving public trust and legal legitimacy. The most important lesson may be that digital surveillance does not replace traditional enforcement. It changes where enforcement begins. For generations, maritime law enforcement started when a patrol vessel encountered a suspected violator. Today, it often starts when an algorithm detects a pattern.</p><p>That shift may prove as significant for ocean governance as the invention of radar was for maritime navigation.</p>"
+      },
+      {
+        "id": "aa4e48816a6961a0",
+        "title": "Why heat pumps are still so hot in the US",
+        "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 16 Jul 2026 10:00:00 +0000",
+        "published_dt": "2026-07-16T10:00:00+00:00",
+        "summary": "It feels as if it should be illegal to even think about heating appliances during the height of summer\u2014seriously, these heat waves in New York have been brutal\u2014but we need to talk about heat pumps. The appliances use electricity for heating, they\u2019re incredibly efficient, and they\u2019re on the rise. (For what it\u2019s worth, many heat&#8230;"
+      },
+      {
         "id": "a44ae0747024a15b",
         "title": "When Career Risks Are Worth Taking",
         "url": "https://spectrum.ieee.org/career-risks",
@@ -861,7 +888,7 @@
         "source": "IEEE Spectrum",
         "published": "Wed, 15 Jul 2026 15:35:53 +0000",
         "published_dt": "2026-07-15T15:35:53+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/photo-collage-of-a-charismatic-elderly-man-raising-his-eyebrows-against-a-background-of-obscured-computer-programming-script.jpg?id=67155632&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0\" /><br /><br /><p class=\"intro-text\"><em>ELIZA is remembered as the world\u2019s first AI star, a kindly therapist in chatbot form that gently probed users\u2019 worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given to his experiment in human-machine interaction. For some, it heralded an age of automated psychotherapy, while others believed the program demonstrated sentience, a fallacy soon known as the \u201c<a href=\"https://spectrum.ieee.org/why-people-demanded-privacy-to-confide-in-the-worlds-first-chatbot\" target=\"_self\">ELIZA effect</a>.\u201d Based on published descriptions, ELIZA has been implemented on many different computers, but only recently has <a href=\"https://sites.google.com/view/elizaarchaeology/code\" rel=\"noopener noreferrer\" target=\"_blank\">the actual source code</a> been unearthed from <a href=\"https://archivesspace.mit.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">MIT\u2019s archives</a>. </em></p><p><em>In <a href=\"https://mitpress.mit.edu/9780262052481/inventing-eliza/\" target=\"_blank\">Inventing ELIZA: How the First Chatbot Shaped the Future of AI</a>, just published by <a href=\"https://mitpress.mit.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">MIT Press</a>, a squad of researchers analyze the code and reveal a complex program capable of much more than faking psychiatry. In fact, it could assume several different personas. The authors have also created <a href=\"https://sites.google.com/view/elizaarchaeology/try-eliza\" rel=\"noopener noreferrer\" target=\"_blank\">a faithful emulation of the therapist persona that you can try yourself</a></em><span><em> after reading the book excerpt below.</em></span></p><p class=\"drop-caps\">W<strong>hen it debuted in</strong> the mid-1960s, the ELIZA software program transformed the way people thought about interacting with computers. As the first chatbot, ELIZA demonstrated how a calculation machine might engage in conversation, ushering in a host of social and technical questions that still resonate today. Now we don\u2019t think twice about interacting with a machine in real time, conversing over text, or even speaking into the air to ask about the weather. In many ways, ELIZA shaped not only the way we think about <em><em>interacting</em></em> with computers but also how we think <em><em>about</em></em> them. It began to give a reality to the <a href=\"https://spectrum.ieee.org/tag/science-fiction\" target=\"_blank\">science fiction</a> stories of how we expect computers to work.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Orange book cover titled \\u201cInventing Eliza: How the First Chatbot Shaped the Future of AI\\u201d\" class=\"rm-shortcode\" id=\"03894\" src=\"https://spectrum.ieee.org/media-library/orange-book-cover-titled-u201cinventing-eliza-how-the-first-chatbot-shaped-the-future-of-ai-u201d.jpg?id=67155786&amp;width=980\" /> <small class=\"image-media media-caption\">This article is adapted from the new book \u201cInventing ELIZA: <a href=\"https://mitpress.mit.edu/9780262052481/inventing-eliza/\" target=\"_blank\">How the First Chatbot Shaped the Future of AI</a>\u201c (MIT Press, 2026).</small></p><p>Although ELIZA was far from a faultless conversation partner, it astonished its users. The recent discovery and archaeology of the original ELIZA source code represents a significant intervention in the history of computing. By examining the actual implementation of ELIZA rather than relying on later reconstructions and reimplementations, we challenge taken-for-granted assumptions about this key software artifact.</p><p>For example, the source code reveals that ELIZA was not merely a simple pattern-matching chatbot but can be better understood as a sophisticated platform designed for multiple \u201cpersonas,\u201d or scripts, with a complex set of capabilities, including script editing and contextual memory. The script that most people conflate with the program ELIZA was actually called Doctor, which performed the role of a psychotherapist. Yet, like a modern chatbot prompted to behave with different personalities, ELIZA could take on many roles.</p><p class=\"pull-quote\">\u201cThis code and script\u2026reveal underlying assumptions about language, therapy, and human-computer interaction that continue to influence modern AI development.\u201d</p><p>This unearthed material transforms our understanding of early AI development by demonstrating that Joseph Weizenbaum\u2019s technical innovations were far more advanced than previously documented. Moreover, the discrepancies between his published descriptions and the actual implementation help to show the gap between theoretical computational models and their material instantiations in computer source code, a tension that continues to shape digital culture today.</p><p>Although many technical innovations have emerged in the decades since ELIZA, examining the ELIZA/Doctor code offers a rare glimpse into one of the earliest formalized attempts to model human conversation. What makes ELIZA particularly fascinating is not only its historical significance but also what it reveals about Weizenbaum\u2019s views on both computing and human interaction. This code and script do not merely showcase programming techniques of the 1960s; they reveal underlying assumptions about language, therapy, and human-computer interaction that continue to influence modern AI development. By examining this code, we can start to uncover the sophisticated linguistic and programming techniques that allowed a rudimentary pattern-matching system to create a convincing simulation of understanding. But before we can read the lines of code, let us offer an overview of the system.</p><h2>How Did ELIZA Create Personas?</h2><p>The architectural distinction between ELIZA and Doctor represents an important design decision in AI history. Think of ELIZA as a system for interaction and Doctor as one set of rules that Weizenbaum devised, among others. This separation, manifested in ELIZA\u2019s system-script dichotomy, presaged numerous contemporary software patterns, from configuration-as-data to plug-in architectures and domain-specific languages.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"A 1960s chatbot program running on a 1980s IBM personal computer.\" class=\"rm-shortcode\" id=\"1b809\" src=\"https://spectrum.ieee.org/media-library/a-1960s-chatbot-program-running-on-a-1980s-ibm-personal-computer.jpg?id=67155917&amp;width=980\" /> <small class=\"image-media media-caption\">Based on published journal articles, ELIZA was re-created on many platforms, such as the IBM PC. However, the actual source code sat untouched in the MIT archives for many years. </small><small class=\"image-media media-photo-credit\">VCF Museum at InfoAge</small></p><p>Without question, the historical context of 1960s computing fundamentally shaped ELIZA\u2019s architecture as well. Decisions in computing that reflect material constraints create path dependencies and eventually become programming cultural norms. These constraints manifested in ELIZA\u2019s single-pass processing, tape-based storage and stack-oriented implementation. Yet within these limitations, Weizenbaum crafted an elegant solution. These technical features, though invisible to the users, are crucial to creating the illusion of understanding that made ELIZA so compelling.</p><p>Weizenbaum explained many of ELIZA\u2019s technical features in the 10-page paper published in the <a href=\"https://dl.acm.org/doi/10.1145/365153.365168\" target=\"_blank\">January 1966 edition of the journal <em><em>Communications of the Association of Computing Machinery</em></em></a> (<em><em>CACM</em></em>). But he chose to omit some essential details.</p><p>In that paper Weizenbaum published ELIZA\u2019s best known dialogue, which begins,</p><div style=\"font-family: 'Courier New', Courier, monospace; font-size: 18px; color: black; padding: 10px; line-height: 1.5;\"><p>Men are all alike.</p><p>IN WHAT WAY</p><p>They\u2019re always bugging us about something or other.</p><p>CAN YOU THINK OF A SPECIFIC EXAMPLE</p><p>Well, my boyfriend made me come here.</p></div><p>This dialogue marked ELIZA\u2019s public debut in 1966 as one of the examples produced by the Doctor script. By finding the source code for ELIZA and examining how it performs the Doctor script, we now better understand these two separate parts of a system and can explore the many other personas of ELIZA. In just some of the other scripts known to date, ELIZA was programmed to discuss math, <a href=\"https://spectrum.ieee.org/tag/poetry\" target=\"_blank\">poetry</a>, color, paradoxes, synchronization, relativity, France, and elevators.</p><p>These scripts work like templates. They are structured data that direct the ELIZA system to \u201cplay\u201d a particular task or role. By comparing archival and published ELIZA dialogues from interactions with a variety of scripts, including Doctor, we can understand more about bot personas and how they function, paying close attention to how a bot evokes social dynamics between system and interactor.</p><p>Ultimately, studying the dialogues and scripts demonstrates the crucial role that collaboration plays in these exchanges, as bot and user cocreate the sense of their interaction. To understand the full range of ELIZA\u2019s capabilities and conversational possibilities, let\u2019s take a look at the variety of scripts that were created for the ELIZA system.</p><p>What distinguishes each ELIZA script is both its subject matter and the linguistic and stylistic choices used to deliver that content. These choices are not neutral; they can be said to construct a particular persona with characteristics that emerge through the script\u2019s language patterns, vocabulary, and conversational approach. In short, it matters not just what you say but how you say it too.</p><p class=\"pull-quote\">\u201cThe aim was less to create a functional automated therapist and more to find a suitably constrained role to match the limitations of the programming environment.\u201d</p><p>For example, with the Doctor script Weizenbaum deliberately echoed the style of a Rogerian \u201ctalk\u201d therapist. He chose this persona because the psychiatric mode is one of the few types of conversations in which one person can \u201cassume the pose of knowing almost nothing of the real world. If, for example, one were to tell a psychiatrist \u2018I went for a long boat ride\u2019 and he responded, \u2018Tell me about boats,\u2019 one would not assume that he knew nothing about boats but that he had some purpose in so directing the subsequent conversation.\u201d</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Close-up of paper loaded in a teletype machine with a few paragraphs of chatbot dialogue written on it. \" class=\"rm-shortcode\" id=\"97e5e\" src=\"https://spectrum.ieee.org/media-library/close-up-of-paper-loaded-in-a-teletype-machine-with-a-few-paragraphs-of-chatbot-dialogue-written-on-it.jpg?id=67161217&amp;width=980\" /> <small class=\"image-media media-caption\">The first users of ELIZA interacted with it via teletype terminals.</small><small class=\"image-media media-photo-credit\">VCF Museum at InfoAge</small></p><p>Thus, the most famous persona created for ELIZA was a technical convenience. As human-computer interaction expert Lucy Suchman explains, \u201cThe Doctor program exploited the maxim that shared premises can remain unspoken: that the less we say in conversation, the more what is said is assumed to be self-evident.\u201d In creating the original ELIZA effect, less was more.</p><p>The aim was less to create a functional automated therapist and more to find a suitably constrained role to match the limitations of the programming environment. Then Weizenbaum composed the script to match the role by choosing specific words that evoked rhetorical tone and characterization, for example, <span style=\"font-family: 'Courier New', Courier, monospace; font-size: 22px; color: black; padding: 5px; line-height: 1.5;\">LET\u2019S DISCUSS FURTHER WHY YOU \u2026 WHAT DOES THAT SUGGEST TO YOU.</span> In Doctor, the machine side of the conversation needs to appear like a good listener who cares about what the user has mentioned before, so it often includes the user\u2019s text in its replies and keeps its responses open-ended. Because a real doctor would be inquisitive, the script contains lots of<span style=\"font-family: 'Courier New', Courier, monospace; font-size: 22px; color: black; padding: 5px; line-height: 1.5;\">WHAT</span> and<span style=\"font-family: 'Courier New', Courier, monospace; font-size: 22px; color: black; padding: 5px; line-height: 1.5;\">WHY</span> questions. In other scripts and dialogues, the script keywords and assigned responses reveal the design decisions that help create different specific personas. This variation becomes increasingly apparent as we look at the wider range of ELIZA scripts.</p><h2>What Were Some of ELIZA\u2019s Alternate Personas?</h2><p>Let\u2019s start with a script called Neweng, short for New England. By the mid-1950s, scientists were already taking up Turing\u2019s proposition for conversing with a computer as a tangible idea. In 1959, a \u201cconversation machine\u201d made by a small team at the University of Toronto Computation Centre could make small talk about the weather if preprompted with current data. Its script included a ranked series of time words, weather words, and emotion words, but the system had \u201ca rather narrow outlook,\u201d limited vocabulary, and no knowledge of syntax. According to its creators, \u201cin spite of this crudity, the results in passable conversation are surprisingly good, which in a way is a commentary on the shallowness of ordinary conversation about the weather.\u201d</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Typewritten list of inquisitive dialogue responses such as \\u201cWhat does that suggest to you?\\u201d\" class=\"rm-shortcode\" id=\"17794\" src=\"https://spectrum.ieee.org/media-library/typewritten-list-of-inquisitive-dialogue-responses-such-as-u201cwhat-does-that-suggest-to-you-u201d.jpg?id=67156058&amp;width=980\" /> <small class=\"image-media media-caption\">This fragment of ELIZA\u2019s source code shows how scripted responses were encoded, in this case to make ELIZA sound like a Rogerian therapist. </small><small class=\"image-media media-photo-credit\">MIT Libraries, Distinctive Collections</small></p><p>One of ELIZA\u2019s test scripts found in the archive had a similar function. Neweng does not soothe, therapize, or instruct, but only makes small talk. It chats as if at a boring dinner party.</p><div style=\"font-family: 'Courier New', Courier, monospace; font-size: 18px; color: black; padding: 10px; line-height: 1.5;\"><p>WHAT NEW ENGLAND STATE DO YOU LIKE BEST OF ALL</p><p>i love rhode island</p><p>I ENJOY THE BEACHES ON LONG ISLAND SOUND</p><p>WHAT OTHER NEW ENGLAND STATE DO YOU LIKE</p><p>i like massachusetts</p><p>THAT IS MY HOME STATE</p><p>WHAT OTHER NEW ENGLAND STATE DO YOU LIKE</p><p>you must like massachusetts too</p><p>WHAT OTHER NEW ENGLAND STATE DO YOU LIKE</p><p>i enjoy skiing in new hampshire</p><p>PLEASANTLY COOL IN THE SUMMER UP THERE</p><p>WHAT OTHER NEW ENGLAND STATE DO YOU LIKE</p><p>i like missouri</p><p>MISSOURI IS NOT A NEW ENGLAND STATE</p><p>WHAT OTHER NEW ENGLAND STATE DO YOU LIKE</p><p>i like cape cod</p><p>THAT\u2019S A BEAUTIFUL PART OF MASSACHUSETTS</p></div><p>What can we learn from such a basic conversation in which it seems like nothing interesting is shared? Despite the bland chat, a persona emerges from the bot script in phrases like <span style=\"font-family: 'Courier New', Courier, monospace; font-size: 22px; color: black; padding: 5px; line-height: 1.5;\">PLEASANTLY COOL</span> and <span style=\"font-family: 'Courier New', Courier, monospace; font-size: 22px; color: black; padding: 5px; line-height: 1.5;\">UP THERE</span> and in locations like <span style=\"font-family: 'Courier New', Courier, monospace; font-size: 22px; color: black; padding: 5px; line-height: 1.5;\">THE BEACHES ON LONG ISLAND SOUND</span>. From such comments, we can begin to imagine a persona who has not only a certain vocabulary but also certain hobbies and vacation spots. Perhaps implicit assumptions of race and class emerge as well.</p><p>A chatty persona might take on many forms, depending on where and when the conversation occurs. This one seems reserved, perhaps fitting its setting in 1960s New England. The system reminds the user that Missouri is not a New England state, but what if this conversation took place in Missouri, Texas, or Mexico? The machine persona would sound different in its cadence, tone, and references. What would we come to understand about a chat persona from Fire Island, from Brooklyn, from Berlin? What would they sound like, and what topics would they discuss?</p><p>These differences in subject matter do matter. They imply personas with entirely different backgrounds and experience, giving users wholly different interactions and affective relations. In this way, the Neweng script demonstrates how even simple algorithms making contextual responses about geography could generate a convincing sense of personhood and place. Whereas Neweng could be said to have created a casual, conversational persona focused on light social exchange, other scripts pushed ELIZA into more structured and educational roles. These scripts demonstrate how the system could be adapted not just for friendly chatter but for teaching.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Black-and-white portrait of a middle-aged balding man in aviator eyeglasses.\" class=\"rm-shortcode\" id=\"fc521\" src=\"https://spectrum.ieee.org/media-library/black-and-white-portrait-of-a-middle-aged-balding-man-in-aviator-eyeglasses.jpg?id=67155997&amp;width=980\" /><small class=\"image-media media-caption\">Edwin Taylor, at MIT\u2019s Education Research Center, developed alternate scripts for ELIZA, testing its ability to act as a teacher.</small><small class=\"image-media media-photo-credit\">MIT Libraries, Distinctive Collections</small></p><p>Meet ELIZA the tutor, quite unlike ELIZA the therapist or the chatty neighbor. Intrvw, Canvec, FVP1, and Arithm are a set of ELIZA scripts created as teaching tools used in experiments by Edwin F. Taylor at MIT\u2019s Education Research Center. These scripts run on later versions of ELIZA that incorporated an important technical innovation called conditional keyword matching.</p><p>Unlike the original ELIZA, which simply looked for keywords and generated responses based on their presence, these updated versions could track what had been discussed previously and branch into different conversational paths based on specific user answers. This development allowed ELIZA to simulate a kind of Socratic method, where a tutor guides learning through carefully sequenced questions that respond to student answers rather than simply presenting information.</p><p>These scripts construct the tutor persona through many subtle linguistic gestures that create characterization and rhetorical tone. This tone differs from that of Doctor, which asks open-ended questions and comes across as gentle and nonscientific. In the tutoring scripts, large blocks of informative text from the bot tend to dominate the conversation, and the tone is often more dry and unemotional in these explanations. The dialogues indicate structured scripts that include guidance to lead the student through narrow, Socratic learning paths.</p><p>In particular, the teaching scripts feature praise and critique. The dialogues for Intrvw, Canvec, and FVP1 are peppered with <span style=\"font-family: 'Courier New', Courier, monospace; font-size: 22px; color: black; padding: 5px; line-height: 1.5;\">EXCELLENT, VERY GOOD, RIGHT YOU ARE,</span> and <span style=\"font-family: 'Courier New', Courier, monospace; font-size: 22px; color: black; padding: 5px; line-height: 1.5;\">CONGRATULATIONS.</span> These create the sense of a supportive instructor cheering the student on. Such politeness has been taken up in contemporary bots like ChatGPT, which has been shown to perform better when people are polite back to it.</p><p>ELIZA could become a tutor more effectively as the system grew in its capabilities, another valuable reminder that ELIZA was not one program but a family of programs. After the publication of the 1966 <em><em>CACM</em></em> article, Weizenbaum continued to develop the systems for interaction and understanding. As an experiment, Weizenbaum wrote the Arithm script less as a tutor and more so to \u201cto illustrate the power of the evaluator to which ELIZA has access.\u201d It uses a friendly, plain language interface to let users do simple programming. The script can do calculations, assign variables to values, and perform operations on them. Math problems can be described in sentence form:</p><div style=\"font-family: 'Courier New', Courier, monospace; font-size: 18px; color: black; padding: 10px; line-height: 1.5;\"><p>The radius of a globe is 10.</p><p>A globe is a sphere. A sphere is an object.</p><p>What is the area of the globe.</p><p>IT\u2019S 1256.635916</p></div><p>The updated 1967 version of the ELIZA system can accumulate facts and store additional information. In this later version of ELIZA, when the system does not recognize information, it asks follow-up questions to gain data. As Weizenbaum explains, \u201cThe present script is designed to reveal, as opposed to conceal, lack of understanding and misunderstanding. Notice, for example, that when the program is asked to compute the area of the ball, it doesn\u2019t yet know that a ball is a sphere and that when the diameter of the ball needs to be computed the fact that a ball is an object has also not yet been established.\u201d Unlike Doctor, which asks questions to keep the conversation going, Arithm is building its store of, if not knowledge, then data and logic statements.</p><p>Although the variety of scripts helps us to see how a range of personas could be constructed through script programming ELIZA, they represent only half of the conversational process. A script can establish a foundation for a persona, but that persona only emerges fully through interaction with users who engage with it, interpret it, and respond to it in ways that may confirm, challenge, or transform the script\u2019s implicit character. <span class=\"ieee-end-mark\"></span></p>"
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/photo-collage-of-a-charismatic-elderly-man-raising-his-eyebrows-against-a-background-of-obscured-computer-programming-script.jpg?id=67155632&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0\" /><br /><br /><p class=\"intro-text\"><em>ELIZA is remembered as the world\u2019s first AI star, a kindly therapist in chatbot form that gently probed users\u2019 worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given to his experiment in human-machine interaction. For some, it heralded an age of automated psychotherapy, while others believed the program demonstrated sentience, a fallacy soon known as the \u201c<a href=\"https://spectrum.ieee.org/why-people-demanded-privacy-to-confide-in-the-worlds-first-chatbot\" target=\"_self\">ELIZA effect</a>.\u201d Based on published descriptions, ELIZA has been implemented on many different computers, but only recently has <a href=\"https://sites.google.com/view/elizaarchaeology/code\" rel=\"noopener noreferrer\" target=\"_blank\">the actual source code</a> been unearthed from <a href=\"https://archivesspace.mit.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">MIT\u2019s archives</a>. </em></p><p><em>In <a href=\"https://mitpress.mit.edu/9780262052481/inventing-eliza/\" target=\"_blank\">Inventing ELIZA: How the First Chatbot Shaped the Future of AI</a>, just published by <a href=\"https://mitpress.mit.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">MIT Press</a>, a squad of researchers analyze the code and reveal a complex program capable of much more than faking psychiatry. In fact, it could assume several different personas. The authors have also created <a href=\"https://sites.google.com/view/elizaarchaeology/try-eliza\" rel=\"noopener noreferrer\" target=\"_blank\">a faithful emulation of the therapist persona that you can try yourself</a></em><span><em> after reading the book excerpt below.</em></span></p><p class=\"drop-caps\">W<strong>hen it debuted in</strong> the mid-1960s, the ELIZA software program transformed the way people thought about interacting with computers. As the first chatbot, ELIZA demonstrated how a calculation machine might engage in conversation, ushering in a host of social and technical questions that still resonate today. Now we don\u2019t think twice about interacting with a machine in real time, conversing over text, or even speaking into the air to ask about the weather. In many ways, ELIZA shaped not only the way we think about <em><em>interacting</em></em> with computers but also how we think <em><em>about</em></em> them. It began to give a reality to the <a href=\"https://spectrum.ieee.org/tag/science-fiction\" target=\"_blank\">science fiction</a> stories of how we expect computers to work.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Orange book cover titled \\u201cInventing Eliza: How the First Chatbot Shaped the Future of AI\\u201d\" class=\"rm-shortcode\" id=\"03894\" src=\"https://spectrum.ieee.org/media-library/orange-book-cover-titled-u201cinventing-eliza-how-the-first-chatbot-shaped-the-future-of-ai-u201d.jpg?id=67155786&amp;width=980\" /> <small class=\"image-media media-caption\">This article is adapted from the new book \u201cInventing ELIZA: <a href=\"https://mitpress.mit.edu/9780262052481/inventing-eliza/\" target=\"_blank\">How the First Chatbot Shaped the Future of AI</a>\u201c (MIT Press, 2026).</small></p><p>Although ELIZA was far from a faultless conversation partner, it astonished its users. The recent discovery and archaeology of the original ELIZA source code represents a significant intervention in the history of computing. By examining the actual implementation of ELIZA rather than relying on later reconstructions and reimplementations, we challenge taken-for-granted assumptions about this key software artifact.</p><p>For example, the source code reveals that ELIZA was not merely a simple pattern-matching chatbot but can be better understood as a sophisticated platform designed for multiple \u201cpersonas,\u201d or scripts, with a complex set of capabilities, including script editing and contextual memory. The script that most people conflate with the program ELIZA was actually called Doctor, which performed the role of a psychotherapist. Yet, like a modern chatbot prompted to behave with different personalities, ELIZA could take on many roles.</p><p class=\"pull-quote\">\u201cThis code and script\u2026reveal underlying assumptions about language, therapy, and human-computer interaction that continue to influence modern AI development.\u201d</p><p>This unearthed material transforms our understanding of early AI development by demonstrating that Joseph Weizenbaum\u2019s technical innovations were far more advanced than previously documented. Moreover, the discrepancies between his published descriptions and the actual implementation help to show the gap between theoretical computational models and their material instantiations in computer source code, a tension that continues to shape digital culture today.</p><p>Although many technical innovations have emerged in the decades since ELIZA, examining the ELIZA/Doctor code offers a rare glimpse into one of the earliest formalized attempts to model human conversation. What makes ELIZA particularly fascinating is not only its historical significance but also what it reveals about Weizenbaum\u2019s views on both computing and human interaction. This code and script do not merely showcase programming techniques of the 1960s; they reveal underlying assumptions about language, therapy, and human-computer interaction that continue to influence modern AI development. By examining this code, we can start to uncover the sophisticated linguistic and programming techniques that allowed a rudimentary pattern-matching system to create a convincing simulation of understanding. But before we can read the lines of code, let us offer an overview of the system.</p><h2>How Did ELIZA Create Personas?</h2><p>The architectural distinction between ELIZA and Doctor represents an important design decision in AI history. Think of ELIZA as a system for interaction and Doctor as one set of rules that Weizenbaum devised, among others. This separation, manifested in ELIZA\u2019s system-script dichotomy, presaged numerous contemporary software patterns, from configuration-as-data to plug-in architectures and domain-specific languages.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"A 1960s chatbot program running on a 1980s IBM personal computer.\" class=\"rm-shortcode\" id=\"1b809\" src=\"https://spectrum.ieee.org/media-library/a-1960s-chatbot-program-running-on-a-1980s-ibm-personal-computer.jpg?id=67155917&amp;width=980\" /> <small class=\"image-media media-caption\">Based on published journal articles, ELIZA was re-created on many platforms, such as the IBM PC. However, the actual source code sat untouched in the MIT archives for many years. </small><small class=\"image-media media-photo-credit\">VCF Museum at InfoAge</small></p><p>Without question, the historical context of 1960s computing fundamentally shaped ELIZA\u2019s architecture as well. Decisions in computing that reflect material constraints create path dependencies and eventually become programming cultural norms. These constraints manifested in ELIZA\u2019s single-pass processing, tape-based storage and stack-oriented implementation. Yet within these limitations, Weizenbaum crafted an elegant solution. These technical features, though invisible to the users, are crucial to creating the illusion of understanding that made ELIZA so compelling.</p><p>Weizenbaum explained many of ELIZA\u2019s technical features in the 10-page paper published in the <a href=\"https://dl.acm.org/doi/10.1145/365153.365168\" target=\"_blank\">January 1966 edition of the journal <em><em>Communications of the Association for Computing Machinery</em></em></a> (<em><em>CACM</em></em>). But he chose to omit some essential details.</p><p>In that paper Weizenbaum published ELIZA\u2019s best known dialogue, which begins,</p><div style=\"font-family: 'Courier New', Courier, monospace; font-size: 18px; color: black; padding: 10px; line-height: 1.5;\"><p>Men are all alike.</p><p>IN WHAT WAY</p><p>They\u2019re always bugging us about something or other.</p><p>CAN YOU THINK OF A SPECIFIC EXAMPLE</p><p>Well, my boyfriend made me come here.</p></div><p>This dialogue marked ELIZA\u2019s public debut in 1966 as one of the examples produced by the Doctor script. By finding the source code for ELIZA and examining how it performs the Doctor script, we now better understand these two separate parts of a system and can explore the many other personas of ELIZA. In just some of the other scripts known to date, ELIZA was programmed to discuss math, <a href=\"https://spectrum.ieee.org/tag/poetry\" target=\"_blank\">poetry</a>, color, paradoxes, synchronization, relativity, France, and elevators.</p><p>These scripts work like templates. They are structured data that direct the ELIZA system to \u201cplay\u201d a particular task or role. By comparing archival and published ELIZA dialogues from interactions with a variety of scripts, including Doctor, we can understand more about bot personas and how they function, paying close attention to how a bot evokes social dynamics between system and interactor.</p><p>Ultimately, studying the dialogues and scripts demonstrates the crucial role that collaboration plays in these exchanges, as bot and user cocreate the sense of their interaction. To understand the full range of ELIZA\u2019s capabilities and conversational possibilities, let\u2019s take a look at the variety of scripts that were created for the ELIZA system.</p><p>What distinguishes each ELIZA script is both its subject matter and the linguistic and stylistic choices used to deliver that content. These choices are not neutral; they can be said to construct a particular persona with characteristics that emerge through the script\u2019s language patterns, vocabulary, and conversational approach. In short, it matters not just what you say but how you say it too.</p><p class=\"pull-quote\">\u201cThe aim was less to create a functional automated therapist and more to find a suitably constrained role to match the limitations of the programming environment.\u201d</p><p>For example, with the Doctor script Weizenbaum deliberately echoed the style of a Rogerian \u201ctalk\u201d therapist. He chose this persona because the psychiatric mode is one of the few types of conversations in which one person can \u201cassume the pose of knowing almost nothing of the real world. If, for example, one were to tell a psychiatrist \u2018I went for a long boat ride\u2019 and he responded, \u2018Tell me about boats,\u2019 one would not assume that he knew nothing about boats but that he had some purpose in so directing the subsequent conversation.\u201d</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Close-up of paper loaded in a teletype machine with a few paragraphs of chatbot dialogue written on it. \" class=\"rm-shortcode\" id=\"97e5e\" src=\"https://spectrum.ieee.org/media-library/close-up-of-paper-loaded-in-a-teletype-machine-with-a-few-paragraphs-of-chatbot-dialogue-written-on-it.jpg?id=67161217&amp;width=980\" /> <small class=\"image-media media-caption\">The first users of ELIZA interacted with it via teletype terminals.</small><small class=\"image-media media-photo-credit\">VCF Museum at InfoAge</small></p><p>Thus, the most famous persona created for ELIZA was a technical convenience. As human-computer interaction expert Lucy Suchman explains, \u201cThe Doctor program exploited the maxim that shared premises can remain unspoken: that the less we say in conversation, the more what is said is assumed to be self-evident.\u201d In creating the original ELIZA effect, less was more.</p><p>The aim was less to create a functional automated therapist and more to find a suitably constrained role to match the limitations of the programming environment. Then Weizenbaum composed the script to match the role by choosing specific words that evoked rhetorical tone and characterization, for example, <span style=\"font-family: 'Courier New', Courier, monospace; font-size: 22px; color: black; padding: 5px; line-height: 1.5;\">LET\u2019S DISCUSS FURTHER WHY YOU \u2026 WHAT DOES THAT SUGGEST TO YOU.</span> In Doctor, the machine side of the conversation needs to appear like a good listener who cares about what the user has mentioned before, so it often includes the user\u2019s text in its replies and keeps its responses open-ended. Because a real doctor would be inquisitive, the script contains lots of<span style=\"font-family: 'Courier New', Courier, monospace; font-size: 22px; color: black; padding: 5px; line-height: 1.5;\">WHAT</span> and<span style=\"font-family: 'Courier New', Courier, monospace; font-size: 22px; color: black; padding: 5px; line-height: 1.5;\">WHY</span> questions. In other scripts and dialogues, the script keywords and assigned responses reveal the design decisions that help create different specific personas. This variation becomes increasingly apparent as we look at the wider range of ELIZA scripts.</p><h2>What Were Some of ELIZA\u2019s Alternate Personas?</h2><p>Let\u2019s start with a script called Neweng, short for New England. By the mid-1950s, scientists were already taking up Turing\u2019s proposition for conversing with a computer as a tangible idea. In 1959, a \u201cconversation machine\u201d made by a small team at the University of Toronto Computation Centre could make small talk about the weather if preprompted with current data. Its script included a ranked series of time words, weather words, and emotion words, but the system had \u201ca rather narrow outlook,\u201d limited vocabulary, and no knowledge of syntax. According to its creators, \u201cin spite of this crudity, the results in passable conversation are surprisingly good, which in a way is a commentary on the shallowness of ordinary conversation about the weather.\u201d</p><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"Typewritten list of inquisitive dialogue responses such as \\u201cWhat does that suggest to you?\\u201d\" class=\"rm-shortcode\" id=\"17794\" src=\"https://spectrum.ieee.org/media-library/typewritten-list-of-inquisitive-dialogue-responses-such-as-u201cwhat-does-that-suggest-to-you-u201d.jpg?id=67156058&amp;width=980\" /> <small class=\"image-media media-caption\">This fragment of ELIZA\u2019s source code shows how scripted responses were encoded, in this case to make ELIZA sound like a Rogerian therapist. </small><small class=\"image-media media-photo-credit\">MIT Libraries, Distinctive Collections</small></p><p>One of ELIZA\u2019s test scripts found in the archive had a similar function. Neweng does not soothe, therapize, or instruct, but only makes small talk. It chats as if at a boring dinner party.</p><div style=\"font-family: 'Courier New', Courier, monospace; font-size: 18px; color: black; padding: 10px; line-height: 1.5;\"><p>WHAT NEW ENGLAND STATE DO YOU LIKE BEST OF ALL</p><p>i love rhode island</p><p>I ENJOY THE BEACHES ON LONG ISLAND SOUND</p><p>WHAT OTHER NEW ENGLAND STATE DO YOU LIKE</p><p>i like massachusetts</p><p>THAT IS MY HOME STATE</p><p>WHAT OTHER NEW ENGLAND STATE DO YOU LIKE</p><p>you must like massachusetts too</p><p>WHAT OTHER NEW ENGLAND STATE DO YOU LIKE</p><p>i enjoy skiing in new hampshire</p><p>PLEASANTLY COOL IN THE SUMMER UP THERE</p><p>WHAT OTHER NEW ENGLAND STATE DO YOU LIKE</p><p>i like missouri</p><p>MISSOURI IS NOT A NEW ENGLAND STATE</p><p>WHAT OTHER NEW ENGLAND STATE DO YOU LIKE</p><p>i like cape cod</p><p>THAT\u2019S A BEAUTIFUL PART OF MASSACHUSETTS</p></div><p>What can we learn from such a basic conversation in which it seems like nothing interesting is shared? Despite the bland chat, a persona emerges from the bot script in phrases like <span style=\"font-family: 'Courier New', Courier, monospace; font-size: 22px; color: black; padding: 5px; line-height: 1.5;\">PLEASANTLY COOL</span> and <span style=\"font-family: 'Courier New', Courier, monospace; font-size: 22px; color: black; padding: 5px; line-height: 1.5;\">UP THERE</span> and in locations like <span style=\"font-family: 'Courier New', Courier, monospace; font-size: 22px; color: black; padding: 5px; line-height: 1.5;\">THE BEACHES ON LONG ISLAND SOUND</span>. From such comments, we can begin to imagine a persona who has not only a certain vocabulary but also certain hobbies and vacation spots. Perhaps implicit assumptions of race and class emerge as well.</p><p>A chatty persona might take on many forms, depending on where and when the conversation occurs. This one seems reserved, perhaps fitting its setting in 1960s New England. The system reminds the user that Missouri is not a New England state, but what if this conversation took place in Missouri, Texas, or Mexico? The machine persona would sound different in its cadence, tone, and references. What would we come to understand about a chat persona from Fire Island, from Brooklyn, from Berlin? What would they sound like, and what topics would they discuss?</p><p>These differences in subject matter do matter. They imply personas with entirely different backgrounds and experience, giving users wholly different interactions and affective relations. In this way, the Neweng script demonstrates how even simple algorithms making contextual responses about geography could generate a convincing sense of personhood and place. Whereas Neweng could be said to have created a casual, conversational persona focused on light social exchange, other scripts pushed ELIZA into more structured and educational roles. These scripts demonstrate how the system could be adapted not just for friendly chatter but for teaching.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Black-and-white portrait of a middle-aged balding man in aviator eyeglasses.\" class=\"rm-shortcode\" id=\"fc521\" src=\"https://spectrum.ieee.org/media-library/black-and-white-portrait-of-a-middle-aged-balding-man-in-aviator-eyeglasses.jpg?id=67155997&amp;width=980\" /><small class=\"image-media media-caption\">Edwin Taylor, at MIT\u2019s Education Research Center, developed alternate scripts for ELIZA, testing its ability to act as a teacher.</small><small class=\"image-media media-photo-credit\">MIT Libraries, Distinctive Collections</small></p><p>Meet ELIZA the tutor, quite unlike ELIZA the therapist or the chatty neighbor. Intrvw, Canvec, FVP1, and Arithm are a set of ELIZA scripts created as teaching tools used in experiments by Edwin F. Taylor at MIT\u2019s Education Research Center. These scripts run on later versions of ELIZA that incorporated an important technical innovation called conditional keyword matching.</p><p>Unlike the original ELIZA, which simply looked for keywords and generated responses based on their presence, these updated versions could track what had been discussed previously and branch into different conversational paths based on specific user answers. This development allowed ELIZA to simulate a kind of Socratic method, where a tutor guides learning through carefully sequenced questions that respond to student answers rather than simply presenting information.</p><p>These scripts construct the tutor persona through many subtle linguistic gestures that create characterization and rhetorical tone. This tone differs from that of Doctor, which asks open-ended questions and comes across as gentle and nonscientific. In the tutoring scripts, large blocks of informative text from the bot tend to dominate the conversation, and the tone is often more dry and unemotional in these explanations. The dialogues indicate structured scripts that include guidance to lead the student through narrow, Socratic learning paths.</p><p>In particular, the teaching scripts feature praise and critique. The dialogues for Intrvw, Canvec, and FVP1 are peppered with <span style=\"font-family: 'Courier New', Courier, monospace; font-size: 22px; color: black; padding: 5px; line-height: 1.5;\">EXCELLENT, VERY GOOD, RIGHT YOU ARE,</span> and <span style=\"font-family: 'Courier New', Courier, monospace; font-size: 22px; color: black; padding: 5px; line-height: 1.5;\">CONGRATULATIONS.</span> These create the sense of a supportive instructor cheering the student on. Such politeness has been taken up in contemporary bots like ChatGPT, which has been shown to perform better when people are polite back to it.</p><p>ELIZA could become a tutor more effectively as the system grew in its capabilities, another valuable reminder that ELIZA was not one program but a family of programs. After the publication of the 1966 <em><em>CACM</em></em> article, Weizenbaum continued to develop the systems for interaction and understanding. As an experiment, Weizenbaum wrote the Arithm script less as a tutor and more so to \u201cto illustrate the power of the evaluator to which ELIZA has access.\u201d It uses a friendly, plain language interface to let users do simple programming. The script can do calculations, assign variables to values, and perform operations on them. Math problems can be described in sentence form:</p><div style=\"font-family: 'Courier New', Courier, monospace; font-size: 18px; color: black; padding: 10px; line-height: 1.5;\"><p>The radius of a globe is 10.</p><p>A globe is a sphere. A sphere is an object.</p><p>What is the area of the globe.</p><p>IT\u2019S 1256.635916</p></div><p>The updated 1967 version of the ELIZA system can accumulate facts and store additional information. In this later version of ELIZA, when the system does not recognize information, it asks follow-up questions to gain data. As Weizenbaum explains, \u201cThe present script is designed to reveal, as opposed to conceal, lack of understanding and misunderstanding. Notice, for example, that when the program is asked to compute the area of the ball, it doesn\u2019t yet know that a ball is a sphere and that when the diameter of the ball needs to be computed the fact that a ball is an object has also not yet been established.\u201d Unlike Doctor, which asks questions to keep the conversation going, Arithm is building its store of, if not knowledge, then data and logic statements.</p><p>Although the variety of scripts helps us to see how a range of personas could be constructed through script programming ELIZA, they represent only half of the conversational process. A script can establish a foundation for a persona, but that persona only emerges fully through interaction with users who engage with it, interpret it, and respond to it in ways that may confirm, challenge, or transform the script\u2019s implicit character. <span class=\"ieee-end-mark\"></span></p>"
       },
       {
         "id": "1cde631f28eb35d8",
@@ -880,33 +907,6 @@
         "published": "Tue, 14 Jul 2026 12:10:00 +0000",
         "published_dt": "2026-07-14T12:10:00+00:00",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic\u2019s latest AI discovery does\u2014and doesn\u2019t\u2014show \u2014James O&#8217;Donnell When Anthropic announced last week that it had found a new window into its models\u2019 \u201cinternal thoughts\u201d as they reason through answers,&#8230;"
-      },
-      {
-        "id": "2ac575945e1b337f",
-        "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
-        "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 14 Jul 2026 08:00:00 +0000",
-        "published_dt": "2026-07-14T08:00:00+00:00",
-        "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.&#8230;"
-      },
-      {
-        "id": "2f27e2a146c7bcb1",
-        "title": "Panasonic\u2019s PV-460 Camcorder Stabilized Shaky Videos",
-        "url": "https://spectrum.ieee.org/panasonic-camcorder-ieee-milstone",
-        "source": "IEEE Spectrum",
-        "published": "Mon, 13 Jul 2026 18:00:02 +0000",
-        "published_dt": "2026-07-13T18:00:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-panasonic-pv-460-vhs-camcorder.jpg?id=67124801&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p>If you grew up in the 1980s or \u201990s, you likely remember shaky home video footage, taken with a handheld <a href=\"https://spectrum.ieee.org/the-consumer-electronics-hall-of-fame-sony-dcrvx1000\" target=\"_self\">camcorder</a>, of family gatherings, vacations, and other events.</p><p>Camcorders combined a camera with a <a href=\"https://spectrum.ieee.org/the-consumer-electronics-hall-of-fame-panasonic-pv1563-vcr\" target=\"_self\">video recorder</a>. They included a rechargeable battery, a slot for a videotape, and a shoulder strap. Most were outfitted with an optical zoom lens and a small, articulating screen\u2014a display mounted on a hinge that could tilt and rotate. The operator could check the screen to view what was being recorded.</p><p>The user\u2019s natural hand and body movements when filming led to jittery footage. The best way to get a steady shot was to place the camcorder on a tripod or a gimbal: a motorized stabilizer.</p><p>There were fewer poor-quality recordings after <a href=\"https://shop.panasonic.com/?srsltid=AfmBOoo0RBpUs6m6YB9hKgfZ_X7LI-NXDING3hgK9f8jlo9-oyTfAxg8\" rel=\"noopener noreferrer\" target=\"_blank\">Panasonic</a> introduced its <a href=\"https://ieeemilestones.ethw.org/Milestone-Proposal:Camcorder_with_image_stabilization,_1988#Historical_Impact\" rel=\"noopener noreferrer\" target=\"_blank\">PV-460 VHS camcorder</a> in 1988. It was the first video camera to include an optical image stabilizer, which compensated for movements. Stabilization features are now standard in today\u2019s cameras including ones found in smartphones and drones.</p><p>The PV-460 camcorder was honored as an <a href=\"https://ieeemilestones.ethw.org/Milestone-Proposal:Camcorder_with_image_stabilization%2C_1988\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Milestone</a> on 9 July. The dedication ceremony was held in Kadoma, Japan, at the <a href=\"https://holdings.panasonic/global/corporate/about/history/panasonic-museum.html\" rel=\"noopener noreferrer\" target=\"_blank\">Panasonic Museum</a>, which displays the company\u2019s past products.</p><p>The <a href=\"https://www.ieee-jp.org/section/kansai/english/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Kansai Section</a> in Japan sponsored the Milestone.</p><p>\u201cThe release of the PV-460 fundamentally transformed personal videography, enriching the way people captured travel, events, and family memories,\u201d section members wrote in support of the Milestone nomination. Their <a href=\"https://ieeemilestones.ethw.org/Milestone-Proposal:Camcorder_with_image_stabilization%2C_1988\" rel=\"noopener noreferrer\" target=\"_blank\">proposal</a> is available <a href=\"https://ethw.org/Milestones:List_of_Milestones#Milestones_By_Year_Dedicated_And_Region\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p><p>\u201cIts image stabilization features democratized video creation by dramatically lowering technical barriers, allowing ordinary people to express themselves with newfound creative freedom,\u201d they wrote. \u201cBeyond the home, image stabilization technology found critical applications in specialized fields, contributing to advancements in areas such as educational media and telemedicine.\u201d</p><h2>The history of camcorders</h2><p>Before the camcorder was invented in 1982, people filming events in the 1970s and early 1980s used two pieces of equipment: a video camera and a separate video cassette recorder (VCR), which were connected by a multipin cable. The camera was about the size of a toaster, and the VCR could be as large as a suitcase. To record, the person operated the camera with one hand and carried the VCR in the other or rested it on a shoulder. The cable transmitted the images from the camera to the cassette.</p><p>The PV-460 was made possible by several groundbreaking innovations, according to the Milestone proposal, one of which dates back to the 1950s.</p><p>In 1956 Italian manufacturer <a href=\"https://camera-wiki.org/wiki/Durst\" rel=\"noopener noreferrer\" target=\"_blank\">Durst</a> released its <a href=\"https://camera-wiki.org/wiki/Durst_Automatica\" rel=\"noopener noreferrer\" target=\"_blank\">Automatica</a>, considered one of the first cameras to use automatic exposure technology. By combining a light meter with the camera\u2019s internal mechanical systems, the technology removed the necessity of calculating exposure settings by hand when the lighting shifted or other conditions changed. The innovation enabled amateur photographers to take decent pictures.</p><p>The next breakthrough technology\u2014autofocus\u2014was invented in 1973 by <a href=\"https://www.denverpost.com/2018/01/28/autofocus-inventor-norman-stauffer-obituary/\" rel=\"noopener noreferrer\" target=\"_blank\">Norman Stauffer</a>, a manager of research for <a href=\"https://www.honeywell.com/us/en\" rel=\"noopener noreferrer\" target=\"_blank\">Honeywell</a> in Littleton, Colo. It uses a sensor, a control system, and a motor to focus on a selected area. The invention led to the development of early electronic autofocus cameras, which eliminated the need for photographers to manually adjust the lens. Stauffer received the 1990 <a href=\"https://corporate-awards.ieee.org/award/ieee-masaru-ibuka-consumer-technology-award/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Masaru Ibuka Consumer Technology Award</a> for his invention.</p><p class=\"pull-quote\">\u201cThe release of the PV-460 fundamentally transformed personal videography, enriching the way people captured travel, events, and family memories.\u201d <strong>\u2014Milestone sponsors</strong></p><p><span></span>U.S. inventor <a href=\"https://www.lemelson.org/\" target=\"_blank\">Jerome Lemelson</a> is credited with developing technologies that underpinned the camcorder, according to <a href=\"https://lemelson.mit.edu/resources/jerome-lemelson\" target=\"_blank\">MIT</a>. In the 1950s and \u201960s, Lemelson filed several patent applications related to video and audio recording devices. In 1980 he was granted patents related to a portable video camera system. In 1982 <a href=\"https://docs.google.com/document/d/1JGo1I9O9ju-Dd5nmtnjcsjXr-d-y6biQZlmuXgOqfKY/edit?tab=t.0#heading=h.qavk3zi7545\" target=\"_blank\">JVC</a> and <a href=\"https://sony.com/en/\" target=\"_blank\">Sony</a> used the technologies to develop what they called the camera/recorder, which became known as a camcorder.</p><p>Sony released the first handheld camcorder in 1983: the <a href=\"https://en.wikipedia.org/wiki/Betamovie\" rel=\"noopener noreferrer\" target=\"_blank\">Betamovie BMC-100P</a>. It used the <a href=\"https://en.wikipedia.org/wiki/Betamax\" rel=\"noopener noreferrer\" target=\"_blank\">Betamax</a> videocassette format and could record up to 3.5 hours of footage on 1.27-centimeter cassette tape. The operator rested the 2.5-kilogram camcorder on top of a shoulder to shoot footage. It sold for around US $2,000 at the time (roughly $33,400 today). The machine couldn\u2019t rewind or play back tapes; it could only record.</p><p>Other electronics companies including JVC soon introduced their own models using the VCR format, which eventually replaced Betamax.</p><p>Over time, camcorders became more compact.</p><p>But none of the companies could fix the shaky-footage problem.</p><h2>Solving a shaky problem</h2><p>A team at Panasonic led by researcher <a href=\"https://www.jpo.go.jp/e/news/koho/archive/125/document/relay_message/11.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Mitsuaki Oshima</a> took on the task of image stabilization: detecting and correcting small camera movements, referred to as <em><em>camera shake</em></em>, according to the proposal. Oshima, an IEEE life senior member, is now an honorary Fellow at Panasonic.</p><p>\u201cThe movements that needed to be detected and corrected included horizontal, vertical, and rotational motions\u2014specifically pitch, yaw, and roll,\u201d the Milestone sponsors wrote. \u201cRotational motion, in particular, becomes the dominant factor affecting image stability during high-magnification shooting. Therefore, the development team focused on detecting rotational motion and began developing an angular velocity sensor.\u201d</p><p>An AVS, essentially a gyroscope, detects how quickly an object is changing its orientation in space.</p><p>Sensors capable of detecting angular velocity were large and expensive at the time, making them unsuitable for consumer video cameras, the sponsors wrote. What was needed, they said, was a compact and inexpensive version.</p><p>Oshima and his team built a high-performance, small, low-cost vibration-type gyroscope. The stabilization mechanism included a miniaturized sensor paired with an optical-axis correction mechanism.</p><p>The mechanism adjusts the lens or image sensor to counteract physical shifting and vibrations, ensuring that the light path remains centered on the sensor\u2014which is crucial for maximizing sharpness and quality, the Milestone sponsors wrote.</p><p>\u201cThe system detects lens displacement caused by camera shake and immediately compensates for it, ensuring stable video footage,\u201d they wrote. \u201cAs a result, the effects of camera shake are minimized, allowing users to capture smooth and steady videos with ease.\u201d</p><p>Without Oshima\u2019s image stabilization technology, the PV-460 wouldn\u2019t have been developed and released in 1988.</p><p>The technology was patented and broadly licensed by other companies. It has become a standard feature in a variety of imaging applications.</p><h2>Awards and accolades</h2><p>The PV-460 gained instant popularity when it debuted in June 1988. It received rave reviews at that year\u2019s <a href=\"https://www.ces.tech/\" rel=\"noopener noreferrer\" target=\"_blank\">Consumer Electronics Show</a>.</p><p>Panasonic received a <a href=\"https://www.rdworldonline.com/revealing-the-2025-rd-100-awards-winners/\" rel=\"noopener noreferrer\" target=\"_blank\">100 Award</a> in 1989 from <a href=\"https://www.rdworldonline.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>R&amp;D</em></em> <em><em>World</em></em></a><em> </em>magazine for \u201cthe development of a VHS camcorder with an antishake mechanism.\u201d</p><p>Oshima\u2019s research paper, \u201c<a href=\"https://ieeexplore.ieee.org/document/106892\" rel=\"noopener noreferrer\" target=\"_blank\">VHS Camcorder With Electronic Image Stabilizer</a>,\u201d and others are available in the <a href=\"https://ieeexplore.ieee.org/Xplore/home.jsp\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Xplore Digital Library</a>.</p><p><span>To learn more about historical figures in engineering, IEEE Milestones, and IEEE History Center programs and events, check out <em><a href=\"https://spectrum.ieee.org/the-institute/\" target=\"_blank\">The Institute\u2019</a>s</em>  IEEE Tech History <a href=\"https://spectrum.ieee.org/tag/ieee-history\" target=\"_self\">collection</a>.<em> IEEE Spectrum</em> also covers aspects of <a href=\"https://spectrum.ieee.org/topic/tech-history/\" target=\"_blank\">tech history</a>. </span></p><h2>Milestone plaque display</h2><p>The Milestone plaque is to be displayed on the ground floor of the Panasonic Museum, which is open to the public. The museum is located near the now-shuttered Panasonic research lab where the technology was developed. The plaque reads:</p><p><em><em>\u201cIn 1988 the pioneering PV-460 camcorder equipped with image stabilization for enabling smooth and steady video capture was introduced by Panasonic. By pairing a miniaturized vibrating-structure gyroscope sensor with an optical-axis correction mechanism, the PV-460 eliminated the jitter caused by hand motion. Broad international licensing of this patented scheme made it a standard feature in film and digital cameras, smartphones, and related imaging devices.\u201d</em></em></p><p>Selected by the <a href=\"https://history.ieee.org/about/ieee-history-committee/\" target=\"_blank\">IEEE History Committee</a> and endorsed by the <a href=\"https://www.ieee.org/about/corporate/board\" target=\"_blank\">IEEE Board of Directors</a>, IEEE Milestones recognize outstanding technical developments around the world that are at least 25 years old. The Milestone program is administered by the <a href=\"https://www.ieee.org/about/history-center\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE history and heritage group</a>.</p>"
-      },
-      {
-        "id": "5ac468313677b57f",
-        "title": "What Anthropic\u2019s latest AI discovery does\u2014and doesn\u2019t\u2014show",
-        "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 13 Jul 2026 18:00:00 +0000",
-        "published_dt": "2026-07-13T18:00:00+00:00",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Anthropic\u2014currently the world\u2019s most valuable AI company, with a nearly $1 trillion valuation\u2014has a reputation for publishing strange and heady research. It\u2019s looking into whether AI models can feel pain, for example,&#8230;"
       }
     ]
   }
