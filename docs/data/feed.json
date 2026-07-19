@@ -1,16 +1,7 @@
 {
-  "generated_at": "2026-07-18T13:34:44.486162+00:00",
+  "generated_at": "2026-07-19T13:37:22.766086+00:00",
   "categories": {
     "Biotech": [
-      {
-        "id": "2137557f1810eecf",
-        "title": "Opinion: STAT readers on the value of primary care, obesity as a disease, and more",
-        "url": "https://www.statnews.com/2026/07/18/primary-care-debate-letters-to-editor/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 18 Jul 2026 08:30:00 +0000",
-        "published_dt": "2026-07-18T08:30:00+00:00",
-        "summary": "\u201cThe real opportunity is to move beyond policies and narratives that pit specialties against one another,\u201d presidents of the AAFP, ACP, and AAP write."
-      },
       {
         "id": "b304d4ea7640d69d",
         "title": "Predicting biotech clinical trials and a new Alzheimer\u2019s drug controversy",
@@ -102,13 +93,22 @@
         "summary": "The FDA has approved a new small molecule inhibitor from Celcuity with blockbuster potential that could become a new standard-of-care for patients with breast cancer."
       },
       {
-        "id": "859f2ddc3fcb9e36",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-plans-release-more-drug-rejection-letters-controversial-policy-resumes\" hreflang=\"en\">FDA plans to release more drug rejection letters as controversial policy resumes</a>",
-        "url": "https://www.fiercebiotech.com/biotech/fda-plans-release-more-drug-rejection-letters-controversial-policy-resumes",
-        "source": "Fierce Biotech",
-        "published": "Jul 14, 2026 2:19pm",
-        "published_dt": "2026-07-14T14:19:00+00:00",
-        "summary": "After pausing a controversial policy to publicly release drug rejection letters in April, the FDA today confirmed that the pause has been lifted and that more documents will be coming down the line."
+        "id": "114007d3c4bc53ae",
+        "title": "Opinion: Beware the unintended consequences of testosterone screening for military servicemembers",
+        "url": "https://www.statnews.com/2026/07/18/military-testosterone-screening-supplements/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sat, 18 Jul 2026 21:21:10 +0000",
+        "published_dt": "2026-07-18T21:21:10+00:00",
+        "summary": "\u201cI fear that the widespread rollout of testosterone screening may lead to some surprising and unintended consequences,\u201d writes a urologist who studies testosterone."
+      },
+      {
+        "id": "2137557f1810eecf",
+        "title": "Opinion: STAT readers on the value of primary care, obesity as a disease, and more",
+        "url": "https://www.statnews.com/2026/07/18/primary-care-debate-letters-to-editor/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sat, 18 Jul 2026 08:30:00 +0000",
+        "published_dt": "2026-07-18T08:30:00+00:00",
+        "summary": "\u201cThe real opportunity is to move beyond policies and narratives that pit specialties against one another,\u201d presidents of the AAFP, ACP, and AAP write."
       },
       {
         "id": "7514bd8f07b237db",
@@ -230,15 +230,6 @@
     ],
     "Engineering & Aerospace": [
       {
-        "id": "cf407071ad8247e1",
-        "title": "Skyroot Aerospace reaches orbit on first Vikram-1 launch",
-        "url": "https://spacenews.com/skyroot-aerospace-reaches-orbit-on-first-vikram-1-launch/",
-        "source": "SpaceNews",
-        "published": "Sat, 18 Jul 2026 08:03:59 +0000",
-        "published_dt": "2026-07-18T08:03:59+00:00",
-        "summary": "<figure><img alt=\"Skyroot Vikram-1 launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"577\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/vikram1-1stlaunch.jpeg?fit=1024%2C577&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Skyroot Aerospace\u2019s Vikram-1 rocket successfully lifted off on its inaugural flight July 18, becoming the first commercial Indian rocket to reach orbit.</p>\n<p>The post <a href=\"https://spacenews.com/skyroot-aerospace-reaches-orbit-on-first-vikram-1-launch/\">Skyroot Aerospace reaches orbit on first Vikram-1 launch</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
         "id": "90c468fe895b7a45",
         "title": "New Frontier Aerospace plans sales of 3D-printed hypersonic rocket engine",
         "url": "https://aerospaceamerica.aiaa.org/new-frontier-aerospace-plans-sales-of-3d-printed-hypersonic-rocket-engine/",
@@ -246,6 +237,24 @@
         "published": "Tue, 14 Jul 2026 19:00:00 +0000",
         "published_dt": "2026-07-14T19:00:00+00:00",
         "summary": ""
+      },
+      {
+        "id": "e65c5c8226af5c9c",
+        "title": "Pentagon awards $7.1 million to expand U.S. production of cover glass for satellites",
+        "url": "https://spacenews.com/pentagon-awards-7-1-million-to-expand-u-s-production-of-cover-glass-for-satellites/",
+        "source": "SpaceNews",
+        "published": "Sat, 18 Jul 2026 16:59:56 +0000",
+        "published_dt": "2026-07-18T16:59:56+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"445\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Screenshot-2026-07-18-at-6.29.48-PM.png?fit=1024%2C445&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Defense Production Act funding was awarded to Martin Materials Solutions, a small business that makes radiation-resistant cover glass used on spacecraft solar arrays and thermal-control systems</p>\n<p>The post <a href=\"https://spacenews.com/pentagon-awards-7-1-million-to-expand-u-s-production-of-cover-glass-for-satellites/\">Pentagon awards $7.1 million to expand U.S. production of cover glass for satellites</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "cf407071ad8247e1",
+        "title": "Skyroot Aerospace reaches orbit on first Vikram-1 launch",
+        "url": "https://spacenews.com/skyroot-aerospace-reaches-orbit-on-first-vikram-1-launch/",
+        "source": "SpaceNews",
+        "published": "Sat, 18 Jul 2026 08:03:59 +0000",
+        "published_dt": "2026-07-18T08:03:59+00:00",
+        "summary": "<figure><img alt=\"Skyroot Vikram-1 launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"577\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/vikram1-1stlaunch.jpeg?fit=1024%2C577&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Skyroot Aerospace\u2019s Vikram-1 rocket successfully lifted off on its inaugural flight July 18, becoming the first commercial Indian rocket to reach orbit.</p>\n<p>The post <a href=\"https://spacenews.com/skyroot-aerospace-reaches-orbit-on-first-vikram-1-launch/\">Skyroot Aerospace reaches orbit on first Vikram-1 launch</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "e214f30b196fe88d",
@@ -309,6 +318,24 @@
         "published": "Wed, 15 Jul 2026 13:00:00 +0000",
         "published_dt": "2026-07-15T13:00:00+00:00",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"493\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rsz_image_3-26-26_at_459-pm_1.jpg?fit=879%2C493&amp;ssl=1\" width=\"879\" /></figure>\n<p>NAPA, Calif. \u2013 Icarus Robotics, the New York startup developing dexterous mobile robots for space missions, selected KULR Technology Group to provide batteries for Joy, a free-flying platform destined for [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/icarus-robotics-taps-kulr-to-provide-batteries-for-space-station-robots/\">Icarus Robotics taps KULR to provide batteries for Space Station robots</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "43b8457a759c5995",
+        "title": "Mauritius becomes 70th nation to sign the Artemis Accords",
+        "url": "https://spacenews.com/mauritius-becomes-70th-nation-to-sign-the-artemis-accords/",
+        "source": "SpaceNews",
+        "published": "Sat, 18 Jul 2026 18:03:11 +0000",
+        "published_dt": "2026-07-18T18:03:11+00:00",
+        "summary": "<figure><img alt=\"Artemis Accords 70 nations\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/artemisaccords-70.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The island nation of Mauritius signed the Artemis Accords July 17, becoming the 70th nation to do so in less than six years.</p>\n<p>The post <a href=\"https://spacenews.com/mauritius-becomes-70th-nation-to-sign-the-artemis-accords/\">Mauritius becomes 70th nation to sign the Artemis Accords</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "0f6d6c41325adee9",
+        "title": "Space Force triples launch contract ceiling amid rising demand",
+        "url": "https://spacenews.com/space-force-triples-launch-contract-ceiling-amid-rising-demand/",
+        "source": "SpaceNews",
+        "published": "Sat, 18 Jul 2026 17:40:06 +0000",
+        "published_dt": "2026-07-18T17:40:06+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/260716-X-X0813-1002-scaled.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The maximum value of the National Security Space Launch Phase 3 Lane 1 contract was raised from $5.6 billion to $17 billion</p>\n<p>The post <a href=\"https://spacenews.com/space-force-triples-launch-contract-ceiling-amid-rising-demand/\">Space Force triples launch contract ceiling amid rising demand</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "b21632b76b09f957",
@@ -426,33 +453,6 @@
         "published": "Thu, 16 Jul 2026 16:00:00 +0000",
         "published_dt": "2026-07-16T16:00:00+00:00",
         "summary": ""
-      },
-      {
-        "id": "909d5625fa39698c",
-        "title": "Defense Innovation Unit seeks commercial path to deliver electrical power from orbit",
-        "url": "https://spacenews.com/defense-innovation-unit-seeks-commercial-path-to-deliver-electrical-power-from-orbit/",
-        "source": "SpaceNews",
-        "published": "Thu, 16 Jul 2026 15:29:45 +0000",
-        "published_dt": "2026-07-16T15:29:45+00:00",
-        "summary": "<figure><img alt=\"Star Catcher grid\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/starcatcher-grid.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>DIU solicitation aims to move long-studied technology toward military use by fiscal 2030</p>\n<p>The post <a href=\"https://spacenews.com/defense-innovation-unit-seeks-commercial-path-to-deliver-electrical-power-from-orbit/\">Defense Innovation Unit seeks commercial path to deliver electrical power from orbit</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "2409d5c88cd00656",
-        "title": "Building the infrastructure for a shifting space economy with Massi Ladovaz",
-        "url": "https://spacenews.com/building-the-infrastructure-for-a-shifting-space-economy-with-massi-ladovaz/",
-        "source": "SpaceNews",
-        "published": "Thu, 16 Jul 2026 15:24:00 +0000",
-        "published_dt": "2026-07-16T15:24:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/space-minds-podcast-spinlaunch-2000-1500.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>In this episode, David Ariosto speaks with SpinLaunch CEO Massi Ladovaz. They discuss what attracted Ladovaz to reimagining how to launch spacecraft, the changing needs and challenges of building constellations [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/building-the-infrastructure-for-a-shifting-space-economy-with-massi-ladovaz/\">Building the infrastructure for a shifting space economy with Massi Ladovaz</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "5e2117d3931ab08b",
-        "title": "Trump\u2019s pick to lead Space Force defends plan to more than double budget",
-        "url": "https://spacenews.com/trumps-pick-to-lead-space-force-defends-plan-to-more-than-double-budget/",
-        "source": "SpaceNews",
-        "published": "Thu, 16 Jul 2026 15:03:16 +0000",
-        "published_dt": "2026-07-16T15:03:16+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"571\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-3.39.50-PM.png?fit=1024%2C571&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Lt. Gen. Douglas Schiess, to be the next chief of space operations of the U.S. Space Force, testified July 16 before the Senate Armed Services Committee in a confirmation hearing</p>\n<p>The post <a href=\"https://spacenews.com/trumps-pick-to-lead-space-force-defends-plan-to-more-than-double-budget/\">Trump&#8217;s pick to lead Space Force defends plan to more than double budget</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
