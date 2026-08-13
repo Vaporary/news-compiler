@@ -1,7 +1,169 @@
 {
-  "generated_at": "2026-08-12T13:22:10.454000+00:00",
+  "generated_at": "2026-08-13T13:24:02.091794+00:00",
   "categories": {
     "Biotech": [
+      {
+        "id": "b72b0c4f0eb2ad22",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about California insulin sales, a Moderna patent battle, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/08/13/california-insulin-sales-moderna-patent-battle/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 13 Aug 2026 13:19:42 +0000",
+        "published_dt": "2026-08-13T13:19:42+00:00",
+        "summary": "Seven months after the launch of its own low-cost insulin brand, California has distributed more than 120,000 five-pen packs of insulin glargine priced at $55 each"
+      },
+      {
+        "id": "c9c79c9d5baf371a",
+        "title": "STAT+: An investigation into Commure, and  Medicare\u2019s new-tech incentives for AI devices",
+        "url": "https://www.statnews.com/2026/08/13/commure-investigation-medicare-tech-incentives-health-tech/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 13 Aug 2026 12:29:26 +0000",
+        "published_dt": "2026-08-13T12:29:26+00:00",
+        "summary": "In this edition of STAT Health Tech: a deep dive into General Catalyst-backed Commure, and Medicare's tech incentives for AI devices."
+      },
+      {
+        "id": "4afb58d5eedcc192",
+        "title": "The Download: kids\u2019 thoughts on AI, and female clones of male mice",
+        "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 13 Aug 2026 12:10:00 +0000",
+        "published_dt": "2026-08-13T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words \u2014Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens When we set out&#8230;"
+      },
+      {
+        "id": "2fe3c4c61e6b643c",
+        "title": "STAT+: Neurocrine Biosciences and the delicate balance of benefit and risk",
+        "url": "https://www.statnews.com/2026/08/13/neurocrine-biosciences-vykat-prader-willi-2/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 13 Aug 2026 10:30:00 +0000",
+        "published_dt": "2026-08-13T10:30:00+00:00",
+        "summary": "When it comes to rare disease treatments, patients often confront a difficult risk-benefit calculus. Such is the case with a therapy from Neurocrine Biosciences."
+      },
+      {
+        "id": "fcd294606741ac40",
+        "title": "What\u2019s behind this summer\u2019s heat, and why 2027 could be worse",
+        "url": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 13 Aug 2026 10:00:00 +0000",
+        "published_dt": "2026-08-13T10:00:00+00:00",
+        "summary": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature.\u00a0\u00a0 The heat isn\u2019t over yet, but some scientists are already looking ahead&#8230;"
+      },
+      {
+        "id": "f1616808da56c0ba",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ptcs-211m-bid-wins-sangamo-auction-teeing-special-opportunity-enter-fabry-market\" hreflang=\"en\">PTC\u2019s $211M bid wins Sangamo auction, teeing up \u2018special opportunity\u2019 to enter Fabry market</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ptcs-211m-bid-wins-sangamo-auction-teeing-special-opportunity-enter-fabry-market",
+        "source": "Fierce Biotech",
+        "published": "Aug 13, 2026 8:16am",
+        "published_dt": "2026-08-13T08:16:00+00:00",
+        "summary": "PTC Therapeutics has struck a deal to buy Sangamo Therapeutics\u2019 Fabry disease program for $111 million upfront, outbidding Astellas and TerSera Therapeutics for the near-approval gene therapy. Sangamo, selling assets as part of its bankruptcy proceedings, also offloaded technology to Eli Lilly for $50 million."
+      },
+      {
+        "id": "aff4c358cb9f9072",
+        "title": "How kids feel about AI, in their own words",
+        "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 13 Aug 2026 09:00:00 +0000",
+        "published_dt": "2026-08-13T09:00:00+00:00",
+        "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we\u2019d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;"
+      },
+      {
+        "id": "728853e11daa6633",
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/ai-clinical-monitoring-agents-can-deliver-82-times-roi-report\" hreflang=\"en\">AI clinical monitoring agent can deliver up to 82 times the ROI in oncology: report</a>",
+        "url": "https://www.fiercebiotech.com/cro/ai-clinical-monitoring-agents-can-deliver-82-times-roi-report",
+        "source": "Fierce Biotech",
+        "published": "Aug 12, 2026 1:56pm",
+        "published_dt": "2026-08-12T13:56:00+00:00",
+        "summary": "A new analysis from the Tufts Center for the Study of Drug Development (CSDD) found that an AI clinical monitoring agent can deliver an estimated 82-fold return on investment in phase 3 oncology trials."
+      },
+      {
+        "id": "961d3d15db3a7e70",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/zealand-sells-its-rights-takedas-blood-cancer-drug-100m-ahead-fda-decision\" hreflang=\"en\">Zealand sells its rights to Takeda\u2019s blood cancer drug for $100M ahead of FDA approval decision</a>",
+        "url": "https://www.fiercebiotech.com/biotech/zealand-sells-its-rights-takedas-blood-cancer-drug-100m-ahead-fda-decision",
+        "source": "Fierce Biotech",
+        "published": "Aug 13, 2026 5:06am",
+        "published_dt": "2026-08-13T05:06:00+00:00",
+        "summary": "As the FDA mulls whether to approve Takeda and Protagonist Therapeutics\u2019 rusfertide, Zealand Pharma has sold its own rights to the blood cancer drug in return for $100 million."
+      },
+      {
+        "id": "f6225356f43dbeb9",
+        "title": "STAT+: What patients actually think about \u2018minimally invasive\u2019 brain implants",
+        "url": "https://www.statnews.com/2026/08/13/patient-perspectives-on-brain-implants-for-depression/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 13 Aug 2026 08:30:00 +0000",
+        "published_dt": "2026-08-13T08:30:00+00:00",
+        "summary": "A new study polled people with treatment-resistant depression about what matters to them when it comes to brain implants for mental health."
+      },
+      {
+        "id": "eb7a0f8bf9a0f87b",
+        "title": "STAT+: What Medicare incentives for AI-based devices mean for tech companies \u2014 and hospitals",
+        "url": "https://www.statnews.com/2026/08/13/how-medicare-cms-pays-ntap-for-new-ai-medical-devices/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 13 Aug 2026 08:30:00 +0000",
+        "published_dt": "2026-08-13T08:30:00+00:00",
+        "summary": "As Medicare pays hospitals when they use newly-authorized AI devices, researchers say those payments could incentivize overuse."
+      },
+      {
+        "id": "fa96eaf5922d73f0",
+        "title": "Opinion: I\u2019ve seen what life is like without vaccines. Americans need to understand what they save us from",
+        "url": "https://www.statnews.com/2026/08/13/trump-vaccine-executive-order-mmr-separate-shots-policy/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 13 Aug 2026 08:30:00 +0000",
+        "published_dt": "2026-08-13T08:30:00+00:00",
+        "summary": "\u201cThe ability to prevent a deadly infectious disease is an extraordinary privilege,\u201d writes infectious disease physician Krutika Kuppalli."
+      },
+      {
+        "id": "cdc3eec2a3469c41",
+        "title": "Opinion: How to disrupt the health misinformation business model",
+        "url": "https://www.statnews.com/2026/08/13/statin-misinformation-medicine-scams-online-regulation-fact-checks/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 13 Aug 2026 08:30:00 +0000",
+        "published_dt": "2026-08-13T08:30:00+00:00",
+        "summary": "One way to fight medical misinformation: make it easier for people to understand when they are being manipulated, write Paul Martin Jensen and Avi Tuschman."
+      },
+      {
+        "id": "3f81e3cd146944d2",
+        "title": "STAT+: As young people increasingly get cancer, new fertility options are changing their futures",
+        "url": "https://www.statnews.com/2026/08/13/young-people-cancer-new-fertility-tech/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 13 Aug 2026 08:30:00 +0000",
+        "published_dt": "2026-08-13T08:30:00+00:00",
+        "summary": "New technologies, cancer doctors, and reproductive specialists are working to give more patients a chance to have children post-treatment."
+      },
+      {
+        "id": "7fe352d036c83841",
+        "title": "STAT+: Newsom promotes affordable insulin, but California\u2019s generic label is off to a slow start",
+        "url": "https://www.statnews.com/2026/08/13/newsom-california-generic-insulin-calrx-availability-slow-to-reach-patients/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Thu, 13 Aug 2026 08:30:00 +0000",
+        "published_dt": "2026-08-13T08:30:00+00:00",
+        "summary": "Gov. Gavin Newsom is focused on making health care affordable, but his CalRx insulin has been slow to reach patients."
+      },
+      {
+        "id": "e42017232ec03921",
+        "title": "Talks on launch of clinical trial of Ebola vaccine in DRC advance, WHO says",
+        "url": "https://www.statnews.com/2026/08/12/ebola-who-drc-ebola-vaccine-trial/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 12 Aug 2026 20:46:29 +0000",
+        "published_dt": "2026-08-12T20:46:29+00:00",
+        "summary": "Talks are underway between the Democratic Republic of the Congo and the WHO to expedite the start of a multi-armed Phase 3 clinical trial of Ebola vaccines."
+      },
+      {
+        "id": "95ce6b55e97cf31b",
+        "title": "Scientists just created female clones of male mice",
+        "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 12 Aug 2026 18:59:48 +0000",
+        "published_dt": "2026-08-12T18:59:48+00:00",
+        "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.&#160; \u201cNo one has done this before,\u201d says Monika Ward, a reproductive biologist at the University of Hawaii, who&#8230;"
+      },
+      {
+        "id": "00ad4251dce909f4",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cullinan-tees-jj-fight-and-100m-payday-taiho-partnered-drug-hits-cancer-goal\" hreflang=\"en\">Cullinan tees up J&amp;J fight\u2014and $100M payday\u2014as Taiho-partnered drug hits phase 3 cancer goal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/cullinan-tees-jj-fight-and-100m-payday-taiho-partnered-drug-hits-cancer-goal",
+        "source": "Fierce Biotech",
+        "published": "Aug 13, 2026 5:26am",
+        "published_dt": "2026-08-13T05:26:00+00:00",
+        "summary": "Taiho Pharmaceutical and Cullinan Therapeutics have celebrated a second phase 3 victory for their small-molecule EGFR inhibitor, teeing the partners up to challenge Johnson &amp; Johnson for a lung cancer niche."
+      },
       {
         "id": "16f706cbc0f12d32",
         "title": "The Download: our 35 young innovators and the \u201ccensorship-industrial complex\u201d",
@@ -21,22 +183,13 @@
         "summary": "Definium Therapeutics said that its LSD therapy significantly helped patients with generalized anxiety disorder in the first of two large trials."
       },
       {
-        "id": "b610f480c208c1b2",
-        "title": "STAT+: The secret AI-startup project I\u2019ve been working on the last six months",
-        "url": "https://www.statnews.com/2026/08/12/the-secret-startup-project-ive-been-working-on-ai-prognosis/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 12 Aug 2026 12:09:15 +0000",
-        "published_dt": "2026-08-12T12:09:15+00:00",
-        "summary": "In this edition of STAT's AI Prognosis: The messy reality of hastily developing and selling AI tools to clinics, and other health AI news."
-      },
-      {
-        "id": "2f9dfbd045d825e1",
-        "title": "STAT+: Biotech company co-founded by top autoimmune researcher lays out plans with antibody therapies",
-        "url": "https://www.statnews.com/2026/08/12/boulevard-bio-georg-schett-antibody-therapies/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 12 Aug 2026 10:30:00 +0000",
-        "published_dt": "2026-08-12T10:30:00+00:00",
-        "summary": "German researcher Georg Schett has made a name for himself as a pioneer in autoimmune disease treatment. Now he's co-founding his own company."
+        "id": "bb673ad5b307fd53",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/slimmed-down-aardvark-scraps-phase-3-trials-wait-next-steps-drags\" hreflang=\"en\">After slimming down workforce, Aardvark scraps phase 3 trials as wait for next steps drags on</a>",
+        "url": "https://www.fiercebiotech.com/biotech/slimmed-down-aardvark-scraps-phase-3-trials-wait-next-steps-drags",
+        "source": "Fierce Biotech",
+        "published": "Aug 12, 2026 9:04am",
+        "published_dt": "2026-08-12T09:04:00+00:00",
+        "summary": "Aardvark Therapeutics has confirmed it is walking away from recently terminated phase 3 trials, telling investors it has no plans to resume the studies \u201cas previously designed\u201d as it works to find a path forward for its stalled pipeline. <br />"
       },
       {
         "id": "aaa819b64816be2d",
@@ -48,51 +201,6 @@
         "summary": "The FDA gave Samsung Electronics the go-ahead for the latest software features that allow its Galaxy Buds earphones to act as an OTC hearing aid that also allows users to diagnose their hearing.<br />"
       },
       {
-        "id": "4dbfccdc84ca5d4c",
-        "title": "How we picked 35 of the world\u2019s top young scientists and engineers",
-        "url": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 12 Aug 2026 09:08:40 +0000",
-        "published_dt": "2026-08-12T09:08:40+00:00",
-        "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems.&#160; By finding the top young innovators globally and learning what they\u2019re focused on in their work,&#8230;"
-      },
-      {
-        "id": "a546221de7807de0",
-        "title": "STAT+: Skylark Bio kicks off new gene therapy trial for deafness",
-        "url": "https://www.statnews.com/2026/08/11/skylark-bio-gjb2-otoferlin-gene-therapies-for-deafness/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 11 Aug 2026 12:00:00 +0000",
-        "published_dt": "2026-08-11T12:00:00+00:00",
-        "summary": "Biotech startups in the U.S., France, and China are racing to bring new gene therapies for deafness by targeting different genetic mutations."
-      },
-      {
-        "id": "7ad165c051feb9cc",
-        "title": "STAT+: Neurocrine Biosciences rare disease drug possibly tied to safety issues, experts say",
-        "url": "https://www.statnews.com/2026/08/12/neurocrine-biosciences-vykat-prader-willi/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 12 Aug 2026 08:30:00 +0000",
-        "published_dt": "2026-08-12T08:30:00+00:00",
-        "summary": "A newly approved drug for Prader-Willi syndrome, a rare disease that causes an insatiable desire to eat, may be tied to a series of patient deaths, experts say."
-      },
-      {
-        "id": "3dc6a159dac62a25",
-        "title": "Opinion: Climate change is making people with chronic illness even sicker",
-        "url": "https://www.statnews.com/2026/08/12/climate-change-chronic-disease-heat-smoke-arthritis-lupus-pots/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 12 Aug 2026 08:30:00 +0000",
-        "published_dt": "2026-08-12T08:30:00+00:00",
-        "summary": "\u201cWhat research can definitively tell us is that climate change is here, and it\u2019s already making people sick,\u201d writes Lorraine Boissoneault."
-      },
-      {
-        "id": "9800a55a80787088",
-        "title": "STAT+: Inside a $7 billion Silicon Valley startup\u2019s mad dash to automate the business of health care",
-        "url": "https://www.statnews.com/2026/08/12/inside-commure-athelas-mad-dash-automate-health-care/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 12 Aug 2026 08:30:00 +0000",
-        "published_dt": "2026-08-12T08:30:00+00:00",
-        "summary": "Commure wants to automate health care's administrative tasks with AI. An inside look at the messy realities of the startup's ambitious quest."
-      },
-      {
         "id": "02cdc27df0ff38a5",
         "title": "How the \u201ccensorship-industrial complex\u201d is changing the internet and US policy",
         "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
@@ -100,24 +208,6 @@
         "published": "Tue, 11 Aug 2026 17:58:57 +0000",
         "published_dt": "2026-08-11T17:58:57+00:00",
         "summary": "I first heard the term \u201ccensorship-industrial complex\u201d on April 15, 2025.&#160; That\u2019s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown\u2014the next day.&#160; And the reason? R/FIMI, as the office&#8230;"
-      },
-      {
-        "id": "978af882e0e250a1",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about an FDA rejection, 340B court battles, and more",
-        "url": "https://www.statnews.com/pharmalot/2026/08/11/fda-rejects-radiopharmaceutical-340b-court-battles/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 11 Aug 2026 13:27:20 +0000",
-        "published_dt": "2026-08-11T13:27:20+00:00",
-        "summary": "The FDA rejected a radiopharmaceutical therapy because of manufacturing issues, halting what would have been a competitor for Novartis"
-      },
-      {
-        "id": "a6cc12e075c01830",
-        "title": "STAT+: A RAPID proposal for breakthrough coverage, and nurses push back on AI",
-        "url": "https://www.statnews.com/2026/08/11/cms-rapid-breakthrough-device-coverage-health-tech/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 11 Aug 2026 13:15:49 +0000",
-        "published_dt": "2026-08-11T13:15:49+00:00",
-        "summary": "In this edition of STAT Health Tech: Details from CMS and FDA on the RAPID pathway for breakthrough devices, and nurses push back on AI."
       },
       {
         "id": "7de2d18e4d6881a1",
@@ -136,188 +226,98 @@
         "published": "Aug 11, 2026 8:18am",
         "published_dt": "2026-08-11T08:18:00+00:00",
         "summary": "Aura Biosciences is refocusing under its recently installed CEO, laying off 20% of its employees and overhauling its C-suite as it narrows its focus on ocular oncology."
-      },
-      {
-        "id": "d4dfd529cc53fd69",
-        "title": "The Download: AI agents for science, and the \u201ccensorship-industrial complex\u201d",
-        "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 10 Aug 2026 12:10:00 +0000",
-        "published_dt": "2026-08-10T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data \u2014Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work&#8230;"
-      },
-      {
-        "id": "23484c61da13177c",
-        "title": "<a href=\"https://www.fiercebiotech.com/manufacturing/itm-neuroendocrine-tumor-drug-spurned-fda-over-manufacturing-qualms\" hreflang=\"en\">ITM neuroendocrine tumor drug spurned by FDA over manufacturing qualms</a>",
-        "url": "https://www.fiercebiotech.com/manufacturing/itm-neuroendocrine-tumor-drug-spurned-fda-over-manufacturing-qualms",
-        "source": "Fierce Biotech",
-        "published": "Aug 10, 2026 11:09am",
-        "published_dt": "2026-08-10T11:09:00+00:00",
-        "summary": "The FDA has denied ITM Isotopes Technologies\u2019 lead pipeline candidate for a rare group of tumors due to qualms over the drug\u2019s manufacturing."
-      },
-      {
-        "id": "1f0c45afdb055e1f",
-        "title": "<a href=\"https://www.fiercebiotech.com/pharma/scholar-rock-ditches-novo-legacy-catalent-plant-fda-refiling-sma-drug\" hreflang=\"en\">Scholar Rock ditches Novo\u2019s legacy Catalent plant in FDA refiling of SMA drug</a>",
-        "url": "https://www.fiercebiotech.com/pharma/scholar-rock-ditches-novo-legacy-catalent-plant-fda-refiling-sma-drug",
-        "source": "Fierce Biotech",
-        "published": "Aug 10, 2026 10:09am",
-        "published_dt": "2026-08-10T10:09:00+00:00",
-        "summary": "Scholar Rock has dropped Novo Nordisk\u2019s troubled Catalent facility as a contract manufacturer in its FDA refiling for apitegromab, a spinal muscular atrophy candidate, after a recent inspection of the plant was classified as \u201cOfficial Action Indicated.\u201d"
-      },
-      {
-        "id": "381625a302e9ca42",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/moonlakes-nanobody-candidate-boosts-all-clinical-endpoints-phase-3-psoriatic-arthritis\" hreflang=\"en\">MoonLake\u2019s nanobody boosts all clinical endpoints in phase 3 psoriatic arthritis trial</a>",
-        "url": "https://www.fiercebiotech.com/biotech/moonlakes-nanobody-candidate-boosts-all-clinical-endpoints-phase-3-psoriatic-arthritis",
-        "source": "Fierce Biotech",
-        "published": "Aug 10, 2026 10:00am",
-        "published_dt": "2026-08-10T10:00:00+00:00",
-        "summary": "MoonLake Immunotherapeutics announced positive phase 3 data for patients with psoriatic arthritis treated with its lead nanobody candidate, sonelokimab."
-      },
-      {
-        "id": "2c8a8a35787e252c",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sionnas-cystic-fibrosis-flop-significant-positive-vertex\" hreflang=\"en\">Sionna\u2019s cystic fibrosis flop sends stock down 90%, but a \u2018significant positive\u2019 for Vertex</a>",
-        "url": "https://www.fiercebiotech.com/biotech/sionnas-cystic-fibrosis-flop-significant-positive-vertex",
-        "source": "Fierce Biotech",
-        "published": "Aug 10, 2026 9:39am",
-        "published_dt": "2026-08-10T09:39:00+00:00",
-        "summary": "Sionna Therapeutics has axed a cystic fibrosis add-on program after flunking a phase 2 trial, eliminating a would-be challenger to Vertex Pharmaceuticals\u2019 empire. The biotech plans to \u201ctake actions to preserve capital while evaluating next steps.\u201d"
-      },
-      {
-        "id": "070f9a2c9905feb8",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/labcorp-nabs-fda-green-light-braf-melanoma-diagnostic\" hreflang=\"en\">Labcorp nabs FDA green light for BRAF melanoma diagnostic </a>",
-        "url": "https://www.fiercebiotech.com/medtech/labcorp-nabs-fda-green-light-braf-melanoma-diagnostic",
-        "source": "Fierce Biotech",
-        "published": "Aug 10, 2026 8:18am",
-        "published_dt": "2026-08-10T08:18:00+00:00",
-        "summary": "The FDA has signed off on Labcorp\u2019s companion diagnostic for patients with advanced melanoma carrying certain BRAF variants."
-      },
-      {
-        "id": "278968041acb0c8f",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-issues-alert-wake-bd-recall-faulty-io-needle-sets-caused-four-deaths\" hreflang=\"en\">FDA issues alert in wake of BD recall of faulty needle sets</a>",
-        "url": "https://www.fiercebiotech.com/medtech/fda-issues-alert-wake-bd-recall-faulty-io-needle-sets-caused-four-deaths",
-        "source": "Fierce Biotech",
-        "published": "Aug 10, 2026 8:14am",
-        "published_dt": "2026-08-10T08:14:00+00:00",
-        "summary": "The FDA\u2019s Center for Devices and Radiological Health issued an early alert for Becton Dickinson\u2019s Intraosseous Vascular Access system needle sets&nbsp;in the wake of four deaths and 45 serious injuries related to the product.<br />"
-      },
-      {
-        "id": "5e8e9c047f54ae4c",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/silence-brings-noise-takeda-phase-2-blood-cancer-win\" hreflang=\"en\">Silence brings the noise to Takeda with phase 2 blood cancer win</a>",
-        "url": "https://www.fiercebiotech.com/biotech/silence-brings-noise-takeda-phase-2-blood-cancer-win",
-        "source": "Fierce Biotech",
-        "published": "Aug 10, 2026 4:36am",
-        "published_dt": "2026-08-10T04:36:00+00:00",
-        "summary": "A phase 2 trial of Silence Therapeutics\u2019 divesiran has hit its primary endpoint, emboldening the biotech to gear up for late-phase development of a potential challenger to Takeda and Protagonist Therapeutics\u2019 rusfertide."
-      },
-      {
-        "id": "c9363e233a88be01",
-        "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-        "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 07 Aug 2026 14:20:00 +0000",
-        "published_dt": "2026-08-07T14:20:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a \u201ccensorship-industrial complex\u201d spread in right-wing circles. The theory claimed that, under&#8230;"
-      },
-      {
-        "id": "e295428275d21636",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Vaderis nets $152M series B; Epicrispr adds $90M</a>",
-        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
-        "source": "Fierce Biotech",
-        "published": "Dec 22, 2025 3:30pm",
-        "published_dt": "2025-12-22T15:30:00+00:00",
-        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs."
       }
     ],
     "Engineering & Aerospace": [
       {
-        "id": "c17500597c7ce09e",
-        "title": "China\u2019s iSpace raises first batch of series E funding for reusable rocketry",
-        "url": "https://spacenews.com/chinas-ispace-raises-first-batch-of-series-e-funding-for-reusable-rocketry/",
+        "id": "73ff36a4172334bf",
+        "title": "Procore launches Asset Register for digital handover",
+        "url": "https://www.engineering.com/procore-launches-asset-register-for-digital-handover/",
+        "source": "Engineering.com",
+        "published": "Thu, 13 Aug 2026 12:56:13 +0000",
+        "published_dt": "2026-08-13T12:56:13+00:00",
+        "summary": "<p>The tool connects inspections, warranties, manuals, RFIs and as-built drawings to installed assets during construction.</p>\n<p>The post <a href=\"https://www.engineering.com/procore-launches-asset-register-for-digital-handover/\">Procore launches Asset Register for digital handover</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "e2aaa36aaeafc2af",
+        "title": "Gamma Technologies adds AI.modeler to GT-SUITE",
+        "url": "https://www.engineering.com/gamma-technologies-adds-ai-modeler-to-gt-suite/",
+        "source": "Engineering.com",
+        "published": "Thu, 13 Aug 2026 11:48:27 +0000",
+        "published_dt": "2026-08-13T11:48:27+00:00",
+        "summary": "<p>The tool builds simulation models from descriptions or schematics and can run DOE studies and generate summaries.</p>\n<p>The post <a href=\"https://www.engineering.com/gamma-technologies-adds-ai-modeler-to-gt-suite/\">Gamma Technologies adds AI.modeler to GT-SUITE</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "2720c9b8fc4d4274",
+        "title": "Vectorworks Landmark 2026 wins Green Industry Pros award",
+        "url": "https://www.engineering.com/vectorworks-landmark-2026-wins-green-industry-pros-award/",
+        "source": "Engineering.com",
+        "published": "Thu, 13 Aug 2026 11:34:54 +0000",
+        "published_dt": "2026-08-13T11:34:54+00:00",
+        "summary": "<p>Green Industry Pros selects&#160;Vectorworks Landmark 2026&#160;as one of the winners of this year\u2019s Editor\u2019s Choice award, which recognizes the hottest products, equipment, and software in the landscape industry. Landmark 2026 was&#160;once again&#160;recognized as one of the industry&#8217;s most innovative and impactful products, based on evaluation by the publication&#8217;s editorial team and advisory board. As the [&#8230;]</p>\n<p>The post <a href=\"https://www.engineering.com/vectorworks-landmark-2026-wins-green-industry-pros-award/\">Vectorworks Landmark 2026 wins Green Industry Pros award</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "fffded5d0e3ae4a7",
+        "title": "Buildots adds laser scans through NavVis integration",
+        "url": "https://www.engineering.com/buildots-adds-laser-scans-through-navvis-integration/",
+        "source": "Engineering.com",
+        "published": "Thu, 13 Aug 2026 11:28:07 +0000",
+        "published_dt": "2026-08-13T11:28:07+00:00",
+        "summary": "<p>The capability provides survey-grade digital records for verifying dimensions, clearances and installation accuracy on complex projects.</p>\n<p>The post <a href=\"https://www.engineering.com/buildots-adds-laser-scans-through-navvis-integration/\">Buildots adds laser scans through NavVis integration</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "c604cdc1554d8e1f",
+        "title": "Zettabyte launches Model-as-a-Service on zCLOUD",
+        "url": "https://www.engineering.com/zettabyte-launches-model-as-a-service-on-zcloud/",
+        "source": "Engineering.com",
+        "published": "Thu, 13 Aug 2026 11:05:51 +0000",
+        "published_dt": "2026-08-13T11:05:51+00:00",
+        "summary": "<p>The service provides API access to open-source models running on NVIDIA H100, H200, B200 and B300 GPUs.</p>\n<p>The post <a href=\"https://www.engineering.com/zettabyte-launches-model-as-a-service-on-zcloud/\">Zettabyte launches Model-as-a-Service on zCLOUD</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "7a47544e2373972b",
+        "title": "Saturn Cloud integrates NVIDIA DSX OS for AI inference",
+        "url": "https://www.engineering.com/saturn-cloud-integrates-nvidia-dsx-os-for-ai-inference/",
+        "source": "Engineering.com",
+        "published": "Thu, 13 Aug 2026 10:56:43 +0000",
+        "published_dt": "2026-08-13T10:56:43+00:00",
+        "summary": "<p>The platform adds tenant metering, quotas and billing to help AI cloud operators commercialize inference services.</p>\n<p>The post <a href=\"https://www.engineering.com/saturn-cloud-integrates-nvidia-dsx-os-for-ai-inference/\">Saturn Cloud integrates NVIDIA DSX OS for AI inference</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "2923d22400951bbe",
+        "title": "Sivers and SemiNex develop InP light sources",
+        "url": "https://www.engineering.com/sivers-and-seminex-develop-inp-light-sources/",
+        "source": "Engineering.com",
+        "published": "Thu, 13 Aug 2026 10:35:09 +0000",
+        "published_dt": "2026-08-13T10:35:09+00:00",
+        "summary": "<p>The $3.4 million program targets CPO lasers, DFB arrays and SOA gain stages for AI data center links.</p>\n<p>The post <a href=\"https://www.engineering.com/sivers-and-seminex-develop-inp-light-sources/\">Sivers and SemiNex develop InP light sources</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "70109ed6796a82da",
+        "title": "Paragon lays off staff after Gateway cancellation",
+        "url": "https://spacenews.com/paragon-lays-off-staff-after-gateway-cancellation/",
         "source": "SpaceNews",
-        "published": "Wed, 12 Aug 2026 12:48:16 +0000",
-        "published_dt": "2026-08-12T12:48:16+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"542\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Interstellar-Return-recovery-drone-feb2026-ispace-rotated.jpg?fit=867%2C542&amp;ssl=1\" width=\"867\" /></figure>\n<p>HELSINKI \u2014 Chinese reusable launch vehicle maker has secured a first batch of series E funding, months after a huge D++ round, with fundraising still ongoing. The funding is the [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/chinas-ispace-raises-first-batch-of-series-e-funding-for-reusable-rocketry/\">China\u2019s iSpace raises first batch of series E funding for reusable rocketry</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Thu, 13 Aug 2026 10:13:56 +0000",
+        "published_dt": "2026-08-13T10:13:56+00:00",
+        "summary": "<figure><img alt=\"Northrop Grumman HALO module\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"495\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2021/07/halo-northrop.jpg?fit=879%2C495&amp;ssl=1\" width=\"879\" /></figure>\n<p>A subcontractor for a module that was being developed for NASA\u2019s lunar Gateway has laid off 70 people after NASA halted work on the program.</p>\n<p>The post <a href=\"https://spacenews.com/paragon-lays-off-staff-after-gateway-cancellation/\">Paragon lays off staff after Gateway cancellation</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "ae4dd0428ac91074",
-        "title": "eSUN introduces PLA-HF high-speed 3D printing filament",
-        "url": "https://www.engineering.com/esun-introduces-pla-hf-high-speed-3d-printing-filament/",
-        "source": "Engineering.com",
-        "published": "Wed, 12 Aug 2026 12:03:59 +0000",
-        "published_dt": "2026-08-12T12:03:59+00:00",
-        "summary": "<p>The PLA material supports 600 mm/s daily print speeds and up to 1000 mm/s depending on printer settings.</p>\n<p>The post <a href=\"https://www.engineering.com/esun-introduces-pla-hf-high-speed-3d-printing-filament/\">eSUN introduces PLA-HF high-speed 3D printing filament</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "e0077ffb651af0ac",
-        "title": "One species, one planet: The moon is our ethical dress rehearsal for Mars",
-        "url": "https://spacenews.com/one-species-one-planet-the-moon-is-our-ethical-dress-rehearsal-for-mars/",
+        "id": "d7e6850abfc9ab61",
+        "title": "Astranis unveils geostationary surveillance satellite",
+        "url": "https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite/",
         "source": "SpaceNews",
-        "published": "Wed, 12 Aug 2026 12:00:00 +0000",
-        "published_dt": "2026-08-12T12:00:00+00:00",
-        "summary": "<figure><img alt=\"Illustration representing NASA&#039;s moon-to-Mars ambitions. Credit: NASA\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/moon-to-mars-scaled.png?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Bruce Jakosky, Scott Hubbard and their colleagues have given us a masterclass in pragmatic systems engineering. Their recent SpaceNews editorial titled \u201cLaying the groundwork for the first human mission to [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/one-species-one-planet-the-moon-is-our-ethical-dress-rehearsal-for-mars/\">One species, one planet: The moon is our ethical dress rehearsal for Mars</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Thu, 13 Aug 2026 09:30:00 +0000",
+        "published_dt": "2026-08-13T09:30:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Perceptor.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The spacecraft is designed to inspect, track and maneuver around satellites in geostationary orbit</p>\n<p>The post <a href=\"https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite/\">Astranis unveils geostationary surveillance satellite</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "1e4d1b2699c5ed82",
-        "title": "Artec 3D launches Artec Point II metrology-grade laser scanner",
-        "url": "https://www.engineering.com/artec-3d-launches-artec-point-ii-metrology-grade-laser-scanner/",
-        "source": "Engineering.com",
-        "published": "Wed, 12 Aug 2026 11:54:23 +0000",
-        "published_dt": "2026-08-12T11:54:23+00:00",
-        "summary": "<p>Captures up to 5.8 million points per second with certified 0.02 mm accuracy for industrial inspection and reverse engineering.</p>\n<p>The post <a href=\"https://www.engineering.com/artec-3d-launches-artec-point-ii-metrology-grade-laser-scanner/\">Artec 3D launches Artec Point II metrology-grade laser scanner</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "621f74ee3d1d7a5f",
-        "title": "Trimble Arc Agent adds AI to logistics office workflows",
-        "url": "https://www.engineering.com/trimble-arc-agent-adds-ai-to-logistics-office-workflows/",
-        "source": "Engineering.com",
-        "published": "Wed, 12 Aug 2026 11:47:27 +0000",
-        "published_dt": "2026-08-12T11:47:27+00:00",
-        "summary": "<p>The SaaS tool connects to TMS platforms, email and spreadsheets to convert unstructured data into system records.</p>\n<p>The post <a href=\"https://www.engineering.com/trimble-arc-agent-adds-ai-to-logistics-office-workflows/\">Trimble Arc Agent adds AI to logistics office workflows</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "a7ee45e2446a1d54",
-        "title": "Remcom updates XFdtd electromagnetic simulation software",
-        "url": "https://www.engineering.com/remcom-updates-xfdtd-electromagnetic-simulation-software/",
-        "source": "Engineering.com",
-        "published": "Wed, 12 Aug 2026 11:32:00 +0000",
-        "published_dt": "2026-08-12T11:32:00+00:00",
-        "summary": "<p>Release 7.11.2 adds circuit solver elements, material support, project tagging and frequency band filtering.</p>\n<p>The post <a href=\"https://www.engineering.com/remcom-updates-xfdtd-electromagnetic-simulation-software/\">Remcom updates XFdtd electromagnetic simulation software</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "1bc29a433e853ae4",
-        "title": "Quantinuum and Oracle bring Helios to OCI",
-        "url": "https://www.engineering.com/quantinuum-and-oracle-bring-helios-to-oci/",
-        "source": "Engineering.com",
-        "published": "Wed, 12 Aug 2026 11:05:10 +0000",
-        "published_dt": "2026-08-12T11:05:10+00:00",
-        "summary": "<p>OCI customers will gain managed access to quantum computing alongside HPC and GPU infrastructure.</p>\n<p>The post <a href=\"https://www.engineering.com/quantinuum-and-oracle-bring-helios-to-oci/\">Quantinuum and Oracle bring Helios to OCI</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "0ef897f781975cb2",
-        "title": "Rockwell links Plex QMS with VisionAI integration",
-        "url": "https://www.engineering.com/rockwell-links-plex-qms-with-visionai-integration/",
-        "source": "Engineering.com",
-        "published": "Wed, 12 Aug 2026 10:59:56 +0000",
-        "published_dt": "2026-08-12T10:59:56+00:00",
-        "summary": "<p>The API-enabled connection adds AI-driven workflows for camera-based inspection and quality traceability.</p>\n<p>The post <a href=\"https://www.engineering.com/rockwell-links-plex-qms-with-visionai-integration/\">Rockwell links Plex QMS with VisionAI integration</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "24610fb935ac93ce",
-        "title": "Stratasys receives funding for additive quality assurance",
-        "url": "https://www.engineering.com/stratasys-receives-funding-for-additive-quality-assurance/",
-        "source": "Engineering.com",
-        "published": "Wed, 12 Aug 2026 10:55:17 +0000",
-        "published_dt": "2026-08-12T10:55:17+00:00",
-        "summary": "<p>The 24-month project will develop monitoring tools for F3300 and F900 industrial FDM platforms.</p>\n<p>The post <a href=\"https://www.engineering.com/stratasys-receives-funding-for-additive-quality-assurance/\">Stratasys receives funding for additive quality assurance</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "313de028fb3529a2",
-        "title": "Formlabs names Dan Riccio strategic advisor",
-        "url": "https://www.engineering.com/formlabs-names-dan-riccio-strategic-advisor/",
-        "source": "Engineering.com",
-        "published": "Wed, 12 Aug 2026 10:50:07 +0000",
-        "published_dt": "2026-08-12T10:50:07+00:00",
-        "summary": "<p>Board changes include Max Lobovsky becoming chairman and D\u00e1vid Lakatos being named president.</p>\n<p>The post <a href=\"https://www.engineering.com/formlabs-names-dan-riccio-strategic-advisor/\">Formlabs names Dan Riccio strategic advisor</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "id": "70444e0742ff4377",
+        "title": "Pentagon missile buildup changing the factory floor",
+        "url": "https://spacenews.com/pentagon-missile-buildup-changing-the-factory-floor/",
+        "source": "SpaceNews",
+        "published": "Wed, 12 Aug 2026 23:00:00 +0000",
+        "published_dt": "2026-08-12T23:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Machine-Image-2.jpg.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Startups are bringing software, robotics and manufacturing methods developed around commercial space into a defense industry under pressure to produce weapons faster</p>\n<p>The post <a href=\"https://spacenews.com/pentagon-missile-buildup-changing-the-factory-floor/\">Pentagon missile buildup changing the factory floor</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "49bf8abc8d8cfb37",
@@ -365,94 +365,94 @@
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"368\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/PROTEUS_Space-blk.png?fit=265%2C368&amp;ssl=1\" width=\"265\" /></figure>\n<p>LOS ANGELES, August 11th, 2026. Proteus Space, an AI-native aerospace company delivering rapid, end-to-end access to space, today announced that retired U.S. Air Force Maj. Gen. Kimberly &#8220;Kim&#8221; Crider has [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/proteus-space-names-maj-gen-kim-crider-usaf-ret-to-board-of-directors/\">Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "d371d18ffd811d23",
-        "title": "Golden Dome faces 2027 funding cliff",
-        "url": "https://spacenews.com/golden-dome-faces-2027-funding-cliff/",
+        "id": "91f6da7e40d88ee5",
+        "title": "Virgin Galactic delays resumption of commercial flights to 2027",
+        "url": "https://spacenews.com/virgin-galactic-delays-resumption-of-commercial-flights-to-2027/",
         "source": "SpaceNews",
-        "published": "Tue, 11 Aug 2026 22:01:21 +0000",
-        "published_dt": "2026-08-11T22:01:21+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"570\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/GuetleinSMD.png?fit=1024%2C570&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Gen. Michael Guetlein says Congress must find a way to finance the next phase as most initial funding is already committed</p>\n<p>The post <a href=\"https://spacenews.com/golden-dome-faces-2027-funding-cliff/\">Golden Dome faces 2027 funding cliff\u00a0</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Thu, 13 Aug 2026 01:46:10 +0000",
+        "published_dt": "2026-08-13T01:46:10+00:00",
+        "summary": "<figure><img alt=\"Virgin Galactic spaceplane\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/vg-spaceship-aug26.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Virgin Galactic says it will not start commercial flights of its new suborbital spaceplane until early 2027, a delay of a few months.</p>\n<p>The post <a href=\"https://spacenews.com/virgin-galactic-delays-resumption-of-commercial-flights-to-2027/\">Virgin Galactic delays resumption of commercial flights to 2027</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "bdf4fd677e547b51",
-        "title": "Guetlein: Golden Dome has \u2018first operational site\u2019 and completed two tests",
-        "url": "https://aerospaceamerica.aiaa.org/guetlein-golden-dome-has-first-operational-site-and-completed-two-tests/",
-        "source": "Aerospace America",
-        "published": "Tue, 11 Aug 2026 20:45:22 +0000",
-        "published_dt": "2026-08-11T20:45:22+00:00",
-        "summary": "HUNTSVILLE, Ala. \u2014 The Pentagon official overseeing the Trump administration\u2019s planned multilayered missile defense shield said today the initiative has its \u201cfirst operational site\u201d at Fort Story, Virginia. \u201cWe are digging dirt around the homeland,\u201d Gen. Michael Guetlein, Golden Dome\u2019s program manager, said at the Space and Missile Defense Symposium here. President Donald Trump has [...]"
-      },
-      {
-        "id": "6544d3aaa8cfb984",
-        "title": "Golden Dome money starting to reach contractors, but long-term funding still unclear",
-        "url": "https://spacenews.com/golden-dome-money-starting-to-reach-contractors-but-long-term-funding-still-unclear/",
+        "id": "1035d6f3503ceb9d",
+        "title": "Space Force orders two more Impulse Space vehicles for maneuvering demonstrations",
+        "url": "https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/",
         "source": "SpaceNews",
-        "published": "Tue, 11 Aug 2026 18:00:00 +0000",
-        "published_dt": "2026-08-11T18:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"612\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Layered_Missile_Defense_Release_HIGH_RES.png?fit=1024%2C612&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Pentagon contractors are beginning to book Golden Dome related work, but much of it is flowing through established programs</p>\n<p>The post <a href=\"https://spacenews.com/golden-dome-money-starting-to-reach-contractors-but-long-term-funding-still-unclear/\">Golden Dome money starting to reach contractors, but long-term funding still unclear</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Wed, 12 Aug 2026 23:30:00 +0000",
+        "published_dt": "2026-08-12T23:30:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Impulse-Mira-Spacecraft-1-scaled.png?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A $28 million contract expansion adds Victus Salo 2 and 3 to an earlier award for responsive-space missions</p>\n<p>The post <a href=\"https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/\">Space Force orders two more Impulse Space vehicles for maneuvering demonstrations</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "41712270349e26d0",
-        "title": "Archer to explore how to incorporate Wisk\u2019s autonomous flight tech, CEO says",
-        "url": "https://aerospaceamerica.aiaa.org/archer-to-explore-how-to-incorporate-wisks-autonomous-flight-tech-ceo-says/",
-        "source": "Aerospace America",
-        "published": "Tue, 11 Aug 2026 16:06:11 +0000",
-        "published_dt": "2026-08-11T16:06:11+00:00",
-        "summary": "Archer Aviation will assess how much of Wisk\u2019s aircraft development and autonomous flight technology to adopt once its purchase of the Boeing subsidiary is complete, Archer CEO Adam Goldstein said during a late Monday earnings call.&#160; Under the agreement, announced Monday morning, Archer is to acquire the electric air taxi company along with SkyGrid and [...]"
-      },
-      {
-        "id": "fa1f82cec1a7f1d7",
-        "title": "Webinar on MOSA Interoperability Standards for Space Systems \u2013 August 26, 2026",
-        "url": "https://spacenews.com/webinar-on-mosa-interoperability-standards-for-space-systems-august-26-2026/",
+        "id": "38a94fe893f26fc2",
+        "title": "Space Command identifies capabilities it needs for the next space war",
+        "url": "https://spacenews.com/space-command-identifies-capabilities-it-needs-for-the-next-space-war/",
         "source": "SpaceNews",
-        "published": "Tue, 11 Aug 2026 14:58:05 +0000",
-        "published_dt": "2026-08-11T14:58:05+00:00",
-        "summary": "<figure><img alt=\"MOSA logo square\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"190\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/mosa-logo.png?fit=190%2C190&amp;ssl=1\" width=\"190\" /></figure>\n<p>FOR IMMEDIATE RELEASE ISTO Space Systems MOSA Interface Standards Alliance Announces Industry Webinar: \u201cMOSA Interoperability Standards for Space Systems\u201d August 26, 2026 &#124; 9:00 AM \u2013 1:00 PM PDT / [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/webinar-on-mosa-interoperability-standards-for-space-systems-august-26-2026/\">Webinar on MOSA Interoperability Standards for Space Systems &#8211; August 26, 2026</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+        "published": "Wed, 12 Aug 2026 22:00:00 +0000",
+        "published_dt": "2026-08-12T22:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"500\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Screenshot-2026-08-12-at-3.23.57-PM.png?fit=1024%2C500&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Gen. Stephen Whiting said there is a demand for offensive capabilities and called on the industry to develop ways to disable the critical nodes of large satellite constellations</p>\n<p>The post <a href=\"https://spacenews.com/space-command-identifies-capabilities-it-needs-for-the-next-space-war/\">Space Command identifies capabilities it needs for the next space war</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "483bb8d7a2a4dc7b",
-        "title": "TechnoMile\u2019s Five-Year Sustained Growth Recognized with  Place on the 2026 Inc. 5000 List",
-        "url": "https://spacenews.com/technomiles-five-year-sustained-growth-recognized-with-place-on-the-2026-inc-5000-list/",
-        "source": "SpaceNews",
-        "published": "Tue, 11 Aug 2026 14:53:22 +0000",
-        "published_dt": "2026-08-11T14:53:22+00:00",
-        "summary": "<figure><img alt=\"technomile loog square\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/technomile.png?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>TechnoMile, the leading AI solution that unifies growth, contracts, compliance, and security workflows, today announced it has been ranked No. 4,268 on the 2026 Inc. 5000 list, the annual list [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/technomiles-five-year-sustained-growth-recognized-with-place-on-the-2026-inc-5000-list/\">TechnoMile\u2019s Five-Year Sustained Growth Recognized with  Place on the 2026 Inc. 5000 List</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "0626cacbf83d3671",
-        "title": "Former Space Force general joins Lunar Outpost board",
-        "url": "https://spacenews.com/former-space-force-general-joins-lunar-outpost-board/",
-        "source": "SpaceNews",
-        "published": "Tue, 11 Aug 2026 13:00:00 +0000",
-        "published_dt": "2026-08-11T13:00:00+00:00",
-        "summary": "<figure><img alt=\"John Shaw\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"708\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/johnshaw.jpeg?fit=1024%2C708&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A retired Space Force general who served as deputy commander of U.S. Space Command is joining the board of lunar rover developer Lunar Outpost.</p>\n<p>The post <a href=\"https://spacenews.com/former-space-force-general-joins-lunar-outpost-board/\">Former Space Force general joins Lunar Outpost board</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "5a9075f0d16cf3e3",
-        "title": "BlackSky wins seven-figure, multiyear international contract",
-        "url": "https://spacenews.com/blacksky-wins-seven-figure-multiyear-international-contract/",
-        "source": "SpaceNews",
-        "published": "Tue, 11 Aug 2026 12:30:00 +0000",
-        "published_dt": "2026-08-11T12:30:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"494\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_blacksky_gen-3_farnborough_international_airshow_20260720.png?fit=879%2C494&amp;ssl=1\" width=\"879\" /></figure>\n<p>SAN FRANCISCO &#8212; BlackSky announced Aug. 11 a seven-figure, multiyear contract to provide an international customer with persistent space-based monitoring and assured and on-demand satellite tasking. Prior to the award, [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/blacksky-wins-seven-figure-multiyear-international-contract/\">BlackSky wins seven-figure, multiyear international contract</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "19bffc5b195c10ef",
-        "title": "Why Golden Dome Demands a Reimagined and Revitalized Industrial Base",
-        "url": "https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base/",
-        "source": "SpaceNews",
-        "published": "Tue, 11 Aug 2026 12:02:48 +0000",
-        "published_dt": "2026-08-11T12:02:48+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"794\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/golden-dome-1-1.jpg?fit=1024%2C794&amp;ssl=1\" width=\"1024\" /></figure>\n<p>For most of its history, the United States has been largely insulated from foreign threats. Vast oceans made it an impractical destination for invading armies before the advent of modern [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base/\">Why Golden Dome Demands a Reimagined and Revitalized Industrial Base</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "c0f48718058bf31a",
-        "title": "Archer to acquire Boeing autonomy subsidiaries",
-        "url": "https://www.engineering.com/archer-to-acquire-boeing-autonomy-subsidiaries/",
+        "id": "8db7f1eaab29fd9c",
+        "title": "The agentic era for mechanical design",
+        "url": "https://www.engineering.com/the-agentic-era-for-mechanical-design/",
         "source": "Engineering.com",
-        "published": "Tue, 11 Aug 2026 11:32:24 +0000",
-        "published_dt": "2026-08-11T11:32:24+00:00",
-        "summary": "<p>The deal includes Wisk, SkyGrid and Insitu, adding eVTOL, air traffic management and UAS capabilities to Archer\u2019s platform.</p>\n<p>The post <a href=\"https://www.engineering.com/archer-to-acquire-boeing-autonomy-subsidiaries/\">Archer to acquire Boeing autonomy subsidiaries</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Wed, 12 Aug 2026 17:34:25 +0000",
+        "published_dt": "2026-08-12T17:34:25+00:00",
+        "summary": "<p>Leo AI CEO Maor Farid thinks his design agent has passed the \u201cmechanical Turing test.\u201d</p>\n<p>The post <a href=\"https://www.engineering.com/the-agentic-era-for-mechanical-design/\">The agentic era for mechanical design</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "1be6db63b19fd015",
+        "title": "Pentagon\u2019s counter-drone group to add defenses to 46 U.S. sites, director says",
+        "url": "https://aerospaceamerica.aiaa.org/pentagons-counter-drone-task-force-to-add-defenses-to-46-u-s-sites-director-says/",
+        "source": "Aerospace America",
+        "published": "Wed, 12 Aug 2026 16:57:18 +0000",
+        "published_dt": "2026-08-12T16:57:18+00:00",
+        "summary": "HUNTSVILLE, Ala. \u2014 One year after its establishment, the Pentagon\u2019s interagency team focused on improving drone defenses has created a \u201cglobal priorities list\u201d that includes \u201ca few hundred installations,\u201d according to its executive director. \u201cWe just started procurement for those installations to help the installations beef up their [counter-drone] capabilities,\u201d David Bagnati, of the Joint [...]"
+      },
+      {
+        "id": "85b6ff0b8f8ed3ab",
+        "title": "Five Trends in Automation for the Second\u00a0Half of 2026",
+        "url": "https://www.engineering.com/five-trends-in-automation-for-the-second-half-of-2026/",
+        "source": "Engineering.com",
+        "published": "Wed, 12 Aug 2026 16:00:00 +0000",
+        "published_dt": "2026-08-12T16:00:00+00:00",
+        "summary": "<p>AI, machine vision and smarter, more collaborative robots respond to changing supply chains.</p>\n<p>The post <a href=\"https://www.engineering.com/five-trends-in-automation-for-the-second-half-of-2026/\">Five Trends in Automation for the Second\u00a0Half of 2026</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "176a4d84f3a7e291",
+        "title": "Golden Dome creates digital hub to expand commercial participation",
+        "url": "https://spacenews.com/golden-dome-creates-digital-hub-to-expand-commercial-participation/",
+        "source": "SpaceNews",
+        "published": "Wed, 12 Aug 2026 14:00:00 +0000",
+        "published_dt": "2026-08-12T14:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/9819415-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The Golden Dome \u2018ecosystem hub\u2019 allows companies to request information and submit ideas</p>\n<p>The post <a href=\"https://spacenews.com/golden-dome-creates-digital-hub-to-expand-commercial-participation/\">Golden Dome creates digital hub to expand commercial participation</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "c17500597c7ce09e",
+        "title": "China\u2019s iSpace raises first batch of series E funding for reusable rocketry",
+        "url": "https://spacenews.com/chinas-ispace-raises-first-batch-of-series-e-funding-for-reusable-rocketry/",
+        "source": "SpaceNews",
+        "published": "Wed, 12 Aug 2026 12:48:16 +0000",
+        "published_dt": "2026-08-12T12:48:16+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"542\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Interstellar-Return-recovery-drone-feb2026-ispace-rotated.jpg?fit=867%2C542&amp;ssl=1\" width=\"867\" /></figure>\n<p>HELSINKI \u2014 Chinese reusable launch vehicle maker has secured a first batch of series E funding, months after a huge D++ round, with fundraising still ongoing. The funding is the [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/chinas-ispace-raises-first-batch-of-series-e-funding-for-reusable-rocketry/\">China\u2019s iSpace raises first batch of series E funding for reusable rocketry</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "ae4dd0428ac91074",
+        "title": "eSUN introduces PLA-HF high-speed 3D printing filament",
+        "url": "https://www.engineering.com/esun-introduces-pla-hf-high-speed-3d-printing-filament/",
+        "source": "Engineering.com",
+        "published": "Wed, 12 Aug 2026 12:03:59 +0000",
+        "published_dt": "2026-08-12T12:03:59+00:00",
+        "summary": "<p>The PLA material supports 600 mm/s daily print speeds and up to 1000 mm/s depending on printer settings.</p>\n<p>The post <a href=\"https://www.engineering.com/esun-introduces-pla-hf-high-speed-3d-printing-filament/\">eSUN introduces PLA-HF high-speed 3D printing filament</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "e0077ffb651af0ac",
+        "title": "One species, one planet: The moon is our ethical dress rehearsal for Mars",
+        "url": "https://spacenews.com/one-species-one-planet-the-moon-is-our-ethical-dress-rehearsal-for-mars/",
+        "source": "SpaceNews",
+        "published": "Wed, 12 Aug 2026 12:00:00 +0000",
+        "published_dt": "2026-08-12T12:00:00+00:00",
+        "summary": "<figure><img alt=\"Illustration representing NASA&#039;s moon-to-Mars ambitions. Credit: NASA\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/moon-to-mars-scaled.png?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Bruce Jakosky, Scott Hubbard and their colleagues have given us a masterclass in pragmatic systems engineering. Their recent SpaceNews editorial titled \u201cLaying the groundwork for the first human mission to [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/one-species-one-planet-the-moon-is-our-ethical-dress-rehearsal-for-mars/\">One species, one planet: The moon is our ethical dress rehearsal for Mars</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
@@ -464,6 +464,33 @@
         "published": null,
         "published_dt": null,
         "summary": "In 2008, the aggregate market value of U.S.-listed firms was roughly one-third higher than that of European-listed firms. By 2023, it was more than 300% higher, a difference of $34 trillion. The valuation gap is broad-based, rather than concentrated among a few superstar firms, and is driven by differences in firm values, not in the number of listed firms. Across sectors, the gap is larger in R&amp;D-intensive industries and in industries with high returns to scale. European firms\u2019 size is strongly correlated with home-country GDP, whereas U.S. firms\u2019 size is unrelated to home-state GDP. Smaller European firms also face a particularly large cost-of-capital gap and do not appear able to substitute debt for limited access to equity financing, including venture capital. Taken together, these facts suggest that financial and product-market frictions constrain European firms\u2019 ability to scale."
+      },
+      {
+        "id": "e07f61a7d9d158d3",
+        "title": "When Japan buys yen, it unwinds a dangerous trade",
+        "url": "https://www.economist.com/finance-and-economics/2026/08/13/when-japan-buys-yen-it-unwinds-a-dangerous-trade",
+        "source": "Finance & economics",
+        "published": "Thu, 13 Aug 2026 08:49:36 +0000",
+        "published_dt": "2026-08-13T08:49:36+00:00",
+        "summary": "The world\u2019s biggest carry trader begins to exit its position"
+      },
+      {
+        "id": "b448320f4b766088",
+        "title": "Is China\u2019s debt-bomb squad about to blow up?",
+        "url": "https://www.economist.com/finance-and-economics/2026/08/13/is-chinas-debt-bomb-squad-about-to-blow-up",
+        "source": "Finance & economics",
+        "published": "Thu, 13 Aug 2026 08:37:46 +0000",
+        "published_dt": "2026-08-13T08:37:46+00:00",
+        "summary": "Firms tasked with defusing credit crises are getting into trouble"
+      },
+      {
+        "id": "08aca60bc01c2317",
+        "title": "Can Singapore ever build a proper stock market?",
+        "url": "https://www.economist.com/finance-and-economics/2026/08/13/can-singapore-ever-build-a-proper-stock-market",
+        "source": "Finance & economics",
+        "published": "Thu, 13 Aug 2026 08:37:16 +0000",
+        "published_dt": "2026-08-13T08:37:16+00:00",
+        "summary": "The city-state wants to fill a hole in its financial portfolio"
       },
       {
         "id": "fd333dbe0579c51b",
@@ -556,6 +583,15 @@
         "summary": "When an individual's income changes, it can affect their entire household. We study the intrahousehold effects of an unconditional cash transfer in which 1,000 individuals were randomly selected to receive a $1,000 per month transfer for three years, while a control group of 2,000 participants received $50 per month over the same time period. We find no effects on aggregate measures of household stability, although there is suggestive evidence of improved relationship quality and greater trust in partners among recipients in relationships. Transfers to friends and family increase, consistent with recipients sharing some of the additional income with others. There are also spillovers on the income and employment-related outcomes of other household members: household income excluding the recipient decreases by about $1,700 per year, and partners are less likely to be promoted or to move to a better job. Other household members are significantly more likely to participate in education or training, and recipients are also more likely to report someone in their household having to forgo healthcare, potentially reflecting greater engagement with the healthcare system and the identification of previously unmet needs. We observe limited changes in decision-making power or division of labor within the household. Some indicators of intimate partner violence decline, particularly for women, but reported incidence is low and most estimates do not remain statistically significant after adjustment for multiple hypothesis testing. Subgroup differences are generally imprecise, although point estimates suggest larger education and health spillover effects when the recipient is a woman. Household structure also appears to mediates the impacts of the transfers."
       },
       {
+        "id": "99b573ab90e62130",
+        "title": "Kevin Warsh is struggling to escape his predecessor\u2019s problems",
+        "url": "https://www.economist.com/finance-and-economics/2026/08/12/kevin-warsh-is-struggling-to-escape-his-predecessors-problems",
+        "source": "Finance & economics",
+        "published": "Wed, 12 Aug 2026 17:33:32 +0000",
+        "published_dt": "2026-08-12T17:33:32+00:00",
+        "summary": "High inflation, weak jobs numbers and presidential interference trouble the Federal Reserve"
+      },
+      {
         "id": "f39a0865dc5c9132",
         "title": "How China gets better bang for its buck than America in AI",
         "url": "https://www.economist.com/finance-and-economics/2026/08/03/how-china-gets-better-bang-for-its-buck-than-america-in-ai",
@@ -644,53 +680,26 @@
         "published": "Thu, 23 Jul 2026 09:03:47 +0000",
         "published_dt": "2026-07-23T09:03:47+00:00",
         "summary": "Robotaxis offer an early test case"
-      },
-      {
-        "id": "818eab0a1fc7ad6d",
-        "title": "The rise of the deserving rich",
-        "url": "https://www.economist.com/finance-and-economics/2026/07/23/the-rise-of-the-deserving-rich",
-        "source": "Finance & economics",
-        "published": "Thu, 23 Jul 2026 08:59:38 +0000",
-        "published_dt": "2026-07-23T08:59:38+00:00",
-        "summary": "Today\u2019s billionaires are more likely than yesterday\u2019s to have made their own money"
-      },
-      {
-        "id": "a52666f703f807b8",
-        "title": "How investors learned to live with inflation",
-        "url": "https://www.economist.com/finance-and-economics/2026/07/21/how-investors-learned-to-live-with-inflation",
-        "source": "Finance & economics",
-        "published": "Tue, 21 Jul 2026 17:29:00 +0000",
-        "published_dt": "2026-07-21T17:29:00+00:00",
-        "summary": "Fewer than ever believe central bankers will bring it back to target"
-      },
-      {
-        "id": "48117d557765ad2d",
-        "title": "Can Kevin Warsh\u2019s Fed force 5 reimagine monetary policymaking?",
-        "url": "https://www.economist.com/finance-and-economics/2026/07/16/can-kevin-warshs-fed-force-5-reimagine-monetary-policymaking",
-        "source": "Finance & economics",
-        "published": "Thu, 16 Jul 2026 09:02:38 +0000",
-        "published_dt": "2026-07-16T09:02:38+00:00",
-        "summary": "The new chairman enlists heavy-hitters to fight a handful of gnarly problems"
-      },
-      {
-        "id": "add082a21387d9f8",
-        "title": "The stubborn scarcity of female breadwinners",
-        "url": "https://www.economist.com/finance-and-economics/2026/07/13/the-stubborn-scarcity-of-female-breadwinners",
-        "source": "Finance & economics",
-        "published": "Mon, 13 Jul 2026 19:12:11 +0000",
-        "published_dt": "2026-07-13T19:12:11+00:00",
-        "summary": "Wives who out-earn their husbands remain rare in America"
       }
     ],
     "Cross-Disciplinary": [
       {
-        "id": "16f706cbc0f12d32",
-        "title": "The Download: our 35 young innovators and the \u201ccensorship-industrial complex\u201d",
-        "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
+        "id": "4afb58d5eedcc192",
+        "title": "The Download: kids\u2019 thoughts on AI, and female clones of male mice",
+        "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
         "source": "MIT Technology Review",
-        "published": "Wed, 12 Aug 2026 12:10:00 +0000",
-        "published_dt": "2026-08-12T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How we picked 35 of the world\u2019s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people&#8230;"
+        "published": "Thu, 13 Aug 2026 12:10:00 +0000",
+        "published_dt": "2026-08-13T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words \u2014Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens When we set out&#8230;"
+      },
+      {
+        "id": "fcd294606741ac40",
+        "title": "What\u2019s behind this summer\u2019s heat, and why 2027 could be worse",
+        "url": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
+        "source": "MIT Technology Review",
+        "published": "Thu, 13 Aug 2026 10:00:00 +0000",
+        "published_dt": "2026-08-13T10:00:00+00:00",
+        "summary": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature.\u00a0\u00a0 The heat isn\u2019t over yet, but some scientists are already looking ahead&#8230;"
       },
       {
         "id": "1e200f541613e55f",
@@ -720,13 +729,13 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-painting-with-overlapping-concentric-shapes-in-blue-and-yellow.jpg?id=67163886&amp;width=1245&amp;height=700&amp;coordinates=0%2C62%2C0%2C63\" /><br /><br /><p>Artificial intelligence is rapidly becoming part of everyday infrastructure\u2013in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being integrated into education, health care, finance, and public administration. Industry leaders talk about \u201cAI for everyone,\u201d while governments rush to publish national AI strategies and build sovereign compute.</p><p>Yet over the past decade, working on digital inclusion and digital literacy projects in regions from Europe to sub-Saharan Africa and Southeast Asia, <a href=\"https://link.springer.com/book/10.1007/978-3-031-30808-6\" rel=\"noopener noreferrer\" target=\"_blank\">I\u2019ve seen the same pattern repeat</a>: Each new wave of \u201ctransformative\u201d technology lands on a landscape already stratified by connectivity, skills, and institutional capacity. The current AI wave is no exception. If anything, it amplifies those underlying fractures.</p><p>Still, some countries are exploring ways of participating in AI development without directly replicating the frontier-model race dominated by the United States and China. Recent developments in South Africa and Indonesia illustrate both the possibilities and challenges. The stakes extend far beyond access to AI. Countries that remain primarily consumers rather than creators of AI risk losing opportunities to build local innovation ecosystems, strengthen public-sector capacity, and ensure that their own languages, cultures, and societal priorities are reflected in AI systems. In this sense, the AI divide is also becoming a divide in economic opportunity and technological influence.</p><h2>AI compute is clustering in a few places</h2><p>Recent analyses from Stanford University\u2019s 2026 <a href=\"https://hai.stanford.edu/ai-index/2026-ai-index-report\" rel=\"noopener noreferrer\" target=\"_blank\">AI Index report</a> that the United States alone hosts more than 5,000 data centers, over 10 times as many as any other single country. Because AI workloads are increasingly performed on cloud platforms rather than local infrastructure, this concentration of compute also becomes a concentration of dependency. According to <a href=\"https://www.worldbank.org/en/publication/dptr2025-ai-foundations\" rel=\"noopener noreferrer\" target=\"_blank\">World Bank data</a>, in 2023 the United States accounted for roughly 87 percent of global exports of cloud computing and data-storage services.</p><p>For most countries, this means that <a href=\"https://spectrum.ieee.org/europe-tech-sovereignty-package\" target=\"_self\">AI development is not just technologically but commercially and geopolitically outsourced</a> and out of their control. The result is an AI ecosystem where a small number of states and firms host the computational engines that power globally deployed systems.</p><p>Systems trained, standardized, and governed within a narrow set of institutional and linguistic environments may struggle to serve a genuinely global public.</p><h2>Skills and AI literacy are deeply stratified</h2><p>Even where connectivity and cloud access exist, not everyone is equally positioned to make use of them. Across the Organisation for Economic Co-operation and Development (OECD) countries, only around <a href=\"https://www.oecd.org/en/publications/bridging-the-ai-skills-gap_66d0702e-en.html\" rel=\"noopener noreferrer\" target=\"_blank\">40 percent of adults possess more than basic digital problem-solving skills</a>, while advanced computational and AI-related competences remain concentrated among highly educated workers and technology-intensive sectors.</p><p>At the same time, governments are racing to integrate AI into education, often starting at higher levels of schooling. UNESCO <a href=\"https://www.unesco.org/ethics-ai/en/node/367\" rel=\"noopener noreferrer\" target=\"_blank\">has reported</a> growing efforts worldwide to integrate AI into education, while support for AI literacy in primary and lower secondary education, as well as ethical training for educators, remains uneven. </p><p>Those with robust schooling, advanced digital skills, and stable connectivity are best positioned to treat AI as a tool to extend their capabilities. <a href=\"https://www.oecd.org/en/publications/how-do-people-experience-new-technologies-and-generative-ai_49b8d10e-en/full-report.html\" rel=\"noopener noreferrer\" target=\"_blank\">Recent OECD survey data</a> show that participation in AI-related training remains strongly stratified by educational attainment: 36 percent of respondents with tertiary education reported undertaking AI-related training in the previous year, compared with just 18 percent of those with upper-secondary education. Those on the wrong side of the divide are more likely to experience AI as an opaque system acting upon them, from algorithmic welfare systems such as the <a href=\"https://www.theguardian.com/technology/2020/feb/05/welfare-surveillance-system-violates-human-rights-dutch-court-rules\" rel=\"noopener noreferrer\" target=\"_blank\">Dutch childcare benefits scandal</a> to AI-assisted hiring tools such as <a href=\"https://www.reuters.com/article/world/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon\u2019s discontinued AI recruiting system</a>, rather than as a technology they can actively interrogate or shape.</p><h2>Investment and governance: Who gets a seat at the table?</h2><p>The core agenda-setting power often remains with a narrow set of industry actors and a small group of technologically advanced states. Most other countries remain in a perpetual catch-up posture, adapting imported models, standards, and templates for \u201ctrustworthy AI\u201d to their own contexts, and may have limited local capacity to assess trade-offs or propose alternatives. </p><p>In countries such as Indonesia and South Africa, communities generate data at massive scale yet still have little voice in how AI systems are designed, governed, or deployed. Their <a href=\"https://spectrum.ieee.org/indigenous-ai-voice-models-maori\" target=\"_self\">languages are underrepresented in training data</a>; their institutions are under-resourced in regulatory forums; their experiences rarely feature in benchmark datasets. For many countries in the global South, participation in AI still occurs largely through adapting imported systems rather than shaping how those systems are designed, governed, or deployed. </p><p>In South Africa, the Department of Communications and Digital Technologies released a <a href=\"https://www.techpolicy.press/south-africa-has-ai-leverage-its-draft-policy-leaves-it-unused/\" rel=\"noopener noreferrer\" target=\"_blank\">draft national AI policy</a> in April 2026, proposing new oversight institutions. The department withdrew the draft days later after a journalist discovered that at least six of its academic citations did not exist, apparently AI-generated hallucinations. The minister called it <a href=\"https://www.reuters.com/world/africa/south-africa-withdraws-ai-policy-due-fake-ai-generated-sources-2026-04-27/\" rel=\"noopener noreferrer\" target=\"_blank\">\u201can unacceptable lapse.</a>\u201c The episode sharply illustrates the gap between AI governance ambition and the institutional capacity needed to implement it, though the new AI panel the country has since constituted has a chance to use <a href=\"https://spectrum.ieee.org/south-africa-ai-policy\" target=\"_self\">South Africa\u2019s unique leverage</a>.</p><p>Indonesia presents a case of deliberate, if constrained, public-sector agency. The National Research and Innovation Agency (BRIN) which now leads AI implementation under the national strategy, has built <a href=\"https://restofworld.org/2024/indonesia-ai-tools-brin-government-agency/\" rel=\"noopener noreferrer\" target=\"_blank\">practical AI tools aimed at underserved communities</a> rather than frontier capabilities, including an app that uses satellite data and machine learning to help artisanal fishermen locate schools of fish, multilingual language models trained on Indonesian and local languages such as Javanese and Sundanese, and <a href=\"https://www.lightreading.com/ai-machine-learning/indonesia-s-upgraded-sahabat-ai-features-a-multilingual-chat-service\" rel=\"noopener noreferrer\" target=\"_blank\">AI chatbots deployed in government services.</a> In August 2025, the Ministry of Communication and Digital Affairs released <a href=\"https://govinsider.asia/intl-en/article/indonesia-unveils-national-ai-roadmap\" rel=\"noopener noreferrer\" target=\"_blank\">a national AI road map</a> with a target of training 100,000 AI-skilled workers annually. </p><p>The choice is not simply between \u201cAI superpower\u201d and \u201cpassive recipient.\u201d </p><p>Regional cooperation may also become increasingly important. In 2024 African ministers adopted a Continental AI Strategy and African Digital Compact. Participants in the April 2025 <a href=\"https://dsup.substack.com/p/dsfsi-at-the-global-ai-summit-on\" rel=\"noopener noreferrer\" target=\"_blank\">Global AI Summit on Africa in Kigali</a> explored how regional coordination, <a href=\"https://www.news.uct.ac.za/news/audio/-article/2026-05-04-uct-researchers-develop-ai-model-for-11-south-african-languages\" rel=\"noopener noreferrer\" target=\"_blank\">local-language AI models</a>, public universities, and <a href=\"https://scienceforafrica.foundation/media-center/open-research-proposals-adopted-east-africas-ai-declaration\" rel=\"noopener noreferrer\" target=\"_blank\">open-source ecosystems</a> might <a href=\"https://carnegieendowment.org/posts/2025/09/understanding-africas-ai-governance-landscape-insights-from-policy-practice-and-dialogue\" rel=\"noopener noreferrer\" target=\"_blank\">reduce long-term dependence on externally developed AI systems</a>.</p><h2>A different way to think about the AI divide</h2><p>None of this means that people should slow or abandon AI, nor that cloud concentration or venture capital are inherently bad. Instead, when we talk about an \u201cAI revolution,\u201d we should also ask who can shape it and who can merely adapt to it.</p><p>Digital-divide debates once focused on devices and connectivity, later expanding toward skills and outcomes. But the current AI wave adds another layer: disparities in who can meaningfully participate in deciding what AI is for, which problems it is meant to solve, and which social priorities it ultimately serves.</p><p>For engineers and policymakers, this raises difficult but necessary questions. Are they designing AI systems and infrastructures that broaden, rather than narrow, participation in shaping technological change? When governments roll out national AI strategies or integrate AI into public services, whose constraints, languages, and institutional realities are they including?</p><p>Many observers frame the current AI moment as <a href=\"https://spectrum.ieee.org/state-of-ai-index-2026\" target=\"_self\">a competition</a>. But technological competition is never only about speed. It is also about who can influence the direction of change.</p><p>AI is already spreading globally. The deeper question is whether the technologists and policymakers responsible for it will ensure that meaningful participation in shaping that future will spread as well.</p>"
       },
       {
-        "id": "4dbfccdc84ca5d4c",
-        "title": "How we picked 35 of the world\u2019s top young scientists and engineers",
-        "url": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
+        "id": "aff4c358cb9f9072",
+        "title": "How kids feel about AI, in their own words",
+        "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
         "source": "MIT Technology Review",
-        "published": "Wed, 12 Aug 2026 09:08:40 +0000",
-        "published_dt": "2026-08-12T09:08:40+00:00",
-        "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems.&#160; By finding the top young innovators globally and learning what they\u2019re focused on in their work,&#8230;"
+        "published": "Thu, 13 Aug 2026 09:00:00 +0000",
+        "published_dt": "2026-08-13T09:00:00+00:00",
+        "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we\u2019d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;"
       },
       {
         "id": "8d36ec947b5e58a7",
@@ -754,24 +763,6 @@
         "published": "Tue, 11 Aug 2026 17:58:57 +0000",
         "published_dt": "2026-08-11T17:58:57+00:00",
         "summary": "I first heard the term \u201ccensorship-industrial complex\u201d on April 15, 2025.&#160; That\u2019s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown\u2014the next day.&#160; And the reason? R/FIMI, as the office&#8230;"
-      },
-      {
-        "id": "c9363e233a88be01",
-        "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-        "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 07 Aug 2026 14:20:00 +0000",
-        "published_dt": "2026-08-07T14:20:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a \u201ccensorship-industrial complex\u201d spread in right-wing circles. The theory claimed that, under&#8230;"
-      },
-      {
-        "id": "05ec209430451bb8",
-        "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-        "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 07 Aug 2026 14:00:00 +0000",
-        "published_dt": "2026-08-07T14:00:00+00:00",
-        "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.&#160; For months, Elon Musk\u2019s Department of Government Efficiency had been cutting a wide swath through&#8230;"
       },
       {
         "id": "e1f8ae54e8e2ca61",
@@ -828,6 +819,51 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/nighttime-view-of-the-river-thames-with-modern-vauxhall-and-nine-elms-skyscraper-cluster-glowing-in-the-background-and-the-illum.jpg?id=67480571&amp;width=1245&amp;height=700&amp;coordinates=0%2C62%2C0%2C63\" /><br /><br /><p class=\"shortcode-media shortcode-media-rebelmouse-image\" style=\"display: none;\"> <img alt=\"text\" class=\"rm-shortcode\" id=\"623fc\" src=\"https://spectrum.ieee.org/media-library/text.png?id=67033315&amp;width=980\" /></p><p class=\"drop-caps\"><strong>In the chill of </strong>a London spring night, under overcast skies, iconic Trafalgar Square opens around me. Admiral Nelson rises on his pedestal, the National Gallery rests behind, the church of St Martin-in-the-Fields sits nearby. From the 13th century, the site served as the Royal Mews for hawks and then horses. By 1844, it was a public space at the heart of one of the biggest cities in the world.</p><div class=\"rm-embed embed-media\"></div><p><span>Despite the square\u2019s presence through that grand sweep of history, it\u2019s not why I\u2019m here. My interest is far more specific: I want to find out what happens to spaces like this when artificial light, specifically from light-emitting diodes (LEDs), intrudes. My companion tonight is </span><a href=\"https://www.lapd.uk/team/simon-thorp/\" target=\"_blank\">Simon Thorp</a><span>, a local lighting designer, who crouches in the shadows near Nelson\u2019s spire, light meter in hand. \u201cTwo lux,\u201d he reports, \u201cand it\u2019s very comfortable here.\u201d Two lux is 10 to 20 times the illuminance of a full moon. We can see each other clearly, and a nearby sign assures us that closed-circuit television (CCTV) is in operation for safety\u2019s sake.</span></p><h3></h3><br /><img alt=\"A light designer uses a luxmeter to measure the light intensity emitted by a street lamp.\" class=\"rm-shortcode\" id=\"ecb54\" src=\"https://spectrum.ieee.org/media-library/a-light-designer-uses-a-luxmeter-to-measure-the-light-intensity-emitted-by-a-street-lamp.jpg?id=67480621&amp;width=980\" /><h3></h3><br /><p>Trafalgar Square captures the relationship between lighting and darkness that exists in almost every city, suburb, small town, and village around the world. The lighting here is a mishmash of old technologies and new, of shadow and glare, the ornamental gas lamps fronting the National Gallery all but washed out by the LEDs inside modern versions of traditional \u201cbrass and glass\u201d fixtures a few meters away\u201421st-century technology housed in 19th-century designs.</p><p>The ugly truth of artificial lighting today is that in parts of London, as in many cities around the world, lighting levels are excessive, with unshielded illumination blasting in all directions. And the irony is that too much light invites danger: It creates shadows, impedes our vision, and gives the illusion, without the reality, of safety. Thorp notes that modern CCTV cameras are \u201cpretty great\u201d even at low-light levels, while harsh light makes it hard for both human eyes and digital sensors to see.</p><p>\u201cThe more bad light we add, the more bad light we think we need,\u201d says Thorp. \u201cWe can\u2019t see because of the light we\u2019ve added. And it makes areas that were perfectly okay seem darker.\u201d</p><p>Among the costs of this excess, the most alarming may be its toll on human health (and that of other animals) by disrupting circadian rhythms, impeding the production of melatonin, and contributing to sleep disorders that are tied to every major modern disease. <a href=\"https://www.theguardian.com/environment/2022/sep/14/increase-in-led-lighting-risks-harming-human-and-animal-health\" target=\"_blank\">New research</a> shows that increased exposure to blue light from LEDs is having \u201csubstantial biological impacts\u201d such as suppression of the sleep hormone melatonin and an increased risk for obesity, certain cancers, and type 2 diabetes.</p><h3></h3><br /><img alt=\"Panoramic nighttime view from the second floor of the Eiffel Tower looking down the illuminated Champ de Mars gardens toward the \\u00c9cole Militaire, with the silhouette of Tour Montparnasse visible in the Paris skyline and the illuminated dome of the H\\u00f4tel des Invalides seen lower down and to the Tour\\u2019s left.\" class=\"rm-shortcode\" id=\"cd9fe\" src=\"https://spectrum.ieee.org/media-library/panoramic-nighttime-view-from-the-second-floor-of-the-eiffel-tower-looking-down-the-illuminated-champ-de-mars-gardens-toward-the.jpg?id=67480630&amp;width=980\" /><p class=\"hide-on-mobile\">A panoramic view from the Eiffel Tower looks down the Pont d\u2019I\u00e9na and the Palais de Chaillot [in the center], with the imposing silhouette of the La D\u00e9fense business district visible on the Parisian skyline.</p><p class=\"caption hide-on-mobile\">Luigi Avantaggiato</p><h3></h3><br /><p>I have come to London and Paris\u2014which led the way in the expansion of public street lighting in the 19th century\u2014because they embody both the current enormity of the problem as well as a future certain to be lit by trillions of chips: controllable, tunable, and energy-efficient LEDs.</p><h2>Living with artificial light at night</h2><p>The standard justification for nighttime illumination is public safety. Lighting experts\u2019 term for the phenomenon is \u201cartificial light at night.\u201d While people won\u2019t often admit it, the desire for light at night seems to stem from a primal fear of the dark. Darkness is where the bad guys hide. And if dark is bad and light is good, then more light can only be better.</p><p>This assumption has guided our use of nighttime light for hundreds of years. And yet, high-lumen output doesn\u2019t necessarily correlate to a reduction in crime, <a href=\"https://darksky.org/resources/what-is-light-pollution/effects/safety/\" target=\"_blank\">research</a> has found. In other words, if we relied on <a href=\"https://jech.bmj.com/content/69/11/1118\" rel=\"noopener noreferrer\" target=\"_blank\">the data</a> as much as we do our primal anxieties and paused those anxieties long enough to learn how light and darkness interact, our nights would almost certainly be lighted differently\u2014especially now that we have the extraordinary technology that is the light-emitting diode.</p><h3></h3><br /><img alt=\"A 19th-century gas lamp illuminates a pedestrian walkway in Trafalgar Square, with the National Gallery facade lit by architectural floodlighting in the background.\" class=\"rm-shortcode\" id=\"8ebbd\" src=\"https://spectrum.ieee.org/media-library/a-19th-century-gas-lamp-illuminates-a-pedestrian-walkway-in-trafalgar-square-with-the-national-gallery-facade-lit-by-architectu.jpg?id=67500046&amp;width=980\" /><p class=\"hide-on-mobile\">A 19th-century gas lamp [white square] manufactured by William Sugg & Co. next to a pedestrian path in Trafalgar Square, along with the architectural floodlighting on the neoclassical facade of the National Gallery, showcase the interplay between modern and historic lighting systems.</p><p class=\"caption hide-on-mobile\">Luigi Avantaggiato</p><h3></h3><br /><p><a href=\"https://spectrum.ieee.org/red-hot\" target=\"_self\">The first visible red light-emitting diode was invented by Nick Holonyak in 1962</a>, but LED lighting technology took several<a href=\"https://spectrum.ieee.org/the-leds-dark-secret\" target=\"_self\"> decades to develop, </a>before exploding in recent years. Just a decade ago, LED streetlamps were rare. By 2019, more than half of U.S. streetlights were LEDs, and that number is predicted to top 90 percent by 2030. Similar uptake has occurred around the world, even in developing countries, where inexpensive Chinese-made LED fixtures are increasingly common.</p><p>This rapid global migration to LEDs represents a shift in the fundamental physics of how we illuminate our world. From oil lamps and candles to gas lamps, early examples of artificial light at night relied on a burning wick, an incredibly inefficient way to create light. An incandescent bulb is effectively a heater that happens to produce light as a by-product, so it squanders nearly all of its energy as heat.</p><p>By contrast, LEDs use semiconductors to convert electricity into light. Through this process of electroluminescence, LEDs use up to <a href=\"https://www.washingtonpost.com/climate-environment/interactive/2023/glaring-problem-how-led-lights-worsen-light-pollution/\" target=\"_blank\">90 percent less energy</a> than incandescent bulbs do, which has enabled municipalities to realize an immediate <a href=\"https://www.ubicquia.com/blog/creating-safer-greener-communities-using-led-streetlights\" rel=\"noopener noreferrer\" target=\"_blank\">energy savings of 50 percent or more</a>. This fact alone has fueled the technology\u2019s worldwide adoption.</p><p>But LEDs aren\u2019t just more efficient and less expensive. The use of solid-state technology gives the lights an extraordinary life-span, often measured in decades rather than years. This significantly lowers the maintenance costs, as city workers spend far fewer hours replacing broken or burned-out lights. Even more striking, by manipulating the properties of the semiconductor material, <a href=\"https://spectrum.ieee.org/yellow-led-inventor\" target=\"_self\">engineers can dictate the precise color </a>and intensity of the output, something that gives LEDs incredible versatility. For a lighting designer like Thorp, LEDs offer countless possibilities.</p><h2>Digital control for smarter lighting</h2><p>Wandering from Trafalgar Square along the edge of St. James\u2019s Park, Thorp and I find ourselves near Westminster Bridge, one of nine city bridges that in 2021 were part of the <a href=\"https://www.illuminatedriver.london/\" rel=\"noopener noreferrer\" target=\"_blank\">Illuminated River project, </a>meant to make the Thames more beautiful at night. Each bridge now features a new LED lighting scheme that moves and changes color and intensity to create a coordinated work of art. But Thorp is frustrated that the project did nothing to correct the often glary lighting on the riverbanks. \u201cWhy don\u2019t you pay the money to correct all of this bad lighting instead of adding new lighting?\u201d he says. LED technology, he points out, has the potential to fix that problem.</p><h3></h3><br /><img alt=\"The Blackfriars Bridge arches are illuminated in shifting blue and magenta gradients, with the curved silhouette of One Blackfriars and Southwark skyline visible across the Thames at night.\" class=\"rm-shortcode\" id=\"eaeb5\" src=\"https://spectrum.ieee.org/media-library/the-blackfriars-bridge-arches-are-illuminated-in-shifting-blue-and-magenta-gradients-with-the-curved-silhouette-of-one-blackfri.jpg?id=67481252&amp;width=980\" /><p class=\"hide-on-mobile\">The Illuminated River artwork for Blackfriars Bridge uses a color scheme that closely complements the red pillar supports that remain from the original Blackfriars Railway Bridge.</p><p class=\"caption hide-on-mobile\">Luigi Avantaggiato</p><h3></h3><br /><p>In fact, this may be the most meaningful potential of LEDs: the ability for a community to control when, where, at what levels, and in which colors its lights shine. A public space like Trafalgar Square could be lit more brightly during rush hour, then dimmed as the night progresses, the lights not only connected to one another but to the surrounding streetlights and commercial lights. Anywhere in the world, LED streetlights could be programmed to rise and fall in brightness depending on the time of night or time of year. They could even be turned off during bird migrations, to reduce the number of birds that are disoriented by the lights and ultimately killed in collisions with reflective and illuminated windows.</p><p>Up to now, LED public lighting has largely not been part of any comprehensive plan to curtail and control nighttime illumination. Most LED installations have simply replaced older, inefficient \u201cdumb\u201d electric lighting with newer \u201cdumb\u201d LEDs and thus made light pollution worse. The main reason? Because LED lighting is cheaper, we tend to use more of it\u2014a literally shining example of the <a href=\"https://en.wikipedia.org/wiki/Jevons_paradox\" target=\"_blank\">Jevons paradox</a>. Even as awareness of light pollution grows, we aren\u2019t yet taking advantage of LED technology\u2019s full potential.</p><p>The good news is that we could start tonight. At <a href=\"https://darksky.org/\" rel=\"noopener noreferrer\" target=\"_blank\">DarkSky International,</a> the world\u2019s foremost organization fighting light pollution, CEO and executive director Ruskin Hartley tells me the organization has five principles for responsible outdoor lighting: It should be useful, targeted, low level, controlled, and warm-colored. \u201cThey\u2019re enabled because of the capabilities of LEDs,\u201d Hartley says.</p><p>The technology to control LEDs will be part of the solution. In the olden days of the analog era, a streetlight was either on or off. To change a lighting schedule, you had to physically rewire a circuit. Today, the <a href=\"https://www.dali-alliance.org/dali/\" rel=\"noopener noreferrer\" target=\"_blank\">Digital Addressable Lighting Interface (DALI) protocol</a> turns each luminaire into part of a network, with its own digital address and a driver that reports to a central server. With DALI, the lighting is managed through software rather than physical switches.</p><p>Unfortunately, most LED streetlights have been deployed without this technology because it costs more. But Paul Drosihn, general manager of the <a href=\"https://www.dali-alliance.org/\" rel=\"noopener noreferrer\" target=\"_blank\">DALI Alliance,</a> says that using such controls makes the LEDs much easier to maintain. Before the new digital protocol, it took an average of nearly three visits to identify, diagnose, and repair a defective luminaire. \u201cNow it\u2019s one,\u201d Drosihn says. \u201cSaving the cost of sending two guys on a cherry picker to replace those [lights] is immeasurable. What I just described to you is pretty much all the utilities need to know.\u201d</p><h3></h3><br /><img alt=\"The cast-iron understructure of Westminster Bridge at night glows in vibrant green and teal light.\" class=\"rm-shortcode\" id=\"85f08\" src=\"https://spectrum.ieee.org/media-library/the-cast-iron-understructure-of-westminster-bridge-at-night-glows-in-vibrant-green-and-teal-light.jpg?id=67480659&amp;width=980\" /><p class=\"hide-on-mobile\">The intricate cast-iron understructure of Westminster Bridge glows in vibrant green and teal light as part of the Illuminated River public art project, a color palette selected to echo the green benches of the nearby House of Commons.</p><p class=\"caption hide-on-mobile\">Luigi Avantaggiato</p><h3></h3><br /><p>What\u2019s more, DALI allows the tuning of the lights\u2019 spectrum so that they become warmer and less disruptive as the night progresses. Digitally connected, full-spectrum luminaires allow cities to transform the nocturnal experience\u2014saving money, increasing health and safety, and creating a warmer and more appealing atmosphere at night.</p><p>This digital intelligence is equally transformative for the \u201cbleed lighting\u201d that spills from building interiors, Drosihn says. \u201cYou don\u2019t think of night lighting as coming from inside buildings, but it does,\u201d he says. \u201cParticularly in the States, you drive through any major city and all the lights are on, on every floor of every high-rise, even if no one is home.\u201d</p><p>Already, the use of digital controls for interior lighting has become commonplace in some European cities, Drosihn says. <a href=\"https://www.ledlightexpert.com/dali-lighting-controls-and-dali-lights\" target=\"_blank\">By integrating DALI with occupancy sensors and building-management systems</a> that monitor HVAC, electrical systems, and security networks, a skyscraper can become a dynamic participant in the urban environment\u2014dropping a floor\u2019s interior lights to zero the moment the last person leaves. As a result, electronic controls combined with LEDs can act like a dimmer switch for a city\u2019s entire skyline.</p><h2>White light blights the night</h2><p>With all the possibilities from LED technology, why are our nights too often lit with harsh and clinical light, casting glare and creating shadows, disrupting human and ecological health, erasing the stars from our skies? The answer starts with the color of LEDs. At first glance, an LED streetlight looks like a collection of small white bulbs, but it\u2019s not. To produce a light we perceive as white, most manufacturers coat a blue semiconductor core with a yellow phosphor material that absorbs a portion of that high-energy blue light. The problem is that this \u201cwhite\u201d light is still heavily blue, which is exactly the color no species has evolved to expect at night.</p><h3></h3><br /><img alt=\"Three lanterns glow white in the night.\" class=\"rm-shortcode\" id=\"976e1\" src=\"https://spectrum.ieee.org/media-library/three-lanterns-glow-white-in-the-night.jpg?id=67480670&amp;width=980\" /><h3></h3><br /><p>And because blue light is the second most energetic part of the visible spectrum (violet is the most), it doesn\u2019t just illuminate our streets and invade our homes. Blue light also scatters in the atmosphere more easily than any other color, which helps to create the hazy, illuminated fog known as sky glow over every city of any size.</p><p>\u201cCooler\u201d colored LEDs in the 4,000- to 6,500-kelvin range offer the most lumens at the lowest cost, so most early adopters installed these <a href=\"https://spectrum.ieee.org/led-streetlights-are-giving-neighborhoods-the-blues\" target=\"_self\">blue-rich white lights</a>. The good news is that LED technology has continued to advance, and a growing number of communities are choosing warmer-colored streetlights that have less blue. (Phoenix, for example, converted 100,000 streetlamps to 2,700 K LEDs in 2020.) And, of course, light pollution isn\u2019t just a result of LEDs. Older lighting technology also adds to the glare\u2014bright white metal-halide lights, especially\u2014and cities are loath to replace something that isn\u2019t yet broken.</p><p>But our main failure isn\u2019t a technical one. It\u2019s that we have yet to revise our thinking about lighting at night. We use LED technology just as we did the old sources of light. As a result, we have largely offset the gains that were promised in terms of reducing energy consumption and carbon emissions by making light pollution worse, and have so far let an incredible opportunity go unrealized.</p><h2>Can the City of Light do it right?</h2><p>Across the Channel in Paris, the failure to realize the potential of LEDs feels even more palpable. Unlike London, which suffered heavily from German bombs, the lovely 19th-century Paris that Baron Haussmann created largely escaped destruction in World War II. To nearly 50 million annual tourists, the beautiful uniformity of the architecture is instantly recognizable. But the City of Light\u2019s nocturnal atmosphere is also part of the draw, and extensive attention has been given to relighting its buildings and monuments. When I wander into the Cour Carr\u00e9e in the Louvre, for example, I\u2019m stunned by rows of amber LEDs that together create a warm glow along the palace facades. When I see the Eiffel Tower, first from a distance walking along the Seine and then up close, I find myself staring as I would at a campfire, the structure\u2019s metalwork amber-lit with more than 336 high-pressure sodium bulbs.</p><h3></h3><br /><img alt=\"The Eiffel Tower glows with warm golden illumination at night.\" class=\"rm-shortcode\" id=\"4fbf9\" src=\"https://spectrum.ieee.org/media-library/the-eiffel-tower-glows-with-warm-golden-illumination-at-night.jpg?id=67481746&amp;width=980\" /><h3></h3><br /><p>Still, the city\u2019s night lighting is far from perfect. With millions of residents, thousands of stores and restaurants, and 300,000 streetlights, the city overall is among the world\u2019s brightest. Even at the base of the Tower, bright white LED lamps illuminate the African \u00e9migr\u00e9s selling cheap berets and Eiffel Tower trinkets. And the city has been replacing its old sodium streetlights with new LEDs, swapping the warm yellow tones for which the city has long been known for bright white lamps no one wants to look at.</p><h3></h3><br /><img alt=\"At the foot of the Eiffel Tower, street vendors display souvenirs,  lit by harsh cold-white LED fixtures.\" class=\"rm-shortcode\" id=\"e4691\" src=\"https://spectrum.ieee.org/media-library/at-the-foot-of-the-eiffel-tower-street-vendors-display-souvenirs-lit-by-harsh-cold-white-led-fixtures.jpg?id=67480685&amp;width=980\" /><p class=\"hide-on-mobile\">Street vendors display souvenirs at the foot of the Eiffel Tower. Their merchandise is lit by harsh white LED systems, which starkly contrast with the warm golden sodium-vapor light illuminating the tower above.</p><p class=\"caption hide-on-mobile\">Luigi Avantaggiato</p><h3></h3><br /><p>Nonetheless, the potential is here. In 2019, France introduced a nationwide law to reduce levels of light pollution, setting rules about both public lighting (preventing light from being projected above the horizontal) and private lighting such as stores, which are required to <a href=\"https://www.theguardian.com/world/2013/jan/30/lights-out-france-shops-offices\" rel=\"noopener noreferrer\" target=\"_blank\">turn off their exterior and shop window lights after 1 a.m</a>. In addition, an increasing number of French communities dim or turn off municipal lights after midnight to save energy and reduce carbon emissions. Although light pollution worldwide continues to increase by <a href=\"https://www.science.org/doi/10.1126/science.abq7781\" rel=\"noopener noreferrer\" target=\"_blank\">nearly 10 percent per year</a>, France has managed to reduce its overall level. <a href=\"https://pastel.hal.science/tel-05437768v1\" rel=\"noopener noreferrer\" target=\"_blank\">Chlo\u00e9 Beaudet</a>, a researcher at Universit\u00e9 Paris-Saclay, documented local light-reduction measures and found people generally agreed with the notion of dimming or turning off the lights, mainly for energy savings and ecological concerns.</p><h3></h3><br /><img alt=\"A researcher stands on the Pont de l'Archev\\u00each\\u00e9 (Archbishop's Bridge) observing the Notre-Dame cathedral at night.\" class=\"rm-shortcode\" id=\"6565b\" src=\"https://spectrum.ieee.org/media-library/a-researcher-stands-on-the-pont-de-l-archev-u00each-u00e9-archbishop-s-bridge-observing-the-notre-dame-cathedral-at-night.jpg?id=67480689&amp;width=980\" /><h3></h3><br /><p>\u201cWhat I find is that people living in urban areas, they accept this kind of policy,\u201d she tells me. \u201cThey\u2019re like, okay, I don\u2019t really use public space at night as a pedestrian, so what\u2019s the point of having lights on?\u201d For her, a key takeaway is that one lighting level does not fit all areas. \u201cI think there is really a need for policy that is differentiated according to the neighborhood.\u201d</p><h3></h3><br /><img alt=\"The west facade of the Notre-Dame cathedral glows at night following restoration, with warm white architectural LED lighting illuminating the three monumental portals, rose window, and twin towers.\" class=\"rm-shortcode\" id=\"255bf\" src=\"https://spectrum.ieee.org/media-library/the-west-facade-of-the-notre-dame-cathedral-glows-at-night-following-restoration-with-warm-white-architectural-led-lighting-ill.jpg?id=67480694&amp;width=980\" /><h3></h3><br /><p>In another positive development, the country has been minimizing artificial light to create ecological corridors designed to protect nocturnal species such as birds, bats, and insects. These corridors are connected and dark, mitigating the disruption to the 30 percent of vertebrates and more than 60 percent of invertebrates that are nocturnal. Even for city dwellers, this <em>trame noire</em> (\u201cdark infrastructure\u201d) helps to raise awareness of why controlling light pollution is important for life on Earth. Nationwide laws to control light pollution, the ability to light different parts of a city differently, dark corridors to protect biodiversity\u2014these are exactly the kind of changes made possible with LEDs.</p><h3></h3><br /><img alt=\"The I.M. Pei Pyramid seen at night glows brilliantly at the center of the Cour Napol\\u00e9on at the Louvre Museum.\" class=\"rm-shortcode\" id=\"500ac\" src=\"https://spectrum.ieee.org/media-library/the-i-m-pei-pyramid-seen-at-night-glows-brilliantly-at-the-center-of-the-cour-napol-u00e9on-at-the-louvre-museum.jpg?id=67481229&amp;width=980\" /><p class=\"hide-on-mobile\">The iconic I.M. Pei Pyramid glows softly at the center of the Cour Napol\u00e9on at the Louvre Museum, its warm LED illumination flowing through the geometric glass-and-metal structure with a symmetrical framing of the surrounding historic pavilions against the night sky.</p><p class=\"caption hide-on-mobile\">Luigi Avantaggiato</p><h3></h3><br /><p>That\u2019s not all. Almost until 1920, astronomers at the Paris Observatory were still gazing at the Milky Way. That\u2019s impossible nowadays, but it could happen again. Despite the bright white LED streetlights now lining so many Paris streets, networks of LEDs using controls could lower lighting levels enough each night, so that the Milky Way could once again be visible over the French capital. And in the process, Paris could become the City of Light in ways that would set an example for other parts of the world.</p><h2>New lighting demands new thinking</h2><p>\u201cI think we should aspire to have cities that see the stars,\u201d Simon Thorp says when I mention this view of Paris. \u201cYou just need everything to be coordinated.\u201d</p><p>Nearing the end of our London walk, having turned from the river and back up toward the Strand, Thorp brings me down narrow Carting Lane behind the Savoy Hotel, to where a gas fixture tops a thick lamppost, an original from 1870. A small plaque reads, \u201cThe last remaining sewer gas destructor lamp in the city of Westminster.\u201d Thorp explains that the thick pole hides a tube that allowed methane from the sewers to get burned off at the mantle. \u201cAn early example of renewable energy,\u201d he jokes.</p><p>The fire-orange flame is pleasing to the eye. But even here, on a narrow lane with no vehicle traffic, in a touristy area of the city, the flame is overwhelmed by a nearby, unshielded LED security light. Thorp shakes his head. \u201cIt\u2019s stunning that someone could put in a light like that and think, \u2018Great, nice job.\u2019\u201d</p><h3></h3><br /><img alt=\"Two tourists observe the faint flame of the historic Webb Patent Sewer Gas Lamp on Carting Lane, with bright white LED lighting from modern fixtures nearby.\" class=\"rm-shortcode\" id=\"d3828\" src=\"https://spectrum.ieee.org/media-library/two-tourists-observe-the-faint-flame-of-the-historic-webb-patent-sewer-gas-lamp-on-carting-lane-with-bright-white-led-lighting.jpg?id=67480701&amp;width=980\" /><h3></h3><br /><p>Here is the crux of contemporary artificial lighting at night. We know how to light well, and LEDs give us the ability to do so. But while our technology is 21st century, too often our thinking about light and darkness, safety and security, is stuck in the past. We could be doing so much more with this technology than we are. We could relight our nights in ways that would not only reduce energy and maintenance costs but also bring a slew of benefits, including healthier nights for humans, safer skies for nocturnal creatures, and a restoration of the stars.</p><p>In 2026, the tale of these two cities and their artificial light at night is that of a brilliant technology that we\u2019ve engineered but haven\u2019t yet learned to master. In short, we have yet to change the way we think about artificial light at night and to use it more thoughtfully and carefully\u2014as we might, as one hopes we will. <span class=\"ieee-end-mark\"></span></p><p class=\"\"><em>This article appears in the August 2026 print issue as \u201cThe Wrong Way To Light a City.\u201d</em></p>"
       },
       {
+        "id": "95ce6b55e97cf31b",
+        "title": "Scientists just created female clones of male mice",
+        "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 12 Aug 2026 18:59:48 +0000",
+        "published_dt": "2026-08-12T18:59:48+00:00",
+        "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.&#160; \u201cNo one has done this before,\u201d says Monika Ward, a reproductive biologist at the University of Hawaii, who&#8230;"
+      },
+      {
+        "id": "53c444af7415adba",
+        "title": "Scaling AI agents with trustworthy data",
+        "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 12 Aug 2026 16:51:57 +0000",
+        "published_dt": "2026-08-12T16:51:57+00:00",
+        "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology\u2019s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;"
+      },
+      {
+        "id": "fcafc78432008928",
+        "title": "Inside the Data Bottleneck Slowing Visual and Physical AI",
+        "url": "https://content.knowledgehub.wiley.com/the-2026-state-of-visual-and-physical-ai-a-survey-of-700-practitioners-on-data-models-and-production/",
+        "source": "IEEE Spectrum",
+        "published": "Wed, 12 Aug 2026 14:18:05 +0000",
+        "published_dt": "2026-08-12T14:18:05+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/voxel51-logo-with-geometric-cube-icon-and-stylized-text.png?id=67607900&amp;width=980\" /><br /><br /><p>A survey of over 700 professionals examines how visual and physical AI teams build systems, why models fail, and where data work drives production.</p><p><span><a href=\"https://content.knowledgehub.wiley.com/the-2026-state-of-visual-%20and-physical-ai-a-survey-of-700-practitioners-on-data-models-and-production/\" target=\"_blank\">Download this free whitepaper now!</a></span></p>"
+      },
+      {
+        "id": "16f706cbc0f12d32",
+        "title": "The Download: our 35 young innovators and the \u201ccensorship-industrial complex\u201d",
+        "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 12 Aug 2026 12:10:00 +0000",
+        "published_dt": "2026-08-12T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How we picked 35 of the world\u2019s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people&#8230;"
+      },
+      {
+        "id": "4dbfccdc84ca5d4c",
+        "title": "How we picked 35 of the world\u2019s top young scientists and engineers",
+        "url": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
+        "source": "MIT Technology Review",
+        "published": "Wed, 12 Aug 2026 09:08:40 +0000",
+        "published_dt": "2026-08-12T09:08:40+00:00",
+        "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems.&#160; By finding the top young innovators globally and learning what they\u2019re focused on in their work,&#8230;"
+      },
+      {
         "id": "18713323f719df6e",
         "title": "Zap Rocks. Add Water. Get Clean Hydrogen",
         "url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
@@ -855,33 +891,6 @@
         "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;"
       },
       {
-        "id": "d4dfd529cc53fd69",
-        "title": "The Download: AI agents for science, and the \u201ccensorship-industrial complex\u201d",
-        "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 10 Aug 2026 12:10:00 +0000",
-        "published_dt": "2026-08-10T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data \u2014Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work&#8230;"
-      },
-      {
-        "id": "d41114ae4a8f1da3",
-        "title": "AI for science needs reasoning, not just data",
-        "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 10 Aug 2026 09:00:00 +0000",
-        "published_dt": "2026-08-10T09:00:00+00:00",
-        "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the \u201cfacts of physical science have all been discovered.\u201d In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&#8230;"
-      },
-      {
-        "id": "3a16cc32f8afabaf",
-        "title": "These startups are chasing the next big thing in LLMs",
-        "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 10 Aug 2026 09:00:00 +0000",
-        "published_dt": "2026-08-10T09:00:00+00:00",
-        "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called \u201cAttention Is All You Need,\u201d in which they described a new&#8230;"
-      },
-      {
         "id": "f5935ee541e6e38a",
         "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
         "url": "https://spectrum.ieee.org/navigating-pivot-tech-expert-leader",
@@ -898,15 +907,6 @@
         "published": "Tue, 04 Aug 2026 14:51:55 +0000",
         "published_dt": "2026-08-04T14:51:55+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/patsnap-logo-with-abstract-connected-circle-design-in-grayscale.png?id=67571651&amp;width=980\" /><br /><br /><p>This report examines R&amp;D waste and how AI adoption has outpaced the intelligence needed to make consequential decisions well.</p><p>What Attendees will Learn</p><ol><li>Where R&amp;D budget is lost. More than a third of organizations spend 25 to 40 percent of their R&amp;D budget on projects that never reach market.</li><li>Why projects fail late. Almost half of teams estimate over one million dollars in wasted investment for each project killed during development or testing.</li><li>Why AI adoption has not closed the gap. Most organizations apply AI to execution tasks such as data analysis and modeling rather than to decision support.</li><li>Where intelligence matters most. Respondents say better access to intelligence has the greatest value at early ideation and feasibility before significant investment is committed.</li></ol><div><a href=\"https://content.knowledgehub.wiley.com/the-2026-rd-benchmark-report-waste-ai-and-the-race-to-market/\" target=\"_blank\">Download this free whitepaper now!</a></div>"
-      },
-      {
-        "id": "fdff674cd4cd4472",
-        "title": "The System That Turned Paper Charts Into Digital Medical Records",
-        "url": "https://spectrum.ieee.org/ieee-milestone-digital-medical-records",
-        "source": "IEEE Spectrum",
-        "published": "Mon, 03 Aug 2026 18:00:02 +0000",
-        "published_dt": "2026-08-03T18:00:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/1960s-color-photograph-of-a-white-woman-waiting-as-a-middle-aged-white-male-doctor-uses-a-stylus-to-navigate-her-health-record.png?id=67567697&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p>Most hospitals and health care providers use <a href=\"https://spectrum.ieee.org/debate-on-the-value-of-electronic-health-records-continues\" target=\"_self\">electronic health records</a> instead of paper charts to note patient vaccinations, diagnoses, and procedures. <a href=\"https://www.athenahealth.com/patient-login\" rel=\"noopener noreferrer\" target=\"_blank\">AthenaOne</a>, <a href=\"https://www.epic.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Epic</a>, and <a href=\"https://www.oracle.com/health/\" rel=\"noopener noreferrer\" target=\"_blank\">Oracle Health</a> are some of the systems employed around the world. Many patients can access their electronic medical records from home.</p><p>The platforms exist thanks to pioneering efforts such as the <a href=\"https://dl.acm.org/doi/pdf/10.1145/89482.89511\" rel=\"noopener noreferrer\" target=\"_blank\">Medical Information System</a> (MIS-I). The first hospital-wide computer system, it was developed in the 1960s by <a href=\"https://www.lockheedmartin.com/en-us/index.html\" rel=\"noopener noreferrer\" target=\"_blank\">Lockheed Martin</a> (then known as Lockheed Missiles and Space Co.) in partnership with <a href=\"https://www.elcaminohealth.org/\" rel=\"noopener noreferrer\" target=\"_blank\">El Camino Hospital</a>, in Mountain View, Calif. Doctors and nurses used MIS-I (pronounced <em><em>miss-ONE</em></em>) to admit patients, order lab work and imaging, schedule follow-up appointments, and issue hospital bills, according to a 1973 article published by <a href=\"https://www.datamation.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>Datamation</em></em></a>.</p><p>Although many people now know how to type on a keyboard, in the 1960s, most did not. Therefore, MIS-I included a light pen, which worked like a stylus for today\u2019s touchscreens.</p><p>MIS-I was recognized as an <a href=\"https://ieeemilestones.ethw.org/Main_Page\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Milestone</a> during a ceremony on 14 May at El Camino Hospital. The <a href=\"https://ieeescv.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Santa Clara Valley Section</a> sponsored the Milestone.</p><p>\u201cThe medical information system was more than a technological breakthrough; it was proof of what can happen when clinicians, engineers, administrators, and community leaders unite around a common goal: improving care for patients,\u201d <a href=\"https://www.elcaminohealth.org/about-us/hospital-leadership/executive-team/dan-woods\" rel=\"noopener noreferrer\" target=\"_blank\">Dan Woods</a> said at the event. He is chief executive of <a href=\"https://www.elcaminohealth.org/\" rel=\"noopener noreferrer\" target=\"_blank\">El Camino Health</a>, the nonprofit organization that maintains the hospital.</p><p>\u201cThis pioneering work helped establish the foundation for the modern medical informatics industry,\u201d Woods said. \u201cThe legacy of Lockheed\u2019s innovation continues to benefit patients and health care providers around the world, making this achievement truly worthy of lasting recognition.\u201d</p><h2>Bringing technology into clinical care</h2><p>Prior to Lockheed\u2019s effort, health records remained paper-based. They often were stored in dedicated rooms within the hospital. Files were kept in heavy-duty manila folders organized on mechanized open-shelf filing systems, revolving rotary files, or locked steel filing cabinets, according to <a href=\"https://www.eojohnson.com/blog/digitizing-medical-records\" rel=\"noopener noreferrer\" target=\"_blank\">EO Johnson Business Technologies</a>. The process of retrieving a patient\u2019s medical history was cumbersome and could hamper decision-making in a life-or-death situation. Paper records were prone to human error, according to an <a href=\"https://www.ehrinpractice.com/problem-with-paper-charting.html\" rel=\"noopener noreferrer\" target=\"_blank\">EHR in Practice article</a>. In addition, upkeep could be costly due to administrative expenses such as transcribing doctors\u2019 notes, storing patient charts, adding medical codes, and managing insurance claims.</p><p>Companies and universities including <a href=\"https://www.ge.com/about-us\" rel=\"noopener noreferrer\" target=\"_blank\">General Electric</a>, <a href=\"https://www.ibm.com/us-en\" rel=\"noopener noreferrer\" target=\"_blank\">IBM</a>, and <a href=\"https://www.harvard.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">Harvard</a> began exploring how to use computers to improve clinical care. They developed several systems for hospital laboratories to track test orders and results, as explained in the <a href=\"https://ethw.org/Milestones:Pioneering_Medical_Information_System,_1965-1974\" rel=\"noopener noreferrer\" target=\"_blank\">Milestone webpage</a>.</p><p>In 1964 Lockheed was looking to diversify its portfolio, <a href=\"https://www.linkedin.com/in/melville-hodge-90a48b77/\" rel=\"noopener noreferrer\" target=\"_blank\">Melville Hodge</a>, who helped lead the MIS development, said at the dedication ceremony. The company decided to apply its expertise to health care, and later that year this focus-area became part of a new information systems division. Hodge, who at the time oversaw multiple R&amp;D efforts, became the driving force behind the MIS program.</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Black and white photograph of a chunky personal computer equipped with a wired stylus. \" class=\"rm-shortcode\" id=\"d546e\" src=\"https://spectrum.ieee.org/media-library/black-and-white-photograph-of-a-chunky-personal-computer-equipped-with-a-wired-stylus.jpg?id=67567929&amp;width=980\" /> <small class=\"image-media media-caption\">MIS-I displayed patient information on a 14-inch television purchased from a department store. Below that monitor was a keyboard and a light pen.</small><small class=\"image-media media-photo-credit\">Ian Thomson/Computer History Museum</small></p><p>In 1966 Lockheed secured a contract with the <a href=\"https://www.mayoclinic.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Mayo Clinic</a>, in Rochester, Minn., to assess its computer system needs and those of its two associated hospitals, Hodge wrote in a <a href=\"https://dl.acm.org/doi/pdf/10.1145/89482.89511?__cf_chl_f_tk=YAYS1CZzw_BiF4084G0DyBxWAHbqikN4Cnyqu1hCdRw-1783374112-1.0.1.1-KgW02NfZmVfomnfAz39gE3zIMevbVxCvM_SEJujlutA\" rel=\"noopener noreferrer\" target=\"_blank\">paper detailing MIS history</a>.</p><p>He and a small team of engineers worked with Mayo Clinic physicians for two years to build the prototype of what would become MIS-I.</p><p>The system displayed patient information on a 14-inch television purchased from a department store. Below that monitor was a keyboard, and to its right was a printer. Doctors and nurses would swipe their ID badge to access the system, then use the keyboard to put information into the patient\u2019s file or send a request to a pharmacy or laboratory. They also could print documents.</p><p>But one problem kept cropping up: Most doctors didn\u2019t know how to type. The computer mouse was still in its infancy, and Hodge suspected it would not solve the problem, according to a video shown at the dedication ceremony. Instead, he \u201cborrowed technology from a then-secret satellite program,\u201d he said.</p><p>That technology was the light pen, which was used with <a href=\"https://ethw.org/Milestones:Whirlwind_Computer,_1944-59\" rel=\"noopener noreferrer\" target=\"_blank\">MIT\u2019s Whirlwind Computer</a> in the 1950s.</p><p>\u201cThe insight that physicians could not and would not learn to type, combined with the innovative solution of light pen interaction, transformed an impossible dream into practical reality,\u201d the Milestone proposers wrote.</p><p>To display text, the system used matrix programming, a 2D data structure consisting of rows and columns. Using the light pen, a doctor or nurse would select text from a list of general categories on the monitor. The options included the patient\u2019s personal and medical information, family medical history, current illness, and physical exam findings, according to a 1968 article in the medical journal <a href=\"https://jamanetwork.com/journals/jama\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>JAMA</em></em></a>. The computer would display the requested information or list the next steps to complete tasks such as sending a prescription to a pharmacy. The keyboard remained part of the setup because it could allow users to input new information and update patient records.</p><p>To further develop the system, they submitted a proposal to the U.S. Department of Health, Education, and Welfare (now split into the Departments of <a href=\"https://www.hhs.gov/\" rel=\"noopener noreferrer\" target=\"_blank\">Health and Human Services</a> and <a href=\"https://www.ed.gov/\" rel=\"noopener noreferrer\" target=\"_blank\">Education</a>) to secure additional funding, but it was rejected.</p><p><a href=\"https://www.nytimes.com/1993/10/02/obituaries/herschel-j-brown-88-a-leader-at-lockheed.html\" rel=\"noopener noreferrer\" target=\"_blank\">Herschel Brown</a>, Lockheed\u2019s executive vice president, and <a href=\"https://www.almanacnews.com/morgue/2004/2004_01_28.obits.shtml\" rel=\"noopener noreferrer\" target=\"_blank\">Kenneth Larkin</a>, its director of information systems, decided to fund its commercial development, Hodge wrote.</p><p>When the company\u2019s contract with the Mayo Clinic ended, the Lockheed team returned to Sunnyvale, California to refine, test, and deploy the system at El Camino Hospital.</p><p>\u201cI admire <a href=\"https://obits.cleveland.com/person/R.-Edwin-Hawkins-30037082\" rel=\"noopener noreferrer\" target=\"_blank\">Ed Hawkins</a>, who was its first administrator, for having the courage to take on this kind of project while running a hospital that was only four years old at the time,\u201d Hodge said at the dedication ceremony.</p><h2>Making MIS-I a commercial success</h2><p>Starting in 1968, early prototypes were installed in the hospital\u2019s M.D. lounges and nursing station at El Camino Hospital. The organizations worked to configure the system so it met the hospital\u2019s needs.</p><p>By 1969, a number of monitors had been installed, including in admissions, pharmacy, and radiology. The information from all the connected machines was stored in a data center housed in a separate location outside the hospital.</p><p>In 1971 Lockheed encountered difficulties with its <a href=\"https://www.af.mil/About-Us/Fact-Sheets/Display/Article/1529718/c-5-abc-galaxy-and-c-5m-super-galaxy/\" rel=\"noopener noreferrer\" target=\"_blank\">C-5A</a> and <a href=\"https://en.wikipedia.org/wiki/Lockheed_L-1011_TriStar\" rel=\"noopener noreferrer\" target=\"_blank\">L-1011</a> aircraft programs, according to Hodge. The company was forced to curtail discretionary new business programs including MIS-I. The program was sold to <a href=\"https://www.technicon.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Technicon</a> of Tarrytown, N.Y., a leader in clinical laboratory automation.</p><p>The medical information system business operated independently as a subsidiary unit, and the transition marked the beginning of MIS-I\u2019s commercial expansion.</p><p>That same year, MIS-I went live for hospital-wide use. Physicians\u2019 orders were communicated to other departments, test results and radiology reports were retrieved, and nursing care planning and documentation were available, according to the <em><em>Journal of Nursing Scholarship</em></em>. MIS-I supported most information handling for nurses, physicians, and other medical personnel in the hospital.</p><p>But the change was not welcomed by all, according to the video about the technology. Nurses tended to praise the system, but many doctors had a hard time transitioning from paper to computers. They complained they were \u201cspending more time fighting a machine\u201d than interacting with their patients, according to the video. Some even retired to avoid learning the system. But nurses fought to keep it, emphasizing to doctors how much it improved patient care.</p><p>In 1974 El Camino Hospital held a vote of medical staff to determine whether to keep the system or return to paper-based records. About 60 percent of doctors and more than 90 percent of nurses voted in favor of keeping it, according to the Milestone webpage.</p><p class=\"pull-quote\">\u201cThe medical information system was more than a technological breakthrough; it was proof of what can happen when clinicians, engineers, administrators, and community leaders unite around a common goal: improving care for patients.\u201d <strong>\u2014Dan Woods, El Camino Health CEO</strong></p><p>In 1975 nonprofit <a href=\"https://www.battelle.org/\" target=\"_blank\">Battelle</a> of Columbus, Ohio, evaluated how well the system was working for El Camino Hospital. It <a href=\"https://ethw-images.s3.us-east-va.perf.cloud.ovh.us/ieee/4/4f/Technicon_19751219_ECH_Battelle.pdf\" target=\"_blank\">found that MIS-I</a> reduced the time nursing staff spent on clerical tasks, improved communications among departments, and facilitated better planning of patient care. The survey also showed that more readily available, complete, and accurate information was being used to administer care and monitor patient progress, according to the report.</p><p>By 1993, the technology was installed in more than 200 hospitals in the United States, Canada, and Europe, according to the Milestone entry.</p><p>El Camino Hospital used MIS-I for 34 years, until its decommissioning in 2005. It was initially replaced by <a href=\"https://www.biospace.com/b-eclipsys-sunrise-clinical-manager-tm-b-3-5-xa-tm-activated-by-b-cottage-health-system-b-santa-barbara\" rel=\"noopener noreferrer\" target=\"_blank\">Eclipsys Sunrise XA</a> and then ultimately by Epic.</p><h2>Honoring an IEEE Milestone</h2><p>The dedication ceremony brought together IEEE leaders, hospital staff, and government representatives. Hodge and his family also attended. IEEE President-Elect <a href=\"https://spectrum.ieee.org/2026-ieee-president-elect-gostin\" target=\"_self\">Jill Gostin</a> made a presentation about IEEE, and Brian Berg of the IEEE History Committee discussed the organization\u2019s Milestone program.</p><p>Hodge participated in a Q&amp;A session with <a href=\"https://www.elcaminohealth.org/about-us/hospital-leadership/executive-team/debbi-muro\" rel=\"noopener noreferrer\" target=\"_blank\">Deb Muro</a>, chief information officer of El Camino Health. He told a story about the early days of MIS-I that he said he will never forget. During a hospital board meeting at which physicians were complaining about the system, an announcement was made over the hospital\u2019s public address system that MIS-I wasn\u2019t working.</p><p>\u201cI had to ignore it to survive,\u201d Hodge said, laughing. \u201cAs physicians got more used to it, and with a phenomenal poking from the nurses, doctors who wouldn\u2019t use it were forced to.\u201d</p><p>A bronze plaque recognizing the MIS-I as an IEEE Milestone has been installed in the lobby of the hospital in Mountain View. The plaque reads:</p><p><em>From 1965 to 1974, the first hospital-wide computerized medical information system was created by Lockheed Missiles and Space Co. in partnership with El Camino Hospital. Innovative light-pen terminals enabled physicians and staff across all departments to efficiently and accurately access patient data and enter work orders. By providing immediate feedback and seamless communication, it reduced costs and errors, improved safety and outcomes, and led the way to modern medical and clinical informatics.</em></p><p>Reviewed by the <a href=\"https://history.ieee.org/about/ieee-history-committee/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE History Committee</a> and approved by the <a href=\"https://www.ieee.org/about/corporate/board\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Board of Directors</a>, IEEE Milestones recognize outstanding technical developments around the world that are at least 25 years old. The Milestone program is administered by the <a href=\"https://history.ieee.org/about/ieee-history-center/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE History</a> and Heritage group.</p><p>To learn more about historical figures in engineering, IEEE Milestones, and IEEE History Center programs and events, check out <em><em>The Institute</em></em>\u2019s <a href=\"https://spectrum.ieee.org/tag/ieee-history\" target=\"_self\">IEEE Tech History collection</a>. <em><em>IEEE</em></em> <em><em>Spectrum</em></em> also covers aspects of <a href=\"https://spectrum.ieee.org/topic/tech-history/\" target=\"_self\">tech history</a>.</p>"
       }
     ]
   }
