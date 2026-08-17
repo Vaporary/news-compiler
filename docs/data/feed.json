@@ -1,7 +1,115 @@
 {
-  "generated_at": "2026-08-16T12:49:51.984649+00:00",
+  "generated_at": "2026-08-17T12:54:15.988952+00:00",
   "categories": {
     "Biotech": [
+      {
+        "id": "0f0ebad8ecedc77e",
+        "title": "The Download: dead robot friends and the \u201ccensorship-industrial complex\u201d",
+        "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 17 Aug 2026 12:10:00 +0000",
+        "published_dt": "2026-08-17T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid\u2019s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she&#8230;"
+      },
+      {
+        "id": "1b4217351221971f",
+        "title": "Everything the Trump administration did on health care last week",
+        "url": "https://www.statnews.com/2026/08/17/health-news-everything-the-trump-administration-did-on-health-care/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 17 Aug 2026 12:03:57 +0000",
+        "published_dt": "2026-08-17T12:03:57+00:00",
+        "summary": "An executive order remaking the federal vaccine agenda, Epic's antitrust lawsuits, and more health news from Morning Rounds"
+      },
+      {
+        "id": "74eb047d171e10f9",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-clears-lantheus-alzheimers-pet-imaging-agent-tauklarify\" hreflang=\"en\">FDA clears Lantheus\u2019 Alzheimer\u2019s PET imaging agent Tauklarify</a>",
+        "url": "https://www.fiercebiotech.com/medtech/fda-clears-lantheus-alzheimers-pet-imaging-agent-tauklarify",
+        "source": "Fierce Biotech",
+        "published": "Aug 17, 2026 7:53am",
+        "published_dt": "2026-08-17T07:53:00+00:00",
+        "summary": "Lantheus, which recently agreed to an $8 billion takeover by fellow radiopharma Curium, garnered FDA clearance for its Alzheimer\u2019s PET imaging agent Tauklarify.<br />"
+      },
+      {
+        "id": "6d45fb6684839b50",
+        "title": "How much hydrogen awaits us underground?",
+        "url": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 17 Aug 2026 09:00:00 +0000",
+        "published_dt": "2026-08-17T09:00:00+00:00",
+        "summary": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemists found water that had been confined underground for more than a billion years. This ancient brine turned out to be a habitat&#8230;"
+      },
+      {
+        "id": "b95e28ac0141a6c2",
+        "title": "What happens when a kid\u2019s robot best friend dies?",
+        "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 17 Aug 2026 09:00:00 +0000",
+        "published_dt": "2026-08-17T09:00:00+00:00",
+        "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they\u2019ve known each other,&#8230;"
+      },
+      {
+        "id": "f9ad42915af3cd93",
+        "title": "STAT+: Kennedy\u2019s split-screen week: Talk of vaccines in D.C., fraud and addiction out West",
+        "url": "https://www.statnews.com/2026/08/17/rfk-jr-california-tour-maha-messaging-fight-fraud-addiction/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 17 Aug 2026 08:30:00 +0000",
+        "published_dt": "2026-08-17T08:30:00+00:00",
+        "summary": "The California trip shows how Kennedy likes to focus on key MAHA themes, while avoiding some divisive topics."
+      },
+      {
+        "id": "a464e0eb3ae28394",
+        "title": "STAT+: UnitedHealth faces IRS probe over potential tax avoidance",
+        "url": "https://www.statnews.com/2026/08/17/unitedhealth-irs-probe-audit-targets-foreign-subsidiary-transfers/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 17 Aug 2026 08:30:00 +0000",
+        "published_dt": "2026-08-17T08:30:00+00:00",
+        "summary": "The health insurer may face a significant increase in taxes, amid a dispute with federal authorities."
+      },
+      {
+        "id": "b421afc67ea4c6a1",
+        "title": "STAT+: Epic confronts unprecedented challenges as it prepares to address customers and unveil road map",
+        "url": "https://www.statnews.com/2026/08/17/ugm-epic-confronts-challenges-succession-ai-strategy-antitrust/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 17 Aug 2026 08:30:00 +0000",
+        "published_dt": "2026-08-17T08:30:00+00:00",
+        "summary": "Epic, whose software is used by the majority of American hospitals, faces unprecedented challenges ahead of its annual User Group Meeting."
+      },
+      {
+        "id": "9b84cbda46b6d7e6",
+        "title": "Opinion: We proved bipartisan health care reform works in North Carolina. Let\u2019s bring it nationwide",
+        "url": "https://www.statnews.com/2026/08/17/healthy-opportunities-pilots-hop-program-north-carolina-medicaid-social-services/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 17 Aug 2026 08:30:00 +0000",
+        "published_dt": "2026-08-17T08:30:00+00:00",
+        "summary": "\u201cNorth Carolina proved that pragmatism can beat partisanship,\u201d write Mandy Cohen and Kody Kinsley."
+      },
+      {
+        "id": "9bd98b17e1744a90",
+        "title": "Opinion: Paid paternity leave is pediatric preventive care",
+        "url": "https://www.statnews.com/2026/08/17/paid-paternity-leave-baby-help-pediatricians/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 17 Aug 2026 08:30:00 +0000",
+        "published_dt": "2026-08-17T08:30:00+00:00",
+        "summary": "\u201cA growing body of evidence shows that fathers make unique, independent contributions to children's health and development,\u201d writes pediatrician Nishant Pandya."
+      },
+      {
+        "id": "5e6d976c79327bdd",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-ends-phase-3-lung-cancer-trial-after-bispecific-falls-short-versus-keytruda\" hreflang=\"en\">AstraZeneca ends phase 3 lung cancer trial after bispecific falls short versus Keytruda</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-ends-phase-3-lung-cancer-trial-after-bispecific-falls-short-versus-keytruda",
+        "source": "Fierce Biotech",
+        "published": "Aug 17, 2026 4:01am",
+        "published_dt": "2026-08-17T04:01:00+00:00",
+        "summary": "AstraZeneca has stopped a phase 3 trial of volrustomig in lung cancer based on interim efficacy data, narrowing the opportunity for a bispecific designed to replace current immune checkpoint inhibitors."
+      },
+      {
+        "id": "3fb3ad1326537b0e",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-pens-370m-deal-omniab-ion-channel-collab-details-remain-vague\" hreflang=\"en\">Lilly pens $370M deal with OmniAb for ion channel collab, but details remain vague </a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-pens-370m-deal-omniab-ion-channel-collab-details-remain-vague",
+        "source": "Fierce Biotech",
+        "published": "Aug 17, 2026 7:44am",
+        "published_dt": "2026-08-17T07:44:00+00:00",
+        "summary": "Antibody platform business OmniAb continues to rack up the Big Pharma partnerships, with Eli Lilly signing off on up to $370 million biobucks tied to an ion channel program."
+      },
       {
         "id": "728853e11daa6633",
         "title": "<a href=\"https://www.fiercebiotech.com/cro/ai-clinical-monitoring-agents-can-deliver-82-times-roi-report\" hreflang=\"en\">AI clinical monitoring agent can deliver up to 82 times the ROI in oncology: report</a>",
@@ -10,6 +118,24 @@
         "published": "Aug 12, 2026 1:56pm",
         "published_dt": "2026-08-12T13:56:00+00:00",
         "summary": "A new analysis from the Tufts Center for the Study of Drug Development (CSDD) found that an AI clinical monitoring agent can deliver an estimated 82-fold return on investment in phase 3 oncology trials."
+      },
+      {
+        "id": "19b89a38a63285d2",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/baylor-genetics-hit-cybersecurity-attack-personal-information-patients-staff-impacted\" hreflang=\"en\">Baylor Genetics hit by cybersecurity attack targeting patient, staff information</a>",
+        "url": "https://www.fiercebiotech.com/medtech/baylor-genetics-hit-cybersecurity-attack-personal-information-patients-staff-impacted",
+        "source": "Fierce Biotech",
+        "published": "Aug 17, 2026 6:38am",
+        "published_dt": "2026-08-17T06:38:00+00:00",
+        "summary": "Diagnostic genomics company Baylor Genetics has become the latest victim of a life sciences cybersecurity breach, with both patients and employees affected."
+      },
+      {
+        "id": "e331441aa0f2f985",
+        "title": "STAT+: State laws may be curbing private equity takeovers of physician group",
+        "url": "https://www.statnews.com/2026/08/17/private-equity-50-percent-drop-physician-practice-management-deals-2026/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 17 Aug 2026 04:01:00 +0000",
+        "published_dt": "2026-08-17T04:01:00+00:00",
+        "summary": "Private equity deals for practice management firms are declining sharply."
       },
       {
         "id": "ab401e446ec50b4d",
@@ -28,6 +154,15 @@
         "published": "Fri, 14 Aug 2026 12:03:41 +0000",
         "published_dt": "2026-08-14T12:03:41+00:00",
         "summary": "The FDA approved a treatment for advanced multiple myeloma made by Bristol Myers Squibb, marking the debut of a new class of drugs for the blood cancer."
+      },
+      {
+        "id": "a43d1c9f1845b5f4",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/after-2-undisclosed-gene-therapy-deaths-can-china-iit-alternative-regulatory-path-still-be\" hreflang=\"en\">After 2 undisclosed gene therapy deaths, can China\u2019s alternative regulatory path still be trusted?</a>",
+        "url": "https://www.fiercebiotech.com/biotech/after-2-undisclosed-gene-therapy-deaths-can-china-iit-alternative-regulatory-path-still-be",
+        "source": "Fierce Biotech",
+        "published": "Aug 14, 2026 11:17am",
+        "published_dt": "2026-08-14T11:17:00+00:00",
+        "summary": "Two recent patient deaths\u2014both involving severe immune reactions to high-dose, viral vector-delivered gene therapies and a lack of disclosures\u2014have drawn international scrutiny to what appear to be systemic gaps in oversight and transparency within China\u2019s IIT framework."
       },
       {
         "id": "9e1b51169f9da247",
@@ -91,170 +226,143 @@
         "published": "Aug 12, 2026 8:06am",
         "published_dt": "2026-08-12T08:06:00+00:00",
         "summary": "The FDA gave Samsung Electronics the go-ahead for the latest software features that allow its Galaxy Buds earphones to act as an OTC hearing aid that also allows users to diagnose their hearing.<br />"
-      },
-      {
-        "id": "7de2d18e4d6881a1",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/epicrispr-bags-90m-rewrite-treatment-rare-muscle-disease\" hreflang=\"en\">Epicrispr raises $90M to rewrite treatment of rare muscle disease</a>",
-        "url": "https://www.fiercebiotech.com/biotech/epicrispr-bags-90m-rewrite-treatment-rare-muscle-disease",
-        "source": "Fierce Biotech",
-        "published": "Aug 11, 2026 9:56am",
-        "published_dt": "2026-08-11T09:56:00+00:00",
-        "summary": "Epicrispr Biotechnologies has raised $90 million in a series C round backed by investors including Sanofi Ventures, positioning the biotech to advance a pipeline of epigenetic medicines led by an early-phase facioscapulohumeral muscular dystrophy prospect."
-      },
-      {
-        "id": "973f0ad19e8d2342",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/aura-lays-20-staff-rejigs-c-suite-amid-rd-refocusing\" hreflang=\"en\">Aura lays off 20% of workforce, rejigs C-suite amid R&amp;D refocus on eye cancer</a>",
-        "url": "https://www.fiercebiotech.com/biotech/aura-lays-20-staff-rejigs-c-suite-amid-rd-refocusing",
-        "source": "Fierce Biotech",
-        "published": "Aug 11, 2026 8:18am",
-        "published_dt": "2026-08-11T08:18:00+00:00",
-        "summary": "Aura Biosciences is refocusing under its recently installed CEO, laying off 20% of its employees and overhauling its C-suite as it narrows its focus on ocular oncology."
-      },
-      {
-        "id": "ad554744da8e708f",
-        "title": "STAT+: Epic\u2019s alleged anticompetitive practices under scrutiny from federal, state investigators",
-        "url": "https://www.statnews.com/2026/08/14/epic-systems-ftc-review-nda-use-possible-anticompetitive-practices/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 14 Aug 2026 21:00:08 +0000",
-        "published_dt": "2026-08-14T21:00:08+00:00",
-        "summary": "Epic Systems is the subject of a broad inquiry into its business practices, people who were contacted by FTC investigators told STAT."
-      },
-      {
-        "id": "e9f6baab0b2ea9f5",
-        "title": "Opinion: AAP president: How pediatricians are navigating federal leaders\u2019 fearmongering on vaccines",
-        "url": "https://www.statnews.com/2026/08/14/vaccine-executive-order-policy-aap-president/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 14 Aug 2026 18:34:30 +0000",
-        "published_dt": "2026-08-14T18:34:30+00:00",
-        "summary": "Every parent experiences a unique mix of emotions when caring for a newborn baby. You\u2019re filled with an overwhelming sense of pride, love, and awe for this tiny, precious person&#8230;"
-      },
-      {
-        "id": "cef08c9467c84cef",
-        "title": "Luigi Mangione pleads guilty to federal stalking charges in the killing of UnitedHealthcare CEO",
-        "url": "https://www.statnews.com/2026/08/14/luigi-mangione-federal-charges-guilty-plea-killing-of-unitedhealthcare-ceo-brian-thompson/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 14 Aug 2026 16:30:39 +0000",
-        "published_dt": "2026-08-14T16:30:39+00:00",
-        "summary": "In pleading guilty, Mangione admitted to following UnitedHealth executive Brian Thompson and then shooting him."
-      },
-      {
-        "id": "ae5ace5ae4f7567b",
-        "title": "STAT+: Up and down the ladder: The latest comings and goings",
-        "url": "https://www.statnews.com/pharmalot/2026/08/14/up-down-ladder-latest-comings-goings-jobs/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 14 Aug 2026 16:20:43 +0000",
-        "published_dt": "2026-08-14T16:20:43+00:00",
-        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-      },
-      {
-        "id": "f5a4e6dc60c50c29",
-        "title": "STAT+: PBMs agree to display TrumpRx drug prices",
-        "url": "https://www.statnews.com/2026/08/14/biotech-news-pbms-agree-to-display-trumprx-drug-prices/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 14 Aug 2026 15:55:13 +0000",
-        "published_dt": "2026-08-14T15:55:13+00:00",
-        "summary": "Bristol's Zenbexus wins accelerated approval, Novartis wins UK patent fight over Entresto, and more biotech news from The Readout"
-      },
-      {
-        "id": "77aa1ae8da76606a",
-        "title": "STAT+: Drug-testing lab that has sparked controversy sues group that develops drug standards over criticism",
-        "url": "https://www.statnews.com/pharmalot/2026/08/14/controversial-lab-sues-usp-for-disparaging-its-testing-methods/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 14 Aug 2026 13:23:06 +0000",
-        "published_dt": "2026-08-14T13:23:06+00:00",
-        "summary": "A lab that tussled with regulators over impurities found in widely used medicines has accused U.S. Pharmacopeia of making false and misleading remarks about its methods."
-      },
-      {
-        "id": "f3847f64eb828b06",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/skye-and-redx-form-new-entity-125m-advance-fibrosis-assets\" hreflang=\"en\">Skye and Redx form new entity with $125M to advance fibrosis assets </a>",
-        "url": "https://www.fiercebiotech.com/biotech/skye-and-redx-form-new-entity-125m-advance-fibrosis-assets",
-        "source": "Fierce Biotech",
-        "published": "Aug 14, 2026 12:28pm",
-        "published_dt": "2026-08-14T12:28:00+00:00",
-        "summary": "Skye Bioscience has entered into an agreement to combine with privately held fibrotic disease biotech Redx Pharma in a deal that will net $125 million in financing for the new public company, called Fibrx Therapeutics."
-      },
-      {
-        "id": "86e5425f68b7919b",
-        "title": "The Download: Flock\u2019s new rules, cloning\u2019s future, and children\u2019s cells",
-        "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 14 Aug 2026 12:17:21 +0000",
-        "published_dt": "2026-08-14T12:17:21+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers\u2019 access to its nationwide network of license plate readers. The move comes&#8230;"
-      },
-      {
-        "id": "b94a6db541bedaed",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/were-not-afraid-competition-biocryst-ceo-sets-out-strategy-after-scrapping-internal\" hreflang=\"en\">\u2018We\u2019re not afraid of competition\u2019: BioCryst CEO sets out strategy after scrapping internal discovery </a>",
-        "url": "https://www.fiercebiotech.com/biotech/were-not-afraid-competition-biocryst-ceo-sets-out-strategy-after-scrapping-internal",
-        "source": "Fierce Biotech",
-        "published": "Aug 14, 2026 10:20am",
-        "published_dt": "2026-08-14T10:20:00+00:00",
-        "summary": "BioCryst CEO Charlie Gayer told Fierce the company is \u201cnot getting away from science and R&amp;D\u201d despite shutting down its internal discovery efforts."
-      },
-      {
-        "id": "4ec52abfa53ccd47",
-        "title": "This scientist is helping build a missing map of childhood",
-        "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 14 Aug 2026 09:00:00 +0000",
-        "published_dt": "2026-08-14T09:00:00+00:00",
-        "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the&#8230;"
-      },
-      {
-        "id": "6addaf013bdf6c45",
-        "title": "Job titles of the future: Space travel agent",
-        "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 14 Aug 2026 09:00:00 +0000",
-        "published_dt": "2026-08-14T09:00:00+00:00",
-        "summary": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a client\u2019s superyacht to vacations in the Bahamas at a location so private that guests must sign an NDA.&#160; The experiences earned him \u201cthe&#8230;"
-      },
-      {
-        "id": "60a2d2297b51b8f0",
-        "title": "How will legal challenges fare against CMS rule on gender-affirming care?",
-        "url": "https://www.statnews.com/2026/08/14/cms-transgender-care-rule-how-will-legal-challenges-fare/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 14 Aug 2026 08:30:00 +0000",
-        "published_dt": "2026-08-14T08:30:00+00:00",
-        "summary": "A CMS rule finalized this week may prove more difficult to challenge than previous Trump administration actions to end transgender care for young people."
-      },
-      {
-        "id": "ac2112c5bed591fb",
-        "title": "Opinion: MAHA and insurance companies both want to treat human bodies like cars",
-        "url": "https://www.statnews.com/2026/08/14/health-insurance-companies-maha-surveillance/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 14 Aug 2026 08:30:00 +0000",
-        "published_dt": "2026-08-14T08:30:00+00:00",
-        "summary": "\u201cIf the short history of telematics in the auto insurance taught us anything, it\u2019s to be skeptical of any promises attached to shareable surveillance data.\u201d"
       }
     ],
     "Engineering & Aerospace": [
       {
-        "id": "9016c07e354572fb",
-        "title": "U.S. defense agencies tap three companies for satellite disposal study",
-        "url": "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/",
-        "source": "SpaceNews",
-        "published": "Sun, 16 Aug 2026 10:50:00 +0000",
-        "published_dt": "2026-08-16T10:50:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"383\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/03/Firefly_ElytraDawn_EarthOrbit.jpg?fit=1024%2C383&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Firefly, D-Orbit and Katalyst will compete to show how commercial operators could capture and remove aging spacecraft</p>\n<p>The post <a href=\"https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/\">U.S. defense agencies tap three companies for satellite disposal study</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "70444e0742ff4377",
-        "title": "Pentagon missile buildup changing the factory floor",
-        "url": "https://spacenews.com/pentagon-missile-buildup-changing-the-factory-floor/",
-        "source": "SpaceNews",
-        "published": "Wed, 12 Aug 2026 23:00:00 +0000",
-        "published_dt": "2026-08-12T23:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Machine-Image-2.jpg.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Startups are bringing software, robotics and manufacturing methods developed around commercial space into a defense industry under pressure to produce weapons faster</p>\n<p>The post <a href=\"https://spacenews.com/pentagon-missile-buildup-changing-the-factory-floor/\">Pentagon missile buildup changing the factory floor</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "90652a961bafe3e4",
-        "title": "Flip Electronics adds Vishay EOL discrete components",
-        "url": "https://www.engineering.com/flip-electronics-adds-vishay-eol-discrete-components/",
+        "id": "cca05639a9cbd595",
+        "title": "Trimble launches SketchUp Pro Civil Contractor",
+        "url": "https://www.engineering.com/trimble-launches-sketchup-pro-civil-contractor/",
         "source": "Engineering.com",
-        "published": "Fri, 14 Aug 2026 10:12:24 +0000",
-        "published_dt": "2026-08-14T10:12:24+00:00",
-        "summary": "<p>The agreement supports sourcing for automotive, industrial, aerospace, military and medical electronics programs.</p>\n<p>The post <a href=\"https://www.engineering.com/flip-electronics-adds-vishay-eol-discrete-components/\">Flip Electronics adds Vishay EOL discrete components</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+        "published": "Mon, 17 Aug 2026 12:03:00 +0000",
+        "published_dt": "2026-08-17T12:03:00+00:00",
+        "summary": "<p>The software connects SketchUp models with Siteworks and Earthworks for layout, excavation and verification workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/trimble-launches-sketchup-pro-civil-contractor/\">Trimble launches SketchUp Pro Civil Contractor</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "4cbbf5874e3d0853",
+        "title": "Creality adds SPARKX i7 Nano desktop 3D printer",
+        "url": "https://www.engineering.com/creality-adds-sparkx-i7-nano-desktop-3d-printer/",
+        "source": "Engineering.com",
+        "published": "Mon, 17 Aug 2026 11:56:00 +0000",
+        "published_dt": "2026-08-17T11:56:00+00:00",
+        "summary": "<p>The compact printer supports up to four colors, a 260 \u00d7 260 \u00d7 255 mm build volume and speeds up to 500 mm/s.</p>\n<p>The post <a href=\"https://www.engineering.com/creality-adds-sparkx-i7-nano-desktop-3d-printer/\">Creality adds SPARKX i7 Nano desktop 3D printer</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "0340d89aba0b2fd9",
+        "title": "L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down",
+        "url": "https://spacenews.com/l3harris-names-space-sector-leader-sam-mehta-ceo-after-kubasik-steps-down/",
+        "source": "SpaceNews",
+        "published": "Mon, 17 Aug 2026 12:32:06 +0000",
+        "published_dt": "2026-08-17T12:32:06+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"765\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Screenshot-2026-08-17-at-8.26.02-AM.png?fit=1024%2C765&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Christopher Kubasik exits after board investigation into unspecified conduct</p>\n<p>The post <a href=\"https://spacenews.com/l3harris-names-space-sector-leader-sam-mehta-ceo-after-kubasik-steps-down/\">L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "c990dace02f3ac92",
+        "title": "The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss",
+        "url": "https://spacenews.com/the-77th-international-astronautical-congress-iac-2026-is-the-one-space-event-you-cannot-miss/",
+        "source": "SpaceNews",
+        "published": "Mon, 17 Aug 2026 12:23:27 +0000",
+        "published_dt": "2026-08-17T12:23:27+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"512\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/IAC-Stock-Gorsel-Kaleici-1-1-scaled.jpg?fit=1024%2C512&amp;ssl=1\" width=\"1024\" /></figure>\n<p>For more than 75 years, the International Astronautical Congress (IAC) has been the annual moment when the global space community comes together &#8211; not online, not in separate regional events, [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/the-77th-international-astronautical-congress-iac-2026-is-the-one-space-event-you-cannot-miss/\">The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "ed755535768d8c55",
+        "title": "SEOPS adds second Waymaker rideshare mission",
+        "url": "https://spacenews.com/seops-adds-second-waymaker-rideshare-mission/",
+        "source": "SpaceNews",
+        "published": "Mon, 17 Aug 2026 12:00:00 +0000",
+        "published_dt": "2026-08-17T12:00:00+00:00",
+        "summary": "<figure><img alt=\"Falcon 9 Transporter-17\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"575\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/f9-t17.jpeg?fit=1024%2C575&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Launch services provider SEOPS has added a second dedicated rideshare mission after seeing high demand for one announced less than three months ago.</p>\n<p>The post <a href=\"https://spacenews.com/seops-adds-second-waymaker-rideshare-mission/\">SEOPS adds second Waymaker rideshare mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "e44787f611ec4c23",
+        "title": "Bentley MCP servers win Gold Stevie Award",
+        "url": "https://www.engineering.com/bentley-mcp-servers-win-gold-stevie-award/",
+        "source": "Engineering.com",
+        "published": "Mon, 17 Aug 2026 11:11:00 +0000",
+        "published_dt": "2026-08-17T11:11:00+00:00",
+        "summary": "<p>The servers connect AI assistants with STAAD.Pro and MicroStation for natural-language modeling and analysis workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/bentley-mcp-servers-win-gold-stevie-award/\">Bentley MCP servers win Gold Stevie Award</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "4b22897333d050c8",
+        "title": "Charlie Trimble to receive AGS cartographic medal",
+        "url": "https://www.engineering.com/charlie-trimble-to-receive-ags-cartographic-medal/",
+        "source": "Engineering.com",
+        "published": "Mon, 17 Aug 2026 11:09:00 +0000",
+        "published_dt": "2026-08-17T11:09:00+00:00",
+        "summary": "<p>The O.M. Miller Cartographic Medal recognizes contributions to cartography and the geographic sciences.</p>\n<p>The post <a href=\"https://www.engineering.com/charlie-trimble-to-receive-ags-cartographic-medal/\">Charlie Trimble to receive AGS cartographic medal</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "74c029187c5c137b",
+        "title": "Hi3D to launch V3.0 with 48-hour free access",
+        "url": "https://www.engineering.com/hi3d-to-launch-v3-0-with-48-hour-free-access/",
+        "source": "Engineering.com",
+        "published": "Mon, 17 Aug 2026 11:02:00 +0000",
+        "published_dt": "2026-08-17T11:02:00+00:00",
+        "summary": "<p>The AI 3D model supports 2048\u00b3 voxel resolution and includes tools for image-to-3D, texturing and 3D printing workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/hi3d-to-launch-v3-0-with-48-hour-free-access/\">Hi3D to launch V3.0 with 48-hour free access</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "96cf9183e168926c",
+        "title": "A rocket crashed into the moon. It was harmless, but the next one might not be.",
+        "url": "https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be/",
+        "source": "SpaceNews",
+        "published": "Mon, 17 Aug 2026 11:00:00 +0000",
+        "published_dt": "2026-08-17T11:00:00+00:00",
+        "summary": "<figure><img alt=\"A concept for a later phase of NASA\u2019s proposed lunar base. Credit: NASA\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/moon-base1-scaled.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Earlier this month, a discarded SpaceX Falcon 9 upper stage crashed into the lunar surface at 8,700 kilometers per hour. This was not a controlled landing. The stage had been [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be/\">A rocket crashed into the moon. It was harmless, but the next one might not be.</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "b4567eeb3ddf2dd4",
+        "title": "Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE",
+        "url": "https://spacenews.com/long-march-12-launches-despite-recent-7a-failure-long-march-2c-launches-satellite-for-uae/",
+        "source": "SpaceNews",
+        "published": "Mon, 17 Aug 2026 09:56:15 +0000",
+        "published_dt": "2026-08-17T09:56:15+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"679\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Guowang-group24-CZ12-HCSLC-16aug2026-CASC.jpg?fit=1024%2C679&amp;ssl=1\" width=\"1024\" /></figure>\n<p>HELSINKI \u2014 China launched a new batch of Guowang megaconstellation satellites over the weekend, following up with a separate launch of a developmental satellite for the UAE. The launch of [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/long-march-12-launches-despite-recent-7a-failure-long-march-2c-launches-satellite-for-uae/\">Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "1866e096b0052f84",
+        "title": "Redwire and Kanematsu team up for Japan space market",
+        "url": "https://www.engineering.com/redwire-and-kanematsu-team-up-for-japan-space-market/",
+        "source": "Engineering.com",
+        "published": "Mon, 17 Aug 2026 06:33:10 +0000",
+        "published_dt": "2026-08-17T06:33:10+00:00",
+        "summary": "<p>Kanematsu will support Redwire business development in Japan for space infrastructure, power systems, payloads and robotics.</p>\n<p>The post <a href=\"https://www.engineering.com/redwire-and-kanematsu-team-up-for-japan-space-market/\">Redwire and Kanematsu team up for Japan space market</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "da38b1d4e4424606",
+        "title": "IntelliCAD 15.0 adds AI and drawing compare previews",
+        "url": "https://www.engineering.com/intellicad-15-0-adds-ai-and-drawing-compare-previews/",
+        "source": "Engineering.com",
+        "published": "Mon, 17 Aug 2026 06:47:18 +0000",
+        "published_dt": "2026-08-17T06:47:18+00:00",
+        "summary": "<p>The release completes LISP engine modernization and retires the legacy LISP engine for IntelliCAD developers.</p>\n<p>The post <a href=\"https://www.engineering.com/intellicad-15-0-adds-ai-and-drawing-compare-previews/\">IntelliCAD 15.0 adds AI and drawing compare previews</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "4acae5a88fd7cd4c",
+        "title": "M2 Group named to 2026 AEC Circle of Excellence",
+        "url": "https://www.engineering.com/m2-group-named-to-2026-aec-circle-of-excellence/",
+        "source": "Engineering.com",
+        "published": "Mon, 17 Aug 2026 06:12:52 +0000",
+        "published_dt": "2026-08-17T06:12:52+00:00",
+        "summary": "<p>The PSMJ list recognized 61 firms based on financial performance, productivity, staff growth and related metrics.</p>\n<p>The post <a href=\"https://www.engineering.com/m2-group-named-to-2026-aec-circle-of-excellence/\">M2 Group named to 2026 AEC Circle of Excellence</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "5b1423af0ecccc1e",
+        "title": "Joby to acquire Resonant Sciences for defense expansion",
+        "url": "https://www.engineering.com/joby-to-acquire-resonant-sciences-for-defense-expansion/",
+        "source": "Engineering.com",
+        "published": "Mon, 17 Aug 2026 05:58:02 +0000",
+        "published_dt": "2026-08-17T05:58:02+00:00",
+        "summary": "<p>Resonant will become Joby\u2019s dedicated defense unit while continuing to operate under its existing name and leadership.</p>\n<p>The post <a href=\"https://www.engineering.com/joby-to-acquire-resonant-sciences-for-defense-expansion/\">Joby to acquire Resonant Sciences for defense expansion</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "0889a9ce7e584a37",
+        "title": "Lynk and Omnispace form Elveo Mobile to advance D2D services",
+        "url": "https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services/",
+        "source": "SpaceNews",
+        "published": "Mon, 17 Aug 2026 04:30:00 +0000",
+        "published_dt": "2026-08-17T04:30:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"552\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Elveo_image_handset-scaled.png?fit=1024%2C552&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Lynk Global has completed its merger with Omnispace and rebranded as Elveo Mobile, adding globally coordinated S-band spectrum to expand direct-to-device satellite services beyond basic messaging.</p>\n<p>The post <a href=\"https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services/\">Lynk and Omnispace form Elveo Mobile to advance D2D services</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "b27319ee626db7ca",
@@ -264,6 +372,24 @@
         "published": "Thu, 13 Aug 2026 19:47:13 +0000",
         "published_dt": "2026-08-13T19:47:13+00:00",
         "summary": "As NASA maps out missions to test nuclear power and propulsion, a panelist at the U.S. Space Nuclear Industry Symposium on Thursday said cost will be a key hurdle. \u201cThe lunar surface at the south pole, where we want to land, is a very challenging environment where you need to be able to survive the [...]"
+      },
+      {
+        "id": "2a4f1654ee139fcf",
+        "title": "Satellite operators emphasize launch deals in a constrained market",
+        "url": "https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/",
+        "source": "SpaceNews",
+        "published": "Sun, 16 Aug 2026 23:05:35 +0000",
+        "published_dt": "2026-08-16T23:05:35+00:00",
+        "summary": "<figure><img alt=\"Falcon 9 BlueBird launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/f9-bluebird-aug26.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Amid a constrained launch market, satellite operators are emphasizing to investors and customers that they have lined up launch capacity, even if it is uncertain when it will be available.</p>\n<p>The post <a href=\"https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/\">Satellite operators emphasize launch deals in a constrained market</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "9016c07e354572fb",
+        "title": "U.S. defense agencies tap three companies for satellite disposal study",
+        "url": "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/",
+        "source": "SpaceNews",
+        "published": "Sun, 16 Aug 2026 10:50:00 +0000",
+        "published_dt": "2026-08-16T10:50:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"383\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/03/Firefly_ElytraDawn_EarthOrbit.jpg?fit=1024%2C383&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Firefly, D-Orbit USA and Katalyst will compete to show how commercial operators could capture and remove aging spacecraft</p>\n<p>The post <a href=\"https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/\">U.S. defense agencies tap three companies for satellite disposal study</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "be5e066a36052ae2",
@@ -327,143 +453,26 @@
         "published": "Fri, 14 Aug 2026 13:00:00 +0000",
         "published_dt": "2026-08-14T13:00:00+00:00",
         "summary": "<figure><img alt=\"Transporter-16 launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/transporter16.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>In the beginning, mass constrained spaceflight. We live at the bottom of a gravity well, and the rocket equation punishes every kilogram we try to lift out of it. Mass [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/cheaper-launch-has-moved-the-spacecraft-bottleneck-mass-is-out-surface-area-is-in/\">Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in.</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "f0c88cc717451c27",
-        "title": "Dynatrace to acquire Arize for AI observability",
-        "url": "https://www.engineering.com/dynatrace-to-acquire-arize-for-ai-observability/",
-        "source": "Engineering.com",
-        "published": "Fri, 14 Aug 2026 12:34:04 +0000",
-        "published_dt": "2026-08-14T12:34:04+00:00",
-        "summary": "<p>The $915 million deal adds tools for evaluating LLMs, agents, application performance and infrastructure health.</p>\n<p>The post <a href=\"https://www.engineering.com/dynatrace-to-acquire-arize-for-ai-observability/\">Dynatrace to acquire Arize for AI observability</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "f33a33fa96f0876d",
-        "title": "LG and NVIDIA develop humanoid robot platform",
-        "url": "https://www.engineering.com/lg-and-nvidia-develop-humanoid-robot-platform/",
-        "source": "Engineering.com",
-        "published": "Fri, 14 Aug 2026 12:23:42 +0000",
-        "published_dt": "2026-08-14T12:23:42+00:00",
-        "summary": "<p>The agreement also covers CLOiD factory validation, AI factory reference sites and an AI-defined vehicle platform.</p>\n<p>The post <a href=\"https://www.engineering.com/lg-and-nvidia-develop-humanoid-robot-platform/\">LG and NVIDIA develop humanoid robot platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "0d77f3269a45b335",
-        "title": "Blue Origin outlines plans for second Cape Canaveral launch pad",
-        "url": "https://spacenews.com/blue-origin-outlines-plans-for-second-cape-canaveral-launch-pad/",
-        "source": "SpaceNews",
-        "published": "Fri, 14 Aug 2026 12:08:33 +0000",
-        "published_dt": "2026-08-14T12:08:33+00:00",
-        "summary": "<figure><img alt=\"LC-36A and B\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/lc36ab.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Blue Origin disclosed new details about its plans to not only rebuild but also expand its Florida launch site, adding a second pad for a larger version of New Glenn.</p>\n<p>The post <a href=\"https://spacenews.com/blue-origin-outlines-plans-for-second-cape-canaveral-launch-pad/\">Blue Origin outlines plans for second Cape Canaveral launch pad</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "3499a1697f57fa3c",
-        "title": "Intuitive Machines wins contract for three GEO satellites",
-        "url": "https://spacenews.com/intuitive-machines-wins-contract-for-three-geo-satellites/",
-        "source": "SpaceNews",
-        "published": "Fri, 14 Aug 2026 11:29:03 +0000",
-        "published_dt": "2026-08-14T11:29:03+00:00",
-        "summary": "<figure><img alt=\"Im 1300 satellite\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"725\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/im1300.jpeg?fit=1024%2C725&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Intuitive Machines announced Aug. 13 that it won a $600 million contract from an undisclosed customer for three geostationary orbit communications satellites.</p>\n<p>The post <a href=\"https://spacenews.com/intuitive-machines-wins-contract-for-three-geo-satellites/\">Intuitive Machines wins contract for three GEO satellites</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "b3dbedc667bd03af",
-        "title": "Quanta and Quantinuum develop quantum hardware",
-        "url": "https://www.engineering.com/quanta-and-quantinuum-develop-quantum-hardware/",
-        "source": "Engineering.com",
-        "published": "Fri, 14 Aug 2026 10:35:41 +0000",
-        "published_dt": "2026-08-14T10:35:41+00:00",
-        "summary": "<p>The agreement focuses on modular, manufacturable infrastructure for future scalable quantum systems.</p>\n<p>The post <a href=\"https://www.engineering.com/quanta-and-quantinuum-develop-quantum-hardware/\">Quanta and Quantinuum develop quantum hardware</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "3adb58467f40407a",
-        "title": "DuPont DLE team earns sustainability award",
-        "url": "https://www.engineering.com/dupont-dle-team-earns-sustainability-award/",
-        "source": "Engineering.com",
-        "published": "Fri, 14 Aug 2026 10:16:12 +0000",
-        "published_dt": "2026-08-14T10:16:12+00:00",
-        "summary": "<p>The portfolio includes sorbents, membranes and ion exchange resins for lithium recovery from brine resources.</p>\n<p>The post <a href=\"https://www.engineering.com/dupont-dle-team-earns-sustainability-award/\">DuPont DLE team earns sustainability award</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "a501ead7ff5c8274",
-        "title": "PTC adds natural language tools for Onshape CAD automation",
-        "url": "https://www.engineering.com/ptc-adds-natural-language-tools-for-onshape-cad-automation/",
-        "source": "Engineering.com",
-        "published": "Fri, 14 Aug 2026 10:07:17 +0000",
-        "published_dt": "2026-08-14T10:07:17+00:00",
-        "summary": "<p>The FeatureScript MCP Server connects coding LLMs with Onshape to help engineers build and refine custom CAD features.</p>\n<p>The post <a href=\"https://www.engineering.com/ptc-adds-natural-language-tools-for-onshape-cad-automation/\">PTC adds natural language tools for Onshape CAD automation</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "6cd42d141194d493",
-        "title": "Siemens and Reinhausen partner on solid-state transformer",
-        "url": "https://www.engineering.com/siemens-and-reinhausen-partner-on-solid-state-transformer/",
-        "source": "Engineering.com",
-        "published": "Fri, 14 Aug 2026 10:00:41 +0000",
-        "published_dt": "2026-08-14T10:00:41+00:00",
-        "summary": "<p>The SST is being developed for AI data centers and supports operation up to 36 kV AC with a stable 800 VDC output.</p>\n<p>The post <a href=\"https://www.engineering.com/siemens-and-reinhausen-partner-on-solid-state-transformer/\">Siemens and Reinhausen partner on solid-state transformer</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "024ab8dc942754c9",
-        "title": "Bulgaria advances project to launch new space, defense innovation hub",
-        "url": "https://spacenews.com/bulgaria-advances-project-to-launch-new-space-defense-innovation-hub/",
-        "source": "SpaceNews",
-        "published": "Fri, 14 Aug 2026 09:00:00 +0000",
-        "published_dt": "2026-08-14T09:00:00+00:00",
-        "summary": "<figure><img alt=\"Illustration of a space research and development hub planned for Dobroslavtsi Air Base in Bulgaria. Credit: EnduroSat\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/EnduroSat-Doboslavtsi-Starbase-Europe-1920-1920x1080-1.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>WARSAW, Poland \u2014 Bulgaria\u2019s government has approved a draft memorandum of understanding with the local satellite manufacturer EnduroSat to collaborate on the development of a new space and defense innovation [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/bulgaria-advances-project-to-launch-new-space-defense-innovation-hub/\">Bulgaria advances project to launch new space, defense innovation hub</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "c681c031090568e1",
-        "title": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
-        "url": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/",
-        "source": "SpaceNews",
-        "published": "Fri, 14 Aug 2026 09:00:00 +0000",
-        "published_dt": "2026-08-14T09:00:00+00:00",
-        "summary": "<figure><img alt=\"Novaspace logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Paris, France &#124; August 2026\u00a0\u2013 Novaspace\u2019s latest\u00a0In-Orbit Services Markets\u00a0report projects that emerging in-orbit services will generate approximately\u00a0$3 billion in cumulative service revenues over the next decade, highlighting the early development [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/\">In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "ff667032543bb2fb",
-        "title": "CesiumAstro buys semiconductor specialist to boost constellation plans",
-        "url": "https://spacenews.com/cesiumastro-buys-semiconductor-specialist-to-boost-constellation-plans/",
-        "source": "SpaceNews",
-        "published": "Fri, 14 Aug 2026 02:24:02 +0000",
-        "published_dt": "2026-08-14T02:24:02+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"494\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_1shey_2026.png?fit=879%2C494&amp;ssl=1\" width=\"879\" /></figure>\n<p>CesiumAstro is acquiring semiconductor specialist Jariet Technologies, adding more in-house capabilities behind the phased-array antenna specialist\u2019s plans for a future communications constellation.</p>\n<p>The post <a href=\"https://spacenews.com/cesiumastro-buys-semiconductor-specialist-to-boost-constellation-plans/\">CesiumAstro buys semiconductor specialist to boost constellation plans</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "fefb97c2236ccb47",
-        "title": "Space Force awards five companies $60 million for multi-vendor satellite network tests",
-        "url": "https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests/",
-        "source": "SpaceNews",
-        "published": "Thu, 13 Aug 2026 22:00:00 +0000",
-        "published_dt": "2026-08-13T22:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"500\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/06/photospace4-1.jpg.webp?fit=878%2C500&amp;ssl=1\" width=\"878\" /></figure>\n<p>Amazon Leo, Lockheed Martin, Northrop Grumman, Rocket Lab and York Space will prototype and test connections to the SpaceX-built data network backbone</p>\n<p>The post <a href=\"https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests/\">Space Force awards five companies $60 million for multi-vendor satellite network tests</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "15913b8d57116d60",
-        "title": "Fixing CNC Part Size Drift with Real-Time AI Temperature Offset",
-        "url": "https://www.engineering.com/fixing-cnc-part-size-drift-with-real-time-ai-temperature-offset/",
-        "source": "Engineering.com",
-        "published": "Thu, 13 Aug 2026 17:53:04 +0000",
-        "published_dt": "2026-08-13T17:53:04+00:00",
-        "summary": "<p>Thermal expansion within extended runs can silently destroy high-tolerance pieces. This is how thermal sensors and AI-based algorithms maintain the consistency of piece measurements throughout the run. By Gloria Wu, Director of Technical Support &#38; Solutions Most of the issues that are encountered within the quality control field during the manufacture of precision parts to [&#8230;]</p>\n<p>The post <a href=\"https://www.engineering.com/fixing-cnc-part-size-drift-with-real-time-ai-temperature-offset/\">Fixing CNC Part Size Drift with Real-Time AI Temperature Offset</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "7ee9a047b27f37a1",
-        "title": "Space Command expands Alabama footprint as headquarters relocation advances",
-        "url": "https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances/",
-        "source": "SpaceNews",
-        "published": "Thu, 13 Aug 2026 16:27:05 +0000",
-        "published_dt": "2026-08-13T16:27:05+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/IMG_0400-scaled.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>More than 100 personnel have already relocated to Redstone Arsenal as construction of billion-dollar Space Command facility is set to begin </p>\n<p>The post <a href=\"https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances/\">Space Command expands Alabama footprint as headquarters relocation advances</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
       {
-        "id": "e1e10737d84d097f",
-        "title": "The Value Gap: Europe Cannot Scale -- by Bo Becker, Efraim Benmelech, Joao Monteiro",
-        "url": "https://www.nber.org/papers/w35577#fromrss",
+        "id": "dd3e175b26eaff53",
+        "title": "AI in a Fragmenting World -- by Barry Eichengreen, George Cui, Asmaa A. El-Ganainy, Yevgeniya Koriyenko, Elyad Shojaei, Li Zeng, Shihangyin Zhang",
+        "url": "https://www.nber.org/papers/w35597#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "In 2008, the aggregate market value of U.S.-listed firms was roughly one-third higher than that of European-listed firms. By 2023, it was more than 300% higher, a difference of $34 trillion. The valuation gap is broad-based, rather than concentrated among a few superstar firms, and is driven by differences in firm values, not in the number of listed firms. Across sectors, the gap is larger in R&amp;D-intensive industries and in industries with high returns to scale. European firms\u2019 size is strongly correlated with home-country GDP, whereas U.S. firms\u2019 size is unrelated to home-state GDP. Smaller European firms also face a particularly large cost-of-capital gap and do not appear able to substitute debt for limited access to equity financing, including venture capital. Taken together, these facts suggest that financial and product-market frictions constrain European firms\u2019 ability to scale."
+        "summary": "We link two global trends\u2014AI and geoeconomic fragmentation\u2014asking how fragmentation affects the international diffusion of AI, the magnitude of gains, and their distribution across economies. We ask these questions in general but also with a focus on the MENAP economies. While the effects of AI are potentially far-reaching, the benefits are neither guaranteed nor even. Frontier AI innovation is concentrated in a small number of economies, while countries benefiting through supply-chain participation or AI adoption\u2014with outcomes shaped by their position in global trade and production networks and their AI preparedness. Geoeconomic fragmentation slows AI diffusion and reshapes its distribution by raising trade costs, restricting technology and data flows, fragmenting digital services, and reducing cross-border investment and collaboration. Yet proactive policy choices can turn this dynamic: economies that position themselves as connectors\u2014maintaining trade and technology links across multiple partners\u2014can potentially capture diverted flows and outperform even the no-fragmentation benchmark. For the MENAP economies, diversified links with all major technology hubs can cushion the effects of fragmentation and provide a structural foundation to emerge as net beneficiaries of AI diffusion, but realizing that potential requires reducing AI-related trade costs, improving AI preparedness, and building local AI-related capacity."
+      },
+      {
+        "id": "90e29e41509abba0",
+        "title": "The Global Transition \u2013 The Impact of Demographics and AI on Economic Power -- by Seth G. Benzell, Laurence J. Kotlikoff, Victor Yifan Ye",
+        "url": "https://www.nber.org/papers/w35618#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "This study deploys a multi-region, dynamic life-cycle, general equilibrium model to assess demography\u2019s impact, through the course of this century, on global development. Our model\u2019s 17 regions encompass more than 150 countries comprising 99% of the world\u2019s population. Output is produced with three labor skill groups and internationally-mobile capital, with each country deciding annually whether to adopt its frontier automation technology. Our model features region-specific fiscal policy, TFP growth, and idiosyncratic mortality. Agents live for 100 years, first as children, then as workers, and then as retirees. Work and saving decisions are governed by CES preferences. Lifespan is uncertain, but there are no annuities apart from state pensions. Hence, bequests, while significant, are unintended. Our fertility, mortality, and net immigration rates are region- and age-specific and align fully with the UN\u2019s projections. To illustrate demographics\u2019 power to impact the global transition, we simulate our model under the UN\u2019s markedly different demographic projections for 2017 and 2024. The 2024 forecast is particularly pessimistic about China\u2019s fertility prospects. Both projections produce very substantial global aging, a major global capital glut producing very low long-run real capital returns. The latest forecast entails 10% lower global GDP in 2100 and far higher payroll tax rates to fund old-age benefits. Most important, it entails a major change in the course of economic hegemony with China\u2019s 2100 global GDP share falling from 25.6% to 14.9% and the US share rising from 11.2% to 14.4%. Our results are sensitive. Should the US eliminate all future immigration, its 14.4% global 2100 GDP share would drop to 9.2%. And were global fertility to follow the UN\u2019s low variant, 2100 world output would be one third, not one tenth lower. The level and division of global output is also highly sensitive to the speed at which AI expands frontier technologies. Accelerated AU/AI \u2013 4x faster-than-recent growth in capital\u2019s share through 2050 \u2013 or Transformative AU/AI \u2013 10x faster capital-share growth \u2013 reinforce demographic forces, ensuring long-run US economic hegemony. Indeed, Transformative AI combined with 2024 demographics implies US and Chinese 2100 global GDP shares of 25.3% and 16.9%, respectively. And not withstanding its considerable technological catch up, the US retains, based on our calibration, a technological edge over China throughout the century."
       },
       {
         "id": "fd333dbe0579c51b",
@@ -502,58 +511,85 @@
         "summary": "Artificial intelligence is improving fast. Its effect on output, not so much"
       },
       {
-        "id": "37663e4d78f01566",
-        "title": "Winning is Contagious: Social Learning and the Dynamics of Union Support -- by Ellora Derenoncourt, Arindrajit Dube, Suresh Naidu, Heather Sarsons, Niharika Singh",
-        "url": "https://www.nber.org/papers/w35571#fromrss",
+        "id": "3363a59790914371",
+        "title": "Idea Rents and Firm Growth -- by Timo Boppart, Peter J. Klenow, Reiko Laski, Huiyu Li",
+        "url": "https://www.nber.org/papers/w35594#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "Union growth has historically happened in spurts. We combine union election data from 1961\u20132025 with a large-scale information experiment involving 9,000 low-wage workers to study the role of social learning in union growth. Observationally, close election wins cause future wins within state-industries. Experimentally, information about recent union wins increases union support and beliefs about co-worker support, with effects concentrated among workers with weak information environments and low baseline coworker support. In contrast, information about labor market tightness has little effect. Our results highlight social learning as a mechanism for union growth."
+        "summary": "Which firms drive aggregate productivity growth? We document that firms with high price-earnings ratios tend to see increases in their subsequent earnings relative to sales, which we interpret as rents from ideas (innovation). We construct an endogenous growth model with shocks to firm innovation step-sizes and R&amp;D efficiency and calibrate it to match patterns in the data. The model implies that growth would be much lower, even with the same innovative effort, if firms had the same step sizes. The model can be used to infer expected growth contributions of individual firms (such as members of the Magnificent Seven). We find that the share of growth coming from smaller listed firms substantially exceeds their sales share, whereas the largest listed firms account for less than their sales share."
       },
       {
-        "id": "c165bbe0d5bd583b",
-        "title": "AI Financial Advice: Supply, Demand, and Life Cycle Implications -- by Taha Choukhmane, Tim de Silva, Weidong Lin, Matthew Akuzawa",
-        "url": "https://www.nber.org/papers/w35574#fromrss",
+        "id": "f8200eb8ab3fe56e",
+        "title": "Dynamic Effects of Trade -- by Benny Kleinman, Ernest Liu, Stephen J. Redding",
+        "url": "https://www.nber.org/papers/w35595#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We ask a representative sample to write prompts seeking spending and investing advice from LLMs, then simulate the lifetime effects of following the advice under realistic asset and labor market conditions. Applying this method to GPT-5.2, we find following the advice would move respondents toward life cycle theory: broader participation in diversified equity funds, age-declining equity shares, and larger savings buffers. Recommendations vary systematically by gender, prior AI experience, and financial literacy. For gender, two-thirds of recommended equity-share differences arise from men and women writing different prompts (demand), while one-third arise from gender labels attached to otherwise identical prompts (supply)."
+        "summary": "The existence of aggregate welfare gains from trade is one of the classic insights from international economics. However, these conventional welfare gains are static, in the sense that they take existing factor supplies and production technologies at a point in time as given. Recent research has highlighted dynamic effects of trade through endogenous factor accumulation and technological innovation over time, although there remains less consensus about the quantitative magnitude of these dynamic effects than about their static counterparts. Key insights from this research are that short-run and long-run responses to trade liberalization differ; capital accumulation amplifies the impact of international trade shocks; trade can facilitate technology adoption and the diffusion of ideas by changing the composition of suppliers; effects on lifetime welfare differ substantially from those on steady-state welfare, once transition dynamics are taken into account; and market failures can either magnify the overall welfare gains from trade or rationalize activist trade and industrial policies."
       },
       {
-        "id": "9c11a405baea4c59",
-        "title": "Cautious Careers: Job Mobility under Incomplete Markets -- by Alex Clymo, Piotr Denderski, Yusuf Mercan, Benjamin Schoefer",
-        "url": "https://www.nber.org/papers/w35580#fromrss",
+        "id": "4cc367b36f0b9bc5",
+        "title": "Search and Negotiation with Biased Beliefs in Consumer Credit Markets -- by Erik Berwart, Sean K. Higgins, Sheisha Kulkarni, Santiago Truffa",
+        "url": "https://www.nber.org/papers/w35605#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "Job mobility is risky, workers are risk averse, and insurance markets are incomplete. This paper studies how these features curb and distort job-to-job transitions by making workers excessively cautious: they place too much weight on job safety over wage and productivity gains. We demonstrate this tradeoff by eliciting employed workers\u2019 wage-safety indifference curves in a custom, representative survey. On average, employed US workers require a 1.63% pay raise to accept each additional percentage point of annual unemployment risk in a new job. We assess the macroeconomic consequences of our mechanism by embedding it into a general equilibrium search model. Jobs differ in both wages (productivity) and unemployment risk, and risk-averse workers self-insure against unemployment risk through a non-state-contingent bond while searching on and off the job. We find that a complete markets counterfactual would boost job mobility by 12% and productivity by 0.19%. We also highlight a new role for unemployment insurance: it encourages employed workers to accept risky but high-productivity offers, thereby increasing productivity (by 1.3%) and job creation\u2014as well as job loss and unemployment."
+        "summary": "How do biased beliefs about the interest rate distribution affect search, negotiation, and loan terms in consumer credit markets? In collaboration with Chile's financial regulator, we conducted a randomized controlled trial with 112,063 loan seekers. Randomly eliciting beliefs about interest rates led participants to search more and obtain lower rates. Most participants underestimated both interest rate levels and dispersion. Showing them a price comparison tool we built using administrative data on the universe of consumer loans caused them to update their beliefs, negotiate more, obtain lower rates without searching more, and be more likely to take out a loan."
       },
       {
-        "id": "a48475f0d4767f52",
-        "title": "How Steep is the Phillips Curve in Developing Economies? A Sufficient Statistics Approach and Estimates for India -- by Juan Herre\u00f1o, No\u00e9mie Pinardon-Touati, Malte Thie",
-        "url": "https://www.nber.org/papers/w35581#fromrss",
+        "id": "962d476abf6359a3",
+        "title": "Monopsony Makes it Big -- by Sydnee Caldwell, Arindrajit Dube, Suresh Naidu",
+        "url": "https://www.nber.org/papers/w35608#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We estimate the Phillips curve for India to shed light on the output-inflation tradeoff in developing economies. We develop a method to estimate the slope of the Phillips curve based on sufficient statistics that apply to a broad class of New Keynesian models. Using portable causal research designs, we estimate the firm-level passthrough of cost shocks into prices at different horizons, and the slope of marginal cost curves at different levels of aggregation. These empirical moments map into the slope of the Phillips curve and yield a decomposition into three terms: price rigidity, micro real rigidities, and macro real rigidities. The slope of the Phillips curve in India is one order of magnitude steeper than in the United States. This difference is explained by weaker macro real rigidities and less rigid prices. Extending the model to allow for input misallocation, we find that the re-allocative effects of monetary policy affect the Phillips curve, but this effect is small."
+        "summary": "The literature on imperfect competition in labor markets has expanded rapidly in recent years. This article provides a guide to the field, focusing on the firm-specific (\"residual\") labor supply elasticity as the definition of a firm's labor market power. We present a general framework showing how this elasticity nests the three widely studied sources of monopsony power: search frictions, preference heterogeneity, and employer concentration. We summarize the empirical estimates of the elasticity of labor supply, highlighting sources of possible heterogeneity. We emphasize that it is difficult to infer elasticities from markdowns (and vice versa) due to the diversity of firm wage-setting practices, illustrating this point using the interaction between monopsony and efficiency wages. We discuss how policy issues in antitrust, labor market regulation, immigration, and macroeconomics interact with monopsony and conclude by listing several areas for future research."
       },
       {
-        "id": "6f56a854083a5ca5",
-        "title": "Immigrant Earnings Assimilation, 1981\u20132021 -- by Randall Akee, Jimmy Chin, Daniel L. Crown",
-        "url": "https://www.nber.org/papers/w35582#fromrss",
+        "id": "3ec2d0bb040b12ba",
+        "title": "Exchange Rates, Structural Change, and Productivity Growth -- by Paul Bergin, Woo Jin Choi, Ju H. Pyun",
+        "url": "https://www.nber.org/papers/w35609#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "In this paper, we characterize trends in the earnings assimilation of immigrant workers from 1981 to 2021. We use administrative longitudinal data that contain the earnings of workers beginning in their first year of residence in the United States and in each year thereafter, allowing us to identify immigrants who eventually leave the United States (referred to here as return migrants). We use those data to produce the first examination of trends in earnings assimilation over a 41-year period and to estimate earnings assimilation separately for return migrants versus those who stay in the United States. We document several new facts about immigrants who arrived between 1981 to 2010. First, roughly one-fifth to one-third of immigrants return migrate from the United States within 10 years after arrival. Second, return migrants have entry earnings similar to those of permanent migrants but experience slower rates of earnings growth. Third, earnings assimilation occurs relatively quickly for cohorts arriving since the mid-1990s: The earnings of permanent immigrants converge, or come close to converging, with those of native-born people within 10 years after arrival. Migrants from earlier arrival cohorts experience significant earnings growth but generally do not converge to that of the native born. We discuss how changes in the labor market quality of immigrant cohorts (measured by their relative earnings upon entry) and selective return migration play an important role in determining whether repeated cross-sectional data over- or underestimate earnings assimilation."
+        "summary": "Macroeconomics tends to view exchange rate movements as transitory. However, persistent exchange rate realignments and the associated capital flows can have long-run implications for structural change and productivity growth. We provide empirical evidence that policies of reserve accumulation and currency undervaluation have had significant effects on manufacturing productivity, as well as on manufacturing share, product varieties, and domestic orientation of production chains. We develop a dynamic two-country model with two sectors, firm dynamics, and trade hysteresis to demonstrate a novel mechanism by which exchange rate policy reorients global supply chains and industrial structure. The model identifies conditions under which such a policy raises productivity and welfare in the home country. It also identifies conditions under which the policy leads to either permanent or reversible deindustrialization in a trading partner. Findings have implications for the long-run relationship between China and the U.S."
       },
       {
-        "id": "b7399e6d1da33b4c",
-        "title": "Income Shocks and Intrahousehold Dynamics: Evidence from a Guaranteed Income Experiment -- by Elizabeth Rhodes, David E. Broockman, Eva Vivalt, Patrick K. Krause, Sarah Miller, Alexander W. Bartik",
-        "url": "https://www.nber.org/papers/w35589#fromrss",
+        "id": "bc6c72b3898b8d01",
+        "title": "Sticky Wage Norms and the Real Wage Cost of Unexpected Inflation -- by Erik Hurst, Christina Patterson, Nela Thomas Richardson, Ye Liv Wang",
+        "url": "https://www.nber.org/papers/w35624#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "When an individual's income changes, it can affect their entire household. We study the intrahousehold effects of an unconditional cash transfer in which 1,000 individuals were randomly selected to receive a $1,000 per month transfer for three years, while a control group of 2,000 participants received $50 per month over the same time period. We find no effects on aggregate measures of household stability, although there is suggestive evidence of improved relationship quality and greater trust in partners among recipients in relationships. Transfers to friends and family increase, consistent with recipients sharing some of the additional income with others. There are also spillovers on the income and employment-related outcomes of other household members: household income excluding the recipient decreases by about $1,700 per year, and partners are less likely to be promoted or to move to a better job. Other household members are significantly more likely to participate in education or training, and recipients are also more likely to report someone in their household having to forgo healthcare, potentially reflecting greater engagement with the healthcare system and the identification of previously unmet needs. We observe limited changes in decision-making power or division of labor within the household. Some indicators of intimate partner violence decline, particularly for women, but reported incidence is low and most estimates do not remain statistically significant after adjustment for multiple hypothesis testing. Subgroup differences are generally imprecise, although point estimates suggest larger education and health spillover effects when the recipient is a woman. Household structure also appears to mediates the impacts of the transfers."
+        "summary": "We use a sample of administrative payroll data covering a large and nationally representative share of U.S. workers to study how wages adjusted during the recent inflation period. Most firms apply a single modal annual nominal wage increase to the majority of their workers, and these firm-level norms changed little during the recent period of unexpected inflation. As a result, nominal wages did not keep pace with prices for a large share of workers who stayed at their firms. Forty-three percent of workers continuously employed at the same firm over the four years spanning 2021\u20132024 experienced a real wage decline, with a mean loss of roughly nine percent among those who fell behind. Workers could escape sticky wage norms by changing employers \u2014 job-changers\u2019 wages rose nearly one-for-one with inflation \u2014 but switching was too infrequent to matter for most. Even accounting for job-changers, 37 percent of all workers saw real wages decline over the 4-year period. Indexing firms\u2019 modal raises one-for-one to inflation would have closed roughly 40 percent of the resulting shortfall relative to prepandemic trend. Drawing on cross-country evidence from Belgium, whose wages are automatically indexed to inflation, we show that incomplete wage indexation, rather than inflation itself, helps explain the persistence of depressed consumer sentiment during the 2021\u20132024 period."
+      },
+      {
+        "id": "ba81ec2a69c6c851",
+        "title": "When Public Signals Backfire: Strategic Disclosure and Information Crowd-Out -- by Marty Haoyuan Chen, Ginger Zhe Jin",
+        "url": "https://www.nber.org/papers/w35625#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "We study voluntary disclosure when partially naive receivers observe a public signal correlated with the sender\u2019s private information. We develop a framework in which the public signal changes how receivers interpret silence, and derive a closed-form disclosure threshold nesting classical unraveling. A laboratory experiment varying the correlation confirms our predictions: disclosure decreases as the signal becomes more favorable, and receiver guesses upon nondisclosure rise toward it. The public signal can crowd out disclosure, leaving receivers less informed than without it. This informational loss peaks at intermediate correlation, where the signal shifts beliefs yet remains too noisy to substitute for disclosure."
+      },
+      {
+        "id": "48c05e6a57db8fb6",
+        "title": "Outside Options and Labor Supply: Evidence from the Gig Economy -- by Sydnee Caldwell, Emily Oehlsen",
+        "url": "https://www.nber.org/papers/w35626#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "We use randomized pay experiments among Uber drivers, paired with a natural experiment in access to a competitor, to examine how outside options shape labor supply to the firm. When hours are flexible, the firm-specific labor supply elasticity combines a market-hours component and a firm-substitution component. Access to a single competing platform nearly doubles drivers\u2019 firm-specific elasticity and cuts the implied monopsony markdown from 68% to about 50%. The same experiments identify sex differences: women are about twice as elastic to the market as men, yet no less elastic to their employer."
+      },
+      {
+        "id": "2118cf66810bdcad",
+        "title": "Tariffs, Investment, and the Missing Trade Collapse -- by Francesco Ferrante, Andrea Prestipino, Andrea Raffo, Michael E. Waugh",
+        "url": "https://www.nber.org/papers/w35630#fromrss",
+        "source": "National Bureau of Economic Research Working Papers",
+        "published": null,
+        "published_dt": null,
+        "summary": "U.S. tariff rates in 2025 rose to levels not seen since the Great Depression, yet imports increased. To account for the missing trade collapse, we develop an open-economy New Keynesian model with tariff heterogeneity, inventories, and shocks to investment that capture the AI-driven boom. The model matches the untargeted paths of imports, output, and inflation; we use it to decompose the effects of tariffs and the investment boom. Absent the investment boom, imports would have fallen by 10 percent and activity would have contracted by 0.7 percent. The effects of tariffs depend on which goods are tariffed: tariffs on consumption and intermediates act like shocks to supply; tariffs on capital goods act like shocks to demand. The concentration of the 2025 tariff increases on consumption goods and the relative sparing of capital goods limited the damage to output while amplifying the inflationary impulse."
       },
       {
         "id": "99b573ab90e62130",
@@ -644,45 +680,18 @@
         "published": "Thu, 23 Jul 2026 09:42:17 +0000",
         "published_dt": "2026-07-23T09:42:17+00:00",
         "summary": "Restoring balance could be painful"
-      },
-      {
-        "id": "9099beda02a90cef",
-        "title": "Can China dominate AI exports, too?",
-        "url": "https://www.economist.com/finance-and-economics/2026/07/23/can-china-dominate-ai-exports-too",
-        "source": "Finance & economics",
-        "published": "Thu, 23 Jul 2026 09:03:47 +0000",
-        "published_dt": "2026-07-23T09:03:47+00:00",
-        "summary": "Robotaxis offer an early test case"
-      },
-      {
-        "id": "818eab0a1fc7ad6d",
-        "title": "The rise of the deserving rich",
-        "url": "https://www.economist.com/finance-and-economics/2026/07/23/the-rise-of-the-deserving-rich",
-        "source": "Finance & economics",
-        "published": "Thu, 23 Jul 2026 08:59:38 +0000",
-        "published_dt": "2026-07-23T08:59:38+00:00",
-        "summary": "Today\u2019s billionaires are more likely than yesterday\u2019s to have made their own money"
-      },
-      {
-        "id": "a52666f703f807b8",
-        "title": "How investors learned to live with inflation",
-        "url": "https://www.economist.com/finance-and-economics/2026/07/21/how-investors-learned-to-live-with-inflation",
-        "source": "Finance & economics",
-        "published": "Tue, 21 Jul 2026 17:29:00 +0000",
-        "published_dt": "2026-07-21T17:29:00+00:00",
-        "summary": "Fewer than ever believe central bankers will bring it back to target"
-      },
-      {
-        "id": "48117d557765ad2d",
-        "title": "Can Kevin Warsh\u2019s Fed force 5 reimagine monetary policymaking?",
-        "url": "https://www.economist.com/finance-and-economics/2026/07/16/can-kevin-warshs-fed-force-5-reimagine-monetary-policymaking",
-        "source": "Finance & economics",
-        "published": "Thu, 16 Jul 2026 09:02:38 +0000",
-        "published_dt": "2026-07-16T09:02:38+00:00",
-        "summary": "The new chairman enlists heavy-hitters to fight a handful of gnarly problems"
       }
     ],
     "Cross-Disciplinary": [
+      {
+        "id": "0f0ebad8ecedc77e",
+        "title": "The Download: dead robot friends and the \u201ccensorship-industrial complex\u201d",
+        "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 17 Aug 2026 12:10:00 +0000",
+        "published_dt": "2026-08-17T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid\u2019s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she&#8230;"
+      },
       {
         "id": "1e200f541613e55f",
         "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
@@ -709,6 +718,24 @@
         "published": "Wed, 29 Jul 2026 11:00:04 +0000",
         "published_dt": "2026-07-29T11:00:04+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-painting-with-overlapping-concentric-shapes-in-blue-and-yellow.jpg?id=67163886&amp;width=1245&amp;height=700&amp;coordinates=0%2C62%2C0%2C63\" /><br /><br /><p>Artificial intelligence is rapidly becoming part of everyday infrastructure\u2013in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being integrated into education, health care, finance, and public administration. Industry leaders talk about \u201cAI for everyone,\u201d while governments rush to publish national AI strategies and build sovereign compute.</p><p>Yet over the past decade, working on digital inclusion and digital literacy projects in regions from Europe to sub-Saharan Africa and Southeast Asia, <a href=\"https://link.springer.com/book/10.1007/978-3-031-30808-6\" rel=\"noopener noreferrer\" target=\"_blank\">I\u2019ve seen the same pattern repeat</a>: Each new wave of \u201ctransformative\u201d technology lands on a landscape already stratified by connectivity, skills, and institutional capacity. The current AI wave is no exception. If anything, it amplifies those underlying fractures.</p><p>Still, some countries are exploring ways of participating in AI development without directly replicating the frontier-model race dominated by the United States and China. Recent developments in South Africa and Indonesia illustrate both the possibilities and challenges. The stakes extend far beyond access to AI. Countries that remain primarily consumers rather than creators of AI risk losing opportunities to build local innovation ecosystems, strengthen public-sector capacity, and ensure that their own languages, cultures, and societal priorities are reflected in AI systems. In this sense, the AI divide is also becoming a divide in economic opportunity and technological influence.</p><h2>AI compute is clustering in a few places</h2><p>Recent analyses from Stanford University\u2019s 2026 <a href=\"https://hai.stanford.edu/ai-index/2026-ai-index-report\" rel=\"noopener noreferrer\" target=\"_blank\">AI Index report</a> that the United States alone hosts more than 5,000 data centers, over 10 times as many as any other single country. Because AI workloads are increasingly performed on cloud platforms rather than local infrastructure, this concentration of compute also becomes a concentration of dependency. According to <a href=\"https://www.worldbank.org/en/publication/dptr2025-ai-foundations\" rel=\"noopener noreferrer\" target=\"_blank\">World Bank data</a>, in 2023 the United States accounted for roughly 87 percent of global exports of cloud computing and data-storage services.</p><p>For most countries, this means that <a href=\"https://spectrum.ieee.org/europe-tech-sovereignty-package\" target=\"_self\">AI development is not just technologically but commercially and geopolitically outsourced</a> and out of their control. The result is an AI ecosystem where a small number of states and firms host the computational engines that power globally deployed systems.</p><p>Systems trained, standardized, and governed within a narrow set of institutional and linguistic environments may struggle to serve a genuinely global public.</p><h2>Skills and AI literacy are deeply stratified</h2><p>Even where connectivity and cloud access exist, not everyone is equally positioned to make use of them. Across the Organisation for Economic Co-operation and Development (OECD) countries, only around <a href=\"https://www.oecd.org/en/publications/bridging-the-ai-skills-gap_66d0702e-en.html\" rel=\"noopener noreferrer\" target=\"_blank\">40 percent of adults possess more than basic digital problem-solving skills</a>, while advanced computational and AI-related competences remain concentrated among highly educated workers and technology-intensive sectors.</p><p>At the same time, governments are racing to integrate AI into education, often starting at higher levels of schooling. UNESCO <a href=\"https://www.unesco.org/ethics-ai/en/node/367\" rel=\"noopener noreferrer\" target=\"_blank\">has reported</a> growing efforts worldwide to integrate AI into education, while support for AI literacy in primary and lower secondary education, as well as ethical training for educators, remains uneven. </p><p>Those with robust schooling, advanced digital skills, and stable connectivity are best positioned to treat AI as a tool to extend their capabilities. <a href=\"https://www.oecd.org/en/publications/how-do-people-experience-new-technologies-and-generative-ai_49b8d10e-en/full-report.html\" rel=\"noopener noreferrer\" target=\"_blank\">Recent OECD survey data</a> show that participation in AI-related training remains strongly stratified by educational attainment: 36 percent of respondents with tertiary education reported undertaking AI-related training in the previous year, compared with just 18 percent of those with upper-secondary education. Those on the wrong side of the divide are more likely to experience AI as an opaque system acting upon them, from algorithmic welfare systems such as the <a href=\"https://www.theguardian.com/technology/2020/feb/05/welfare-surveillance-system-violates-human-rights-dutch-court-rules\" rel=\"noopener noreferrer\" target=\"_blank\">Dutch childcare benefits scandal</a> to AI-assisted hiring tools such as <a href=\"https://www.reuters.com/article/world/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon\u2019s discontinued AI recruiting system</a>, rather than as a technology they can actively interrogate or shape.</p><h2>Investment and governance: Who gets a seat at the table?</h2><p>The core agenda-setting power often remains with a narrow set of industry actors and a small group of technologically advanced states. Most other countries remain in a perpetual catch-up posture, adapting imported models, standards, and templates for \u201ctrustworthy AI\u201d to their own contexts, and may have limited local capacity to assess trade-offs or propose alternatives. </p><p>In countries such as Indonesia and South Africa, communities generate data at massive scale yet still have little voice in how AI systems are designed, governed, or deployed. Their <a href=\"https://spectrum.ieee.org/indigenous-ai-voice-models-maori\" target=\"_self\">languages are underrepresented in training data</a>; their institutions are under-resourced in regulatory forums; their experiences rarely feature in benchmark datasets. For many countries in the global South, participation in AI still occurs largely through adapting imported systems rather than shaping how those systems are designed, governed, or deployed. </p><p>In South Africa, the Department of Communications and Digital Technologies released a <a href=\"https://www.techpolicy.press/south-africa-has-ai-leverage-its-draft-policy-leaves-it-unused/\" rel=\"noopener noreferrer\" target=\"_blank\">draft national AI policy</a> in April 2026, proposing new oversight institutions. The department withdrew the draft days later after a journalist discovered that at least six of its academic citations did not exist, apparently AI-generated hallucinations. The minister called it <a href=\"https://www.reuters.com/world/africa/south-africa-withdraws-ai-policy-due-fake-ai-generated-sources-2026-04-27/\" rel=\"noopener noreferrer\" target=\"_blank\">\u201can unacceptable lapse.</a>\u201c The episode sharply illustrates the gap between AI governance ambition and the institutional capacity needed to implement it, though the new AI panel the country has since constituted has a chance to use <a href=\"https://spectrum.ieee.org/south-africa-ai-policy\" target=\"_self\">South Africa\u2019s unique leverage</a>.</p><p>Indonesia presents a case of deliberate, if constrained, public-sector agency. The National Research and Innovation Agency (BRIN) which now leads AI implementation under the national strategy, has built <a href=\"https://restofworld.org/2024/indonesia-ai-tools-brin-government-agency/\" rel=\"noopener noreferrer\" target=\"_blank\">practical AI tools aimed at underserved communities</a> rather than frontier capabilities, including an app that uses satellite data and machine learning to help artisanal fishermen locate schools of fish, multilingual language models trained on Indonesian and local languages such as Javanese and Sundanese, and <a href=\"https://www.lightreading.com/ai-machine-learning/indonesia-s-upgraded-sahabat-ai-features-a-multilingual-chat-service\" rel=\"noopener noreferrer\" target=\"_blank\">AI chatbots deployed in government services.</a> In August 2025, the Ministry of Communication and Digital Affairs released <a href=\"https://govinsider.asia/intl-en/article/indonesia-unveils-national-ai-roadmap\" rel=\"noopener noreferrer\" target=\"_blank\">a national AI road map</a> with a target of training 100,000 AI-skilled workers annually. </p><p>The choice is not simply between \u201cAI superpower\u201d and \u201cpassive recipient.\u201d </p><p>Regional cooperation may also become increasingly important. In 2024 African ministers adopted a Continental AI Strategy and African Digital Compact. Participants in the April 2025 <a href=\"https://dsup.substack.com/p/dsfsi-at-the-global-ai-summit-on\" rel=\"noopener noreferrer\" target=\"_blank\">Global AI Summit on Africa in Kigali</a> explored how regional coordination, <a href=\"https://www.news.uct.ac.za/news/audio/-article/2026-05-04-uct-researchers-develop-ai-model-for-11-south-african-languages\" rel=\"noopener noreferrer\" target=\"_blank\">local-language AI models</a>, public universities, and <a href=\"https://scienceforafrica.foundation/media-center/open-research-proposals-adopted-east-africas-ai-declaration\" rel=\"noopener noreferrer\" target=\"_blank\">open-source ecosystems</a> might <a href=\"https://carnegieendowment.org/posts/2025/09/understanding-africas-ai-governance-landscape-insights-from-policy-practice-and-dialogue\" rel=\"noopener noreferrer\" target=\"_blank\">reduce long-term dependence on externally developed AI systems</a>.</p><h2>A different way to think about the AI divide</h2><p>None of this means that people should slow or abandon AI, nor that cloud concentration or venture capital are inherently bad. Instead, when we talk about an \u201cAI revolution,\u201d we should also ask who can shape it and who can merely adapt to it.</p><p>Digital-divide debates once focused on devices and connectivity, later expanding toward skills and outcomes. But the current AI wave adds another layer: disparities in who can meaningfully participate in deciding what AI is for, which problems it is meant to solve, and which social priorities it ultimately serves.</p><p>For engineers and policymakers, this raises difficult but necessary questions. Are they designing AI systems and infrastructures that broaden, rather than narrow, participation in shaping technological change? When governments roll out national AI strategies or integrate AI into public services, whose constraints, languages, and institutional realities are they including?</p><p>Many observers frame the current AI moment as <a href=\"https://spectrum.ieee.org/state-of-ai-index-2026\" target=\"_self\">a competition</a>. But technological competition is never only about speed. It is also about who can influence the direction of change.</p><p>AI is already spreading globally. The deeper question is whether the technologists and policymakers responsible for it will ensure that meaningful participation in shaping that future will spread as well.</p>"
+      },
+      {
+        "id": "6d45fb6684839b50",
+        "title": "How much hydrogen awaits us underground?",
+        "url": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 17 Aug 2026 09:00:00 +0000",
+        "published_dt": "2026-08-17T09:00:00+00:00",
+        "summary": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemists found water that had been confined underground for more than a billion years. This ancient brine turned out to be a habitat&#8230;"
+      },
+      {
+        "id": "b95e28ac0141a6c2",
+        "title": "What happens when a kid\u2019s robot best friend dies?",
+        "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 17 Aug 2026 09:00:00 +0000",
+        "published_dt": "2026-08-17T09:00:00+00:00",
+        "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they\u2019ve known each other,&#8230;"
       },
       {
         "id": "8d36ec947b5e58a7",
@@ -853,33 +880,6 @@
         "published": "Thu, 13 Aug 2026 13:41:10 +0000",
         "published_dt": "2026-08-13T13:41:10+00:00",
         "summary": "The police-tech giant Flock is announcing today that it will change officers\u2019 access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:&#8230;"
-      },
-      {
-        "id": "4afb58d5eedcc192",
-        "title": "The Download: kids\u2019 thoughts on AI, and female clones of male mice",
-        "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 13 Aug 2026 12:10:00 +0000",
-        "published_dt": "2026-08-13T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words \u2014Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens When we set out&#8230;"
-      },
-      {
-        "id": "fcd294606741ac40",
-        "title": "What\u2019s behind this summer\u2019s heat, and why 2027 could be worse",
-        "url": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 13 Aug 2026 10:00:00 +0000",
-        "published_dt": "2026-08-13T10:00:00+00:00",
-        "summary": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature.\u00a0\u00a0 The heat isn\u2019t over yet, but some scientists are already looking ahead&#8230;"
-      },
-      {
-        "id": "aff4c358cb9f9072",
-        "title": "How kids feel about AI, in their own words",
-        "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 13 Aug 2026 09:00:00 +0000",
-        "published_dt": "2026-08-13T09:00:00+00:00",
-        "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we\u2019d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;"
       },
       {
         "id": "fcafc78432008928",
