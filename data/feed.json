@@ -1,105 +1,159 @@
 {
-  "generated_at": "2026-08-18T12:56:19.059599+00:00",
+  "generated_at": "2026-08-19T12:56:56.703663+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "9ad7e9b44a44f95d",
-        "title": "The Download: how people really use AI, and Flock\u2019s design choices",
-        "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+        "id": "f60fec8864d9f15c",
+        "title": "The Download: AI\u2019s self-improvement problem, and what\u2019s driving the heat",
+        "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
         "source": "MIT Technology Review",
-        "published": "Tue, 18 Aug 2026 12:10:00 +0000",
-        "published_dt": "2026-08-18T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don\u2019t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the&#8230;"
+        "published": "Wed, 19 Aug 2026 12:10:00 +0000",
+        "published_dt": "2026-08-19T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI\u2019s recursive self-improvement might not come so quickly after all The AI industry\u2019s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.&#8230;"
       },
       {
-        "id": "d7a8cf062023296d",
-        "title": "STAT+: Amylyx endocrine drug succeeds in pivotal study",
-        "url": "https://www.statnews.com/2026/08/18/amylyx-endocrine-drug-succeeds-in-pivotal-study-avexitide-bariatric-surgery-patients/?utm_campaign=rss",
+        "id": "5d8b35faaebec3ca",
+        "title": "Dissecting Chinese trial strategy in wake of deaths",
+        "url": "https://www.statnews.com/2026/08/19/health-news-dissecting-chinese-trial-strategy-in-wake-of-deaths/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Tue, 18 Aug 2026 11:01:00 +0000",
-        "published_dt": "2026-08-18T11:01:00+00:00",
-        "summary": "In a Phase 3 trial of people with post-bariatric hypoglycemia, those taking the drug, avexitide, experienced a 55% reduction in the rate of serious low blood sugar events compared with&#8230;"
+        "published": "Wed, 19 Aug 2026 11:47:26 +0000",
+        "published_dt": "2026-08-19T11:47:26+00:00",
+        "summary": "Cancer \"vaccine\" successfully slowed melanoma, dissecting Chinese trial strategy in wake of deaths, and more health news from Morning Rounds"
       },
       {
-        "id": "4ad8551a3bef9716",
-        "title": "We still don\u2019t know how people are really using AI",
-        "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+        "id": "3849c07d96b67dc1",
+        "title": "STAT+: Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial",
+        "url": "https://www.statnews.com/2026/08/19/mrna-cancer-vaccine-trial-melanoma-merck-moderna/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 19 Aug 2026 10:45:00 +0000",
+        "published_dt": "2026-08-19T10:45:00+00:00",
+        "summary": "A personalized mRNA cancer vaccine succeeded in a late-stage melanoma study, results that could herald a new, powerful approach in oncology."
+      },
+      {
+        "id": "c063b5bff1b01d8f",
+        "title": "STAT+: What Epic did \u2014 and didn\u2019t \u2014 say about AI at its annual meeting",
+        "url": "https://www.statnews.com/2026/08/19/ai-prognosis-what-epic-did-and-didnt-say-about-ai-at-its-annual-meeting/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 19 Aug 2026 11:25:12 +0000",
+        "published_dt": "2026-08-19T11:25:12+00:00",
+        "summary": "At Epic's annual meeting, the prevailing question behind closed doors is \u201cWhat the heck is going on with Epic?\u201d"
+      },
+      {
+        "id": "c10fe86d5c3f0d9d",
+        "title": "Child-monitoring apps might need a reboot",
+        "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
         "source": "MIT Technology Review",
-        "published": "Tue, 18 Aug 2026 10:06:43 +0000",
-        "published_dt": "2026-08-18T10:06:43+00:00",
-        "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; \u201cThere is no independent source to corroborate it,\u201d says Anka Reuel, a Computer Science PhD candidate at the Stanford Trustworthy AI Research&#8230;"
+        "published": "Wed, 19 Aug 2026 09:00:00 +0000",
+        "published_dt": "2026-08-19T09:00:00+00:00",
+        "summary": "Pam Wisniewski\u2019s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she\u2019d been isolated in a fifth-wheel trailer at the end of a seven-\u00admile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. Online, she&#8230;"
       },
       {
-        "id": "2f793572ac182115",
-        "title": "STAT+: A pill that mimics exercise? Early results on drug designed to maintain both weight loss and muscle mass",
-        "url": "https://www.statnews.com/2026/08/18/enveda-pill-mimics-exercise-phase-one-trial-leptin-weight-loss-maintenance/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 18 Aug 2026 10:00:00 +0000",
-        "published_dt": "2026-08-18T10:00:00+00:00",
-        "summary": "Colorado biotech Enveda reports preliminary results on a drug to help people maintain weight loss after GLP-1 use. Just don't call it exercise in a pill."
-      },
-      {
-        "id": "05bd37256f0909d7",
-        "title": "The role of the astronaut is in flux",
-        "url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 18 Aug 2026 09:00:00 +0000",
-        "published_dt": "2026-08-18T09:00:00+00:00",
-        "summary": "When the four astronauts on board NASA\u2019s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles.&#160; While no space mission can live up to the historic touchdown of&#8230;"
-      },
-      {
-        "id": "66eb4b49d2d0dd05",
-        "title": "AI\u2019s recursive self-improvement might not come so quickly after all",
-        "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 18 Aug 2026 09:00:00 +0000",
-        "published_dt": "2026-08-18T09:00:00+00:00",
-        "summary": "The AI industry\u2019s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&#160;&#8230;"
-      },
-      {
-        "id": "95abd28730cf5c47",
-        "title": "STAT+: Doritos as farm-to-table snacks? Big Food, under duress, gets creative",
-        "url": "https://www.statnews.com/2026/08/18/farm-to-table-doritos-ultra-processed-food-ad-campaign-healthwashing/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 18 Aug 2026 08:30:00 +0000",
-        "published_dt": "2026-08-18T08:30:00+00:00",
-        "summary": "Doritos in the classic nacho cheese flavor have 27 ingredients, including not just familiar ones but also a number of additives and preservatives."
-      },
-      {
-        "id": "991a535e14155bcf",
-        "title": "Opinion: 8 steps to making surrogacy more ethical for everyone involved",
-        "url": "https://www.statnews.com/2026/08/18/mckenna-west-surrogacy-laws-ethics/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 18 Aug 2026 08:30:00 +0000",
-        "published_dt": "2026-08-18T08:30:00+00:00",
-        "summary": "\u201cEverything about the West case shows how miserably surrogacy has been managed in America,\u201d writes Arthur Caplan."
-      },
-      {
-        "id": "386a10d276401346",
-        "title": "Opinion: In parts of the world, antibiotic overuse isn\u2019t the problem \u2014 underuse is",
-        "url": "https://www.statnews.com/2026/08/18/antibiotic-underuse-overuse-resistance-aware/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 18 Aug 2026 08:30:00 +0000",
-        "published_dt": "2026-08-18T08:30:00+00:00",
-        "summary": "\u201cLike climate change, antimicrobial resistance is a global challenge, but its causes and consequences are unevenly distributed,\u201d writes GARDP\u2019s Peter Beyer."
-      },
-      {
-        "id": "1731f6c4dd03a802",
-        "title": "STAT+: How health care costs are undermining America\u2019s public-sector employers",
-        "url": "https://www.statnews.com/2026/08/18/public-sector-employees-health-care-costs-out-of-pocket-series-part-4/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Tue, 18 Aug 2026 08:30:00 +0000",
-        "published_dt": "2026-08-18T08:30:00+00:00",
-        "summary": "Politicians are contemplating raising taxes and cutting benefits as the cost of health care for government workers surges."
-      },
-      {
-        "id": "728853e11daa6633",
-        "title": "<a href=\"https://www.fiercebiotech.com/cro/ai-clinical-monitoring-agents-can-deliver-82-times-roi-report\" hreflang=\"en\">AI clinical monitoring agent can deliver up to 82 times the ROI in oncology: report</a>",
-        "url": "https://www.fiercebiotech.com/cro/ai-clinical-monitoring-agents-can-deliver-82-times-roi-report",
+        "id": "c3b75183d423eb00",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-and-modernas-personalized-cancer-vaccine-slows-recurrence-ph-3-trial\" hreflang=\"en\">Merck, Moderna\u2019s personalized cancer vaccine slows recurrence in phase 3, setting up approval push</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-and-modernas-personalized-cancer-vaccine-slows-recurrence-ph-3-trial",
         "source": "Fierce Biotech",
-        "published": "Aug 12, 2026 1:56pm",
-        "published_dt": "2026-08-12T13:56:00+00:00",
-        "summary": "A new analysis from the Tufts Center for the Study of Drug Development (CSDD) found that an AI clinical monitoring agent can deliver an estimated 82-fold return on investment in phase 3 oncology trials."
+        "published": "Aug 18, 2026 11:44pm",
+        "published_dt": "2026-08-18T23:44:00+00:00",
+        "summary": "Merck &amp; Co. and Moderna's personalized mRNA cancer vaccine has successfully lengthened recurrence-free survival when paired with Keytruda for patients with high-risk skin cancer. The phase 3 win sets the partners up to potentially seek accelerated approval."
+      },
+      {
+        "id": "a6f718e91b5fc838",
+        "title": "Accrediting body considers changes to racism curriculum standards for public health schools",
+        "url": "https://www.statnews.com/2026/08/19/public-health-education-accrediting-body-ceph-walks-dei-tightrope/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 19 Aug 2026 08:30:00 +0000",
+        "published_dt": "2026-08-19T08:30:00+00:00",
+        "summary": "The accrediting group for schools of public health is weighing the removal of language that specifically requires programs to teach about structural bias and racism."
+      },
+      {
+        "id": "2edb86b8428fb084",
+        "title": "STAT+: In wake of boy\u2019s death, gene editing experts dissect Huidagene\u2019s decisions",
+        "url": "https://www.statnews.com/2026/08/19/huidagene-clinical-trial-deaths-experts-dissect-study-design/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 19 Aug 2026 08:30:00 +0000",
+        "published_dt": "2026-08-19T08:30:00+00:00",
+        "summary": "Experts question technical improvements Huidagene tried when using a Duchenne muscular dystrophy treatment strategy largely abandoned by U.S. companies."
+      },
+      {
+        "id": "cb89d334ea22698e",
+        "title": "Opinion: I\u2019m a pediatrician. AI chatbots are grooming my patients",
+        "url": "https://www.statnews.com/2026/08/19/ai-chatbots-children-grooming-mental-health/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 19 Aug 2026 08:30:00 +0000",
+        "published_dt": "2026-08-19T08:30:00+00:00",
+        "summary": "\u201cAt present, the law does not recognize that child abuse is child abuse when it\u2019s perpetrated by an algorithm operated by a corporation,\u201d writes a pediatrician."
+      },
+      {
+        "id": "1978350dfa35bbc5",
+        "title": "She grew up unvaccinated. Now she\u2019s a leading voice for science \u2014 and empathy",
+        "url": "https://www.statnews.com/2026/08/19/science-communication-liz-marnik-vaccine-advocate/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 19 Aug 2026 08:30:00 +0000",
+        "published_dt": "2026-08-19T08:30:00+00:00",
+        "summary": "Immunologist Liz Marnik, who grew up unvaccinated, says shaming people who distrust science will do nothing to improve vaccine acceptance."
+      },
+      {
+        "id": "6498fbbae955b4df",
+        "title": "Opinion: AI has created a shadow medical system",
+        "url": "https://www.statnews.com/2026/08/19/ai-doctor-outperforms-chatgpt-oura-quest-ro-hims-medical-system/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 19 Aug 2026 08:30:00 +0000",
+        "published_dt": "2026-08-19T08:30:00+00:00",
+        "summary": "Financial incentives \u2013 health care makes up nearly one-fifth of the American economy \u2013 have driven every major AI company into health care."
+      },
+      {
+        "id": "5c8b7176fa621e10",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-and-sarah-cannon-team-boost-oncology-trial-efficiency\" hreflang=\"en\">Merck and Sarah Cannon team up to boost oncology trial efficiency</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-and-sarah-cannon-team-boost-oncology-trial-efficiency",
+        "source": "Fierce Biotech",
+        "published": "Aug 18, 2026 1:48pm",
+        "published_dt": "2026-08-18T13:48:00+00:00",
+        "summary": "Oncology R&amp;D organization Sarah Cannon Research Institute (SCRI) announced a collaboration with Merck &amp; Co. to increase patient access to oncology trials at community-based sites in the U.S."
+      },
+      {
+        "id": "19f919e2a559b804",
+        "title": "STAT+: Trump expected to pick White House adviser Heidi Overton to lead FDA",
+        "url": "https://www.statnews.com/2026/08/18/heidi-overton-fda-commissioner-nominee-white-house-adviser/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 19 Aug 2026 01:18:25 +0000",
+        "published_dt": "2026-08-19T01:18:25+00:00",
+        "summary": "Heidi Overton, a doctor and White House adviser, is expected to be President Trump's pick to lead the FDA."
+      },
+      {
+        "id": "facd6f7fdc27398e",
+        "title": "STAT+: Real-world psilocybin data suggest need for close monitoring",
+        "url": "https://www.statnews.com/2026/08/18/biotech-news-real-world-psilocybin-data-suggest-need-for-close-monitoring/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 18 Aug 2026 18:07:48 +0000",
+        "published_dt": "2026-08-18T18:07:48+00:00",
+        "summary": "Amylyx reports success in a pivotal trial, biopharma A-listers join a pain-blocking device company board, and more biotech news from The Readout"
+      },
+      {
+        "id": "7a63ca3a1f91a772",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kolon-tissuegene-shrinks-workforce-after-pivotal-osteoarthritis-trial-miss\" hreflang=\"en\">Kolon TissueGene shrinks workforce after pivotal osteoarthritis trial miss</a>",
+        "url": "https://www.fiercebiotech.com/biotech/kolon-tissuegene-shrinks-workforce-after-pivotal-osteoarthritis-trial-miss",
+        "source": "Fierce Biotech",
+        "published": "Aug 18, 2026 3:44pm",
+        "published_dt": "2026-08-18T15:44:00+00:00",
+        "summary": "Following a phase 3 knee osteoarthritis failure that its CEO acknowledged caused \u201cgreat disappointment and concern,\u201d Kolon TissueGene is laying off 37 employees at its Maryland headquarters."
+      },
+      {
+        "id": "5ed342e2c1d52b4a",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about a setback for Eyepoint, a win for Amylyx, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/08/18/eyepoint-blindness-treatment-setback-amylyx-avexitide-win/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Tue, 18 Aug 2026 13:25:37 +0000",
+        "published_dt": "2026-08-18T13:25:37+00:00",
+        "summary": "Eyepoint disclosed that a Phase 3 trial of its experimental treatment for a common cause of age-related blindness fell short of its primary goal"
+      },
+      {
+        "id": "518312ec2f5ef79b",
+        "title": "Physician group sues Trump administration over dietary guidelines process",
+        "url": "https://www.statnews.com/2026/08/19/physician-group-sues-trump-administration-over-dietary-guidelines-food-pyramid-hhs-usda/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Wed, 19 Aug 2026 05:00:00 +0000",
+        "published_dt": "2026-08-19T05:00:00+00:00",
+        "summary": "The suit, brought by a nonprofit that advocates for plant-based diets, claims HHS and the USDA used a \u201csecret panel\u201d of scientists to flip the food pyramid."
       },
       {
         "id": "80ab4fc7c4f6a5bc",
@@ -109,24 +163,6 @@
         "published": "Aug 17, 2026 1:55pm",
         "published_dt": "2026-08-17T13:55:00+00:00",
         "summary": "Regeneron has hit the brakes on the phase 1/2a trial for an experimental eye inflammation treatment, following an adverse event that tilted the drug\u2019s risk/benefit profile in the wrong direction."
-      },
-      {
-        "id": "26db0fb918670f22",
-        "title": "STAT+: Akeso and Summit\u2019s lung cancer drug shows worsening tumor-progression benefit",
-        "url": "https://www.statnews.com/2026/08/17/biotech-news-akeso-summit-ivonescimabs-worsening-tumor-progression-benefit/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 17 Aug 2026 13:38:15 +0000",
-        "published_dt": "2026-08-17T13:38:15+00:00",
-        "summary": "Europe pulls Tavneos over trial integrity concerns, pricing concerns over AstraZeneca's hypertension drug, and more biotech news from The Readout"
-      },
-      {
-        "id": "926f677caad26965",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about an AstraZeneca setback, falling U.S. drug prices, and more",
-        "url": "https://www.statnews.com/pharmalot/2026/08/17/astrazeneca-lung-cancer-setback-falling-drug-prices/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 17 Aug 2026 13:22:17 +0000",
-        "published_dt": "2026-08-17T13:22:17+00:00",
-        "summary": "AstraZeneca\u00a0is discontinuing a late-stage drug trial in patients with metastatic non-small cell lung cancer, extending a run of setbacks"
       },
       {
         "id": "0f0ebad8ecedc77e",
@@ -190,45 +226,72 @@
         "published": "Aug 14, 2026 9:37am",
         "published_dt": "2026-08-14T09:37:00+00:00",
         "summary": "Capricor Therapeutics has bounced back from a bruising FDA advisory committee meeting by securing a green light to file an amendment to its approval application, raising hopes that the biotech can rescue its Duchenne muscular dystrophy cell therapy. The biotech\u2019s stock soared following the news.<br />"
-      },
-      {
-        "id": "f1616808da56c0ba",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ptcs-211m-bid-wins-sangamo-auction-teeing-special-opportunity-enter-fabry-market\" hreflang=\"en\">PTC\u2019s $211M bid wins Sangamo auction, teeing up \u2018special opportunity\u2019 to enter Fabry market</a>",
-        "url": "https://www.fiercebiotech.com/biotech/ptcs-211m-bid-wins-sangamo-auction-teeing-special-opportunity-enter-fabry-market",
-        "source": "Fierce Biotech",
-        "published": "Aug 13, 2026 8:16am",
-        "published_dt": "2026-08-13T08:16:00+00:00",
-        "summary": "PTC Therapeutics has struck a deal to buy Sangamo Therapeutics\u2019 Fabry disease program for $111 million upfront, outbidding Astellas and TerSera Therapeutics for the near-approval gene therapy. Sangamo, selling assets as part of its bankruptcy proceedings, also offloaded technology to Eli Lilly for $50 million."
-      },
-      {
-        "id": "961d3d15db3a7e70",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/zealand-sells-its-rights-takedas-blood-cancer-drug-100m-ahead-fda-decision\" hreflang=\"en\">Zealand sells its rights to Takeda\u2019s blood cancer drug for $100M ahead of FDA approval decision</a>",
-        "url": "https://www.fiercebiotech.com/biotech/zealand-sells-its-rights-takedas-blood-cancer-drug-100m-ahead-fda-decision",
-        "source": "Fierce Biotech",
-        "published": "Aug 13, 2026 5:06am",
-        "published_dt": "2026-08-13T05:06:00+00:00",
-        "summary": "As the FDA mulls whether to approve Takeda and Protagonist Therapeutics\u2019 rusfertide, Zealand Pharma has sold its own rights to the blood cancer drug in return for $100 million."
-      },
-      {
-        "id": "58d1b58ceea94092",
-        "title": "STAT+: Sanofi to lay off 229 workers in Mass., a year after $9.1B Blueprint Medicines acquisition",
-        "url": "https://www.statnews.com/2026/08/17/sanofi-layoffs-mass-blueprint-medicines/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Mon, 17 Aug 2026 19:23:54 +0000",
-        "published_dt": "2026-08-17T19:23:54+00:00",
-        "summary": "Sanofi, one of the Massachusetts' largest pharmaceutical employers, will lay off more than 200 workers there a year after acquiring Blueprint Medicines."
-      },
-      {
-        "id": "6ab1805add899082",
-        "title": "What Flock\u2019s defenders are missing",
-        "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 17 Aug 2026 19:16:09 +0000",
-        "published_dt": "2026-08-17T19:16:09+00:00",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent&#8230;"
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "38a96b4af8de4467",
+        "title": "AEON enters Schaeffler humanoid training facility",
+        "url": "https://www.engineering.com/aeon-enters-schaeffler-humanoid-training-facility/",
+        "source": "Engineering.com",
+        "published": "Wed, 19 Aug 2026 12:03:27 +0000",
+        "published_dt": "2026-08-19T12:03:27+00:00",
+        "summary": "<p>Hexagon Robotics plans to train robots on industrial tasks before deploying at least 1,000 units in coming years.</p>\n<p>The post <a href=\"https://www.engineering.com/aeon-enters-schaeffler-humanoid-training-facility/\">AEON enters Schaeffler humanoid training facility</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "709b411734cc31ce",
+        "title": "Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission",
+        "url": "https://spacenews.com/firefly-aerospace-to-fly-zeno-power-radioisotope-heating-unit-on-lunar-lander-mission/",
+        "source": "SpaceNews",
+        "published": "Wed, 19 Aug 2026 12:00:00 +0000",
+        "published_dt": "2026-08-19T12:00:00+00:00",
+        "summary": "<figure><img alt=\"Zeno RHU on Firefly lander\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/fireflyzeno.jpeg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Firefly Aerospace will fly a payload from Zeno Power on an upcoming lunar lander mission to test a radioisotope heat source to enable future missions to survive the lunar night.</p>\n<p>The post <a href=\"https://spacenews.com/firefly-aerospace-to-fly-zeno-power-radioisotope-heating-unit-on-lunar-lander-mission/\">Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "dc8776f4e68a7b57",
+        "title": "PaleBlueDot AI gains NVIDIA Exemplar Cloud status",
+        "url": "https://www.engineering.com/palebluedot-ai-gains-nvidia-exemplar-cloud-status/",
+        "source": "Engineering.com",
+        "published": "Wed, 19 Aug 2026 12:12:24 +0000",
+        "published_dt": "2026-08-19T12:12:24+00:00",
+        "summary": "<p>The HGX B300 cluster exceeded 98% of NVIDIA reference performance across six large-model training workloads.</p>\n<p>The post <a href=\"https://www.engineering.com/palebluedot-ai-gains-nvidia-exemplar-cloud-status/\">PaleBlueDot AI gains NVIDIA Exemplar Cloud status</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "961ad5c143bd6cc1",
+        "title": "Stratasys expands prosthetics partnership with Limbitless",
+        "url": "https://www.engineering.com/stratasys-expands-prosthetics-partnership-with-limbitless/",
+        "source": "Engineering.com",
+        "published": "Wed, 19 Aug 2026 11:58:25 +0000",
+        "published_dt": "2026-08-19T11:58:25+00:00",
+        "summary": "<p>The collaboration uses 3D printing for pediatric prosthetics, student engineering training and certified pre-owned equipment reuse.</p>\n<p>The post <a href=\"https://www.engineering.com/stratasys-expands-prosthetics-partnership-with-limbitless/\">Stratasys expands prosthetics partnership with Limbitless</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "96c38efaa7b7c4c8",
+        "title": "Vantor names new head of U.S. government business",
+        "url": "https://spacenews.com/vantor-names-new-head-of-u-s-government-business/",
+        "source": "SpaceNews",
+        "published": "Wed, 19 Aug 2026 12:18:15 +0000",
+        "published_dt": "2026-08-19T12:18:15+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"651\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/rsz_1worldview_3d_rapid_dalian_china_before__after.png?fit=879%2C651&amp;ssl=1\" width=\"879\" /></figure>\n<p>Will Cocos succeeds Susanne Hake as executive vice president and general manager of the the Earth intelligence company\u2019s government business</p>\n<p>The post <a href=\"https://spacenews.com/vantor-names-new-head-of-u-s-government-business/\">Vantor names new head of U.S. government business</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "aac124aa92d95d3d",
+        "title": "Pace Wireless joins Morse Micro design partner program",
+        "url": "https://www.engineering.com/pace-wireless-joins-morse-micro-design-partner-program/",
+        "source": "Engineering.com",
+        "published": "Wed, 19 Aug 2026 11:43:35 +0000",
+        "published_dt": "2026-08-19T11:43:35+00:00",
+        "summary": "<p>The program supports Wi-Fi HaLow product development with silicon access, tools and engineering support.</p>\n<p>The post <a href=\"https://www.engineering.com/pace-wireless-joins-morse-micro-design-partner-program/\">Pace Wireless joins Morse Micro design partner program</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "b8012ee973c4f612",
+        "title": "Foxglove adds AI tools for robotics data workflows",
+        "url": "https://www.engineering.com/foxglove-adds-ai-tools-for-robotics-data-workflows/",
+        "source": "Engineering.com",
+        "published": "Wed, 19 Aug 2026 11:23:56 +0000",
+        "published_dt": "2026-08-19T11:23:56+00:00",
+        "summary": "<p>New features include Semantic Search with NVIDIA Cosmos, Comparison Mode, Remote Access and an Agent Sidebar.</p>\n<p>The post <a href=\"https://www.engineering.com/foxglove-adds-ai-tools-for-robotics-data-workflows/\">Foxglove adds AI tools for robotics data workflows</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
       {
         "id": "c3d4c47c31a0e752",
         "title": "New report takes closer look at the Space Force spending surge",
@@ -237,15 +300,6 @@
         "published": "Tue, 18 Aug 2026 12:00:00 +0000",
         "published_dt": "2026-08-18T12:00:00+00:00",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"664\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/MissileWarningCenter-scaled.jpg?fit=1024%2C664&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Aerospace Corp. analysis finds most growth concentrated in classified programs, target tracking, missile warning and command and control</p>\n<p>The post <a href=\"https://spacenews.com/new-report-takes-closer-look-at-the-space-force-spending-surge/\">New report takes closer look at the Space Force spending surge</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "b19b62e1133ea231",
-        "title": "Eoptic, Inc. Selected to Supply DeepScan\u2122 Imaging Payloads Scheduled for Launch in 2027",
-        "url": "https://spacenews.com/eoptic-inc-selected-to-supply-deepscan-imaging-payloads-scheduled-for-launch-in-2027/",
-        "source": "SpaceNews",
-        "published": "Tue, 18 Aug 2026 12:00:00 +0000",
-        "published_dt": "2026-08-18T12:00:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"582\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Eoptic_Blue_Square.png?fit=582%2C582&amp;ssl=1\" width=\"582\" /></figure>\n<p>Rochester, NY \u2013 August 18, 2026\u00a0\u2013\u00a0Eoptic, Inc., a developer of advanced multi-spectral and multi-modal imaging systems, today announced it has been selected as an approved supplier in support of strategic [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/eoptic-inc-selected-to-supply-deepscan-imaging-payloads-scheduled-for-launch-in-2027/\">Eoptic, Inc. Selected to Supply DeepScan\u2122 Imaging Payloads Scheduled for Launch in 2027</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "c5e36b95a798aba4",
@@ -257,6 +311,69 @@
         "summary": "<p>NANOFABRICATOR PRO combines atomic-scale fabrication, validation and device prototyping for semiconductor applications.</p>\n<p>The post <a href=\"https://www.engineering.com/atlant-3d-launches-ai-materials-discovery-platform/\">ATLANT 3D launches AI materials discovery platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
+        "id": "25e8348ae0376020",
+        "title": "Space nuclear programs face near- and long-term challenges",
+        "url": "https://spacenews.com/space-nuclear-programs-face-near-and-long-term-challenges/",
+        "source": "SpaceNews",
+        "published": "Wed, 19 Aug 2026 02:36:51 +0000",
+        "published_dt": "2026-08-19T02:36:51+00:00",
+        "summary": "<figure><img alt=\"SR-1 Freedom\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"552\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/sr-1-freedom.jpeg?fit=1024%2C552&amp;ssl=1\" width=\"1024\" /></figure>\n<p>While space nuclear programs are \u201chaving a moment,\u201d industry officials say they face near-term challenges as well as longer-term concerns.</p>\n<p>The post <a href=\"https://spacenews.com/space-nuclear-programs-face-near-and-long-term-challenges/\">Space nuclear programs face near- and long-term challenges</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "b27319ee626db7ca",
+        "title": "Panelists point to cost, production as key challenges for space nuclear power and propulsion",
+        "url": "https://aerospaceamerica.aiaa.org/panelists-point-to-cost-production-as-key-challenges-for-space-nuclear-power-and-propulsion/",
+        "source": "Aerospace America",
+        "published": "Thu, 13 Aug 2026 19:47:13 +0000",
+        "published_dt": "2026-08-13T19:47:13+00:00",
+        "summary": "As NASA maps out missions to test nuclear power and propulsion, a panelist at the U.S. Space Nuclear Industry Symposium on Thursday said cost will be a key hurdle. \u201cThe lunar surface at the south pole, where we want to land, is a very challenging environment where you need to be able to survive the [...]"
+      },
+      {
+        "id": "d6ef2bc0993f0ca4",
+        "title": "China\u2019s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket",
+        "url": "https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/",
+        "source": "SpaceNews",
+        "published": "Wed, 19 Aug 2026 01:05:21 +0000",
+        "published_dt": "2026-08-19T01:05:21+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"573\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Zhuque-3-Y2-liftoff-18aug2026-Landspace.jpg?fit=1024%2C573&amp;ssl=1\" width=\"1024\" /></figure>\n<p>HELSINKI \u2014 Landspace successfully landed the first stage of its Zhuque-3 rocket Tuesday following the second launch of the rocket from the Gobi Desert. The second Zhuque-3 rocket lifted off [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/\">China\u2019s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "fbfa56f41f28ae58",
+        "title": "Rocket Lab to test Space Force data network connection in orbit in 2027",
+        "url": "https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027/",
+        "source": "SpaceNews",
+        "published": "Tue, 18 Aug 2026 22:52:36 +0000",
+        "published_dt": "2026-08-18T22:52:36+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"463\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Family-of-Spacecraft-V1-sm__FillWzEyMDAsNTQzXQ.jpg?fit=1024%2C463&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The company will use a Photon spacecraft to test interoperability with the Space Data Network's core infrastructure built by SpaceX</p>\n<p>The post <a href=\"https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027/\">Rocket Lab to test Space Force data network connection in orbit in 2027</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "97ee8dfdf417b882",
+        "title": "Scaling AI agents is where things get complicated",
+        "url": "https://www.engineering.com/scaling-ai-agents-is-where-things-get-complicated/",
+        "source": "Engineering.com",
+        "published": "Tue, 18 Aug 2026 18:01:41 +0000",
+        "published_dt": "2026-08-18T18:01:41+00:00",
+        "summary": "<p>Incremental deployment is fine, but serious organizations will use it as a bridge to deeper process redesign.</p>\n<p>The post <a href=\"https://www.engineering.com/scaling-ai-agents-is-where-things-get-complicated/\">Scaling AI agents is where things get complicated</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "23733eb738e0cce0",
+        "title": "Humans-in-the-loop is likely the fastest way to AI value",
+        "url": "https://www.engineering.com/humans-in-the-loop-is-likely-the-fastest-way-to-ai-value/",
+        "source": "Engineering.com",
+        "published": "Tue, 18 Aug 2026 13:00:00 +0000",
+        "published_dt": "2026-08-18T13:00:00+00:00",
+        "summary": "<p>The more valuable and complex the process becomes, the more important it is to know where machines should stop and people should take over.</p>\n<p>The post <a href=\"https://www.engineering.com/humans-in-the-loop-is-likely-the-fastest-way-to-ai-value/\">Humans-in-the-loop is likely the fastest way to AI value</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "b19b62e1133ea231",
+        "title": "Eoptic, Inc. Selected to Supply DeepScan\u2122 Imaging Payloads Scheduled for Launch in 2027",
+        "url": "https://spacenews.com/eoptic-inc-selected-to-supply-deepscan-imaging-payloads-scheduled-for-launch-in-2027/",
+        "source": "SpaceNews",
+        "published": "Tue, 18 Aug 2026 12:00:00 +0000",
+        "published_dt": "2026-08-18T12:00:00+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"582\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Eoptic_Blue_Square.png?fit=582%2C582&amp;ssl=1\" width=\"582\" /></figure>\n<p>Rochester, NY \u2013 August 18, 2026\u00a0\u2013\u00a0Eoptic, Inc., a developer of advanced multi-spectral and multi-modal imaging systems, today announced it has been selected as an approved supplier in support of strategic [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/eoptic-inc-selected-to-supply-deepscan-imaging-payloads-scheduled-for-launch-in-2027/\">Eoptic, Inc. Selected to Supply DeepScan\u2122 Imaging Payloads Scheduled for Launch in 2027</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
         "id": "b2b8a225e2437b06",
         "title": "Dexory deploys Engineering AI for warehouse robot design",
         "url": "https://www.engineering.com/dexory-deploys-engineering-ai-for-warehouse-robot-design/",
@@ -264,24 +381,6 @@
         "published": "Tue, 18 Aug 2026 10:46:40 +0000",
         "published_dt": "2026-08-18T10:46:40+00:00",
         "summary": "<p>The SimScale platform supports failure analysis, parameter sweeps, simulation reporting and searchable engineering memory.</p>\n<p>The post <a href=\"https://www.engineering.com/dexory-deploys-engineering-ai-for-warehouse-robot-design/\">Dexory deploys Engineering AI for warehouse robot design</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "7a41ef236a96fa78",
-        "title": "LG expands NVIDIA robotics collaboration at data factory",
-        "url": "https://www.engineering.com/lg-expands-nvidia-robotics-collaboration-at-data-factory/",
-        "source": "Engineering.com",
-        "published": "Tue, 18 Aug 2026 09:46:00 +0000",
-        "published_dt": "2026-08-18T09:46:00+00:00",
-        "summary": "<p>The Seoul facility will house several hundred robots and produce 100,000 hours of training data by year-end.</p>\n<p>The post <a href=\"https://www.engineering.com/lg-expands-nvidia-robotics-collaboration-at-data-factory/\">LG expands NVIDIA robotics collaboration at data factory</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "3d2dbd9eaa857608",
-        "title": "SCI installs plasma system for spherical metal powders",
-        "url": "https://www.engineering.com/sci-installs-plasma-system-for-spherical-metal-powders/",
-        "source": "Engineering.com",
-        "published": "Tue, 18 Aug 2026 08:54:00 +0000",
-        "published_dt": "2026-08-18T08:54:00+00:00",
-        "summary": "<p>The equipment supports additive manufacturing feedstock using high-sphericity, high-purity powders for critical applications.</p>\n<p>The post <a href=\"https://www.engineering.com/sci-installs-plasma-system-for-spherical-metal-powders/\">SCI installs plasma system for spherical metal powders</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "b839a36aa5169c6f",
@@ -300,42 +399,6 @@
         "published": "Tue, 18 Aug 2026 09:00:00 +0000",
         "published_dt": "2026-08-18T09:00:00+00:00",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"596\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/HPDYEsnWcAAM16m-scaled-e1787001268860.jpeg?fit=1024%2C596&amp;ssl=1\" width=\"1024\" /></figure>\n<p>NRO contract increases U.S. government access to satellite data used to locate radars, ships and other electronic emitters</p>\n<p>The post <a href=\"https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence/\">NRO to expand use of HawkEye 360\u2019s satellite intelligence</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "eb2f015dcb50d2c2",
-        "title": "Pinnacle Series adds Alias and VRED training content",
-        "url": "https://www.engineering.com/pinnacle-series-adds-alias-and-vred-training-content/",
-        "source": "Engineering.com",
-        "published": "Tue, 18 Aug 2026 08:59:00 +0000",
-        "published_dt": "2026-08-18T08:59:00+00:00",
-        "summary": "<p>Linkage Design becomes an authorized reseller, giving transportation design teams a single source for platform access.</p>\n<p>The post <a href=\"https://www.engineering.com/pinnacle-series-adds-alias-and-vred-training-content/\">Pinnacle Series adds Alias and VRED training content</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "3759a5e26e749caf",
-        "title": "ScitiX launches production inference platform for enterprises",
-        "url": "https://www.engineering.com/scitix-launches-production-inference-platform-for-enterprises/",
-        "source": "Engineering.com",
-        "published": "Tue, 18 Aug 2026 08:35:00 +0000",
-        "published_dt": "2026-08-18T08:35:00+00:00",
-        "summary": "<p>The platform processes over 1 trillion tokens daily with 99.9% uptime, model routing, context reuse and observability.</p>\n<p>The post <a href=\"https://www.engineering.com/scitix-launches-production-inference-platform-for-enterprises/\">ScitiX launches production inference platform for enterprises</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "0d90e02a74592590",
-        "title": "Viasat selects Rocket Lab for USSF satellite bus",
-        "url": "https://www.engineering.com/viasat-selects-rocket-lab-for-ussf-satellite-bus/",
-        "source": "Engineering.com",
-        "published": "Tue, 18 Aug 2026 08:20:00 +0000",
-        "published_dt": "2026-08-18T08:20:00+00:00",
-        "summary": "<p>Rocket Lab\u2019s Lightning-GEO platform will host a dual-band X/Ka-band payload for protected tactical SATCOM.</p>\n<p>The post <a href=\"https://www.engineering.com/viasat-selects-rocket-lab-for-ussf-satellite-bus/\">Viasat selects Rocket Lab for USSF satellite bus</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "b27319ee626db7ca",
-        "title": "Panelists point to cost, production as key challenges for space nuclear power and propulsion",
-        "url": "https://aerospaceamerica.aiaa.org/panelists-point-to-cost-production-as-key-challenges-for-space-nuclear-power-and-propulsion/",
-        "source": "Aerospace America",
-        "published": "Thu, 13 Aug 2026 19:47:13 +0000",
-        "published_dt": "2026-08-13T19:47:13+00:00",
-        "summary": "As NASA maps out missions to test nuclear power and propulsion, a panelist at the U.S. Space Nuclear Industry Symposium on Thursday said cost will be a key hurdle. \u201cThe lunar surface at the south pole, where we want to land, is a very challenging environment where you need to be able to survive the [...]"
       },
       {
         "id": "e0cd159808225b65",
@@ -374,15 +437,6 @@
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55090240803_a555b0ee7e_k.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>United Launch Alliance has named Mark Peller, a longtime manager and executive at the company, as its new chief executive.</p>\n<p>The post <a href=\"https://spacenews.com/ula-names-peller-as-new-ceo/\">ULA names Peller as new CEO</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "c424eed431695a5c",
-        "title": "Opinion: AI has passed the mechanical Turing test",
-        "url": "https://www.engineering.com/opinion-ai-has-passed-the-mechanical-turing-test/",
-        "source": "Engineering.com",
-        "published": "Mon, 17 Aug 2026 16:23:55 +0000",
-        "published_dt": "2026-08-17T16:23:55+00:00",
-        "summary": "<p>Leo AI CEO Maor Farid explains his twist on the famous thought experiment and why he believes mechanical engineering has crossed a threshold.</p>\n<p>The post <a href=\"https://www.engineering.com/opinion-ai-has-passed-the-mechanical-turing-test/\">Opinion: AI has passed the mechanical Turing test</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
         "id": "0340d89aba0b2fd9",
         "title": "L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down",
         "url": "https://spacenews.com/l3harris-names-space-sector-leader-sam-mehta-ceo-after-kubasik-steps-down/",
@@ -399,60 +453,6 @@
         "published": "Mon, 17 Aug 2026 12:23:27 +0000",
         "published_dt": "2026-08-17T12:23:27+00:00",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"512\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/IAC-Stock-Gorsel-Kaleici-1-1-scaled.jpg?fit=1024%2C512&amp;ssl=1\" width=\"1024\" /></figure>\n<p>For more than 75 years, the International Astronautical Congress (IAC) has been the annual moment when the global space community comes together &#8211; not online, not in separate regional events, [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/the-77th-international-astronautical-congress-iac-2026-is-the-one-space-event-you-cannot-miss/\">The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "cca05639a9cbd595",
-        "title": "Trimble launches SketchUp Pro Civil Contractor",
-        "url": "https://www.engineering.com/trimble-launches-sketchup-pro-civil-contractor/",
-        "source": "Engineering.com",
-        "published": "Mon, 17 Aug 2026 12:03:00 +0000",
-        "published_dt": "2026-08-17T12:03:00+00:00",
-        "summary": "<p>The software connects SketchUp models with Siteworks and Earthworks for layout, excavation and verification workflows.</p>\n<p>The post <a href=\"https://www.engineering.com/trimble-launches-sketchup-pro-civil-contractor/\">Trimble launches SketchUp Pro Civil Contractor</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "ed755535768d8c55",
-        "title": "SEOPS adds second Waymaker rideshare mission",
-        "url": "https://spacenews.com/seops-adds-second-waymaker-rideshare-mission/",
-        "source": "SpaceNews",
-        "published": "Mon, 17 Aug 2026 12:00:00 +0000",
-        "published_dt": "2026-08-17T12:00:00+00:00",
-        "summary": "<figure><img alt=\"Falcon 9 Transporter-17\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"575\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/f9-t17.jpeg?fit=1024%2C575&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Launch services provider SEOPS has added a second dedicated rideshare mission after seeing high demand for one announced less than three months ago.</p>\n<p>The post <a href=\"https://spacenews.com/seops-adds-second-waymaker-rideshare-mission/\">SEOPS adds second Waymaker rideshare mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "96cf9183e168926c",
-        "title": "A rocket crashed into the moon. It was harmless, but the next one might not be.",
-        "url": "https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be/",
-        "source": "SpaceNews",
-        "published": "Mon, 17 Aug 2026 11:00:00 +0000",
-        "published_dt": "2026-08-17T11:00:00+00:00",
-        "summary": "<figure><img alt=\"A concept for a later phase of NASA\u2019s proposed lunar base. Credit: NASA\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/moon-base1-scaled.jpg?fit=1024%2C576&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Earlier this month, a discarded SpaceX Falcon 9 upper stage crashed into the lunar surface at 8,700 kilometers per hour. This was not a controlled landing. The stage had been [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be/\">A rocket crashed into the moon. It was harmless, but the next one might not be.</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "b4567eeb3ddf2dd4",
-        "title": "Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE",
-        "url": "https://spacenews.com/long-march-12-launches-despite-recent-7a-failure-long-march-2c-launches-satellite-for-uae/",
-        "source": "SpaceNews",
-        "published": "Mon, 17 Aug 2026 09:56:15 +0000",
-        "published_dt": "2026-08-17T09:56:15+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"679\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Guowang-group24-CZ12-HCSLC-16aug2026-CASC.jpg?fit=1024%2C679&amp;ssl=1\" width=\"1024\" /></figure>\n<p>HELSINKI \u2014 China launched a new batch of Guowang megaconstellation satellites over the weekend, following up with a separate launch of a developmental satellite for the UAE. The launch of [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/long-march-12-launches-despite-recent-7a-failure-long-march-2c-launches-satellite-for-uae/\">Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "0889a9ce7e584a37",
-        "title": "Lynk and Omnispace form Elveo Mobile to advance D2D services",
-        "url": "https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services/",
-        "source": "SpaceNews",
-        "published": "Mon, 17 Aug 2026 04:30:00 +0000",
-        "published_dt": "2026-08-17T04:30:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"552\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Elveo_image_handset-scaled.png?fit=1024%2C552&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Lynk Global has completed its merger with Omnispace and rebranded as Elveo Mobile, adding globally coordinated S-band spectrum to expand direct-to-device satellite services beyond basic messaging.</p>\n<p>The post <a href=\"https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services/\">Lynk and Omnispace form Elveo Mobile to advance D2D services</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "2a4f1654ee139fcf",
-        "title": "Satellite operators emphasize launch deals in a constrained market",
-        "url": "https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/",
-        "source": "SpaceNews",
-        "published": "Sun, 16 Aug 2026 23:05:35 +0000",
-        "published_dt": "2026-08-16T23:05:35+00:00",
-        "summary": "<figure><img alt=\"Falcon 9 BlueBird launch\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/f9-bluebird-aug26.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Amid a constrained launch market, satellite operators are emphasizing to investors and customers that they have lined up launch capacity, even if it is uncertain when it will be available.</p>\n<p>The post <a href=\"https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/\">Satellite operators emphasize launch deals in a constrained market</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
@@ -592,6 +592,15 @@
         "summary": "U.S. tariff rates in 2025 rose to levels not seen since the Great Depression, yet imports increased. To account for the missing trade collapse, we develop an open-economy New Keynesian model with tariff heterogeneity, inventories, and shocks to investment that capture the AI-driven boom. The model matches the untargeted paths of imports, output, and inflation; we use it to decompose the effects of tariffs and the investment boom. Absent the investment boom, imports would have fallen by 10 percent and activity would have contracted by 0.7 percent. The effects of tariffs depend on which goods are tariffed: tariffs on consumption and intermediates act like shocks to supply; tariffs on capital goods act like shocks to demand. The concentration of the 2025 tariff increases on consumption goods and the relative sparing of capital goods limited the damage to output while amplifying the inflationary impulse."
       },
       {
+        "id": "7bd02fb17987803e",
+        "title": "The White House\u2019s absurd claim of a Chinese transshipment \u201cscam\u201d",
+        "url": "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam",
+        "source": "Finance & economics",
+        "published": "Tue, 18 Aug 2026 15:42:49 +0000",
+        "published_dt": "2026-08-18T15:42:49+00:00",
+        "summary": "High tariffs on Chinese goods have had predictable effects"
+      },
+      {
         "id": "99b573ab90e62130",
         "title": "Kevin Warsh is struggling to escape his predecessor\u2019s problems",
         "url": "https://www.economist.com/finance-and-economics/2026/08/12/kevin-warsh-is-struggling-to-escape-his-predecessors-problems",
@@ -671,35 +680,17 @@
         "published": "Sun, 26 Jul 2026 14:06:48 +0000",
         "published_dt": "2026-07-26T14:06:48+00:00",
         "summary": "The bombing may have paused, but energy supplies are precarious"
-      },
-      {
-        "id": "e61da77ccdab27f1",
-        "title": "The world\u2019s balance-sheet is out of kilter with its economy",
-        "url": "https://www.economist.com/finance-and-economics/2026/07/23/the-worlds-balance-sheet-is-out-of-kilter-with-its-economy",
-        "source": "Finance & economics",
-        "published": "Thu, 23 Jul 2026 09:42:17 +0000",
-        "published_dt": "2026-07-23T09:42:17+00:00",
-        "summary": "Restoring balance could be painful"
       }
     ],
     "Cross-Disciplinary": [
       {
-        "id": "9ad7e9b44a44f95d",
-        "title": "The Download: how people really use AI, and Flock\u2019s design choices",
-        "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+        "id": "f60fec8864d9f15c",
+        "title": "The Download: AI\u2019s self-improvement problem, and what\u2019s driving the heat",
+        "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
         "source": "MIT Technology Review",
-        "published": "Tue, 18 Aug 2026 12:10:00 +0000",
-        "published_dt": "2026-08-18T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don\u2019t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the&#8230;"
-      },
-      {
-        "id": "4ad8551a3bef9716",
-        "title": "We still don\u2019t know how people are really using AI",
-        "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 18 Aug 2026 10:06:43 +0000",
-        "published_dt": "2026-08-18T10:06:43+00:00",
-        "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; \u201cThere is no independent source to corroborate it,\u201d says Anka Reuel, a Computer Science PhD candidate at the Stanford Trustworthy AI Research&#8230;"
+        "published": "Wed, 19 Aug 2026 12:10:00 +0000",
+        "published_dt": "2026-08-19T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI\u2019s recursive self-improvement might not come so quickly after all The AI industry\u2019s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.&#8230;"
       },
       {
         "id": "1e200f541613e55f",
@@ -729,22 +720,13 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-painting-with-overlapping-concentric-shapes-in-blue-and-yellow.jpg?id=67163886&amp;width=1245&amp;height=700&amp;coordinates=0%2C62%2C0%2C63\" /><br /><br /><p>Artificial intelligence is rapidly becoming part of everyday infrastructure\u2013in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being integrated into education, health care, finance, and public administration. Industry leaders talk about \u201cAI for everyone,\u201d while governments rush to publish national AI strategies and build sovereign compute.</p><p>Yet over the past decade, working on digital inclusion and digital literacy projects in regions from Europe to sub-Saharan Africa and Southeast Asia, <a href=\"https://link.springer.com/book/10.1007/978-3-031-30808-6\" rel=\"noopener noreferrer\" target=\"_blank\">I\u2019ve seen the same pattern repeat</a>: Each new wave of \u201ctransformative\u201d technology lands on a landscape already stratified by connectivity, skills, and institutional capacity. The current AI wave is no exception. If anything, it amplifies those underlying fractures.</p><p>Still, some countries are exploring ways of participating in AI development without directly replicating the frontier-model race dominated by the United States and China. Recent developments in South Africa and Indonesia illustrate both the possibilities and challenges. The stakes extend far beyond access to AI. Countries that remain primarily consumers rather than creators of AI risk losing opportunities to build local innovation ecosystems, strengthen public-sector capacity, and ensure that their own languages, cultures, and societal priorities are reflected in AI systems. In this sense, the AI divide is also becoming a divide in economic opportunity and technological influence.</p><h2>AI compute is clustering in a few places</h2><p>Recent analyses from Stanford University\u2019s 2026 <a href=\"https://hai.stanford.edu/ai-index/2026-ai-index-report\" rel=\"noopener noreferrer\" target=\"_blank\">AI Index report</a> that the United States alone hosts more than 5,000 data centers, over 10 times as many as any other single country. Because AI workloads are increasingly performed on cloud platforms rather than local infrastructure, this concentration of compute also becomes a concentration of dependency. According to <a href=\"https://www.worldbank.org/en/publication/dptr2025-ai-foundations\" rel=\"noopener noreferrer\" target=\"_blank\">World Bank data</a>, in 2023 the United States accounted for roughly 87 percent of global exports of cloud computing and data-storage services.</p><p>For most countries, this means that <a href=\"https://spectrum.ieee.org/europe-tech-sovereignty-package\" target=\"_self\">AI development is not just technologically but commercially and geopolitically outsourced</a> and out of their control. The result is an AI ecosystem where a small number of states and firms host the computational engines that power globally deployed systems.</p><p>Systems trained, standardized, and governed within a narrow set of institutional and linguistic environments may struggle to serve a genuinely global public.</p><h2>Skills and AI literacy are deeply stratified</h2><p>Even where connectivity and cloud access exist, not everyone is equally positioned to make use of them. Across the Organisation for Economic Co-operation and Development (OECD) countries, only around <a href=\"https://www.oecd.org/en/publications/bridging-the-ai-skills-gap_66d0702e-en.html\" rel=\"noopener noreferrer\" target=\"_blank\">40 percent of adults possess more than basic digital problem-solving skills</a>, while advanced computational and AI-related competences remain concentrated among highly educated workers and technology-intensive sectors.</p><p>At the same time, governments are racing to integrate AI into education, often starting at higher levels of schooling. UNESCO <a href=\"https://www.unesco.org/ethics-ai/en/node/367\" rel=\"noopener noreferrer\" target=\"_blank\">has reported</a> growing efforts worldwide to integrate AI into education, while support for AI literacy in primary and lower secondary education, as well as ethical training for educators, remains uneven. </p><p>Those with robust schooling, advanced digital skills, and stable connectivity are best positioned to treat AI as a tool to extend their capabilities. <a href=\"https://www.oecd.org/en/publications/how-do-people-experience-new-technologies-and-generative-ai_49b8d10e-en/full-report.html\" rel=\"noopener noreferrer\" target=\"_blank\">Recent OECD survey data</a> show that participation in AI-related training remains strongly stratified by educational attainment: 36 percent of respondents with tertiary education reported undertaking AI-related training in the previous year, compared with just 18 percent of those with upper-secondary education. Those on the wrong side of the divide are more likely to experience AI as an opaque system acting upon them, from algorithmic welfare systems such as the <a href=\"https://www.theguardian.com/technology/2020/feb/05/welfare-surveillance-system-violates-human-rights-dutch-court-rules\" rel=\"noopener noreferrer\" target=\"_blank\">Dutch childcare benefits scandal</a> to AI-assisted hiring tools such as <a href=\"https://www.reuters.com/article/world/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon\u2019s discontinued AI recruiting system</a>, rather than as a technology they can actively interrogate or shape.</p><h2>Investment and governance: Who gets a seat at the table?</h2><p>The core agenda-setting power often remains with a narrow set of industry actors and a small group of technologically advanced states. Most other countries remain in a perpetual catch-up posture, adapting imported models, standards, and templates for \u201ctrustworthy AI\u201d to their own contexts, and may have limited local capacity to assess trade-offs or propose alternatives. </p><p>In countries such as Indonesia and South Africa, communities generate data at massive scale yet still have little voice in how AI systems are designed, governed, or deployed. Their <a href=\"https://spectrum.ieee.org/indigenous-ai-voice-models-maori\" target=\"_self\">languages are underrepresented in training data</a>; their institutions are under-resourced in regulatory forums; their experiences rarely feature in benchmark datasets. For many countries in the global South, participation in AI still occurs largely through adapting imported systems rather than shaping how those systems are designed, governed, or deployed. </p><p>In South Africa, the Department of Communications and Digital Technologies released a <a href=\"https://www.techpolicy.press/south-africa-has-ai-leverage-its-draft-policy-leaves-it-unused/\" rel=\"noopener noreferrer\" target=\"_blank\">draft national AI policy</a> in April 2026, proposing new oversight institutions. The department withdrew the draft days later after a journalist discovered that at least six of its academic citations did not exist, apparently AI-generated hallucinations. The minister called it <a href=\"https://www.reuters.com/world/africa/south-africa-withdraws-ai-policy-due-fake-ai-generated-sources-2026-04-27/\" rel=\"noopener noreferrer\" target=\"_blank\">\u201can unacceptable lapse.</a>\u201c The episode sharply illustrates the gap between AI governance ambition and the institutional capacity needed to implement it, though the new AI panel the country has since constituted has a chance to use <a href=\"https://spectrum.ieee.org/south-africa-ai-policy\" target=\"_self\">South Africa\u2019s unique leverage</a>.</p><p>Indonesia presents a case of deliberate, if constrained, public-sector agency. The National Research and Innovation Agency (BRIN) which now leads AI implementation under the national strategy, has built <a href=\"https://restofworld.org/2024/indonesia-ai-tools-brin-government-agency/\" rel=\"noopener noreferrer\" target=\"_blank\">practical AI tools aimed at underserved communities</a> rather than frontier capabilities, including an app that uses satellite data and machine learning to help artisanal fishermen locate schools of fish, multilingual language models trained on Indonesian and local languages such as Javanese and Sundanese, and <a href=\"https://www.lightreading.com/ai-machine-learning/indonesia-s-upgraded-sahabat-ai-features-a-multilingual-chat-service\" rel=\"noopener noreferrer\" target=\"_blank\">AI chatbots deployed in government services.</a> In August 2025, the Ministry of Communication and Digital Affairs released <a href=\"https://govinsider.asia/intl-en/article/indonesia-unveils-national-ai-roadmap\" rel=\"noopener noreferrer\" target=\"_blank\">a national AI road map</a> with a target of training 100,000 AI-skilled workers annually. </p><p>The choice is not simply between \u201cAI superpower\u201d and \u201cpassive recipient.\u201d </p><p>Regional cooperation may also become increasingly important. In 2024 African ministers adopted a Continental AI Strategy and African Digital Compact. Participants in the April 2025 <a href=\"https://dsup.substack.com/p/dsfsi-at-the-global-ai-summit-on\" rel=\"noopener noreferrer\" target=\"_blank\">Global AI Summit on Africa in Kigali</a> explored how regional coordination, <a href=\"https://www.news.uct.ac.za/news/audio/-article/2026-05-04-uct-researchers-develop-ai-model-for-11-south-african-languages\" rel=\"noopener noreferrer\" target=\"_blank\">local-language AI models</a>, public universities, and <a href=\"https://scienceforafrica.foundation/media-center/open-research-proposals-adopted-east-africas-ai-declaration\" rel=\"noopener noreferrer\" target=\"_blank\">open-source ecosystems</a> might <a href=\"https://carnegieendowment.org/posts/2025/09/understanding-africas-ai-governance-landscape-insights-from-policy-practice-and-dialogue\" rel=\"noopener noreferrer\" target=\"_blank\">reduce long-term dependence on externally developed AI systems</a>.</p><h2>A different way to think about the AI divide</h2><p>None of this means that people should slow or abandon AI, nor that cloud concentration or venture capital are inherently bad. Instead, when we talk about an \u201cAI revolution,\u201d we should also ask who can shape it and who can merely adapt to it.</p><p>Digital-divide debates once focused on devices and connectivity, later expanding toward skills and outcomes. But the current AI wave adds another layer: disparities in who can meaningfully participate in deciding what AI is for, which problems it is meant to solve, and which social priorities it ultimately serves.</p><p>For engineers and policymakers, this raises difficult but necessary questions. Are they designing AI systems and infrastructures that broaden, rather than narrow, participation in shaping technological change? When governments roll out national AI strategies or integrate AI into public services, whose constraints, languages, and institutional realities are they including?</p><p>Many observers frame the current AI moment as <a href=\"https://spectrum.ieee.org/state-of-ai-index-2026\" target=\"_self\">a competition</a>. But technological competition is never only about speed. It is also about who can influence the direction of change.</p><p>AI is already spreading globally. The deeper question is whether the technologists and policymakers responsible for it will ensure that meaningful participation in shaping that future will spread as well.</p>"
       },
       {
-        "id": "05bd37256f0909d7",
-        "title": "The role of the astronaut is in flux",
-        "url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+        "id": "c10fe86d5c3f0d9d",
+        "title": "Child-monitoring apps might need a reboot",
+        "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
         "source": "MIT Technology Review",
-        "published": "Tue, 18 Aug 2026 09:00:00 +0000",
-        "published_dt": "2026-08-18T09:00:00+00:00",
-        "summary": "When the four astronauts on board NASA\u2019s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles.&#160; While no space mission can live up to the historic touchdown of&#8230;"
-      },
-      {
-        "id": "66eb4b49d2d0dd05",
-        "title": "AI\u2019s recursive self-improvement might not come so quickly after all",
-        "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-        "source": "MIT Technology Review",
-        "published": "Tue, 18 Aug 2026 09:00:00 +0000",
-        "published_dt": "2026-08-18T09:00:00+00:00",
-        "summary": "The AI industry\u2019s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&#160;&#8230;"
+        "published": "Wed, 19 Aug 2026 09:00:00 +0000",
+        "published_dt": "2026-08-19T09:00:00+00:00",
+        "summary": "Pam Wisniewski\u2019s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she\u2019d been isolated in a fifth-wheel trailer at the end of a seven-\u00admile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. Online, she&#8230;"
       },
       {
         "id": "8d36ec947b5e58a7",
@@ -771,7 +753,7 @@
         "source": "IEEE Spectrum",
         "published": "Mon, 17 Aug 2026 18:00:04 +0000",
         "published_dt": "2026-08-17T18:00:04+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/three-high-school-students-posing-with-their-individual-award-plaques-next-to-a-middle-aged-white-woman.jpg?id=67634200&amp;width=1245&amp;height=700&amp;coordinates=0%2C156%2C0%2C157\" /><br /><br /><p>About 16 percent of the global population\u2014more than 1 billion people\u2014live with some form of disability, according to the <a href=\"https://www.who.int/\" rel=\"noopener noreferrer\" target=\"_blank\">World Health Organization</a>. Many of the disabilities affect independence and mobility.</p><p>Three high school students working on inventions to help people with disabilities restore movement, translate thoughts, and navigate rough terrain had their work showcased at Regeneron\u2019s <a href=\"https://www.regeneron.com/responsibility/fueling-stem-innovators/isef\" rel=\"noopener noreferrer\" target=\"_blank\">International Science and Engineering Fair (ISEF)</a>, held in May in Phoenix. Their projects earned them this year\u2019s <a href=\"https://www.ieee.org/education/preuniversity/scholarship\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Presidents\u2019 Scholarship</a> awards.</p><p>IEEE President <a href=\"https://spectrum.ieee.org/u/maryellen-randall\" target=\"_self\">Mary Ellen Randall</a> presented the awards at a <a href=\"https://youtube.com/watch?v=HW1uGgQk_7U\" rel=\"noopener noreferrer\" target=\"_blank\">ceremony</a> held during the fair. They also received an IEEE President\u2019s coin, which students said was a highlight of their experience.</p><p>Hollie Tang won this year\u2019s IEEE Presidents\u2019 Scholarship of US $10,000 for her <a href=\"https://isef.net/project/sftd046-tonguage-tongue-based-hmi-for-motor-disabilities\" rel=\"noopener noreferrer\" target=\"_blank\">wheelchair navigation system</a>. The award is payable over four years of undergraduate university study and includes a complimentary IEEE student membership.</p><p><a href=\"https://www.linkedin.com/in/partap-sidhu-2a3561358/\" rel=\"noopener noreferrer\" target=\"_blank\">Partap Sidhum</a>, the second-place winner, received a $600 scholarship for his mind-controlled lower-limb exoskeleton. Third-place winner <a href=\"https://www.linkedin.com/in/calvinshung/\" rel=\"noopener noreferrer\" target=\"_blank\">Calvin Shang Hung</a> received a $400 scholarship for his rough-terrain robot. Sidhum and Hung also got complimentary IEEE student memberships.</p><p>Established by the <a href=\"https://www.ieeefoundation.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Foundation</a> and administered by <a href=\"https://ea.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Educational Activities</a>, the <a href=\"https://spectrum.ieee.org/ieee-presidents-scholarship\" target=\"_self\">Presidents\u2019 Scholarship</a> recognizes high school students who demonstrate an exceptional grasp of electrical engineering, computer science, or another IEEE field of interest.</p><h2>Controlling movements with a tongue</h2><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"An Asian-American high school student standing in front of her research poster about tongue-based HMI for motor disabilities.\" class=\"rm-shortcode\" id=\"d6f87\" src=\"https://spectrum.ieee.org/media-library/an-asian-american-high-school-student-standing-in-front-of-her-research-poster-about-tongue-based-hmi-for-motor-disabilities.jpg?id=67634203&amp;width=980\" /> <small class=\"image-media media-caption\">Holly Tang won the 2026 IEEE Presidents\u2019 Scholarship of US $10,000 for her Tonguage project, which is a noninvasive, computer-vision-based human-machine interface.</small><small class=\"image-media media-photo-credit\">Lynn Bowlby</small></p><p>Tang, a sophomore at <a href=\"https://wihs.hlpschools.org/\" target=\"_blank\">Wilson High School</a> in Hacienda Heights, Calif., secured the top prize for her <a href=\"https://isef.net/project/sftd046-tonguage-tongue-based-hmi-for-motor-disabilities\" rel=\"noopener noreferrer\" target=\"_blank\">Tonguage</a> project: a noninvasive, computer-vision-based human-machine interface. Using tongue movements and a standard camera, the interface lets users control a computer and other digital tools as well as assistive technologies including wheelchairs. The tongue pad, one of the system\u2019s core features, allows the user\u2019s tongue to function as a directional cursor, while eye blinks serve as mouse clicks.</p><p>Tonguage translates the person\u2019s tongue and eye motions into actionable commands in several ways, such as the tongue\u2019s position inside the mouth and continuous movement patterns. The system\u2019s multimodality combines input from the tongue with other facial cues.</p><p>The system includes a face-tracking feature for error prevention that verifies commands are coming from the intended user, disregarding anyone else who moves into the camera\u2019s frame.</p><p>That is a critical safety measure for a wheelchair-navigation application, Tang says.</p><p>Accessibility was central to Tang\u2019s mission. She built the system to run on relatively affordable, readily available laptop cameras rather than more costly specialized hardware.</p><p>\u201cMobility conditions don\u2019t discriminate,\u201d she says. \u201cThey can affect anyone of any income, gender, and socioeconomic status.\u201d</p><p>Tang initially imagined Tonguage as a simple substitute for a keyboard and mouse. The more research she did, though, the more she realized that it could offer autonomy through applications such as wheelchair navigation, robotic arm control, and gaming, she says.</p><p>\u201cWe\u2019re so focused on trying to give people autonomy over just basic human tasks that we often leave out things like gaming,\u201d she says. \u201cThey deserve the freedom to play games and enjoy entertainment as well.\u201d</p><p>Tang, who plans to pursue biomedical engineering, says a visit to a rehabilitation center solidified her purpose.</p><p>\u201cIncluding empathy in your technological solution is so important,\u201d she says. \u201cEmpathy is hard to teach in a classroom, but it can be learned through experience, and through actually meeting people whose lives your work might change.\u201d</p><h2>Mind-controlled exoskeleton </h2><p>Sidhu, a junior at <a href=\"https://www.bethpagecommunity.com/o/bhs\" rel=\"noopener noreferrer\" target=\"_blank\">Bethpage High School</a>, in New York, took second place for <a href=\"https://isef.net/project/robo024-mind-controlled-lower-limb-pneumatic-exoskeleton\" rel=\"noopener noreferrer\" target=\"_blank\">NeuroGait</a>, a mind-controlled, lower-limb <a href=\"https://spectrum.ieee.org/soft-exoskeleton-motor-free\" target=\"_self\">exoskeleton</a>. He says he was inspired by his volunteer work at a community center that lacked elevators. He saw individuals with mobility issues struggle to navigate the three flights of stairs.</p><p>NeuroGait<em> </em>operates by reading the Bereitschaftspotential (BP), a faint electrical pattern that emerges one to two seconds before a person consciously initiates movement. Using a custom electroencephalogram (EEG) headset and a convolutional neural network (CNN), the system classifies intended movements and sends commands to a 3D-printed exoskeleton. Rather than rigid motors, the suit relies on pneumatic artificial muscles that Sidhu designed to mimic human anatomy.</p><p>\u201cThe pneumatic artificial muscle in itself is so compliant that it\u2019s able to adjust to the limitations of the human body,\u201d he says.</p><p>The technical specifications are striking: The CNN achieves a 99.9 percent accuracy in detecting a person\u2019s intended movement, while the full system\u2014from the brain\u2019s signal to physical movement\u2014operates at 95.2 percent accuracy, according to the results from 500 trials Sidhu conducted. </p><p>Perhaps most impressively, Sidhu built the entire system for about $276, less than 1 percent of the $40,000 to $100,000 price tag of commercial exoskeletons, according to a <a href=\"https://www.rootsanalysis.com/reports/medical-exoskeleton-market.html\" rel=\"noopener noreferrer\" target=\"_blank\">2025 revenue report</a> from Roots Analysis.</p><p>He says he hopes to bring NeuroGait<em> </em>to the community center where the idea for the project began.</p><p>He attributes his success to staying current with research from institutions and organizations such as <a href=\"https://bostondynamics.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Boston Dynamics</a> and <a href=\"https://www.mit.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">MIT</a>.</p><p>\u201cTo be successful in research,\u201d he says, \u201cyou have to know what\u2019s being done right now.\u201d</p><h2>A spider-inspired robot </h2><p>Hung, a sophomore at <a href=\"https://ecgauchos.wccusd.net/\" rel=\"noopener noreferrer\" target=\"_blank\">El Cerrito High School</a>, in California, took third place for <a href=\"https://www.societyforscience.org/press-release/regeneron-isef-2026-special-awards-ceremony/\" rel=\"noopener noreferrer\" target=\"_blank\">Math Into Motion: Robotic Hexapod for Hazardous Environments</a>. The six-legged robot is designed to traverse terrain too unstable for humans or conventional robotic systems.</p><p>With only weeks before the science fair deadline for entries and no prior electrical engineering experience, Hung began with an idea inspired by his interest in spaceflight: an insectlike robot. He had spent years watching rovers such as<em> </em><a href=\"https://science.nasa.gov/mission/msl-curiosity/\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>Curiosity</em></em></a> and <a href=\"https://science.nasa.gov/mission/mars-2020-perseverance/\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>Perseverance</em></em></a><em> </em>struggle on uneven surfaces, leading him to hypothesize that a hexapod design would be better for rugged ground.</p><p>As the project progressed, the humanitarian applications for his robot became clearer, he says. Watching news reports of the earthquake that struck T\u00fcrkiye in 2023, as well as conflicts around the globe, Hung adapted his robot for use in disasters. The hexapod\u2019s stable tripod walking gait, in which three legs stay grounded while the other three move, makes it well suited for navigating in collapsed buildings to locate survivors or to carry sensitive supplies such as insulin in conflict zones.</p><p>The current version moves using three mathematical techniques. Inverse kinematics converts a target leg position into the motor angles needed to reach it. Linear interpolation breaks each movement into a series of smaller steps for smoother motion. And Euclidean transformations translate the robot\u2019s travel direction into instructions that each leg can follow, regardless of the way a leg happens to be facing.</p><p>Hung taught himself how to design a printed circuit board. He also taught himself 3D modeling, coding, and soldering. Figuring out the complicated mathematical transformations to coordinate legs facing different directions proved to be the toughest hurdle, he says.</p><p>After seven months of development and trial and error, a critical circuit board failure in his third version nearly ended the project, he says.</p><p>\u201cThere was a really strong moment of \u2018Should I just give up?\u2019\u201d he recalls.</p><p>He simplified the design and rebuilt it from the ground up.</p><p>\u201cI just decided to double down,\u201d he says. The fourth version of the robot was the first that successfully walked across his living room floor.</p><p>He advises aspiring engineers that \u201cif you find the right project and it truly becomes your passion, designing it almost starts to feel like fun, and that\u2019s what carries you through.\u201d</p><p>As the three young innovators demonstrate, the future of engineering goes far beyond technical ingenuity. Much is rooted in empathy and a commitment to human welfare.</p><p>Through initiatives such as the IEEE Presidents\u2019 Scholarship, the IEEE Foundation showcases and nurtures bright minds poised to shape the next era of assistive technology and robotics.</p><p>For Tang, Sidhu, and Hung, the ISEF stage is just the beginning. They can look forward to impactful careers dedicated to advancing technology for the benefit of humanity.</p>"
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/three-high-school-students-posing-with-their-individual-award-plaques-next-to-a-middle-aged-white-woman.jpg?id=67634200&amp;width=1245&amp;height=700&amp;coordinates=0%2C156%2C0%2C157\" /><br /><br /><p>About 16 percent of the global population\u2014more than 1 billion people\u2014live with some form of disability, according to the <a href=\"https://www.who.int/\" rel=\"noopener noreferrer\" target=\"_blank\">World Health Organization</a>. Many of the disabilities affect independence and mobility.</p><p>Three high school students working on inventions to help people with disabilities restore movement, translate thoughts, and navigate rough terrain had their work showcased at Regeneron\u2019s <a href=\"https://www.regeneron.com/responsibility/fueling-stem-innovators/isef\" rel=\"noopener noreferrer\" target=\"_blank\">International Science and Engineering Fair (ISEF)</a>, held in May in Phoenix. Their projects earned them this year\u2019s <a href=\"https://www.ieee.org/education/preuniversity/scholarship\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Presidents\u2019 Scholarship</a> awards.</p><p>IEEE President <a href=\"https://spectrum.ieee.org/u/maryellen-randall\" target=\"_self\">Mary Ellen Randall</a> presented the awards at a <a href=\"https://youtube.com/watch?v=HW1uGgQk_7U\" rel=\"noopener noreferrer\" target=\"_blank\">ceremony</a> held during the fair. They also received an IEEE President\u2019s coin, which students said was a highlight of their experience.</p><p>Hollie Tang won this year\u2019s IEEE Presidents\u2019 Scholarship of US $10,000 for her <a href=\"https://isef.net/project/sftd046-tonguage-tongue-based-hmi-for-motor-disabilities\" rel=\"noopener noreferrer\" target=\"_blank\">wheelchair navigation system</a>. The award is payable over four years of undergraduate university study and includes a complimentary IEEE student membership.</p><p><a href=\"https://www.linkedin.com/in/partap-sidhu-2a3561358/\" rel=\"noopener noreferrer\" target=\"_blank\">Partap Sidhu</a>, the second-place winner, received a $600 scholarship for his mind-controlled lower-limb exoskeleton. Third-place winner <a href=\"https://www.linkedin.com/in/calvinshung/\" rel=\"noopener noreferrer\" target=\"_blank\">Calvin Shang Hung</a> received a $400 scholarship for his rough-terrain robot. Sidhu and Hung also got complimentary IEEE student memberships.</p><p>Established by the <a href=\"https://www.ieeefoundation.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Foundation</a> and administered by <a href=\"https://ea.ieee.org\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Educational Activities</a>, the <a href=\"https://spectrum.ieee.org/ieee-presidents-scholarship\" target=\"_self\">Presidents\u2019 Scholarship</a> recognizes high school students who demonstrate an exceptional grasp of electrical engineering, computer science, or another IEEE field of interest.</p><h2>Controlling movements with a tongue</h2><p class=\"shortcode-media shortcode-media-rebelmouse-image\"> <img alt=\"An Asian-American high school student standing in front of her research poster about tongue-based HMI for motor disabilities.\" class=\"rm-shortcode\" id=\"d6f87\" src=\"https://spectrum.ieee.org/media-library/an-asian-american-high-school-student-standing-in-front-of-her-research-poster-about-tongue-based-hmi-for-motor-disabilities.jpg?id=67634203&amp;width=980\" /> <small class=\"image-media media-caption\">Holly Tang won the 2026 IEEE Presidents\u2019 Scholarship of US $10,000 for her Tonguage project, which is a noninvasive, computer-vision-based human-machine interface.</small><small class=\"image-media media-photo-credit\">Lynn Bowlby</small></p><p>Tang, a sophomore at <a href=\"https://wihs.hlpschools.org/\" target=\"_blank\">Wilson High School</a> in Hacienda Heights, Calif., secured the top prize for her <a href=\"https://isef.net/project/sftd046-tonguage-tongue-based-hmi-for-motor-disabilities\" target=\"_blank\">Tonguage</a> project: a noninvasive, computer-vision-based human-machine interface. Using tongue movements and a standard camera, the interface lets users control a computer and other digital tools as well as assistive technologies including wheelchairs. The tongue pad, one of the system\u2019s core features, allows the user\u2019s tongue to function as a directional cursor, while eye blinks serve as mouse clicks.</p><p>Tonguage translates the person\u2019s tongue and eye motions into actionable commands in several ways, such as the tongue\u2019s position inside the mouth and continuous movement patterns. The system\u2019s multimodality combines input from the tongue with other facial cues.</p><p>The system includes a face-tracking feature for error prevention that verifies commands are coming from the intended user, disregarding anyone else who moves into the camera\u2019s frame.</p><p>That is a critical safety measure for a wheelchair-navigation application, Tang says.</p><p>Accessibility was central to Tang\u2019s mission. She built the system to run on relatively affordable, readily available laptop cameras rather than more costly specialized hardware.</p><p>\u201cMobility conditions don\u2019t discriminate,\u201d she says. \u201cThey can affect anyone of any income, gender, and socioeconomic status.\u201d</p><p>Tang initially imagined Tonguage as a simple substitute for a keyboard and mouse. The more research she did, though, the more she realized that it could offer autonomy through applications such as wheelchair navigation, robotic arm control, and gaming, she says.</p><p>\u201cWe\u2019re so focused on trying to give people autonomy over just basic human tasks that we often leave out things like gaming,\u201d she says. \u201cThey deserve the freedom to play games and enjoy entertainment as well.\u201d</p><p>Tang, who plans to pursue biomedical engineering, says a visit to a rehabilitation center solidified her purpose.</p><p>\u201cIncluding empathy in your technological solution is so important,\u201d she says. \u201cEmpathy is hard to teach in a classroom, but it can be learned through experience, and through actually meeting people whose lives your work might change.\u201d</p><h2>Mind-controlled exoskeleton </h2><p>Sidhu, a junior at <a href=\"https://www.bethpagecommunity.com/o/bhs\" rel=\"noopener noreferrer\" target=\"_blank\">Bethpage High School</a>, in New York, took second place for <a href=\"https://isef.net/project/robo024-mind-controlled-lower-limb-pneumatic-exoskeleton\" rel=\"noopener noreferrer\" target=\"_blank\">NeuroGait</a>, a mind-controlled, lower-limb <a href=\"https://spectrum.ieee.org/soft-exoskeleton-motor-free\" target=\"_self\">exoskeleton</a>. He says he was inspired by his volunteer work at a community center that lacked elevators. He saw individuals with mobility issues struggle to navigate the three flights of stairs.</p><p>NeuroGait<em> </em>operates by reading the Bereitschaftspotential (BP), a faint electrical pattern that emerges one to two seconds before a person consciously initiates movement. Using a custom electroencephalogram (EEG) headset and a convolutional neural network (CNN), the system classifies intended movements and sends commands to a 3D-printed exoskeleton. Rather than rigid motors, the suit relies on pneumatic artificial muscles that Sidhu designed to mimic human anatomy.</p><p>\u201cThe pneumatic artificial muscle in itself is so compliant that it\u2019s able to adjust to the limitations of the human body,\u201d he says.</p><p>The technical specifications are striking: The CNN achieves a 99.9 percent accuracy in detecting a person\u2019s intended movement, while the full system\u2014from the brain\u2019s signal to physical movement\u2014operates at 95.2 percent accuracy, according to the results from 500 trials Sidhu conducted. </p><p>Perhaps most impressively, Sidhu built the entire system for about $276, less than 1 percent of the $40,000 to $100,000 price tag of commercial exoskeletons, according to a <a href=\"https://www.rootsanalysis.com/reports/medical-exoskeleton-market.html\" rel=\"noopener noreferrer\" target=\"_blank\">2025 revenue report</a> from Roots Analysis.</p><p>He says he hopes to bring NeuroGait<em> </em>to the community center where the idea for the project began.</p><p>He attributes his success to staying current with research from institutions and organizations such as <a href=\"https://bostondynamics.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Boston Dynamics</a> and <a href=\"https://www.mit.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">MIT</a>.</p><p>\u201cTo be successful in research,\u201d he says, \u201cyou have to know what\u2019s being done right now.\u201d</p><h2>A spider-inspired robot </h2><p>Hung, a sophomore at <a href=\"https://ecgauchos.wccusd.net/\" rel=\"noopener noreferrer\" target=\"_blank\">El Cerrito High School</a>, in California, took third place for <a href=\"https://www.societyforscience.org/press-release/regeneron-isef-2026-special-awards-ceremony/\" rel=\"noopener noreferrer\" target=\"_blank\">Math Into Motion: Robotic Hexapod for Hazardous Environments</a>. The six-legged robot is designed to traverse terrain too unstable for humans or conventional robotic systems.</p><p>With only weeks before the science fair deadline for entries and no prior electrical engineering experience, Hung began with an idea inspired by his interest in spaceflight: an insectlike robot. He had spent years watching rovers such as<em> </em><a href=\"https://science.nasa.gov/mission/msl-curiosity/\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>Curiosity</em></em></a> and <a href=\"https://science.nasa.gov/mission/mars-2020-perseverance/\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>Perseverance</em></em></a><em> </em>struggle on uneven surfaces, leading him to hypothesize that a hexapod design would be better for rugged ground.</p><p>As the project progressed, the humanitarian applications for his robot became clearer, he says. Watching news reports of the earthquake that struck T\u00fcrkiye in 2023, as well as conflicts around the globe, Hung adapted his robot for use in disasters. The hexapod\u2019s stable tripod walking gait, in which three legs stay grounded while the other three move, makes it well suited for navigating in collapsed buildings to locate survivors or to carry sensitive supplies such as insulin in conflict zones.</p><p>The current version moves using three mathematical techniques. Inverse kinematics converts a target leg position into the motor angles needed to reach it. Linear interpolation breaks each movement into a series of smaller steps for smoother motion. And Euclidean transformations translate the robot\u2019s travel direction into instructions that each leg can follow, regardless of the way a leg happens to be facing.</p><p>Hung taught himself how to design a printed circuit board. He also taught himself 3D modeling, coding, and soldering. Figuring out the complicated mathematical transformations to coordinate legs facing different directions proved to be the toughest hurdle, he says.</p><p>After seven months of development and trial and error, a critical circuit board failure in his third version nearly ended the project, he says.</p><p>\u201cThere was a really strong moment of \u2018Should I just give up?\u2019\u201d he recalls.</p><p>He simplified the design and rebuilt it from the ground up.</p><p>\u201cI just decided to double down,\u201d he says. The fourth version of the robot was the first that successfully walked across his living room floor.</p><p>He advises aspiring engineers that \u201cif you find the right project and it truly becomes your passion, designing it almost starts to feel like fun, and that\u2019s what carries you through.\u201d</p><p>As the three young innovators demonstrate, the future of engineering goes far beyond technical ingenuity. Much is rooted in empathy and a commitment to human welfare.</p><p>Through initiatives such as the IEEE Presidents\u2019 Scholarship, the IEEE Foundation showcases and nurtures bright minds poised to shape the next era of assistive technology and robotics.</p><p>For Tang, Sidhu, and Hung, the ISEF stage is just the beginning. They can look forward to impactful careers dedicated to advancing technology for the benefit of humanity.</p>"
       },
       {
         "id": "5076621b4c9e3634",
@@ -819,13 +801,49 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/smiling-man-in-glasses-overlaid-with-scientific-diagrams-and-colorful-geometric-shapes.png?id=67527858&amp;width=1245&amp;height=700&amp;coordinates=0%2C102%2C0%2C103\" /><br /><br /><p><span>Physicists have been trying to measure the </span><span>fundamental gravitation</span><span>al constant</span><span> for well over two centuries. The current </span><a href=\"https://physics.nist.gov/cgi-bin/cuu/Value?bg\" target=\"_blank\">accepted value of big <em><em>G</em></em></a><span>, as it\u2019s known, is 6.67430 \u00d7 10</span><span>-11</span><span> cubic meters per kilogram per square second. It also has an uncertainty of \u00b10.00015 \u00d7 10<sup>-11</sup></span><span> </span><span>m</span><span><sup>3</sup></span><span>/(kg s</span><span><sup>2</sup></span><span>). As far as <a href=\"https://spectrum.ieee.org/the-kilogram-reinvented\" target=\"_blank\">constants of the universe</a> go, that\u2019s very uncertain.</span></p><h3>Stephan Schlamminger</h3><br /><p><a href=\"https://www.nist.gov/people/stephan-schlamminger\" rel=\"noopener noreferrer\" target=\"_blank\">Schlamminger</a> is a physicist at the U.S. National Institute of Standards and Technology.</p><p>Stephan Schlamminger recently completed a <a href=\"https://www.nist.gov/news-events/news/2026/04/nist-weighs-mystery-gravitational-constant\" target=\"_blank\">10-year effort</a> at the U.S. National Institute of Standards and Technology to replicate an earlier measurement of big <em><em>G</em></em> from the <a href=\"https://www.bipm.org/en/\" target=\"_blank\">International Bureau of Weights and Measures</a>, or BIPM (located near Paris) that\u2019s notably higher than most measurements. He spoke with <em><em>IEEE Spectrum</em></em> about why it took so long to get a number\u20146.67387 x 10<sup>-11</sup> m<span><sup>3</sup></span>/(kg s<sup>2</sup>)\u2014and why it\u2019s notably lower than the BIPM result, to the tune of <a href=\"https://www.nist.gov/news-events/news/2026/04/nist-weighs-mystery-gravitational-constant\" target=\"_blank\">0.0235 percent</a>.</p><p><strong>Why is it so difficult to measure big </strong><em><strong><em>G</em></strong></em><strong>?</strong></p><p><strong>Stephan Schlamminger: </strong>Gravity is very weak. When you were a kid, you probably played with fridge magnets, and it was a force you could feel. But if you have two coffee cups, you can try all you want\u2014you can\u2019t feel the force between them. It is there, but it\u2019s so, so weak.</p><p><strong>How did you attempt to measure big </strong><em><strong><em>G</em></strong></em><strong>?</strong></p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Animated schematic of a rotating lab instrument with laser scanning cylindrical samples\" class=\"rm-shortcode\" id=\"79fc0\" src=\"https://spectrum.ieee.org/media-library/animated-schematic-of-a-rotating-lab-instrument-with-laser-scanning-cylindrical-samples.gif?id=67527373&amp;width=980\" /> <small class=\"image-media media-caption\">NIST used a torsion balance with a fourfold geometry. This animation shows an exaggerated version of how the outer green masses gravitationally attract the inner blue masses.</small><small class=\"image-media media-photo-credit\">S. Kelley/NIST</small></p><p><strong>Schlamminger: </strong>We used what\u2019s called a torsion balance. The key idea in the torsion balance is that it decouples vertical gravity that you have from Earth from horizontal gravity, and that makes it sensitive to masses that are around the torsion balance but <em><em>not</em></em> the Earth below.</p><p>Ours had a fourfold geometry. It has a very thin torsion strip, then four cylinders in a \u201cplus sign\u201d arrangement. All of this is inside a vacuum. Outside, we have four larger cylinders that gravitationally attract the four smaller masses to them. If I move the outer masses just a tiny little bit, the plus sign will rotate, and we measure that angle that it moves. That angle is proportional to the gravitational torque.</p><p><strong>Why try to replicate the BIPM value?</strong></p><p><strong>Schlamminger: </strong>We could move the field forward. The measurements have been plagued with inconsistencies, so by redoing an experiment, we hoped to shed light on the inconsistencies.</p><p>We did not find a smoking gun, so there\u2019s no single reason why it\u2019s different\u2014our value versus their value. It\u2019s still a big question mark.</p><p><strong>What was it like spending 10 years on this?</strong></p><p><strong>Schlamminger: </strong>It\u2019s a bit like herding cats. I\u2019ve measured other fundamental constants, <a href=\"https://spectrum.ieee.org/measure-plancks-constant-and-define-the-kilogramwith-legos\" target=\"_blank\">like Planck\u2019s constant</a>, and for most experiments, they have some sort of self-calibration built in. But with the gravitational constant, you have to keep track of every single mass that moves\u2014where they are, how big they are, and weigh them.</p><p><strong>How does your result compare to the rest?</strong></p><p><strong>Schlamminger: </strong>Our result is a little bit below the standard accepted literature value. I was disappointed because it doesn\u2019t agree with the BIPM value, nor with the literature value. If there\u2019s something wrong with the BIPM experiment, then the literature value\u2014which includes that result\u2014probably ought to come down a bit. But that is not for me to say. I think somebody else, independent, should figure out what the new mean value ought to be.</p>"
       },
       {
+        "id": "9ad7e9b44a44f95d",
+        "title": "The Download: how people really use AI, and Flock\u2019s design choices",
+        "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 18 Aug 2026 12:10:00 +0000",
+        "published_dt": "2026-08-18T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don\u2019t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the&#8230;"
+      },
+      {
+        "id": "4ad8551a3bef9716",
+        "title": "We still don\u2019t know how people are really using AI",
+        "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 18 Aug 2026 10:06:43 +0000",
+        "published_dt": "2026-08-18T10:06:43+00:00",
+        "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; \u201cThere is no independent source to corroborate it,\u201d says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research&#8230;"
+      },
+      {
+        "id": "05bd37256f0909d7",
+        "title": "The role of the astronaut is in flux",
+        "url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 18 Aug 2026 09:00:00 +0000",
+        "published_dt": "2026-08-18T09:00:00+00:00",
+        "summary": "When the four astronauts on board NASA\u2019s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles.&#160; While no space mission can live up to the historic touchdown of&#8230;"
+      },
+      {
+        "id": "66eb4b49d2d0dd05",
+        "title": "AI\u2019s recursive self-improvement might not come so quickly after all",
+        "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+        "source": "MIT Technology Review",
+        "published": "Tue, 18 Aug 2026 09:00:00 +0000",
+        "published_dt": "2026-08-18T09:00:00+00:00",
+        "summary": "The AI industry\u2019s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&#160;&#8230;"
+      },
+      {
         "id": "6ab1805add899082",
         "title": "What Flock\u2019s defenders are missing",
         "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
         "source": "MIT Technology Review",
         "published": "Mon, 17 Aug 2026 19:16:09 +0000",
         "published_dt": "2026-08-17T19:16:09+00:00",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent&#8230;"
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent&#8230;"
       },
       {
         "id": "37567fff229dcd8a",
@@ -871,24 +889,6 @@
         "published": "Fri, 14 Aug 2026 17:27:12 +0000",
         "published_dt": "2026-08-14T17:27:12+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/wipl-d-logo-with-stylized-antenna-arcs-above-the-text.png?id=26851692&amp;width=980\" /><br /><br /><p>Learn how full-wave simulation predicts very low antenna coupling on aircraft-sized platforms, and which three modeling techniques deliver accurate results with fewer computational resources.</p><p><span><a href=\"https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/\" target=\"_blank\">Download this free whitepaper now!</a></span></p>"
-      },
-      {
-        "id": "86e5425f68b7919b",
-        "title": "The Download: Flock\u2019s new rules, cloning\u2019s future, and children\u2019s cells",
-        "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 14 Aug 2026 12:17:21 +0000",
-        "published_dt": "2026-08-14T12:17:21+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers\u2019 access to its nationwide network of license plate readers. The move comes&#8230;"
-      },
-      {
-        "id": "4ec52abfa53ccd47",
-        "title": "This scientist is helping build a missing map of childhood",
-        "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 14 Aug 2026 09:00:00 +0000",
-        "published_dt": "2026-08-14T09:00:00+00:00",
-        "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the&#8230;"
       },
       {
         "id": "db17832a49c2fd63",
