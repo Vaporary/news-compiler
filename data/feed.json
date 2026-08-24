@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-08-23T12:50:48.518796+00:00",
+  "generated_at": "2026-08-24T13:00:52.889472+00:00",
   "categories": {
     "Biotech": [
+      {
+        "id": "2d2f405c42b63023",
+        "title": "STAT+: FDA pauses Regenxbio gene therapy trial again due to safety concerns",
+        "url": "https://www.statnews.com/2026/08/24/fda-pauses-regenxbio-gene-therapy-trial-hunter-syndrome-safety-concerns/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 24 Aug 2026 11:59:48 +0000",
+        "published_dt": "2026-08-24T11:59:48+00:00",
+        "summary": "The FDA put a hold on a Regenxbio gene therapy trial again after new safety concerns emerged."
+      },
+      {
+        "id": "4acd67da9120ae7f",
+        "title": "FDA plans to regulate generative AI",
+        "url": "https://www.statnews.com/2026/08/24/health-news-fda-plans-to-regulate-generative-ai/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 24 Aug 2026 12:45:56 +0000",
+        "published_dt": "2026-08-24T12:45:56+00:00",
+        "summary": "New clues to RFK Jr.'s vaccine plans, a bottleneck for nurse practitioners, and more health news from Morning Rounds"
+      },
+      {
+        "id": "6ffef6390e8d974f",
+        "title": "The Download: kids outlearning AI, and space travel agents",
+        "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 24 Aug 2026 12:10:00 +0000",
+        "published_dt": "2026-08-24T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids outlearn AI\u2014and we still don\u2019t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times&#8230;"
+      },
+      {
+        "id": "755dc20ea4a608f8",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-clinical-hold-derails-regenxbio-gene-therapy-refiling-plan\" hreflang=\"en\">Regenxbio gene therapy refiling plan derailed by FDA hold over spine MRI findings</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-clinical-hold-derails-regenxbio-gene-therapy-refiling-plan",
+        "source": "Fierce Biotech",
+        "published": "Aug 24, 2026 7:51am",
+        "published_dt": "2026-08-24T07:51:00+00:00",
+        "summary": "The FDA has put a clinical hold on Regenxbio\u2019s RGX-121 over asymptomatic spine MRI findings, derailing the biotech\u2019s plans to refile for approval of the once-rejected gene therapy candidate."
+      },
+      {
+        "id": "a3e6ab3f8fb61e46",
+        "title": "STAT+: FDA digital health leader promises generative AI regulatory guidance is coming",
+        "url": "https://www.statnews.com/2026/08/24/fda-rick-abramson-generative-ai-guidances-are-coming/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 24 Aug 2026 08:30:00 +0000",
+        "published_dt": "2026-08-24T08:30:00+00:00",
+        "summary": "FDA expects to issue guidance on policies regarding generative AI devices, according to Rick Abramson, the agency\u2019s head of digital health policy."
+      },
+      {
+        "id": "8c260e629d63d63a",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/roche-eli-lilly-see-fda-approval-first-its-kind-alzheimers-biomarker-blood-test\" hreflang=\"en\">Roche, Eli Lilly net FDA approval for first-of-its-kind Alzheimer\u2019s biomarker blood test</a>",
+        "url": "https://www.fiercebiotech.com/medtech/roche-eli-lilly-see-fda-approval-first-its-kind-alzheimers-biomarker-blood-test",
+        "source": "Fierce Biotech",
+        "published": "Aug 24, 2026 7:31am",
+        "published_dt": "2026-08-24T07:31:00+00:00",
+        "summary": "Roche and Eli Lilly have won FDA clearance for their latest Alzheimer\u2019s disease diagnostic."
+      },
       {
         "id": "a7f4f476198867cd",
         "title": "STAT+: FDA approves Ultragenyx gene therapy",
@@ -10,6 +64,60 @@
         "published": "Thu, 20 Aug 2026 13:38:04 +0000",
         "published_dt": "2026-08-20T13:38:04+00:00",
         "summary": "Regeneron wins ultra-rare disease drug approval, a validating win for mRNA research, and more biotech news from The Readout"
+      },
+      {
+        "id": "b46758bfc2544822",
+        "title": "Kids outlearn AI\u2014and we still don\u2019t know why",
+        "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 24 Aug 2026 09:00:00 +0000",
+        "published_dt": "2026-08-24T09:00:00+00:00",
+        "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&#8230;"
+      },
+      {
+        "id": "2a288a6083842f93",
+        "title": "STAT+: Inside Moderna and Merck\u2019s cancer vaccine triumph",
+        "url": "https://www.statnews.com/2026/08/24/inside-moderna-and-merck-cancer-vaccine-triumph/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 24 Aug 2026 08:30:00 +0000",
+        "published_dt": "2026-08-24T08:30:00+00:00",
+        "summary": "Moderna and Merck's wild gambit on a cancer vaccine appears to have worked, despite big doubts, logistical challenges, and pandemic-era complications."
+      },
+      {
+        "id": "4fa3a545687a761b",
+        "title": "STAT+: Medicaid transgender care rule sets precedent that could restrict coverage of other drugs",
+        "url": "https://www.statnews.com/2026/08/24/transgender-care-ban-precedent-could-be-broadly-applied-medicaid-states/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 24 Aug 2026 08:30:00 +0000",
+        "published_dt": "2026-08-24T08:30:00+00:00",
+        "summary": "The legal theory used to restrict gender-affirming care for minors could be applied broadly, experts say."
+      },
+      {
+        "id": "dc2f18ff02fa3791",
+        "title": "Nurse practitioner trainees find themselves stymied by shortage of clinical mentors",
+        "url": "https://www.statnews.com/2026/08/24/nurse-practitioner-preceptor-shortage-clinical-placement-challenges/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 24 Aug 2026 08:30:00 +0000",
+        "published_dt": "2026-08-24T08:30:00+00:00",
+        "summary": "Nurse practitioner students face a preceptor shortage, often paying thousands to secure clinical supervision."
+      },
+      {
+        "id": "5a637b48a450a9a4",
+        "title": "Opinion: Medicine stopped\u00a0shaking hands. We should start again",
+        "url": "https://www.statnews.com/2026/08/24/doctors-hand-shakes-patients-research/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 24 Aug 2026 08:30:00 +0000",
+        "published_dt": "2026-08-24T08:30:00+00:00",
+        "summary": "A handshake takes only a few seconds but can make a major difference to a patient, an emergency physician writes."
+      },
+      {
+        "id": "d36646267ec88d7a",
+        "title": "Opinion: I\u2019m a retired doctor. Volunteering at a community clinic gave me an entirely new medical education",
+        "url": "https://www.statnews.com/2026/08/24/retired-doctor-community-clinic-volunteering-education/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 24 Aug 2026 08:30:00 +0000",
+        "published_dt": "2026-08-24T08:30:00+00:00",
+        "summary": "\u201cIt was only after retiring from mainstream medicine when I fully comprehended the callous limitations of our health care system,\u201d writes Benjamin I. Lee."
       },
       {
         "id": "e9189cb3bb0e850d",
@@ -30,6 +138,24 @@
         "summary": "Merck &amp; Co. and Moderna's personalized mRNA cancer vaccine has successfully lengthened recurrence-free survival when paired with Keytruda for patients with high-risk skin cancer. The phase 3 win sets the partners up to potentially seek accelerated approval."
       },
       {
+        "id": "8032abedfe6b1e03",
+        "title": "Americans bought 12% less soda under new SNAP restrictions, study says",
+        "url": "https://www.statnews.com/2026/08/24/snap-restrictions-12-percent-drop-soda-purchases/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Mon, 24 Aug 2026 05:00:00 +0000",
+        "published_dt": "2026-08-24T05:00:00+00:00",
+        "summary": "The drop in soda purchases is meaningful, but not enormous, one of the study's authors said."
+      },
+      {
+        "id": "afe3514304651b6d",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-pens-25b-pact-hanmis-clinical-stage-obesity-drug-targeting-less-used-mechanism\" hreflang=\"en\">Roche pens $2.5B pact for Hanmi\u2019s clinical-stage obesity drug targeting less-explored mechanism</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-pens-25b-pact-hanmis-clinical-stage-obesity-drug-targeting-less-used-mechanism",
+        "source": "Fierce Biotech",
+        "published": "Aug 24, 2026 4:44am",
+        "published_dt": "2026-08-24T04:44:00+00:00",
+        "summary": "Roche has taken its obesity strategy into uncharted territory via a $190 million upfront payment for a clinical-stage urocortin-2 analog from South Korea\u2019s Hanmi Pharm."
+      },
+      {
         "id": "00d1944dfee9311f",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/boehringer-benches-phase-1-study-safety-event\" hreflang=\"en\">Boehringer places phase 1 study of investigational drug on hold to examine \u2018safety event\u2019</a>",
         "url": "https://www.fiercebiotech.com/biotech/boehringer-benches-phase-1-study-safety-event",
@@ -48,33 +174,6 @@
         "summary": "What you need to know about Heidi Overton, and Erica Schwartz's first speech to CDC staff."
       },
       {
-        "id": "efa609543edc7958",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about a Regeneron rare disease drug, an Ultragenyx gene therapy, and more",
-        "url": "https://www.statnews.com/pharmalot/2026/08/20/regeneron-rare-disease-drug-utragenyx-gene-therapy/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 20 Aug 2026 13:01:05 +0000",
-        "published_dt": "2026-08-20T13:01:05+00:00",
-        "summary": "A Regeneron drug for an ultra-rare disease that causes bone to grow where it shouldn't won U.S. regulatory approval, capping a three-decade effort"
-      },
-      {
-        "id": "48900790c6eed0eb",
-        "title": "STAT+: One of the most consequential years for cancer treatment, ever",
-        "url": "https://www.statnews.com/2026/08/20/cancer-vaccine-merck-moderna-biotech-observations/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 20 Aug 2026 10:30:00 +0000",
-        "published_dt": "2026-08-20T10:30:00+00:00",
-        "summary": "Between success with a pancreatic cancer drug and now success with an mRNA neoantigen vaccine, it has been a banner year for developing cancer therapies."
-      },
-      {
-        "id": "cdf28fd8ca991ea3",
-        "title": "STAT+: Capricor Therapeutics\u2019 Duchenne treatment is heading for an FDA rejection",
-        "url": "https://www.statnews.com/2026/08/20/capricor-therapeutics-duchenne-treatment-fda/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 20 Aug 2026 10:30:00 +0000",
-        "published_dt": "2026-08-20T10:30:00+00:00",
-        "summary": "Capricor Therapeutics is trying to stave off FDA rejection of its cell therapy for Duchenne muscular dystrophy."
-      },
-      {
         "id": "b9eabe2806cf1674",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/why-pheasts-ceo-has-no-regrets-about-transparent-approach-despite-competitors-circling\" hreflang=\"en\">Why Pheast\u2019s CEO has no regrets about transparent approach to R&amp;D despite competitors circling</a>",
         "url": "https://www.fiercebiotech.com/biotech/why-pheasts-ceo-has-no-regrets-about-transparent-approach-despite-competitors-circling",
@@ -91,15 +190,6 @@
         "published": "Aug 20, 2026 7:57am",
         "published_dt": "2026-08-20T07:57:00+00:00",
         "summary": "The FDA has approved Vitestro\u2019s Aletta as the first standalone robotic device in the U.S. designed to draw blood without the need for hands-on human help."
-      },
-      {
-        "id": "f895fcfcfe5cc35e",
-        "title": "STAT+: How Trump loyalist Heidi Overton became the president\u2019s pick to run the FDA",
-        "url": "https://www.statnews.com/2026/08/19/heidi-overton-fda-commissioner-nominee-competing-interests-ahead/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Wed, 19 Aug 2026 20:03:20 +0000",
-        "published_dt": "2026-08-19T20:03:20+00:00",
-        "summary": "If she wins confirmation as FDA commissioner, Heidi Overton will face plenty of big challenges."
       },
       {
         "id": "a3304abfe6deec56",
@@ -136,99 +226,72 @@
         "published": "Fri, 21 Aug 2026 16:40:03 +0000",
         "published_dt": "2026-08-21T16:40:03+00:00",
         "summary": "Kennedy asks for feedback on new vaccine recommendation categories, how shots are tested."
-      },
-      {
-        "id": "cd32a9b60b07d719",
-        "title": "STAT+: Up and down the ladder: The latest comings and goings",
-        "url": "https://www.statnews.com/pharmalot/2026/08/21/up-down-ladder-latest-comings-goings-jobs-2/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 21 Aug 2026 13:51:51 +0000",
-        "published_dt": "2026-08-21T13:51:51+00:00",
-        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-      },
-      {
-        "id": "04f1df7a9ba0ce16",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about a big Roche investment in the U.S., estrogen patch shortages, and more",
-        "url": "https://www.statnews.com/pharmalot/2026/08/21/roche-genentech-investment-estrogen-patch-shortages/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 21 Aug 2026 13:40:19 +0000",
-        "published_dt": "2026-08-21T13:40:19+00:00",
-        "summary": "Roche's Genentech will invest $750 million to double the size of its existing production facility in Oregon"
-      },
-      {
-        "id": "a7fb9bf385cecd54",
-        "title": "STAT+: Are cancer patients getting too much drug?",
-        "url": "https://www.statnews.com/2026/08/21/biotech-news-are-cancer-patients-us-getting-too-much-drug/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 21 Aug 2026 13:23:49 +0000",
-        "published_dt": "2026-08-21T13:23:49+00:00",
-        "summary": "Moderna's stunning surge and drop, AI in scientific writing, and more biotech news from The Readout"
-      },
-      {
-        "id": "983d87eac6f76a68",
-        "title": "Scientists deploy Merck\u2019s Ebola vaccine in DRC",
-        "url": "https://www.statnews.com/2026/08/21/health-news-scientists-deploy-merck-ebola-vaccine-in-drc/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 21 Aug 2026 13:04:41 +0000",
-        "published_dt": "2026-08-21T13:04:41+00:00",
-        "summary": "Prostate cancer therapy, Meta glasses in hospital settings, and more health news from Morning Rounds"
-      },
-      {
-        "id": "5b2d2891766a3cbd",
-        "title": "The Download: threats from space mirrors and credit for AI drugs",
-        "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 21 Aug 2026 12:10:00 +0000",
-        "published_dt": "2026-08-21T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company\u2019s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the&#8230;"
-      },
-      {
-        "id": "835c28f13455a97c",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/werewolf-transforming-reverse-merger-support-ambros-phase-3-push\" hreflang=\"en\">Werewolf transforms into Ambros via reverse merger to support phase 3 push for rare disease drug </a>",
-        "url": "https://www.fiercebiotech.com/biotech/werewolf-transforming-reverse-merger-support-ambros-phase-3-push",
-        "source": "Fierce Biotech",
-        "published": "Aug 21, 2026 9:15am",
-        "published_dt": "2026-08-21T09:15:00+00:00",
-        "summary": "Werewolf Therapeutics\u2019 hunt for strategic alternatives has ended. Ambros Therapeutics has agreed to merge with Werewolf in an all-stock deal and has raised $150 million, positioning the biotech to take its lead rare disease drug candidate through to a filing for approval."
-      },
-      {
-        "id": "df0b278c81f5ef3d",
-        "title": "Mother tongue",
-        "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 21 Aug 2026 09:00:00 +0000",
-        "published_dt": "2026-08-21T09:00:00+00:00",
-        "summary": "\u201cDaddy?\u201d Theo curled against my side in bed. \u201cWhere do words go when they die?\u201d I\u2019d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib). Now was the moment when our son\u2019s eyelids were supposed to flutter gently closed,&#8230;"
-      },
-      {
-        "id": "09cb39ea5856ee8c",
-        "title": "When AI designs a drug, who gets the credit?",
-        "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 21 Aug 2026 09:00:00 +0000",
-        "published_dt": "2026-08-21T09:00:00+00:00",
-        "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been \u201cdiscovered by\u201d its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think&#8230;"
-      },
-      {
-        "id": "6a64052b13d4d9ff",
-        "title": "This company\u2019s plans to deploy space mirrors could jeopardize the night sky for many",
-        "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 21 Aug 2026 09:00:00 +0000",
-        "published_dt": "2026-08-21T09:00:00+00:00",
-        "summary": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US company Reflect Orbital plans to launch a test satellite called E\u00e4rendil-1 that will extend an 18-by-18-meter mirror in orbit. The&#8230;"
-      },
-      {
-        "id": "569607b3897b41b7",
-        "title": "Focal therapy for localized prostate cancer has divided physicians. Will new data change minds?",
-        "url": "https://www.statnews.com/2026/08/21/focal-therapy-prostate-cancer-still-experimental-or-viable-alternative/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 21 Aug 2026 08:30:00 +0000",
-        "published_dt": "2026-08-21T08:30:00+00:00",
-        "summary": "Urologic oncologists who treat prostate cancer are split over the benefits of focal therapy compared to traditional surgery or radiation."
       }
     ],
     "Engineering & Aerospace": [
+      {
+        "id": "bbac776eaefeccd2",
+        "title": "51WORLD unveils two embodied AI products",
+        "url": "https://www.engineering.com/51world-unveils-two-embodied-ai-products/",
+        "source": "Engineering.com",
+        "published": "Mon, 24 Aug 2026 12:12:40 +0000",
+        "published_dt": "2026-08-24T12:12:40+00:00",
+        "summary": "<p>The company also outlined a three-tier aerospace strategy spanning low-altitude systems, space and deep-space exploration.</p>\n<p>The post <a href=\"https://www.engineering.com/51world-unveils-two-embodied-ai-products/\">51WORLD unveils two embodied AI products</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "0cf4ff73eac46fae",
+        "title": "MetraSCAN BLACK2 adds stand-alone scanning and probing",
+        "url": "https://www.engineering.com/metrascan-black2-adds-stand-alone-scanning-and-probing/",
+        "source": "Engineering.com",
+        "published": "Mon, 24 Aug 2026 12:20:57 +0000",
+        "published_dt": "2026-08-24T12:20:57+00:00",
+        "summary": "<p>The portable 3D scanner captures up to 2.8 million measurements per second and offers a 46.7 m\u00b3 C-Track Flex Volume.</p>\n<p>The post <a href=\"https://www.engineering.com/metrascan-black2-adds-stand-alone-scanning-and-probing/\">MetraSCAN BLACK2 adds stand-alone scanning and probing</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "b14fcb9d12edcb3e",
+        "title": "Tory Bruno Named Honorary Chair Of World Space Week 2027",
+        "url": "https://spacenews.com/tory-bruno-named-honorary-chair-of-world-space-week-2027/",
+        "source": "SpaceNews",
+        "published": "Mon, 24 Aug 2026 12:00:00 +0000",
+        "published_dt": "2026-08-24T12:00:00+00:00",
+        "summary": "<figure><img alt=\"World Space Week Association logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/Copy-of-Copy-of-World-Space-Week-Association-01-1-scaled.png?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Houston \u2014 World Space Week Association announced today that Tory Bruno, President of National Security at Blue Origin, will serve as Honorary Chair of World Space Week 2027.&#160;&#160; &#8220;Tory Bruno [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/tory-bruno-named-honorary-chair-of-world-space-week-2027/\">Tory Bruno Named Honorary Chair Of World Space Week 2027</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "937bb0976c981a93",
+        "title": "Cloverleaf and NVIDIA partner to develop AI infrastructure",
+        "url": "https://www.engineering.com/cloverleaf-and-nvidia-partner-to-develop-ai-infrastructure/",
+        "source": "Engineering.com",
+        "published": "Mon, 24 Aug 2026 11:30:49 +0000",
+        "published_dt": "2026-08-24T11:30:49+00:00",
+        "summary": "<p>NVIDIA\u2019s minority investment supports powered sites and infrastructure planning for AI factories across the United States.</p>\n<p>The post <a href=\"https://www.engineering.com/cloverleaf-and-nvidia-partner-to-develop-ai-infrastructure/\">Cloverleaf and NVIDIA partner to develop AI infrastructure</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "34806c185c485b4c",
+        "title": "Unisys and Refroid partner on AI infrastructure deployment",
+        "url": "https://www.engineering.com/unisys-and-refroid-partner-on-ai-infrastructure-deployment/",
+        "source": "Engineering.com",
+        "published": "Mon, 24 Aug 2026 11:26:10 +0000",
+        "published_dt": "2026-08-24T11:26:10+00:00",
+        "summary": "<p>The partnership combines liquid cooling with global field services, commissioning, maintenance and technical workforce support.</p>\n<p>The post <a href=\"https://www.engineering.com/unisys-and-refroid-partner-on-ai-infrastructure-deployment/\">Unisys and Refroid partner on AI infrastructure deployment</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "78b45ee6dbf1bed2",
+        "title": "Mouser launches consumer technology resource center",
+        "url": "https://www.engineering.com/mouser-launches-consumer-technology-resource-center/",
+        "source": "Engineering.com",
+        "published": "Mon, 24 Aug 2026 11:20:23 +0000",
+        "published_dt": "2026-08-24T11:20:23+00:00",
+        "summary": "<p>The hub includes articles, eBooks and product information covering AI, USB-C charging, sensors and consumer device design.</p>\n<p>The post <a href=\"https://www.engineering.com/mouser-launches-consumer-technology-resource-center/\">Mouser launches consumer technology resource center</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "2da8fc40f8b9ca8f",
+        "title": "Inside NASA Marshall\u2019s progress on Artemis III hardware, plans for new SLS upper stage",
+        "url": "https://aerospaceamerica.aiaa.org/inside-nasa-marshalls-progress-on-artemis-iii-hardware-plans-for-new-sls-upper-stage/",
+        "source": "Aerospace America",
+        "published": "Mon, 24 Aug 2026 09:00:00 +0000",
+        "published_dt": "2026-08-24T09:00:00+00:00",
+        "summary": "NASA MARSHALL SPACE FLIGHT CENTER, HUNTSVILLE, Ala. \u2014 Inside a multistory warehouse-like room, a large metal tube rotates on an oversized turntable. A nearby machine cuts into it, leaving a trail of silver chips and metallic smell. A few feet away, a group of engineers monitors the progress at a bank of computers: roughly 13 [...]"
+      },
       {
         "id": "d94a97e5798c6854",
         "title": "New Novaspace forecast: 6,500+ EO satellites to launch by 2035",
@@ -320,24 +383,6 @@
         "summary": "<p>The Cogswell Engineering deal adds civil, structural, mechanical and electrical engineering capabilities across five Canadian provinces.</p>\n<p>The post <a href=\"https://www.engineering.com/zenatech-expands-drone-services-with-canadian-engineering-acquisition/\">ZenaTech expands drone services with Canadian engineering acquisition</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
-        "id": "48b2d22faa1d5766",
-        "title": "Nuclearn and GSE Solutions bring AI to nuclear simulation",
-        "url": "https://www.engineering.com/nuclearn-and-gse-solutions-bring-ai-to-nuclear-simulation/",
-        "source": "Engineering.com",
-        "published": "Fri, 21 Aug 2026 09:30:58 +0000",
-        "published_dt": "2026-08-21T09:30:58+00:00",
-        "summary": "<p>The collaboration will add AI-assisted scenario creation, assessments and decision support to nuclear operator training.</p>\n<p>The post <a href=\"https://www.engineering.com/nuclearn-and-gse-solutions-bring-ai-to-nuclear-simulation/\">Nuclearn and GSE Solutions bring AI to nuclear simulation</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "4f126c6bbeff488f",
-        "title": "Shield AI\u2019s X-BAT named official aircraft of Army-Navy Game",
-        "url": "https://www.engineering.com/shield-ais-x-bat-named-official-aircraft-of-army-navy-game/",
-        "source": "Engineering.com",
-        "published": "Fri, 21 Aug 2026 09:24:50 +0000",
-        "published_dt": "2026-08-21T09:24:50+00:00",
-        "summary": "<p>The autonomous VTOL aircraft will be featured during the Dec. 12, 2026, game at MetLife Stadium.</p>\n<p>The post <a href=\"https://www.engineering.com/shield-ais-x-bat-named-official-aircraft-of-army-navy-game/\">Shield AI\u2019s X-BAT named official aircraft of Army-Navy Game</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
         "id": "1e8dab3eecc42c9c",
         "title": "Elve qualifies millimeter-wave amplifiers for spaceflight",
         "url": "https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight/",
@@ -347,15 +392,6 @@
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"532\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/02/rsz_elve.jpg?fit=879%2C532&amp;ssl=1\" width=\"879\" /></figure>\n<p>SAN FRANCISCO \u2013 California startup Elve has qualified its 100-watt millimeter-wave Traveling Wave Tube Amplifier platform for spaceflight. With U.S. Space Force Small Business Innovation Research funding, Elve \u201cdidn&#8217;t just [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight/\">Elve qualifies millimeter-wave amplifiers for spaceflight</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
-        "id": "a3fe07d542b18da1",
-        "title": "Stop measuring product development progress in dollars",
-        "url": "https://www.engineering.com/stop-measuring-product-development-progress-in-dollars/",
-        "source": "Engineering.com",
-        "published": "Thu, 20 Aug 2026 18:59:08 +0000",
-        "published_dt": "2026-08-20T18:59:08+00:00",
-        "summary": "<p>Here\u2019s why tracking transactions misleads leadership, and what metrics executives should track instead.</p>\n<p>The post <a href=\"https://www.engineering.com/stop-measuring-product-development-progress-in-dollars/\">Stop measuring product development progress in dollars</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
         "id": "d1ba3781335c2a41",
         "title": "Golden Dome funding is 90% obligated, Guetlein says",
         "url": "https://aerospaceamerica.aiaa.org/golden-dome-funding-is-90-obligated-guetlein-says/",
@@ -363,24 +399,6 @@
         "published": "Thu, 20 Aug 2026 18:35:12 +0000",
         "published_dt": "2026-08-20T18:35:12+00:00",
         "summary": "This story has been updated with additional information about Golden Dome&#8217;s current funding. The Pentagon official overseeing the Trump administration\u2019s planned multilayered missile defense shield said today \u201cwe&#8217;ve obligated about 90%\u201d of the $22.5 billion he said the initiative has received. Gen. Michael Guetlein, Golden Dome\u2019s program manager, said at an event in Medora, North [...]"
-      },
-      {
-        "id": "e30fe48aec84b3da",
-        "title": "Semiconductors and the humanoid nervous system",
-        "url": "https://www.engineering.com/semiconductors-and-the-humanoid-nervous-system/",
-        "source": "Engineering.com",
-        "published": "Thu, 20 Aug 2026 17:54:05 +0000",
-        "published_dt": "2026-08-20T17:54:05+00:00",
-        "summary": "<p>By: Michael Munsey, Vice President of Semiconductors for Siemens Digital Industries Software A new generation of humanoid robots is moving from science fiction toward the factory floor, driven by advances in semiconductors and artificial intelligence (AI). But for original equipment manufacturers (OEMs), the opportunity is not simply to build machines that can see, feel and [&#8230;]</p>\n<p>The post <a href=\"https://www.engineering.com/semiconductors-and-the-humanoid-nervous-system/\">Semiconductors and the humanoid nervous system</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "6e1d4cf1e38467d7",
-        "title": "Catching Drones with Drones: Inside a Startup\u2019s AI-Powered Interceptor",
-        "url": "https://www.engineering.com/catching-drones-with-drones-inside-a-startups-ai-powered-interceptor/",
-        "source": "Engineering.com",
-        "published": "Thu, 20 Aug 2026 17:52:14 +0000",
-        "published_dt": "2026-08-20T17:52:14+00:00",
-        "summary": "<p>Daedalus Defence is prototyping an AI-guided drone that captures rogue aircraft and hauls them away.</p>\n<p>The post <a href=\"https://www.engineering.com/catching-drones-with-drones-inside-a-startups-ai-powered-interceptor/\">Catching Drones with Drones: Inside a Startup&#8217;s AI-Powered Interceptor</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "0b596724ce87850e",
@@ -435,45 +453,9 @@
         "published": "Tue, 18 Aug 2026 12:00:00 +0000",
         "published_dt": "2026-08-18T12:00:00+00:00",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"582\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Eoptic_Blue_Square.png?fit=582%2C582&amp;ssl=1\" width=\"582\" /></figure>\n<p>Rochester, NY \u2013 August 18, 2026\u00a0\u2013\u00a0Eoptic, Inc., a developer of advanced multi-spectral and multi-modal imaging systems, today announced it has been selected as an approved supplier in support of strategic [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/eoptic-inc-selected-to-supply-deepscan-imaging-payloads-scheduled-for-launch-in-2027/\">Eoptic, Inc. Selected to Supply DeepScan\u2122 Imaging Payloads Scheduled for Launch in 2027</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "ed429b02331fcc4a",
-        "title": "AIAA Fellow Marsters Died in August 2026",
-        "url": "https://aerospaceamerica.aiaa.org/aiaa-fellow-marsters-died-in-august-2026/",
-        "source": "Aerospace America",
-        "published": "Mon, 17 Aug 2026 17:17:56 +0000",
-        "published_dt": "2026-08-17T17:17:56+00:00",
-        "summary": ""
-      },
-      {
-        "id": "c990dace02f3ac92",
-        "title": "The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss",
-        "url": "https://spacenews.com/the-77th-international-astronautical-congress-iac-2026-is-the-one-space-event-you-cannot-miss/",
-        "source": "SpaceNews",
-        "published": "Mon, 17 Aug 2026 12:23:27 +0000",
-        "published_dt": "2026-08-17T12:23:27+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"512\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/IAC-Stock-Gorsel-Kaleici-1-1-scaled.jpg?fit=1024%2C512&amp;ssl=1\" width=\"1024\" /></figure>\n<p>For more than 75 years, the International Astronautical Congress (IAC) has been the annual moment when the global space community comes together &#8211; not online, not in separate regional events, [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/the-77th-international-astronautical-congress-iac-2026-is-the-one-space-event-you-cannot-miss/\">The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
-      {
-        "id": "dd3e175b26eaff53",
-        "title": "AI in a Fragmenting World -- by Barry Eichengreen, George Cui, Asmaa A. El-Ganainy, Yevgeniya Koriyenko, Elyad Shojaei, Li Zeng, Shihangyin Zhang",
-        "url": "https://www.nber.org/papers/w35597#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "We link two global trends\u2014AI and geoeconomic fragmentation\u2014asking how fragmentation affects the international diffusion of AI, the magnitude of gains, and their distribution across economies. We ask these questions in general but also with a focus on the MENAP economies. While the effects of AI are potentially far-reaching, the benefits are neither guaranteed nor even. Frontier AI innovation is concentrated in a small number of economies, while countries benefiting through supply-chain participation or AI adoption\u2014with outcomes shaped by their position in global trade and production networks and their AI preparedness. Geoeconomic fragmentation slows AI diffusion and reshapes its distribution by raising trade costs, restricting technology and data flows, fragmenting digital services, and reducing cross-border investment and collaboration. Yet proactive policy choices can turn this dynamic: economies that position themselves as connectors\u2014maintaining trade and technology links across multiple partners\u2014can potentially capture diverted flows and outperform even the no-fragmentation benchmark. For the MENAP economies, diversified links with all major technology hubs can cushion the effects of fragmentation and provide a structural foundation to emerge as net beneficiaries of AI diffusion, but realizing that potential requires reducing AI-related trade costs, improving AI preparedness, and building local AI-related capacity."
-      },
-      {
-        "id": "90e29e41509abba0",
-        "title": "The Global Transition \u2013 The Impact of Demographics and AI on Economic Power -- by Seth G. Benzell, Laurence J. Kotlikoff, Victor Yifan Ye",
-        "url": "https://www.nber.org/papers/w35618#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "This study deploys a multi-region, dynamic life-cycle, general equilibrium model to assess demography\u2019s impact, through the course of this century, on global development. Our model\u2019s 17 regions encompass more than 150 countries comprising 99% of the world\u2019s population. Output is produced with three labor skill groups and internationally-mobile capital, with each country deciding annually whether to adopt its frontier automation technology. Our model features region-specific fiscal policy, TFP growth, and idiosyncratic mortality. Agents live for 100 years, first as children, then as workers, and then as retirees. Work and saving decisions are governed by CES preferences. Lifespan is uncertain, but there are no annuities apart from state pensions. Hence, bequests, while significant, are unintended. Our fertility, mortality, and net immigration rates are region- and age-specific and align fully with the UN\u2019s projections. To illustrate demographics\u2019 power to impact the global transition, we simulate our model under the UN\u2019s markedly different demographic projections for 2017 and 2024. The 2024 forecast is particularly pessimistic about China\u2019s fertility prospects. Both projections produce very substantial global aging, a major global capital glut producing very low long-run real capital returns. The latest forecast entails 10% lower global GDP in 2100 and far higher payroll tax rates to fund old-age benefits. Most important, it entails a major change in the course of economic hegemony with China\u2019s 2100 global GDP share falling from 25.6% to 14.9% and the US share rising from 11.2% to 14.4%. Our results are sensitive. Should the US eliminate all future immigration, its 14.4% global 2100 GDP share would drop to 9.2%. And were global fertility to follow the UN\u2019s low variant, 2100 world output would be one third, not one tenth lower. The level and division of global output is also highly sensitive to the speed at which AI expands frontier technologies. Accelerated AU/AI \u2013 4x faster-than-recent growth in capital\u2019s share through 2050 \u2013 or Transformative AU/AI \u2013 10x faster capital-share growth \u2013 reinforce demographic forces, ensuring long-run US economic hegemony. Indeed, Transformative AI combined with 2024 demographics implies US and Chinese 2100 global GDP shares of 25.3% and 16.9%, respectively. And not withstanding its considerable technological catch up, the US retains, based on our calibration, a technological edge over China throughout the century."
-      },
       {
         "id": "fd333dbe0579c51b",
         "title": "Kevin Warsh\u2019s troublesome inflation in-tray",
@@ -511,85 +493,85 @@
         "summary": "Artificial intelligence is improving fast. Its effect on output, not so much"
       },
       {
-        "id": "3363a59790914371",
-        "title": "Idea Rents and Firm Growth -- by Timo Boppart, Peter J. Klenow, Reiko Laski, Huiyu Li",
-        "url": "https://www.nber.org/papers/w35594#fromrss",
+        "id": "461f8ae14e21a28e",
+        "title": "Political Entrepreneurs -- by Aaron Chatterji, Jorge Guzman, Joyce Ma, Ryan C. McDevitt",
+        "url": "https://www.nber.org/papers/w35637#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "Which firms drive aggregate productivity growth? We document that firms with high price-earnings ratios tend to see increases in their subsequent earnings relative to sales, which we interpret as rents from ideas (innovation). We construct an endogenous growth model with shocks to firm innovation step-sizes and R&amp;D efficiency and calibrate it to match patterns in the data. The model implies that growth would be much lower, even with the same innovative effort, if firms had the same step sizes. The model can be used to infer expected growth contributions of individual firms (such as members of the Magnificent Seven). We find that the share of growth coming from smaller listed firms substantially exceeds their sales share, whereas the largest listed firms account for less than their sales share."
+        "summary": "Firms shape public policy not only from the outside through lobbying and campaign contributions, but also from the inside when business owners hold public office. We study this channel using a novel dataset that links state legislators\u2019 personal financial disclosures to bill sponsorship records across 26 U.S. states from 2009 to 2023. The disclosures allow us to observe business ownership during legislative service and to distinguish entrepreneurs, defined as legislators who both own and actively manage a firm, from passive shareholders and employees. Applying a large language model to bill text, we classify legislation as pro-business and identify a subset of pro-entry bills that reduce barriers facing new firms. Entrepreneurs are a substantial presence in state legislatures, accounting for over 40 percent of legislators, and their representation varies primarily across states rather than within states over time. Although entrepreneurs do not sponsor more bills overall, they initiate a greater share of bills as first or sole primary sponsor. They also do not appear to be generic advocates for business. Relative to legislators with other business ties, entrepreneurs are no more likely to sponsor pro-business bills or bills endorsed by state Chambers of Commerce. Instead, they selectively advance pro-entry legislation, especially bills related to deregulation and innovation rather than antitrust or access to capital. These findings document an important channel through which entrepreneurs shape the policy environment for entrepreneurship from within political institutions."
       },
       {
-        "id": "f8200eb8ab3fe56e",
-        "title": "Dynamic Effects of Trade -- by Benny Kleinman, Ernest Liu, Stephen J. Redding",
-        "url": "https://www.nber.org/papers/w35595#fromrss",
+        "id": "c0473a8b4b93180d",
+        "title": "Local Labor Demand and Achievement Gaps: Evidence from the Great Recession -- by Karla Cordova, Jessamyn Schaller",
+        "url": "https://www.nber.org/papers/w35639#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "The existence of aggregate welfare gains from trade is one of the classic insights from international economics. However, these conventional welfare gains are static, in the sense that they take existing factor supplies and production technologies at a point in time as given. Recent research has highlighted dynamic effects of trade through endogenous factor accumulation and technological innovation over time, although there remains less consensus about the quantitative magnitude of these dynamic effects than about their static counterparts. Key insights from this research are that short-run and long-run responses to trade liberalization differ; capital accumulation amplifies the impact of international trade shocks; trade can facilitate technology adoption and the diffusion of ideas by changing the composition of suppliers; effects on lifetime welfare differ substantially from those on steady-state welfare, once transition dynamics are taken into account; and market failures can either magnify the overall welfare gains from trade or rationalize activist trade and industrial policies."
+        "summary": "We examine how contractions in local labor demand during the Great Recession affected children's academic achievement. We combine county-level test scores for grades 3\u20138 from the Stanford Education Data Archive with a shift-share design that interacts counties' 2005 industry composition with national industry employment growth, isolating demand-driven changes in local employment. Following recent advances in the shift-share literature, we validate the design with balance, pre-trend, and Rotemberg-weight diagnostics and report exposure-robust standard errors throughout. A one-standard-deviation adverse shock lowers mathematics achievement by about 0.03 student-level standard deviations and widens the White\u2013Black and economic-disadvantage achievement gaps in both subjects. Within a common geography, losses concentrate among economically disadvantaged students. English language arts estimates point in the same direction but are harder to separate from the Great Recession's housing bust, and we interpret them as the combined effect of the labor-demand contraction and the associated decline in house prices. The achievement response is concentrated in the recession window. The post-2014 period, identified mainly by the oil-price cycle, yields a precise null, so our estimates measure the response to severe contractions rather than a general business-cycle parameter. School funding did not respond contemporaneously to these shocks, while family income, child poverty, and house prices all did."
       },
       {
-        "id": "4cc367b36f0b9bc5",
-        "title": "Search and Negotiation with Biased Beliefs in Consumer Credit Markets -- by Erik Berwart, Sean K. Higgins, Sheisha Kulkarni, Santiago Truffa",
-        "url": "https://www.nber.org/papers/w35605#fromrss",
+        "id": "41bcf7b48772f632",
+        "title": "Labor Market Power with Worker and Firm Heterogeneity -- by David W. Berger, Kyle F. Herkenhoff, Jaehun Jeong, Simon Mongey",
+        "url": "https://www.nber.org/papers/w35640#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "How do biased beliefs about the interest rate distribution affect search, negotiation, and loan terms in consumer credit markets? In collaboration with Chile's financial regulator, we conducted a randomized controlled trial with 112,063 loan seekers. Randomly eliciting beliefs about interest rates led participants to search more and obtain lower rates. Most participants underestimated both interest rate levels and dispersion. Showing them a price comparison tool we built using administrative data on the universe of consumer loans caused them to update their beliefs, negotiate more, obtain lower rates without searching more, and be more likely to take out a loan."
+        "summary": "How do firms set wages? How should governments set income taxes? If labor supply is inelastic to wages, firms can pay workers less than their marginal products, and governments can increase taxes without eroding the base. However, the structure of labor supply elasticities in the economy is complex. Recent empirics document variation across workers, firms, and margins (which firm to work at versus how many hours to work). To account for this rich structure of labor supply elasticities we extend the neoclassical model to include a discrete choice over which firm to work at, production complementarities and strategic interaction between heterogeneous, granular firms. In terms of wage setting, we find that novel effects of worker heterogeneity account for 78 percent of the variable component of labor supply elasticities and markdowns, and 89 percent of markdown differences between large and small firms. In terms of policy, higher progressivity makes labor supply less elastic, eroding the tax base by widening markdowns and worsening sorting. These channels (i) produce large declines in earnings following increases in marginal tax rates, consistent with empirical studies, and (ii) reduce optimal tax progressivity by one-third and associated welfare gains by two-thirds."
       },
       {
-        "id": "962d476abf6359a3",
-        "title": "Monopsony Makes it Big -- by Sydnee Caldwell, Arindrajit Dube, Suresh Naidu",
-        "url": "https://www.nber.org/papers/w35608#fromrss",
+        "id": "e8ecfd87443e4c3b",
+        "title": "Benchmark Mineability and the Financing of AI Innovation -- by Alex Chan",
+        "url": "https://www.nber.org/papers/w35641#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "The literature on imperfect competition in labor markets has expanded rapidly in recent years. This article provides a guide to the field, focusing on the firm-specific (\"residual\") labor supply elasticity as the definition of a firm's labor market power. We present a general framework showing how this elasticity nests the three widely studied sources of monopsony power: search frictions, preference heterogeneity, and employer concentration. We summarize the empirical estimates of the elasticity of labor supply, highlighting sources of possible heterogeneity. We emphasize that it is difficult to infer elasticities from markdowns (and vice versa) due to the diversity of firm wage-setting practices, illustrating this point using the interaction between monopsony and efficiency wages. We discuss how policy issues in antitrust, labor market regulation, immigration, and macroeconomics interact with monopsony and conclude by listing several areas for future research."
+        "summary": "Public AI benchmarks steer research and allocate investments. They are therefore market designs. Public examples can reveal the process behind a private final test, while a finite public score cannot cover a broad task space inherent to general intelligence. I show how both gaps become profitable when scores move capital and how targeted effort erodes the signal used by later investors. The market design lesson is to separate development from certification: publish practice tasks, but choose the investment-consequential generator after the submitted system's evaluation policy is fixed."
       },
       {
-        "id": "3ec2d0bb040b12ba",
-        "title": "Exchange Rates, Structural Change, and Productivity Growth -- by Paul Bergin, Woo Jin Choi, Ju H. Pyun",
-        "url": "https://www.nber.org/papers/w35609#fromrss",
+        "id": "dbd7a6fd2143c75f",
+        "title": "Monetary-Fiscal Interactions: A Reappraisal -- by George-Marios Angeletos, Chen Lian, Christian K. Wolf, Dalton Rongxuan Zhang",
+        "url": "https://www.nber.org/papers/w35642#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "Macroeconomics tends to view exchange rate movements as transitory. However, persistent exchange rate realignments and the associated capital flows can have long-run implications for structural change and productivity growth. We provide empirical evidence that policies of reserve accumulation and currency undervaluation have had significant effects on manufacturing productivity, as well as on manufacturing share, product varieties, and domestic orientation of production chains. We develop a dynamic two-country model with two sectors, firm dynamics, and trade hysteresis to demonstrate a novel mechanism by which exchange rate policy reorients global supply chains and industrial structure. The model identifies conditions under which such a policy raises productivity and welfare in the home country. It also identifies conditions under which the policy leads to either permanent or reversible deindustrialization in a trading partner. Findings have implications for the long-run relationship between China and the U.S."
+        "summary": "The possibility of fiscal dominance in the representative-agent New Keynesian model (RANK) hinges on the assumption that income is perpetually demand-determined: fiscal deficits can drive output and inflation within that model only insofar as they trigger infinitely lasting, self-sustained shifts in aggregate spending and income. Moving to heterogeneous-agent New Keynesian models (HANK) opens the door to a different pathway: classical non-Ricardian effects, due to finite horizons or liquidity constraints. A refinement motivated by the model's intended focus on short-run phenomena\u2014requiring a return to flexible-price outcomes in finite time\u2014arrests the infinite feedback loop between spending and income, leaving only the classical non-Ricardian mechanism, and makes sure that the study of monetary-fiscal interactions is not centered on hard-to-test assumptions regarding beliefs at infinity."
       },
       {
-        "id": "bc6c72b3898b8d01",
-        "title": "Sticky Wage Norms and the Real Wage Cost of Unexpected Inflation -- by Erik Hurst, Christina Patterson, Nela Thomas Richardson, Ye Liv Wang",
-        "url": "https://www.nber.org/papers/w35624#fromrss",
+        "id": "71c6bc15613742ac",
+        "title": "Survival Analysis with Limited Overlap and Censoring Distribution Shift -- by Meera Krishnamoorthy, Donna Tjandra, Divya Shanmugam, Amanda E. Kowalski, Jenna Wiens",
+        "url": "https://www.nber.org/papers/w35643#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We use a sample of administrative payroll data covering a large and nationally representative share of U.S. workers to study how wages adjusted during the recent inflation period. Most firms apply a single modal annual nominal wage increase to the majority of their workers, and these firm-level norms changed little during the recent period of unexpected inflation. As a result, nominal wages did not keep pace with prices for a large share of workers who stayed at their firms. Forty-three percent of workers continuously employed at the same firm over the four years spanning 2021\u20132024 experienced a real wage decline, with a mean loss of roughly nine percent among those who fell behind. Workers could escape sticky wage norms by changing employers \u2014 job-changers\u2019 wages rose nearly one-for-one with inflation \u2014 but switching was too infrequent to matter for most. Even accounting for job-changers, 37 percent of all workers saw real wages decline over the 4-year period. Indexing firms\u2019 modal raises one-for-one to inflation would have closed roughly 40 percent of the resulting shortfall relative to prepandemic trend. Drawing on cross-country evidence from Belgium, whose wages are automatically indexed to inflation, we show that incomplete wage indexation, rather than inflation itself, helps explain the persistence of depressed consumer sentiment during the 2021\u20132024 period."
+        "summary": "Survival analysis methods are often used to predict the time until the onset of an event in settings when the true time-to-event (TTE) may be censored during training. Such approaches typically assume uncensored data are representative of censored data and that the probability of censoring conditioned on the covariates remains constant over time, i.e., there is no censoring distribution shift. However, both assumptions can fail in practice when censoring results from interventions targeted to individuals with particular comorbidities or genetic markers (such as prophylactic surgery when predicting time to cancer onset, or scheduled cesarean delivery and induction when predicting time to spontaneous labor) and changes in clinical policies alter which individuals are targeted for these interventions over time. To address this, we propose a new approach, cluster-weighted inference of time-to event (CWITE), that remains accurate when these assumptions do not hold. Unlike existing approaches that ignore times-to-censoring (TTC) or treat them only as a lower bound of the TTE, CWITE leverages the insight that a subset of censored individuals are likely censored close to their true TTEs, and uses a novel mechanism to learn from such individuals. On the task of predicting time to spontaneous labor using real-world data, CWITE improves TTE accuracy for individuals similar to censored training data (mean absolute error: 6.50 days, 95% CI: [5.55, 7.40] vs. 7.82 days, [6.82, 8.82]) while maintaining comparable performance for those similar to uncensored training data (6.50 days, [5.54, 7.61] vs. 6.63 days, [5.67,7.69]). Our results demonstrate that incorporating more specific supervision from censored training data can significantly improve TTE predictions in settings with limited overlap and censoring distribution shift, challenges common in real-world clinical data. Code to implement CWITE and reproduce all experiments in the paper is available at https://github.com/MLD3/CWITE."
       },
       {
-        "id": "ba81ec2a69c6c851",
-        "title": "When Public Signals Backfire: Strategic Disclosure and Information Crowd-Out -- by Marty Haoyuan Chen, Ginger Zhe Jin",
-        "url": "https://www.nber.org/papers/w35625#fromrss",
+        "id": "9e4c5c2f74733225",
+        "title": "Stress Testing Cardiac Care Markets through Deregulation -- by Daniel R. Arnold, Michael R. Richards, Yashaswini Singh, Christopher M. Whaley",
+        "url": "https://www.nber.org/papers/w35645#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We study voluntary disclosure when partially naive receivers observe a public signal correlated with the sender\u2019s private information. We develop a framework in which the public signal changes how receivers interpret silence, and derive a closed-form disclosure threshold nesting classical unraveling. A laboratory experiment varying the correlation confirms our predictions: disclosure decreases as the signal becomes more favorable, and receiver guesses upon nondisclosure rise toward it. The public signal can crowd out disclosure, leaving receivers less informed than without it. This informational loss peaks at intermediate correlation, where the signal shifts beliefs yet remains too noisy to substitute for disclosure."
+        "summary": "The diffusion of technological innovation depends on incentives, regulations, and firms\u2019 strategic behaviors. We study these intersections within cardiac procedure markets following Medicare\u2019s expansion of non-hospital facility options for treatment, enabled by clinical advancements. State-level regulations restrain federal pro-competition policy. Where market entry occurs, business stealing is concentrated among the lowest cost treatment settings, rather than high-cost hospitals\u2013\u2013increasing Medicare spending by approximately $2.5 million. Medicare policy also generates externalities for untargeted procedures and other payers, except when hospitals and physicians are vertically integrated. Federal rulemaking interacts with and is mitigated by complex market dynamics\u2013\u2013including in potentially unanticipated ways."
       },
       {
-        "id": "48c05e6a57db8fb6",
-        "title": "Outside Options and Labor Supply: Evidence from the Gig Economy -- by Sydnee Caldwell, Emily Oehlsen",
-        "url": "https://www.nber.org/papers/w35626#fromrss",
+        "id": "2125a4fe17455594",
+        "title": "The Effect of Childcare on Female Labor Supply and Child Development in Low and Middle Income Countries -- by Serena Goldberg, Costas Meghir",
+        "url": "https://www.nber.org/papers/w35649#fromrss",
         "source": "National Bureau of Economic Research Working Papers",
         "published": null,
         "published_dt": null,
-        "summary": "We use randomized pay experiments among Uber drivers, paired with a natural experiment in access to a competitor, to examine how outside options shape labor supply to the firm. When hours are flexible, the firm-specific labor supply elasticity combines a market-hours component and a firm-substitution component. Access to a single competing platform nearly doubles drivers\u2019 firm-specific elasticity and cuts the implied monopsony markdown from 68% to about 50%. The same experiments identify sex differences: women are about twice as elastic to the market as men, yet no less elastic to their employer."
+        "summary": "Childcare services can offer an opportunity for women to develop their careers and increase household income. At the same time, it can affect the development of children, depending on the quality of care. We first develop a collective model of the household as a conceptual framework to show how improving the availability of childcare can affect mothers\u2019 labor market opportunities and earnings and how it can affect child development. We then review the literature on the effects of childcare on the employment and earnings of women and on child development. Childcare can increase mothers\u2019 employment. However, limited work opportunities or strict norms against maternal work can keep mothers out of the labor force. When other family members provide care, childcare can free these caregivers to work or attend school. When studies measure the impact on child development, the results are mixed and depend on both context and quality of provision."
       },
       {
-        "id": "2118cf66810bdcad",
-        "title": "Tariffs, Investment, and the Missing Trade Collapse -- by Francesco Ferrante, Andrea Prestipino, Andrea Raffo, Michael E. Waugh",
-        "url": "https://www.nber.org/papers/w35630#fromrss",
-        "source": "National Bureau of Economic Research Working Papers",
-        "published": null,
-        "published_dt": null,
-        "summary": "U.S. tariff rates in 2025 rose to levels not seen since the Great Depression, yet imports increased. To account for the missing trade collapse, we develop an open-economy New Keynesian model with tariff heterogeneity, inventories, and shocks to investment that capture the AI-driven boom. The model matches the untargeted paths of imports, output, and inflation; we use it to decompose the effects of tariffs and the investment boom. Absent the investment boom, imports would have fallen by 10 percent and activity would have contracted by 0.7 percent. The effects of tariffs depend on which goods are tariffed: tariffs on consumption and intermediates act like shocks to supply; tariffs on capital goods act like shocks to demand. The concentration of the 2025 tariff increases on consumption goods and the relative sparing of capital goods limited the damage to output while amplifying the inflationary impulse."
+        "id": "247a70f2c4ee67d6",
+        "title": "Is Scott Bessent the Fed chair Donald Trump always wanted?",
+        "url": "https://www.economist.com/finance-and-economics/2026/08/23/is-scott-bessent-the-fed-chair-donald-trump-always-wanted",
+        "source": "Finance & economics",
+        "published": "Sun, 23 Aug 2026 13:38:58 +0000",
+        "published_dt": "2026-08-23T13:38:58+00:00",
+        "summary": "Perhaps. But his effort to talk bond yields lower is likely to fail"
       },
       {
         "id": "7bd02fb17987803e",
@@ -680,9 +662,36 @@
         "published": "Sun, 26 Jul 2026 14:06:48 +0000",
         "published_dt": "2026-07-26T14:06:48+00:00",
         "summary": "The bombing may have paused, but energy supplies are precarious"
+      },
+      {
+        "id": "e61da77ccdab27f1",
+        "title": "The world\u2019s balance-sheet is out of kilter with its economy",
+        "url": "https://www.economist.com/finance-and-economics/2026/07/23/the-worlds-balance-sheet-is-out-of-kilter-with-its-economy",
+        "source": "Finance & economics",
+        "published": "Thu, 23 Jul 2026 09:42:17 +0000",
+        "published_dt": "2026-07-23T09:42:17+00:00",
+        "summary": "Restoring balance could be painful"
+      },
+      {
+        "id": "9099beda02a90cef",
+        "title": "Can China dominate AI exports, too?",
+        "url": "https://www.economist.com/finance-and-economics/2026/07/23/can-china-dominate-ai-exports-too",
+        "source": "Finance & economics",
+        "published": "Thu, 23 Jul 2026 09:03:47 +0000",
+        "published_dt": "2026-07-23T09:03:47+00:00",
+        "summary": "Robotaxis offer an early test case"
       }
     ],
     "Cross-Disciplinary": [
+      {
+        "id": "6ffef6390e8d974f",
+        "title": "The Download: kids outlearning AI, and space travel agents",
+        "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 24 Aug 2026 12:10:00 +0000",
+        "published_dt": "2026-08-24T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids outlearn AI\u2014and we still don\u2019t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times&#8230;"
+      },
       {
         "id": "1e200f541613e55f",
         "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
@@ -711,6 +720,15 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-painting-with-overlapping-concentric-shapes-in-blue-and-yellow.jpg?id=67163886&amp;width=1245&amp;height=700&amp;coordinates=0%2C62%2C0%2C63\" /><br /><br /><p>Artificial intelligence is rapidly becoming part of everyday infrastructure\u2013in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being integrated into education, health care, finance, and public administration. Industry leaders talk about \u201cAI for everyone,\u201d while governments rush to publish national AI strategies and build sovereign compute.</p><p>Yet over the past decade, working on digital inclusion and digital literacy projects in regions from Europe to sub-Saharan Africa and Southeast Asia, <a href=\"https://link.springer.com/book/10.1007/978-3-031-30808-6\" rel=\"noopener noreferrer\" target=\"_blank\">I\u2019ve seen the same pattern repeat</a>: Each new wave of \u201ctransformative\u201d technology lands on a landscape already stratified by connectivity, skills, and institutional capacity. The current AI wave is no exception. If anything, it amplifies those underlying fractures.</p><p>Still, some countries are exploring ways of participating in AI development without directly replicating the frontier-model race dominated by the United States and China. Recent developments in South Africa and Indonesia illustrate both the possibilities and challenges. The stakes extend far beyond access to AI. Countries that remain primarily consumers rather than creators of AI risk losing opportunities to build local innovation ecosystems, strengthen public-sector capacity, and ensure that their own languages, cultures, and societal priorities are reflected in AI systems. In this sense, the AI divide is also becoming a divide in economic opportunity and technological influence.</p><h2>AI compute is clustering in a few places</h2><p>Recent analyses from Stanford University\u2019s 2026 <a href=\"https://hai.stanford.edu/ai-index/2026-ai-index-report\" rel=\"noopener noreferrer\" target=\"_blank\">AI Index report</a> that the United States alone hosts more than 5,000 data centers, over 10 times as many as any other single country. Because AI workloads are increasingly performed on cloud platforms rather than local infrastructure, this concentration of compute also becomes a concentration of dependency. According to <a href=\"https://www.worldbank.org/en/publication/dptr2025-ai-foundations\" rel=\"noopener noreferrer\" target=\"_blank\">World Bank data</a>, in 2023 the United States accounted for roughly 87 percent of global exports of cloud computing and data-storage services.</p><p>For most countries, this means that <a href=\"https://spectrum.ieee.org/europe-tech-sovereignty-package\" target=\"_self\">AI development is not just technologically but commercially and geopolitically outsourced</a> and out of their control. The result is an AI ecosystem where a small number of states and firms host the computational engines that power globally deployed systems.</p><p>Systems trained, standardized, and governed within a narrow set of institutional and linguistic environments may struggle to serve a genuinely global public.</p><h2>Skills and AI literacy are deeply stratified</h2><p>Even where connectivity and cloud access exist, not everyone is equally positioned to make use of them. Across the Organisation for Economic Co-operation and Development (OECD) countries, only around <a href=\"https://www.oecd.org/en/publications/bridging-the-ai-skills-gap_66d0702e-en.html\" rel=\"noopener noreferrer\" target=\"_blank\">40 percent of adults possess more than basic digital problem-solving skills</a>, while advanced computational and AI-related competences remain concentrated among highly educated workers and technology-intensive sectors.</p><p>At the same time, governments are racing to integrate AI into education, often starting at higher levels of schooling. UNESCO <a href=\"https://www.unesco.org/ethics-ai/en/node/367\" rel=\"noopener noreferrer\" target=\"_blank\">has reported</a> growing efforts worldwide to integrate AI into education, while support for AI literacy in primary and lower secondary education, as well as ethical training for educators, remains uneven. </p><p>Those with robust schooling, advanced digital skills, and stable connectivity are best positioned to treat AI as a tool to extend their capabilities. <a href=\"https://www.oecd.org/en/publications/how-do-people-experience-new-technologies-and-generative-ai_49b8d10e-en/full-report.html\" rel=\"noopener noreferrer\" target=\"_blank\">Recent OECD survey data</a> show that participation in AI-related training remains strongly stratified by educational attainment: 36 percent of respondents with tertiary education reported undertaking AI-related training in the previous year, compared with just 18 percent of those with upper-secondary education. Those on the wrong side of the divide are more likely to experience AI as an opaque system acting upon them, from algorithmic welfare systems such as the <a href=\"https://www.theguardian.com/technology/2020/feb/05/welfare-surveillance-system-violates-human-rights-dutch-court-rules\" rel=\"noopener noreferrer\" target=\"_blank\">Dutch childcare benefits scandal</a> to AI-assisted hiring tools such as <a href=\"https://www.reuters.com/article/world/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon\u2019s discontinued AI recruiting system</a>, rather than as a technology they can actively interrogate or shape.</p><h2>Investment and governance: Who gets a seat at the table?</h2><p>The core agenda-setting power often remains with a narrow set of industry actors and a small group of technologically advanced states. Most other countries remain in a perpetual catch-up posture, adapting imported models, standards, and templates for \u201ctrustworthy AI\u201d to their own contexts, and may have limited local capacity to assess trade-offs or propose alternatives. </p><p>In countries such as Indonesia and South Africa, communities generate data at massive scale yet still have little voice in how AI systems are designed, governed, or deployed. Their <a href=\"https://spectrum.ieee.org/indigenous-ai-voice-models-maori\" target=\"_self\">languages are underrepresented in training data</a>; their institutions are under-resourced in regulatory forums; their experiences rarely feature in benchmark datasets. For many countries in the global South, participation in AI still occurs largely through adapting imported systems rather than shaping how those systems are designed, governed, or deployed. </p><p>In South Africa, the Department of Communications and Digital Technologies released a <a href=\"https://www.techpolicy.press/south-africa-has-ai-leverage-its-draft-policy-leaves-it-unused/\" rel=\"noopener noreferrer\" target=\"_blank\">draft national AI policy</a> in April 2026, proposing new oversight institutions. The department withdrew the draft days later after a journalist discovered that at least six of its academic citations did not exist, apparently AI-generated hallucinations. The minister called it <a href=\"https://www.reuters.com/world/africa/south-africa-withdraws-ai-policy-due-fake-ai-generated-sources-2026-04-27/\" rel=\"noopener noreferrer\" target=\"_blank\">\u201can unacceptable lapse.</a>\u201c The episode sharply illustrates the gap between AI governance ambition and the institutional capacity needed to implement it, though the new AI panel the country has since constituted has a chance to use <a href=\"https://spectrum.ieee.org/south-africa-ai-policy\" target=\"_self\">South Africa\u2019s unique leverage</a>.</p><p>Indonesia presents a case of deliberate, if constrained, public-sector agency. The National Research and Innovation Agency (BRIN) which now leads AI implementation under the national strategy, has built <a href=\"https://restofworld.org/2024/indonesia-ai-tools-brin-government-agency/\" rel=\"noopener noreferrer\" target=\"_blank\">practical AI tools aimed at underserved communities</a> rather than frontier capabilities, including an app that uses satellite data and machine learning to help artisanal fishermen locate schools of fish, multilingual language models trained on Indonesian and local languages such as Javanese and Sundanese, and <a href=\"https://www.lightreading.com/ai-machine-learning/indonesia-s-upgraded-sahabat-ai-features-a-multilingual-chat-service\" rel=\"noopener noreferrer\" target=\"_blank\">AI chatbots deployed in government services.</a> In August 2025, the Ministry of Communication and Digital Affairs released <a href=\"https://govinsider.asia/intl-en/article/indonesia-unveils-national-ai-roadmap\" rel=\"noopener noreferrer\" target=\"_blank\">a national AI road map</a> with a target of training 100,000 AI-skilled workers annually. </p><p>The choice is not simply between \u201cAI superpower\u201d and \u201cpassive recipient.\u201d </p><p>Regional cooperation may also become increasingly important. In 2024 African ministers adopted a Continental AI Strategy and African Digital Compact. Participants in the April 2025 <a href=\"https://dsup.substack.com/p/dsfsi-at-the-global-ai-summit-on\" rel=\"noopener noreferrer\" target=\"_blank\">Global AI Summit on Africa in Kigali</a> explored how regional coordination, <a href=\"https://www.news.uct.ac.za/news/audio/-article/2026-05-04-uct-researchers-develop-ai-model-for-11-south-african-languages\" rel=\"noopener noreferrer\" target=\"_blank\">local-language AI models</a>, public universities, and <a href=\"https://scienceforafrica.foundation/media-center/open-research-proposals-adopted-east-africas-ai-declaration\" rel=\"noopener noreferrer\" target=\"_blank\">open-source ecosystems</a> might <a href=\"https://carnegieendowment.org/posts/2025/09/understanding-africas-ai-governance-landscape-insights-from-policy-practice-and-dialogue\" rel=\"noopener noreferrer\" target=\"_blank\">reduce long-term dependence on externally developed AI systems</a>.</p><h2>A different way to think about the AI divide</h2><p>None of this means that people should slow or abandon AI, nor that cloud concentration or venture capital are inherently bad. Instead, when we talk about an \u201cAI revolution,\u201d we should also ask who can shape it and who can merely adapt to it.</p><p>Digital-divide debates once focused on devices and connectivity, later expanding toward skills and outcomes. But the current AI wave adds another layer: disparities in who can meaningfully participate in deciding what AI is for, which problems it is meant to solve, and which social priorities it ultimately serves.</p><p>For engineers and policymakers, this raises difficult but necessary questions. Are they designing AI systems and infrastructures that broaden, rather than narrow, participation in shaping technological change? When governments roll out national AI strategies or integrate AI into public services, whose constraints, languages, and institutional realities are they including?</p><p>Many observers frame the current AI moment as <a href=\"https://spectrum.ieee.org/state-of-ai-index-2026\" target=\"_self\">a competition</a>. But technological competition is never only about speed. It is also about who can influence the direction of change.</p><p>AI is already spreading globally. The deeper question is whether the technologists and policymakers responsible for it will ensure that meaningful participation in shaping that future will spread as well.</p>"
       },
       {
+        "id": "b46758bfc2544822",
+        "title": "Kids outlearn AI\u2014and we still don\u2019t know why",
+        "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 24 Aug 2026 09:00:00 +0000",
+        "published_dt": "2026-08-24T09:00:00+00:00",
+        "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&#8230;"
+      },
+      {
         "id": "04ae4582d770cfa7",
         "title": "Debates over AI consciousness are a trap",
         "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
@@ -736,6 +754,15 @@
         "published": "Tue, 11 Aug 2026 19:50:54 +0000",
         "published_dt": "2026-08-11T19:50:54+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-middle-aged-white-woman-receiving-a-gift-of-a-folded-white-cloth-from-a-younger-asian-woman.jpg?id=67605013&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p>In collaboration with the <a href=\"https://en.wikipedia.org/wiki/Bhutan\" rel=\"noopener noreferrer\" target=\"_blank\">Kingdom of Bhutan</a> government, IEEE recently introduced its Engineering Education, Research, and Innovation Summit.</p><p>Held on 9 and 10 June in Paro, in the eastern Himalayas, the event was designed to help Bhutan navigate its digital transformation by focusing on the critical intersection of digital transformation, engineering education, and sustainable development.</p><p>The summit brought together global academic leaders, technology experts, and Bhutanese government officials to discuss how modern engineering curricula can evolve from theory-centric models into application- and skills-based frameworks. Discussions focused on how to build high-value research capabilities in the country, integrate <a href=\"https://spectrum.ieee.org/ieee-online-mini-ai-mba\" target=\"_self\">artificial intelligence into higher education</a>, and address foundational infrastructure challenges to ensure equitable, nationwide digital readiness.</p><p>\u201cIEEE is proud to collaborate as a catalyst for progress in higher education as AI shifts the technology landscape and Bhutan prepares for its next era of innovation and resilience,\u201d <a href=\"https://spectrum.ieee.org/u/maryellen-randall\" target=\"_self\">Mary Ellen Randall</a>, 2026 IEEE president and CEO, said at the event. \u201cOur goal is to support local universities and students as they develop trusted, future-ready technology that honors the nation\u2019s commitment to sustainability and human well-being.\u201d</p><p>The event featured an address by Bhutanese <a href=\"https://www.bhutanwiki.org/articles/princess-chimi-yangzom-wangchuck\" rel=\"noopener noreferrer\" target=\"_blank\">Princess Chimi Yangzom Wangchuck</a>, who emphasized the importance of aligning technological innovation with the nation\u2019s philosophy of <a href=\"https://ophi.org.uk/gross-national-happiness\" rel=\"noopener noreferrer\" target=\"_blank\">gross national happiness</a> (GNH), which prioritizes well-being, sustainability, and ethics.</p><p>\u201cThe question before us is not whether technology will shape the future; it certainly will,\u201d the princess said. \u201cThe more pressing question is whether we can shape technology according to our values.\u201d </p><h2>A blueprint for Bhutan\u2019s future</h2><p>The summit helped establish a collaborative blueprint for a high-value knowledge economy in Bhutan through several key focus areas: </p><ul><li><strong>Workforce readiness:</strong> designing industry-driven curriculum modernization and cocreating skills programs to equip graduates with practical, technical competencies.</li><li><strong>AI and research infrastructure:</strong> strengthening open science, trusted regional datasets, and global citation impact to prepare universities for AI-enabled learning environments.</li><li><strong>Values-driven innovation:</strong> merging GNH principles with technological advancement and helping ensure new engineering practices support climate-resilient infrastructure and green innovation.</li><li><strong>Institutional connectivity:</strong> using <a href=\"https://spectrum.ieee.org/ieee-connect-the-unconnected\" target=\"_self\">digital transformation</a> to bridge technical capability gaps between urban and rural institutions; linking classrooms to a global research network.</li><li><strong>Promoting sustainability:</strong> convening stakeholders to exchange ideas on <a href=\"https://spectrum.ieee.org/topic/climate-tech/\" target=\"_self\">green innovation</a>, climate-resilient infrastructure, and engineering education.</li></ul><h2>Expanding digital access</h2><p>To help promote the effort, IEEE offered Bhutanese universities, government institutions, and industries a six-month complimentary trial of two key technical resources: </p><ul><li><a href=\"https://innovate.ieee.org/ieee-electronic-library-iel/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>IEEE Electronic Library.</strong></a><strong> </strong>Delivered via the <a href=\"https://ieeexplore.ieee.org/Xplore/home.jsp\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE<em> </em>Xplore Digital Library</a>, the IEL gives users access to more than 7 million documents\u2014including trusted IEEE journals, conference proceedings, <a href=\"https://spectrum.ieee.org/medical-mobile-app-ieee-verified\" target=\"_self\">standards</a>, and technical papers\u2014to enhance research, teaching, and technology development.</li><li><a href=\"https://innovate.ieee.org/ieee-elearning-library/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>IEEE eLearning Library.</strong></a><strong> </strong>This platform offers online courses developed by experts in engineering, computing, and technology, supporting flexible learning across core and <a href=\"https://spectrum.ieee.org/large-language-models-ieee-course\" target=\"_self\">emerging technical fields</a> for professionals, faculty and students.</li></ul>"
+      },
+      {
+        "id": "ba6efda6810b5c55",
+        "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
+        "url": "https://spectrum.ieee.org/ieee-senior-member-ai-ecommerce",
+        "source": "IEEE Spectrum",
+        "published": "Fri, 21 Aug 2026 18:00:01 +0000",
+        "published_dt": "2026-08-21T18:00:01+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-professionally-dressed-indian-man-smiling-with-a-trophy-in-one-hand-and-an-award-certificate-in-the-other.jpg?id=67657769&amp;width=1245&amp;height=700&amp;coordinates=0%2C187%2C0%2C188\" /><br /><br /><p><a href=\"https://balajiingole.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Balaji Ingole</a> rarely saw televisions while growing up in Udgir, India. No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathered there to watch shows together.</p><p>Ingole never even saw a computer growing up. It wasn\u2019t until he reached middle school that he encountered a computer lab, an experience he says changed his life. Almost immediately, he says, the machine felt like a window into a different scale of possibility for him.</p><h3>Balaji Ingole</h3><br /><p><strong>Employer </strong></p><p><strong></strong>Amla Commerce in Milwaukee</p><p><strong>Title </strong></p><p><strong></strong>Project manager</p><p><strong>Member grade</strong> </p><p>Senior member</p><p><strong>Alma maters </strong></p><p><strong></strong>COEP Technological University and Welingkar Institute of Management, both in India</p><p>\u201cI was very studious and not very social, always reading or solving problems in a math textbook,\u201d he says. \u201cAt the computer lab, I began learning the <a href=\"https://www.c-language.org/\" rel=\"noopener noreferrer\" target=\"_blank\">C programming language</a>\u2014which was like discovering a whole new world. I was fascinated that you could create something with just a few lines of code.\u201d</p><p>His early interest grew into a self-directed education. Outside of Ingole\u2019s formal classwork, he taught himself to build database-backed applications, wire up hardware, write software, and trace error logs.</p><p>Today the IEEE senior member similarly splits his time. During the week, he\u2019s a project manager in Milwaukee at B2B e-commerce company <a href=\"https://www.amla.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Amla</a>, leading AI-driven digital transformation initiatives to help the company\u2019s clients boost their sales. On weekends, he leads a similarly demanding life as an independent researcher. His current projects include developing AI-enabled health care diagnostic tools and assistive technologies to support people with physical disabilities.</p><p>\u201cI believe in \u2018learn by doing,\u2019\u201d he says. \u201cI really like to test my knowledge and prototype ideas to find out if they truly work.\u201d</p><h2>A college project becomes an inspiration</h2><p>Ingole\u2019s tendency to go beyond his coursework continued after he graduated high school in 2004. As a mechanical engineering undergraduate at <a href=\"https://www.coeptech.ac.in/\" rel=\"noopener noreferrer\" target=\"_blank\">The College of Engineering, Pune (now COEP Technological University)</a>, in India, he participated in several extracurricular activities. One was interviewing entrepreneurs and writing about them for <em><em>The COEP College Magazine</em></em>. The experience helped him gain confidence, he says, giving him the push he needed to pursue interviews for the publication with two Indian entrepreneurs he admired: <a href=\"https://www.infosys.com/about/management-profiles/narayana-murthy.html\" rel=\"noopener noreferrer\" target=\"_blank\">N.R. Narayana Murthy</a>, cofounder of IT giant <a href=\"https://www.infosys.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Infosys</a>; and his wife, philanthropist <a href=\"https://sudhamurty.in/\" rel=\"noopener noreferrer\" target=\"_blank\">Sudha Murty</a>. The Murtys cofounded the <a href=\"https://www.infosys.org/infosys-foundation.html\" rel=\"noopener noreferrer\" target=\"_blank\">Infosys Foundation</a>, a nonprofit that runs educational, health care, women\u2019s empowerment, and sustainability <a href=\"https://www.infosys.org/infosys-foundation/initiatives.html\" rel=\"noopener noreferrer\" target=\"_blank\">programs</a> in underserved areas of India.</p><p>\u201cEvery week I would fax them: \u2018Please give me an interview time,\u2019\u201d Ingole says. Eventually, Sudha Murty\u2019s office offered him a phone interview, but he requested to meet her in person at Infosys\u2019s Bengaluru offices. She agreed, but the offices were 940 kilometers from Pune, and he didn\u2019t have the money to travel or stay overnight in a hotel.</p><p>Ingole and a classmate borrowed money from friends and traveled through the night on multiple buses and trains to get to Bengaluru. They freshened up in a public bathroom before heading to the Infosys campus to meet Murty.</p><p>Impressed by their persistence, she surprised them by also arranging a brief chat with Narayana Murthy.</p><p>\u201cNarayana Murthy handwrote a personal message to the engineering students of [my college]\u2014which we proudly published in our college magazine,\u201d Ingole says. \u201cIn his note, Murthy shared that we are at an extraordinary moment in India\u2019s history and that the future looks even brighter. His words encouraged us to work hard and make the most of this time.</p><p>\u201cI still have that note,\u201d Ingole says. \u201cThey are billionaires, and I was just a regular student. The fact that they took the time to do this really motivated me.\u201d</p><p>During the final semester of his engineering studies, Ingole joined the <a href=\"https://in.linkedin.com/company/tata-research-development-and-design-centre-trddc\" rel=\"noopener noreferrer\" target=\"_blank\">Tata Research Design and Development Center</a> in Pune for a six-month internship. After earning his bachelor\u2019s degree in mechanical engineering in 2008, he became a graduate engineering trainee at <a href=\"https://automation.honeywell.com/us/en\" rel=\"noopener noreferrer\" target=\"_blank\">Honeywell Automation</a> in Pune.</p><p>He left the company in 2009, and during the next 13 years, he held different software engineering and project management positions at IT companies across India.</p><p>He earned a master\u2019s degree in business administration from the <a href=\"https://www.welingkar.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Welingkar Institute of Management, Mumbai,</a> in 2017.</p><p>In 2022 he accepted a project-manager role at <a href=\"https://marssg.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Mars IT Solutions in Madison, Wisc.</a> The following year, he left to join <a href=\"https://www.gainwelltechnologies.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Gainwell Technologies</a>, also in Madison, as a senior project manager. At Gainwell, he managed projects for the core IT systems multiple U.S. state health departments use to administer <a href=\"https://www.medicaid.gov/\" rel=\"noopener noreferrer\" target=\"_blank\">Medicaid</a> benefits, manage provider enrollment, and verify member eligibility. The experience managing projects that directly enabled patients\u2019 access to health care gave Ingole a special appreciation for and interest in this area, he says.</p><p>\u201cHealth care data is not like other data,\u201d he says. \u201cThe stakes are high, compliance requirements are different, and the margin for error is effectively zero.\u201d</p><p>Ingole says he enjoyed the rigor of data governance combined with the potential to positively impact lives, and that also applies to his current work at Amla.</p><h2>Agentic AI in e-commerce</h2><p>Ingole joined Amla in July 2025. He helps manufacturers and B2B customers modernize their <a href=\"https://spectrum.ieee.org/who-invented-ecommerce\" target=\"_blank\">e-commerce</a> operations. He also builds AI tools for them and for his internal team.</p><p>For Amla\u2019s customers, he\u2019s developing AI-enabled chatbots that help manufacturers set up and manage large product catalogs in e\u2011commerce platforms. Such product setup traditionally has been a manual, tedious, error-prone process: Companies upload thousands of products, adjust item names, enter prices, update images, and more.</p><p>\u201cProduct setup has been one of the most painful processes in e-commerce, and it can take [our] customers two to three months to complete,\u201d Ingole says. \u201cWe\u2019re creating an AI agent that will guide them, step-by-step, to get everything set up in two weeks.\u201d</p><p>Ingole relies on AI agents for some of his own tasks at Amla. Project managers historically have spent 10 to 12 hours each week assembling and sending status reports to stakeholders. Ingole built an AI agent to handle much of the work.</p><p>\u201cIt runs every Monday morning and reads through my emails to extract highlights, risks, timelines, and upcoming releases, then sends me a written status report,\u201d Ingole says. The process might sound simple, but the agent\u2019s workflow involves at least a dozen steps including defining parameters, managing temporary files, and integrating with existing tools.</p><p>With the information-gathering work handled, it frees up Ingole and his colleagues to spend more time on deeper-thinking work, he says.</p><h2>Publishing as idea refinery</h2><p>For nearly a decade, Ingole has spent some of his free time conducting independent research projects in data analytics and AI-enabled applications in health care. He has written <a href=\"https://ieeexplore.ieee.org/author/790405442038687\" rel=\"noopener noreferrer\" target=\"_blank\">more than 40 peer-reviewed papers</a>, which are in the <a href=\"https://spectrum.ieee.org/free-access-to-thousands-of-covid19-research-documents\" target=\"_self\">IEEE Xplore Digital Library</a>. He has been granted six patents in the United Kingdom and India. In the U.K., he is a registered coinventor of an AI-powered, cloud-connected <a href=\"https://www.researchgate.net/publication/388234716_AI-POWERED_CLOUD-CONNECTED_WEARABLE_DEVICE_FOR_PERSONALIZED_HEALTH_MONITORING\" rel=\"noopener noreferrer\" target=\"_blank\">wearable device for health monitoring</a> and an <a href=\"https://www.researchgate.net/publication/389874948_AI-BASED_BREAST_CANCER_DETECTION_DEVICE\" rel=\"noopener noreferrer\" target=\"_blank\">AI-based breast cancer detection tool</a>.</p><p>Ingole\u2019s patent for the breast cancer detector, he says, reflects his belief that when engineers apply data and AI correctly, they can help doctors diagnose patients more quickly and accurately.</p><p>That, he says, is both a power and a responsibility.</p><p>He is part of a team helping patients who are paralyzed and nonverbal control items in their environment. His goal, he says, is to develop a brain-computer interface to let patients turn on a fan, switch off a television, and complete similar tasks.</p><p>Publishing research requires both academic rigor and peer scrutiny, and Ingole says the function has been critical to improving as both a project manager and a researcher-inventor.</p><p>\u201cLots of research ideas never make it to paper,\u201d he notes. \u201cBut when you write for journals or conferences, you\u2019re bombarded with questions from Ph.D.s and experienced researchers. This forces me to refine my methodology, and to combine use cases and technical architecture in a way that stands up to expert review.\u201d</p><h2>Finding a professional hub</h2><p>Ingole joined IEEE in 2022, and he says the affiliation has become central to both his research and his professional identity.</p><p>\u201cI use the <a href=\"https://cis.ieee.org/activities/membership-activities/ieee-member-directory\" rel=\"noopener noreferrer\" target=\"_blank\">Member Directory</a> often and contact engineers through my IEEE email address, which gives me credibility because they know it\u2019s a genuine research connection,\u201d he says.</p><p>The organization has given him a platform to contribute to the research space beyond his own papers, he says. He has served as a conference session chair, keynote speaker, technical program committee member, and peer research reviewer for various conferences and events. His IEEE membership, he says, has opened doors to other communities, helping support his entry into the <a href=\"https://www.bcs.org/\" rel=\"noopener noreferrer\" target=\"_blank\">British Computer Society</a>, which has stringent acceptance criteria.</p><p>Those opportunities have helped him build a global network of collaborators with whom to discuss upcoming research, seek advice, and share data, he says.</p><p>\u201cIEEE is important for me to continue as an independent researcher,\u201d he says. \u201cIt lets me contribute to the community, and I get a lot in return.\u201d</p>"
       },
       {
         "id": "7a16c56d2923b12b",
@@ -783,13 +810,13 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/smiling-students-sit-together-at-a-classroom-table-talking-and-working-on-devices.jpg?id=67546488&amp;width=1245&amp;height=700&amp;coordinates=0%2C156%2C0%2C157\" /><br /><br /><p>In shaping her career, Peru native <a href=\"https://pe.linkedin.com/in/mariana-costa-checa-85876231\" rel=\"noopener noreferrer\" target=\"_blank\">Mariana Costa</a> has asked herself a question: What can I do to make life better for women in Latin America?</p><p>The answer she landed on was training them for tech jobs.</p><h3>Mariana Costa</h3><br /><p><strong>Employer</strong> </p><p>Laboratoria</p><p><strong>Title</strong> </p><p>Co-founder and president</p><p><strong>Alma Maters</strong> </p><p>London School of Economics; Columbia </p><p>Such positions pay well and are in demand. And for too long, women across the region have been locked out of them, she says.</p><p>Costa is president of <a href=\"https://laboratoria.la/en\" rel=\"noopener noreferrer\" target=\"_blank\">Laboratoria</a>, a U.S.-registered nonprofit based in Miami that she helped found. Laboratoria has trained thousands of women in 11 Latin American countries for technology careers. She has built training centers in the countries and has placed graduates at major companies. Meanwhile, she has become one of the most recognized voices in the region on workforce equity and tech education for women.</p><p>IEEE recognized her work with its <a href=\"https://corporate-awards.ieee.org/recipient/mariana-costa/\" rel=\"noopener noreferrer\" target=\"_blank\">President\u2019s Award</a> this year for her \u201cdistinguished leadership and contributions to the betterment of society.\u201d Recipients of the award are selected by the IEEE president with the consent of the IEEE Board of Directors.</p><p>Costa says the recognition came as a surprise because she is not an engineer by training and had never considered becoming affiliated with IEEE.</p><p>She was presented with the award at the <a href=\"https://spectrum.ieee.org/ieee-celebrates-honors-ceremony-2026\" target=\"_self\">IEEE Honors Ceremony</a> on 24 April in New York City.</p><h2>Peru: a country of contrasts</h2><p>Costa grew up in Lima, Peru\u2019s capital, in a household with no connection to engineering or technology. Her mother was an art historian and professor, and her father was a lawyer. The family was financially comfortable and traveled abroad regularly. Costa attended well-resourced schools.</p><p>That economic stability came with a reckoning, Costa says, in that she recognized early on that economic inequality had created separate societies inside Peru. Her parents, she says, made it \u201cclear that my reality wasn\u2019t the reality of most people in my country.\u201d</p><p>Lima is a microcosm of the country, she says. The divide in the capital city is visible: A kilometers-long concrete wall topped with barbed wire separates wealthier neighborhoods from shantytowns, where residents lack running water.</p><p>Nationally, there are splits along ethnic and geographic lines. The highland and jungle regions remain home to mostly indigenous communities with limited educational access and a deep cultural distance from the Hispanic-dominated coast.</p><p>The questions that stirred in her as a child never left, she says.</p><p>\u201cWhy do I live in a country where so much depends on where you\u2019re born?\u201d she asked herself. \u201cWhat does it mean to be Peruvian when individual realities are strikingly different?\u201d</p><p>Those questions followed her to the <a href=\"https://www.getsmarter.com/products/universities/the-london-school-of-economics-and-political-science?gclsrc=aw.ds&amp;&amp;&amp;ef_id=c:524987838476_d:c_n:g_ti:kwd-296547014814_p:_k:london%20school%20of%20economics_m:e_a:126288917990&amp;gad_source=1&amp;gad_campaignid=13137345744&amp;gbraid=0AAAAADmgJP19b7OXwoaGcfVpuFd-lIRKm&amp;gclid=Cj0KCQjwxvjRBhC2ARIsAI7KJa1xYb8TIS-QU7rdGmN50DDgNyqnsm5Wl90XqKbKb6XQBMVqjSLys0kaApqeEALw_wcB\" rel=\"noopener noreferrer\" target=\"_blank\">London School of Economics</a>, where she studied international relations, graduating with a bachelor\u2019s degree in 2007. She held onto the questions when she moved to Washington, D.C., where she spent the next four years working for the <a href=\"https://www.oas.org/en/\" rel=\"noopener noreferrer\" target=\"_blank\">Organization of American States</a>, helping Latin American governments improve public services that fall under the heading of civil registration.</p><p class=\"pull-quote\">\u201cI said, \u2018How can it be? The tech space has so many rich opportunities. Why aren\u2019t any women here?\u2019\u201d</p><p>The OAS <a href=\"https://www.oas.org/ext/en/democracy/PUICA\" target=\"_blank\">Universal Civil Identity Program in the Americas</a> provides technical support to national civil registry institutions, modernizing them to foster social inclusion and ensuring the right to civil identity for all people. Without civil identity, a person can\u2019t access education, health care, legal employment, social services, or the right to vote. People without the classification don\u2019t exist in the eyes of the government. They also can\u2019t own property, get married officially, or pass citizenship rights to their children.</p><p>Doing that work deepened her concern about the socioeconomic disparities in her homeland, she says. In search of practical solutions to those problems, she went to New York City in 2011 to further her education. She earned a master\u2019s degree in public administration and development from <a href=\"https://www.columbia.edu/\" target=\"_blank\">Columbia</a> in 2013.</p><p>Technology was not yet part of a solution. But Costa already had met someone who would change that.</p><h2>Falling in love with a programmer</h2><p>While working in Washington, Costa met <a href=\"https://www.wearefamilyfoundation.org/mentors-2020/herman-marin\" target=\"_blank\">Herman Mar\u00ecn</a>, a software engineer who used digital tools in support of social causes. Because he was doing work she had never associated with programmers before, her assumptions about the field dissolved quickly.</p><p>\u201cI had a vision of [programmers doing] something not very social\u2014strictly technical,\u201d she says. \u201cAnd my then-boyfriend, now husband, actually worked for different social movements that used technology to address social causes.\u201d</p><p>That realization cracked something open, she says: \u201cI said, \u2018Oh! Technology can actually be a tool to address some of the more stubborn problems in our societies.\u2019\u201d</p><p>After earning her degree at Columbia, Costa returned to Lima with her husband. She had been abroad for nearly a decade and felt the pull of home.</p><p>\u201cThe thought of not moving back to my country was something that tormented me a bit,\u201d she says. \u201cI really felt I had to move back, at least to try it out and contribute somehow.\u201d</p><h2>What Latin America\u2019s tech space lacked</h2><p>When Costa, her husband, and a friend from graduate school moved to Lima, they had modest savings and big ambitions. They wanted to build something that combined technology with social impact.</p><p>They started with what they had: a small digital services agency, where they built websites for clients.</p><p>The business grew, and they hired more employees. Their team expanded to a dozen software engineers. And as it did, Costa noticed three things.</p><p>First, there weren\u2019t enough trained developers to meet the demand. Second, many of their best hires did not have traditional computer science degrees. Some had never even finished college.</p><p>\u201cThere was no other space where you could actually build an amazing career and get a well-paying job without a good degree from a good school,\u201d she says. \u201cThe tech world was different. It was open in ways other fields weren\u2019t.\u201d</p><p>Thirdly, she noticed that there were no women on the team. In the first six months, Costa says, they didn\u2019t interview a single female developer.</p><p>Her colleagues shrugged. It\u2019s just how it is, they told her.</p><p>Costa, the outsider, didn\u2019t accept that.</p><p>\u201cI said, \u2018How can that be? The tech space has so many rich opportunities,\u2019\u201d she says. \u201c\u2018Why aren\u2019t there any women?\u2019\u201d</p><h2>Building Laboratoria</h2><p>In 2014 she decided to launch Laboratoria. The business model was simple: Find talented women who hadn\u2019t yet broken into tech, train them quickly on practical skills, and connect them with employers who needed developers.</p><p>Laboratoria started offering a six-month immersive boot camp that covered Web development, UX design, <a href=\"https://ieeexplore.ieee.org/document/10765410\" target=\"_blank\">data literacy</a>, strategic use of <a href=\"https://spectrum.ieee.org/topic/artificial-intelligence/\" target=\"_self\">artificial intelligence</a>, and soft-skills coaching such as interview prep and projecting confidence.</p><p>Just as important for career success, Costa says, is a <a href=\"https://spectrum.ieee.org/ai-in-mathematics\" target=\"_self\">user-centered mindset</a>. She says Laboratoria\u2019s program emphasizes the discipline of keeping the client\u2019s needs in mind when designing the work.</p><p>The teaching model has evolved beyond the boot-camp structure, but the organization still focuses on helping Latin American women develop tech skills and land quality jobs in the digital age. These days, the training, conducted via twice-weekly live <a href=\"https://www.zoom.com/\" target=\"_blank\">Zoom</a> sessions, lasts six weeks.</p><p>\u201cWe needed developers ourselves,\u201d she says of the company\u2019s original logic. \u201cI said, \u2018Why don\u2019t we run a program to train women\u2014women who are incredibly talented but haven\u2019t been given a chance yet\u2014and help them gain the skills they need to get a great job as quickly as possible?\u2019\u201d</p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" rel=\"float: left;\" style=\"float: left;\"> <img alt=\"Three smiling adults pose together on a green sofa in a bright living room.\" class=\"rm-shortcode\" id=\"2b804\" src=\"https://spectrum.ieee.org/media-library/three-smiling-adults-pose-together-on-a-green-sofa-in-a-bright-living-room.jpg?id=67546536&amp;width=980\" /> <small class=\"image-media media-caption\">Mariana Costa [seated, right] poses with Laboratoria co-founder and CEO Gabriela Rocha and co-founder and chief product officer Rodulfo Prieto.</small><small class=\"image-media media-photo-credit\">Valeria Martens</small></p><p>It worked. Laboratoria expanded from Lima to Santiago, Chile; Mexico City; S\u00e3o Paulo, Brazil; and Bogot\u00e1, Colombia. The organization eventually incorporated as a nonprofit in the United States. Today its programs are held remotely in Latin America\u2019s major job markets. So far, Laboratoria has opened the doors to tech careers for more than 3,500 women.</p><p>Costa says she believes the most important skills Laboratoria\u2019s graduates need aren\u2019t purely technical. Close behind the growth mindset is self-confidence, she says.</p><p>\u201cKnowing who you are, valuing who you are, and learning to trust yourself and your capacities are indispensable traits,\u201d she says.</p><p>Networking, she adds, is the third pillar, and often the hardest to build for women without access to elite schools or flexible work schedules.</p><p>\u201cWhen you go out in the market,\u201d she says, \u201cyou realize that having a network of people who trust you and know your work is such a valuable and critical asset.\u201d</p><h2>IEEE: a new connection</h2><p>Costa\u2019s introduction to IEEE came late\u2014but it landed hard.</p><p>She is not an IEEE member, so when she was contacted this year about receiving the President\u2019s Award, she did her homework on the organization. What she found, she says, was a public charity whose reach and values aligned with her mission.</p><p>\u201cIEEE is about expanding access to opportunities in the world of technology,\u201d she says. \u201cAnd that\u2019s also the core of what we do at Laboratoria.\u201d</p><p>She says she also sees IEEE as a living example of something her company preaches every day: \u201cI was talking about the value of professional networks, and I think IEEE is such an amazing reference in that space. It exemplifies this belief that human connection\u2014not only doing your work but also sharing and learning with others\u2014is at the core of building thriving technology careers.\u201d</p><p>The engineering organization found her well after she launched her tech-related career. But it wasn\u2019t too late. She says she intends to make the most of the connection.</p>"
       },
       {
-        "id": "ce65cc0a5caa61d0",
-        "title": "Why NIST Researchers Spent 10 Years Measuring Gravity",
-        "url": "https://spectrum.ieee.org/universal-gravitational-constant-nist-schlamminger",
+        "id": "c673220a956e6039",
+        "title": "Poetry for Engineers: Safe Distance",
+        "url": "https://spectrum.ieee.org/poetry-for-engineers-safe-distance",
         "source": "IEEE Spectrum",
-        "published": "Tue, 28 Jul 2026 13:00:01 +0000",
-        "published_dt": "2026-07-28T13:00:01+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/smiling-man-in-glasses-overlaid-with-scientific-diagrams-and-colorful-geometric-shapes.png?id=67527858&amp;width=1245&amp;height=700&amp;coordinates=0%2C102%2C0%2C103\" /><br /><br /><p><span>Physicists have been trying to measure the </span><span>fundamental gravitation</span><span>al constant</span><span> for well over two centuries. The current </span><a href=\"https://physics.nist.gov/cgi-bin/cuu/Value?bg\" target=\"_blank\">accepted value of big <em><em>G</em></em></a><span>, as it\u2019s known, is 6.67430 \u00d7 10</span><span>-11</span><span> cubic meters per kilogram per square second. It also has an uncertainty of \u00b10.00015 \u00d7 10<sup>-11</sup></span><span> </span><span>m</span><span><sup>3</sup></span><span>/(kg s</span><span><sup>2</sup></span><span>). As far as <a href=\"https://spectrum.ieee.org/the-kilogram-reinvented\" target=\"_blank\">constants of the universe</a> go, that\u2019s very uncertain.</span></p><h3>Stephan Schlamminger</h3><br /><p><a href=\"https://www.nist.gov/people/stephan-schlamminger\" rel=\"noopener noreferrer\" target=\"_blank\">Schlamminger</a> is a physicist at the U.S. National Institute of Standards and Technology.</p><p>Stephan Schlamminger recently completed a <a href=\"https://www.nist.gov/news-events/news/2026/04/nist-weighs-mystery-gravitational-constant\" target=\"_blank\">10-year effort</a> at the U.S. National Institute of Standards and Technology to replicate an earlier measurement of big <em><em>G</em></em> from the <a href=\"https://www.bipm.org/en/\" target=\"_blank\">International Bureau of Weights and Measures</a>, or BIPM (located near Paris) that\u2019s notably higher than most measurements. He spoke with <em><em>IEEE Spectrum</em></em> about why it took so long to get a number\u20146.67387 x 10<sup>-11</sup> m<span><sup>3</sup></span>/(kg s<sup>2</sup>)\u2014and why it\u2019s notably lower than the BIPM result, to the tune of <a href=\"https://www.nist.gov/news-events/news/2026/04/nist-weighs-mystery-gravitational-constant\" target=\"_blank\">0.0235 percent</a>.</p><p><strong>Why is it so difficult to measure big </strong><em><strong><em>G</em></strong></em><strong>?</strong></p><p><strong>Stephan Schlamminger: </strong>Gravity is very weak. When you were a kid, you probably played with fridge magnets, and it was a force you could feel. But if you have two coffee cups, you can try all you want\u2014you can\u2019t feel the force between them. It is there, but it\u2019s so, so weak.</p><p><strong>How did you attempt to measure big </strong><em><strong><em>G</em></strong></em><strong>?</strong></p><p class=\"shortcode-media shortcode-media-rebelmouse-image rm-float-left rm-resized-container rm-resized-container-25\" style=\"float: left;\"> <img alt=\"Animated schematic of a rotating lab instrument with laser scanning cylindrical samples\" class=\"rm-shortcode\" id=\"79fc0\" src=\"https://spectrum.ieee.org/media-library/animated-schematic-of-a-rotating-lab-instrument-with-laser-scanning-cylindrical-samples.gif?id=67527373&amp;width=980\" /> <small class=\"image-media media-caption\">NIST used a torsion balance with a fourfold geometry. This animation shows an exaggerated version of how the outer green masses gravitationally attract the inner blue masses.</small><small class=\"image-media media-photo-credit\">S. Kelley/NIST</small></p><p><strong>Schlamminger: </strong>We used what\u2019s called a torsion balance. The key idea in the torsion balance is that it decouples vertical gravity that you have from Earth from horizontal gravity, and that makes it sensitive to masses that are around the torsion balance but <em><em>not</em></em> the Earth below.</p><p>Ours had a fourfold geometry. It has a very thin torsion strip, then four cylinders in a \u201cplus sign\u201d arrangement. All of this is inside a vacuum. Outside, we have four larger cylinders that gravitationally attract the four smaller masses to them. If I move the outer masses just a tiny little bit, the plus sign will rotate, and we measure that angle that it moves. That angle is proportional to the gravitational torque.</p><p><strong>Why try to replicate the BIPM value?</strong></p><p><strong>Schlamminger: </strong>We could move the field forward. The measurements have been plagued with inconsistencies, so by redoing an experiment, we hoped to shed light on the inconsistencies.</p><p>We did not find a smoking gun, so there\u2019s no single reason why it\u2019s different\u2014our value versus their value. It\u2019s still a big question mark.</p><p><strong>What was it like spending 10 years on this?</strong></p><p><strong>Schlamminger: </strong>It\u2019s a bit like herding cats. I\u2019ve measured other fundamental constants, <a href=\"https://spectrum.ieee.org/measure-plancks-constant-and-define-the-kilogramwith-legos\" target=\"_blank\">like Planck\u2019s constant</a>, and for most experiments, they have some sort of self-calibration built in. But with the gravitational constant, you have to keep track of every single mass that moves\u2014where they are, how big they are, and weigh them.</p><p><strong>How does your result compare to the rest?</strong></p><p><strong>Schlamminger: </strong>Our result is a little bit below the standard accepted literature value. I was disappointed because it doesn\u2019t agree with the BIPM value, nor with the literature value. If there\u2019s something wrong with the BIPM experiment, then the literature value\u2014which includes that result\u2014probably ought to come down a bit. But that is not for me to say. I think somebody else, independent, should figure out what the new mean value ought to be.</p>"
+        "published": "Sun, 23 Aug 2026 13:00:01 +0000",
+        "published_dt": "2026-08-23T13:00:01+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/conceptual-illustration-of-two-fiber-optic-cables-pointing-in-opposite-directions-with-each-one-inside-a-differently-colored-bu.jpg?id=67652120&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C1\" /><br /><br /><h3></h3><br /><p>How do I touch you<br />across the ocean,<br />across cold depths<br />where light travels through glass.</p><p>Not copper\u2014fibers. Optical. </p><p>Through liquid glass, through flickering light<br />that carries you in fragments. Light broken into pulses. </p><p>You say: it\u2019s easier this way. What are we missing like this? You smile.<br />Safe distance. </p><p>I say: network. </p><p>Signals slide beneath the sea, through cables thinner than trust, faster than touch,<br />slower than longing. </p><p>We stand alone, together. Synchronous, yet apart. Icons replace skin, latency replaces breath. </p><p>This distance protects us. Silence that feels intentional. </p><p>Everything is under control as long as nothing truly hurts. </p><p>And we choose it<br />because it shields us<br />from what we might become if we actually met. </p><p>You are my counterpoint. My response.<br />My reflection<br />at a safe distance. </p><p>Beneath the ocean, nodes remember paths. </p><p>Packets shake hands without bodies. </p><p>If we get lost,<br />we resend everything, with error,<br />with noise,<br />with hope. </p>"
       },
       {
         "id": "fb485dd6e44fbb52",
@@ -864,24 +891,6 @@
         "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name&#8230;"
       },
       {
-        "id": "1a84d2c49a8f657b",
-        "title": "Support networks aim to help kids through the polycrisis",
-        "url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
-        "source": "MIT Technology Review",
-        "published": "Thu, 20 Aug 2026 09:00:00 +0000",
-        "published_dt": "2026-08-20T09:00:00+00:00",
-        "summary": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother\u2019s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. \u201cThey were just quarried&#8230;"
-      },
-      {
-        "id": "f60fec8864d9f15c",
-        "title": "The Download: AI\u2019s self-improvement problem, and what\u2019s driving the heat",
-        "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
-        "source": "MIT Technology Review",
-        "published": "Wed, 19 Aug 2026 12:10:00 +0000",
-        "published_dt": "2026-08-19T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI\u2019s recursive self-improvement might not come so quickly after all The AI industry\u2019s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.&#8230;"
-      },
-      {
         "id": "37567fff229dcd8a",
         "title": "From AI Copilots to Agent Swarms",
         "url": "https://spectrum.ieee.org/amd-agent-swarms",
@@ -898,15 +907,6 @@
         "published": "Fri, 14 Aug 2026 17:27:12 +0000",
         "published_dt": "2026-08-14T17:27:12+00:00",
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/wipl-d-logo-with-stylized-antenna-arcs-above-the-text.png?id=26851692&amp;width=980\" /><br /><br /><p>Learn how full-wave simulation predicts very low antenna coupling on aircraft-sized platforms, and which three modeling techniques deliver accurate results with fewer computational resources.</p><p><span><a href=\"https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/\" target=\"_blank\">Download this free whitepaper now!</a></span></p>"
-      },
-      {
-        "id": "db17832a49c2fd63",
-        "title": "Bring a Product Manager Mindset to Your Next Engineering Job",
-        "url": "https://spectrum.ieee.org/product-engineer",
-        "source": "IEEE Spectrum",
-        "published": "Thu, 13 Aug 2026 14:44:50 +0000",
-        "published_dt": "2026-08-13T14:44:50+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&amp;width=1245&amp;height=700&amp;coordinates=0%2C112%2C0%2C113\" /><br /><br /><p>If you haven\u2019t already seen a job listing for a \u201cproduct engineer,\u201d you probably will soon. The job everyone\u2019s suddenly hiring for, this role is like a cross between a product manager and an engineer (as the name suggests). And it\u2019s a hiring trend worth paying attention to.</p><p>Companies are opening more of these roles every single month, but they\u2019re struggling to fill them. The reason has almost nothing to do with engineers\u2019 coding skills or years of experience.</p><p>The best career move you can make to prepare for these types of roles has almost nothing to do with getting more technical. Instead, it comes down to one of the fluffiest, most overused, and potentially cringiest words in all of tech: <strong>mindset</strong>.</p><p>Stick with me, I promise this goes somewhere useful.</p><h2>The problem: We were trained to be task-takers</h2><p>When I started out, my job looked like this:</p><p>Drive to an office. Sit through meetings that led to other meetings until a project manager handed me a task they\u2019d already chopped into tiny pieces.</p><p>My job was to turn that task into code.</p><p>It took years for me to get good at a coding language and tech stack, and once I did, I executed that knowledge against specs that somebody else wrote.</p><p>You know what\u2019s freakishly good at that exact job? I\u2019ll give you a hint: It starts with A and ends with I.</p><p>Boris Cherny, the creator of Claude Code, recently said: \u201ccoding is basically solved,\u201d and <strong>\u201cthe bottleneck is going to be good ideas.\u201d </strong></p><p>So if your entire value is \u201chand me a task and I\u2019ll build it,\u201d you\u2019re in a footrace with the robots. I don\u2019t like that for you.</p><h2>The bad news... that is also good news</h2><p>Many companies are flattening. Middle management is getting stripped out, for better or worse (mostly for worse), which means many of us are doing more with less.</p><p>This might sound like purely more work, but it\u2019s also an opening for anyone who cares about what they\u2019re building and can put on their manager hat. Companies are no longer just hunting for the strongest engineer in one narrow domain.</p><p>What\u2019s rare, and what actually moves revenue, is an engineer who can spot the thing that\u2019s quietly costing money and either flag it to leadership or just go fix it.</p><h2>What this actually looks like</h2><p>Being product-minded has NOTHING to do with your tech stack.</p><p>Here\u2019s where to start:</p><p><strong>Have an opinion and back it up.</strong> As a former engineering manager, the worst thing I ever heard was silence. I\u2019d often ask the team what they thought because I doubted myself and wanted a gut check. I was grateful to the ones who said \u201cnope, bad idea, here\u2019s why.\u201d <strong>Pushback is a gift.</strong></p><p><strong>Learn the domain, casually.</strong> Work for a plumbing company? You don\u2019t need to become a plumber, but spend an hour on Reddit threads where plumbers vent. Now your ideas come from your potential customers.</p><p><strong>Make experiments cheap and safe.</strong> This is where any engineer has massive leverage. Experiments are not free. A bad one loses customers and frustrates users. Tools like LaunchDarkly and Optimizely let you ship a change to 5 percent of users and roll it back the second it tanks. Learn them, or build a scrappy version yourself. A team that can quickly run safe experiments will out-learn everyone else in the building.</p><p><strong>Be data-driven.</strong> Stop fighting about button colors. Pick a goal: making money, finding product-market fit, or making the product sticky so people come back. Then measure it. If your gorgeous redesign tanks time-on-site, it failed, no matter how good it looked to you. If the ugly version makes more money, ship the ugly version.</p><p><strong>You don\u2019t have to be the ideas person.</strong> Maybe you\u2019re not a visionary. That\u2019s fine. Organize a hackathon around an actual company goal. Pull up your company\u2019s quarterly targets and build something against one of them. Don\u2019t know what those targets are? That\u2019s your first assignment.</p><h2>Good ideas are the new bottleneck\u2014and they always have been</h2><p>When I was a manager, I asked myself one question every week: <strong>What\u2019s the single most impactful thing I could do right now?</strong> The answer was almost never \u201cwrite more code.\u201d It was understanding a gnarly problem nobody had defined yet. Building a deck to spread knowledge that was in one person\u2019s head. Getting the right three people in a room to actually make a decision we\u2019d been putting off.</p><p>Code is cheap, and it always has been. We just couldn\u2019t see it, because for decades the typing took so long that it felt like the hard part. It never was. The hard part was always knowing what\u2019s worth building.</p><p>\u2014 Brian</p><h2><a href=\"https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu\" target=\"_self\">Siobahn Day Grady Wants Everyone to Be AI Literate</a></h2><p>In January 2025, Siobahn Day Grady launched the first AI research institute at a historically Black college or university. The institute aims to help expand AI skills for all students at North Carolina Central University, where Grady is an associate professor, through both AI research opportunities and skills training. Though the institute is the first of its kind, Grady hopes it could serve as a model for other HBCUs. </p><p>Read more <a href=\"https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu\" target=\"_self\">here</a>. </p><h2><a href=\"https://spectrum.ieee.org/ai-scientist-research-paper-format\" target=\"_self\">Should Researchers Write Papers for AI Instead of People?</a></h2><p>AI is increasingly used in the scientific research process. So does publishing need to change to keep up? Jiachen Liu recently co-authored a paper published on ArXiv arguing that the PDF should be replaced with an \u201cAgent-Native Research Artifact\u201d designed with AI in mind. In this interview with <em><em>IEEE Spectrum</em></em>, Liu lays out a provocative vision of AI-driven research and an infrastructure that captures\u2014and learns from\u2014details that often get left out of today\u2019s papers. </p><p>Read more <a href=\"https://spectrum.ieee.org/ai-scientist-research-paper-format\" target=\"_self\">here</a>. </p><h2><a href=\"https://spectrum.ieee.org/dark-matter\" target=\"_self\">Detect Dark Matter\u2019s Mark From Your Backyard</a></h2><p>Astronomers still don\u2019t know exactly what dark matter is, but they can detect it\u2014and so can you. With a small radio telescope and a few other pieces, you can create a DIY setup to gauge how fast hydrogen clouds are moving across the Milky Way. Feed those measurements into a spreadsheet, and you can see the same signals that have baffled the astronomical community for decades. </p><p>Read more <a href=\"https://spectrum.ieee.org/dark-matter\" target=\"_self\">here</a>. </p>"
       }
     ]
   }
