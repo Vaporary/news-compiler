@@ -1,16 +1,7 @@
 {
-  "generated_at": "2026-09-19T15:43:27.344718+00:00",
+  "generated_at": "2026-09-20T15:50:41.626459+00:00",
   "categories": {
     "Biotech": [
-      {
-        "id": "f71c305c1db49612",
-        "title": "Jehovah\u2019s Witnesses allow blood-derived products but keep ban on whole-blood transfusions",
-        "url": "https://www.statnews.com/2026/09/19/jehovahs-witnesses-blood-derived-products-transfusions/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 19 Sep 2026 14:13:11 +0000",
-        "published_dt": "2026-09-19T14:13:11+00:00",
-        "summary": "The Jehovah\u2019s Witnesses have partly eased their longstanding prohibition on the medical use of donated blood."
-      },
       {
         "id": "50d6ec9a0f71b347",
         "title": "STAT+: FDA approves a new gene therapy for Sanfilippo syndrome, an ultra-rare disease",
@@ -127,6 +118,15 @@
         "published": "Sep 9, 2026 5:09pm",
         "published_dt": "2026-09-09T17:09:00+00:00",
         "summary": "Following a steady stream of acquisitions that culminated in three biotech buyouts earlier this year, Gilead has now reached \u201ccritical mass\u201d in its efforts to diversify into oncology and inflammation, CEO Daniel O\u2019Day told Fierce."
+      },
+      {
+        "id": "f71c305c1db49612",
+        "title": "Jehovah\u2019s Witnesses allow blood-derived products but keep ban on whole-blood transfusions",
+        "url": "https://www.statnews.com/2026/09/19/jehovahs-witnesses-blood-derived-products-transfusions/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sat, 19 Sep 2026 14:13:11 +0000",
+        "published_dt": "2026-09-19T14:13:11+00:00",
+        "summary": "The Jehovah\u2019s Witnesses have partly eased their longstanding prohibition on the medical use of donated blood."
       },
       {
         "id": "906b077683e115ad",
@@ -556,6 +556,15 @@
         "summary": "We use data on 44,000 twin pairs observed as adolescents in the 2000 Census, linked to their earnings 20 years later, to study the heritability of labor market outcomes. We extend the Classical Twins Design (CTD), which identifies heritability from contrasts between monozygotic and dizygotic twins, to settings where an analyst does not observe zygosity but can measure outcomes for same-sex and opposite-sex twins. We also allow for the presence of a family- and sex-specific component affecting same-sex siblings but only partly shared by opposite-sex siblings. Our extended model identifies heritability from the difference-in-differences of same-sex vs. opposite-sex twins vs. siblings. The estimates indicate strong heritability (h\u00b2 approximately 0.36) of log earnings. Using an AKM (Abowd et al., 1999) decomposition that separates the person-specific component of earnings from employer-specific pay premiums, we find that both components are heritable. The heritability of employer pay premiums, however, is mainly driven by same-sex twins who work at the same firm, suggesting that social interactions may lead to an over-estimate of the genetic component in earnings. Excluding siblings who work together leads to estimates of the heritability of log earnings that are 15% lower. Similar biases may be present in CTD-based estimates of heritability for other social outcomes like education."
       },
       {
+        "id": "422dedf3e7ea97fc",
+        "title": "House prices survived the last interest-rate rise. Will they this time?",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/20/house-prices-survived-the-last-interest-rate-rise-will-they-this-time",
+        "source": "Finance & economics",
+        "published": "Sun, 20 Sep 2026 09:05:41 +0000",
+        "published_dt": "2026-09-20T09:05:41+00:00",
+        "summary": "Supports that shored up the housing market when borrowing costs last rose are gone"
+      },
+      {
         "id": "eeca0abe367668b9",
         "title": "The GDP-per-person slowdown threatens global living standards",
         "url": "https://www.economist.com/finance-and-economics/2026/09/17/the-gdp-per-person-slowdown-threatens-global-living-standards",
@@ -671,15 +680,6 @@
         "published": "Thu, 30 Jul 2026 09:12:57 +0000",
         "published_dt": "2026-07-30T09:12:57+00:00",
         "summary": "Takaichi Sanae\u2019s economic agenda bears little resemblance to her mentor\u2019s"
-      },
-      {
-        "id": "1c63465c15b93f47",
-        "title": "Retail investors should beware perpetual futures",
-        "url": "https://www.economist.com/finance-and-economics/2026/07/28/retail-investors-should-beware-perpetual-futures",
-        "source": "Finance & economics",
-        "published": "Tue, 28 Jul 2026 18:48:27 +0000",
-        "published_dt": "2026-07-28T18:48:27+00:00",
-        "summary": "These peculiar products, popular in the crypto world, are hitting the mainstream"
       }
     ],
     "Cross-Disciplinary": [
