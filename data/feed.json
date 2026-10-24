@@ -1,15 +1,132 @@
 {
-  "generated_at": "2026-10-23T16:50:36.151519+00:00",
+  "generated_at": "2026-10-24T15:42:50.252115+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "ec368003483365cf",
-        "title": "Novartis multiple sclerosis treatment cuts rates of relapse in pivotal trials",
+        "id": "d8c2d537e9cc6621",
+        "title": "Opinion: Christina Applegate puts a face on one of the most consequential challenges in neurology",
+        "url": "https://www.statnews.com/2026/10/24/christina-applegate-multiple-sclerosis-why-ms-misdiagnosis-happens/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sat, 24 Oct 2026 11:00:00 +0000",
+        "published_dt": "2026-10-24T11:00:00+00:00",
+        "summary": "\u201cThe goal is not simply to diagnose MS faster. It is to get the diagnosis right,\u201d writes Bruce Bebo."
+      },
+      {
+        "id": "251c02bbb6055d83",
+        "title": "Opinion: STAT readers on Elizabeth Holmes, cancer screening, and more",
+        "url": "https://www.statnews.com/2026/10/24/you-can-see-everything-stat-letters-to-editor/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sat, 24 Oct 2026 11:00:00 +0000",
+        "published_dt": "2026-10-24T11:00:00+00:00",
+        "summary": "\u201cEven if Theranos had a functioning testing machine, the economic model on which is was based would result in failure,\u201d writes a STAT reader."
+      },
+      {
+        "id": "eb7c5fb31c87bbdd",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/amid-bepirovirsen-triumph-gsk-quietly-scraps-trial-next-gen-hep-b-therapy\" hreflang=\"en\">Amid bepirovirsen triumph, GSK quietly scraps trial of next-gen hep B therapy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/amid-bepirovirsen-triumph-gsk-quietly-scraps-trial-next-gen-hep-b-therapy",
+        "source": "Fierce Biotech",
+        "published": "Oct 21, 2026 9:37am",
+        "published_dt": "2026-10-21T09:37:00+00:00",
+        "summary": "GSK may have cemented its hepatitis B credentials with Tuesday\u2019s landmark FDA nod for its \u201cfunctional cure\u201d bepirovirsen, but the pharma continues to rethink its strategy for next-gen candidates."
+      },
+      {
+        "id": "a363a26374f8e5b2",
+        "title": "STAT+: Highly anticipated Moderna-Merck melanoma cancer vaccine data arrived early",
+        "url": "https://www.statnews.com/2026/10/23/moderna-merck-melanoma-cancer-vaccine-data-arrived-early-esmo/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 23 Oct 2026 19:19:55 +0000",
+        "published_dt": "2026-10-23T19:19:55+00:00",
+        "summary": "In data released at ESMO, the Moderna-Merck personalized mRNA cancer vaccine reduced recurrence-free survival and the time until distant metastasis occurred."
+      },
+      {
+        "id": "5fdf486cbd60f2b1",
+        "title": "STAT+: Patient dies in Bristol Myers Squibb autoimmune CAR-T trial",
+        "url": "https://www.statnews.com/2026/10/23/bristol-myers-squibb-car-t-therapy-autoimmune-trial-death/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 23 Oct 2026 18:55:12 +0000",
+        "published_dt": "2026-10-23T18:55:12+00:00",
+        "summary": "Where should the safety bar be for studies investigating CAR-T therapies for autoimmune conditions?"
+      },
+      {
+        "id": "ce1722aa4302e0c4",
+        "title": "STAT+: Novartis multiple sclerosis treatment cuts rates of relapse in pivotal trials",
         "url": "https://www.statnews.com/2026/10/23/novartis-remibrutinib-multiple-sclerosis-trial-results/?utm_campaign=rss",
         "source": "STAT",
         "published": "Fri, 23 Oct 2026 16:47:31 +0000",
         "published_dt": "2026-10-23T16:47:31+00:00",
         "summary": "An MS treatment from Novartis cut by a third the rates of relapses compared to a standard treatment."
+      },
+      {
+        "id": "4c474a667d4c95e0",
+        "title": "STAT+: Pharmalittle: We\u2019re reading about a cancer vaccine, an experimental pancreatic cancer drug, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/10/23/moderna-merck-cancer-vaccine-experimental-pancreatic-cancer-drug-esmo/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 23 Oct 2026 13:45:14 +0000",
+        "published_dt": "2026-10-23T13:45:14+00:00",
+        "summary": "A personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to a standard treatment"
+      },
+      {
+        "id": "e6533db346e06255",
+        "title": "STAT+: Tango reports 82% tumor response rate in trial of combo therapy for advanced pancreatic cancer",
+        "url": "https://www.statnews.com/2026/10/23/esmo-2026-trial-results-tango-therapeutics-vopimetostat-revolution-medicines-rasonque/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 23 Oct 2026 10:30:00 +0000",
+        "published_dt": "2026-10-23T10:30:00+00:00",
+        "summary": "An experimental drug combination led to tumor responses in 82% of patients with a certain type of advanced pancreatic cancer, Tango Therapeutics reported."
+      },
+      {
+        "id": "bb749e5fd9f85560",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bolt-strikes-180m-reverse-merger-prana-therapies\" hreflang=\"en\">Bolt makes inflammation play with Prana reverse merger, $120M financing</a>",
+        "url": "https://www.fiercebiotech.com/biotech/bolt-strikes-180m-reverse-merger-prana-therapies",
+        "source": "Fierce Biotech",
+        "published": "Oct 23, 2026 10:22am",
+        "published_dt": "2026-10-23T10:22:00+00:00",
+        "summary": "Bolt Biotherapeutics is acquiring Prana Therapies in a stock-for-stock reverse merger backed by a $120 million financing to advance Prana\u2019s lead antibody through multiple phase 2 trials in inflammatory diseases."
+      },
+      {
+        "id": "523dc93b4567426d",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/it-what-it-merck-exec-sanguine-esmo-leak-significant-cancer-vaccine-data\" hreflang=\"en\">\u2018It is what it is\u2019: Merck exec unruffled by \u2018unfortunate\u2019 leak of ESMO cancer vaccine data</a>",
+        "url": "https://www.fiercebiotech.com/biotech/it-what-it-merck-exec-sanguine-esmo-leak-significant-cancer-vaccine-data",
+        "source": "Fierce Biotech",
+        "published": "Oct 24, 2026 6:25am",
+        "published_dt": "2026-10-24T06:25:00+00:00",
+        "summary": "Merck &amp; Co. and Moderna always knew they would be making headlines in Madrid this week\u2014just not in the way it happened."
+      },
+      {
+        "id": "b14fb3efe3122c32",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/abbvie-scratches-out-phase-3-hidradenitis-suppurativa-win-falls-short-expectations\" hreflang=\"en\">AbbVie scratches out phase 3 hidradenitis suppurativa win but falls short of expectations</a>",
+        "url": "https://www.fiercebiotech.com/biotech/abbvie-scratches-out-phase-3-hidradenitis-suppurativa-win-falls-short-expectations",
+        "source": "Fierce Biotech",
+        "published": "Oct 22, 2026 10:39am",
+        "published_dt": "2026-10-22T10:39:00+00:00",
+        "summary": "A phase 3 trial of AbbVie\u2019s lutikizumab in hidradenitis suppurativa has hit its primary endpoint. But with the drug candidate beating placebo by a narrower margin than expected, the readout raises questions about AbbVie\u2019s chances of cracking a competitive market."
+      },
+      {
+        "id": "469108e13fbc93b7",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-builds-blockbuster-btk-case-multiple-sclerosis-fda-decision-approaches\" hreflang=\"en\">Roche builds blockbuster BTK case for fenebrutinib in multiple sclerosis as FDA decision approaches</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-builds-blockbuster-btk-case-multiple-sclerosis-fda-decision-approaches",
+        "source": "Fierce Biotech",
+        "published": "Oct 21, 2026 9:30am",
+        "published_dt": "2026-10-21T09:30:00+00:00",
+        "summary": "Roche has dived into the data behind its filing for FDA approval of fenebrutinib in multiple sclerosis, unpacking the BTK inhibitor\u2019s effect on chronic active lesions, disease control and brain volume."
+      },
+      {
+        "id": "3a5aa5a464ec4748",
+        "title": "STAT+: Diabetes association says \u2018threat\u2019 preceded members\u2019 ejections, but admits policies were unclear",
+        "url": "https://www.statnews.com/2026/10/23/ada-new-orleans-convention-new-report-on-controversial-june-ejections/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 23 Oct 2026 19:16:37 +0000",
+        "published_dt": "2026-10-23T19:16:37+00:00",
+        "summary": "The American Diabetes Association has issued two explanations, two reviews and an apology over its June convention. A Friday report adds new twists."
+      },
+      {
+        "id": "8a7ebb19fad080ea",
+        "title": "STAT+: Most cancer drugs approved by European regulators lack a high clinical benefit, analysis finds",
+        "url": "https://www.statnews.com/pharmalot/2026/10/23/cancer-drugs-approved-europe-lack-high-clinical-benefit/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Fri, 23 Oct 2026 18:48:10 +0000",
+        "published_dt": "2026-10-23T18:48:10+00:00",
+        "summary": "Most new cancer medicines approved by European regulators over a recent four-year period do not offer high clinical benefit, a new analysis finds."
       },
       {
         "id": "80bd60f60c526c2e",
@@ -57,15 +174,6 @@
         "summary": "As a Boston judge heard a challenge to Medicaid work requirements, state Medicaid directors gathered in Maryland to figure out how to implement those sweeping changes."
       },
       {
-        "id": "4c474a667d4c95e0",
-        "title": "STAT+: Pharmalittle: We\u2019re reading about a cancer vaccine, an experimental pancreatic cancer drug, and more",
-        "url": "https://www.statnews.com/pharmalot/2026/10/23/moderna-merck-cancer-vaccine-experimental-pancreatic-cancer-drug-esmo/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 23 Oct 2026 13:45:14 +0000",
-        "published_dt": "2026-10-23T13:45:14+00:00",
-        "summary": "A personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to a standard treatment"
-      },
-      {
         "id": "a962f66056217bdb",
         "title": "STAT+: Treasury proposes major restrictions to U.S. investment in Chinese biotech sector",
         "url": "https://www.statnews.com/2026/10/23/new-china-biotech-limits-coins-act-proposal-us-pharma-reaction/?utm_campaign=rss",
@@ -84,33 +192,6 @@
         "summary": "AI drug firm Pathos raises $237 million, a deal that brings together a big Tempus dataset, AI analysis from Pathos, and drug development from BMS."
       },
       {
-        "id": "e6533db346e06255",
-        "title": "STAT+: Tango reports 82% tumor response rate in trial of combo therapy for advanced pancreatic cancer",
-        "url": "https://www.statnews.com/2026/10/23/esmo-2026-trial-results-tango-therapeutics-vopimetostat-revolution-medicines-rasonque/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 23 Oct 2026 10:30:00 +0000",
-        "published_dt": "2026-10-23T10:30:00+00:00",
-        "summary": "An experimental drug combination led to tumor responses in 82% of patients with a certain type of advanced pancreatic cancer, Tango Therapeutics reported."
-      },
-      {
-        "id": "bb749e5fd9f85560",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bolt-strikes-180m-reverse-merger-prana-therapies\" hreflang=\"en\">Bolt makes inflammation play with Prana reverse merger, $120M financing</a>",
-        "url": "https://www.fiercebiotech.com/biotech/bolt-strikes-180m-reverse-merger-prana-therapies",
-        "source": "Fierce Biotech",
-        "published": "Oct 23, 2026 10:22am",
-        "published_dt": "2026-10-23T10:22:00+00:00",
-        "summary": "Bolt Biotherapeutics is acquiring Prana Therapies in a stock-for-stock reverse merger backed by a $120 million financing to advance Prana\u2019s lead antibody through multiple phase 2 trials in inflammatory diseases."
-      },
-      {
-        "id": "02692c75704b28eb",
-        "title": "STAT+: Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial",
-        "url": "https://www.statnews.com/2026/10/22/esmo-moderna-merck-cancer-vaccine-intismeran-data-released/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 22 Oct 2026 19:03:31 +0000",
-        "published_dt": "2026-10-22T19:03:31+00:00",
-        "summary": "A Moderna and Merck personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to standard treatment."
-      },
-      {
         "id": "988a2853ea6af6d0",
         "title": "The Download: testing six tech promises and biotech\u2019s blind spots",
         "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
@@ -118,15 +199,6 @@
         "published": "Fri, 23 Oct 2026 12:10:00 +0000",
         "published_dt": "2026-10-23T12:10:00+00:00",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet\u2019s yowls and yips? Absolutely. Scrubbing&#8230;"
-      },
-      {
-        "id": "eb7c5fb31c87bbdd",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/amid-bepirovirsen-triumph-gsk-quietly-scraps-trial-next-gen-hep-b-therapy\" hreflang=\"en\">Amid bepirovirsen triumph, GSK quietly scraps trial of next-gen hep B therapy</a>",
-        "url": "https://www.fiercebiotech.com/biotech/amid-bepirovirsen-triumph-gsk-quietly-scraps-trial-next-gen-hep-b-therapy",
-        "source": "Fierce Biotech",
-        "published": "Oct 21, 2026 9:37am",
-        "published_dt": "2026-10-21T09:37:00+00:00",
-        "summary": "GSK may have cemented its hepatitis B credentials with Tuesday\u2019s landmark FDA nod for its \u201cfunctional cure\u201d bepirovirsen, but the pharma continues to rethink its strategy for next-gen candidates."
       },
       {
         "id": "5978d0a4c026d923",
@@ -138,22 +210,13 @@
         "summary": "Gilead has struck a deal to acquire PepStar Therapeutics\u2019 oral IL-23 receptor inhibitor program for $1.275 billion, positioning itself as a would-be challenger to Johnson &amp; Johnson\u2019s Icotyde across a range of inflammatory diseases."
       },
       {
-        "id": "7814ee04dffc71cc",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cber-director-karim-mikhail-tells-fierce-he-feels-people-deserve-leader-whos-present\" hreflang=\"en\">\u2018We\u2019re getting back to stability\u2019: CBER Director Karim Mikhail shares his strategy with Fierce</a>",
-        "url": "https://www.fiercebiotech.com/biotech/cber-director-karim-mikhail-tells-fierce-he-feels-people-deserve-leader-whos-present",
+        "id": "9a8e855b3fec8011",
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roches-igan-kidney-disease-drug-sefaxersen-snags-ph3-win\" hreflang=\"en\">Roche puts numbers behind phase 3 kidney disease win amid blockbuster ambitions</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roches-igan-kidney-disease-drug-sefaxersen-snags-ph3-win",
         "source": "Fierce Biotech",
-        "published": "Oct 9, 2026 2:23pm",
-        "published_dt": "2026-10-09T14:23:00+00:00",
-        "summary": "The FDA's Center for Biologics Evaluation and Research (CBER) is recovering from the most turbulent period in its recent history. The captain tasked with steadying the ship is Karim Mikhail, who was appointed as the center's director on a permanent basis last month."
-      },
-      {
-        "id": "9966ef2ec143d459",
-        "title": "STAT+: AbbVie skin disorder drug succeeds in late-stage trial, but results miss market expectations",
-        "url": "https://www.statnews.com/2026/10/22/abbvie-lutikizumab-hidradenitis-suppurativa-drug-phase-3-results/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Thu, 22 Oct 2026 18:22:27 +0000",
-        "published_dt": "2026-10-22T18:22:27+00:00",
-        "summary": "AbbVie's lutikizumab, an experimental therapy for a chronic skin condition, succeeded in a late-stage trial but missed market expectations."
+        "published": "Oct 23, 2026 10:21am",
+        "published_dt": "2026-10-23T10:21:00+00:00",
+        "summary": "Roche's Genentech has put numbers behind its phase 3 success in IgA nephropathy (IgAN), reporting that antisense oligonucleotide sefaxersen reduced a key marker of kidney damage by 43.1% compared with placebo."
       },
       {
         "id": "0048ae1ed961d36e",
@@ -163,69 +226,6 @@
         "published": "Fri, 23 Oct 2026 09:00:00 +0000",
         "published_dt": "2026-10-23T09:00:00+00:00",
         "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I\u2019d avoided spoilers (and won\u2019t be giving anything away here, either!). I was wondering what new information this film could reveal, given&#8230;"
-      },
-      {
-        "id": "9c12f7848c577a55",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-takedas-12b-bet-innovent-absolutely-pays-adcs-phase-3-win\" hreflang=\"en\">ESMO: Takeda\u2019s $1.2B bet on Innovent \u2018absolutely\u2019 pays off with details of ADC\u2019s phase 3 win</a>",
-        "url": "https://www.fiercebiotech.com/biotech/esmo-takedas-12b-bet-innovent-absolutely-pays-adcs-phase-3-win",
-        "source": "Fierce Biotech",
-        "published": "Oct 23, 2026 8:50am",
-        "published_dt": "2026-10-23T08:50:00+00:00",
-        "summary": "Takeda has lifted the lid on the phase 3 win for its next-generation claudin18.2 drug, with the antibody-drug conjugate (ADC) demonstrating overall survival of 10.2 months."
-      },
-      {
-        "id": "f0ea2557f94b3487",
-        "title": "STAT+: State officials scrambling to implement Medicaid work requirements meet up to swap notes",
-        "url": "https://www.statnews.com/2026/10/23/state-medicaid-officials-prepare-for-new-work-requirements/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 23 Oct 2026 08:30:00 +0000",
-        "published_dt": "2026-10-23T08:30:00+00:00",
-        "summary": "What state officials scrambling to implement Medicaid work requirements shared behind closed doors at the National Association of Medicaid Directors conference."
-      },
-      {
-        "id": "17d075ae2b305445",
-        "title": "Opinion: New Medicare policies will keep important pain relief from some patients",
-        "url": "https://www.statnews.com/2026/10/23/severe-pain-policy-medicare-coverage-macs-nerve-block/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 23 Oct 2026 08:30:00 +0000",
-        "published_dt": "2026-10-23T08:30:00+00:00",
-        "summary": "For some people, simply putting on pants can be excruciatingly painful. New policy will put pain relief out of reach for many, doctor writes."
-      },
-      {
-        "id": "ef39001e8030235a",
-        "title": "Opinion: Overdose deaths have plunged. We need to know why",
-        "url": "https://www.statnews.com/2026/10/23/opioid-deaths-fallen-naloxone-treatment-supply-shock-public-health/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 23 Oct 2026 08:30:00 +0000",
-        "published_dt": "2026-10-23T08:30:00+00:00",
-        "summary": "The humbling truth is that forces outside medical care and public health policies must be playing the biggest role in a dramatic drop in opioid overdose deaths, three health experts&#8230;"
-      },
-      {
-        "id": "1454720ddb4c12b7",
-        "title": "STAT reporters react to the new Elizabeth Holmes documentary",
-        "url": "https://www.statnews.com/2026/10/23/explain-appeal-elizabeth-holmes-doc-status-report/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 23 Oct 2026 08:30:00 +0000",
-        "published_dt": "2026-10-23T08:30:00+00:00",
-        "summary": "It seems everyone has a hot take on the new Elizabeth Holmes documentary, \"You Can See Everything.\" STAT reporters went to see the film \u2014 here's their review."
-      },
-      {
-        "id": "c1c197ffc1847019",
-        "title": "How a targeted drug kept one patient alive 15 years \u2014 but failed to save her friends",
-        "url": "https://www.statnews.com/2026/10/23/lung-cancer-patient-ros1-mutation-on-crizotinib/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 23 Oct 2026 08:30:00 +0000",
-        "published_dt": "2026-10-23T08:30:00+00:00",
-        "summary": "A lung cancer patient speaks out about her cutting-edge treatment: \u201cResearch is big on tracking survival stats, but quality of life for survivors \u2014 not so much.\u201d"
-      },
-      {
-        "id": "180a97f7564bbb2b",
-        "title": "One family\u2019s story of a life-extending medicine for pancreatic cancer",
-        "url": "https://www.statnews.com/2026/10/23/patient-story-pancreatic-cancer-drug-daraxonrasib-rasonque/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 23 Oct 2026 08:30:00 +0000",
-        "published_dt": "2026-10-23T08:30:00+00:00",
-        "summary": "Bobby Senaha was among the first patients to use daraxonrasib, a new life-extending drug for pancreatic cancer. His wife shares what those extra months meant to his family."
       }
     ],
     "Engineering & Aerospace": [
@@ -237,24 +237,6 @@
         "published": "Fri, 23 Oct 2026 13:40:58 +0000",
         "published_dt": "2026-10-23T13:40:58+00:00",
         "summary": "<p>The group will assess aerospace simulation needs and develop a roadmap covering technical challenges, capabilities and research milestones.</p>\n<p>The post <a href=\"https://www.engineering.com/aiaa-forms-team-to-define-cfd-priorities-through-2045/\">AIAA forms team to define CFD priorities through 2045</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "365f7849a5f1c681",
-        "title": "NVIDIA expands Isaac tools for humanoid robot development",
-        "url": "https://www.engineering.com/nvidia-expands-isaac-tools-for-humanoid-robot-development/",
-        "source": "Engineering.com",
-        "published": "Fri, 23 Oct 2026 13:22:39 +0000",
-        "published_dt": "2026-10-23T13:22:39+00:00",
-        "summary": "<p>New reference platforms, datasets and runtimes support robot learning workflows from simulation and training through deployment.</p>\n<p>The post <a href=\"https://www.engineering.com/nvidia-expands-isaac-tools-for-humanoid-robot-development/\">NVIDIA expands Isaac tools for humanoid robot development</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "69441e66ae38793e",
-        "title": "Trimble adds dual GNSS receivers to Earthworks platform",
-        "url": "https://www.engineering.com/trimble-adds-dual-gnss-receivers-to-earthworks-platform/",
-        "source": "Engineering.com",
-        "published": "Fri, 23 Oct 2026 13:03:40 +0000",
-        "published_dt": "2026-10-23T13:03:40+00:00",
-        "summary": "<p>The excavator configuration targets small and midsize contractors moving to 3D grade control through a Trimble Works subscription.</p>\n<p>The post <a href=\"https://www.engineering.com/trimble-adds-dual-gnss-receivers-to-earthworks-platform/\">Trimble adds dual GNSS receivers to Earthworks platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "e6a34af2137e082a",
@@ -273,6 +255,51 @@
         "published": "Fri, 23 Oct 2026 09:38:03 +0000",
         "published_dt": "2026-10-23T09:38:03+00:00",
         "summary": "<p>Substrate capacity is set to grow 2.5x in three years, while semiconductor testing capacity is expected to double from 2026 to 2027.</p>\n<p>The post <a href=\"https://www.engineering.com/nvidia-expands-global-manufacturing-for-ai-infrastructure/\">NVIDIA expands global manufacturing for AI infrastructure</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "a1ded9d5af181bd2",
+        "title": "Agile Space Industries Expands to Seattle Area with New Bellevue Office",
+        "url": "https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/",
+        "source": "SpaceNews",
+        "published": "Thu, 15 Oct 2026 12:00:00 +0000",
+        "published_dt": "2026-10-15T12:00:00+00:00",
+        "summary": "<figure><img alt=\"agile space industries logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/agile-space-industries-square-logo-scaled.png?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>BELLEVUE, Wash., Oct. 15, 2026 \u2014 Agile Space Industries, a leading provider of in-space chemical propulsion solutions, has expanded into the Seattle metropolitan area with the opening of a new [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/\">Agile Space Industries Expands to Seattle Area with New Bellevue Office</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "e926aee2c6730793",
+        "title": "NASA eyeing year-end tanking test and summer 2027 launch for Artemis III",
+        "url": "https://aerospaceamerica.aiaa.org/nasa-eyeing-year-end-tanking-test-and-summer-2027-launch-for-artemis-iii/",
+        "source": "Aerospace America",
+        "published": "Fri, 23 Oct 2026 20:37:42 +0000",
+        "published_dt": "2026-10-23T20:37:42+00:00",
+        "summary": "NASA\u2019s Artemis III mission, set to test rendezvous and docking with commercial lunar landers, is on track for a mid-2027 launch, agency officials said Friday. NASA in late February converted Artemis III from the program\u2019s inaugural landing to a low-Earth orbit demonstration in which an Orion capsule will rendezvous and dock with test articles of [...]"
+      },
+      {
+        "id": "f65ffd0cf0621be4",
+        "title": "Nov. 5: Satellite Mission Management at the Edge",
+        "url": "https://spacenews.com/satellite-mission-management-at-the-edge-event/",
+        "source": "SpaceNews",
+        "published": "Fri, 23 Oct 2026 19:53:25 +0000",
+        "published_dt": "2026-10-23T19:53:25+00:00",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-11-05-RTX-SpaceNews-2000-1500-scaled.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Join us to explore how emerging technologies and commercial capabilities are transforming satellite operations</p>\n<p>The post <a href=\"https://spacenews.com/satellite-mission-management-at-the-edge-event/\">Nov. 5: Satellite Mission Management at the Edge</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "365f7849a5f1c681",
+        "title": "NVIDIA expands Isaac tools for humanoid robot development",
+        "url": "https://www.engineering.com/nvidia-expands-isaac-tools-for-humanoid-robot-development/",
+        "source": "Engineering.com",
+        "published": "Fri, 23 Oct 2026 13:22:39 +0000",
+        "published_dt": "2026-10-23T13:22:39+00:00",
+        "summary": "<p>New reference platforms, datasets and runtimes support robot learning workflows from simulation and training through deployment.</p>\n<p>The post <a href=\"https://www.engineering.com/nvidia-expands-isaac-tools-for-humanoid-robot-development/\">NVIDIA expands Isaac tools for humanoid robot development</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
+      },
+      {
+        "id": "69441e66ae38793e",
+        "title": "Trimble adds dual GNSS receivers to Earthworks platform",
+        "url": "https://www.engineering.com/trimble-adds-dual-gnss-receivers-to-earthworks-platform/",
+        "source": "Engineering.com",
+        "published": "Fri, 23 Oct 2026 13:03:40 +0000",
+        "published_dt": "2026-10-23T13:03:40+00:00",
+        "summary": "<p>The excavator configuration targets small and midsize contractors moving to 3D grade control through a Trimble Works subscription.</p>\n<p>The post <a href=\"https://www.engineering.com/trimble-adds-dual-gnss-receivers-to-earthworks-platform/\">Trimble adds dual GNSS receivers to Earthworks platform</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
       },
       {
         "id": "eaaa723a48b0e959",
@@ -300,15 +327,6 @@
         "published": "Fri, 23 Oct 2026 09:14:46 +0000",
         "published_dt": "2026-10-23T09:14:46+00:00",
         "summary": "<p>Nscale demonstrated 49% higher inference throughput and 37% more managed GPU capacity within the same power budget.</p>\n<p>The post <a href=\"https://www.engineering.com/nvidia-dsx-advances-ai-factory-deployment-across-europe/\">NVIDIA DSX advances AI factory deployment across Europe</a> appeared first on <a href=\"https://www.engineering.com\">Engineering.com</a>.</p>"
-      },
-      {
-        "id": "a1ded9d5af181bd2",
-        "title": "Agile Space Industries Expands to Seattle Area with New Bellevue Office",
-        "url": "https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/",
-        "source": "SpaceNews",
-        "published": "Thu, 15 Oct 2026 12:00:00 +0000",
-        "published_dt": "2026-10-15T12:00:00+00:00",
-        "summary": "<figure><img alt=\"agile space industries logo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/agile-space-industries-square-logo-scaled.png?fit=1024%2C1024&amp;ssl=1\" width=\"1024\" /></figure>\n<p>BELLEVUE, Wash., Oct. 15, 2026 \u2014 Agile Space Industries, a leading provider of in-space chemical propulsion solutions, has expanded into the Seattle metropolitan area with the opening of a new [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/\">Agile Space Industries Expands to Seattle Area with New Bellevue Office</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       },
       {
         "id": "252e95c988414401",
@@ -435,24 +453,6 @@
         "published": "Mon, 19 Oct 2026 09:30:00 +0000",
         "published_dt": "2026-10-19T09:30:00+00:00",
         "summary": "A NASA-funded instrument package designed to hunt for water ice in the lunar south pole region will also help monitor hazards faced by astronauts, like micrometeorites and moonquakes. The agency announced Sept. 30 it had selected a proposal from the University of Maryland for the LEMS-SP, short for Lunar Environmental Monitoring Station-South Pole. This autonomous [...]"
-      },
-      {
-        "id": "cf4967efee24f403",
-        "title": "Oct. 29: Applying AI/SI to the GEOINT Mission",
-        "url": "https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/",
-        "source": "SpaceNews",
-        "published": "Thu, 15 Oct 2026 20:41:50 +0000",
-        "published_dt": "2026-10-15T20:41:50+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-10-29-vantor-spacenews_2000-1500_AI-SI-scaled.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Join us for a conversation on how machine learning is transforming the GEOINT mission across different markets</p>\n<p>The post <a href=\"https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/\">Oct. 29: Applying AI/SI to the GEOINT Mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "04153d1708abb270",
-        "title": "How NASA is thinking about a moon base",
-        "url": "https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/",
-        "source": "SpaceNews",
-        "published": "Thu, 15 Oct 2026 15:14:24 +0000",
-        "published_dt": "2026-10-15T15:14:24+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-NASA-moon-2000-1500.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>In this episode, SpaceNews\u2019 Mike Gruss talks with NASA\u2019s Shatel Bhakta, the principal systems engineer for Moon Base, about what\u2019s needed between now and 2028 and the incremental steps to [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/\">How NASA is thinking about a moon base</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
@@ -711,15 +711,6 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=61876810&amp;width=2000&amp;height=1500&amp;coordinates=0%2C0%2C0%2C0\" /><br /><br /><p><em>This article is crossposted from </em>IEEE Spectrum<em>\u2019s careers newsletter. <a href=\"https://engage.ieee.org/Career-Alert-Sign-Up.html\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Sign up now</em></a><em> to get insider tips, expert advice, and practical strategies, <em><em>written i<em>n partnership with tech career development company <a href=\"https://www.parsity.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Parsity</a> and </em></em></em>delivered to your inbox for free!</em></em></p><p><em><em></em></em><span>If you\u2019re an engineer, you may feel like your skills aren\u2019t commanding the premium they once did. Many engineers have </span><a href=\"https://spectrum.ieee.org/how-to-survive-a-layoff\" target=\"_self\">faced layoffs</a><span> or restructuring. But even for those of us who still have jobs, something corrosive is happening. You may have heard some version of this:</span></p><p>\u201cChatGPT answered that in five seconds. Why can\u2019t you?\u201d</p><p>Or, \u201cI made this app in a weekend. Why is our team taking so long?\u201d</p><p>I worked on a team where leadership said things like this directly to engineers. This was in 2024 and 2025, when the <a href=\"https://spectrum.ieee.org/ai-for-coding\" target=\"_self\">AI craze</a> was in full swing and Claude and ChatGPT <a href=\"https://spectrum.ieee.org/large-language-models-2668430044\" target=\"_self\">adoption was rising</a>.</p><h2>Demo-Driven Development</h2><p>Generative AI (and the marketing behind it) gives people the illusion that the work is simpler than it is. A working demo hides complexity, and once someone has a website that works, they may decide they no longer need engineers, or start to distrust the ones they do have. </p><p>Some CEOs want to believe they can replace an engineering team with a few sexy prompts. Many companies also want them to believe this.</p><p>That website <a href=\"https://spectrum.ieee.org/ai-coding-degrades\" target=\"_self\">works great in the demo</a>\u2014under specific conditions and without users with thumbs for fingers. Then it has to plug into a system with millions of lines of old code, satisfy legal requirements, meet accessibility standards, and be delivered in a complex deployment process.</p><p>Thinking that writing code was the only bottleneck for deploying new software is like the Titanic seeing the tip of the iceberg and assuming there was nothing underneath it.</p><h2>What you can do about it</h2><p>Engineers have a unique position in the AI space, because you have the capacity to understand how these models work much better than the average person. <a href=\"https://spectrum.ieee.org/ai-code-review-software-engineers\" target=\"_self\">Use this to your advantage.</a></p><p><a href=\"https://spectrum.ieee.org/large-language-models-ieee-course\" target=\"_self\"><strong>Learn how AI models work</strong></a><strong>.</strong> If you can\u2019t already explain that LLMs are probabilistic, what tokens are, or why training data matters, spend a weekend fixing that. You don\u2019t need to become a full-blown AI researcher. A few fundamentals will put you ahead of most people making the AI decisions.</p><p><strong>Teach upward.</strong> Turn that knowledge into teaching moments for the people who lead you. Explain the limits of these tools, and why a demo and a production system are different animals. It keeps people from truly believing that a notebook full of prompts can replace an engineering team.</p><p><strong>Consider the criticism of today\u2019s processes.</strong> Some of what we do has been treated as ceremony for too long. Be willing to say, \u201cyou know what, maybe you\u2019re right, this process is too slow for the speed we can work at now.\u201d Conceding that earns you the credibility to defend the steps that matter.</p><p>I still believe that speed at the cost of everything else is harmful\u2014but that\u2019s a topic for another time.</p><p><strong>Find your voice.</strong> Engineers at the forefront of AI adoption need to push back and explain why we do things the way we do. Nobody else in the room is going to do it for us.</p><h2>Don\u2019t chase (too many) shiny objects</h2><p>Your goal, in my opinion, is to save your organization from buying into the hype so much that they chase the wrong thing. Our job, before and after AI, is building safe and useful products for human beings, and engineers are still best suited for that.</p><p>\u2014Brian</p><h2><a href=\"https://spectrum.ieee.org/integrating-engineering-ethics-education\" target=\"_self\">We Need to Embed Ethics Into Our Engineering Courses</a></h2><p>The need to educate engineering students about ethics and social responsibility is widely recognized, but today\u2019s curricula often miss the mark. Three professors propose a new approach: adding ethics training directly to core technical coursework. </p><p>Read more <a href=\"https://spectrum.ieee.org/integrating-engineering-ethics-education\" target=\"_self\">here</a>. </p><h2><a href=\"https://spectrum.ieee.org/anderon-quantum-fab\" target=\"_self\">The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing</a></h2><p>Looking for a career in quantum computing hardware? An IBM spin-off called Anderon could receive up to $1 billion in funding from the U.S. CHIPS and Science Act for its quantum foundry, established earlier this year. Could Anderon do for quantum hardware what TSMC did for conventional chips? </p><p>Read more <a href=\"https://spectrum.ieee.org/anderon-quantum-fab\" target=\"_self\">here</a>. </p><h2><a href=\"https://spectrum.ieee.org/anthropic-engineer-ai-agent\" target=\"_self\">Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy</a></h2><p>When Gurmeet Saran joined Anthropic\u2019s technical staff in 2025, he entered a role focused on a key question: How do you know whether you can trust a chatbot like Claude? Learn more about Saran\u2019s path and his work at the AI company. </p><p>Read more <a href=\"https://spectrum.ieee.org/anthropic-engineer-ai-agent\" target=\"_self\">here</a>. </p>"
       },
       {
-        "id": "988a2853ea6af6d0",
-        "title": "The Download: testing six tech promises and biotech\u2019s blind spots",
-        "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 23 Oct 2026 12:10:00 +0000",
-        "published_dt": "2026-10-23T12:10:00+00:00",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet\u2019s yowls and yips? Absolutely. Scrubbing&#8230;"
-      },
-      {
         "id": "847eb29bcf8575a8",
         "title": "Why Engineers Should Brave Capitol Hill",
         "url": "https://spectrum.ieee.org/engineers-lobbying-congress",
@@ -810,13 +801,13 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/a-middle-aged-greek-man-with-facial-hair-smiling-against-an-illustrated-street-map-background.jpg?id=68036422&amp;width=2000&amp;height=1500&amp;coordinates=0%2C0%2C0%2C0\" /><br /><br /><p><a href=\"https://christosgcassandras.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Christos Cassandras</a> has spent more than 40 years studying how computers and machines make decisions. Lately, his work has focused on a problem nearly every driver knows well: sitting at a red light with no cross traffic in sight, wondering why it takes so long for the light to turn green.</p><p>Cassandras, an IEEE Life Fellow, is a professor at <a href=\"https://www.bu.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">Boston University</a>, where he headed its <a href=\"https://www.bu.edu/eng/academics/departments-and-divisions/systems-engineering/\" rel=\"noopener noreferrer\" target=\"_blank\">systems engineering division</a>, a graduate program he helped create.</p><h3>Christos Cassandras</h3><br /><p><strong>Employer</strong> </p><p>Boston University</p><p><strong>Title</strong> </p><p>Professor</p><p><strong>Member grade</strong> </p><p>Life Fellow</p><p><strong>Alma maters</strong> </p><p>Yale, Stanford, and Harvard</p><p>He is the recipient of this year\u2019s <a href=\"https://ieee-itss.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Intelligent Transportation Systems Society</a><a href=\"https://ieee-itss.org/awards/outstanding-research/\" rel=\"noopener noreferrer\" target=\"_blank\"> Outstanding Research Award</a> for his work on <a href=\"https://spectrum.ieee.org/tag/autonomous-vehicles\" target=\"_self\">autonomous vehicles</a> and the systems that help them drive\u2014work that could one day get rid of traffic lights altogether.</p><p>That idea\u2014proving with mathematical models and intelligent algorithms using cars\u2019 relative speeds, mass, and distance as inputs that self-driving cars will behave safely before they are ever let loose on the streets\u2014has become the foundation of Cassandras\u2019s career and the reason his name keeps coming up in conversations about transportation.</p><p>In the 1990s he theorized that a machine such as a car could be understood as two things at once: an object obeying the laws of physics and a computer processing information and making decisions. This led to what we now call cyber physical systems. That framework is still the standard way engineers describe a car\u2019s mechanical behavior.</p><p>\u201cUltimately, the key word is <em><em>safety</em></em>,\u201d Cassandras says. \u201cYou would not buy a self-driving car unless the manufacturer could guarantee that it\u2019s safe for you.\u201d</p><h2> Growing up in Greece during a dictatorship</h2><p>Born in Athens, Cassandras was a teenager during<a href=\"https://www.britannica.com/topic/the-Colonels\" rel=\"noopener noreferrer\" target=\"_blank\"> Greece\u2019s military dictatorship</a>, a period he says scarred him and many others but also taught him some hard lessons. His father was a partner in an insulation manufacturing company, and his mother was a homemaker.</p><p>His friends pulled Cassandras toward engineering. As a teenager, he ran with a group of classmates who read about philosophy, history, and science. They were especially struck by the <a href=\"https://airandspace.si.edu/explore/stories/apollo-11-moon-landing\" rel=\"noopener noreferrer\" target=\"_blank\">1969 Apollo 11 moon landing</a> and the questions it raised about the technology that made it possible.</p><p>That same year also marked the <a href=\"https://www.icann.org/en/blogs/details/the-first-message-transmission-29-10-2019-en\" rel=\"noopener noreferrer\" target=\"_blank\">first time a piece of data was sent from one computer to another</a>\u2014an early step toward the creation of the Internet. Several inspiring teachers pushed his curiosity about technology even further.</p><p>He was awarded a scholarship to study in the United States, and he enrolled at<a href=\"https://www.yale.edu/\" rel=\"noopener noreferrer\" target=\"_blank\"> Yale</a>, where he first studied physics and philosophy before switching to engineering. He earned his bachelor\u2019s degree in engineering and applied science in 1977. At the time, Yale didn\u2019t yet offer separate degrees in fields such as electrical or mechanical engineering.</p><p>From there, Cassandras went to <a href=\"https://www.stanford.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">Stanford</a>, earning a master\u2019s degree in electrical engineering in 1978. There, he became interested in <a href=\"https://en.wikipedia.org/wiki/Game_theory\" rel=\"noopener noreferrer\" target=\"_blank\">game theory</a>, the mathematical study of decision-making and strategy.</p><p>A mentor pointed him to <a href=\"https://www.harvard.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">Harvard</a>, home to a leading game theory researcher at the time. His new mentor, Professor <a href=\"https://seas.harvard.edu/person/yu-chi-ho\" rel=\"noopener noreferrer\" target=\"_blank\">Yu-Chi \u201cLarry\u201d Ho</a>, now an IEEE Life Fellow, advised him to abandon game theory, which Ho considered a scientific dead end at the time. Ho suggested a newer, less-explored area of research, that of emerging dynamic systems in modern technology whose behavior could be understood and managed through occurrences of discrete events.</p><p>Cassandras took the advice. He earned a second master\u2019s degree from Harvard the following year and completed his Ph.D. in applied mathematics there in 1982. He and Ho remain friends and colleagues.</p><h2> Fiat assembly line births of a new kind of engineering</h2><p>Ask people in <a href=\"https://ieee-itss.org/\" rel=\"noopener noreferrer\" target=\"_blank\">intelligent transportation systems</a> circles why Cassandras\u2019s name carries so much weight, and the answer traces back to a theoretical shift he helped pioneer starting in the 1980s. Cassandras recognized that human-made systems\u2014computers, factory machines and, eventually, vehicles\u2014operate on a different kind of logic than the one that governs the natural world.</p><p>The physical world runs on time-driven physics, the same math <a href=\"https://www.britannica.com/biography/Isaac-Newton\" rel=\"noopener noreferrer\" target=\"_blank\">Isaac Newton</a> used centuries ago. But machines built by people, he realized, are better understood as event-driven: They mostly sit still until something happens, like a button click or a part arriving on a conveyor belt.</p><p>That insight didn\u2019t come from a textbook. It took shape during Cassandras\u2019s early graduate work, when he was handed a real-world problem. He was assigned to figure out how to manage the buffers\u2014the temporary holding areas for car parts\u2014on an assembly line for <a href=\"https://www.fiat.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Fiat</a>, the Italian carmaker.</p><p>Solving that concrete, practical puzzle helped him see how event-driven thinking could describe an entire class of systems that classical physics-based math couldn\u2019t handle well. This came to be known as <a href=\"https://link.springer.com/book/10.1007/978-3-030-72274-6\" rel=\"noopener noreferrer\" target=\"_blank\">discrete event systems</a><em><em>.</em></em></p><p>By the early 1990s, that insight had matured into a formal framework: hybrid systems theory, now known as <a href=\"https://en.wikipedia.org/wiki/Cyber-physical_system\" rel=\"noopener noreferrer\" target=\"_blank\">cyber physical systems</a> theory. The idea is that a machine can be understood as an object obeying the laws of physics and as a computer obeying event-driven dynamics.</p><h2>Building \u201cevent-driven\u201d systems</h2><p>After completing his doctorate, Cassandras wanted to test himself outside of academia. He spent about a year and a half as a systems engineer at Information and Technology for Production (ITP), a small manufacturing-automation startup in the Boston area. The experience convinced him that the \u201creal world\u201d wasn\u2019t so different from academic life, and he returned to research while continuing to consult for the company for roughly a decade. He has kept up the habit of staying connected to industry throughout his career.</p><p>In 1984 he joined the <a href=\"https://www.umass.edu/admissions/first-year-students?utm_campaign=bvk-7134_umass_search_fy27admissions_brand_newyork&amp;utm_medium=paidsearch&amp;utm_source=google&amp;utm_term=university%20of%20massachusetts%20amherst&amp;utm_content=bvk-706915381353&amp;gad_source=1&amp;gad_campaignid=21490020363&amp;gbraid=0AAAAAo2qFQxIzla1V5lpfXZHpK4qipiY3&amp;gclid=CjwKCAjwzNTUBhAjEiwA7zcvWu8D6YmKbwxYUZDSKywzAJpLhc_eVOsRla2-nnwEb05i-qaZFsnipRoC9c0QAvD_BwE\" rel=\"noopener noreferrer\" target=\"_blank\">University of Massachusetts Amherst</a> as a faculty member in the <a href=\"https://www.umass.edu/engineering/electrical-and-computer-engineering\" rel=\"noopener noreferrer\" target=\"_blank\">electrical and computer engineering department</a>. Building on the ideas born out of the Fiat project, he helped pioneer research into event-driven systems.</p><p>That was a shift away from the traditional math used to describe the physical world toward systems built around discrete events. The transition, driven by the rise of computers, became the backbone of Cassandras\u2019s research for the next three decades.</p><p>In 1997, after years of commuting weekly between Amherst and Boston for his consulting work, he joined Boston University as a tenured full professor in what was then its manufacturing engineering department. As the field evolved in the early 2000s with the rise of the Internet and sensor technology, Cassandras helped establish the university\u2019s systems engineering division. In 2008 he became the research program\u2019s first director, a role he held until stepping down two months ago.</p><h3> Using math to show that self-driving cars are safe</h3><p>Cassandras\u2019s recent research has focused on mathematically proving vehicle safety before a car is road-tested. He has developed models built around measurable quantities: a vehicle\u2019s position, speed, and distance to nearby vehicles. That lets connected and automated vehicles cooperate during tricky maneuvers such as changing lanes on a highway in traffic.</p><p>He has extended the approach to a bigger idea: eliminating traffic lights. One of his more striking projects involves a chronically congested intersection near his office in Boston, where Commonwealth Avenue meets the <a href=\"https://secretboston.co/bu-bridge-boston/\" rel=\"noopener noreferrer\" target=\"_blank\">Boston University Bridge</a>. Using<a href=\"https://en.wikipedia.org/wiki/Traffic_simulation\" rel=\"noopener noreferrer\" target=\"_blank\"> computer simulations</a>, he and his team modeled what would happen if they removed all the traffic lights, and cars simply coordinated with each other instead. The results, he says, showed improvements not only in how smoothly traffic would flow but also in safety and energy efficiency.</p><p>Cassandras acknowledges that widespread adoption is still far off. For now, only a small percentage of vehicles on the road are capable of that kind of communication. But he\u2019s testing similar coordination systems using small robots in his BU lab, working to bring the idea closer to reality and to exploit the intelligence of cooperating autonomous vehicles even when they are only a small fraction of the actual cars on the road.</p><p>He says his perspective has evolved in recent years from viewing humans as obstacles to smooth automation toward designing technology that actually works for people.</p><p>Through projects with Boston on <a href=\"https://www.bu.edu/articles/2013/if-boston-were-smart-2/\" rel=\"noopener noreferrer\" target=\"_blank\">smart city</a><em> </em>initiatives, he learned that not everyone can afford or access new technology\u2014a lesson that reshaped how he approaches his research.</p><p>\u201cIt\u2019s not just about technology,\u201d he says. \u201cIt\u2019s really about technology and people.\u201d</p><h2>A legacy passed on through his students</h2><p>His influence in the field has been amplified by some of his students. Several of his Ph.D. students have developed safety algorithms at companies including <a href=\"https://www.aptiv.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Aptiv</a> and <a href=\"https://zoox.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Zoox</a>,<em> </em>both of which build technology for autonomous and connected vehicles. He wrote a book, titled <a href=\"https://link.springer.com/book/10.1007/978-3-031-27576-0\" rel=\"noopener noreferrer\" target=\"_blank\"><em><em>Safe Autonomy with Control Barrier Functions: Theory and Applications</em></em></a><em><em>, </em></em>with one of his former students. It lays out the mathematical foundations of autonomous-vehicle safety, with specific applications to intelligent transportation.</p><h2>A long relationship with IEEE</h2><p>Cassandras joined IEEE as a student member while he was a graduate student. He was drawn in by the discounted student conference registration fees, he says.</p><p>That early, practical decision grew into something bigger: a professional community with which he has stayed connected for more than 40 years.</p><p>He has served as president of the <a href=\"https://ieeecss.org/\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Control Systems Society</a>, his primary professional home within IEEE. He has served on the <a href=\"https://www.ieeecss.org/publications\" rel=\"noopener noreferrer\" target=\"_blank\">conference publications committee</a> and is currently involved with <a href=\"https://spectrum.ieee.org/ieee-publishing-ethics-research-integrity\" target=\"_self\">IEEE Publishing Ethics.</a></p><p>IEEE\u2019s greatest value to his career, he says, has come through the relationships he has built at its conferences and serving on committees. Connections with colleagues and IEEE leadership have shaped his thinking and opened doors throughout his career, he says.</p><p>Looking back on more than four decades of work, Cassandras says the goal has never really been about the technology for its own sake.</p><p>\u201cAfter all,\u201d he says, \u201cwe\u2019re doing all this to make society better and facilitate the comfortable lives of all of humanity.\u201d</p>"
       },
       {
-        "id": "0048ae1ed961d36e",
-        "title": "In the biotech world, you can\u2019t see everything",
-        "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 23 Oct 2026 09:00:00 +0000",
-        "published_dt": "2026-10-23T09:00:00+00:00",
-        "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I\u2019d avoided spoilers (and won\u2019t be giving anything away here, either!). I was wondering what new information this film could reveal, given&#8230;"
+        "id": "8037458d4c6f050c",
+        "title": "From Chip Lab to Center Stage",
+        "url": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
+        "source": "IEEE Spectrum",
+        "published": "Fri, 23 Oct 2026 18:00:03 +0000",
+        "published_dt": "2026-10-23T18:00:03+00:00",
+        "summary": "<img src=\"https://spectrum.ieee.org/media-library/smiling-portrait-of-a-young-south-asian-woman-seated-in-front-of-her-work-computer.jpg?id=68453070&amp;width=2000&amp;height=1500&amp;coordinates=416%2C0%2C417%2C0\" /><br /><br /><p>Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But <a href=\"https://www.linkedin.com/in/preethiashwath/\" rel=\"noopener noreferrer\" target=\"_blank\">Preethi Ashwath</a> has learned to take center stage, talking about the \u201chearable\u201d and wearable devices she has had a hand in developing as an analog integrated circuit designer in the consumer electronics division at <a href=\"https://www.analog.com/en/index.html\" rel=\"noopener noreferrer\" target=\"_blank\">Analog Devices</a> of Wilmington, Mass.</p><p>The IEEE member is one of the few women who work in the <a href=\"https://www.zippia.com/analog-design-engineer-jobs/demographics/\" rel=\"noopener noreferrer\" target=\"_blank\">specialized field</a>, where about 11 percent are female, according to career platform <a href=\"https://www.zippia.com/about-us/\" rel=\"noopener noreferrer\" target=\"_blank\">Zippia</a>.</p><h3>Preethi Ashwath</h3><br /><p><strong>Employer</strong> </p><p>Analog Devices, in Boston</p><p><strong>Title</strong> </p><p>Integrated circuit designer</p><p><strong>Member grade</strong> </p><p>Member</p><p><strong>Alma maters </strong></p><p><strong></strong>SJB Institute of Technology in Bengaluru, India; University of California, Irvine</p><p>Ashwath stepped out from behind the scenes last year to meet with attendees at the <a href=\"https://spectrum.ieee.org/ces-2025\" target=\"_self\">Consumer Electronics Show</a> (CES) in Las Vegas. She demonstrated Analog\u2019s new earbuds, which track people\u2019s heart and lung health through vibrations in their ear canals.</p><p>After she demonstrated her ability to explain the technology to consumers in simple terms, Analog selected her to represent the company at other events. She says she has \u201ccome to see speaking as part of contributing to the field, rather than something separate from technical work.\u201d</p><p>She also gives technical talks on various aspects of electrostatic discharge (ESD) and other topics, as well as participates in panel discussions, she says, because they \u201creach engineers well beyond my immediate team.\u201d</p><p>Ashwath is an active volunteer with the <a href=\"https://ieee-cas.org/welcome\" rel=\"noopener noreferrer\" target=\"_blank\">IEEE Circuits and Systems Society</a>.</p><p>\u201cWhether through designing semiconductor products, publishing technical articles, reviewing conference papers, or speaking at industry events, I try to contribute to the growth of the engineering community and the advancement of the field,\u201d she says.</p><h2>Discovering circuit design at Intel</h2><p>Ashwath, who grew up in Bengaluru, India, learned about electronics engineering from her high school physics tutor.</p><p>That introduction led her to take electronics as one of her core courses in her final years there. At the time, Ashwath\u2019s older sister was pursuing an engineering degree.</p><p>\u201cBetween my interest in electronics and seeing her already on that path, it became clear to me that engineering was the way to go,\u201d Ashwath says.</p><p>After earning a bachelor\u2019s degree in electronics and communications engineering at the <a href=\"https://www.sjbit.edu.in/\" rel=\"noopener noreferrer\" target=\"_blank\">SJB Institute of Technology</a>, in Bengaluru, she wanted to pursue a career in <a href=\"https://spectrum.ieee.org/chip-design-innovator-lynn-conway\" target=\"_self\">very-large-scale integration</a>. But that changed once she moved to the United States and began her master\u2019s program in electrical engineering at the <a href=\"https://uci.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">University of California, Irvine</a>.</p><p>She discovered her passion for circuits and devices during an internship at <a href=\"https://www.intel.com/content/www/us/en/homepage.html\" rel=\"noopener noreferrer\" target=\"_blank\">Intel</a> in Santa Clara, Calif. She learned about circuit design, package design, and reliability verification tools such as Ansys Totem.</p><p>\u201cSeeing every layer of the chip development process gave me a more complete picture of what goes into building a semiconductor product,\u201d she says. \u201cThrough that experience, I realized I felt most connected to design.</p><p>\u201cIt was the hard work and creativity that drew me in. You start with a specification, build a circuit, simulate it, then wait for the chip to come back from fabrication. When your design works, it\u2019s a real feeling of satisfaction. It teaches you patience and perseverance.\u201d</p><p>After attaining her master\u2019s degree, she was hired by Intel as an analog design engineer. She gained experience in mixed-signal circuit design before joining Analog. In her current role, she works on consumer hearables such as earbuds and wearables including fitness trackers and health monitors.</p><p>Her main focus is designing ESD pad rings, the borders of specialized circuits built around a microchip\u2019s outermost edge to <a href=\"https://spectrum.ieee.org/electrostatic-discharge\" target=\"_self\">protect it from the discharge</a>, which can damage circuit paths or introduce latent defects that lead to failures later in the chip\u2019s life cycle.</p><p>\u201cOn a chip with multiple voltage domains, you have to plan how the protection structures are placed and connected across the whole pad ring\u2014and get it right,\u201d Ashwath says. \u201cA mistake there could cause a chip to fail in the field in ways that are very hard to debug afterward.</p><p>\u201cIt\u2019s detailed work that requires understanding both the device physics and how the whole chip fits together.\u201d</p><p>Part of the job is designing and creating an integrated circuit\u2019s building blocks, including ESD protection structures and other mixed-signal blocks. Ashwath conducts rigorous checks to verify they work as intended before being integrated into a chip.</p><p>She collaborates with ESD advisors, layout designers, and the digital team that designs the chip\u2019s digital logic.</p><p>\u201cI work with them to make sure my analog circuits and their digital blocks work together correctly,\u201d she says. \u201cNo two days look exactly the same.\u201d</p><p>In 2024 she was recognized with the company\u2019s Impact Award for her \u201cexceptional work on a critical project with significant cross-functional business impact.\u201d</p><h2>Presenting the final product</h2><p>Ashwath was selected to represent Analog at events after a senior leader encouraged her to ask for high-visibility opportunities, she says.</p><p>\u201cMost of my time is spent on designing circuits and simulations,\u201d she says. \u201cAt CES, I stood in front of customers, engineers, and members of the press, explaining our technology and answering questions on the spot.\u201d</p><p>The earbuds she demonstrated monitor minute vibrations from a user\u2019s heart and lungs, according to the <a href=\"https://www.analog.com/en/lp/001/ces/ces-healthcare-deoms.html\" rel=\"noopener noreferrer\" target=\"_blank\">Analog website</a>. The vibrations can detect arrhythmia, a leaky heart valve, or fluid in the lungs.</p><p>\u201cHearables are evolving from playing back audio to becoming health-monitoring platforms,\u201d she says. \u201cThe ear turns out to be a good location for picking up physiological signals, so these devices can capture vital signs while someone is simply wearing them normally.</p><p>\u201cThe hard part is achieving high signal quality. The signals you\u2019re trying to detect are very small and buried in the noise from the person\u2019s movements and the surrounding environment.</p><p>\u201cThat\u2019s where analog front-end design becomes critical. Extracting a meaningful signal from a noisy real-world environment is fundamentally an analog problem.\u201d</p><p>Being face-to-face with customers at the conference was new to her.</p><p>\u201cWhat struck me most was seeing how people react to the technology,\u201d she says. \u201cWhen you\u2019re designing a block, you\u2019re focused on specifications and margins. At CES, after explaining what the product does, I had a better understanding of why it matters to them.</p><p>\u201cThat connection between the circuit work and the final product is something you don\u2019t always see from the design bench.\u201d</p><p>Since the CES, Ashwath has presented other technologies she\u2019s worked on. At the annual <a href=\"https://www.namm.org/\" rel=\"noopener noreferrer\" target=\"_blank\">National Association of Music Merchants</a> show in Anaheim, Calif., she demonstrated the <a href=\"https://www.analog.com/en/product-category/a2b-audio-bus.html\" rel=\"noopener noreferrer\" target=\"_blank\">A<span>2</span>B Automotive Audio Bus</a> to the audio industry. The bus uses a low-cost unshielded twisted-pair cable to carry multichannel digital audio, control data, synchronized clock signals, and power in fewer than 50 microseconds, according to Analog.</p><p class=\"pull-quote\">\u201cIEEE connects you with academia, which you don\u2019t get much exposure to once you\u2019re in industry. That connection between industry and academic work is valuable in both directions.\u201d</p><p>At the company\u2019s Global Technology Conference\u2014an internal event held in Boston that draws engineers from the company\u2019s more than 50 sites around the world\u2014Ashwath led a demonstration of its <a href=\"https://www.analog.com/en/solutions/consumer/hearables-and-wearables/ar-smart-glasses.html\" target=\"_blank\">solutions for augmented reality smart glasses</a>.</p><p>\u201cEach of these events has a different audience,\u201d she says. \u201cLearning to explain my technical work to different people has become a skill I\u2019ve acquired.\u201d</p><p>The most rewarding part of her job, she says, is seeing the end result of her work.</p><p>\u201cYou spend months on a design, and there\u2019s a long wait between finishing it and finding out whether your instincts were right,\u201d she says. \u201cWhen the measurements match what you simulated, that\u2019s the most satisfying moment in this job.</p><p>\u201cThe other part is knowing my work ends up in a real product. The circuits I design go into devices people actually use every day.\u201d</p><h2>Giving back to the community</h2><p>Like many engineers, Ashwath joined IEEE to access research published in the <a href=\"https://ieeexplore.ieee.org/Xplore/home.jsp\" target=\"_blank\">IEEE Xplore Digital Library</a>. It keeps her current in a field that keeps moving, she says.</p><p>During her first year of membership, in 2021, she discovered other perks including networking and educational opportunities.</p><p>\u201cIEEE connects you to a community outside your own company,\u201d she says. \u201cAttending lectures and technical talks exposes you to approaches and problems you wouldn\u2019t encounter in your own work.\u201d</p><p>She eventually began seeking out volunteer opportunities, specifically with IEEE conferences and journals, because they are \u201chow you stay current with what\u2019s happening in circuits and systems beyond your own day-to-day work,\u201d she says.</p><p>\u201cAs an analog designer,\u201d she says, \u201cbeing connected to that broader community matters. The field moves, and you need a way to keep learning from it.\u201d</p><p>She serves as a peer reviewer of papers for several IEEE conferences including the <a href=\"https://2026.ieee-iscas.org/\" target=\"_blank\">IEEE International Symposium on Circuits and Systems</a> and the <a href=\"https://mwscas2026.org/\" target=\"_blank\">IEEE International Midwest Symposium on Circuits and Systems</a>. ISCAS is the flagship conference of the <a href=\"https://ieee-cas.org/welcome\" target=\"_blank\">IEEE Circuits and Systems Society</a>. MWSCAS is the oldest U.S. conference on the technologies.</p><p>\u201cSomeone has to assess whether submitted work is technically sound and worth presenting,\u201d she says, \u201cand that only happens if practicing engineers are willing to put in the time.\u201d</p><p>The combination of learning from the community and contributing to it is what makes her membership worthwhile, she says.</p><p>\u201cAnalog design is a field where you\u2019re always learning. Just when you feel you understand one architecture, there\u2019s another one to learn,\u201d she says. \u201cBeing an active learner isn\u2019t optional in this field; it\u2019s the requirement, and being part of the IEEE community helps with that.</p><p>\u201cIEEE also connects you with academia, which you don\u2019t get much exposure to once you\u2019re in industry.</p><p>\u201cReviewing papers means reading what researchers are working on, which is often quite different from how the same problems get approached in a product environment. That connection between industry and academic work is valuable in both directions.\u201d</p>"
       },
       {
         "id": "b769354fc1eb9d3d",
@@ -846,13 +837,22 @@
         "summary": "<img src=\"https://spectrum.ieee.org/media-library/gray-comsol-logo-with-stylized-text-and-rounded-rectangular-emblem-on-left.png?id=68001893&amp;width=980\" /><br /><br /><p>Dielectric metasurfaces have moved to the forefront of nanophotonics, offering flat, low-loss alternatives to conventional bulk optical elements for controlling the amplitude, phase, and polarization of light. These structures are of growing interest to researchers and engineers working on sensing, energy harvesting, and flat optics, as their performance hinges on precisely engineered optical resonances. Full-wave finite element simulation, combined with semianalytical multipole decomposition in the COMSOL Multiphysics\u00ae software, gives us a way to not only predict these resonances but also uncover their underlying physical origins.</p><p>In this webinar, Dr. Pavel Terekhov, postdoctoral researcher at National Institute of Standards and Technology, will trace how a single quadrumer meta-atom, originally studied for its magnetic octupole response, evolves into two distinct light manipulation regimes. He will first revisit the foundational single-particle results that motivated this work, then show how arranging quadrumers into a periodic crystalline silicon metasurface produces anomalous absorption enhancement, governed by two independent multipole mechanisms coexisting in the same structure. Building on this, he will then introduce ongoing work on a gallium nitride metasurface, where the complex interplay of four different multipoles is used to sculpt reflection and transmission spectra including the quasi-bound-states-in-the-continuum (q-BIC) manipulation.</p><p>Attendees will see how COMSOL Multiphysics\u00ae and multipole decomposition connect full-wave simulation and analytical insight, turning abstract resonance behavior into physically interpretable design rules. The broader takeaway is that multipole-based simulation is not just a diagnostic tool but a design strategy: It enables the on-demand tailoring of absorption, reflection, and transmission in dielectric metasurfaces, with direct relevance to sensing, energy harvesting, and future optical device applications.</p><p><strong><span>Key Takeaways:</span></strong></p><ul><li>Learn about modeling multipole resonances in dielectric metasurfaces using full-wave finite element simulation and semianalytical multipole decomposition in COMSOL Multiphysics\u00ae.</li><li>See how multipole-based simulation can be used to understand and control absorption, reflection, and transmission in silicon and gallium nitride metasurfaces.</li><li>Explore how different multipole mechanisms, including quasi-bound states in the continuum (q-BICs), can be engineered to tailor optical responses for sensing, energy harvesting, and flat optics.</li><li>Gain insights into how simulation and multipole decomposition can help researchers and engineers turn complex resonance behavior into practical design strategies for future optical devices.</li></ul><div><a href=\"https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE\" target=\"_blank\">Register now for this free webinar!</a></div>"
       },
       {
-        "id": "fcddd5971869c0a5",
-        "title": "Electricity Theft Is Rampant, but Delhi Found a Fix",
-        "url": "https://spectrum.ieee.org/electricity-theft",
-        "source": "IEEE Spectrum",
-        "published": "Thu, 01 Oct 2026 12:00:02 +0000",
-        "published_dt": "2026-10-01T12:00:02+00:00",
-        "summary": "<img src=\"https://spectrum.ieee.org/media-library/three-lightbulbs-glowing-with-the-middle-one-appearing-to-wear-a-black-mask-with-a-menacing-face.jpg?id=67857147&amp;width=2000&amp;height=1500&amp;coordinates=0%2C112%2C0%2C113\" /><br /><br /><p><span><span>It\u2019s</span> disheartening how much power gets generated and then promptly lost as it travels through grid networks. </span><span>Th</span><span>is</span> <span>leaking </span><span>of electricity </span><span>happens </span><span>when</span> it <span>vanishes as heat</span> as w<span>ell as </span><span>whe</span><span>n</span> <span>it</span> <span>is</span> pilfered by <span>thieves and nonpaying customers. </span> </p><p><span><span>More than</span> half of </span><span>the</span> countries <span>that</span> <span>track these metrics </span><a href=\"https://data.worldbank.org/indicator/EG.ELC.LOSS.ZS?end=2024&amp;start=1960&amp;view=map&amp;year=20230\" target=\"_blank\"><span><span>lost at least 10 percent of the</span><span>ir</span> electricity</span></a><span> in 2023, according to the World Bank. Losses topped 20 percent for 24 of those nations. Two countries lost more than half of what they </span><span>generated</span><span>. </span> </p><p><span><span>With numbers this high, c</span><span>utting down on</span> losses</span> makes sense<span>. </span><span>Electricity demand is rising beyond what many grid </span><span>operators </span><span>can supply</span><span>;</span> <span>reducing waste would help meet some of that demand</span> without <span>having to </span><span>build new power plants</span><span>. Plus, </span><span>when </span><span>the power comes from fossil fuels</span><span>,</span> <span>any</span> loss <span>means emitting </span><span>even more </span><span>greenhouse gases into the atmosphere. And </span><span>electric losses </span><span>hit </span><span>the bottom lines of </span><span>power providers, </span><span>which</span> <span>ultimately pass</span> th<span>ose</span> costs on to everyone else.  </p><p><span><span>The trouble is, reducing </span><span>electricity </span><span>losses is </span><span>a </span><span>hard and </span><span>expensive</span> process that takes a long time</span><span>. </span><span>Typically, the less </span><span>maintained</span> the grid infrastructure, the more electricity <span>that\u2019s</span> lost. And the more <span>fragile </span><span>the region\u2019s law enforcement and government, the more </span><span>prevalent </span><span>the power theft. Natural disasters and war make things worse.</span> </p><h2>Delhi\u2019s Power Grid Comeback</h2><p><span><span>Fixing a </span><span>power </span><span>grid </span><span>requires a systemic approach across many sectors</span><span>. </span><span>There\u2019s</span> no one technology that will solve the problem. </span><span>A</span><span>t the outset, </span><span>the obstacles to success may </span><span>feel </span><span>insurmountable</span><span>. Equipment across entire </span><span>grid </span><span>networks must be updated. Multiple arms of government </span><span>must</span> <span>agree to reforms and </span><span>coordinate to ensure power providers are set up to succeed. Regulations must be written</span> or revised<span>,</span> <span>i</span><span>nvestments made</span><span>,</span> <span>c</span><span>ultures changed.</span></p><p><span><span>T</span><span>he city of Delhi </span><span>did all those things. Over </span><span>the </span><span>p</span><span>ast </span><span>2</span><span>5 </span><span>year</span><span>s</span><span>, it </span><span>cut</span> its electricity losses from </span><span>about </span><span>50 to 5 percent</span><span>.</span> How the city pulled off that impressive feat is the focus of <span>\u201c<a href=\"https://spectrum.ieee.org/delhi-electricity-loss\" target=\"_blank\">The Epic Comeback of Delhi\u2019s Power Grid</a>\u201d</span><span> by</span> <a href=\"https://www.linkedin.com/in/minishajithomas/\" target=\"_blank\"><span><span>Mini</span> Shaji</span> Thomas</a><span><span>, an electrical engineer at</span> the university</span> Jamia Millia Islamia who has lived in Delhi since the 1990s<span>. She gives us a </span><span>view</span> from the inside<span>\u2014</span><span>as a resident and a </span><a href=\"https://spectrum.ieee.org/empowering-women-power-industry\" target=\"_self\"><span><span>power systems expert</span></span></a><span>. </span> </p><p><span><span>Delhi</span> i</span><span>s a shining example, but </span><span>some </span><span>other regions have significantly lowered electricity losses over the last quarter century </span><span>too</span><span>. The country of </span><a href=\"https://data.worldbank.org/indicator/EG.ELC.LOSS.ZS?end=2023&amp;locations=GE&amp;start=1990&amp;view=chart&amp;year=20230\" target=\"_blank\"><span><span>Georgia</span></span></a> <span>went from losses</span> of over 16 percent in 2002 to <span>about </span><span>8</span> percent in 2023. In <a href=\"https://data.worldbank.org/indicator/EG.ELC.LOSS.ZS?end=2023&amp;locations=SG&amp;start=1990&amp;view=chart&amp;year=20230\" target=\"_blank\"><span><span>Singapore</span></span></a><span><span>, losses dropped from 6.6 percent to </span><span>a nearly</span> nonexistent 0.2 percent over the same </span><span>time period</span><span>.</span> </p><h2>Global Electricity Theft Crisis</h2><p><span><span>But there are many </span><span>parts of the world </span><span>where </span><span>electricity </span><span>losses </span><span>remain</span> a problem or have gotten worse. In </span><a href=\"https://data.worldbank.org/indicator/EG.ELC.LOSS.ZS?end=2023&amp;locations=JM&amp;start=1990&amp;view=chart&amp;year=20230\" target=\"_blank\"><span><span>Jamaica</span></span></a><span><span>, where power theft is rampant, losses have hovered between 21 and 28 percent </span><span>for</span> years. </span><a href=\"https://data.worldbank.org/indicator/EG.ELC.LOSS.ZS?end=2023&amp;locations=AR&amp;start=1990&amp;view=chart&amp;year=20230\" target=\"_blank\"><span><span>Argentina\u2019s losses</span></span></a> <span>nearly doubled between 2015 and 2023, going from an all-time low of about 12 percent to an all-time high of nearly 24 percent.</span> The main problem: <span>T</span><span>ransmission and distribution companies lacked the capital to </span><span>maintain</span> and upgrade their networks, which left equipment <span>operating</span> under stress. <span>A</span> delay in the installation of smart meters <span>has </span><span>allow</span><span>ed thieves to </span><span>more easily </span><span>siphon </span><span>power </span><span>and </span><span>tamper</span> with <span>meter</span><span>s</span><span>. </span> </p><p><span><span>Thomas says she hopes her account of Delhi</span><span>\u2019s grid comeback </span><span>will </span><span>serve as a blueprint for </span><span>other</span><span>s. </span><span>It\u2019s</span> possible to replicate the sweeping changes Delhi made, she says. But it \u201crequires a concerted effort from all stakeholders, customers, the utility, the government</span><span>,</span> and their employees.\u201d </p>"
+        "id": "988a2853ea6af6d0",
+        "title": "The Download: testing six tech promises and biotech\u2019s blind spots",
+        "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 23 Oct 2026 12:10:00 +0000",
+        "published_dt": "2026-10-23T12:10:00+00:00",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet\u2019s yowls and yips? Absolutely. Scrubbing&#8230;"
+      },
+      {
+        "id": "0048ae1ed961d36e",
+        "title": "In the biotech world, you can\u2019t see everything",
+        "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+        "source": "MIT Technology Review",
+        "published": "Fri, 23 Oct 2026 09:00:00 +0000",
+        "published_dt": "2026-10-23T09:00:00+00:00",
+        "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I\u2019d avoided spoilers (and won\u2019t be giving anything away here, either!). I was wondering what new information this film could reveal, given&#8230;"
       },
       {
         "id": "4a11d810e17e13fc",
