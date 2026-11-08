@@ -1,33 +1,15 @@
 {
-  "generated_at": "2026-11-07T17:40:00.192955+00:00",
+  "generated_at": "2026-11-08T17:49:40.971868+00:00",
   "categories": {
     "Biotech": [
       {
-        "id": "d10eea7dfb98c8fb",
-        "title": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
-        "url": "https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss",
+        "id": "7b293957ff76e8ee",
+        "title": "STAT+: Why the latest heart drug failures should make us all more skeptical of AI hype",
+        "url": "https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss",
         "source": "STAT",
-        "published": "Sat, 07 Nov 2026 16:57:13 +0000",
-        "published_dt": "2026-11-07T16:57:13+00:00",
-        "summary": "The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited."
-      },
-      {
-        "id": "347bd3f7ba2623fd",
-        "title": "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
-        "url": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 07 Nov 2026 14:50:00 +0000",
-        "published_dt": "2026-11-07T14:50:00+00:00",
-        "summary": "Medical mystery at the AHA conference: A Novartis drug lowered a risk marker for cardiovascular disease but did not lower chance of heart attack or stroke."
-      },
-      {
-        "id": "091cc5b6439c9898",
-        "title": "STAT+: Despite Novo drug\u2019s failure, cardiologists say they will still pursue anti-inflammatories",
-        "url": "https://www.statnews.com/2026/11/07/aha-2026-conference-novo-nordisk-zeus-trial-ziltivekimab-results/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 07 Nov 2026 14:35:00 +0000",
-        "published_dt": "2026-11-07T14:35:00+00:00",
-        "summary": "\u201cThese results, the fact that they're negative, does not invalidate that inflammation plays a very important role in cardiovascular disease.\""
+        "published": "Sun, 08 Nov 2026 09:30:00 +0000",
+        "published_dt": "2026-11-08T09:30:00+00:00",
+        "summary": "Once again, a hot new technology that was supposed to speed up drug research has fallen flat."
       },
       {
         "id": "43143e320cc3b51f",
@@ -91,6 +73,42 @@
         "published": "Nov 5, 2026 9:53am",
         "published_dt": "2026-11-05T09:53:00+00:00",
         "summary": "MetaVia has linked its GLP-1/glucagon receptor agonist to reductions in liver fat and body weight in a phase 1 trial. Encouraged by the data, MetaVia plans to start a phase 2 trial in alcohol-associated liver disease next year."
+      },
+      {
+        "id": "8ad75995eddc60cc",
+        "title": "Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice",
+        "url": "https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sat, 07 Nov 2026 21:39:02 +0000",
+        "published_dt": "2026-11-07T21:39:02+00:00",
+        "summary": "High blood pressure is known as the silent killer. Researchers are finding new ways to fight back."
+      },
+      {
+        "id": "d10eea7dfb98c8fb",
+        "title": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
+        "url": "https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sat, 07 Nov 2026 16:57:13 +0000",
+        "published_dt": "2026-11-07T16:57:13+00:00",
+        "summary": "The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited."
+      },
+      {
+        "id": "347bd3f7ba2623fd",
+        "title": "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
+        "url": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sat, 07 Nov 2026 14:50:00 +0000",
+        "published_dt": "2026-11-07T14:50:00+00:00",
+        "summary": "Medical mystery at the AHA conference: A Novartis drug lowered a risk marker for cardiovascular disease but did not lower chance of heart attack or stroke."
+      },
+      {
+        "id": "091cc5b6439c9898",
+        "title": "STAT+: Despite Novo drug\u2019s failure, cardiologists say they will still pursue anti-inflammatories",
+        "url": "https://www.statnews.com/2026/11/07/aha-2026-conference-novo-nordisk-zeus-trial-ziltivekimab-results/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sat, 07 Nov 2026 14:35:00 +0000",
+        "published_dt": "2026-11-07T14:35:00+00:00",
+        "summary": "\u201cThese results, the fact that they're negative, does not invalidate that inflammation plays a very important role in cardiovascular disease.\""
       },
       {
         "id": "ac8ee82baf5850a9",
@@ -208,24 +226,6 @@
         "published": "Fri, 06 Nov 2026 09:30:00 +0000",
         "published_dt": "2026-11-06T09:30:00+00:00",
         "summary": "Few Americans are familiar with kratom, despite public health messaging and rising use. So what is it, and who's using it?"
-      },
-      {
-        "id": "bfd0bf87cc3c5132",
-        "title": "Opinion: STAT+: What it\u2019s like to live with cognitively unimpaired Alzheimer\u2019s disease",
-        "url": "https://www.statnews.com/2026/11/06/pre-clinical-alzheimers-disease-biomarkers-tests-mental-health/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Fri, 06 Nov 2026 09:30:00 +0000",
-        "published_dt": "2026-11-06T09:30:00+00:00",
-        "summary": "People with cognitively unimpaired Alzheimer\u2019s \u201cmay be asymptomatic, but they do have a disease experience,\u201d writes Jason Karlawish."
-      },
-      {
-        "id": "e282b736f48eb941",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-abandons-sutro-partnered-il-2-drug-routine-pipeline-prioritization\" hreflang=\"en\">Merck abandons Sutro-partnered IL-2 drug in \u2018routine pipeline prioritization\u2019</a>",
-        "url": "https://www.fiercebiotech.com/biotech/merck-abandons-sutro-partnered-il-2-drug-routine-pipeline-prioritization",
-        "source": "Fierce Biotech",
-        "published": "Nov 6, 2026 4:21am",
-        "published_dt": "2026-11-06T04:21:00+00:00",
-        "summary": "Merck &amp; Co. has called time on a Sutro Biopharma-partnered IL-2 agonist that was being tested for solid tumors."
       }
     ],
     "Engineering & Aerospace": [
