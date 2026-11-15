@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-11-14T17:51:01.077711+00:00",
+  "generated_at": "2026-11-15T18:41:19.972475+00:00",
   "categories": {
     "Biotech": [
+      {
+        "id": "fc4f75679398a2c1",
+        "title": "STAT+: FDA rejects lung cancer treatment ivonescimab from Summit Therapeutics",
+        "url": "https://www.statnews.com/2026/11/15/fda-rejects-ivonescimab-lung-cancer-treatment-summit-therapeutics/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sun, 15 Nov 2026 15:05:15 +0000",
+        "published_dt": "2026-11-15T15:05:15+00:00",
+        "summary": "The FDA has rejected ivonescimab, a treatment for a type of lung cancer developed by U.S. biotech Summit Therapeutics and the Chinese drugmaker Akeso."
+      },
       {
         "id": "fb4d4bb63e743d24",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/rezolute-gets-uplift-phase-3-win-ahead-fda-meeting\" hreflang=\"en\">Rezolute gets an uplift from phase 3 tumor hyperinsulinism win ahead of FDA meeting</a>",
@@ -28,6 +37,15 @@
         "published": "Fri, 13 Nov 2026 14:40:32 +0000",
         "published_dt": "2026-11-13T14:40:32+00:00",
         "summary": "Synchron has paused clinical trials of its second-generation brain-computer interface. Leaders say the pause is not safety related."
+      },
+      {
+        "id": "504cee03c4cefcac",
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-rejects-summit-therapeutics-pd-1-vegf-ivonescimab-nsclc\" hreflang=\"en\">FDA rejects Summit\u2019s ivonescimab, derailing US arrival of much-hyped PD-1xVEGF class</a>",
+        "url": "https://www.fiercebiotech.com/pharma/fda-rejects-summit-therapeutics-pd-1-vegf-ivonescimab-nsclc",
+        "source": "Fierce Biotech",
+        "published": "Nov 13, 2026 2:39pm",
+        "published_dt": "2026-11-13T14:39:00+00:00",
+        "summary": "The FDA has issued a complete response letter to Summit Therapeutics, derailing the immediate U.S. launch of a drug class that many industry heavyweights believe could eventually dethrone Merck &amp; Co.\u2019s Keytruda."
       },
       {
         "id": "5a21e16cf7834f7e",
@@ -100,15 +118,6 @@
         "published": "Nov 12, 2026 3:57am",
         "published_dt": "2026-11-12T03:57:00+00:00",
         "summary": "Addex Therapeutics\u2019 neuropsychiatric-focused spinout has raised $105 million in series B funds to bankroll a planned phase 2 study of its schizophrenia treatment."
-      },
-      {
-        "id": "316cb5902ae9b3e9",
-        "title": "<a href=\"https://www.fiercebiotech.com/biotech/amgen-builds-sjogrens-case-detailed-phase-3-data-ahead-novartis-showdown\" hreflang=\"en\">Amgen builds Sj\u00f6gren\u2019s case with detailed phase 3 data ahead of Novartis showdown</a>",
-        "url": "https://www.fiercebiotech.com/biotech/amgen-builds-sjogrens-case-detailed-phase-3-data-ahead-novartis-showdown",
-        "source": "Fierce Biotech",
-        "published": "Nov 11, 2026 4:47am",
-        "published_dt": "2026-11-11T04:47:00+00:00",
-        "summary": "Amgen has shared more data from a phase 3 Sj\u00f6gren\u2019s disease trial that dazzled analysts, digging into the details that could shape its showdown with Novartis."
       },
       {
         "id": "16c9f2e12ec7f2c1",
@@ -217,15 +226,6 @@
         "published": "Fri, 13 Nov 2026 13:10:00 +0000",
         "published_dt": "2026-11-13T13:10:00+00:00",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? \u2014Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries&#8230;"
-      },
-      {
-        "id": "303a007a18d1caaf",
-        "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-        "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 13 Nov 2026 10:00:00 +0000",
-        "published_dt": "2026-11-13T10:00:00+00:00",
-        "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta\u2019s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned&#8230;"
       }
     ],
     "Engineering & Aerospace": [
@@ -264,6 +264,15 @@
         "published": "Wed, 11 Nov 2026 13:00:00 +0000",
         "published_dt": "2026-11-11T13:00:00+00:00",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/horizon-microtechnologies.png?fit=1021%2C1024&amp;ssl=1\" width=\"1021\" /></figure>\n<p>(Karlsruhe, Germany, September 29th 2026) Horizon Microtechnologies is accelerating industrialisation of its metallised polymer micro-additive manufacturing platform through IP-MASS, a two-year scale-up project supported by \u20ac500,000 and reinforced by selection [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/\">Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
+      },
+      {
+        "id": "8429b7bbf1263124",
+        "title": "SpaceX achieves first Starship tower catch",
+        "url": "https://aerospaceamerica.aiaa.org/spacex-achieves-first-starship-tower-catch/",
+        "source": "Aerospace America",
+        "published": "Sat, 14 Nov 2026 23:24:56 +0000",
+        "published_dt": "2026-11-14T23:24:56+00:00",
+        "summary": "SpaceX on Saturday completed the first recovery of a Starship upper stage at its launch tower in Boca Chica, Texas, marking a significant step toward the company\u2019s goal of complete reusability. Flight 15 commenced at 4:47 p.m. Central on Friday, with the Super Heavy booster sending the upper stage \u2014 also called the ship \u2014 [...]"
       },
       {
         "id": "a5446d36c8c94bd0",
@@ -444,15 +453,6 @@
         "published": "Mon, 09 Nov 2026 14:00:00 +0000",
         "published_dt": "2026-11-09T14:00:00+00:00",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"927\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/ccia-logo-square.png?fit=929%2C927&amp;ssl=1\" width=\"929\" /></figure>\n<p>Washington \u2014 The Computer &#38; Communications Industry Association today released Connecting the World: Unlocking the Potential of Satellite Connectivity, a new report examining how satellite technology can expand internet access, [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/\">CCIA Report Highlights Satellite Connectivity\u2019s Potential to Expand Internet Access and Drive Economic Growth</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
-      },
-      {
-        "id": "177525ee75309d9e",
-        "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
-        "url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
-        "source": "SpaceNews",
-        "published": "Thu, 05 Nov 2026 21:45:00 +0000",
-        "published_dt": "2026-11-05T21:45:00+00:00",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"976\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/cesiumastro-logo-square.png?fit=1024%2C976&amp;ssl=1\" width=\"1024\" /></figure>\n<p>CesiumAstro Inc., a global leader in space and defense communications systems and satellites, today announced the closing of $730 million in Series D financing, valuing the company at more than [&#8230;]</p>\n<p>The post <a href=\"https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/\">CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>"
       }
     ],
     "Economics": [
