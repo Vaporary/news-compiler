@@ -1,16 +1,7 @@
 {
-  "generated_at": "2026-11-21T18:57:59.235798+00:00",
+  "generated_at": "2026-11-22T19:19:42.207640+00:00",
   "categories": {
     "Biotech": [
-      {
-        "id": "f7253b0290e39e3b",
-        "title": "Opinion: When should medical school start?",
-        "url": "https://www.statnews.com/2026/11/21/stat-letters-to-editor-medical-school-pediatric-emergency-care/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 21 Nov 2026 12:00:00 +0000",
-        "published_dt": "2026-11-21T12:00:00+00:00",
-        "summary": "STAT readers weigh in on shortening medical school, fixing pediatric emergency care, and more."
-      },
       {
         "id": "8987d0950a53e17f",
         "title": "STAT+: FDA rejects Capricor Therapeutics\u2019 Duchenne therapy, a decision that was a long time coming",
@@ -75,15 +66,6 @@
         "summary": "Big drugmakers tell U.S. House committee they will halt clinical trials at some hospitals in China."
       },
       {
-        "id": "05a14b0860ea6b79",
-        "title": "Opinion: How Kennedy and MAHA could help stop measles",
-        "url": "https://www.statnews.com/2026/11/21/rfk-jr-maha-measles-outbreak-elimination-status-promote-mmr-vaccine/?utm_campaign=rss",
-        "source": "STAT",
-        "published": "Sat, 21 Nov 2026 09:30:00 +0000",
-        "published_dt": "2026-11-21T09:30:00+00:00",
-        "summary": "Kennedy and MAHA say they aren\u2019t anti-vaccine. They can prove it by promoting the MMR vaccine, writes Brinda Adhikari."
-      },
-      {
         "id": "6f6f9aa46aebdca1",
         "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-teva-loses-rd-head\" hreflang=\"en\">Chutes &amp; Ladders\u2014Teva loses R&amp;D head as innovation pivot advances</a>",
         "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-teva-loses-rd-head",
@@ -129,15 +111,6 @@
         "summary": "MiniMed announced has picked up FDA clearance of its tubeless insulin pump, the MiniMed Fit."
       },
       {
-        "id": "774ad6293f840644",
-        "title": "<a href=\"https://www.fiercebiotech.com/medtech/cognito-phase-3-flops-light-and-sound-alzheimers-trial-sees-signal-hope\" hreflang=\"en\">Cognito phase 3 flops in light-and-sound Alzheimer's trial, but sees \u2018signal\u2019 for HOPE</a>",
-        "url": "https://www.fiercebiotech.com/medtech/cognito-phase-3-flops-light-and-sound-alzheimers-trial-sees-signal-hope",
-        "source": "Fierce Biotech",
-        "published": "Nov 18, 2026 3:24am",
-        "published_dt": "2026-11-18T03:24:00+00:00",
-        "summary": "Cognito Therapeutics said its phase 3 HOPE study of Spectris AD, an investigational, non-invasive, at-home Alzheimer's therapy that uses light and sound stimulation to engage brain activity, failed to meet its primary endpoint."
-      },
-      {
         "id": "00e0fbf604db03b3",
         "title": "<a href=\"https://www.fiercebiotech.com/cro/clene-nanomedicine-uses-cro-veristats-biostatistics-platform-fda-submission\" hreflang=\"en\">Clene Nanomedicine uses CRO Veristat\u2019s biostatistics platform for FDA submission</a>",
         "url": "https://www.fiercebiotech.com/cro/clene-nanomedicine-uses-cro-veristats-biostatistics-platform-fda-submission",
@@ -145,6 +118,33 @@
         "published": "Nov 13, 2026 2:11pm",
         "published_dt": "2026-11-13T14:11:00+00:00",
         "summary": "Clinical research organization Veristat has partnered with Clene Nanomedicine to accelerate data outputs for its FDA application for its ALS drug."
+      },
+      {
+        "id": "ed9c9dd7fcace114",
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/danaher-teams-microsoft-boost-experimental-execution\" hreflang=\"en\">Danaher teams up with Microsoft to boost \u2018experimental execution\u2019</a>",
+        "url": "https://www.fiercebiotech.com/medtech/danaher-teams-microsoft-boost-experimental-execution",
+        "source": "Fierce Biotech",
+        "published": "Nov 22, 2026 2:45am",
+        "published_dt": "2026-11-22T02:45:00+00:00",
+        "summary": "Danaher Corporation and Microsoft are teaming for a strategic partnership to develop smart scientific instruments and an interoperable agentic ecosystem."
+      },
+      {
+        "id": "f7253b0290e39e3b",
+        "title": "Opinion: When should medical school start?",
+        "url": "https://www.statnews.com/2026/11/21/stat-letters-to-editor-medical-school-pediatric-emergency-care/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sat, 21 Nov 2026 12:00:00 +0000",
+        "published_dt": "2026-11-21T12:00:00+00:00",
+        "summary": "STAT readers weigh in on shortening medical school, fixing pediatric emergency care, and more."
+      },
+      {
+        "id": "05a14b0860ea6b79",
+        "title": "Opinion: How Kennedy and MAHA could help stop measles",
+        "url": "https://www.statnews.com/2026/11/21/rfk-jr-maha-measles-outbreak-elimination-status-promote-mmr-vaccine/?utm_campaign=rss",
+        "source": "STAT",
+        "published": "Sat, 21 Nov 2026 09:30:00 +0000",
+        "published_dt": "2026-11-21T09:30:00+00:00",
+        "summary": "Kennedy and MAHA say they aren\u2019t anti-vaccine. They can prove it by promoting the MMR vaccine, writes Brinda Adhikari."
       },
       {
         "id": "20b6407f9204f459",
@@ -565,6 +565,15 @@
         "summary": "Why does so little private capital flow to poor countries? We study how venture capital and private equity investors evaluate firms across countries, using an experimental survey of 1,485 investors in 108 countries who are incentivized to evaluate hypothetical investment opportunities with randomized firm characteristics, locations, and investment terms. Investors respond similarly to firm fundamentals, but otherwise comparable firms attract substantially less interest in poorer countries. This poor-country penalty is much smaller among investors specialized in emerging markets. Detailed survey data show that emerging market and developed market investors have largely similar investment practices, but differ in how they obtain country information, assess and manage country risks, and exit investments. Investors reporting active country-risk management apply smaller country penalties, even after accounting for market focus. Our findings suggest that investors' specialization and investment practices shape how country risk affects investment: the same firm can face drastically different financing prospects depending on where it is located and which investors evaluate it."
       },
       {
+        "id": "be711d699c0bad8b",
+        "title": "Saudi Arabia\u2019s $1trn wealth pot suffers an identity crisis",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/22/saudi-arabias-1trn-wealth-pot-suffers-an-identity-crisis",
+        "source": "Finance & economics",
+        "published": "Sun, 22 Nov 2026 11:13:42 +0000",
+        "published_dt": "2026-11-22T11:13:42+00:00",
+        "summary": "The Public Investment Fund is distracted, and not just by war"
+      },
+      {
         "id": "9d8cd4a2be3d579e",
         "title": "AI is swallowing maths. Is economics next?",
         "url": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
@@ -671,15 +680,6 @@
         "published": "Thu, 22 Oct 2026 15:51:39 +0000",
         "published_dt": "2026-10-22T15:51:39+00:00",
         "summary": "The crypto tycoon speaks with The Economist from prison in California"
-      },
-      {
-        "id": "4f2da63bfae936f6",
-        "title": "AI compute is the new oil\u2014and needs a new market",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
-        "source": "Finance & economics",
-        "published": "Thu, 22 Oct 2026 09:07:29 +0000",
-        "published_dt": "2026-10-22T09:07:29+00:00",
-        "summary": "Financial firms race to create instruments to trade processing power"
       }
     ],
     "Cross-Disciplinary": [
